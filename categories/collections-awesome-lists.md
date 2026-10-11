@@ -1,12 +1,12 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md) · 67 projects
+[← All categories](../README.md) · 68 projects
 
 - [AI](#ai) (1)
 - [APIs & Apps](#apis--apps) (21)
 - [Games](#games) (21)
 - [General RE](#general-re) (14)
-- [Hardware & IoT](#hardware--iot) (9)
+- [Hardware & IoT](#hardware--iot) (10)
 - [Other](#other) (1)
 
 ## AI
@@ -99,6 +99,7 @@
 | awesome-iot-hacks | Collection of IoT device hacks and teardown write-ups | 2,432 | <https://github.com/nebgnahz/awesome-iot-hacks> |
 | Awesome Embedded Systems Vulnerability Research | Resources for vulnerability research on embedded devices | 519 | <https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research> |
 | Awesome-Hardware-and-IoT-Hacking | Curated hardware, firmware and IoT hacking resources and tools | 408 | <https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking> |
+| awesome-even-realities-g1 | Collection of projects for Even Realities G1 AR glasses |  | <https://github.com/galfaroth/awesome-even-realities-g1> |
 
 ## Other
 

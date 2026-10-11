@@ -1,13 +1,13 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md) · 190 projects
+[← All categories](../README.md) · 191 projects
 
 - [Bridges & Multi-protocol](#bridges--multi-protocol) (40)
 - [Discord & Slack](#discord--slack) (21)
 - [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (17)
 - [Other](#other) (5)
 - [Other Messaging](#other-messaging) (25)
-- [Signal & Telegram](#signal--telegram) (14)
+- [Signal & Telegram](#signal--telegram) (15)
 - [Social Media Private APIs](#social-media-private-apis) (7)
 - [TikTok & Snapchat](#tiktok--snapchat) (17)
 - [Twitter/X](#twitterx) (14)
@@ -165,6 +165,7 @@
 | scli | a simple terminal user interface for signal messenger (using signal-cli) | 538 | <https://github.com/isamert/scli> |
 | presage | A high-level Rust library to help write clients for the Signal Messenger. | 270 | <https://github.com/whisperfish/presage> |
 | signal-backup-decode | Decodes Signal Android backup files | 232 | <https://github.com/pajowu/signal-backup-decode> |
+| telegram-desktop-decrypt | Decrypts Telegram Desktop tdata local storage files |  | <https://github.com/atilaromero/telegram-desktop-decrypt> |
 
 ## Social Media Private APIs
 

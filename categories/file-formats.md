@@ -1,20 +1,21 @@
 # File Formats
 
-[← All categories](../README.md) · 200 projects
+[← All categories](../README.md) · 316 projects
 
-- [Audio & Music Production](#audio--music-production) (8)
-- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (10)
-- [Databases](#databases) (8)
-- [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (9)
-- [E-books](#e-books) (4)
-- [EDA & PCB](#eda--pcb) (5)
-- [Filesystems & Archives](#filesystems--archives) (30)
-- [Format Description Tools](#format-description-tools) (7)
-- [Graphics & CAD](#graphics--cad) (27)
-- [Maps & GIS](#maps--gis) (4)
-- [Office & Documents](#office--documents) (39)
+- [Audio & Music Production](#audio--music-production) (33)
+- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (13)
+- [Databases](#databases) (21)
+- [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (19)
+- [E-books](#e-books) (5)
+- [EDA & PCB](#eda--pcb) (13)
+- [Filesystems & Archives](#filesystems--archives) (36)
+- [Format Description Tools](#format-description-tools) (9)
+- [Graphics & CAD](#graphics--cad) (38)
+- [Maps & GIS](#maps--gis) (14)
+- [Media Codecs & Containers](#media-codecs--containers) (1)
+- [Office & Documents](#office--documents) (49)
 - [Other](#other) (1)
-- [Windows & Forensic Artifacts](#windows--forensic-artifacts) (48)
+- [Windows & Forensic Artifacts](#windows--forensic-artifacts) (64)
 
 ## Audio & Music Production
 
@@ -28,6 +29,31 @@
 | rekordcrate | Rust library for parsing Pioneer rekordbox device exports | 212 | <https://github.com/Holzhaus/rekordcrate> |
 | ptformat | Parser for Avid Pro Tools session files, used by Ardour for import | 94 | <https://github.com/zamaudio/ptformat> |
 | serato-tags | Documentation and parsers for Serato DJ Pro GEOB metadata tags | 93 | <https://github.com/Holzhaus/serato-tags> |
+| AKAI-CD-ISO-MAKER | Builds, reads and exports Akai S1000/S2000/S3000 sampler CD images |  | <https://github.com/yuyoi/AKAI-CD-ISO-MAKER> |
+| biab-library | Python library for opening Band-in-a-Box song files |  | <https://github.com/andreamust/biab-library> |
+| cpr2rpp | Converts Cubase .cpr projects to REAPER .RPP via a reverse-engineered project format |  | <https://github.com/daniel-lynch/cpr2rpp> |
+| Data::BiaB | Perl module to analyse Band-in-a-Box data files |  | <https://github.com/sciurius/perl-Data-BiaB> |
+| Denigma | Converter that extracts and translates Finale .musx files to open formats |  | <https://github.com/openmusx/denigma> |
+| EpsLinNeo | File utility for Ensoniq EPS/ASR sampler disks and images |  | <https://github.com/handsthatstrike/EpsLinNeo> |
+| flp-viewer | FL Studio FLP file format parser and viewer |  | <https://github.com/RyanScottLewis/flp-viewer> |
+| gp-parser | Guitar Pro file parser |  | <https://github.com/dwursteisen/gp-parser> |
+| guitarpro (Rust) | Rust library to parse and write Guitar Pro files |  | <https://github.com/slundi/guitarpro> |
+| GuitarPro-to-Midi | Converts Guitar Pro 3-7 files to MIDI, simulating bends and effects |  | <https://github.com/alexsteb/GuitarPro-to-Midi> |
+| libflp | C library for parsing FL Studio .flp project files |  | <https://github.com/codecat/libflp> |
+| logic2ableton | Converts Logic Pro .logicx projects to Ableton Live .als sets |  | <https://github.com/Evilander/logic2ableton> |
+| logicx-analyzer | Reverse-engineering toolkit for Logic Pro .logicx project bundles |  | <https://github.com/geoffmyers/logicx-analyzer> |
+| miragetools | Tools and reverse-engineering documentation for the Ensoniq Mirage sampler |  | <https://github.com/gordonjcp/miragetools> |
+| MPC Maid | Editor for Akai MPC 1000/2500/500 program files and samples |  | <https://github.com/cyriux/mpcmaid> |
+| musx2mxl | Converts Finale .musx scores to MusicXML |  | <https://github.com/joris-vaneyghen/musx2mxl> |
+| musxdom | C++17 object model for the EnigmaXML data inside Finale .musx files |  | <https://github.com/openmusx/musxdom> |
+| nkxtract | Extracts Native Instruments Kontakt NKX monolith sample containers |  | <https://github.com/maxton/nkxtract> |
+| parse-gp5 | JavaScript parser for the Guitar Pro 5 file format |  | <https://github.com/juliangruber/parse-gp5> |
+| Power Tab Editor | Guitar tablature editor that imports Power Tab and Guitar Pro files |  | <https://github.com/powertab/powertabeditor> |
+| python-serato-crates | Python library for reading and writing Serato DJ crates |  | <https://github.com/stephanlensky/python-serato-crates> |
+| Ruxguitar | Guitar Pro tablature player written in Rust |  | <https://github.com/agourlay/ruxguitar> |
+| serato-crater | Reads Serato .crate files and returns columns and songs |  | <https://github.com/Rickgg/serato-crater> |
+| seratojs | Node.js library to manage Serato crates programmatically |  | <https://github.com/bcollazo/seratojs> |
+| snd2wav | Converts classic Mac OS 'snd ' resources and System 7 sound files to WAV |  | <https://github.com/uliwitness/snd2wav> |
 
 ## Camera RAW & Video Metadata
 
@@ -43,6 +69,9 @@
 | dji-log-parser | Rust library that parses records from DJI flight log .txt files | 123 | <https://github.com/lvauvillier/dji-log-parser> |
 | DJI_SRT_Parser | Parses telemetry from DJI drone SRT metadata files | 55 | <https://github.com/JuanIrache/DJI_SRT_Parser> |
 | DatCon | Converts DJI drone .DAT flight logs to CSV and KML | 32 | <https://github.com/BudWalkerJava/DatCon> |
+| insvtool | Dumps metadata from Insta360 .insv video files |  | <https://github.com/ke4ukz/insvtool> |
+| libcraw2 | Minimal library that decodes Canon CR2 RAW files, with format notes |  | <https://github.com/lclevy/libcraw2> |
+| x3f tools | Tools for decoding Sigma/Foveon X3F RAW files |  | <https://github.com/Kalpanika/x3f> |
 
 ## Databases
 
@@ -56,6 +85,19 @@
 | fmptools | Converts FileMaker Pro databases (.fp5/.fp7/.fmp12) to open formats | 103 | <https://github.com/evanmiller/fmptools> |
 | Parso | Lightweight Java library for reading SAS7BDAT datasets | 80 | <https://github.com/epam/parso> |
 | go-ese | Go parser for the Microsoft Extensible Storage Engine (ESE/JET Blue) database | 32 | <https://github.com/Velocidex/go-ese> |
+| access_parser | Python parser for Microsoft Access database files |  | <https://github.com/claroty/access_parser> |
+| dbf (Python) | Pure Python dBase/FoxPro DBF reader and writer |  | <https://github.com/ethanfurman/dbf> |
+| dbf (Ruby) | Ruby library for reading dBase, xBase, Clipper and FoxPro DBF files |  | <https://github.com/infused/dbf> |
+| dissect.esedb | Python parser for Microsoft ESE (Extensible Storage Engine) databases |  | <https://github.com/fox-it/dissect.esedb> |
+| mdb-reader | JavaScript library to read Microsoft Access databases |  | <https://github.com/andipaetzold/mdb-reader> |
+| OpenQBW | Pure Rust reader for QuickBooks QBW company files, with Python bindings |  | <https://github.com/Sigilweaver/OpenQBW> |
+| Paradox-Reader | Native .NET reader for Paradox database files |  | <https://github.com/kymuweb/Paradox-Reader> |
+| pxtools | Converts Paradox databases to MySQL, PostgreSQL, CSV or XML |  | <https://github.com/ustramooner/pxtools> |
+| PxView | GUI application to open and edit Paradox database files |  | <https://github.com/CoolmanCZ/pxview> |
+| pypxlib | Python bindings for pxlib to read and write Paradox databases |  | <https://github.com/mherrmann/pypxlib> |
+| sas7bdat | The original reverse engineering of the SAS sas7bdat file format, with an R reader |  | <https://github.com/BioStatMatt/sas7bdat> |
+| tps-parse | Parses Clarion TopSpeed (.tps) database files and converts them to CSV |  | <https://github.com/ctrl-alt-dev/tps-parse> |
+| unraveling_sql_server_bak | Research and tooling for reading SQL Server .bak backup files without SQL Server |  | <https://github.com/klandermans/unraveling_sql_server_bak> |
 
 ## Design Tools (PSD, Sketch, Figma, Affinity)
 
@@ -70,6 +112,16 @@
 | aftereffects-aep-parser | Unofficial Go parser for Adobe After Effects .aep project files | 129 | <https://github.com/boltframe/aftereffects-aep-parser> |
 | pytoshop | Python library for reading and writing Photoshop PSD and PSB files | 128 | <https://github.com/mdboom/pytoshop> |
 | clip_to_psd | Converts Clip Studio Paint .clip files to PSD by reading the proprietary .clip container | 83 | <https://github.com/dobrokot/clip_to_psd> |
+| abrupng | Dumps brush tip images from Photoshop ABR brush files |  | <https://github.com/scurest/abrupng> |
+| acextract | Lists and extracts content from Apple Assets.car compiled asset catalogs |  | <https://github.com/bartoszj/acextract> |
+| AFDesignLoad | Loads and parses Affinity Designer files |  | <https://github.com/NickBeeuwsaert/AFDesignLoad> |
+| afread | Library for reading Affinity Designer, Photo and Publisher (.afdesign/.afphoto/.afpub) files |  | <https://github.com/VMDevCpp/afread> |
+| procreate-rs | Rust library for parsing Procreate files |  | <https://github.com/m1guelpf/procreate-rs> |
+| ProcreateViewer | macOS QuickLook plugin that renders full previews of .procreate files |  | <https://github.com/jaromvogel/ProcreateViewer> |
+| pypdn | Python package to read Paint.NET (.pdn) layered images |  | <https://github.com/addisonElliott/pypdn> |
+| Silicate | Pure Rust GPU compositor that opens and renders Procreate files |  | <https://github.com/axaril/silicate> |
+| XdParser | Adobe XD file parser for C# |  | <https://github.com/kyubuns/XdParser> |
+| xdtools | Unofficial Python API for reading and writing Adobe XD files |  | <https://github.com/umar-ahmed/xdtools> |
 
 ## E-books
 
@@ -78,6 +130,7 @@
 | calibre | E-book manager with readers for many proprietary formats (MOBI, LIT, LRF, PDB, KFX via plugin) | 26,121 | <https://github.com/kovidgoyal/calibre> |
 | libmobi | C library for handling Kindle MOBI/AZW3/KF8 e-book formats | 483 | <https://github.com/bfabiszewski/libmobi> |
 | mobi | Python library to unpack Kindle (kindlegen) e-books | 78 | <https://github.com/iscc/mobi> |
+| kepubify | Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion |  | <https://github.com/pgaskin/kepubify> |
 | libe-book | Document Liberation library for legacy e-book formats (eReader, Plucker, TealDoc, LRF and more) |  | <https://sourceforge.net/projects/libebook> |
 
 ## EDA & PCB
@@ -89,6 +142,14 @@
 | altium.js | Browser-based parser and renderer for Altium SchDoc schematics | 143 | <https://github.com/gsuberland/altium_js> |
 | OpenOrCadParser *(archived)* | FOSS parser for Cadence OrCAD Capture binary design files | 69 | <https://github.com/Werni2A/OpenOrCadParser> |
 | Altium-Schematic-Parser | Converts Altium .SchDoc files to JSON | 52 | <https://github.com/a3ng7n/Altium-Schematic-Parser> |
+| altium-cli | Rust library and CLI that reads and writes Altium SchDoc, PcbDoc, SchLib, PcbLib and IntLib |  | <https://github.com/akiselev/altium-cli> |
+| BoardRipper | Web-based viewer for 14 boardview formats (BVR, BRD, BDV, FZ, GenCAD and more) |  | <https://github.com/AlexeyInwerp/BoardRipper> |
+| bv2bvr | Converts BV boardview files to the BVR format readable by OpenBoardView |  | <https://github.com/inflex/bv2bvr> |
+| easyeda2kicad | Converts EasyEDA schematics and PCB designs to KiCad |  | <https://github.com/wokwi/easyeda2kicad> |
+| easyeda2kicad.py | Converts EasyEDA/LCSC component symbols, footprints and 3D models to KiCad |  | <https://github.com/uPesy/easyeda2kicad.py> |
+| ExtractAltiumSTEPModels | Extracts embedded 3D STEP models from Altium PCB files |  | <https://github.com/braincodec/ExtractAltiumSTEPModels> |
+| PyAltium | Python package to read Altium design files |  | <https://github.com/pluots/PyAltium> |
+| pyAltiumLib | Reads Altium schematic and PCB library files in Python |  | <https://github.com/ChrisHoyer/pyAltiumLib> |
 
 ## Filesystems & Archives
 
@@ -124,6 +185,12 @@
 | bom | Apple iOS / macOS Assets.car decoder, write in golang | 18 | <https://github.com/iineva/bom> |
 | libitlp *(archived)* | iTunes "itl" database parsing | 17 | <https://github.com/jeanthom/libitlp> |
 | libphdi | Library for the Parallels Hard Disk image format | 6 | <https://github.com/libyal/libphdi> |
+| dissect.apfs | Python parser for the Apple File System (APFS) |  | <https://github.com/fox-it/dissect.apfs> |
+| dissect.fve | Parsers for BitLocker and LUKS full-volume encryption, for use with known keys |  | <https://github.com/fox-it/dissect.fve> |
+| dissect.hypervisor | Parsers for VMware, Hyper-V and other hypervisor disk, backup and config formats |  | <https://github.com/fox-it/dissect.hypervisor> |
+| dissect.ntfs | Python parser for the NTFS file system |  | <https://github.com/fox-it/dissect.ntfs> |
+| dissect.vmfs | Python parser for VMware's VMFS file system |  | <https://github.com/fox-it/dissect.vmfs> |
+| kobackupdec | Decrypts Huawei HiSuite/KoBackup backups with the user's password |  | <https://github.com/RealityNet/kobackupdec> |
 
 ## Format Description Tools
 
@@ -136,6 +203,8 @@
 | serum-preset-packager | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 67 | <https://github.com/KennethWussmann/serum-preset-packager> |
 | murmelbahn | Reverse-engineered Gravitrax marble run course file format | 8 | <https://github.com/lfrancke/murmelbahn> |
 | remus-rlf-reader | Reverse-engineered RLF log format of REMUS underwater drones | 1 | <https://github.com/isaacgerg/remus-rlf-reader> |
+| libyal assorted | Format documentation and scripts from the libyal project |  | <https://github.com/libyal/assorted> |
+| shockwave-reversing | Notes and resources for reverse engineering Shockwave/Director files |  | <https://github.com/JrMasterModelBuilder/shockwave-reversing> |
 
 ## Graphics & CAD
 
@@ -166,8 +235,19 @@
 | arw6_decode | Reverse-engineered Sony ARW6 (LLVC v3) RAW image decoder | 4 | <https://github.com/abbradar/arw6_decode> |
 | worgen-rs | worgen-rs | 4 | <https://github.com/nocthir/worgen-rs> |
 | wow_chunky | A pure Rust parsing library for World of Warcraft's chunked files (and some additional binary files), targeting versi... | 1 | <https://github.com/bigglesss/wow_chunky> |
+| continuity | Tools for inspecting and working with Macromedia Director movies |  | <https://github.com/scummvm-director/continuity> |
+| drxtract | Extracts data from Macromedia Director 5 DRI and DRX files |  | <https://github.com/System25/drxtract> |
+| Embroidermodder | Free machine embroidery editor supporting many proprietary embroidery formats |  | <https://github.com/Embroidermodder/Embroidermodder> |
+| jDwgParser | Java reader for the AutoCAD DWG file format |  | <https://github.com/ebandal/jDwgParser> |
+| lib3ds | Library for reading and writing Autodesk 3D Studio .3DS model files |  | <https://github.com/vkocheryzhkin/lib3ds> |
+| libembroidery | C library for reading and writing machine embroidery design files |  | <https://github.com/Embroidermodder/libembroidery> |
 | libwpg | Library to read WordPerfect Graphics (.wpg) images |  | <https://sourceforge.net/projects/libwpg> |
 | libzmf | Document Liberation library for Zoner Callisto/Draw (.zmf) vector drawings |  | <https://git.libreoffice.org/libzmf> |
+| OpenSKP | Open-source SketchUp .skp reader/writer and converter that does not need the Trimble SDK |  | <https://github.com/iamahsanmehmood/openskp> |
+| pyembroidery | Reads and writes many proprietary machine embroidery formats (PES, DST, JEF, EXP and more) |  | <https://github.com/EmbroidePy/pyembroidery> |
+| ShockwaveParser | Python class to parse and extract data from Shockwave/Director movies |  | <https://github.com/datagutten/ShockwaveParser> |
+| sK1 | Vector graphics editor with reverse-engineered CorelDRAW CDR and other proprietary importers |  | <https://github.com/sk1-project/sk1-wx> |
+| skp2tri | Parses SketchUp .skp files into a simple triangle format |  | <https://github.com/julfla/skp2tri> |
 
 ## Maps & GIS
 
@@ -177,6 +257,22 @@
 | GPSBabel | Converts between many proprietary GPS formats (Garmin, Magellan, OziExplorer, TomTom) | 552 | <https://github.com/GPSBabel/gpsbabel> |
 | SLYR | Converts Esri LYR, MXD, style and other ArcGIS files to QGIS | 250 | <https://github.com/north-road/slyr> |
 | dump_gdbtable | Script and reverse-engineered spec for Esri File Geodatabase .gdbtable files | 153 | <https://github.com/rouault/dump_gdbtable> |
+| Androzic | Android navigation app that reads OziExplorer ozf2/ozfx3 raster maps |  | <https://github.com/andreynovikov/Androzic> |
+| GPXSee | GPS log and map viewer that reads Garmin IMG, OziExplorer, TrekBuddy and many other formats |  | <https://github.com/tumic0/GPXSee> |
+| HumminbirdSonarFileViewer | Java viewer for Humminbird side-scan sonar recordings |  | <https://github.com/petervalencic/HumminbirdSonarFileViewer> |
+| imageio-ozf | Java ImageIO plugin for OziExplorer ozf2/ozf3 raster map files |  | <https://github.com/nikolaybespalov/imageio-ozf> |
+| jnxutil | Linux utility for manipulating Garmin JNX raster map files |  | <https://github.com/apr2504/jnxutil> |
+| kolibrie | Dissector for Humminbird sonar .SON recordings |  | <https://github.com/yschaeff/kolibrie> |
+| mkgmap | Compiler that writes Garmin .img maps from OpenStreetMap data (reverse-engineered format) |  | <https://github.com/openstreetmap/mkgmap> |
+| python-sllib | Python library for reading Lowrance SL2, SL3 and SLG sonar logs |  | <https://github.com/opensounder/python-sllib> |
+| sl2decode | Decodes Lowrance SL2 sonar log files with Ruby |  | <https://github.com/Chris78/sl2decode> |
+| sl2json | Standalone converter from Lowrance SL2 sonar logs to ndjson |  | <https://github.com/hrbrmstr/sl2json> |
+
+## Media Codecs & Containers
+
+| Name | What it is | ★ | Repo |
+|---|---|--:|---|
+| FFmpeg | Multimedia framework with many reverse-engineered proprietary codecs and containers |  | <https://github.com/FFmpeg/FFmpeg> |
 
 ## Office & Documents
 
@@ -216,11 +312,21 @@
 | OpenJTD rjtd | Reverse-engineered Ichitaro JTD/JTT word processor format; Rust reader/renderer | 7 | <https://github.com/OpenJTD/rjtd> |
 | parser-for-goodnotes | Parser for the closed GoodNotes document format, reverse-engineered with LLMs | 7 | <https://github.com/Kaih1825/parser-for-goodnotes> |
 | libabw | Document Liberation library that reads AbiWord documents (GitHub mirror) | 5 | <https://github.com/LibreOffice/libabw> |
+| Antiword | Free reader for Microsoft Word binary documents |  | <https://github.com/grobian/antiword> |
+| catdoc | Command-line converter of legacy Microsoft Word documents to text |  | <https://github.com/petewarden/catdoc> |
+| dissect.ole | Python parser for the OLE compound file format |  | <https://github.com/fox-it/dissect.ole> |
+| helpdeco | Decompiles Windows WinHelp (.hlp) files back to RTF and project files |  | <https://github.com/pmachapman/helpdeco> |
+| hypercard-stack-uploader | Imports classic HyperCard stacks and exports them as HTML or JSON |  | <https://github.com/hyperhello/hypercard-stack-uploader> |
+| HyperCardPreview | macOS app that opens and displays HyperCard stacks from the reverse-engineered format |  | <https://github.com/PierreLorenzi/HyperCardPreview> |
+| libhlp | Pure Rust reader for WinHelp (.hlp) files including LZ77 and phrase decompression |  | <https://github.com/trypsynth/libhlp> |
 | libmwaw | Imports many legacy Mac document formats (MacWrite, ClarisWorks, MacDraw, WriteNow and more) |  | <https://sourceforge.net/projects/libmwaw> |
 | libpagemaker | Document Liberation library that imports Adobe/Aldus PageMaker documents |  | <https://git.libreoffice.org/libpagemaker> |
 | libqxp | Document Liberation library that imports QuarkXPress 3.1-4.1 documents |  | <https://git.libreoffice.org/libqxp> |
 | libwpd | Library for importing reverse-engineered WordPerfect documents |  | <https://sourceforge.net/projects/libwpd> |
 | libwps | Imports Microsoft Works, Lotus 1-2-3, Quattro Pro and other legacy DOS/Windows documents |  | <https://sourceforge.net/projects/libwps> |
+| MSGReader | C# reader for Outlook .msg and .eml files without Outlook |  | <https://github.com/Sicos1977/MSGReader> |
+| msgreader (JS) | JavaScript reader for Outlook .msg files |  | <https://github.com/HiraokaHyperTools/msgreader> |
+| wv | Library for importing Microsoft Word 2-2003 binary documents |  | <https://github.com/AbiWord/wv> |
 
 ## Other
 
@@ -280,3 +386,19 @@
 | libcreg | Library for the Windows 9x/Me registry (CREG) file format | 5 | <https://github.com/libyal/libcreg> |
 | libnk2 | Library for the Microsoft Outlook Nickfile (NK2) format | 4 | <https://github.com/libyal/libnk2> |
 | libwrc | Library for the Windows Resource Compiler (WRC) resource format | 4 | <https://github.com/libyal/libwrc> |
+| Dissect | Forensics framework with parsers for many proprietary disk, file system and artifact formats |  | <https://github.com/fox-it/dissect> |
+| dissect.cim | Python parser for the Windows WMI CIM repository database |  | <https://github.com/fox-it/dissect.cim> |
+| dissect.etl | Python parser for Windows Event Trace Log (ETL) files |  | <https://github.com/fox-it/dissect.etl> |
+| dissect.regf | Python parser for the Windows registry hive format |  | <https://github.com/fox-it/dissect.regf> |
+| dissect.shellitem | Python parser for Windows Shell Item structures |  | <https://github.com/fox-it/dissect.shellitem> |
+| dissect.thumbcache | Python parser for Windows thumbcache databases |  | <https://github.com/fox-it/dissect.thumbcache> |
+| go-prefetch | Go parser for Windows Prefetch files |  | <https://github.com/Velocidex/go-prefetch> |
+| libftxf | Library for Transactional NTFS (TxF) data types |  | <https://github.com/libyal/libftxf> |
+| libfwevt | Library for Windows XML Event Log (EVTX) binary XML data types |  | <https://github.com/libyal/libfwevt> |
+| libfwps | Library for Windows Property Store data types |  | <https://github.com/libyal/libfwps> |
+| libmdmp | Library and tools for the Windows Minidump (MDMP) format |  | <https://github.com/libyal/libmdmp> |
+| mac_alias | Generates and parses macOS Alias and Bookmark records in Python |  | <https://github.com/dmgbuild/mac_alias> |
+| plaso | Super-timeline tool with parsers for hundreds of Windows, macOS and app artifacts |  | <https://github.com/log2timeline/plaso> |
+| regparser | Go parser for Windows registry hives |  | <https://github.com/Velocidex/regparser> |
+| RustyUsn | Rust parser that converts NTFS USN journal records to JSON |  | <https://github.com/forensicmatt/RustyUsn> |
+| SIDR | Search Index Database Reporter: parses the Windows Search index database |  | <https://github.com/strozfriedberg/sidr> |

@@ -1,10 +1,10 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 62 projects
+[← All categories](../README.md) · 67 projects
 
-- [Applications](#applications) (18)
+- [Applications](#applications) (21)
 - [Binary Translators](#binary-translators) (7)
-- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (4)
+- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (6)
 - [OS & Compatibility Layers](#os--compatibility-layers) (33)
 
 ## Applications
@@ -29,6 +29,9 @@
 | Mariana | ActionScript 3 runtime for .NET | 20 | <https://github.com/jfd16/Mariana> |
 | InstallerLG | A reimplementation of the LISP-like 'Installer' scripting language. | 19 | <https://github.com/sodero/InstallerLG> |
 | libfreehand | Import library for Aldus/Macromedia FreeHand documents | 8 | <https://github.com/LibreOffice/libfreehand> |
+| HCX | macOS app that opens and runs classic HyperCard stacks |  | <https://github.com/pgostation/HCX> |
+| ViperCard | Open-source browser rewrite of HyperCard and HyperTalk |  | <https://github.com/moltenform/vipercard> |
+| WyldCard | Java clone of Apple's HyperCard and the HyperTalk language |  | <https://github.com/defano/wyldcard> |
 
 ## Binary Translators
 
@@ -50,6 +53,8 @@
 | Lightspark | Open-source Flash Player implementation with ActionScript 3 support | 1,904 | <https://github.com/lightspark/lightspark> |
 | Moonlight *(archived)* | Mono's open-source Silverlight implementation for Linux | 164 | <https://github.com/mono/moon> |
 | AwayFL Player | Flash SWF player for the web built on the Away3D/AwayJS stack | 52 | <https://github.com/awayfl/awayfl-player> |
+| D4Player | Player for Macromedia Director 4 movie files |  | <https://github.com/renaldobf/D4Player> |
+| OpenFL | Open-source reimplementation of the Flash Player API for web, desktop and mobile |  | <https://github.com/openfl/openfl> |
 
 ## OS & Compatibility Layers
 

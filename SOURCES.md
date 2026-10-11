@@ -1068,3 +1068,63 @@
 - gh search repos: zwave-js config
 - gh graphql verification of known RE format-parser repos
 - git.libreoffice.org gitiles project list for DLP libraries
+- mazda connected api
+- myhondaplus
+- honda connect api
+- byd api vehicle
+- nio api car
+- xpeng api
+- lucid motors api
+- uconnect api
+- fordpass
+- mercedes me api
+- nissan leaf api
+- volvo cars api unofficial
+- viofo dashcam
+- 70mai dashcam
+- dashcam api wifi
+- bosch ebike
+- shimano steps
+- cowboy bike api
+- wahoo elemnt
+- whoop api unofficial
+- oura ring ble
+- polar h10 ble
+- suunto api
+- coros api
+- zepp amazfit
+- hearing aid bluetooth protocol
+- blood pressure ble
+- thermometer bluetooth reverse
+- BMW motorrad
+- motorcycle can bus
+- mymazda
+- byd home assistant
+- nio home assistant
+- xpeng
+- uconnect
+- volvo on call
+- nissan connect
+- whoop
+- oura ring
+- polar h10
+- amazfit
+- mi band
+- huami
+- withings
+- eight sleep
+- renpho scale
+- omron
+- dexcom
+- librelink
+- medtronic
+- omnipod
+- insulin pump
+- hearing aid
+- zwift
+- tacx
+- wahoo kickr
+- ftms
+- peloton
+- garmin connect
+- strava unofficial

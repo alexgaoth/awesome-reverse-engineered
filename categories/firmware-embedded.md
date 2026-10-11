@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 185 projects
+[← All categories](../README.md) · 220 projects
 
-- [Camera Firmware](#camera-firmware) (12)
+- [Camera Firmware](#camera-firmware) (15)
 - [Custom Firmware](#custom-firmware) (47)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (43)
-- [Retro Handhelds & Calculators](#retro-handhelds--calculators) (42)
-- [Routers & Network Gear](#routers--network-gear) (41)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (45)
+- [Retro Handhelds & Calculators](#retro-handhelds--calculators) (50)
+- [Routers & Network Gear](#routers--network-gear) (63)
 
 ## Camera Firmware
 
@@ -24,6 +24,9 @@
 | convmlv | RAW developer for Magic Lantern MLV formats |  | <https://github.com/so-rose/convmlv> |
 | mlinstall | Magic Lantern install tool for Canon cameras over PTP |  | <https://github.com/petabyt/mlinstall> |
 | MLVFS | FUSE filesystem for Magic Lantern MLV raw video files |  | <https://github.com/davidmilligan/MLVFS> |
+| ricoh-gr4-firmware-analysis-and-feature-expansion | Ricoh GR IV firmware analysis and feature expansion |  | <https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion> |
+| Ricoh-GRMod | Unofficial modding tool to import presets into Ricoh GR IV Image Control |  | <https://github.com/Maxwooow/Ricoh-GRMod> |
+| sony-pmca-ricoh-mod | Sony PictureEffectPlus mod adding Ricoh GR colour profiles via PMCA |  | <https://github.com/bonyback1/sony-pmca-ricoh-mod> |
 
 ## Custom Firmware
 
@@ -122,8 +125,10 @@
 | qemu-hexagon | QEMU with support for QDSP6 user mode emulation | 34 | <https://github.com/Comsecuris/qemu-hexagon> |
 | NTRDisasm *(archived)* | Annotated disassembly of the NTR 2.x custom firmware for the Nintendo N3DS | 24 | <https://github.com/patois/NTRDisasm> |
 | Cyclone_CRAM_Mapper | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | <https://github.com/14sea/Cyclone_CRAM_Mapper> |
+| 8cryptdo | Reverse-engineered docs and tools for 8BitDo firmware encryption |  | <https://github.com/aeromodes/8cryptdo> |
 | decryptBooxUpdateUpx | Decrypt Onyx Boox update.upx firmware packages |  | <https://github.com/Hagb/decryptBooxUpdateUpx> |
 | fwtool.py | Tool to unpack Sony camera firmware images |  | <https://github.com/ma1co/fwtool.py> |
+| insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras |  | <https://github.com/enekochan/insta360-go-firmware-tool> |
 
 ## Retro Handhelds & Calculators
 
@@ -149,9 +154,13 @@
 | pd-usb | JavaScript library to talk to a Panic Playdate over USB serial via WebSerial | 61 | <https://github.com/cranksters/pd-usb> |
 | tiemu | Emulator of TI-89/92/V200 calculators for Linux and Windows | 34 | <https://github.com/debrouxl/tiemu> |
 | tivars_lib_cpp | C++ library to read/write TI-z80 (82/83/84) calculator variable files | 32 | <https://github.com/adriweb/tivars_lib_cpp> |
+| ArduinoGotchi | Real Tamagotchi P1 emulator for Arduino UNO using the original ROM |  | <https://github.com/GaryZ88/ArduinoGotchi> |
 | CrossMix-OS | Enhanced custom OS for the TrimUI Smart Pro handheld |  | <https://github.com/cizia64/CrossMix-OS> |
+| Egg-Shell | Tamagotchi development tools from firmware research |  | <https://github.com/natashenka/Egg-Shell> |
 | firebird | Multi-platform emulator of TI-Nspire calculators |  | <https://github.com/nspire-emus/firebird> |
+| flipperzero-tamagotch-p1 | Tamagotchi P1 emulator for the Flipper Zero |  | <https://github.com/GMMan/flipperzero-tamagotch-p1> |
 | fpga-gameandwatch | Game & Watch core for Analogue Pocket and MiSTer driven by ROM dumps |  | <https://github.com/agg23/fpga-gameandwatch> |
+| fpga-tamagotchi | Tamagotchi P1 FPGA core for Analogue Pocket and MiSTer |  | <https://github.com/agg23/fpga-tamagotchi> |
 | game-and-watch-base | Base project for writing custom Game & Watch firmware |  | <https://github.com/ghidraninja/game-and-watch-base> |
 | game-and-watch-decrypt | Manipulate encrypted sections of the Game & Watch external flash image |  | <https://github.com/GMMan/game-and-watch-decrypt> |
 | game-and-watch-flashloader | Tool to flash the Game & Watch SPI flash via OpenOCD |  | <https://github.com/ghidraninja/game-and-watch-flashloader> |
@@ -165,6 +174,10 @@
 | powar | Pokewalker emulator |  | <https://github.com/UnrealPowerz/powar> |
 | pw | Human-readable matching decompilation of the Pokewalker firmware |  | <https://github.com/lumirth/pw> |
 | reverse-pokewalker | Research into reverse engineering the Pokewalker from HeartGold/SoulSilver |  | <https://github.com/mamba2410/reverse-pokewalker> |
+| tama-para-research | Research notes on the Tamagotchi Paradise hardware and firmware |  | <https://github.com/GMMan/tama-para-research> |
+| Tamagotchi-Hack | Code and research for hacking Tamagotchi Friends/Tamatown toys |  | <https://github.com/natashenka/Tamagotchi-Hack> |
+| tamagotchi-tech-specs | Technical specifications of Tamagotchi devices |  | <https://github.com/loociano/tamagotchi-tech-specs> |
+| tamatool | Cross-platform explorer and debugger for first-gen Tamagotchi ROMs |  | <https://github.com/jcrona/tamatool> |
 | tilibs | Libraries (libticalcs, libticables, libtifiles) for TI calculator linking |  | <https://github.com/debrouxl/tilibs> |
 | tilp-linkguide | Third-party documentation of TI graphing calculator link protocols |  | <https://github.com/debrouxl/tilp-linkguide> |
 | tilp_and_gfm | TILP: transfer data between TI graphing calculators and a computer |  | <https://github.com/debrouxl/tilp_and_gfm> |
@@ -211,9 +224,31 @@
 | eternalegypt | Python API for Netgear LTE modems | 36 | <https://github.com/amelchio/eternalegypt> |
 | aioasuswrt | Async ASUSWRT router access over SSH/telnet | 26 | <https://github.com/kennedyshead/aioasuswrt> |
 | aiovodafone | Python library to control the Vodafone Station router |  | <https://github.com/chemelli74/aiovodafone> |
+| DishyPy | Python examples for the Starlink dish API |  | <https://github.com/woodseowl/DishyPy> |
+| go-starlink | Go client for the SpaceX Starlink dish gRPC API |  | <https://github.com/b0ch3nski/go-starlink> |
+| google-wifi-api | Discovered API endpoints for Google Wifi and OnHub routers |  | <https://github.com/olssonm/google-wifi-api> |
+| google-wifi-api-node | Node.js wrapper for the Google Wifi local API |  | <https://github.com/JamesHawkinss/google-wifi-api-node> |
+| ha-omada | Home Assistant integration for TP-Link Omada controllers |  | <https://github.com/zachcheatham/ha-omada> |
 | hass-miwifi | Home Assistant integration for Xiaomi MiWiFi routers |  | <https://github.com/dmamontov/hass-miwifi> |
 | huawei-modem-python-api-client | Python client for Huawei USB modem HTTP API |  | <https://github.com/pablo/huawei-modem-python-api-client> |
+| huawei-router-api | API for querying Huawei LTE routers |  | <https://github.com/siphomateke/huawei-router-api> |
+| Huawei-Router-Tool | Tool to interact with Huawei routers via their web API |  | <https://github.com/pearlxcore/Huawei-Router-Tool> |
+| Huawei-Router_Python | Python tool to fetch data from Huawei E3372/E5332 HiLink modems |  | <https://github.com/pklaus/Huawei-Router_Python> |
+| huawei-utility-page | Web page with utility tools for Huawei LTE routers |  | <https://github.com/andreluis034/huawei-utility-page> |
+| omada-api | Python wrapper for the TP-Link Omada Software Controller API |  | <https://github.com/ghaberek/omada-api> |
+| omada-api-toolkit | Unofficial Node.js client and docs for the undocumented Omada Web API v2 |  | <https://github.com/spectator81-png/omada-api-toolkit> |
+| omada_exporter | Prometheus exporter for TP-Link Omada controllers |  | <https://github.com/charlie-haley/omada_exporter> |
+| orbicfg | Decrypt/encrypt Netgear Orbi configuration files |  | <https://github.com/Fysac/orbicfg> |
 | python-sagemcom-api | Unofficial Python wrapper for Sagemcom F@st routers' internal API |  | <https://github.com/iMicknl/python-sagemcom-api> |
+| starlink_exporter | Prometheus exporter for metrics from the Starlink dish gRPC API |  | <https://github.com/danopstech/starlink_exporter> |
+| starlink_exporter | Prometheus exporter for Starlink dish performance and health |  | <https://github.com/joshuasing/starlink_exporter> |
+| tplink-omada-api | Python client for the TP-Link Omada controller API |  | <https://github.com/MarkGodwin/tplink-omada-api> |
+| UBNT-AirOS | Get information from Ubiquiti AirOS (airMAX) devices |  | <https://github.com/ITJamie/UBNT-AirOS> |
 | udm-kernel-tools | Tools to bootstrap custom kernels on the UniFi Dream Machine |  | <https://github.com/fabianishere/udm-kernel-tools> |
 | unifi-common | on_boot.d and utilities for customizing UniFi Dream Machines |  | <https://github.com/unifi-utilities/unifi-common> |
 | unpoller | Collect UniFi controller, site, device and client data for metrics |  | <https://github.com/unpoller/unpoller> |
+| winbox | Experimental implementation of the MikroTik Winbox protocol |  | <https://github.com/jabb3rd/winbox> |
+| winbox-terminal-protocol | Pure Python implementation of the MikroTik WinBox terminal protocol |  | <https://github.com/subixonfire/winbox-terminal-protocol> |
+| Winbox_Protocol_Dissector | Wireshark dissector for the MikroTik Winbox protocol |  | <https://github.com/Cisco-Talos/Winbox_Protocol_Dissector> |
+| zte-modem-api-docs | Reverse-engineering notes on the ZTE modem web API |  | <https://github.com/wijayamin/zte-modem-api-docs> |
+| zte_modem_tools | Tools to decode/encode ZTE modem configuration files |  | <https://github.com/douniwan5788/zte_modem_tools> |

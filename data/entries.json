@@ -12215,6 +12215,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ant-plus",
+  "url": "https://github.com/Loghorn/ant-plus",
+  "desc": "Node module for ANT+ sensors",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AntBridge",
+  "url": "https://github.com/pepelkod/AntBridge",
+  "desc": "Read and control Tacx Fortius trainers through an ANT+ stick",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "antifier",
+  "url": "https://github.com/john-38787364/antifier",
+  "desc": "Convert USB Tacx turbo trainer output into ANT+ signals",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "arduino-smart-bike-trainer",
+  "url": "https://github.com/krisc-informatica/arduino-smart-bike-trainer",
+  "desc": "BLE smart trainer conversion for the Tacx Flow",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "bikecontrol (SwiftControl)",
   "url": "https://github.com/OpenBikeControl/bikecontrol",
   "desc": "Use Zwift Play/Click/Ride controllers for virtual shifting in any rider app",
@@ -12233,6 +12265,38 @@
    "shimano",
    "bikecontrol"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "crosswind",
+  "url": "https://github.com/rgov/crosswind",
+  "desc": "Arduino/ESP32 controller for the Wahoo KICKR Headwind fan",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "echbt",
+  "url": "https://github.com/snowzach/echbt",
+  "desc": "Read Echelon bike BLE data without the app",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "elemntary",
+  "url": "https://github.com/vti/elemntary",
+  "desc": "Wahoo ELEMNT configuration tool",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ELEMNTViewer",
+  "url": "https://github.com/harborsiem/ELEMNTViewer",
+  "desc": "Analyse workouts from Wahoo ELEMNT bike computers",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
   "added": "2026-10-11"
  },
  {
@@ -12278,6 +12342,118 @@
   "added": "2026-10-11"
  },
  {
+  "name": "hassio-ftms",
+  "url": "https://github.com/dudanov/hassio-ftms",
+  "desc": "Home Assistant component for Bluetooth FTMS fitness equipment",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homeassistant-peloton-sensor",
+  "url": "https://github.com/edwork/homeassistant-peloton-sensor",
+  "desc": "Peloton ride data in Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Keiser2Zwift",
+  "url": "https://github.com/hypermoose/Keiser2Zwift",
+  "desc": "Bridge Keiser M3 bike BLE broadcasts to Zwift",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kickr_bluetooth",
+  "url": "https://github.com/StephenDone/kickr_bluetooth",
+  "desc": "Wahoo KICKR Bike Bluetooth protocol projects",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "KickrShiftr",
+  "url": "https://github.com/jvivenot/KickrShiftr",
+  "desc": "Virtual shifting on Wahoo KICKR Core trainers",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "openant",
+  "url": "https://github.com/Tigge/openant",
+  "desc": "ANT and ANT-FS Python library",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Openpelo",
+  "url": "https://github.com/doudar/Openpelo",
+  "desc": "Install additional apps on Peloton bikes and treads",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pelomon",
+  "url": "https://github.com/ihaque/pelomon",
+  "desc": "BLE relay decoding Peloton bike serial communications",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "peloton-api-spec",
+  "url": "https://github.com/pelo-tech/peloton-api-spec",
+  "desc": "Unofficial OpenAPI spec for the Peloton API",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "peloton-bike-metrics-server",
+  "url": "https://github.com/iaroslavn/peloton-bike-metrics-server",
+  "desc": "Read Peloton bike screen metrics and expose them via BLE/HTTP",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "peloton-client-node",
+  "url": "https://github.com/pablaber/peloton-client-node",
+  "desc": "Node client library for the Peloton API",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PyBushido",
+  "url": "https://github.com/jovial/PyBushido",
+  "desc": "Open-source controller for the Tacx Bushido trainer",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pycycling",
+  "url": "https://github.com/zacharyedwardbull/pycycling",
+  "desc": "Python BLE library for trainers, power meters, radars and HR monitors",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-ant",
+  "url": "https://github.com/mvillalba/python-ant",
+  "desc": "Python implementation of ANT, ANT+ and ANT-FS protocols",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "qdomyos-zwift",
   "url": "https://github.com/cagnulein/qdomyos-zwift",
   "desc": "Bridge making treadmills and bikes work with Zwift and other apps",
@@ -12299,6 +12475,54 @@
   "added": "2026-10-11"
  },
  {
+  "name": "sauce4zwift",
+  "url": "https://github.com/SauceLLC/sauce4zwift",
+  "desc": "Live overlays and data for Zwift by decoding its network traffic",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SmartSpin2k",
+  "url": "https://github.com/doudar/SmartSpin2k",
+  "desc": "Turn a spin bike into a smart trainer with FTMS support",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ttyT1941",
+  "url": "https://github.com/totalreverse/ttyT1941",
+  "desc": "Control a Tacx T1941 motor brake via serial",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wahoo-kickr-bike-shift-display",
+  "url": "https://github.com/stareat/wahoo-kickr-bike-shift-display",
+  "desc": "Display Wahoo KICKR BIKE shift info decoded from BLE",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zlogger",
+  "url": "https://github.com/jlemon/zlogger",
+  "desc": "Zwift data logger from network packets",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zwifit",
+  "url": "https://github.com/dawsontoth/zwifit",
+  "desc": "Join Zwift with iFit treadmills over Wi-Fi",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "zwift-mobile-api",
   "url": "https://github.com/Ogadai/zwift-mobile-api",
   "desc": "Node client for the Zwift mobile API (rider status, world data)",
@@ -12310,6 +12534,46 @@
   "lang": "JavaScript",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zwift-packet-monitor",
+  "url": "https://github.com/wiedmann/zwift-packet-monitor",
+  "desc": "Monitor and decode Zwift UDP packets",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zwift-steerer",
+  "url": "https://github.com/fiveohhh/zwift-steerer",
+  "desc": "DIY steering input for Zwift (Sterzo protocol)",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zwift-workout-file-reference",
+  "url": "https://github.com/h4l/zwift-workout-file-reference",
+  "desc": "Reference documentation for the Zwift .zwo workout format",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zwift_hass",
+  "url": "https://github.com/snicker/zwift_hass",
+  "desc": "Zwift rider sensor integration for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ZwiftPacketMonitor (.NET)",
+  "url": "https://github.com/braddwalker/ZwiftPacketMonitor",
+  "desc": ".NET port of the Zwift UDP packet monitor",
+  "category": "Automotive",
+  "subcategory": "Bikes, Trainers & Bike Computers",
   "added": "2026-10-11"
  },
  {
@@ -12352,6 +12616,22 @@
    "elm327",
    "bluetooth"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "arduino-psa-comfort-can-adapter",
+  "url": "https://github.com/ludwig-v/arduino-psa-comfort-can-adapter",
+  "desc": "Run newer PSA/Stellantis CAN2010 devices on older CAN2004 cars",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "awesome-automotive-can-id",
+  "url": "https://github.com/iDoka/awesome-automotive-can-id",
+  "desc": "Collection of CAN IDs and payloads for many car brands",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
   "added": "2026-10-11"
  },
  {
@@ -12483,6 +12763,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "cangaroo",
+  "url": "https://github.com/HubertD/cangaroo",
+  "desc": "Open-source CAN bus analyzer with DBC decoding",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
   "name": "canmatrix",
   "url": "https://github.com/ebroecker/canmatrix",
   "desc": "Convert CAN database formats (.dbc, .arxml, .kcd, .sym)",
@@ -12501,6 +12789,14 @@
    "dbf",
    "kcd"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "cantact-app",
+  "url": "https://github.com/linklayer/cantact-app",
+  "desc": "Desktop CAN analysis app for CANtact interfaces",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
   "added": "2026-10-11"
  },
  {
@@ -12536,6 +12832,14 @@
   "lang": "Python",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CanZE",
+  "url": "https://github.com/fesch/CanZE",
+  "desc": "Android app reading Renault ZE (Zoe, Kangoo) CAN data via OBD",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
   "added": "2026-10-11"
  },
  {
@@ -12668,6 +12972,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "FG-Falcon",
+  "url": "https://github.com/jakka351/FG-Falcon",
+  "desc": "Ford FG Falcon CAN bus and module reverse engineering",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
   "name": "freediag",
   "url": "https://github.com/fenugrec/freediag",
   "desc": "Free diagnostic software for OBD-II vehicles",
@@ -12735,6 +13047,14 @@
   "lang": "C#",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MazdaCANbus",
+  "url": "https://github.com/majbthrd/MazdaCANbus",
+  "desc": "Database of known Mazda CAN messages",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
   "added": "2026-10-11"
  },
  {
@@ -12852,6 +13172,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "OpenVehicleDiag",
+  "url": "https://github.com/rnd-ash/OpenVehicleDiag",
+  "desc": "Rust cross-platform ECU diagnostics tool using J2534 passthru",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OVMS3",
   "url": "https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3",
   "desc": "Open vehicle monitoring system firmware with reverse-engineered CAN support for many EVs",
@@ -12908,6 +13236,22 @@
    "can-bus",
    "python"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-can-isotp",
+  "url": "https://github.com/pylessard/python-can-isotp",
+  "desc": "Python ISO-TP (ISO 15765) transport for vehicle diagnostics",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-doipclient",
+  "url": "https://github.com/jacobschaer/python-doipclient",
+  "desc": "Pure Python ISO 13400 Diagnostics over IP client",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
   "added": "2026-10-11"
  },
  {
@@ -13078,6 +13422,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ultimate_nag52",
+  "url": "https://github.com/rnd-ash/ultimate_nag52",
+  "desc": "Open-source TCM for the Mercedes 722.6 gearbox",
+  "category": "Automotive",
+  "subcategory": "CAN Bus & ECU",
+  "added": "2026-10-11"
+ },
+ {
   "name": "VW_Flash",
   "url": "https://github.com/bri3d/VW_Flash",
   "desc": "Flash and patch VW/Audi Simos and DSG ECUs over CAN",
@@ -13174,6 +13526,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "CarConnectivity-connector-volkswagen",
+  "url": "https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen",
+  "desc": "Volkswagen connector for the CarConnectivity framework",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "connected-car-node-sdk",
+  "url": "https://github.com/ianjwhite99/connected-car-node-sdk",
+  "desc": "JavaScript SDK for Ford vehicles via FordPass/SYNC Connect",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "connected-car-python-sdk",
+  "url": "https://github.com/ianjwhite99/connected-car-python-sdk",
+  "desc": "Python SDK for Ford vehicles via Sync Connect (FordPass)",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "evcc",
   "url": "https://github.com/evcc-io/evcc",
   "desc": "EV charging controller integrating many wallboxes and car APIs",
@@ -13192,6 +13568,30 @@
    "emobility",
    "charger"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ffpass-module",
+  "url": "https://github.com/d4v3y0rk/ffpass-module",
+  "desc": "Node module for the FordPass API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FiatChamp",
+  "url": "https://github.com/wubbl0rz/FiatChamp",
+  "desc": "Fiat Uconnect Home Assistant add-on",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fordpass-api-doc",
+  "url": "https://github.com/mlaanderson/fordpass-api-doc",
+  "desc": "Documentation of the FordPass API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13228,6 +13628,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "fordpass-scriptable",
+  "url": "https://github.com/tonesto7/fordpass-scriptable",
+  "desc": "FordPass iOS widget for Scriptable",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fordpass_china",
+  "url": "https://github.com/georgezhao2010/fordpass_china",
+  "desc": "Home Assistant integration for FordPass China (Ford/Lincoln)",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "geely-connect",
   "url": "https://github.com/YossiKon/geely-connect",
   "desc": "Unofficial Home Assistant integration for Geely vehicles via app API",
@@ -13249,6 +13665,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ha-porscheconnect",
+  "url": "https://github.com/CJNE/ha-porscheconnect",
+  "desc": "Porsche Connect custom component for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-uconnect",
+  "url": "https://github.com/hass-uconnect/hass-uconnect",
+  "desc": "Home Assistant integration for FCA/Stellantis Uconnect cars (Jeep, Ram, Fiat, Alfa)",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "home-assistant-rivian",
   "url": "https://github.com/bretterer/home-assistant-rivian",
   "desc": "Unofficial Rivian integration for Home Assistant",
@@ -13264,6 +13696,14 @@
    "homeassistant",
    "rivian"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homeassistant-carwings",
+  "url": "https://github.com/remuslazar/homeassistant-carwings",
+  "desc": "Home Assistant integration for Nissan Connect EV services",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13306,6 +13746,14 @@
    "myskoda",
    "skoda"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HomeAssistant-NissanConnect",
+  "url": "https://github.com/dan-r/HomeAssistant-NissanConnect",
+  "desc": "Unofficial Home Assistant integration for Nissan Connect vehicles",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13381,6 +13829,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "homebridge-fordpass",
+  "url": "https://github.com/Brandawg93/homebridge-fordpass",
+  "desc": "Control Ford vehicles in HomeKit via Homebridge",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homebridge-uconnect",
+  "url": "https://github.com/gyahalom/homebridge-uconnect",
+  "desc": "Homebridge plugin for Uconnect vehicles",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homey-com.volvocars",
+  "url": "https://github.com/ricott/homey-com.volvocars",
+  "desc": "Volvo On Call app for Homey",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ic1101",
   "url": "https://github.com/librick/ic1101",
   "desc": "Reverse engineering and hacking 10th-gen Honda Civic infotainment head units",
@@ -13415,6 +13887,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ioBroker.ford",
+  "url": "https://github.com/TA2k/ioBroker.ford",
+  "desc": "ioBroker adapter for FordPass",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ioBroker.nissan",
+  "url": "https://github.com/TA2k/ioBroker.nissan",
+  "desc": "ioBroker adapter for Nissan Connect",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ioBroker.volvo",
+  "url": "https://github.com/TA2k/ioBroker.volvo",
+  "desc": "Volvo On Call adapter for ioBroker",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "jlrpy",
   "url": "https://github.com/ardevd/jlrpy",
   "desc": "Python library for the Jaguar Land Rover InControl remote car API",
@@ -13431,6 +13927,14 @@
    "i-pace",
    "wirelesscar"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kamereon-python",
+  "url": "https://github.com/mitchellrj/kamereon-python",
+  "desc": "Python library for Nissan/Renault/Mitsubishi Kamereon APIs",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13455,6 +13959,62 @@
   "added": "2026-10-11"
  },
  {
+  "name": "leaf-python-mqtt",
+  "url": "https://github.com/glynhudson/leaf-python-mqtt",
+  "desc": "Extract Nissan Leaf API data and post to MQTT",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "leaf2mqtt",
+  "url": "https://github.com/yp87/leaf2mqtt",
+  "desc": "Nissan Connect LEAF data to MQTT",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mercedes_me_api",
+  "url": "https://github.com/xraver/mercedes_me_api",
+  "desc": "Scripts to use the Mercedes me APIs",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "myhondaplus-desktop",
+  "url": "https://github.com/enricobattocchi/myhondaplus-desktop",
+  "desc": "Unofficial desktop GUI for Honda Connect Europe",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "myhondaplus-homeassistant",
+  "url": "https://github.com/enricobattocchi/myhondaplus-homeassistant",
+  "desc": "Unofficial Home Assistant integration for My Honda+",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mymazda-relay",
+  "url": "https://github.com/alanzchen/mymazda-relay",
+  "desc": "Flask relay for the MyMazda Connected Services API (pymazda-based)",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "myskoda",
+  "url": "https://github.com/skodaconnect/myskoda",
+  "desc": "Python library for the MySkoda connected-car APIs",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "mytoyota",
   "url": "https://github.com/DurgNomis-drol/mytoyota",
   "desc": "Python client for the Toyota Connected Services API",
@@ -13470,6 +14030,30 @@
    "toyota",
    "python3"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nissan-connect (node)",
+  "url": "https://github.com/beejjacobs/nissan-connect",
+  "desc": "Node.js Nissan Connect API wrapper",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nissan-connect-php",
+  "url": "https://github.com/gboudreau/nissan-connect-php",
+  "desc": "PHP class for the Nissan Connect (Carwings) API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "NissanConnect (python)",
+  "url": "https://github.com/KalenXI/NissanConnect",
+  "desc": "Python remote control for Nissan cars via NissanConnect Services",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13595,6 +14179,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "py-uconnect",
+  "url": "https://github.com/hass-uconnect/py-uconnect",
+  "desc": "Python library for the Uconnect cloud API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pycarplay",
   "url": "https://github.com/electric-monk/pycarplay",
   "desc": "Python CarPlay library for Carlinkit \"Autobox\" USB dongles",
@@ -13683,6 +14275,22 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-lucidmotors",
+  "url": "https://github.com/nshp/python-lucidmotors",
+  "desc": "Unofficial Python bindings to the Lucid Motors API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pytoyoda",
+  "url": "https://github.com/pytoyoda/pytoyoda",
+  "desc": "Python client for Toyota Connected Services Europe API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13884,6 +14492,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tesla_api",
+  "url": "https://github.com/mlowijs/tesla_api",
+  "desc": "Lightweight Python client for the unofficial Tesla owner API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tesla_auth",
+  "url": "https://github.com/adriankumpf/tesla_auth",
+  "desc": "Generate Tesla owner-API tokens for third-party apps",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "teslajsonpy",
   "url": "https://github.com/zabuldon/teslajsonpy",
   "desc": "Async Python library for Tesla API used by Home Assistant",
@@ -13895,6 +14519,30 @@
   "lang": "Python",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "TeslaLogger",
+  "url": "https://github.com/bassmaster187/TeslaLogger",
+  "desc": "Self-hosted Tesla data logger using the owner API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "teslams",
+  "url": "https://github.com/hjespers/teslams",
+  "desc": "Node.js apps and libraries for Tesla's undocumented HTTP interfaces",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "voc",
+  "url": "https://github.com/matthiasbergneels/voc",
+  "desc": "Exploration of the Volvo On Call API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13933,6 +14581,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "volvo2mqtt",
+  "url": "https://github.com/Dielee/volvo2mqtt",
+  "desc": "Home Assistant add-on connecting Android Automotive Volvos via MQTT",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "volvooncall",
   "url": "https://github.com/molobrakos/volvooncall",
   "desc": "Python client for the Volvo On Call (VOC) web service",
@@ -13944,6 +14600,54 @@
   "lang": "Python",
   "license": "Unlicense",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "VWsFriend",
+  "url": "https://github.com/tillsteinbach/VWsFriend",
+  "desc": "VW WeConnect visualization, logging and control",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "WeConnect-mqtt",
+  "url": "https://github.com/tillsteinbach/WeConnect-mqtt",
+  "desc": "MQTT client publishing Volkswagen WeConnect data",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xpeng (guide)",
+  "url": "https://github.com/OldSmurf56/xpeng",
+  "desc": "Guide to retrieving data from Xpeng cars into Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Xpeng smart home app",
+  "url": "https://github.com/decline27/Xpeng",
+  "desc": "Connect Xpeng EVs to smart-home systems",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xpeng-homeassistant",
+  "url": "https://github.com/mnordseth/xpeng-homeassistant",
+  "desc": "Xpeng integration for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xpeng-mac-bridge",
+  "url": "https://github.com/stevelea/xpeng-mac-bridge",
+  "desc": "Publish Xpeng car live state to MQTT by reading the official Mac app",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
  },
  {
@@ -13961,6 +14665,70 @@
   "added": "2026-10-11"
  },
  {
+  "name": "bmspace",
+  "url": "https://github.com/Tertiush/bmspace",
+  "desc": "Pace battery BMS reader to MQTT/Home Assistant",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BMWI3BMS",
+  "url": "https://github.com/Tom-evnut/BMWI3BMS",
+  "desc": "SimpBMS code to manage BMW i3 battery modules",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Daly2MQTT",
+  "url": "https://github.com/softwarecrash/Daly2MQTT",
+  "desc": "ESP8266 bridge reading Daly and compatible BMS data into MQTT",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dbus-btbattery",
+  "url": "https://github.com/bradcagle/dbus-btbattery",
+  "desc": "Victron Venus OS driver for Bluetooth BMS (JBD, JK)",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "esp32xiaoxiangble",
+  "url": "https://github.com/Bangybug/esp32xiaoxiangble",
+  "desc": "ESP32 client for the Xiaoxiang BMS Bluetooth protocol",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "esphome-pace-bms",
+  "url": "https://github.com/nkinnan/esphome-pace-bms",
+  "desc": "Pace BMS protocol v20/v25 implementation and ESPHome component",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "esphome-yambms",
+  "url": "https://github.com/Sleeper85/esphome-yambms",
+  "desc": "Multi-BMS merging solution for ESPHome (JK, JBD, etc.)",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "jk-bms_grafana",
+  "url": "https://github.com/PurpleAlien/jk-bms_grafana",
+  "desc": "Read JK BMS data and graph it in Grafana",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "jkbms",
   "url": "https://github.com/jblance/jkbms",
   "desc": "Experiments decoding JK-BMS BLE protocol",
@@ -13975,6 +14743,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "LiTime_BMS_bluetooth",
+  "url": "https://github.com/calledit/LiTime_BMS_bluetooth",
+  "desc": "Read and control LiTime Bluetooth BMS from a web browser",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Nissan-LEAF-Battery-Upgrade",
+  "url": "https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade",
+  "desc": "Software and guides for fitting bigger batteries into Nissan Leafs",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "overkill-xiaoxiang-jbd-bms-ble-reader",
+  "url": "https://github.com/neilsheps/overkill-xiaoxiang-jbd-bms-ble-reader",
+  "desc": "Read Xiaoxiang/JBD BMS data over BLE on nRF52 boards",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OverkillSolarBMS",
   "url": "https://github.com/FurTrader/OverkillSolarBMS",
   "desc": "Docs and tools for Overkill Solar (JBD) BMS protocol",
@@ -13986,6 +14778,38 @@
   "lang": "",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SimpBMS",
+  "url": "https://github.com/Tom-evnut/SimpBMS",
+  "desc": "BMS for reused OEM EV battery modules (Tesla, BMW, VW)",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Smart-BMS-arduino-Reader",
+  "url": "https://github.com/bres55/Smart-BMS-arduino-Reader",
+  "desc": "Arduino reader for Xiaoxiang/JBD smart BMS UART protocol",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Smart-BMS-Bluetooth-ESP32",
+  "url": "https://github.com/kolins-cz/Smart-BMS-Bluetooth-ESP32",
+  "desc": "Read and display Xiaoxiang smart BMS data over BLE on ESP32",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "TeslaBMS",
+  "url": "https://github.com/collin80/TeslaBMS",
+  "desc": "Talk to Tesla Model S battery module boards for reuse in conversions",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
   "added": "2026-10-11"
  },
  {
@@ -14010,6 +14834,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "aa-proxy-rs",
+  "url": "https://github.com/aa-proxy/aa-proxy-rs",
+  "desc": "Android Auto wired/wireless proxy in Rust",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AAAD",
+  "url": "https://github.com/shmykelsa/AAAD",
+  "desc": "Install third-party Android Auto apps outside the Play Store",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AAIdrive",
+  "url": "https://github.com/BimmerGestalt/AAIdrive",
+  "desc": "Android Auto-style apps on BMW/Mini iDrive via its reverse-engineered protocol",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AAMirror",
+  "url": "https://github.com/slashmax/AAMirror",
+  "desc": "Mirror the phone screen onto Android Auto",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
   "name": "AAWirelessGateway",
   "url": "https://github.com/nisargjhaveri/AAWirelessGateway",
   "desc": "Gateway bridging wireless Android Auto to wired head units",
@@ -14021,6 +14877,14 @@
   "lang": "Kotlin",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BlueBus",
+  "url": "https://github.com/tedsalmon/BlueBus",
+  "desc": "Bluetooth module for BMW I-Bus vehicles using the reversed I-Bus protocol",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
   "added": "2026-10-11"
  },
  {
@@ -14059,6 +14923,54 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Fermata",
+  "url": "https://github.com/AndreyPavlenko/Fermata",
+  "desc": "Media player and launcher with Android Auto support",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hackXpeng",
+  "url": "https://github.com/hackxpeng/hackXpeng",
+  "desc": "Enable ADB and network ADB on Xpeng P5/P7/G3/G9/X9 head units",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "IDriveConnectKit",
+  "url": "https://github.com/BimmerGestalt/IDriveConnectKit",
+  "desc": "Utilities for connecting to BMW/Mini iDrive infotainment",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "lcn2kai-decompress",
+  "url": "https://github.com/sapphire-bt/lcn2kai-decompress",
+  "desc": "Decompressor for Nissan Connect (LCN2kai) SD card files",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MZD-AIO",
+  "url": "https://github.com/Trevelopment/MZD-AIO",
+  "desc": "Tweaks and apps installer for Mazda Connect infotainment",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nissan_connect3_emulator",
+  "url": "https://github.com/marek-g/nissan_connect3_emulator",
+  "desc": "Emulator that runs Nissan Connect 3 head-unit firmware",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
   "name": "openDsh dash",
   "url": "https://github.com/openDsh/dash",
   "desc": "Open-source car head unit UI with Android Auto support for Raspberry Pi",
@@ -14070,6 +14982,30 @@
   "lang": "C++",
   "license": "GPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Tesla Android",
+  "url": "https://github.com/tesla-android/android-raspberry-pi",
+  "desc": "Run Android on a Raspberry Pi and display it in the Tesla browser",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "uConnect RE",
+  "url": "https://github.com/Squithy/uConnect",
+  "desc": "Reverse engineering of the FCA uConnect head unit",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "UConnectTools",
+  "url": "https://github.com/AW-I/UConnectTools",
+  "desc": "Tools used to reverse engineer UConnect 8.4 head units",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
   "added": "2026-10-11"
  },
  {
@@ -14113,6 +15049,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "bmw-motorrad-projects",
+  "url": "https://github.com/kconger/bmw-motorrad-projects",
+  "desc": "Code and docs for BMW motorcycle CAN projects",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mcluster",
+  "url": "https://github.com/kconger/org.thcongers.mcluster",
+  "desc": "Android BMW Motorrad instrument cluster",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MotoRecoLogger",
+  "url": "https://github.com/SchwarzeLanzenreiter/MotoRecoLogger",
+  "desc": "BMW Motorrad CAN data logger",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BEStie",
+  "url": "https://github.com/bestie-org/BEStie",
+  "desc": "Bosch eBike LDI bridge exposing power/speed/cadence as FTMS",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
   "name": "BMSBattery S-controllers firmware",
   "url": "https://github.com/stancecoke/BMSBattery_S_controllers_firmware",
   "desc": "Open firmware for cheap Chinese e-bike motor controllers",
@@ -14128,6 +15096,38 @@
    "e-bike",
    "torquesensor"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "cowboybike-strava-sync",
+  "url": "https://github.com/sam-dumont/cowboybike-strava-sync",
+  "desc": "Sync rides from the Cowboy bikes API to Strava",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ebike-connect-js",
+  "url": "https://github.com/FlorianCassayre/ebike-connect-js",
+  "desc": "Unofficial Node API for the Bosch eBike Connect web service",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ebike-dl",
+  "url": "https://github.com/eMerzh/ebike-dl",
+  "desc": "Bosch eBike Connect portal downloader and KML converter",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "emtb",
+  "url": "https://github.com/markdotai/emtb",
+  "desc": "Garmin data field showing Shimano STEPS e-bike info",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
  },
  {
@@ -14149,6 +15149,46 @@
    "electric-scooter",
    "flutter"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-bosch-ebike",
+  "url": "https://github.com/Xunil99/ha-bosch-ebike",
+  "desc": "Bosch eBike Smart System integration for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-bosch-ebike-flow",
+  "url": "https://github.com/marq24/ha-bosch-ebike-flow",
+  "desc": "Bosch eBike Flow integration for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-bosch-ebike-pibridge",
+  "url": "https://github.com/possm/ha-bosch-ebike-pibridge",
+  "desc": "Bosch eBike live BLE data to Home Assistant via Raspberry Pi",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-bosch-ebike",
+  "url": "https://github.com/Phil-Barker/hass-bosch-ebike",
+  "desc": "Home Assistant integration for Bosch Smart eBikes",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ioBroker.bosch-ebike",
+  "url": "https://github.com/TA2k/ioBroker.bosch-ebike",
+  "desc": "ioBroker adapter for Bosch eBikes",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
  },
  {
@@ -14270,6 +15310,22 @@
    "python-library",
    "vanmoof"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "shimano-steps-ep8-canbus",
+  "url": "https://github.com/CapnDeCode/shimano-steps-ep8-canbus-messages-analysis-data",
+  "desc": "CAN captures and reverse-engineering of Shimano STEPS EP8",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SmartBridge",
+  "url": "https://github.com/Nilogax/SmartBridge",
+  "desc": "Send Bosch eBike power data to Garmin devices",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
  },
  {
@@ -20068,6 +21124,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "awesome-even-realities-g1",
+  "url": "https://github.com/galfaroth/awesome-even-realities-g1",
+  "desc": "Collection of projects for Even Realities G1 AR glasses",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "Hardware & IoT",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Awesome-Hardware-and-IoT-Hacking",
   "url": "https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking",
   "desc": "Curated hardware, firmware and IoT hacking resources and tools",
@@ -20249,6 +21313,14 @@
    "figma-app",
    "electron"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HCX",
+  "url": "https://github.com/pgostation/HCX",
+  "desc": "macOS app that opens and runs classic HyperCard stacks",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
   "added": "2026-10-11"
  },
  {
@@ -20514,6 +21586,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ViperCard",
+  "url": "https://github.com/moltenform/vipercard",
+  "desc": "Open-source browser rewrite of HyperCard and HyperTalk",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Webamp",
   "url": "https://github.com/captbaritone/webamp",
   "desc": "Winamp 2.9 reimplemented in HTML5/JS, including skin and playlist format support",
@@ -20532,6 +21612,14 @@
    "port",
    "reimplementation"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "WyldCard",
+  "url": "https://github.com/defano/wyldcard",
+  "desc": "Java clone of Apple's HyperCard and the HyperTalk language",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
   "added": "2026-10-11"
  },
  {
@@ -20673,6 +21761,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "D4Player",
+  "url": "https://github.com/renaldobf/D4Player",
+  "desc": "Player for Macromedia Director 4 movie files",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Flash, Shockwave & Legacy Runtimes",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Lightspark",
   "url": "https://github.com/lightspark/lightspark",
   "desc": "Open-source Flash Player implementation with ActionScript 3 support",
@@ -20698,6 +21794,14 @@
   "lang": "C#",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OpenFL",
+  "url": "https://github.com/openfl/openfl",
+  "desc": "Open-source reimplementation of the Flash Player API for web, desktop and mobile",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Flash, Shockwave & Legacy Runtimes",
   "added": "2026-10-11"
  },
  {
@@ -22826,6 +23930,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "dashy",
+  "url": "https://github.com/muddyland/dashy",
+  "desc": "Viofo dashcam client for ingesting footage over WiFi",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
   "name": "dji-firmware-tools",
   "url": "https://github.com/o-gs/dji-firmware-tools",
   "desc": "Tools for handling DJI drone firmware and reverse-engineered protocols",
@@ -22973,6 +24085,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "filmkit",
+  "url": "https://github.com/eggricesoy/filmkit",
+  "desc": "Create and manage Fujifilm film-simulation recipes over a USB camera connection",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
   "name": "fudge",
   "url": "https://github.com/petabyt/fudge",
   "desc": "Alternative Wi-Fi/Bluetooth app for Fujifilm cameras replacing the vendor app",
@@ -22984,6 +24104,22 @@
   "name": "fuji-cam-wifi-tool",
   "url": "https://github.com/hkr/fuji-cam-wifi-tool",
   "desc": "Reverse engineering the Fujifilm X-series Wi-Fi remote control protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fuji-recipes",
+  "url": "https://github.com/thecuvii/fuji-recipes",
+  "desc": "TypeScript library to extract Fujifilm recipe data from EXIF maker notes",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "GMaster",
+  "url": "https://github.com/Rambalac/GMaster",
+  "desc": "Panasonic Lumix camera remote control app for Windows",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
@@ -23046,6 +24182,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "homeassistant-70mai",
+  "url": "https://github.com/lorenzo-deluca/homeassistant-70mai",
+  "desc": "Integrate 70mai dashcams in Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
   "name": "HomeAssistant-Tapo-Control",
   "url": "https://github.com/JurajNyiri/HomeAssistant-Tapo-Control",
   "desc": "Home Assistant control of Tapo cameras using the private local API",
@@ -23067,9 +24211,105 @@
   "added": "2026-10-11"
  },
  {
+  "name": "insta360-luna-ultra-reverse-engineering",
+  "url": "https://github.com/derrickyau9/insta360-luna-ultra-reverse-engineering",
+  "desc": "Reverse engineering of the Insta360 Luna Ultra",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "insta360-wifi-api",
+  "url": "https://github.com/RigacciOrg/insta360-wifi-api",
+  "desc": "Python scripts to talk to Insta360 action cameras via the Wi-Fi API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "insta360_ble_esp32",
+  "url": "https://github.com/pchwalek/insta360_ble_esp32",
+  "desc": "Control Insta360 cameras over BLE from an ESP32",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "insta360ctl",
+  "url": "https://github.com/xaionaro-go/insta360ctl",
+  "desc": "CLI to manage Insta360 cameras",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "insvtools",
+  "url": "https://github.com/alex-plekhanov/insvtools",
+  "desc": "Toolkit for Insta360 .insv video files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libfuji",
+  "url": "https://github.com/petabyt/libfuji",
+  "desc": "Library to connect to and control Fujifilm cameras over USB, Wi-Fi and BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
   "name": "libgphoto2",
   "url": "https://github.com/gphoto/libgphoto2",
   "desc": "Camera access library supporting vendor PTP extensions for thousands of cameras",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "liblumix",
+  "url": "https://github.com/njfdev/liblumix",
+  "desc": "Reverse-engineered C++ driver for Panasonic Lumix cameras",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libpict",
+  "url": "https://github.com/petabyt/libpict",
+  "desc": "Picture Transfer Protocol client library with vendor extensions",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "lumix-link-desktop",
+  "url": "https://github.com/peci1/lumix-link-desktop",
+  "desc": "Unofficial desktop version of the Panasonic Lumix Link remote control app",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LumixCameraAscomDriver",
+  "url": "https://github.com/totoantibes/LumixCameraAscomDriver",
+  "desc": "Expose Panasonic Lumix cameras as ASCOM cameras for astrophotography",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LumixController",
+  "url": "https://github.com/davidkim9/LumixController",
+  "desc": "Electron app to control a Panasonic Lumix DMC-G7",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "lumixproto",
+  "url": "https://github.com/cleverfox/lumixproto",
+  "desc": "Reverse-engineered Lumix GX80 Wi-Fi protocol",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
@@ -23107,6 +24347,30 @@
    "dji",
    "fpv"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nsg",
+  "url": "https://github.com/hurui200320/nsg",
+  "desc": "Provide GPS data to Nikon Z cameras without SnapBridge",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "olympus-wifi",
+  "url": "https://github.com/joergmlpts/olympus-wifi",
+  "desc": "Connect to Wi-Fi Olympus cameras: live view, clock, capture and download",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "piofo",
+  "url": "https://github.com/wcedmisten/piofo",
+  "desc": "Extract GPS data embedded in Viofo dashcam videos",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
  },
  {
@@ -23150,6 +24414,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python_lumix_control",
+  "url": "https://github.com/palmdalian/python_lumix_control",
+  "desc": "Python module for controlling Panasonic Wi-Fi cameras",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
  },
  {
@@ -23204,6 +24476,54 @@
    "pybluez",
    "raspberry-pi"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ricoh-gr-bluetooth-api",
+  "url": "https://github.com/dm-zharov/ricoh-gr-bluetooth-api",
+  "desc": "Ricoh GR Bluetooth API specifications",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "RICOH-GR-Live-View-Shooting",
+  "url": "https://github.com/sky18Dragon/RICOH-GR-Live-View-Shooting",
+  "desc": "M5Stack firmware for Ricoh GR remote live view and BLE shutter",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "telemetry-parser",
+  "url": "https://github.com/AdrianEddy/telemetry-parser",
+  "desc": "Parse embedded telemetry from GoPro, Sony, Insta360, DJI and other camera files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "teslausb",
+  "url": "https://github.com/cimryan/teslausb",
+  "desc": "Smart USB drive for Tesla dashcam with auto-archive to network storage",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Tote",
+  "url": "https://github.com/brianmichel/Tote",
+  "desc": "App to transfer photos from the Ricoh GR III",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "viofosync",
+  "url": "https://github.com/RobXYZ/viofosync",
+  "desc": "Self-hosted app to download and browse Viofo dashcam recordings",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
  },
  {
@@ -23264,6 +24584,14 @@
   "lang": "Shell",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xpeng-dashcam",
+  "url": "https://github.com/psuurbach/xpeng-dashcam",
+  "desc": "Self-hosted viewer for Xpeng built-in dashcam footage",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
   "added": "2026-10-11"
  },
  {
@@ -25140,9 +26468,89 @@
   "added": "2026-10-11"
  },
  {
+  "name": "apixoo",
+  "url": "https://github.com/redphx/apixoo",
+  "desc": "Python package for the Divoom Pixoo app's cloud server",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
   "name": "awtrix3",
   "url": "https://github.com/Blueforcer/awtrix3",
   "desc": "Custom firmware for the Ulanzi TC001 smart pixel clock",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "coolledx-driver",
+  "url": "https://github.com/UpDryTwist/coolledx-driver",
+  "desc": "Driver for LED signs controlled by the CoolLED1248 app",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "divo",
+  "url": "https://github.com/spezifisch/divo",
+  "desc": "Python controller for Divoom Pixoo and Timebox Evo",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "divoom-adapter",
+  "url": "https://github.com/derHeinz/divoom-adapter",
+  "desc": "Implementation of the Divoom AuraBox Bluetooth protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "divoom-control",
+  "url": "https://github.com/MattIPv4/divoom-control",
+  "desc": "Script/CLI for controlling Divoom devices (Pixoo etc.)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "divoom-ditoo-pro-controller",
+  "url": "https://github.com/andreas-mausch/divoom-ditoo-pro-controller",
+  "desc": "Send Bluetooth commands to a Divoom Ditoo Pro without the app",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "divoom-minitoo",
+  "url": "https://github.com/bugzmanov/divoom-minitoo",
+  "desc": "Divoom MiniToo Bluetooth toolkit",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "DivoomClient",
+  "url": "https://github.com/redphx/DivoomClient",
+  "desc": "Decrypt Divoom animations for display on other screens",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Diwoom",
+  "url": "https://github.com/iebb/Diwoom",
+  "desc": "Unofficial Windows Divoom client",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "esp32-divoom",
+  "url": "https://github.com/d03n3rfr1tz3/esp32-divoom",
+  "desc": "ESP32 proxy for Divoom Bluetooth devices",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Lighting & Displays",
   "added": "2026-10-11"
@@ -25167,9 +26575,33 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ESPHome-component-iPixel-ble",
+  "url": "https://github.com/DonKracho/ESPHome-component-iPixel-ble",
+  "desc": "ESPHome component to control iPixel LED boards over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "go-ipxl",
+  "url": "https://github.com/yyewolf/go-ipxl",
+  "desc": "Go library for iPixel Color LED matrices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
   "name": "govee-local-api",
   "url": "https://github.com/Galorhallen/govee-local-api",
   "desc": "Python library for the Govee LAN API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-ipixel-color",
+  "url": "https://github.com/cagcoach/ha-ipixel-color",
+  "desc": "Home Assistant integration for iPixel Color LED displays",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Lighting & Displays",
   "added": "2026-10-11"
@@ -25201,6 +26633,30 @@
    "pixoo",
    "tivoo"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homeassistant-timebox-mini",
+  "url": "https://github.com/mathoudebine/homeassistant-timebox-mini",
+  "desc": "Control a Divoom Timebox Mini from Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "iPixel-CFW",
+  "url": "https://github.com/lucagoc/iPixel-CFW",
+  "desc": "Work-in-progress custom firmware for iPixel Color LED matrices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "iPixel-ESP32",
+  "url": "https://github.com/ToBiDi0410/iPixel-ESP32",
+  "desc": "ESP32 REST API bridge for iPixel Color matrices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
   "added": "2026-10-11"
  },
  {
@@ -25262,6 +26718,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pixoo-client",
+  "url": "https://github.com/virtualabs/pixoo-client",
+  "desc": "Python 3 Bluetooth client for the Divoom Pixoo",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pixoo-rest",
   "url": "https://github.com/4ch1m/pixoo-rest",
   "desc": "REST API to interact with Wi-Fi Divoom Pixoo devices",
@@ -25280,6 +26744,14 @@
    "pixoo64",
    "docker"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pypixelcolor",
+  "url": "https://github.com/lucagoc/pypixelcolor",
+  "desc": "Python library to control iPixel Color LED matrix devices over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
   "added": "2026-10-11"
  },
  {
@@ -25325,6 +26797,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "timebox",
+  "url": "https://github.com/ScR4tCh/timebox",
+  "desc": "CLI utility for the Divoom Timebox",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "timebox",
+  "url": "https://github.com/Smanar/timebox",
+  "desc": "Script to use the Divoom Mini Timebox as a matrix display",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ttls",
   "url": "https://github.com/jschlyter/ttls",
   "desc": "Python client for Twinkly smart LED lights",
@@ -25336,6 +26824,22 @@
   "lang": "Python",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ulanzi_tc001_hardware",
+  "url": "https://github.com/rroels/ulanzi_tc001_hardware",
+  "desc": "Hardware description and Arduino examples for the Ulanzi TC001 pixel clock",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "UnexpectedMatrixPixels",
+  "url": "https://github.com/suchyindustries/UnexpectedMatrixPixels",
+  "desc": "Home Assistant integration for BLE pixel matrix displays (iDotMatrix, iPixel)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Lighting & Displays",
   "added": "2026-10-11"
  },
  {
@@ -25924,6 +27428,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "CareLinkJavaClient",
+  "url": "https://github.com/benceszasz/CareLinkJavaClient",
+  "desc": "Experimental Java library for Medtronic CareLink data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "CGMBLEKit",
   "url": "https://github.com/LoopKit/CGMBLEKit",
   "desc": "Swift BLE interface to Dexcom G5/G6 transmitters",
@@ -25935,6 +27447,14 @@
   "lang": "Swift",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CMS50Dplus",
+  "url": "https://github.com/atbrask/CMS50Dplus",
+  "desc": "Download data from a Contec CMS50D+ pulse oximeter",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -25954,6 +27474,22 @@
    "tandem",
    "wearenotwaiting"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "DashKit",
+  "url": "https://github.com/tidepool-org/DashKit",
+  "desc": "Loop pump-manager plugin for Omnipod DASH",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ddguard",
+  "url": "https://github.com/ondrej1024/ddguard",
+  "desc": "Real-time Medtronic 670G pump and glucose data on your phone",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -25999,6 +27535,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "decoding-dexcom",
+  "url": "https://github.com/bewest/decoding-dexcom",
+  "desc": "Early project decoding the Dexcom receiver protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Dexcom-ESP32-Reader",
+  "url": "https://github.com/TheEpicBigBoss/Dexcom-ESP32-Reader",
+  "desc": "Read Dexcom G5/G6 data on an ESP32",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dexcom-share (node)",
+  "url": "https://github.com/TooTallNate/dexcom-share",
+  "desc": "Async iterator API for Dexcom Share servers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dexcom_reader",
+  "url": "https://github.com/compbrain/dexcom_reader",
+  "desc": "Export data from a Dexcom G4 CGM receiver",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "DiaBLE",
   "url": "https://github.com/gui-dos/DiaBLE",
   "desc": "Test FreeStyle Libre and Dexcom sensors via BLE and NFC on iOS",
@@ -26020,6 +27588,46 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Dxtr",
+  "url": "https://github.com/dirkfabisch/Dxtr",
+  "desc": "iOS app reading Dexcom sensor data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ecc1/dexcom",
+  "url": "https://github.com/ecc1/dexcom",
+  "desc": "Go package for talking to Dexcom CGM receivers and transmitters",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ecc1/medtronic",
+  "url": "https://github.com/ecc1/medtronic",
+  "desc": "Go package for talking to Medtronic pumps via radio modules",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FreeAPS X",
+  "url": "https://github.com/ivalkou/freeaps",
+  "desc": "iOS artificial pancreas system based on OpenAPS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "G4ShareSpy",
+  "url": "https://github.com/mddub/G4ShareSpy",
+  "desc": "iOS framework reading Dexcom G4 Share data over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "G7SensorKit",
   "url": "https://github.com/LoopKit/G7SensorKit",
   "desc": "Dexcom G7 CGM manager for Loop",
@@ -26031,6 +27639,22 @@
   "lang": "Swift",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "glooko-reader",
+  "url": "https://github.com/spamsch/glooko-reader",
+  "desc": "Unofficial Python client for the Glooko diabetes data platform",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "GlucoDataHandler",
+  "url": "https://github.com/pachi81/GlucoDataHandler",
+  "desc": "Android app that collects CGM data from many sources for watches and cars",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26048,6 +27672,46 @@
    "glucose",
    "diabetes"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-omron",
+  "url": "https://github.com/eigger/hass-omron",
+  "desc": "Omron BLE blood pressure monitor integration for Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HealthConnect-LibreLinkUp",
+  "url": "https://github.com/c99koder/HealthConnect-LibreLinkUp",
+  "desc": "Sync LibreLinkUp data to Health Connect and Wear OS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Home-Assistant-Carelink",
+  "url": "https://github.com/yo-han/Home-Assistant-Carelink",
+  "desc": "Unofficial Medtronic CareLink component for Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "iAPS",
+  "url": "https://github.com/Artificial-Pancreas/iAPS",
+  "desc": "iOS artificial pancreas system based on OpenAPS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "jomnipod",
+  "url": "https://github.com/tias79/jomnipod",
+  "desc": "Java parser for Omnipod PDM IBF data files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26072,6 +27736,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "libomron",
+  "url": "https://github.com/openyou/libomron",
+  "desc": "Library for accessing data from Omron medical devices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "libre-link-unofficial-api",
   "url": "https://github.com/DRFR0ST/libre-link-unofficial-api",
   "desc": "Unofficial TypeScript API for Abbott LibreLink Up",
@@ -26091,6 +27763,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "librelink (HA)",
+  "url": "https://github.com/gillesvs/librelink",
+  "desc": "LibreLink integration for Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LibreLinkUpDesktop",
+  "url": "https://github.com/Crazy-Marvin/LibreLinkUpDesktop",
+  "desc": "Desktop app showing glucose from LibreLinkUp",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "LibreMonitor",
   "url": "https://github.com/UPetersen/LibreMonitor",
   "desc": "Monitor a FreeStyle Libre sensor via an NFC-to-BLE bridge",
@@ -26102,6 +27790,22 @@
   "lang": "Swift",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LibreTransmitter",
+  "url": "https://github.com/dabear/LibreTransmitter",
+  "desc": "Loop CGM manager for Libre sensors via transmitters",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LibreView-HomeAssistant",
+  "url": "https://github.com/PTST/LibreView-HomeAssistant",
+  "desc": "Integrate LibreView sensor data with Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26147,6 +27851,70 @@
   "added": "2026-10-11"
  },
  {
+  "name": "luka-mini",
+  "url": "https://github.com/kylebshr/luka-mini",
+  "desc": "Dexcom Share CGM readings in the macOS menu bar",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Medtronic-6xx",
+  "url": "https://github.com/LilDucky/Medtronic-6xx",
+  "desc": "Investigation of Medtronic 6xx 802.15.4 radio comms",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MedtronicUploader",
+  "url": "https://github.com/arbox0/MedtronicUploader",
+  "desc": "Medtronic pump data uploader for Nightscout",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "minimed-connect-to-nightscout",
+  "url": "https://github.com/nightscout/minimed-connect-to-nightscout",
+  "desc": "Send Medtronic CareLink Connect data to Nightscout",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "minimed_rf",
+  "url": "https://github.com/ps2/minimed_rf",
+  "desc": "Decoding the Medtronic pump, Enlite CGM and MySentry radio protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MinimedKit",
+  "url": "https://github.com/LoopKit/MinimedKit",
+  "desc": "Loop pump-manager plugin for Medtronic pumps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mmblelink",
+  "url": "https://github.com/bewest/mmblelink",
+  "desc": "Pure Python RileyLink BLE driver for Medtronic pumps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nightscout-connect",
+  "url": "https://github.com/nightscout/nightscout-connect",
+  "desc": "Bridge Dexcom Share, LibreLinkUp, CareLink and Glooko clouds into Nightscout",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "nightscout-librelink-up",
   "url": "https://github.com/timoschlueter/nightscout-librelink-up",
   "desc": "Uploads LibreLink Up CGM readings to Nightscout",
@@ -26168,6 +27936,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "obpm",
+  "url": "https://github.com/LazyT/obpm",
+  "desc": "Omron blood pressure manager reading monitors over USB",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "omblepy",
   "url": "https://github.com/userx14/omblepy",
   "desc": "CLI to read records from Omron Bluetooth blood-pressure monitors",
@@ -26184,6 +27960,78 @@
    "cli",
    "omron"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OmniCore",
+  "url": "https://github.com/winemug/OmniCore",
+  "desc": "Control Omnipod insulin pods from your phone",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OmniKit",
+  "url": "https://github.com/LoopKit/OmniKit",
+  "desc": "Loop pump-manager plugin for Omnipod Eros pods",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "omnipod_rf",
+  "url": "https://github.com/ps2/omnipod_rf",
+  "desc": "Python SDR tools for decoding Omnipod RF packets",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OmnipodKit",
+  "url": "https://github.com/loopandlearn/OmnipodKit",
+  "desc": "Open interface for all Omnipod types for DIY automated insulin delivery",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "omnipy",
+  "url": "https://github.com/winemug/omnipy",
+  "desc": "Python control of Omnipod Eros pods via RileyLink",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "omramin",
+  "url": "https://github.com/bugficks/omramin",
+  "desc": "Sync OMRON connect blood pressure and weight to Garmin Connect",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "openxshareble",
+  "url": "https://github.com/openaps/openxshareble",
+  "desc": "OpenAPS driver for Dexcom G4 with Share over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pingrf",
+  "url": "https://github.com/mariusae/pingrf",
+  "desc": "RF stack for the Animas OneTouch Ping insulin pump",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pummpcomm",
+  "url": "https://github.com/infinity-aps/pummpcomm",
+  "desc": "Elixir package for communicating with Medtronic pumps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26222,6 +28070,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "rileylink_ios",
+  "url": "https://github.com/ps2/rileylink_ios",
+  "desc": "iOS frameworks for RileyLink radio bridges to pumps and CGMs",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "share2nightscout-bridge",
   "url": "https://github.com/nightscout/share2nightscout-bridge",
   "desc": "Bridges Dexcom Share data into Nightscout",
@@ -26233,6 +28089,22 @@
   "lang": "JavaScript",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SightRemote",
+  "url": "https://github.com/TebbeUbben/SightRemote",
+  "desc": "Android remote control for the Accu-Chek Insight pump (deprecated)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Spike",
+  "url": "https://github.com/SpikeApp/Spike",
+  "desc": "iOS app reading CGM transmitters (Dexcom, Libre bridges)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26265,6 +28137,14 @@
   "lang": "JavaScript",
   "license": "BSD-2-Clause",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wixel-xDrip",
+  "url": "https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip",
+  "desc": "Wixel firmware letting a DIY bridge act as a Dexcom receiver",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -26312,6 +28192,14 @@
    "carelink",
    "xdrip"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ypsopump-research",
+  "url": "https://github.com/SandraK82/ypsopump-research",
+  "desc": "Reverse-engineering docs and AndroidAPS driver for the YpsoPump",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
  },
  {
@@ -27106,6 +28994,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "8bitdo-kbd-mapper",
+  "url": "https://github.com/goncalor/8bitdo-kbd-mapper",
+  "desc": "Key mapper for the 8BitDo Retro Mechanical Keyboard",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "8bitdo-spec",
+  "url": "https://github.com/TheJayMann/8bitdo-spec",
+  "desc": "Documentation of the protocol used to configure 8BitDo controllers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "attack-shark-linux",
   "url": "https://github.com/blak0p/attack-shark-linux",
   "desc": "Reverse-engineered gaming mouse HID protocol to configure it on Linux",
@@ -27491,6 +29395,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "huion-linux-drivers",
+  "url": "https://github.com/joseluis/huion-linux-drivers",
+  "desc": "Linux user-space drivers for Huion graphics tablets",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "input-wacom",
   "url": "https://github.com/linuxwacom/input-wacom",
   "desc": "Linux kernel driver for Wacom tablets",
@@ -27515,6 +29427,22 @@
   "name": "InputPlumber",
   "url": "https://github.com/ShadowBlip/InputPlumber",
   "desc": "Input router and remapper daemon for handheld PC controllers on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Insta360-Link-1-and-2-Controller-for-Linux",
+  "url": "https://github.com/vrwallace/Insta360-Link-1-and-2-Controller-for-Linux",
+  "desc": "Insta360 Link 1/2 webcam controller for Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "insta360-link-firmware-re",
+  "url": "https://github.com/schlarpc/insta360-link-firmware-re",
+  "desc": "Reverse engineering Insta360 Link webcam firmware and UVC control protocol",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
@@ -27616,6 +29544,14 @@
   "lang": "Eagle",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kludgeknight",
+  "url": "https://github.com/vinc3m1/kludgeknight",
+  "desc": "Browser-based open-source configurator for Royal Kludge keyboards",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
  },
  {
@@ -27824,6 +29760,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "meet4k",
+  "url": "https://github.com/samliddicott/meet4k",
+  "desc": "Control extra features of the OBSBOT Meet 4K camera on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "mouse_m908",
   "url": "https://github.com/dokutan/mouse_m908",
   "desc": "Control Redragon gaming mice from Linux, BSD and Haiku",
@@ -27947,6 +29891,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "NSW2-controller-enabler",
+  "url": "https://github.com/ikz87/NSW2-controller-enabler",
+  "desc": "Scripts to enable Switch 2 Pro/GameCube controllers via USB",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "nxbt",
   "url": "https://github.com/Brikwerk/nxbt",
   "desc": "Emulate Switch controllers over Bluetooth to control a Nintendo Switch",
@@ -27989,6 +29941,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "obsbot-camera-control",
+  "url": "https://github.com/aaronsb/obsbot-camera-control",
+  "desc": "Qt app on Linux to manage OBSBOT webcams including AI tracking",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "obsbot-tiny-2-control",
+  "url": "https://github.com/mitchelloharawild/obsbot-tiny-2-control",
+  "desc": "Python control of OBSBOT Tiny 2 AI modes",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ogx360",
   "url": "https://github.com/Ryzee119/ogx360",
   "desc": "Add modern XInput USB controller support to the original Xbox",
@@ -28002,6 +29970,14 @@
   "topics": [
    "hacktoberfest"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "openbitdo",
+  "url": "https://github.com/bybrooklyn/openbitdo",
+  "desc": "8BitDo controller customization software for Linux/macOS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
  },
  {
@@ -28410,6 +30386,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "rangoli",
+  "url": "https://github.com/rnayabed/rangoli",
+  "desc": "Open-source cross-platform software for Royal Kludge keyboards",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "razer-macos",
   "url": "https://github.com/1kc/razer-macos",
   "desc": "Color effects manager for Razer devices on macOS",
@@ -28454,6 +30438,22 @@
    "mouse",
    "cli"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "rkcu",
+  "url": "https://github.com/oddlyspaced/rkcu",
+  "desc": "Reverse-engineered USB configuration tool for Royal Kludge RK61 keyboards",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Royal-Kludge-R75",
+  "url": "https://github.com/snakkarike/Royal-Kludge-R75",
+  "desc": "Custom QMK firmware for the Royal Kludge R75",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
  },
  {
@@ -28558,6 +30558,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "switch2-controllers",
+  "url": "https://github.com/Nadeflore/switch2-controllers",
+  "desc": "Use Nintendo Switch 2 Joy-Cons on PC",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Switch2-Controllers",
+  "url": "https://github.com/Nohzockt/Switch2-Controllers",
+  "desc": "Tools and GUI to connect Nintendo Switch 2 controllers to PC",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "switch2-controllers-linux",
+  "url": "https://github.com/trevlars/switch2-controllers-linux",
+  "desc": "Wireless Switch 2 controllers (Joy-Con 2, Pro 2, NSO GameCube) on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "switch2_controller_research",
+  "url": "https://github.com/ndeadly/switch2_controller_research",
+  "desc": "Research into Nintendo Switch 2 controller protocols",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "t150_driver",
   "url": "https://github.com/scarburato/t150_driver",
   "desc": "Linux driver for the Thrustmaster T150 steering wheel",
@@ -28580,6 +30612,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tiny2",
+  "url": "https://github.com/cgevans/tiny2",
+  "desc": "Linux GUI controller for the OBSBOT Tiny 2 webcam",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Tiny4Linux",
+  "url": "https://github.com/OpenFoxes/Tiny4Linux",
+  "desc": "GUI and CLI controller for the OBSBOT Tiny 2 on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "tip-toi-reveng",
   "url": "https://github.com/entropia/tip-toi-reveng",
   "desc": "Reverse-engineered file format of the Ravensburger TipToi audio pen; tttool to make content",
@@ -28591,6 +30639,14 @@
   "lang": "Haskell",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ulanzi-d200-linux",
+  "url": "https://github.com/racerxdl/ulanzi-d200-linux",
+  "desc": "Linux manager for the Ulanzi D200 stream deck",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
  },
  {
@@ -28633,6 +30689,22 @@
    "libfprint",
    "linux"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wavebird",
+  "url": "https://github.com/murphyjt/wavebird",
+  "desc": "Nintendo Switch 2 controller bridge app for macOS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "WebCamControl",
+  "url": "https://github.com/Daniel15/WebCamControl",
+  "desc": "Linux alternative to Insta360 Link Controller for PTZ webcams",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Peripherals & Gaming Hardware",
   "added": "2026-10-11"
  },
  {
@@ -28777,6 +30849,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ATC_GICISKY_ESL",
+  "url": "https://github.com/atc1441/ATC_GICISKY_ESL",
+  "desc": "Info and example code to control Gicisky/PICKSMART e-paper shelf labels",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ATC_TLSR_Paper",
   "url": "https://github.com/atc1441/ATC_TLSR_Paper",
   "desc": "Custom BLE firmware for Hanshow e-paper shelf labels",
@@ -28813,6 +30893,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "canon-selphy-print",
+  "url": "https://github.com/abelits/canon-selphy-print",
+  "desc": "Print to Canon SELPHY CP1200 and compatible printers over Wi-Fi",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
   "name": "dymoprint",
   "url": "https://github.com/computerlyrik/dymoprint",
   "desc": "Linux software to print with DYMO LabelManager PnP",
@@ -28827,9 +30915,105 @@
   "added": "2026-10-11"
  },
  {
+  "name": "gicisky-tag",
+  "url": "https://github.com/fpoli/gicisky-tag",
+  "desc": "Python tool to write an image to a Gicisky e-paper tag",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "gicisky_image_notes",
+  "url": "https://github.com/Cabalist/gicisky_image_notes",
+  "desc": "Notes on reversing the Gicisky e-paper image format",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "go-selphy-cp",
+  "url": "https://github.com/gonzaloserrano/go-selphy-cp",
+  "desc": "Send pictures to Canon SELPHY CP printers via Wi-Fi",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hanshow",
+  "url": "https://github.com/CursedHardware/hanshow",
+  "desc": "Research and tools for Hanshow electronic shelf label products",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hanshow",
+  "url": "https://github.com/ixy05/hanshow",
+  "desc": "Findings about Hanshow Nebular e-paper ESL price labels",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Hanshow-Auto-Updater",
+  "url": "https://github.com/MakersFunDuck/Hanshow-Auto-Updater",
+  "desc": "Auto-update Hanshow price tags with website content",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HanshowClock",
+  "url": "https://github.com/reiyawea/HanshowClock",
+  "desc": "Custom clock firmware for Hanshow e-paper price tags",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HanshowEpd",
+  "url": "https://github.com/xxp1943/HanshowEpd",
+  "desc": "Reprogram the Hanshow 2.13\" price tag as an e-paper clock",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HanshowESL",
+  "url": "https://github.com/dustybee/HanshowESL",
+  "desc": "Hanshow ESL custom firmware and information",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-ble-esl",
+  "url": "https://github.com/eigger/hass-ble-esl",
+  "desc": "Home Assistant integration for BLE e-paper shelf labels (WOLINK, easyTag, PickSmart)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
   "name": "hass-gicisky",
   "url": "https://github.com/eigger/hass-gicisky",
   "desc": "Home Assistant integration for Gicisky BLE e-paper labels",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "InstantLink",
+  "url": "https://github.com/wu-hongjun/InstantLink",
+  "desc": "Open-source driver for Fujifilm Instax Link printers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "instax-link-web",
+  "url": "https://github.com/linssenste/instax-link-web",
+  "desc": "Web app to print to Fujifilm Instax Link printers over Web Bluetooth",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Printers, Labels & E-ink",
   "added": "2026-10-11"
@@ -28860,6 +31044,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "labler",
+  "url": "https://github.com/toolicious/labler",
+  "desc": "BLE label printer app for Marklife thermal label printers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
   "added": "2026-10-11"
  },
  {
@@ -28969,6 +31161,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pricetag-printer",
+  "url": "https://github.com/rbaron/pricetag-printer",
+  "desc": "Python script to print images to Hanshow price tags",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "supvan-cups",
+  "url": "https://github.com/heeen/supvan-cups",
+  "desc": "Linux CUPS driver for Supvan T50 Pro / Katasymbol M50 Pro label printers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "supvan-katasymbol-printer-web-ui",
+  "url": "https://github.com/khromov/supvan-katasymbol-printer-web-ui",
+  "desc": "Web UI to design and print labels on Supvan/Katasymbol printers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Thermal_Printer",
   "url": "https://github.com/bitbank2/Thermal_Printer",
   "desc": "Arduino library to draw text and graphics on cheap BLE thermal printers",
@@ -28980,6 +31196,22 @@
   "lang": "C",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "thermoprint",
+  "url": "https://github.com/tomLadder/thermoprint",
+  "desc": "Design and print labels for Marklife/Pristar P15, P12, P7 Bluetooth thermal printers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "walmart-esl-flipper",
+  "url": "https://github.com/dbzx6r/walmart-esl-flipper",
+  "desc": "Repurpose Hanshow Stellar e-ink price tags with a Flipper Zero or Python",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Printers, Labels & E-ink",
   "added": "2026-10-11"
  },
  {
@@ -34577,6 +36809,78 @@
   "added": "2026-10-11"
  },
  {
+  "name": "breezy-desktop",
+  "url": "https://github.com/wheaney/breezy-desktop",
+  "desc": "XR virtual desktop for Linux using reverse-engineered AR glasses drivers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BrokenEye",
+  "url": "https://github.com/ghostiam/BrokenEye",
+  "desc": "Access eye tracking data and camera images on Pimax Crystal and HP Reverb G2 Omnicept",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "eveng1_python_sdk",
+  "url": "https://github.com/binarythinktank/eveng1_python_sdk",
+  "desc": "Python SDK for Even Realities G1 smart glasses over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "evenRealities-openCFW",
+  "url": "https://github.com/kalanihelekunihi/evenRealities-openCFW",
+  "desc": "Open-source custom firmware and docs for Even Realities glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "faceclaw",
+  "url": "https://github.com/jimrandomh/faceclaw",
+  "desc": "Custom user interface for the Even Realities G2 smart glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "g1_flutter_blue_plus",
+  "url": "https://github.com/emingenc/g1_flutter_blue_plus",
+  "desc": "Flutter BLE implementation for Even Realities G1 glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "g2-kit-unofficial",
+  "url": "https://github.com/Commute773/g2-kit-unofficial",
+  "desc": "Direct BLE transport and UI libraries for Even Realities G2 glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "G2CC",
+  "url": "https://github.com/expectbugs/G2CC",
+  "desc": "Custom windowed OS for Even Realities G2 glasses with direct-BLE Android client",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "g2flash",
+  "url": "https://github.com/jimrandomh/g2flash",
+  "desc": "Script to apply custom firmware to Even Realities G2 smart glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
   "name": "lighthouse-v2-manager",
   "url": "https://github.com/nouser2013/lighthouse-v2-manager",
   "desc": "Python script to power Valve Lighthouse V2 base stations on and off via BLE",
@@ -34619,9 +36923,105 @@
   "added": "2026-10-11"
  },
  {
+  "name": "MacMorpheus",
+  "url": "https://github.com/emoRaivis/MacMorpheus",
+  "desc": "3D 180/360 video player for macOS using the PSVR headset",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nrealAirLinuxDriver",
+  "url": "https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver",
+  "desc": "Linux driver for Nreal/Xreal Air glasses IMU and display modes",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "One-Pro-IMU-Retriever-Demo",
+  "url": "https://github.com/SamiMitwalli/One-Pro-IMU-Retriever-Demo",
+  "desc": "Head tracking demo from the Xreal One Pro IMU sensor",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OpenPSVR",
+  "url": "https://github.com/alatnet/OpenPSVR",
+  "desc": "Open-source OpenVR driver for the PlayStation VR headset",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Pimax-OpenXR",
+  "url": "https://github.com/mbucchia/Pimax-OpenXR",
+  "desc": "Unofficial OpenXR runtime implementation for Pimax headsets",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pimax_bs_manager",
+  "url": "https://github.com/mann1x/pimax_bs_manager",
+  "desc": "Pimax base station power manager for Windows",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PimaxMagic4All",
+  "url": "https://github.com/mbucchia/PimaxMagic4All",
+  "desc": "Make Pimax foveated rendering (LibMagic) work on other headsets",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
   "name": "PSMoveService",
   "url": "https://github.com/psmoveservice/PSMoveService",
   "desc": "Service for PS Move controller tracking and pose data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "psvr-protocol",
+  "url": "https://github.com/dylanmckay/psvr-protocol",
+  "desc": "Breakdown of PlayStation VR communication protocols",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PSVR2",
+  "url": "https://github.com/DMJC/PSVR2",
+  "desc": "Attempt to make PSVR2 work under Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PSVR2-controller-explorer",
+  "url": "https://github.com/AwesomeTornado/PSVR2-controller-explorer",
+  "desc": "Reverse engineering the PSVR2 Sense controllers for PC access",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "psvr2-linux-adapter",
+  "url": "https://github.com/unterschall/psvr2-linux-adapter",
+  "desc": "Project to make the PSVR2 work on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "psvr2passthrough",
+  "url": "https://github.com/AdamChesters/psvr2passthrough",
+  "desc": "OpenXR passthrough camera layer for PSVR2 on PC",
   "category": "Devices, IoT & Hardware",
   "subcategory": "VR & Tracking",
   "added": "2026-10-11"
@@ -34641,6 +37041,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PSVR2Toolkit.VRCFT",
+  "url": "https://github.com/BnuuySolutions/PSVR2Toolkit.VRCFT",
+  "desc": "VRCFaceTracking module exposing PSVR2 eye tracking",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
   "name": "PSVRFramework",
   "url": "https://github.com/gusmanb/PSVRFramework",
   "desc": "Framework and tools to use the PlayStation VR headset on PC",
@@ -34652,6 +37060,30 @@
   "lang": "C#",
   "license": "AGPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PSVRTest",
+  "url": "https://github.com/tokkyo/PSVRTest",
+  "desc": "Read PlayStation VR accelerometer data via USB",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PSVRTracker",
+  "url": "https://github.com/HipsterSloth/PSVRTracker",
+  "desc": "Position and orientation tracking for the PSVR headset on PC",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pyPSVR",
+  "url": "https://github.com/mungewell/pyPSVR",
+  "desc": "Python scripts to control and interact with the PlayStation VR",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
   "added": "2026-10-11"
  },
  {
@@ -34672,6 +37104,22 @@
    "openxr",
    "vr"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xreal-webxr",
+  "url": "https://github.com/jakedowns/xreal-webxr",
+  "desc": "WebXR support for Xreal AR glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xreal_one_driver",
+  "url": "https://github.com/rohitsangwan01/xreal_one_driver",
+  "desc": "Rust driver for Xreal One glasses IMU data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "VR & Tracking",
   "added": "2026-10-11"
  },
  {
@@ -34696,6 +37144,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Amazfitbip-FreeRTOS",
+  "url": "https://github.com/dslul/Amazfitbip-FreeRTOS",
+  "desc": "Barebone FreeRTOS firmware for the Amazfit Bip",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AmazfitCommunication",
+  "url": "https://github.com/KieronQuinn/AmazfitCommunication",
+  "desc": "Two-way phone/watch communication library for Amazfit Pace and Stratos",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "amazfitutils",
+  "url": "https://github.com/EXOMODE/amazfitutils",
+  "desc": "Tools for working with Amazfit watchface files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AmazMod",
+  "url": "https://github.com/AmazMod/AmazMod",
+  "desc": "Replacement notification system and tweaks for Amazfit Pace/Stratos",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "AndroidAPS",
   "url": "https://github.com/nightscout/AndroidAPS",
   "desc": "Open-source artificial pancreas system for Android with pump drivers",
@@ -34715,6 +37195,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "antfs-cli",
+  "url": "https://github.com/Tigge/antfs-cli",
+  "desc": "Extract FIT files from ANT-FS Garmin watches",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "applehealthdata",
   "url": "https://github.com/tdda/applehealthdata",
   "desc": "Extract data from Apple Health XML export",
@@ -34729,6 +37217,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ATC_RF03_Ring",
+  "url": "https://github.com/atc1441/ATC_RF03_Ring",
+  "desc": "Findings and custom firmware for Colmi R02-class smart rings",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ATCmiBand8fw",
   "url": "https://github.com/atc1441/ATCmiBand8fw",
   "desc": "Custom firmware for the Xiaomi Mi Band 8 fitness band",
@@ -34740,6 +37236,14 @@
   "lang": "HTML",
   "license": "GPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "atria",
+  "url": "https://github.com/adidshaft/atria",
+  "desc": "Local-first iOS companion app for WHOOP straps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -34827,6 +37331,78 @@
   "added": "2026-10-11"
  },
  {
+  "name": "colmi_r02_client",
+  "url": "https://github.com/tahnok/colmi_r02_client",
+  "desc": "Python client and protocol docs for the Colmi R02 smart ring",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "coros-api",
+  "url": "https://github.com/xballoy/coros-api",
+  "desc": "Bulk export COROS activities to FIT",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "coros-connect",
+  "url": "https://github.com/NYT87/coros-connect",
+  "desc": "Interact with the COROS API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CyKit",
+  "url": "https://github.com/CymatiCorp/CyKit",
+  "desc": "Stream raw Emotiv EEG headset data to browsers and clients",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dotnet.garmin.connect",
+  "url": "https://github.com/sealbro/dotnet.garmin.connect",
+  "desc": "Unofficial .NET Garmin Connect client",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "eight-sleep (HA)",
+  "url": "https://github.com/grantnedwards/eight-sleep",
+  "desc": "Home Assistant integration for Eight Sleep mattresses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "eight-sleep-local",
+  "url": "https://github.com/adamksmith/eight-sleep-local",
+  "desc": "Local Eight Sleep integration built on Free Sleep",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "EightSleepPod2Server",
+  "url": "https://github.com/a-chaudhari/EightSleepPod2Server",
+  "desc": "Spark protocol server to control Eight Sleep Pod 2 locally",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "emokit",
+  "url": "https://github.com/openyou/emokit",
+  "desc": "Open-source driver for raw Emotiv EPOC EEG data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "etekcity_fitness_scale_ble",
   "url": "https://github.com/ronnnnnnnnnnnnn/etekcity_fitness_scale_ble",
   "desc": "Home Assistant integration for Etekcity BLE fitness scales",
@@ -34845,6 +37421,22 @@
    "fitness-scale",
    "hacs"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "example-android-mi-band-2",
+  "url": "https://github.com/aashari/example-android-mi-band-2",
+  "desc": "Android example of the Mi Band 2 BLE protocol and auth",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "export2garmin",
+  "url": "https://github.com/RobertWojtowicz/export2garmin",
+  "desc": "Export Xiaomi scale and Omron BLE data to Garmin Connect",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -34890,6 +37482,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Fossil-HR-SDK",
+  "url": "https://github.com/dakhnod/Fossil-HR-SDK",
+  "desc": "SDK and docs for building apps for Fossil Hybrid HR watches",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "freesleep-notes",
+  "url": "https://github.com/appositeit/freesleep-notes",
+  "desc": "Notes for open-source local control of the Eight Sleep Pod 3",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Gadgetbridge",
   "url": "https://github.com/Freeyourgadget/Gadgetbridge",
   "desc": "Cloudless Android app for Mi Band, Amazfit, Pebble and other wearables (GitHub mirror; now on Codeberg)",
@@ -34929,6 +37537,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "garmin-connect (node)",
+  "url": "https://github.com/Pythe1337N/garmin-connect",
+  "desc": "Node.js client to get or set any Garmin Connect data point",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "garmin-connect-export",
   "url": "https://github.com/pe-st/garmin-connect-export",
   "desc": "Download your Garmin Connect data and GPX tracks via its web API",
@@ -34940,6 +37556,22 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "garmin-connect-export (kjkjava)",
+  "url": "https://github.com/kjkjava/garmin-connect-export",
+  "desc": "Original script to download Garmin Connect data and GPX tracks",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "garmin-grafana",
+  "url": "https://github.com/arpanghosh8453/garmin-grafana",
+  "desc": "Fetch Garmin Connect health data into InfluxDB/Grafana",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -34997,6 +37629,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "GcpUploader",
+  "url": "https://github.com/dlotton/GcpUploader",
+  "desc": "Python uploader for Garmin Connect",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "GShockSmartSync",
   "url": "https://github.com/izivkov/CasioGShockSmartSync",
   "desc": "Android app to sync Casio G-Shock watches over BLE",
@@ -35008,6 +37648,14 @@
   "lang": "Kotlin",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "GShockTimeServer",
+  "url": "https://github.com/izivkov/GShockTimeServer",
+  "desc": "Python script to set time on Casio G-Shock watches over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35027,6 +37675,22 @@
    "homeassistant-integration",
    "hatch-baby-rest"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "harbour-amazfish",
+  "url": "https://github.com/piggz/harbour-amazfish",
+  "desc": "Amazfit/Mi Band and other smartwatch support for Sailfish OS and Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-walkingpad",
+  "url": "https://github.com/mcdax/hass-walkingpad",
+  "desc": "Home Assistant integration for KingSmith WalkingPad treadmills",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35069,6 +37733,30 @@
    "fitness",
    "band"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "home-assistant-garmin_connect",
+  "url": "https://github.com/cyberjunky/home-assistant-garmin_connect",
+  "desc": "Garmin Connect health data integration for Home Assistant",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "homebridge-eightsleep",
+  "url": "https://github.com/nfarina/homebridge-eightsleep",
+  "desc": "Homebridge plugin for Eight Sleep",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HuaFetch",
+  "url": "https://github.com/Keddnyo/HuaFetch",
+  "desc": "Fetch Huami wearable pairing data (auth keys) for third-party apps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35125,6 +37813,62 @@
   "added": "2026-10-11"
  },
  {
+  "name": "loophole",
+  "url": "https://github.com/rsc-dev/loophole",
+  "desc": "Python API and CLI for Polar devices (reversed protocol)",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "lunaris",
+  "url": "https://github.com/Schluggi/lunaris",
+  "desc": "Home Assistant-first custom firmware for Eight Sleep Pod 3/4/5",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Mi-Band",
+  "url": "https://github.com/betomaluje/Mi-Band",
+  "desc": "Mi Band BLE integration library for Android",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "miband-5-heart-rate-monitor",
+  "url": "https://github.com/Jaapp-/miband-5-heart-rate-monitor",
+  "desc": "Web Bluetooth heart rate monitor for Mi Band 4 and 5",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MiBand-5-watchface-editor",
+  "url": "https://github.com/Johnson070/MiBand-5-watchface-editor",
+  "desc": "Watch face editor for Mi Band 5 and 6",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "miband-android",
+  "url": "https://github.com/dkhmelenko/miband-android",
+  "desc": "Unofficial Android SDK for Xiaomi Mi Band",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "miband-heartrate",
+  "url": "https://github.com/Eryux/miband-heartrate",
+  "desc": "Enable and monitor heart rate from Mi Band 2/3/4 on Windows",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "miband-js",
   "url": "https://github.com/vshymanskyy/miband-js",
   "desc": "Xiaomi Mi Band 2 library for Node.js and Web Bluetooth",
@@ -35142,6 +37886,14 @@
    "nodejs",
    "xiaomi"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MiBand10-BES2700 hacking",
+  "url": "https://github.com/atc1441/MiBand10-BES2700iMP-BEST1503-Hacking",
+  "desc": "Research and custom firmware for Mi Band 9/10 BES2700 SoC",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35174,6 +37926,46 @@
    "xiaomi",
    "bluetooth-low-energy"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "miband_analytics",
+  "url": "https://github.com/ckesc/miband_analytics",
+  "desc": "Analytics for Mi Band data extracted from the Mi Fit database",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MiBandDecompiled",
+  "url": "https://github.com/vishnudevk/MiBandDecompiled",
+  "desc": "Decompilation of the official Xiaomi Mi Band app",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MiBandReader",
+  "url": "https://github.com/brookwillow/MiBandReader",
+  "desc": "Read Mi Band steps and battery and trigger vibration",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MiDoze",
+  "url": "https://github.com/Keddnyo/MiDoze",
+  "desc": "Firmware fetcher for Huami/Amazfit wearables",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mindwave-python",
+  "url": "https://github.com/BarkleyUS/mindwave-python",
+  "desc": "Python parser for NeuroSky MindWave EEG headsets",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35226,6 +38018,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "noop",
+  "url": "https://github.com/muftiarfan/noop",
+  "desc": "Offline WHOOP companion that pairs over BLE and keeps data local",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OmniBLE",
   "url": "https://github.com/LoopKit/OmniBLE",
   "desc": "Swift driver for the Omnipod DASH insulin pump BLE protocol",
@@ -35237,6 +38037,22 @@
   "lang": "Swift",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "open_oura",
+  "url": "https://github.com/Th0rgal/open_oura",
+  "desc": "Rust toolkit with reverse-engineered BLE protocol for Oura Ring Gen 3/4/5",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "open_ring",
+  "url": "https://github.com/LogosIsLife/open_ring",
+  "desc": "Pure Python driver for the Oura Ring",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35317,6 +38133,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "OpenStrap protocol",
+  "url": "https://github.com/OpenStrap/protocol",
+  "desc": "Dart decoder for WHOOP 4.0/5/MG, Oura ring and generic HR strap protocols",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "oref0",
   "url": "https://github.com/openaps/oref0",
   "desc": "OpenAPS reference design for artificial pancreas algorithms",
@@ -35378,6 +38202,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "php-garmin-connect",
+  "url": "https://github.com/10REM/php-garmin-connect",
+  "desc": "PHP adapter for the Garmin Connect web API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "polar-flow-export",
+  "url": "https://github.com/gabrielreid/polar-flow-export",
+  "desc": "Bulk export TCX files from Polar Flow",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "py_amazfit_tools",
+  "url": "https://github.com/ghtalpo/py_amazfit_tools",
+  "desc": "Pack/unpack .bin watchfaces for Amazfit Verge Lite/GTR/GTS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pydexcom",
   "url": "https://github.com/gagebenne/pydexcom",
   "desc": "Python API to read Dexcom Share CGM data",
@@ -35396,6 +38244,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pylotoncycle",
+  "url": "https://github.com/justmedude/pylotoncycle",
+  "desc": "Python library for Peloton workout data via its web API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pysnoo",
   "url": "https://github.com/rado0x54/pysnoo",
   "desc": "Python library for the SNOO smart bassinet API",
@@ -35407,6 +38263,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-ant-downloader",
+  "url": "https://github.com/braiden/python-ant-downloader",
+  "desc": "Download data from Garmin ANT wireless devices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35462,6 +38326,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "reverse-engineering-whoop-post",
+  "url": "https://github.com/bWanShiTong/reverse-engineering-whoop-post",
+  "desc": "Write-up and code reverse engineering the WHOOP strap BLE protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "RileyLink",
   "url": "https://github.com/ps2/rileylink",
   "desc": "Hardware bridge between Bluetooth and Medtronic/Omnipod pump radio protocols",
@@ -35490,6 +38362,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "suunto-api-wrapper",
+  "url": "https://github.com/Marius-Ar/suunto-api-wrapper",
+  "desc": "Unofficial TypeScript client for the Suunto app API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Trio",
   "url": "https://github.com/nightscout/Trio",
   "desc": "iOS automated insulin delivery system based on OpenAPS",
@@ -35510,6 +38390,54 @@
   "added": "2026-10-11"
  },
  {
+  "name": "unofficialWhoopAPI",
+  "url": "https://github.com/ianm199/unofficialWhoopAPI",
+  "desc": "Unofficial WHOOP API client",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vrc-osc-miband-hrm",
+  "url": "https://github.com/vard88508/vrc-osc-miband-hrm",
+  "desc": "Mi Band/Amazfit heart rate over BLE to VRChat via OSC",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Watch-face-editor (ZeppOS)",
+  "url": "https://github.com/SashaCX75/Watch-face-editor-for-Amazfit-watch-on-ZeppOS",
+  "desc": "GUI editor for Amazfit ZeppOS watch faces",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "watchface-js",
+  "url": "https://github.com/Nadeflore/watchface-js",
+  "desc": "JavaScript library for parsing Huami watchface binaries",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "watchface-web-editor",
+  "url": "https://github.com/Nadeflore/watchface-web-editor",
+  "desc": "Web editor for Huami .bin watchfaces",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "watchfaceEditor",
+  "url": "https://github.com/v1ack/watchfaceEditor",
+  "desc": "Amazfit Bip and Cor watchface viewer and editor",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "whoop-ble-swift",
   "url": "https://github.com/Asherlc/whoop-ble-swift",
   "desc": "Swift package for the undocumented Whoop strap BLE protocol",
@@ -35526,6 +38454,14 @@
    "swift-package-manager",
    "whoop"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "whoop-downloader",
+  "url": "https://github.com/irickman/whoop-downloader",
+  "desc": "Functions to download data from WHOOP's internal API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35554,6 +38490,22 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Withings2Garmin",
+  "url": "https://github.com/sodelalbert/Withings2Garmin",
+  "desc": "Sync Withings weight data to Garmin Connect",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ws30",
+  "url": "https://github.com/mncoppola/ws30",
+  "desc": "Tools for reverse engineering the Withings WS-30 Wi-Fi scale",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -35596,6 +38548,30 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zepp-food-extractor",
+  "url": "https://github.com/lcanis/zepp-food-extractor",
+  "desc": "Export food logs from the Zepp/Amazfit cloud API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zepp-health-cli",
+  "url": "https://github.com/m4ary/zepp-health-cli",
+  "desc": "Unofficial CLI for the Zepp/Huami mobile health API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zepp_to_influxdb",
+  "url": "https://github.com/bentasker/zepp_to_influxdb",
+  "desc": "Pull Zepp/Mi Fit/Huami data into InfluxDB",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
   "added": "2026-10-11"
  },
  {
@@ -38071,6 +41047,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "AKAI-CD-ISO-MAKER",
+  "url": "https://github.com/yuyoi/AKAI-CD-ISO-MAKER",
+  "desc": "Builds, reads and exports Akai S1000/S2000/S3000 sampler CD images",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
   "name": "alphaTab",
   "url": "https://github.com/CoderLine/alphaTab",
   "desc": "Music notation and tab rendering library that imports Guitar Pro 3-8 files",
@@ -38092,6 +41076,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "biab-library",
+  "url": "https://github.com/andreamust/biab-library",
+  "desc": "Python library for opening Band-in-a-Box song files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "cpr2rpp",
+  "url": "https://github.com/daniel-lynch/cpr2rpp",
+  "desc": "Converts Cubase .cpr projects to REAPER .RPP via a reverse-engineered project format",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Crate Digger",
   "url": "https://github.com/Deep-Symmetry/crate-digger",
   "desc": "Java library for parsing Pioneer rekordbox export databases and track analysis files",
@@ -38108,6 +41108,142 @@
    "rekordbox",
    "java-library"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Data::BiaB",
+  "url": "https://github.com/sciurius/perl-Data-BiaB",
+  "desc": "Perl module to analyse Band-in-a-Box data files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Denigma",
+  "url": "https://github.com/openmusx/denigma",
+  "desc": "Converter that extracts and translates Finale .musx files to open formats",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "EpsLinNeo",
+  "url": "https://github.com/handsthatstrike/EpsLinNeo",
+  "desc": "File utility for Ensoniq EPS/ASR sampler disks and images",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "flp-viewer",
+  "url": "https://github.com/RyanScottLewis/flp-viewer",
+  "desc": "FL Studio FLP file format parser and viewer",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "gp-parser",
+  "url": "https://github.com/dwursteisen/gp-parser",
+  "desc": "Guitar Pro file parser",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "guitarpro (Rust)",
+  "url": "https://github.com/slundi/guitarpro",
+  "desc": "Rust library to parse and write Guitar Pro files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "GuitarPro-to-Midi",
+  "url": "https://github.com/alexsteb/GuitarPro-to-Midi",
+  "desc": "Converts Guitar Pro 3-7 files to MIDI, simulating bends and effects",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libflp",
+  "url": "https://github.com/codecat/libflp",
+  "desc": "C library for parsing FL Studio .flp project files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "logic2ableton",
+  "url": "https://github.com/Evilander/logic2ableton",
+  "desc": "Converts Logic Pro .logicx projects to Ableton Live .als sets",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "logicx-analyzer",
+  "url": "https://github.com/geoffmyers/logicx-analyzer",
+  "desc": "Reverse-engineering toolkit for Logic Pro .logicx project bundles",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "miragetools",
+  "url": "https://github.com/gordonjcp/miragetools",
+  "desc": "Tools and reverse-engineering documentation for the Ensoniq Mirage sampler",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MPC Maid",
+  "url": "https://github.com/cyriux/mpcmaid",
+  "desc": "Editor for Akai MPC 1000/2500/500 program files and samples",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "musx2mxl",
+  "url": "https://github.com/joris-vaneyghen/musx2mxl",
+  "desc": "Converts Finale .musx scores to MusicXML",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "musxdom",
+  "url": "https://github.com/openmusx/musxdom",
+  "desc": "C++17 object model for the EnigmaXML data inside Finale .musx files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nkxtract",
+  "url": "https://github.com/maxton/nkxtract",
+  "desc": "Extracts Native Instruments Kontakt NKX monolith sample containers",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "parse-gp5",
+  "url": "https://github.com/juliangruber/parse-gp5",
+  "desc": "JavaScript parser for the Guitar Pro 5 file format",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Power Tab Editor",
+  "url": "https://github.com/powertab/powertabeditor",
+  "desc": "Guitar tablature editor that imports Power Tab and Guitar Pro files",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
   "added": "2026-10-11"
  },
  {
@@ -38171,6 +41307,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "python-serato-crates",
+  "url": "https://github.com/stephanlensky/python-serato-crates",
+  "desc": "Python library for reading and writing Serato DJ crates",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
   "name": "rekordcrate",
   "url": "https://github.com/Holzhaus/rekordcrate",
   "desc": "Rust library for parsing Pioneer rekordbox device exports",
@@ -38190,6 +41334,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Ruxguitar",
+  "url": "https://github.com/agourlay/ruxguitar",
+  "desc": "Guitar Pro tablature player written in Rust",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "serato-crater",
+  "url": "https://github.com/Rickgg/serato-crater",
+  "desc": "Reads Serato .crate files and returns columns and songs",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
   "name": "serato-tags",
   "url": "https://github.com/Holzhaus/serato-tags",
   "desc": "Documentation and parsers for Serato DJ Pro GEOB metadata tags",
@@ -38201,6 +41361,22 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "seratojs",
+  "url": "https://github.com/bcollazo/seratojs",
+  "desc": "Node.js library to manage Serato crates programmatically",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "snd2wav",
+  "url": "https://github.com/uliwitness/snd2wav",
+  "desc": "Converts classic Mac OS 'snd ' resources and System 7 sound files to WAV",
+  "category": "File Formats",
+  "subcategory": "Audio & Music Production",
   "added": "2026-10-11"
  },
  {
@@ -38343,6 +41519,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "insvtool",
+  "url": "https://github.com/ke4ukz/insvtool",
+  "desc": "Dumps metadata from Insta360 .insv video files",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libcraw2",
+  "url": "https://github.com/lclevy/libcraw2",
+  "desc": "Minimal library that decodes Canon CR2 RAW files, with format notes",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
   "name": "LibRaw",
   "url": "https://github.com/LibRaw/LibRaw",
   "desc": "Library for decoding RAW files from hundreds of digital camera models",
@@ -38399,6 +41591,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "x3f tools",
+  "url": "https://github.com/Kalpanika/x3f",
+  "desc": "Tools for decoding Sigma/Foveon X3F RAW files",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "access_parser",
+  "url": "https://github.com/claroty/access_parser",
+  "desc": "Python parser for Microsoft Access database files",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dbf (Python)",
+  "url": "https://github.com/ethanfurman/dbf",
+  "desc": "Pure Python dBase/FoxPro DBF reader and writer",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dbf (Ruby)",
+  "url": "https://github.com/infused/dbf",
+  "desc": "Ruby library for reading dBase, xBase, Clipper and FoxPro DBF files",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
   "name": "dbfread",
   "url": "https://github.com/olemb/dbfread",
   "desc": "Python library for reading dBase/FoxPro DBF files",
@@ -38410,6 +41634,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.esedb",
+  "url": "https://github.com/fox-it/dissect.esedb",
+  "desc": "Python parser for Microsoft ESE (Extensible Storage Engine) databases",
+  "category": "File Formats",
+  "subcategory": "Databases",
   "added": "2026-10-11"
  },
  {
@@ -38462,6 +41694,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "mdb-reader",
+  "url": "https://github.com/andipaetzold/mdb-reader",
+  "desc": "JavaScript library to read Microsoft Access databases",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OpenQBW",
+  "url": "https://github.com/Sigilweaver/OpenQBW",
+  "desc": "Pure Rust reader for QuickBooks QBW company files, with Python bindings",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OrcaMDF",
   "url": "https://github.com/improvedk/OrcaMDF",
   "desc": "C# parser that reads SQL Server MDF data files without SQL Server",
@@ -38473,6 +41721,14 @@
   "lang": "C#",
   "license": "GPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Paradox-Reader",
+  "url": "https://github.com/kymuweb/Paradox-Reader",
+  "desc": "Native .NET reader for Paradox database files",
+  "category": "File Formats",
+  "subcategory": "Databases",
   "added": "2026-10-11"
  },
  {
@@ -38492,6 +41748,30 @@
    "sas7bdat-files",
    "parso-library"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pxtools",
+  "url": "https://github.com/ustramooner/pxtools",
+  "desc": "Converts Paradox databases to MySQL, PostgreSQL, CSV or XML",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PxView",
+  "url": "https://github.com/CoolmanCZ/pxview",
+  "desc": "GUI application to open and edit Paradox database files",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pypxlib",
+  "url": "https://github.com/mherrmann/pypxlib",
+  "desc": "Python bindings for pxlib to read and write Paradox databases",
+  "category": "File Formats",
+  "subcategory": "Databases",
   "added": "2026-10-11"
  },
  {
@@ -38533,6 +41813,62 @@
    "sas7bdat",
    "readstat"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sas7bdat",
+  "url": "https://github.com/BioStatMatt/sas7bdat",
+  "desc": "The original reverse engineering of the SAS sas7bdat file format, with an R reader",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tps-parse",
+  "url": "https://github.com/ctrl-alt-dev/tps-parse",
+  "desc": "Parses Clarion TopSpeed (.tps) database files and converts them to CSV",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "unraveling_sql_server_bak",
+  "url": "https://github.com/klandermans/unraveling_sql_server_bak",
+  "desc": "Research and tooling for reading SQL Server .bak backup files without SQL Server",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "abrupng",
+  "url": "https://github.com/scurest/abrupng",
+  "desc": "Dumps brush tip images from Photoshop ABR brush files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "acextract",
+  "url": "https://github.com/bartoszj/acextract",
+  "desc": "Lists and extracts content from Apple Assets.car compiled asset catalogs",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AFDesignLoad",
+  "url": "https://github.com/NickBeeuwsaert/AFDesignLoad",
+  "desc": "Loads and parses Affinity Designer files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "afread",
+  "url": "https://github.com/VMDevCpp/afread",
+  "desc": "Library for reading Affinity Designer, Photo and Publisher (.afdesign/.afphoto/.afpub) files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
   "added": "2026-10-11"
  },
  {
@@ -38624,6 +41960,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "procreate-rs",
+  "url": "https://github.com/m1guelpf/procreate-rs",
+  "desc": "Rust library for parsing Procreate files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ProcreateViewer",
+  "url": "https://github.com/jaromvogel/ProcreateViewer",
+  "desc": "macOS QuickLook plugin that renders full previews of .procreate files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "psd (Go)",
   "url": "https://github.com/oov/psd",
   "desc": "PSD/PSB Photoshop file reader for Go",
@@ -38666,6 +42018,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pypdn",
+  "url": "https://github.com/addisonElliott/pypdn",
+  "desc": "Python package to read Paint.NET (.pdn) layered images",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pytoshop",
   "url": "https://github.com/mdboom/pytoshop",
   "desc": "Python library for reading and writing Photoshop PSD and PSB files",
@@ -38682,6 +42042,30 @@
    "graphics",
    "science"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Silicate",
+  "url": "https://github.com/axaril/silicate",
+  "desc": "Pure Rust GPU compositor that opens and renders Procreate files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "XdParser",
+  "url": "https://github.com/kyubuns/XdParser",
+  "desc": "Adobe XD file parser for C#",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xdtools",
+  "url": "https://github.com/umar-ahmed/xdtools",
+  "desc": "Unofficial Python API for reading and writing Adobe XD files",
+  "category": "File Formats",
+  "subcategory": "Design Tools (PSD, Sketch, Figma, Affinity)",
   "added": "2026-10-11"
  },
  {
@@ -38703,6 +42087,14 @@
    "ebooks",
    "ebook-reader"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kepubify",
+  "url": "https://github.com/pgaskin/kepubify",
+  "desc": "Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion",
+  "category": "File Formats",
+  "subcategory": "E-books",
   "added": "2026-10-11"
  },
  {
@@ -38748,6 +42140,14 @@
    "mobi",
    "kindle"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "altium-cli",
+  "url": "https://github.com/akiselev/altium-cli",
+  "desc": "Rust library and CLI that reads and writes Altium SchDoc, PcbDoc, SchLib, PcbLib and IntLib",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
   "added": "2026-10-11"
  },
  {
@@ -38811,6 +42211,46 @@
   "added": "2026-10-11"
  },
  {
+  "name": "BoardRipper",
+  "url": "https://github.com/AlexeyInwerp/BoardRipper",
+  "desc": "Web-based viewer for 14 boardview formats (BVR, BRD, BDV, FZ, GenCAD and more)",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "bv2bvr",
+  "url": "https://github.com/inflex/bv2bvr",
+  "desc": "Converts BV boardview files to the BVR format readable by OpenBoardView",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "easyeda2kicad",
+  "url": "https://github.com/wokwi/easyeda2kicad",
+  "desc": "Converts EasyEDA schematics and PCB designs to KiCad",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "easyeda2kicad.py",
+  "url": "https://github.com/uPesy/easyeda2kicad.py",
+  "desc": "Converts EasyEDA/LCSC component symbols, footprints and 3D models to KiCad",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ExtractAltiumSTEPModels",
+  "url": "https://github.com/braincodec/ExtractAltiumSTEPModels",
+  "desc": "Extracts embedded 3D STEP models from Altium PCB files",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OpenBoardView",
   "url": "https://github.com/OpenBoardView/OpenBoardView",
   "desc": "Viewer for proprietary laptop/phone boardview files (.brd, .bdv, .fz and others)",
@@ -38843,6 +42283,22 @@
    "schematic",
    "symbol"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "PyAltium",
+  "url": "https://github.com/pluots/PyAltium",
+  "desc": "Python package to read Altium design files",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pyAltiumLib",
+  "url": "https://github.com/ChrisHoyer/pyAltiumLib",
+  "desc": "Reads Altium schematic and PCB library files in Python",
+  "category": "File Formats",
+  "subcategory": "EDA & PCB",
   "added": "2026-10-11"
  },
  {
@@ -38920,6 +42376,46 @@
   "lang": "C",
   "license": "GPL-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.apfs",
+  "url": "https://github.com/fox-it/dissect.apfs",
+  "desc": "Python parser for the Apple File System (APFS)",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.fve",
+  "url": "https://github.com/fox-it/dissect.fve",
+  "desc": "Parsers for BitLocker and LUKS full-volume encryption, for use with known keys",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.hypervisor",
+  "url": "https://github.com/fox-it/dissect.hypervisor",
+  "desc": "Parsers for VMware, Hyper-V and other hypervisor disk, backup and config formats",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.ntfs",
+  "url": "https://github.com/fox-it/dissect.ntfs",
+  "desc": "Python parser for the NTFS file system",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.vmfs",
+  "url": "https://github.com/fox-it/dissect.vmfs",
+  "desc": "Python parser for VMware's VMFS file system",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
   "added": "2026-10-11"
  },
  {
@@ -39011,6 +42507,14 @@
    "cmake",
    "boost"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kobackupdec",
+  "url": "https://github.com/RealityNet/kobackupdec",
+  "desc": "Decrypts Huawei HiSuite/KoBackup backups with the user's password",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
   "added": "2026-10-11"
  },
  {
@@ -39408,6 +42912,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "libyal assorted",
+  "url": "https://github.com/libyal/assorted",
+  "desc": "Format documentation and scripts from the libyal project",
+  "category": "File Formats",
+  "subcategory": "Format Description Tools",
+  "added": "2026-10-11"
+ },
+ {
   "name": "murmelbahn",
   "url": "https://github.com/lfrancke/murmelbahn",
   "desc": "Reverse-engineered Gravitrax marble run course file format",
@@ -39455,6 +42967,14 @@
    "vst3",
    "serum-2"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "shockwave-reversing",
+  "url": "https://github.com/JrMasterModelBuilder/shockwave-reversing",
+  "desc": "Notes and resources for reverse engineering Shockwave/Director files",
+  "category": "File Formats",
+  "subcategory": "Format Description Tools",
   "added": "2026-10-11"
  },
  {
@@ -39552,6 +43072,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "continuity",
+  "url": "https://github.com/scummvm-director/continuity",
+  "desc": "Tools for inspecting and working with Macromedia Director movies",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
   "name": "CUE4Parse",
   "url": "https://github.com/FabianFG/CUE4Parse",
   "desc": "C# parser for Unreal Engine 4/5 archives and assets",
@@ -39563,6 +43091,22 @@
   "lang": "C#",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "drxtract",
+  "url": "https://github.com/System25/drxtract",
+  "desc": "Extracts data from Macromedia Director 5 DRI and DRX files",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Embroidermodder",
+  "url": "https://github.com/Embroidermodder/Embroidermodder",
+  "desc": "Free machine embroidery editor supporting many proprietary embroidery formats",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
   "added": "2026-10-11"
  },
  {
@@ -39641,6 +43185,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "jDwgParser",
+  "url": "https://github.com/ebandal/jDwgParser",
+  "desc": "Java reader for the AutoCAD DWG file format",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "lib3ds",
+  "url": "https://github.com/vkocheryzhkin/lib3ds",
+  "desc": "Library for reading and writing Autodesk 3D Studio .3DS model files",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
   "name": "libcdr",
   "url": "https://github.com/LibreOffice/libcdr",
   "desc": "Parser for CorelDRAW documents",
@@ -39671,6 +43231,14 @@
    "dwg-reader",
    "c"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libembroidery",
+  "url": "https://github.com/Embroidermodder/libembroidery",
+  "desc": "C library for reading and writing machine embroidery design files",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
   "added": "2026-10-11"
  },
  {
@@ -39748,6 +43316,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "OpenSKP",
+  "url": "https://github.com/iamahsanmehmood/openskp",
+  "desc": "Open-source SketchUp .skp reader/writer and converter that does not need the Trimble SDK",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
   "name": "psd-tools",
   "url": "https://github.com/psd-tools/psd-tools",
   "desc": "Python package for reading Adobe Photoshop PSD files",
@@ -39784,6 +43360,38 @@
    "renderer",
    "document"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pyembroidery",
+  "url": "https://github.com/EmbroidePy/pyembroidery",
+  "desc": "Reads and writes many proprietary machine embroidery formats (PES, DST, JEF, EXP and more)",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ShockwaveParser",
+  "url": "https://github.com/datagutten/ShockwaveParser",
+  "desc": "Python class to parse and extract data from Shockwave/Director movies",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sK1",
+  "url": "https://github.com/sk1-project/sk1-wx",
+  "desc": "Vector graphics editor with reverse-engineered CorelDRAW CDR and other proprietary importers",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "skp2tri",
+  "url": "https://github.com/julfla/skp2tri",
+  "desc": "Parses SketchUp .skp files into a simple triangle format",
+  "category": "File Formats",
+  "subcategory": "Graphics & CAD",
   "added": "2026-10-11"
  },
  {
@@ -39911,6 +43519,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Androzic",
+  "url": "https://github.com/andreynovikov/Androzic",
+  "desc": "Android navigation app that reads OziExplorer ozf2/ozfx3 raster maps",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "dump_gdbtable",
   "url": "https://github.com/rouault/dump_gdbtable",
   "desc": "Script and reverse-engineered spec for Esri File Geodatabase .gdbtable files",
@@ -39965,6 +43581,78 @@
   "added": "2026-10-11"
  },
  {
+  "name": "GPXSee",
+  "url": "https://github.com/tumic0/GPXSee",
+  "desc": "GPS log and map viewer that reads Garmin IMG, OziExplorer, TrekBuddy and many other formats",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HumminbirdSonarFileViewer",
+  "url": "https://github.com/petervalencic/HumminbirdSonarFileViewer",
+  "desc": "Java viewer for Humminbird side-scan sonar recordings",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "imageio-ozf",
+  "url": "https://github.com/nikolaybespalov/imageio-ozf",
+  "desc": "Java ImageIO plugin for OziExplorer ozf2/ozf3 raster map files",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "jnxutil",
+  "url": "https://github.com/apr2504/jnxutil",
+  "desc": "Linux utility for manipulating Garmin JNX raster map files",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "kolibrie",
+  "url": "https://github.com/yschaeff/kolibrie",
+  "desc": "Dissector for Humminbird sonar .SON recordings",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mkgmap",
+  "url": "https://github.com/openstreetmap/mkgmap",
+  "desc": "Compiler that writes Garmin .img maps from OpenStreetMap data (reverse-engineered format)",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "python-sllib",
+  "url": "https://github.com/opensounder/python-sllib",
+  "desc": "Python library for reading Lowrance SL2, SL3 and SLG sonar logs",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sl2decode",
+  "url": "https://github.com/Chris78/sl2decode",
+  "desc": "Decodes Lowrance SL2 sonar log files with Ruby",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sl2json",
+  "url": "https://github.com/hrbrmstr/sl2json",
+  "desc": "Standalone converter from Lowrance SL2 sonar logs to ndjson",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "SLYR",
   "url": "https://github.com/north-road/slyr",
   "desc": "Converts Esri LYR, MXD, style and other ArcGIS files to QGIS",
@@ -39976,6 +43664,22 @@
   "lang": "Python",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FFmpeg",
+  "url": "https://github.com/FFmpeg/FFmpeg",
+  "desc": "Multimedia framework with many reverse-engineered proprietary codecs and containers",
+  "category": "File Formats",
+  "subcategory": "Media Codecs & Containers",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Antiword",
+  "url": "https://github.com/grobian/antiword",
+  "desc": "Free reader for Microsoft Word binary documents",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
   "added": "2026-10-11"
  },
  {
@@ -40014,6 +43718,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "catdoc",
+  "url": "https://github.com/petewarden/catdoc",
+  "desc": "Command-line converter of legacy Microsoft Word documents to text",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
   "name": "CHMLib",
   "url": "https://github.com/jedwing/CHMLib",
   "desc": "Library for reading Microsoft ITSS/CHM compiled help files",
@@ -40025,6 +43737,22 @@
   "lang": "C",
   "license": "LGPL-2.1",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.ole",
+  "url": "https://github.com/fox-it/dissect.ole",
+  "desc": "Python parser for the OLE compound file format",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "helpdeco",
+  "url": "https://github.com/pmachapman/helpdeco",
+  "desc": "Decompiles Windows WinHelp (.hlp) files back to RTF and project files",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
   "added": "2026-10-11"
  },
  {
@@ -40060,6 +43788,22 @@
    "hwp5",
    "hacktoberfest"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hypercard-stack-uploader",
+  "url": "https://github.com/hyperhello/hypercard-stack-uploader",
+  "desc": "Imports classic HyperCard stacks and exports them as HTML or JSON",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HyperCardPreview",
+  "url": "https://github.com/PierreLorenzi/HyperCardPreview",
+  "desc": "macOS app that opens and displays HyperCard stacks from the reverse-engineered format",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
   "added": "2026-10-11"
  },
  {
@@ -40172,6 +43916,14 @@
   "lang": "C",
   "license": "LGPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libhlp",
+  "url": "https://github.com/trypsynth/libhlp",
+  "desc": "Pure Rust reader for WinHelp (.hlp) files including LZ77 and phrase decompression",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
   "added": "2026-10-11"
  },
  {
@@ -40365,6 +44117,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "MSGReader",
+  "url": "https://github.com/Sicos1977/MSGReader",
+  "desc": "C# reader for Outlook .msg and .eml files without Outlook",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "msgreader (JS)",
+  "url": "https://github.com/HiraokaHyperTools/msgreader",
+  "desc": "JavaScript reader for Outlook .msg files",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
   "name": "olefile",
   "url": "https://github.com/decalage2/olefile",
   "desc": "Python package to parse, read and write Microsoft OLE2/Compound File Binary files",
@@ -40545,6 +44313,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wv",
+  "url": "https://github.com/AbiWord/wv",
+  "desc": "Library for importing Microsoft Word 2-2003 binary documents",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
   "name": "xlrd",
   "url": "https://github.com/python-excel/xlrd",
   "desc": "Python library for reading legacy Excel BIFF (.xls) files",
@@ -40637,6 +44413,54 @@
   "lang": "Python",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Dissect",
+  "url": "https://github.com/fox-it/dissect",
+  "desc": "Forensics framework with parsers for many proprietary disk, file system and artifact formats",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.cim",
+  "url": "https://github.com/fox-it/dissect.cim",
+  "desc": "Python parser for the Windows WMI CIM repository database",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.etl",
+  "url": "https://github.com/fox-it/dissect.etl",
+  "desc": "Python parser for Windows Event Trace Log (ETL) files",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.regf",
+  "url": "https://github.com/fox-it/dissect.regf",
+  "desc": "Python parser for the Windows registry hive format",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.shellitem",
+  "url": "https://github.com/fox-it/dissect.shellitem",
+  "desc": "Python parser for Windows Shell Item structures",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "dissect.thumbcache",
+  "url": "https://github.com/fox-it/dissect.thumbcache",
+  "desc": "Python parser for Windows thumbcache databases",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
   "added": "2026-10-11"
  },
  {
@@ -40755,6 +44579,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "go-prefetch",
+  "url": "https://github.com/Velocidex/go-prefetch",
+  "desc": "Go parser for Windows Prefetch files",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
   "name": "INDXParse",
   "url": "https://github.com/williballenthin/INDXParse",
   "desc": "Tools for NTFS INDX records and other NTFS artifacts",
@@ -40853,6 +44685,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "libftxf",
+  "url": "https://github.com/libyal/libftxf",
+  "desc": "Library for Transactional NTFS (TxF) data types",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libfwevt",
+  "url": "https://github.com/libyal/libfwevt",
+  "desc": "Library for Windows XML Event Log (EVTX) binary XML data types",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
   "name": "libfwnt",
   "url": "https://github.com/libyal/libfwnt",
   "desc": "Library for Windows NT data types including LZXPRESS Huffman decompression",
@@ -40864,6 +44712,14 @@
   "lang": "C",
   "license": "LGPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libfwps",
+  "url": "https://github.com/libyal/libfwps",
+  "desc": "Library for Windows Property Store data types",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
   "added": "2026-10-11"
  },
  {
@@ -40906,6 +44762,14 @@
   "lang": "C",
   "license": "LGPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "libmdmp",
+  "url": "https://github.com/libyal/libmdmp",
+  "desc": "Library and tools for the Windows Minidump (MDMP) format",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
   "added": "2026-10-11"
  },
  {
@@ -41011,6 +44875,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "mac_alias",
+  "url": "https://github.com/dmgbuild/mac_alias",
+  "desc": "Generates and parses macOS Alias and Bookmark records in Python",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
   "name": "mft (Rust)",
   "url": "https://github.com/omerbenamram/mft",
   "desc": "Rust parser for the NTFS Master File Table ($MFT)",
@@ -41054,6 +44926,14 @@
   "lang": "C#",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "plaso",
+  "url": "https://github.com/log2timeline/plaso",
+  "desc": "Super-timeline tool with parsers for hundreds of Windows, macOS and app artifacts",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
   "added": "2026-10-11"
  },
  {
@@ -41131,6 +45011,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "regparser",
+  "url": "https://github.com/Velocidex/regparser",
+  "desc": "Go parser for Windows registry hives",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
   "name": "RegRipper 3.0",
   "url": "https://github.com/keydet89/RegRipper3.0",
   "desc": "Plugin-based extraction of data from Windows registry hives",
@@ -41164,6 +45052,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "RustyUsn",
+  "url": "https://github.com/forensicmatt/RustyUsn",
+  "desc": "Rust parser that converts NTFS USN journal records to JSON",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "added": "2026-10-11"
+ },
+ {
   "name": "shellbags",
   "url": "https://github.com/williballenthin/shellbags",
   "desc": "Cross-platform parser for Windows ShellBag registry artifacts",
@@ -41189,6 +45085,14 @@
   "lang": "Python",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SIDR",
+  "url": "https://github.com/strozfriedberg/sidr",
+  "desc": "Search Index Database Reporter: parses the Windows Search index database",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
   "added": "2026-10-11"
  },
  {
@@ -41417,6 +45321,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ricoh-gr4-firmware-analysis-and-feature-expansion",
+  "url": "https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion",
+  "desc": "Ricoh GR IV firmware analysis and feature expansion",
+  "category": "Firmware & Embedded",
+  "subcategory": "Camera Firmware",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Ricoh-GRMod",
+  "url": "https://github.com/Maxwooow/Ricoh-GRMod",
+  "desc": "Unofficial modding tool to import presets into Ricoh GR IV Image Control",
+  "category": "Firmware & Embedded",
+  "subcategory": "Camera Firmware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Sony-PMCA-RE",
   "url": "https://github.com/ma1co/Sony-PMCA-RE",
   "desc": "Reverse engineering Sony digital cameras: install apps via PlayMemories Camera Apps protocol",
@@ -41428,6 +45348,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sony-pmca-ricoh-mod",
+  "url": "https://github.com/bonyback1/sony-pmca-ricoh-mod",
+  "desc": "Sony PictureEffectPlus mod adding Ricoh GR colour profiles via PMCA",
+  "category": "Firmware & Embedded",
+  "subcategory": "Camera Firmware",
   "added": "2026-10-11"
  },
  {
@@ -42290,6 +46218,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "8cryptdo",
+  "url": "https://github.com/aeromodes/8cryptdo",
+  "desc": "Reverse-engineered docs and tools for 8BitDo firmware encryption",
+  "category": "Firmware & Embedded",
+  "subcategory": "Firmware Analysis Tools",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Ablation",
   "url": "https://github.com/Ablation-Tool/ablation",
   "desc": "Autonomous reverse engineering system, demonstrated on Fortinet firmware",
@@ -42696,6 +46632,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "insta360-go-firmware-tool",
+  "url": "https://github.com/enekochan/insta360-go-firmware-tool",
+  "desc": "Unofficial firmware tool for Insta360 GO 2/3/3S cameras",
+  "category": "Firmware & Embedded",
+  "subcategory": "Firmware Analysis Tools",
+  "added": "2026-10-11"
+ },
+ {
   "name": "InternalBlue",
   "url": "https://github.com/seemoo-lab/internalblue",
   "desc": "Bluetooth experimentation framework for Broadcom/Cypress chips",
@@ -43048,6 +46992,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ArduinoGotchi",
+  "url": "https://github.com/GaryZ88/ArduinoGotchi",
+  "desc": "Real Tamagotchi P1 emulator for Arduino UNO using the original ROM",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
   "name": "arkos",
   "url": "https://github.com/christianhaitian/arkos",
   "desc": "ArkOS custom Linux firmware for Rockchip-based handhelds (RG351, RGB10, etc.)",
@@ -43154,6 +47106,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Egg-Shell",
+  "url": "https://github.com/natashenka/Egg-Shell",
+  "desc": "Tamagotchi development tools from firmware research",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
   "name": "firebird",
   "url": "https://github.com/nspire-emus/firebird",
   "desc": "Multi-platform emulator of TI-Nspire calculators",
@@ -43162,9 +47122,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "flipperzero-tamagotch-p1",
+  "url": "https://github.com/GMMan/flipperzero-tamagotch-p1",
+  "desc": "Tamagotchi P1 emulator for the Flipper Zero",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
   "name": "fpga-gameandwatch",
   "url": "https://github.com/agg23/fpga-gameandwatch",
   "desc": "Game & Watch core for Analogue Pocket and MiSTer driven by ROM dumps",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fpga-tamagotchi",
+  "url": "https://github.com/agg23/fpga-tamagotchi",
+  "desc": "Tamagotchi P1 FPGA core for Analogue Pocket and MiSTer",
   "category": "Firmware & Embedded",
   "subcategory": "Retro Handhelds & Calculators",
   "added": "2026-10-11"
@@ -43454,6 +47430,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tama-para-research",
+  "url": "https://github.com/GMMan/tama-para-research",
+  "desc": "Research notes on the Tamagotchi Paradise hardware and firmware",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Tamagotchi-Hack",
+  "url": "https://github.com/natashenka/Tamagotchi-Hack",
+  "desc": "Code and research for hacking Tamagotchi Friends/Tamatown toys",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tamagotchi-tech-specs",
+  "url": "https://github.com/loociano/tamagotchi-tech-specs",
+  "desc": "Technical specifications of Tamagotchi devices",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
   "name": "tamalib",
   "url": "https://github.com/jcrona/tamalib",
   "desc": "Hardware-agnostic first-gen Tamagotchi emulation library (from ROM reverse engineering)",
@@ -43465,6 +47465,14 @@
   "lang": "C",
   "license": "GPL-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tamatool",
+  "url": "https://github.com/jcrona/tamatool",
+  "desc": "Cross-platform explorer and debugger for first-gen Tamagotchi ROMs",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
   "added": "2026-10-11"
  },
  {
@@ -43662,6 +47670,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "DishyPy",
+  "url": "https://github.com/woodseowl/DishyPy",
+  "desc": "Python examples for the Starlink dish API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
   "name": "eero-client",
   "url": "https://github.com/343max/eero-client",
   "desc": "Barebone client for the eero mesh router API",
@@ -43746,6 +47762,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "go-starlink",
+  "url": "https://github.com/b0ch3nski/go-starlink",
+  "desc": "Go client for the SpaceX Starlink dish gRPC API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "google-wifi-api",
+  "url": "https://github.com/olssonm/google-wifi-api",
+  "desc": "Discovered API endpoints for Google Wifi and OnHub routers",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "google-wifi-api-node",
+  "url": "https://github.com/JamesHawkinss/google-wifi-api-node",
+  "desc": "Node.js wrapper for the Google Wifi local API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-omada",
+  "url": "https://github.com/zachcheatham/ha-omada",
+  "desc": "Home Assistant integration for TP-Link Omada controllers",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ha-tplink-deco",
   "url": "https://github.com/amosyuen/ha-tplink-deco",
   "desc": "Home Assistant component for TP-Link Deco mesh routers",
@@ -43809,6 +47857,38 @@
   "name": "huawei-modem-python-api-client",
   "url": "https://github.com/pablo/huawei-modem-python-api-client",
   "desc": "Python client for Huawei USB modem HTTP API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "huawei-router-api",
+  "url": "https://github.com/siphomateke/huawei-router-api",
+  "desc": "API for querying Huawei LTE routers",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Huawei-Router-Tool",
+  "url": "https://github.com/pearlxcore/Huawei-Router-Tool",
+  "desc": "Tool to interact with Huawei routers via their web API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Huawei-Router_Python",
+  "url": "https://github.com/pklaus/Huawei-Router_Python",
+  "desc": "Python tool to fetch data from Huawei E3372/E5332 HiLink modems",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "huawei-utility-page",
+  "url": "https://github.com/andreluis034/huawei-utility-page",
+  "desc": "Web page with utility tools for Huawei LTE routers",
   "category": "Firmware & Embedded",
   "subcategory": "Routers & Network Gear",
   "added": "2026-10-11"
@@ -43888,6 +47968,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "omada-api",
+  "url": "https://github.com/ghaberek/omada-api",
+  "desc": "Python wrapper for the TP-Link Omada Software Controller API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "omada-api-toolkit",
+  "url": "https://github.com/spectator81-png/omada-api-toolkit",
+  "desc": "Unofficial Node.js client and docs for the undocumented Omada Web API v2",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "omada_exporter",
+  "url": "https://github.com/charlie-haley/omada_exporter",
+  "desc": "Prometheus exporter for TP-Link Omada controllers",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
   "name": "OpenWrt",
   "url": "https://github.com/openwrt/openwrt",
   "desc": "Linux distribution for embedded devices and routers replacing vendor firmware",
@@ -43899,6 +48003,14 @@
   "lang": "C",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "orbicfg",
+  "url": "https://github.com/Fysac/orbicfg",
+  "desc": "Decrypt/encrypt Netgear Orbi configuration files",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
   "added": "2026-10-11"
  },
  {
@@ -44082,6 +48194,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "starlink_exporter",
+  "url": "https://github.com/danopstech/starlink_exporter",
+  "desc": "Prometheus exporter for metrics from the Starlink dish gRPC API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "starlink_exporter",
+  "url": "https://github.com/joshuasing/starlink_exporter",
+  "desc": "Prometheus exporter for Starlink dish performance and health",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
   "name": "TP-Link-Archer-C6U",
   "url": "https://github.com/AlexandrErohin/TP-Link-Archer-C6U",
   "desc": "Python package for TP-Link and Mercusys router web API access",
@@ -44100,6 +48228,22 @@
    "archer-ax10",
    "archer-c7"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tplink-omada-api",
+  "url": "https://github.com/MarkGodwin/tplink-omada-api",
+  "desc": "Python client for the TP-Link Omada controller API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "UBNT-AirOS",
+  "url": "https://github.com/ITJamie/UBNT-AirOS",
+  "desc": "Get information from Ubiquiti AirOS (airMAX) devices",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
   "added": "2026-10-11"
  },
  {
@@ -44176,6 +48320,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "winbox",
+  "url": "https://github.com/jabb3rd/winbox",
+  "desc": "Experimental implementation of the MikroTik Winbox protocol",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "winbox-terminal-protocol",
+  "url": "https://github.com/subixonfire/winbox-terminal-protocol",
+  "desc": "Pure Python implementation of the MikroTik WinBox terminal protocol",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Winbox_Protocol_Dissector",
+  "url": "https://github.com/Cisco-Talos/Winbox_Protocol_Dissector",
+  "desc": "Wireshark dissector for the MikroTik Winbox protocol",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
   "name": "X-WRT",
   "url": "https://github.com/x-wrt/x-wrt",
   "desc": "OpenWrt-based firmware for routers",
@@ -44187,6 +48355,22 @@
   "lang": "C",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zte-modem-api-docs",
+  "url": "https://github.com/wijayamin/zte-modem-api-docs",
+  "desc": "Reverse-engineering notes on the ZTE modem web API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zte_modem_tools",
+  "url": "https://github.com/douniwan5788/zte_modem_tools",
+  "desc": "Tools to decode/encode ZTE modem configuration files",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
   "added": "2026-10-11"
  },
  {
@@ -80197,6 +84381,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "telegram-desktop-decrypt",
+  "url": "https://github.com/atilaromero/telegram-desktop-decrypt",
+  "desc": "Decrypts Telegram Desktop tdata local storage files",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Signal & Telegram",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Telethon",
   "url": "https://github.com/LonamiWebs/Telethon",
   "desc": "Pure Python 3 MTProto API Telegram client library, for bots too!",
@@ -86353,6 +90545,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pdb",
+  "url": "https://github.com/getsentry/pdb",
+  "desc": "Rust parser for Microsoft PDB (Program Database) debug information",
+  "category": "RE Tooling",
+  "subcategory": "Binary & Format Analysis",
+  "added": "2026-10-11"
+ },
+ {
   "name": "PE-bear",
   "url": "https://github.com/hasherezade/pe-bear",
   "desc": "Multiplatform PE file reversing tool",
@@ -88164,6 +92364,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PbdViewer",
+  "url": "https://github.com/Hucxy/PbdViewer",
+  "desc": "Decompiler and viewer for PowerBuilder PBD/PBL libraries",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pcode2code",
   "url": "https://github.com/Big5-sec/pcode2code",
   "desc": "Decompiles VBA p-code back to source, based on pcodedmp",
@@ -88675,6 +92883,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tonguetwister",
+  "url": "https://github.com/lham/tonguetwister",
+  "desc": "Macromedia Director file disassembler, Lingo decompiler and format documentation",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Trinity",
   "url": "https://github.com/firstfault/Trinity",
   "desc": "Software reverse engineering tool for Java",
@@ -88789,6 +93005,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "visualbasic-rs",
+  "url": "https://github.com/ATRAPSLLC/visualbasic-rs",
+  "desc": "Rust library to parse and inspect compiled Visual Basic 6 binaries",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
+  "added": "2026-10-11"
+ },
+ {
   "name": "x64dbg",
   "url": "https://github.com/x64dbg/x64dbg",
   "desc": "Open source user-mode debugger for Windows",
@@ -88807,6 +93031,14 @@
    "reverse-engineering",
    "security"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "XLMMacroDeobfuscator",
+  "url": "https://github.com/DissectMalware/XLMMacroDeobfuscator",
+  "desc": "Extracts and emulates Excel 4.0 (XLM) macros from XLS, XLSM and XLSB files",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
   "added": "2026-10-11"
  },
  {

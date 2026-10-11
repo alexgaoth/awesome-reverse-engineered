@@ -1,25 +1,25 @@
 # Devices, IoT & Hardware
 
-[← All categories](../README.md) · 910 projects
+[← All categories](../README.md) · 1,144 projects
 
 - [3D Printers & Makers](#3d-printers--makers) (9)
 - [Appliances & Kitchen](#appliances--kitchen) (61)
 - [Audio](#audio) (17)
-- [Cameras & Drones](#cameras--drones) (31)
+- [Cameras & Drones](#cameras--drones) (59)
 - [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (41)
 - [GPUs & Drivers](#gpus--drivers) (6)
 - [HVAC & Heat Pumps](#hvac--heat-pumps) (75)
-- [Lighting & Displays](#lighting--displays) (17)
+- [Lighting & Displays](#lighting--displays) (39)
 - [Locks, Garage & Security](#locks-garage--security) (30)
-- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (26)
+- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (74)
 - [Music Gear & Synth Editors](#music-gear--synth-editors) (60)
 - [Other](#other) (11)
-- [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (102)
-- [Printers, Labels & E-ink](#printers-labels--e-ink) (17)
+- [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (125)
+- [Printers, Labels & E-ink](#printers-labels--e-ink) (37)
 - [Smart Home & IoT](#smart-home--iot) (153)
 - [Solar, Batteries & EV Chargers](#solar-batteries--ev-chargers) (156)
-- [VR & Tracking](#vr--tracking) (10)
-- [Wearables & Health](#wearables--health) (54)
+- [VR & Tracking](#vr--tracking) (37)
+- [Wearables & Health](#wearables--health) (120)
 - [Zigbee/BLE/IR Device Databases](#zigbeebleir-device-databases) (34)
 
 ## 3D Printers & Makers
@@ -154,11 +154,39 @@
 | even_glasses | BLE control package for Even Realities G1 smart glasses | 80 | <https://github.com/emingenc/even_glasses> |
 | pyaarlo | Async Python library for Arlo cameras and doorbells | 66 | <https://github.com/twrecked/pyaarlo> |
 | eos-remote-web | Web Bluetooth remote for Canon EOS cameras using the reverse-engineered BLE protocol | 23 | <https://github.com/RReverser/eos-remote-web> |
+| dashy | Viofo dashcam client for ingesting footage over WiFi |  | <https://github.com/muddyland/dashy> |
+| filmkit | Create and manage Fujifilm film-simulation recipes over a USB camera connection |  | <https://github.com/eggricesoy/filmkit> |
 | fudge | Alternative Wi-Fi/Bluetooth app for Fujifilm cameras replacing the vendor app |  | <https://github.com/petabyt/fudge> |
 | fuji-cam-wifi-tool | Reverse engineering the Fujifilm X-series Wi-Fi remote control protocol |  | <https://github.com/hkr/fuji-cam-wifi-tool> |
+| fuji-recipes | TypeScript library to extract Fujifilm recipe data from EXIF maker notes |  | <https://github.com/thecuvii/fuji-recipes> |
+| GMaster | Panasonic Lumix camera remote control app for Windows |  | <https://github.com/Rambalac/GMaster> |
 | gopro-ble-py | Python Bluetooth LE controller for GoPro cameras |  | <https://github.com/KonradIT/gopro-ble-py> |
+| homeassistant-70mai | Integrate 70mai dashcams in Home Assistant |  | <https://github.com/lorenzo-deluca/homeassistant-70mai> |
+| insta360-luna-ultra-reverse-engineering | Reverse engineering of the Insta360 Luna Ultra |  | <https://github.com/derrickyau9/insta360-luna-ultra-reverse-engineering> |
+| insta360-wifi-api | Python scripts to talk to Insta360 action cameras via the Wi-Fi API |  | <https://github.com/RigacciOrg/insta360-wifi-api> |
+| insta360_ble_esp32 | Control Insta360 cameras over BLE from an ESP32 |  | <https://github.com/pchwalek/insta360_ble_esp32> |
+| insta360ctl | CLI to manage Insta360 cameras |  | <https://github.com/xaionaro-go/insta360ctl> |
+| insvtools | Toolkit for Insta360 .insv video files |  | <https://github.com/alex-plekhanov/insvtools> |
+| libfuji | Library to connect to and control Fujifilm cameras over USB, Wi-Fi and BLE |  | <https://github.com/petabyt/libfuji> |
 | libgphoto2 | Camera access library supporting vendor PTP extensions for thousands of cameras |  | <https://github.com/gphoto/libgphoto2> |
+| liblumix | Reverse-engineered C++ driver for Panasonic Lumix cameras |  | <https://github.com/njfdev/liblumix> |
+| libpict | Picture Transfer Protocol client library with vendor extensions |  | <https://github.com/petabyt/libpict> |
+| lumix-link-desktop | Unofficial desktop version of the Panasonic Lumix Link remote control app |  | <https://github.com/peci1/lumix-link-desktop> |
+| LumixCameraAscomDriver | Expose Panasonic Lumix cameras as ASCOM cameras for astrophotography |  | <https://github.com/totoantibes/LumixCameraAscomDriver> |
+| LumixController | Electron app to control a Panasonic Lumix DMC-G7 |  | <https://github.com/davidkim9/LumixController> |
+| lumixproto | Reverse-engineered Lumix GX80 Wi-Fi protocol |  | <https://github.com/cleverfox/lumixproto> |
+| nsg | Provide GPS data to Nikon Z cameras without SnapBridge |  | <https://github.com/hurui200320/nsg> |
+| olympus-wifi | Connect to Wi-Fi Olympus cameras: live view, clock, capture and download |  | <https://github.com/joergmlpts/olympus-wifi> |
+| piofo | Extract GPS data embedded in Viofo dashcam videos |  | <https://github.com/wcedmisten/piofo> |
 | ptp-ip | Go implementation of PTP/IP for Wi-Fi camera control |  | <https://github.com/malc0mn/ptp-ip> |
+| python_lumix_control | Python module for controlling Panasonic Wi-Fi cameras |  | <https://github.com/palmdalian/python_lumix_control> |
+| ricoh-gr-bluetooth-api | Ricoh GR Bluetooth API specifications |  | <https://github.com/dm-zharov/ricoh-gr-bluetooth-api> |
+| RICOH-GR-Live-View-Shooting | M5Stack firmware for Ricoh GR remote live view and BLE shutter |  | <https://github.com/sky18Dragon/RICOH-GR-Live-View-Shooting> |
+| telemetry-parser | Parse embedded telemetry from GoPro, Sony, Insta360, DJI and other camera files |  | <https://github.com/AdrianEddy/telemetry-parser> |
+| teslausb | Smart USB drive for Tesla dashcam with auto-archive to network storage |  | <https://github.com/cimryan/teslausb> |
+| Tote | App to transfer photos from the Ricoh GR III |  | <https://github.com/brianmichel/Tote> |
+| viofosync | Self-hosted app to download and browse Viofo dashcam recordings |  | <https://github.com/RobXYZ/viofosync> |
+| xpeng-dashcam | Self-hosted viewer for Xpeng built-in dashcam footage |  | <https://github.com/psuurbach/xpeng-dashcam> |
 
 ## E-readers & E-ink Tablets
 
@@ -311,12 +339,34 @@
 | ambilights | Home Assistant component for Philips Android TV Ambilight LEDs | 49 | <https://github.com/jomwells/ambilights> |
 | python-elgato | Async Python client for Elgato Key Light and Light Strip | 35 | <https://github.com/frenck/python-elgato> |
 | ttls | Python client for Twinkly smart LED lights | 10 | <https://github.com/jschlyter/ttls> |
+| apixoo | Python package for the Divoom Pixoo app's cloud server |  | <https://github.com/redphx/apixoo> |
 | awtrix3 | Custom firmware for the Ulanzi TC001 smart pixel clock |  | <https://github.com/Blueforcer/awtrix3> |
+| coolledx-driver | Driver for LED signs controlled by the CoolLED1248 app |  | <https://github.com/UpDryTwist/coolledx-driver> |
+| divo | Python controller for Divoom Pixoo and Timebox Evo |  | <https://github.com/spezifisch/divo> |
+| divoom-adapter | Implementation of the Divoom AuraBox Bluetooth protocol |  | <https://github.com/derHeinz/divoom-adapter> |
+| divoom-control | Script/CLI for controlling Divoom devices (Pixoo etc.) |  | <https://github.com/MattIPv4/divoom-control> |
+| divoom-ditoo-pro-controller | Send Bluetooth commands to a Divoom Ditoo Pro without the app |  | <https://github.com/andreas-mausch/divoom-ditoo-pro-controller> |
+| divoom-minitoo | Divoom MiniToo Bluetooth toolkit |  | <https://github.com/bugzmanov/divoom-minitoo> |
+| DivoomClient | Decrypt Divoom animations for display on other screens |  | <https://github.com/redphx/DivoomClient> |
+| Diwoom | Unofficial Windows Divoom client |  | <https://github.com/iebb/Diwoom> |
+| esp32-divoom | ESP32 proxy for Divoom Bluetooth devices |  | <https://github.com/d03n3rfr1tz3/esp32-divoom> |
+| ESPHome-component-iPixel-ble | ESPHome component to control iPixel LED boards over BLE |  | <https://github.com/DonKracho/ESPHome-component-iPixel-ble> |
+| go-ipxl | Go library for iPixel Color LED matrices |  | <https://github.com/yyewolf/go-ipxl> |
 | govee-local-api | Python library for the Govee LAN API |  | <https://github.com/Galorhallen/govee-local-api> |
+| ha-ipixel-color | Home Assistant integration for iPixel Color LED displays |  | <https://github.com/cagcoach/ha-ipixel-color> |
 | hacs-govee | Home Assistant integration for Govee lights |  | <https://github.com/LaggAt/hacs-govee> |
+| homeassistant-timebox-mini | Control a Divoom Timebox Mini from Home Assistant |  | <https://github.com/mathoudebine/homeassistant-timebox-mini> |
+| iPixel-CFW | Work-in-progress custom firmware for iPixel Color LED matrices |  | <https://github.com/lucagoc/iPixel-CFW> |
+| iPixel-ESP32 | ESP32 REST API bridge for iPixel Color matrices |  | <https://github.com/ToBiDi0410/iPixel-ESP32> |
 | litra | JavaScript library to control Logitech Litra Glow/Beam lights |  | <https://github.com/timrogers/litra> |
 | litra-driver | Linux CLI and UI for Logitech Litra Glow and Beam |  | <https://github.com/kharyam/litra-driver> |
+| pixoo-client | Python 3 Bluetooth client for the Divoom Pixoo |  | <https://github.com/virtualabs/pixoo-client> |
+| pypixelcolor | Python library to control iPixel Color LED matrix devices over BLE |  | <https://github.com/lucagoc/pypixelcolor> |
 | python-trionesControl | Python control for BLE "Triones" smart lights |  | <https://github.com/Aritzherrero4/python-trionesControl> |
+| timebox | CLI utility for the Divoom Timebox |  | <https://github.com/ScR4tCh/timebox> |
+| timebox | Script to use the Divoom Mini Timebox as a matrix display |  | <https://github.com/Smanar/timebox> |
+| ulanzi_tc001_hardware | Hardware description and Arduino examples for the Ulanzi TC001 pixel clock |  | <https://github.com/rroels/ulanzi_tc001_hardware> |
+| UnexpectedMatrixPixels | Home Assistant integration for BLE pixel matrix displays (iDotMatrix, iPixel) |  | <https://github.com/suchyindustries/UnexpectedMatrixPixels> |
 | xled | Unofficial control library for Twinkly smart LED lights |  | <https://github.com/scrool/xled> |
 
 ## Locks, Garage & Security
@@ -383,7 +433,55 @@
 | Logger | Dexcom G5/G6 logging for OpenAPS rigs | 15 | <https://github.com/xdrip-js/Logger> |
 | Lookout | Dexcom transmitter monitor for OpenAPS rigs | 9 | <https://github.com/xdrip-js/Lookout> |
 | G7SensorKit | Dexcom G7 CGM manager for Loop | 7 | <https://github.com/LoopKit/G7SensorKit> |
+| CareLinkJavaClient | Experimental Java library for Medtronic CareLink data |  | <https://github.com/benceszasz/CareLinkJavaClient> |
+| CMS50Dplus | Download data from a Contec CMS50D+ pulse oximeter |  | <https://github.com/atbrask/CMS50Dplus> |
+| DashKit | Loop pump-manager plugin for Omnipod DASH |  | <https://github.com/tidepool-org/DashKit> |
+| ddguard | Real-time Medtronic 670G pump and glucose data on your phone |  | <https://github.com/ondrej1024/ddguard> |
+| decoding-dexcom | Early project decoding the Dexcom receiver protocol |  | <https://github.com/bewest/decoding-dexcom> |
+| Dexcom-ESP32-Reader | Read Dexcom G5/G6 data on an ESP32 |  | <https://github.com/TheEpicBigBoss/Dexcom-ESP32-Reader> |
+| dexcom-share (node) | Async iterator API for Dexcom Share servers |  | <https://github.com/TooTallNate/dexcom-share> |
+| dexcom_reader | Export data from a Dexcom G4 CGM receiver |  | <https://github.com/compbrain/dexcom_reader> |
 | DiaBLE *(archived)* | Test FreeStyle Libre and Dexcom sensors via BLE and NFC on iOS | 0 | <https://github.com/gui-dos/DiaBLE> |
+| Dxtr | iOS app reading Dexcom sensor data |  | <https://github.com/dirkfabisch/Dxtr> |
+| ecc1/dexcom | Go package for talking to Dexcom CGM receivers and transmitters |  | <https://github.com/ecc1/dexcom> |
+| ecc1/medtronic | Go package for talking to Medtronic pumps via radio modules |  | <https://github.com/ecc1/medtronic> |
+| FreeAPS X | iOS artificial pancreas system based on OpenAPS |  | <https://github.com/ivalkou/freeaps> |
+| G4ShareSpy | iOS framework reading Dexcom G4 Share data over BLE |  | <https://github.com/mddub/G4ShareSpy> |
+| glooko-reader | Unofficial Python client for the Glooko diabetes data platform |  | <https://github.com/spamsch/glooko-reader> |
+| GlucoDataHandler | Android app that collects CGM data from many sources for watches and cars |  | <https://github.com/pachi81/GlucoDataHandler> |
+| hass-omron | Omron BLE blood pressure monitor integration for Home Assistant |  | <https://github.com/eigger/hass-omron> |
+| HealthConnect-LibreLinkUp | Sync LibreLinkUp data to Health Connect and Wear OS |  | <https://github.com/c99koder/HealthConnect-LibreLinkUp> |
+| Home-Assistant-Carelink | Unofficial Medtronic CareLink component for Home Assistant |  | <https://github.com/yo-han/Home-Assistant-Carelink> |
+| iAPS | iOS artificial pancreas system based on OpenAPS |  | <https://github.com/Artificial-Pancreas/iAPS> |
+| jomnipod | Java parser for Omnipod PDM IBF data files |  | <https://github.com/tias79/jomnipod> |
+| libomron | Library for accessing data from Omron medical devices |  | <https://github.com/openyou/libomron> |
+| librelink (HA) | LibreLink integration for Home Assistant |  | <https://github.com/gillesvs/librelink> |
+| LibreLinkUpDesktop | Desktop app showing glucose from LibreLinkUp |  | <https://github.com/Crazy-Marvin/LibreLinkUpDesktop> |
+| LibreTransmitter | Loop CGM manager for Libre sensors via transmitters |  | <https://github.com/dabear/LibreTransmitter> |
+| LibreView-HomeAssistant | Integrate LibreView sensor data with Home Assistant |  | <https://github.com/PTST/LibreView-HomeAssistant> |
+| luka-mini | Dexcom Share CGM readings in the macOS menu bar |  | <https://github.com/kylebshr/luka-mini> |
+| Medtronic-6xx | Investigation of Medtronic 6xx 802.15.4 radio comms |  | <https://github.com/LilDucky/Medtronic-6xx> |
+| MedtronicUploader | Medtronic pump data uploader for Nightscout |  | <https://github.com/arbox0/MedtronicUploader> |
+| minimed-connect-to-nightscout | Send Medtronic CareLink Connect data to Nightscout |  | <https://github.com/nightscout/minimed-connect-to-nightscout> |
+| minimed_rf | Decoding the Medtronic pump, Enlite CGM and MySentry radio protocol |  | <https://github.com/ps2/minimed_rf> |
+| MinimedKit | Loop pump-manager plugin for Medtronic pumps |  | <https://github.com/LoopKit/MinimedKit> |
+| mmblelink | Pure Python RileyLink BLE driver for Medtronic pumps |  | <https://github.com/bewest/mmblelink> |
+| nightscout-connect | Bridge Dexcom Share, LibreLinkUp, CareLink and Glooko clouds into Nightscout |  | <https://github.com/nightscout/nightscout-connect> |
+| obpm | Omron blood pressure manager reading monitors over USB |  | <https://github.com/LazyT/obpm> |
+| OmniCore | Control Omnipod insulin pods from your phone |  | <https://github.com/winemug/OmniCore> |
+| OmniKit | Loop pump-manager plugin for Omnipod Eros pods |  | <https://github.com/LoopKit/OmniKit> |
+| omnipod_rf | Python SDR tools for decoding Omnipod RF packets |  | <https://github.com/ps2/omnipod_rf> |
+| OmnipodKit | Open interface for all Omnipod types for DIY automated insulin delivery |  | <https://github.com/loopandlearn/OmnipodKit> |
+| omnipy | Python control of Omnipod Eros pods via RileyLink |  | <https://github.com/winemug/omnipy> |
+| omramin | Sync OMRON connect blood pressure and weight to Garmin Connect |  | <https://github.com/bugficks/omramin> |
+| openxshareble | OpenAPS driver for Dexcom G4 with Share over BLE |  | <https://github.com/openaps/openxshareble> |
+| pingrf | RF stack for the Animas OneTouch Ping insulin pump |  | <https://github.com/mariusae/pingrf> |
+| pummpcomm | Elixir package for communicating with Medtronic pumps |  | <https://github.com/infinity-aps/pummpcomm> |
+| rileylink_ios | iOS frameworks for RileyLink radio bridges to pumps and CGMs |  | <https://github.com/ps2/rileylink_ios> |
+| SightRemote | Android remote control for the Accu-Chek Insight pump (deprecated) |  | <https://github.com/TebbeUbben/SightRemote> |
+| Spike | iOS app reading CGM transmitters (Dexcom, Libre bridges) |  | <https://github.com/SpikeApp/Spike> |
+| wixel-xDrip | Wixel firmware letting a DIY bridge act as a Dexcom receiver |  | <https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip> |
+| ypsopump-research | Reverse-engineering docs and AndroidAPS driver for the YpsoPump |  | <https://github.com/SandraK82/ypsopump-research> |
 
 ## Music Gear & Synth Editors
 
@@ -555,19 +653,42 @@
 | goodix-fp-spi-linux | Reverse-engineered Goodix SPI fingerprint sensors (incl. QSEE enclave) for Linux | 11 | <https://github.com/wrobelda/goodix-fp-spi-linux> |
 | attack-shark-linux | Reverse-engineered gaming mouse HID protocol to configure it on Linux | 9 | <https://github.com/blak0p/attack-shark-linux> |
 | dell-1320c-cups-driver | Reverse-engineered CUPS driver for the Dell 1320c / Fuji Xerox C525A printer | 7 | <https://github.com/biosed/dell-1320c-cups-driver> |
+| 8bitdo-kbd-mapper | Key mapper for the 8BitDo Retro Mechanical Keyboard |  | <https://github.com/goncalor/8bitdo-kbd-mapper> |
+| 8bitdo-spec | Documentation of the protocol used to configure 8BitDo controllers |  | <https://github.com/TheJayMann/8bitdo-spec> |
 | hhd | Handheld Daemon to configure controllers, RGB and TDP on handheld PCs |  | <https://github.com/hhd-dev/hhd> |
+| huion-linux-drivers | Linux user-space drivers for Huion graphics tablets |  | <https://github.com/joseluis/huion-linux-drivers> |
 | InputPlumber | Input router and remapper daemon for handheld PC controllers on Linux |  | <https://github.com/ShadowBlip/InputPlumber> |
+| Insta360-Link-1-and-2-Controller-for-Linux | Insta360 Link 1/2 webcam controller for Linux |  | <https://github.com/vrwallace/Insta360-Link-1-and-2-Controller-for-Linux> |
+| insta360-link-firmware-re | Reverse engineering Insta360 Link webcam firmware and UVC control protocol |  | <https://github.com/schlarpc/insta360-link-firmware-re> |
 | joycon-python | Python driver for Nintendo Switch Joy-Cons |  | <https://github.com/tocoteron/joycon-python> |
 | JoyShockLibrary | Read DualSense, DualShock 4, Joy-Con and Pro Controller input on PC |  | <https://github.com/JibbSmart/JoyShockLibrary> |
+| kludgeknight | Browser-based open-source configurator for Royal Kludge keyboards |  | <https://github.com/vinc3m1/kludgeknight> |
 | logiops | Unofficial userspace driver for HID++ Logitech mice and keyboards |  | <https://github.com/PixlOne/logiops> |
+| meet4k | Control extra features of the OBSBOT Meet 4K camera on Linux |  | <https://github.com/samliddicott/meet4k> |
 | mouse_m908 | Control Redragon gaming mice from Linux, BSD and Haiku |  | <https://github.com/dokutan/mouse_m908> |
 | msi-perkeyrgb | Linux CLI to control per-key RGB on MSI laptop keyboards |  | <https://github.com/Askannz/msi-perkeyrgb> |
 | niimprint (niimbot) | Niimbot label printer client based on the reverse-engineered protocol | 0 | <https://github.com/niimbot/niimprint> |
+| NSW2-controller-enabler | Scripts to enable Switch 2 Pro/GameCube controllers via USB |  | <https://github.com/ikz87/NSW2-controller-enabler> |
+| obsbot-camera-control | Qt app on Linux to manage OBSBOT webcams including AI tracking |  | <https://github.com/aaronsb/obsbot-camera-control> |
+| obsbot-tiny-2-control | Python control of OBSBOT Tiny 2 AI modes |  | <https://github.com/mitchelloharawild/obsbot-tiny-2-control> |
+| openbitdo | 8BitDo controller customization software for Linux/macOS |  | <https://github.com/bybrooklyn/openbitdo> |
 | oversteer | Steering wheel manager for Linux (Logitech, Thrustmaster, Fanatec) |  | <https://github.com/berarma/oversteer> |
 | ptouch-print | Print labels on Brother P-touch printers from Linux using the reverse-engineered protocol | 0 | <https://github.com/probonopd/ptouch-print> |
+| rangoli | Open-source cross-platform software for Royal Kludge keyboards |  | <https://github.com/rnayabed/rangoli> |
 | rgb_keyboard | Control RGB lighting on GMMK, Redragon and other keyboards on Linux |  | <https://github.com/dokutan/rgb_keyboard> |
+| rkcu | Reverse-engineered USB configuration tool for Royal Kludge RK61 keyboards |  | <https://github.com/oddlyspaced/rkcu> |
+| Royal-Kludge-R75 | Custom QMK firmware for the Royal Kludge R75 |  | <https://github.com/snakkarike/Royal-Kludge-R75> |
 | ScpToolkit | Windows driver and XInput wrapper for DualShock 3/4 controllers |  | <https://github.com/nefarius/ScpToolkit> |
+| switch2-controllers | Use Nintendo Switch 2 Joy-Cons on PC |  | <https://github.com/Nadeflore/switch2-controllers> |
+| Switch2-Controllers | Tools and GUI to connect Nintendo Switch 2 controllers to PC |  | <https://github.com/Nohzockt/Switch2-Controllers> |
+| switch2-controllers-linux | Wireless Switch 2 controllers (Joy-Con 2, Pro 2, NSO GameCube) on Linux |  | <https://github.com/trevlars/switch2-controllers-linux> |
+| switch2_controller_research | Research into Nintendo Switch 2 controller protocols |  | <https://github.com/ndeadly/switch2_controller_research> |
 | t150_driver | Linux driver for the Thrustmaster T150 steering wheel |  | <https://github.com/scarburato/t150_driver> |
+| tiny2 | Linux GUI controller for the OBSBOT Tiny 2 webcam |  | <https://github.com/cgevans/tiny2> |
+| Tiny4Linux | GUI and CLI controller for the OBSBOT Tiny 2 on Linux |  | <https://github.com/OpenFoxes/Tiny4Linux> |
+| ulanzi-d200-linux | Linux manager for the Ulanzi D200 stream deck |  | <https://github.com/racerxdl/ulanzi-d200-linux> |
+| wavebird | Nintendo Switch 2 controller bridge app for macOS |  | <https://github.com/murphyjt/wavebird> |
+| WebCamControl | Linux alternative to Insta360 Link Controller for PTZ webcams |  | <https://github.com/Daniel15/WebCamControl> |
 | wii-u-gc-adapter | Use the Wii U GameCube controller adapter on Linux |  | <https://github.com/ToadKing/wii-u-gc-adapter> |
 | WiimoteLib | .NET library for the Nintendo Wii Remote |  | <https://github.com/BrianPeek/WiimoteLib> |
 | wiiuse | Cross-platform Wii Remote access library |  | <https://github.com/wiiuse/wiiuse> |
@@ -587,13 +708,33 @@
 | dymoprint | Linux software to print with DYMO LabelManager PnP | 157 | <https://github.com/computerlyrik/dymoprint> |
 | InstaxBLE | Python library to print to Fujifilm Instax Link printers over Bluetooth LE | 117 | <https://github.com/javl/InstaxBLE> |
 | niimprint | Niimbot label printer client (tested on D11) | 106 | <https://github.com/kjy00302/niimprint> |
+| ATC_GICISKY_ESL | Info and example code to control Gicisky/PICKSMART e-paper shelf labels |  | <https://github.com/atc1441/ATC_GICISKY_ESL> |
 | brother_ql_web | Web service to print labels on Brother QL printers |  | <https://github.com/pklaus/brother_ql_web> |
+| canon-selphy-print | Print to Canon SELPHY CP1200 and compatible printers over Wi-Fi |  | <https://github.com/abelits/canon-selphy-print> |
+| gicisky-tag | Python tool to write an image to a Gicisky e-paper tag |  | <https://github.com/fpoli/gicisky-tag> |
+| gicisky_image_notes | Notes on reversing the Gicisky e-paper image format |  | <https://github.com/Cabalist/gicisky_image_notes> |
+| go-selphy-cp | Send pictures to Canon SELPHY CP printers via Wi-Fi |  | <https://github.com/gonzaloserrano/go-selphy-cp> |
+| hanshow | Research and tools for Hanshow electronic shelf label products |  | <https://github.com/CursedHardware/hanshow> |
+| hanshow | Findings about Hanshow Nebular e-paper ESL price labels |  | <https://github.com/ixy05/hanshow> |
+| Hanshow-Auto-Updater | Auto-update Hanshow price tags with website content |  | <https://github.com/MakersFunDuck/Hanshow-Auto-Updater> |
+| HanshowClock | Custom clock firmware for Hanshow e-paper price tags |  | <https://github.com/reiyawea/HanshowClock> |
+| HanshowEpd | Reprogram the Hanshow 2.13" price tag as an e-paper clock |  | <https://github.com/xxp1943/HanshowEpd> |
+| HanshowESL | Hanshow ESL custom firmware and information |  | <https://github.com/dustybee/HanshowESL> |
+| hass-ble-esl | Home Assistant integration for BLE e-paper shelf labels (WOLINK, easyTag, PickSmart) |  | <https://github.com/eigger/hass-ble-esl> |
 | hass-gicisky | Home Assistant integration for Gicisky BLE e-paper labels |  | <https://github.com/eigger/hass-gicisky> |
+| InstantLink | Open-source driver for Fujifilm Instax Link printers |  | <https://github.com/wu-hongjun/InstantLink> |
+| instax-link-web | Web app to print to Fujifilm Instax Link printers over Web Bluetooth |  | <https://github.com/linssenste/instax-link-web> |
+| labler | BLE label printer app for Marklife thermal label printers |  | <https://github.com/toolicious/labler> |
 | miaomiaoji-tool | Python tool to control MiaoMiaoJi / Paperang thermal printers |  | <https://github.com/ihciah/miaomiaoji-tool> |
 | niimbluelib | Library for NIIMBOT printer communication from browser or Node |  | <https://github.com/MultiMote/niimbluelib> |
 | NiimPrintX | Python library and GUI for NIIMBOT label printers |  | <https://github.com/labbots/NiimPrintX> |
 | peripage-python | Python module and protocol docs for Peripage thermal printers |  | <https://github.com/bitrate16/peripage-python> |
 | phomemo_m02s | Python library for the Phomemo M02S Bluetooth thermal printer |  | <https://github.com/theacodes/phomemo_m02s> |
+| pricetag-printer | Python script to print images to Hanshow price tags |  | <https://github.com/rbaron/pricetag-printer> |
+| supvan-cups | Linux CUPS driver for Supvan T50 Pro / Katasymbol M50 Pro label printers |  | <https://github.com/heeen/supvan-cups> |
+| supvan-katasymbol-printer-web-ui | Web UI to design and print labels on Supvan/Katasymbol printers |  | <https://github.com/khromov/supvan-katasymbol-printer-web-ui> |
+| thermoprint | Design and print labels for Marklife/Pristar P15, P12, P7 Bluetooth thermal printers |  | <https://github.com/tomLadder/thermoprint> |
+| walmart-esl-flipper | Repurpose Hanshow Stellar e-ink price tags with a Flipper Zero or Python |  | <https://github.com/dbzx6r/walmart-esl-flipper> |
 
 ## Smart Home & IoT
 
@@ -927,7 +1068,34 @@
 | ar-drivers-rs | Open-source Rust driver for Xreal/Nreal, Rokid and other AR glasses | 195 | <https://github.com/badicsalex/ar-drivers-rs> |
 | AirAPI_Windows | Windows API for Nreal/Xreal Air glasses IMU sensor data | 141 | <https://github.com/MSmithDev/AirAPI_Windows> |
 | lighthouse-v2-manager | Python script to power Valve Lighthouse V2 base stations on and off via BLE | 129 | <https://github.com/nouser2013/lighthouse-v2-manager> |
+| breezy-desktop | XR virtual desktop for Linux using reverse-engineered AR glasses drivers |  | <https://github.com/wheaney/breezy-desktop> |
+| BrokenEye | Access eye tracking data and camera images on Pimax Crystal and HP Reverb G2 Omnicept |  | <https://github.com/ghostiam/BrokenEye> |
+| eveng1_python_sdk | Python SDK for Even Realities G1 smart glasses over BLE |  | <https://github.com/binarythinktank/eveng1_python_sdk> |
+| evenRealities-openCFW | Open-source custom firmware and docs for Even Realities glasses |  | <https://github.com/kalanihelekunihi/evenRealities-openCFW> |
+| faceclaw | Custom user interface for the Even Realities G2 smart glasses |  | <https://github.com/jimrandomh/faceclaw> |
+| g1_flutter_blue_plus | Flutter BLE implementation for Even Realities G1 glasses |  | <https://github.com/emingenc/g1_flutter_blue_plus> |
+| g2-kit-unofficial | Direct BLE transport and UI libraries for Even Realities G2 glasses |  | <https://github.com/Commute773/g2-kit-unofficial> |
+| G2CC | Custom windowed OS for Even Realities G2 glasses with direct-BLE Android client |  | <https://github.com/expectbugs/G2CC> |
+| g2flash | Script to apply custom firmware to Even Realities G2 smart glasses |  | <https://github.com/jimrandomh/g2flash> |
+| MacMorpheus | 3D 180/360 video player for macOS using the PSVR headset |  | <https://github.com/emoRaivis/MacMorpheus> |
+| nrealAirLinuxDriver | Linux driver for Nreal/Xreal Air glasses IMU and display modes |  | <https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver> |
+| One-Pro-IMU-Retriever-Demo | Head tracking demo from the Xreal One Pro IMU sensor |  | <https://github.com/SamiMitwalli/One-Pro-IMU-Retriever-Demo> |
+| OpenPSVR | Open-source OpenVR driver for the PlayStation VR headset |  | <https://github.com/alatnet/OpenPSVR> |
+| Pimax-OpenXR | Unofficial OpenXR runtime implementation for Pimax headsets |  | <https://github.com/mbucchia/Pimax-OpenXR> |
+| pimax_bs_manager | Pimax base station power manager for Windows |  | <https://github.com/mann1x/pimax_bs_manager> |
+| PimaxMagic4All | Make Pimax foveated rendering (LibMagic) work on other headsets |  | <https://github.com/mbucchia/PimaxMagic4All> |
 | PSMoveService | Service for PS Move controller tracking and pose data |  | <https://github.com/psmoveservice/PSMoveService> |
+| psvr-protocol | Breakdown of PlayStation VR communication protocols |  | <https://github.com/dylanmckay/psvr-protocol> |
+| PSVR2 | Attempt to make PSVR2 work under Linux |  | <https://github.com/DMJC/PSVR2> |
+| PSVR2-controller-explorer | Reverse engineering the PSVR2 Sense controllers for PC access |  | <https://github.com/AwesomeTornado/PSVR2-controller-explorer> |
+| psvr2-linux-adapter | Project to make the PSVR2 work on Linux |  | <https://github.com/unterschall/psvr2-linux-adapter> |
+| psvr2passthrough | OpenXR passthrough camera layer for PSVR2 on PC |  | <https://github.com/AdamChesters/psvr2passthrough> |
+| PSVR2Toolkit.VRCFT | VRCFaceTracking module exposing PSVR2 eye tracking |  | <https://github.com/BnuuySolutions/PSVR2Toolkit.VRCFT> |
+| PSVRTest | Read PlayStation VR accelerometer data via USB |  | <https://github.com/tokkyo/PSVRTest> |
+| PSVRTracker | Position and orientation tracking for the PSVR headset on PC |  | <https://github.com/HipsterSloth/PSVRTracker> |
+| pyPSVR | Python scripts to control and interact with the PlayStation VR |  | <https://github.com/mungewell/pyPSVR> |
+| xreal-webxr | WebXR support for Xreal AR glasses |  | <https://github.com/jakedowns/xreal-webxr> |
+| xreal_one_driver | Rust driver for Xreal One glasses IMU data |  | <https://github.com/rohitsangwan01/xreal_one_driver> |
 
 ## Wearables & Health
 
@@ -987,6 +1155,72 @@
 | pebble-tool | Community-maintained Pebble SDK command-line tool | 11 | <https://github.com/pebble-dev/pebble-tool> |
 | C30-20-Pro BLE RE | Reverse-engineered BLE protocol of a no-name Jieli-chipset smartwatch | 1 | <https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering> |
 | whoop-ble-swift | Swift package for the undocumented Whoop strap BLE protocol | 1 | <https://github.com/Asherlc/whoop-ble-swift> |
+| Amazfitbip-FreeRTOS | Barebone FreeRTOS firmware for the Amazfit Bip |  | <https://github.com/dslul/Amazfitbip-FreeRTOS> |
+| AmazfitCommunication | Two-way phone/watch communication library for Amazfit Pace and Stratos |  | <https://github.com/KieronQuinn/AmazfitCommunication> |
+| amazfitutils | Tools for working with Amazfit watchface files |  | <https://github.com/EXOMODE/amazfitutils> |
+| AmazMod | Replacement notification system and tweaks for Amazfit Pace/Stratos |  | <https://github.com/AmazMod/AmazMod> |
+| antfs-cli | Extract FIT files from ANT-FS Garmin watches |  | <https://github.com/Tigge/antfs-cli> |
+| ATC_RF03_Ring | Findings and custom firmware for Colmi R02-class smart rings |  | <https://github.com/atc1441/ATC_RF03_Ring> |
+| atria | Local-first iOS companion app for WHOOP straps |  | <https://github.com/adidshaft/atria> |
+| colmi_r02_client | Python client and protocol docs for the Colmi R02 smart ring |  | <https://github.com/tahnok/colmi_r02_client> |
+| coros-api | Bulk export COROS activities to FIT |  | <https://github.com/xballoy/coros-api> |
+| coros-connect | Interact with the COROS API |  | <https://github.com/NYT87/coros-connect> |
+| CyKit | Stream raw Emotiv EEG headset data to browsers and clients |  | <https://github.com/CymatiCorp/CyKit> |
+| dotnet.garmin.connect | Unofficial .NET Garmin Connect client |  | <https://github.com/sealbro/dotnet.garmin.connect> |
+| eight-sleep (HA) | Home Assistant integration for Eight Sleep mattresses |  | <https://github.com/grantnedwards/eight-sleep> |
+| eight-sleep-local | Local Eight Sleep integration built on Free Sleep |  | <https://github.com/adamksmith/eight-sleep-local> |
+| EightSleepPod2Server | Spark protocol server to control Eight Sleep Pod 2 locally |  | <https://github.com/a-chaudhari/EightSleepPod2Server> |
+| emokit | Open-source driver for raw Emotiv EPOC EEG data |  | <https://github.com/openyou/emokit> |
+| example-android-mi-band-2 | Android example of the Mi Band 2 BLE protocol and auth |  | <https://github.com/aashari/example-android-mi-band-2> |
+| export2garmin | Export Xiaomi scale and Omron BLE data to Garmin Connect |  | <https://github.com/RobertWojtowicz/export2garmin> |
+| Fossil-HR-SDK | SDK and docs for building apps for Fossil Hybrid HR watches |  | <https://github.com/dakhnod/Fossil-HR-SDK> |
+| freesleep-notes | Notes for open-source local control of the Eight Sleep Pod 3 |  | <https://github.com/appositeit/freesleep-notes> |
+| garmin-connect (node) | Node.js client to get or set any Garmin Connect data point |  | <https://github.com/Pythe1337N/garmin-connect> |
+| garmin-connect-export (kjkjava) | Original script to download Garmin Connect data and GPX tracks |  | <https://github.com/kjkjava/garmin-connect-export> |
+| garmin-grafana | Fetch Garmin Connect health data into InfluxDB/Grafana |  | <https://github.com/arpanghosh8453/garmin-grafana> |
+| GcpUploader | Python uploader for Garmin Connect |  | <https://github.com/dlotton/GcpUploader> |
+| GShockTimeServer | Python script to set time on Casio G-Shock watches over BLE |  | <https://github.com/izivkov/GShockTimeServer> |
+| harbour-amazfish | Amazfit/Mi Band and other smartwatch support for Sailfish OS and Linux |  | <https://github.com/piggz/harbour-amazfish> |
+| hass-walkingpad | Home Assistant integration for KingSmith WalkingPad treadmills |  | <https://github.com/mcdax/hass-walkingpad> |
+| home-assistant-garmin_connect | Garmin Connect health data integration for Home Assistant |  | <https://github.com/cyberjunky/home-assistant-garmin_connect> |
+| homebridge-eightsleep | Homebridge plugin for Eight Sleep |  | <https://github.com/nfarina/homebridge-eightsleep> |
+| HuaFetch | Fetch Huami wearable pairing data (auth keys) for third-party apps |  | <https://github.com/Keddnyo/HuaFetch> |
+| loophole | Python API and CLI for Polar devices (reversed protocol) |  | <https://github.com/rsc-dev/loophole> |
+| lunaris | Home Assistant-first custom firmware for Eight Sleep Pod 3/4/5 |  | <https://github.com/Schluggi/lunaris> |
+| Mi-Band | Mi Band BLE integration library for Android |  | <https://github.com/betomaluje/Mi-Band> |
+| miband-5-heart-rate-monitor | Web Bluetooth heart rate monitor for Mi Band 4 and 5 |  | <https://github.com/Jaapp-/miband-5-heart-rate-monitor> |
+| MiBand-5-watchface-editor | Watch face editor for Mi Band 5 and 6 |  | <https://github.com/Johnson070/MiBand-5-watchface-editor> |
+| miband-android | Unofficial Android SDK for Xiaomi Mi Band |  | <https://github.com/dkhmelenko/miband-android> |
+| miband-heartrate | Enable and monitor heart rate from Mi Band 2/3/4 on Windows |  | <https://github.com/Eryux/miband-heartrate> |
+| MiBand10-BES2700 hacking | Research and custom firmware for Mi Band 9/10 BES2700 SoC |  | <https://github.com/atc1441/MiBand10-BES2700iMP-BEST1503-Hacking> |
+| miband_analytics | Analytics for Mi Band data extracted from the Mi Fit database |  | <https://github.com/ckesc/miband_analytics> |
+| MiBandDecompiled | Decompilation of the official Xiaomi Mi Band app |  | <https://github.com/vishnudevk/MiBandDecompiled> |
+| MiBandReader | Read Mi Band steps and battery and trigger vibration |  | <https://github.com/brookwillow/MiBandReader> |
+| MiDoze | Firmware fetcher for Huami/Amazfit wearables |  | <https://github.com/Keddnyo/MiDoze> |
+| mindwave-python | Python parser for NeuroSky MindWave EEG headsets |  | <https://github.com/BarkleyUS/mindwave-python> |
+| noop | Offline WHOOP companion that pairs over BLE and keeps data local |  | <https://github.com/muftiarfan/noop> |
+| open_oura | Rust toolkit with reverse-engineered BLE protocol for Oura Ring Gen 3/4/5 |  | <https://github.com/Th0rgal/open_oura> |
+| open_ring | Pure Python driver for the Oura Ring |  | <https://github.com/LogosIsLife/open_ring> |
+| OpenStrap protocol | Dart decoder for WHOOP 4.0/5/MG, Oura ring and generic HR strap protocols |  | <https://github.com/OpenStrap/protocol> |
+| php-garmin-connect | PHP adapter for the Garmin Connect web API |  | <https://github.com/10REM/php-garmin-connect> |
+| polar-flow-export | Bulk export TCX files from Polar Flow |  | <https://github.com/gabrielreid/polar-flow-export> |
+| py_amazfit_tools | Pack/unpack .bin watchfaces for Amazfit Verge Lite/GTR/GTS |  | <https://github.com/ghtalpo/py_amazfit_tools> |
+| pylotoncycle | Python library for Peloton workout data via its web API |  | <https://github.com/justmedude/pylotoncycle> |
+| python-ant-downloader | Download data from Garmin ANT wireless devices |  | <https://github.com/braiden/python-ant-downloader> |
+| reverse-engineering-whoop-post | Write-up and code reverse engineering the WHOOP strap BLE protocol |  | <https://github.com/bWanShiTong/reverse-engineering-whoop-post> |
+| suunto-api-wrapper | Unofficial TypeScript client for the Suunto app API |  | <https://github.com/Marius-Ar/suunto-api-wrapper> |
+| unofficialWhoopAPI | Unofficial WHOOP API client |  | <https://github.com/ianm199/unofficialWhoopAPI> |
+| vrc-osc-miband-hrm | Mi Band/Amazfit heart rate over BLE to VRChat via OSC |  | <https://github.com/vard88508/vrc-osc-miband-hrm> |
+| Watch-face-editor (ZeppOS) | GUI editor for Amazfit ZeppOS watch faces |  | <https://github.com/SashaCX75/Watch-face-editor-for-Amazfit-watch-on-ZeppOS> |
+| watchface-js | JavaScript library for parsing Huami watchface binaries |  | <https://github.com/Nadeflore/watchface-js> |
+| watchface-web-editor | Web editor for Huami .bin watchfaces |  | <https://github.com/Nadeflore/watchface-web-editor> |
+| watchfaceEditor | Amazfit Bip and Cor watchface viewer and editor |  | <https://github.com/v1ack/watchfaceEditor> |
+| whoop-downloader | Functions to download data from WHOOP's internal API |  | <https://github.com/irickman/whoop-downloader> |
+| Withings2Garmin | Sync Withings weight data to Garmin Connect |  | <https://github.com/sodelalbert/Withings2Garmin> |
+| ws30 | Tools for reverse engineering the Withings WS-30 Wi-Fi scale |  | <https://github.com/mncoppola/ws30> |
+| zepp-food-extractor | Export food logs from the Zepp/Amazfit cloud API |  | <https://github.com/lcanis/zepp-food-extractor> |
+| zepp-health-cli | Unofficial CLI for the Zepp/Huami mobile health API |  | <https://github.com/m4ary/zepp-health-cli> |
+| zepp_to_influxdb | Pull Zepp/Mi Fit/Huami data into InfluxDB |  | <https://github.com/bentasker/zepp_to_influxdb> |
 
 ## Zigbee/BLE/IR Device Databases
 

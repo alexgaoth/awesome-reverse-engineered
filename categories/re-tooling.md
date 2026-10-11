@@ -1,11 +1,11 @@
 # RE Tooling
 
-[← All categories](../README.md) · 239 projects
+[← All categories](../README.md) · 244 projects
 
 - [AI-assisted RE](#ai-assisted-re) (16)
-- [Binary & Format Analysis](#binary--format-analysis) (12)
+- [Binary & Format Analysis](#binary--format-analysis) (13)
 - [Decompilation Project Tooling](#decompilation-project-tooling) (35)
-- [Disassemblers & Decompilers](#disassemblers--decompilers) (94)
+- [Disassemblers & Decompilers](#disassemblers--decompilers) (98)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (17)
 - [Mobile RE](#mobile-re) (33)
 - [Other](#other) (13)
@@ -48,6 +48,7 @@
 | Kaitai Struct Web IDE | Browser IDE for writing and testing Kaitai Struct format specs | 318 | <https://github.com/kaitai-io/kaitai_struct_webide> |
 | resource_dasm | Classic Mac OS resource fork decoder and 68K/PPC disassembler with format-specific RE tools | 158 | <https://github.com/fuzziqersoftware/resource_dasm> |
 | mootool | MachO's Other Tooling | 12 | <https://github.com/hack-different/mootool> |
+| pdb | Rust parser for Microsoft PDB (Program Database) debug information |  | <https://github.com/getsentry/pdb> |
 
 ## Decompilation Project Tooling
 
@@ -187,6 +188,10 @@
 | binja_kc | Plugin for loading MachO kernelcache and dSYM files to Binary Ninja | 39 | <https://github.com/skr0x1c0/binja_kc> |
 | sephelper | IDA loader to help with SEPROM reverse engineering. | 36 | <https://github.com/haiyuidesu/sephelper> |
 | iBoot-Binja-Loader | iBoot/SecureROM Loader | 35 | <https://github.com/EliseZeroTwo/iBoot-Binja-Loader> |
+| PbdViewer | Decompiler and viewer for PowerBuilder PBD/PBL libraries |  | <https://github.com/Hucxy/PbdViewer> |
+| tonguetwister | Macromedia Director file disassembler, Lingo decompiler and format documentation |  | <https://github.com/lham/tonguetwister> |
+| visualbasic-rs | Rust library to parse and inspect compiled Visual Basic 6 binaries |  | <https://github.com/ATRAPSLLC/visualbasic-rs> |
+| XLMMacroDeobfuscator | Extracts and emulates Excel 4.0 (XLM) macros from XLS, XLSM and XLSB files |  | <https://github.com/DissectMalware/XLMMacroDeobfuscator> |
 
 ## Dynamic Instrumentation
 
