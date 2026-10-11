@@ -18,28 +18,28 @@
 | fujihack | Reverse engineering and custom code for Fujifilm cameras | 407 | <https://github.com/fujihack/fujihack> |
 | OpenMemories-Framework | Build Android apps for Sony PlayMemories-capable cameras | 271 | <https://github.com/ma1co/OpenMemories-Framework> |
 | nikon-firmware-tools | Tools from reverse engineering Nikon DSLR firmware (Nikon Hacker) | 265 | <https://github.com/simeonpilgrim/nikon-firmware-tools> |
-| ARM-console | Firmware analysis console used for Magic Lantern Canon reverse engineering |  | <https://github.com/alexdu/ARM-console> |
-| CHDK-PTP-Java | Pure Java USB interface to Canon cameras running CHDK PTP |  | <https://github.com/acamilo/CHDK-PTP-Java> |
-| chdkptp.py | Python bindings for chdkptp to control CHDK Canon cameras |  | <https://github.com/jbaiter/chdkptp.py> |
-| convmlv | RAW developer for Magic Lantern MLV formats |  | <https://github.com/so-rose/convmlv> |
-| mlinstall | Magic Lantern install tool for Canon cameras over PTP |  | <https://github.com/petabyt/mlinstall> |
-| MLVFS | FUSE filesystem for Magic Lantern MLV raw video files |  | <https://github.com/davidmilligan/MLVFS> |
-| ricoh-gr4-firmware-analysis-and-feature-expansion | Ricoh GR IV firmware analysis and feature expansion |  | <https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion> |
-| Ricoh-GRMod | Unofficial modding tool to import presets into Ricoh GR IV Image Control |  | <https://github.com/Maxwooow/Ricoh-GRMod> |
-| sony-pmca-ricoh-mod | Sony PictureEffectPlus mod adding Ricoh GR colour profiles via PMCA |  | <https://github.com/bonyback1/sony-pmca-ricoh-mod> |
+| ricoh-gr4-firmware-analysis-and-feature-expansion | Ricoh GR IV firmware analysis and feature expansion | 105 | <https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion> |
+| mlinstall | Magic Lantern install tool for Canon cameras over PTP | 46 | <https://github.com/petabyt/mlinstall> |
+| Ricoh-GRMod | Unofficial modding tool to import presets into Ricoh GR IV Image Control | 45 | <https://github.com/Maxwooow/Ricoh-GRMod> |
+| sony-pmca-ricoh-mod | Sony PictureEffectPlus mod adding Ricoh GR colour profiles via PMCA | 40 | <https://github.com/bonyback1/sony-pmca-ricoh-mod> |
+| MLVFS | FUSE filesystem for Magic Lantern MLV raw video files | 19 | <https://github.com/davidmilligan/MLVFS> |
+| CHDK-PTP-Java | Pure Java USB interface to Canon cameras running CHDK PTP | 18 | <https://github.com/acamilo/CHDK-PTP-Java> |
+| ARM-console | Firmware analysis console used for Magic Lantern Canon reverse engineering | 16 | <https://github.com/alexdu/ARM-console> |
+| convmlv | RAW developer for Magic Lantern MLV formats | 16 | <https://github.com/so-rose/convmlv> |
+| chdkptp.py | Python bindings for chdkptp to control CHDK Canon cameras | 15 | <https://github.com/jbaiter/chdkptp.py> |
 
 ## Custom Firmware
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | Tasmota | Alternative firmware for ESP8266/ESP32 smart devices with local MQTT/HTTP control | 24,814 | <https://github.com/arendst/Tasmota> |
-| Unleashed Firmware | Custom Flipper Zero firmware with extended sub-GHz protocols | 22,496 | <https://github.com/DarkFlippers/unleashed-firmware> |
-| Atmosphere | Customized firmware for the Nintendo Switch | 20,070 | <https://github.com/Atmosphere-NX/Atmosphere> |
-| Flipper Zero firmware | Flipper Zero firmware with sub-GHz, NFC, RFID and IR protocol decoders | 16,707 | <https://github.com/flipperdevices/flipperzero-firmware> |
-| ESPHome | Firmware framework for ESP devices; widely used to replace stock firmware on smart plugs | 11,812 | <https://github.com/esphome/esphome> |
+| Unleashed Firmware | Custom Flipper Zero firmware with extended sub-GHz protocols | 22,499 | <https://github.com/DarkFlippers/unleashed-firmware> |
+| Atmosphere | Customized firmware for the Nintendo Switch | 20,072 | <https://github.com/Atmosphere-NX/Atmosphere> |
+| Flipper Zero firmware | Flipper Zero firmware with sub-GHz, NFC, RFID and IR protocol decoders | 16,708 | <https://github.com/flipperdevices/flipperzero-firmware> |
+| ESPHome | Firmware framework for ESP devices; widely used to replace stock firmware on smart plugs | 11,814 | <https://github.com/esphome/esphome> |
 | Momentum Firmware | Feature-rich custom Flipper Zero firmware | 9,254 | <https://github.com/Next-Flip/Momentum-Firmware> |
-| CrossPoint Reader | Open-source custom firmware for the Xteink X4 e-ink reader | 8,299 | <https://github.com/crosspoint-reader/crosspoint-reader> |
-| Luma3DS | Custom firmware for the Nintendo 3DS | 6,766 | <https://github.com/LumaTeam/Luma3DS> |
+| CrossPoint Reader | Open-source custom firmware for the Xteink X4 e-ink reader | 8,301 | <https://github.com/crosspoint-reader/crosspoint-reader> |
+| Luma3DS | Custom firmware for the Nintendo 3DS | 6,767 | <https://github.com/LumaTeam/Luma3DS> |
 | tuya-convert | Flash Tuya devices OTA with open firmware by exploiting the Tuya update protocol | 5,084 | <https://github.com/ct-Open-Source/tuya-convert> |
 | Xiaomi-Dafang-Hacks | Custom firmware hacks for Xiaomi Dafang and Ingenic T20 cameras | 4,326 | <https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks> |
 | ATC_MiThermometer | Custom firmware for Xiaomi LYWSD03MMC thermometers and similar BLE sensors | 4,281 | <https://github.com/pvvx/ATC_MiThermometer> |
@@ -51,7 +51,7 @@
 | RootMyTV | Exploit chain that roots/jailbreaks LG webOS smart TVs and installs a homebrew channel | 2,458 | <https://github.com/RootMyTV/RootMyTV.github.io> |
 | OpenBeken | Tasmota-like open firmware for BK7231, BL602, W800 and other IoT chips | 2,320 | <https://github.com/openshwprojects/OpenBK7231T_App> |
 | OpenIPC firmware | Open alternative firmware for IP cameras based on HiSilicon, Ingenic, SigmaStar and other SoCs | 2,237 | <https://github.com/OpenIPC/firmware> |
-| thingino | Open-source firmware for Ingenic SoC IP cameras | 2,196 | <https://github.com/themactep/thingino-firmware> |
+| thingino | Open-source firmware for Ingenic SoC IP cameras | 2,195 | <https://github.com/themactep/thingino-firmware> |
 | tuya-cloudcutter | Detach Tuya devices from the cloud or flash custom firmware via exploit | 1,934 | <https://github.com/tuya-cloudcutter/tuya-cloudcutter> |
 | yi-hack-v4 | Custom firmware for Xiaomi Yi cameras | 1,641 | <https://github.com/TheCrypt0/yi-hack-v4> |
 | Heads | Minimal Linux boot firmware for coreboot laptops | 1,596 | <https://github.com/linuxboot/heads> |
@@ -74,12 +74,12 @@
 | flipperzero-protobuf | Protobuf definitions for the Flipper Zero RPC protocol | 104 | <https://github.com/flipperdevices/flipperzero-protobuf> |
 | DVRPwned | First custom firmware for the Sony PSX DESR DVRP | 90 | <https://github.com/pcm720/dvrpwned> |
 | esp8266-deerma-humidifier | Custom firmware to uncloud the Xiaomi Mi Smart Antibacterial Humidifier | 64 | <https://github.com/Hypfer/esp8266-deerma-humidifier> |
+| wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | <https://github.com/Heisath/wdmc2-kernel> |
 | rpi-open-firmware | Open-source VideoCore firmware for the Raspberry Pi | 40 | <https://github.com/christinaa/rpi-open-firmware> |
 | SGS01BTHome | Custom firmware for the Tuya SGS01 soil sensor to send data in standard BTHome format | 28 | <https://github.com/haraldapp/SGS01BTHome> |
 | iPodLinux | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | <https://github.com/iPodLinux/iPodLinux-SVN> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
 | sengled-hub-reclaim | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | <https://github.com/djshadowxm82/sengled-hub-reclaim> |
-| wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS |  | <https://github.com/Heisath/wdmc2-kernel> |
 
 ## Firmware Analysis Tools
 
@@ -89,9 +89,9 @@
 | Universal Radio Hacker *(archived)* | Tool to investigate and reverse-engineer unknown wireless protocols | 12,585 | <https://github.com/jopohl/urh> |
 | HackRF | Open-source SDR platform for wireless RE | 8,151 | <https://github.com/greatscottgadgets/hackrf> |
 | Qiling | Binary emulation framework used for firmware and IoT analysis | 6,123 | <https://github.com/qilingframework/qiling> |
-| UEFITool | UEFI firmware image viewer and editor | 5,735 | <https://github.com/LongSoft/UEFITool> |
+| UEFITool | UEFI firmware image viewer and editor | 5,737 | <https://github.com/LongSoft/UEFITool> |
 | me_cleaner | Tool for partially deblobbing Intel ME firmware images | 5,051 | <https://github.com/corna/me_cleaner> |
-| EMBA | Security analyzer for embedded device firmware | 3,696 | <https://github.com/e-m-b-a/emba> |
+| EMBA | Security analyzer for embedded device firmware | 3,697 | <https://github.com/e-m-b-a/emba> |
 | unblob | Extraction suite for arbitrary firmware and binary blobs | 2,570 | <https://github.com/onekey-sec/unblob> |
 | Glasgow | Scots Army Knife for electronics and hardware reverse engineering | 2,225 | <https://github.com/GlasgowEmbedded/glasgow> |
 | Ubertooth | Open-source Bluetooth monitoring and experimentation platform | 2,146 | <https://github.com/greatscottgadgets/ubertooth> |
@@ -101,10 +101,10 @@
 | FACT | Firmware Analysis and Comparison Tool | 1,467 | <https://github.com/fkie-cad/FACT_core> |
 | hactool | Decrypt and extract Nintendo Switch file formats | 1,199 | <https://github.com/SciresM/hactool> |
 | Sniffle | Bluetooth 5 and 4.x LE sniffer for TI CC1352/CC26x2 | 1,189 | <https://github.com/nccgroup/Sniffle> |
-| BIOSUtilities | Utilities to parse and extract vendor BIOS/UEFI firmware | 1,094 | <https://github.com/platomav/BIOSUtilities> |
+| BIOSUtilities | Utilities to parse and extract vendor BIOS/UEFI firmware | 1,095 | <https://github.com/platomav/BIOSUtilities> |
 | firmware-mod-kit | Tools to extract and rebuild firmware images for routers | 1,001 | <https://github.com/rampageX/firmware-mod-kit> |
 | FirmAE | Large-scale emulation for IoT firmware dynamic analysis | 946 | <https://github.com/pr0v3rbs/FirmAE> |
-| uefi-firmware-parser | Parse BIOS/UEFI and Intel ME firmware images | 929 | <https://github.com/theopolis/uefi-firmware-parser> |
+| uefi-firmware-parser | Parse BIOS/UEFI and Intel ME firmware images | 930 | <https://github.com/theopolis/uefi-firmware-parser> |
 | Project X-Ray | Documents the reverse-engineered Xilinx 7-series FPGA bitstream format | 924 | <https://github.com/f4pga/prjxray> |
 | InternalBlue | Bluetooth experimentation framework for Broadcom/Cypress chips | 791 | <https://github.com/seemoo-lab/internalblue> |
 | cpu_rec | Identify CPU architecture of unknown firmware binaries | 757 | <https://github.com/airbus-seclab/cpu_rec> |
@@ -115,21 +115,21 @@
 | KindleTool | Tool to create and extract Kindle update packages | 532 | <https://github.com/NiLuJe/KindleTool> |
 | ghidra-firmware-utils | Ghidra plugins for analyzing PC firmware (UEFI, option ROMs) | 506 | <https://github.com/al3xtjames/ghidra-firmware-utils> |
 | Frankenstein | Broadcom/Cypress Bluetooth firmware emulation for fuzzing | 466 | <https://github.com/seemoo-lab/frankenstein> |
-| BK7231GUIFlashTool | Flash and back up BK7231 and other Tuya-module chips | 444 | <https://github.com/openshwprojects/BK7231GUIFlashTool> |
+| BK7231GUIFlashTool | Flash and back up BK7231 and other Tuya-module chips | 445 | <https://github.com/openshwprojects/BK7231GUIFlashTool> |
 | GreatFET | Hardware hacking multi-tool platform | 354 | <https://github.com/greatscottgadgets/greatfet> |
+| decryptBooxUpdateUpx | Decrypt Onyx Boox update.upx firmware packages | 346 | <https://github.com/Hagb/decryptBooxUpdateUpx> |
 | jefferson | JFFS2 filesystem extraction tool | 346 | <https://github.com/sviehb/jefferson> |
 | BusPirate5 firmware | Firmware for Bus Pirate 5 hardware hacking multitool | 266 | <https://github.com/DangerousPrototypes/BusPirate5-firmware> |
 | ipctool | Detect IP camera hardware and dump firmware | 256 | <https://github.com/OpenIPC/ipctool> |
-| Ablation | Autonomous reverse engineering system, demonstrated on Fortinet firmware | 205 | <https://github.com/Ablation-Tool/ablation> |
+| fwtool.py | Tool to unpack Sony camera firmware images | 207 | <https://github.com/ma1co/fwtool.py> |
+| Ablation | Autonomous reverse engineering system, demonstrated on Fortinet firmware | 206 | <https://github.com/Ablation-Tool/ablation> |
 | Dell iDRAC GPU throttling RE | Reverse-engineered Dell iDRAC firmware to stop throttling of unsupported GPUs in C4130 | 134 | <https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling> |
+| 8cryptdo | Reverse-engineered docs and tools for 8BitDo firmware encryption | 38 | <https://github.com/aeromodes/8cryptdo> |
 | AMT630A | Reverse-engineered AMT630A display controller from a cheap backup camera screen | 38 | <https://github.com/mogrinz/AMT630A> |
+| insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras | 36 | <https://github.com/enekochan/insta360-go-firmware-tool> |
 | qemu-hexagon | QEMU with support for QDSP6 user mode emulation | 34 | <https://github.com/Comsecuris/qemu-hexagon> |
 | NTRDisasm *(archived)* | Annotated disassembly of the NTR 2.x custom firmware for the Nintendo N3DS | 24 | <https://github.com/patois/NTRDisasm> |
 | Cyclone_CRAM_Mapper | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | <https://github.com/14sea/Cyclone_CRAM_Mapper> |
-| 8cryptdo | Reverse-engineered docs and tools for 8BitDo firmware encryption |  | <https://github.com/aeromodes/8cryptdo> |
-| decryptBooxUpdateUpx | Decrypt Onyx Boox update.upx firmware packages |  | <https://github.com/Hagb/decryptBooxUpdateUpx> |
-| fwtool.py | Tool to unpack Sony camera firmware images |  | <https://github.com/ma1co/fwtool.py> |
-| insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras |  | <https://github.com/enekochan/insta360-go-firmware-tool> |
 
 ## Retro Handhelds & Calculators
 
@@ -139,55 +139,55 @@
 | arkos *(archived)* | ArkOS custom Linux firmware for Rockchip-based handhelds (RG351, RGB10, etc.) | 2,151 | <https://github.com/christianhaitian/arkos> |
 | distribution | ROCKNIX immutable Linux distribution for ARM handheld gaming devices | 1,610 | <https://github.com/ROCKNIX/distribution> |
 | MinUI *(archived)* | Minimal custom launcher and libretro frontend for many retro handhelds | 1,464 | <https://github.com/shauninman/MinUI> |
+| KnightOS | Third-party open-source operating system for TI z80 calculators | 1,321 | <https://github.com/KnightOS/KnightOS> |
 | CEmu | Third-party TI-84 Plus CE / TI-83 Premium CE emulator with developer features | 1,320 | <https://github.com/CE-Programming/CEmu> |
 | AmberELEC | Handheld firmware for Anbernic RG351/RG552/RG353 and compatible devices | 1,204 | <https://github.com/AmberELEC/AmberELEC> |
+| CrossMix-OS | Enhanced custom OS for the TrimUI Smart Pro handheld | 994 | <https://github.com/cizia64/CrossMix-OS> |
 | distribution *(archived)* | JELOS Linux distribution for handheld gaming devices | 945 | <https://github.com/JustEnoughLinuxOS/distribution> |
+| firebird | Multi-platform emulator of TI-Nspire calculators | 851 | <https://github.com/nspire-emus/firebird> |
 | spruceOS | Custom firmware for Miyoo, TrimUI and Anbernic handhelds | 684 | <https://github.com/spruceUI/spruceOS> |
+| toolchain | Community C/C++ toolchain and libraries for the TI-84 Plus CE | 619 | <https://github.com/CE-Programming/toolchain> |
 | game-and-watch-retro-go *(archived)* | Emulator collection firmware for the Nintendo Game & Watch | 494 | <https://github.com/kbeckmann/game-and-watch-retro-go> |
+| Tamagotchi-Hack | Code and research for hacking Tamagotchi Friends/Tamatown toys | 435 | <https://github.com/natashenka/Tamagotchi-Hack> |
 | Allium | Custom launcher for Miyoo Mini and Mini Plus handhelds | 380 | <https://github.com/goweiwen/Allium> |
 | playdate-reverse-engineering | Panic Playdate RE notes: file formats, server API and USB commands | 310 | <https://github.com/cranksters/playdate-reverse-engineering> |
+| knulli-linux | Knulli custom Linux firmware for Anbernic, TrimUI and other handhelds | 294 | <https://github.com/knulli-cfw/knulli-linux> |
 | tamalib | Hardware-agnostic first-gen Tamagotchi emulation library (from ROM reverse engineering) | 276 | <https://github.com/jcrona/tamalib> |
+| game-and-watch-hacking | Scripts and notes for working with the Nintendo Game & Watch hardware | 266 | <https://github.com/ghidraninja/game-and-watch-hacking> |
+| ArduinoGotchi | Real Tamagotchi P1 emulator for Arduino UNO using the original ROM | 250 | <https://github.com/GaryZ88/ArduinoGotchi> |
+| MinUI-Legacy-RG35XX *(archived)* | MinUI custom launcher firmware for the Anbernic RG35XX | 225 | <https://github.com/shauninman/MinUI-Legacy-RG35XX> |
+| tamatool | Cross-platform explorer and debugger for first-gen Tamagotchi ROMs | 206 | <https://github.com/jcrona/tamatool> |
 | game-and-watch-patch | Custom firmware patch for the Nintendo Game & Watch stock firmware | 199 | <https://github.com/BrianPugh/game-and-watch-patch> |
+| game-and-watch-retro-go-sd | Retro-Go emulator firmware for Game & Watch with SD card mod support | 195 | <https://github.com/sylverb/game-and-watch-retro-go-sd> |
 | n-link | Cross-platform, CX-II compatible computer linking program for the TI-Nspire | 193 | <https://github.com/lights0123/n-link> |
+| tilp_and_gfm | TILP: transfer data between TI graphing calculators and a computer | 182 | <https://github.com/debrouxl/tilp_and_gfm> |
+| flipperzero-tamagotch-p1 | Tamagotchi P1 emulator for the Flipper Zero | 181 | <https://github.com/GMMan/flipperzero-tamagotch-p1> |
+| fpga-tamagotchi | Tamagotchi P1 FPGA core for Analogue Pocket and MiSTer | 177 | <https://github.com/agg23/fpga-tamagotchi> |
+| reverse-pokewalker *(archived)* | Research into reverse engineering the Pokewalker from HeartGold/SoulSilver | 154 | <https://github.com/mamba2410/reverse-pokewalker> |
+| picowalker | RP2350-based recreation of the Pokewalker | 152 | <https://github.com/mamba2410/picowalker> |
 | mcugotchi | Tamagotchi P1 emulator for microcontrollers built on TamaLIB | 151 | <https://github.com/jcrona/mcugotchi> |
+| Egg-Shell | Tamagotchi development tools from firmware research | 135 | <https://github.com/natashenka/Egg-Shell> |
+| powar | Pokewalker emulator | 112 | <https://github.com/UnrealPowerz/powar> |
+| tama-para-research | Research notes on the Tamagotchi Paradise hardware and firmware | 107 | <https://github.com/GMMan/tama-para-research> |
+| game-and-watch-base | Base project for writing custom Game & Watch firmware | 105 | <https://github.com/ghidraninja/game-and-watch-base> |
 | Cranked | Work-in-progress Panic Playdate console emulator | 104 | <https://github.com/TheLogicMaster/Cranked> |
 | gnwmanager | CLI tool to flash and manage files on a Nintendo Game & Watch | 96 | <https://github.com/BrianPugh/gnwmanager> |
+| tilibs | Libraries (libticalcs, libticables, libtifiles) for TI calculator linking | 91 | <https://github.com/debrouxl/tilibs> |
+| game-and-watch-flashloader | Tool to flash the Game & Watch SPI flash via OpenOCD | 76 | <https://github.com/ghidraninja/game-and-watch-flashloader> |
+| fpga-gameandwatch | Game & Watch core for Analogue Pocket and MiSTer driven by ROM dumps | 71 | <https://github.com/agg23/fpga-gameandwatch> |
+| prinux | Tools and scripts for running Linux on the HP Prime calculator | 66 | <https://github.com/zephray/prinux> |
 | pd-usb | JavaScript library to talk to a Panic Playdate over USB serial via WebSerial | 61 | <https://github.com/cranksters/pd-usb> |
+| tamagotchi-tech-specs | Technical specifications of Tamagotchi devices | 60 | <https://github.com/loociano/tamagotchi-tech-specs> |
+| pocketwalker | H8/38606F emulator built for the Pokewalker | 43 | <https://github.com/h4lfheart/pocketwalker> |
 | tiemu | Emulator of TI-89/92/V200 calculators for Linux and Windows | 34 | <https://github.com/debrouxl/tiemu> |
 | tivars_lib_cpp | C++ library to read/write TI-z80 (82/83/84) calculator variable files | 32 | <https://github.com/adriweb/tivars_lib_cpp> |
-| ArduinoGotchi | Real Tamagotchi P1 emulator for Arduino UNO using the original ROM |  | <https://github.com/GaryZ88/ArduinoGotchi> |
-| CrossMix-OS | Enhanced custom OS for the TrimUI Smart Pro handheld |  | <https://github.com/cizia64/CrossMix-OS> |
-| Egg-Shell | Tamagotchi development tools from firmware research |  | <https://github.com/natashenka/Egg-Shell> |
-| firebird | Multi-platform emulator of TI-Nspire calculators |  | <https://github.com/nspire-emus/firebird> |
-| flipperzero-tamagotch-p1 | Tamagotchi P1 emulator for the Flipper Zero |  | <https://github.com/GMMan/flipperzero-tamagotch-p1> |
-| fpga-gameandwatch | Game & Watch core for Analogue Pocket and MiSTer driven by ROM dumps |  | <https://github.com/agg23/fpga-gameandwatch> |
-| fpga-tamagotchi | Tamagotchi P1 FPGA core for Analogue Pocket and MiSTer |  | <https://github.com/agg23/fpga-tamagotchi> |
-| game-and-watch-base | Base project for writing custom Game & Watch firmware |  | <https://github.com/ghidraninja/game-and-watch-base> |
-| game-and-watch-decrypt | Manipulate encrypted sections of the Game & Watch external flash image |  | <https://github.com/GMMan/game-and-watch-decrypt> |
-| game-and-watch-flashloader | Tool to flash the Game & Watch SPI flash via OpenOCD |  | <https://github.com/ghidraninja/game-and-watch-flashloader> |
-| game-and-watch-hacking | Scripts and notes for working with the Nintendo Game & Watch hardware |  | <https://github.com/ghidraninja/game-and-watch-hacking> |
-| game-and-watch-retro-go-sd | Retro-Go emulator firmware for Game & Watch with SD card mod support |  | <https://github.com/sylverb/game-and-watch-retro-go-sd> |
-| KnightOS | Third-party open-source operating system for TI z80 calculators |  | <https://github.com/KnightOS/KnightOS> |
-| knulli-linux | Knulli custom Linux firmware for Anbernic, TrimUI and other handhelds |  | <https://github.com/knulli-cfw/knulli-linux> |
-| MinUI-Legacy-RG35XX | MinUI custom launcher firmware for the Anbernic RG35XX |  | <https://github.com/shauninman/MinUI-Legacy-RG35XX> |
-| picowalker | RP2350-based recreation of the Pokewalker |  | <https://github.com/mamba2410/picowalker> |
-| pocketwalker | H8/38606F emulator built for the Pokewalker |  | <https://github.com/h4lfheart/pocketwalker> |
-| powar | Pokewalker emulator |  | <https://github.com/UnrealPowerz/powar> |
-| PrimeComm | HP Prime calculator communication library, GUI and CLI |  | <https://github.com/eried/PrimeComm> |
-| prinux | Tools and scripts for running Linux on the HP Prime calculator |  | <https://github.com/zephray/prinux> |
-| pw | Human-readable matching decompilation of the Pokewalker firmware |  | <https://github.com/lumirth/pw> |
-| reverse-pokewalker | Research into reverse engineering the Pokewalker from HeartGold/SoulSilver |  | <https://github.com/mamba2410/reverse-pokewalker> |
-| ripem | Native programming on the HP Prime G1 via reverse engineering |  | <https://github.com/boricj/ripem> |
-| tama-para-research | Research notes on the Tamagotchi Paradise hardware and firmware |  | <https://github.com/GMMan/tama-para-research> |
-| Tamagotchi-Hack | Code and research for hacking Tamagotchi Friends/Tamatown toys |  | <https://github.com/natashenka/Tamagotchi-Hack> |
-| tamagotchi-tech-specs | Technical specifications of Tamagotchi devices |  | <https://github.com/loociano/tamagotchi-tech-specs> |
-| tamatool | Cross-platform explorer and debugger for first-gen Tamagotchi ROMs |  | <https://github.com/jcrona/tamatool> |
-| tilibs | Libraries (libticalcs, libticables, libtifiles) for TI calculator linking |  | <https://github.com/debrouxl/tilibs> |
-| tilp-linkguide | Third-party documentation of TI graphing calculator link protocols |  | <https://github.com/debrouxl/tilp-linkguide> |
-| tilp_and_gfm | TILP: transfer data between TI graphing calculators and a computer |  | <https://github.com/debrouxl/tilp_and_gfm> |
-| TITools | Unix-style command-line programs to communicate with TI calculators |  | <https://github.com/Jonimoose/TITools> |
-| toolchain | Community C/C++ toolchain and libraries for the TI-84 Plus CE |  | <https://github.com/CE-Programming/toolchain> |
-| xfer9860 | Linux app to send and receive data from Casio fx-9860 calculators |  | <https://github.com/sanjay900/xfer9860> |
+| ripem | Native programming on the HP Prime G1 via reverse engineering | 31 | <https://github.com/boricj/ripem> |
+| pw | Human-readable matching decompilation of the Pokewalker firmware | 24 | <https://github.com/lumirth/pw> |
+| PrimeComm *(archived)* | HP Prime calculator communication library, GUI and CLI | 23 | <https://github.com/eried/PrimeComm> |
+| game-and-watch-decrypt | Manipulate encrypted sections of the Game & Watch external flash image | 21 | <https://github.com/GMMan/game-and-watch-decrypt> |
+| tilp-linkguide | Third-party documentation of TI graphing calculator link protocols | 14 | <https://github.com/debrouxl/tilp-linkguide> |
+| xfer9860 | Linux app to send and receive data from Casio fx-9860 calculators | 14 | <https://github.com/sanjay900/xfer9860> |
+| TITools | Unix-style command-line programs to communicate with TI calculators | 13 | <https://github.com/Jonimoose/TITools> |
 
 ## Routers & Network Gear
 
@@ -198,10 +198,13 @@
 | RouterSploit | Exploitation framework for embedded devices and routers | 13,253 | <https://github.com/threat9/routersploit> |
 | ImmortalWrt | OpenWrt fork with extended router support | 11,723 | <https://github.com/immortalwrt/immortalwrt> |
 | Asuswrt-Merlin | Enhanced third-party firmware for Asus routers | 6,221 | <https://github.com/RMerl/asuswrt-merlin.ng> |
+| unifi-common | on_boot.d and utilities for customizing UniFi Dream Machines | 4,371 | <https://github.com/unifi-utilities/unifi-common> |
+| unpoller | Collect UniFi controller, site, device and client data for metrics | 2,725 | <https://github.com/unpoller/unpoller> |
 | UniFi-API-client | PHP client for Ubiquiti's undocumented UniFi Controller API | 1,349 | <https://github.com/Art-of-WiFi/UniFi-API-client> |
 | Starlink-FI | Fault-injection modchip for the Starlink user terminal | 1,045 | <https://github.com/KULeuven-COSIC/Starlink-FI> |
 | routeros *(archived)* | Tenable research tools for MikroTik RouterOS | 909 | <https://github.com/tenable/routeros> |
 | X-WRT | OpenWrt-based firmware for routers | 860 | <https://github.com/x-wrt/x-wrt> |
+| zte_modem_tools | Tools to decode/encode ZTE modem configuration files | 727 | <https://github.com/douniwan5788/zte_modem_tools> |
 | starlink-grpc-tools | Tools for the Starlink dish reverse-engineered gRPC API | 711 | <https://github.com/sparky8512/starlink-grpc-tools> |
 | DD-WRT | Mirror of DD-WRT, third-party Linux firmware for wireless routers | 610 | <https://github.com/mirror/dd-wrt> |
 | huawei-lte-api | API client for Huawei LTE modems and routers | 532 | <https://github.com/Salamek/huawei-lte-api> |
@@ -209,51 +212,48 @@
 | unifi-protect | Nearly complete implementation of the UniFi Protect API | 408 | <https://github.com/hjdhjd/unifi-protect> |
 | routeros-api | PHP client API for MikroTik RouterOS | 385 | <https://github.com/BenMenking/routeros-api> |
 | RouterOS-Backup-Tools | Decrypt and pack MikroTik RouterOS backups | 347 | <https://github.com/BigNerd95/RouterOS-Backup-Tools> |
+| udm-kernel-tools | Tools to bootstrap custom kernels on the UniFi Dream Machine | 341 | <https://github.com/fabianishere/udm-kernel-tools> |
 | RouterOS-api | Python API for MikroTik RouterBoard devices | 329 | <https://github.com/socialwifi/RouterOS-api> |
 | ha-tplink-deco | Home Assistant component for TP-Link Deco mesh routers | 299 | <https://github.com/amosyuen/ha-tplink-deco> |
 | librouteros | Python implementation of the MikroTik RouterOS API | 268 | <https://github.com/luqasz/librouteros> |
+| home-assistant_ugreen-nas | Home Assistant integration for UGREEN NAS devices via their web API | 263 | <https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas> |
+| ha-omada | Home Assistant integration for TP-Link Omada controllers | 256 | <https://github.com/zachcheatham/ha-omada> |
 | pynetgear | Python library to control Netgear routers through their SOAP API | 247 | <https://github.com/MatMaul/pynetgear> |
 | home-assistant-eero | Eero mesh Wi-Fi integration for Home Assistant | 217 | <https://github.com/schmittx/home-assistant-eero> |
+| google-wifi-api | Discovered API endpoints for Google Wifi and OnHub routers | 216 | <https://github.com/olssonm/google-wifi-api> |
 | TP-Link-Archer-C6U | Python package for TP-Link and Mercusys router web API access | 202 | <https://github.com/AlexandrErohin/TP-Link-Archer-C6U> |
 | FreshTomato (ARM) | Alternative open-source firmware for Broadcom-based ARM routers | 194 | <https://github.com/FreshTomato-Project/freshtomato-arm> |
 | eero-client | Barebone client for the eero mesh router API | 193 | <https://github.com/343max/eero-client> |
+| hass-miwifi | Home Assistant integration for Xiaomi MiWiFi routers | 188 | <https://github.com/dmamontov/hass-miwifi> |
+| starlink_exporter | Prometheus exporter for metrics from the Starlink dish gRPC API | 187 | <https://github.com/danopstech/starlink_exporter> |
+| Huawei-Router-Tool | Tool to interact with Huawei routers via their web API | 171 | <https://github.com/pearlxcore/Huawei-Router-Tool> |
 | FOISted | MikroTik RouterOS v6 remote jailbreak | 159 | <https://github.com/MarginResearch/FOISted> |
+| omada_exporter | Prometheus exporter for TP-Link Omada controllers | 142 | <https://github.com/charlie-haley/omada_exporter> |
+| python-sagemcom-api | Unofficial Python wrapper for Sagemcom F@st routers' internal API | 142 | <https://github.com/iMicknl/python-sagemcom-api> |
+| huawei-modem-python-api-client | Python client for Huawei USB modem HTTP API | 131 | <https://github.com/pablo/huawei-modem-python-api-client> |
 | asusrouter | API wrapper for ASUSWRT-powered routers over HTTP | 127 | <https://github.com/Vaskivskyi/asusrouter> |
 | uiprotect | Unofficial Python API for UniFi Protect | 104 | <https://github.com/uilibs/uiprotect> |
+| omada-api | Python wrapper for the TP-Link Omada Software Controller API | 94 | <https://github.com/ghaberek/omada-api> |
 | aiounifi | Async Python library for the UniFi Controller API | 90 | <https://github.com/Kane610/aiounifi> |
 | python-qnapstats | Python API for obtaining QNAP NAS system stats | 89 | <https://github.com/colinodell/python-qnapstats> |
 | linksys_velop | Home Assistant integration for Linksys Velop mesh using its local JNAP API | 77 | <https://github.com/uvjim/linksys_velop> |
+| Winbox_Protocol_Dissector | Wireshark dissector for the MikroTik Winbox protocol | 72 | <https://github.com/Cisco-Talos/Winbox_Protocol_Dissector> |
+| huawei-utility-page | Web page with utility tools for Huawei LTE routers | 68 | <https://github.com/andreluis034/huawei-utility-page> |
 | FreshTomato (MIPS) | Alternative open-source firmware for Broadcom-based MIPS routers | 61 | <https://github.com/FreshTomato-Project/freshtomato-mips> |
 | cavium-cn6640 SmartNIC | Reverse-engineered Cavium Octeon II SmartNIC into a working 10GbE card on Linux | 51 | <https://github.com/nicologiuliani6/cavium-cn6640-snic10e-octeon-ii-nic> |
+| tplink-omada-api | Python client for the TP-Link Omada controller API | 43 | <https://github.com/MarkGodwin/tplink-omada-api> |
 | eternalegypt | Python API for Netgear LTE modems | 36 | <https://github.com/amelchio/eternalegypt> |
+| winbox-terminal-protocol | Pure Python implementation of the MikroTik WinBox terminal protocol | 29 | <https://github.com/subixonfire/winbox-terminal-protocol> |
 | aioasuswrt | Async ASUSWRT router access over SSH/telnet | 26 | <https://github.com/kennedyshead/aioasuswrt> |
-| aiovodafone | Python library to control the Vodafone Station router |  | <https://github.com/chemelli74/aiovodafone> |
-| DishyPy | Python examples for the Starlink dish API |  | <https://github.com/woodseowl/DishyPy> |
-| go-starlink | Go client for the SpaceX Starlink dish gRPC API |  | <https://github.com/b0ch3nski/go-starlink> |
-| google-wifi-api | Discovered API endpoints for Google Wifi and OnHub routers |  | <https://github.com/olssonm/google-wifi-api> |
-| google-wifi-api-node | Node.js wrapper for the Google Wifi local API |  | <https://github.com/JamesHawkinss/google-wifi-api-node> |
-| ha-omada | Home Assistant integration for TP-Link Omada controllers |  | <https://github.com/zachcheatham/ha-omada> |
-| hass-miwifi | Home Assistant integration for Xiaomi MiWiFi routers |  | <https://github.com/dmamontov/hass-miwifi> |
-| home-assistant_ugreen-nas | Home Assistant integration for UGREEN NAS devices via their web API |  | <https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas> |
-| huawei-modem-python-api-client | Python client for Huawei USB modem HTTP API |  | <https://github.com/pablo/huawei-modem-python-api-client> |
-| huawei-router-api | API for querying Huawei LTE routers |  | <https://github.com/siphomateke/huawei-router-api> |
-| Huawei-Router-Tool | Tool to interact with Huawei routers via their web API |  | <https://github.com/pearlxcore/Huawei-Router-Tool> |
-| Huawei-Router_Python | Python tool to fetch data from Huawei E3372/E5332 HiLink modems |  | <https://github.com/pklaus/Huawei-Router_Python> |
-| huawei-utility-page | Web page with utility tools for Huawei LTE routers |  | <https://github.com/andreluis034/huawei-utility-page> |
-| omada-api | Python wrapper for the TP-Link Omada Software Controller API |  | <https://github.com/ghaberek/omada-api> |
-| omada-api-toolkit | Unofficial Node.js client and docs for the undocumented Omada Web API v2 |  | <https://github.com/spectator81-png/omada-api-toolkit> |
-| omada_exporter | Prometheus exporter for TP-Link Omada controllers |  | <https://github.com/charlie-haley/omada_exporter> |
-| orbicfg | Decrypt/encrypt Netgear Orbi configuration files |  | <https://github.com/Fysac/orbicfg> |
-| python-sagemcom-api | Unofficial Python wrapper for Sagemcom F@st routers' internal API |  | <https://github.com/iMicknl/python-sagemcom-api> |
-| starlink_exporter | Prometheus exporter for metrics from the Starlink dish gRPC API |  | <https://github.com/danopstech/starlink_exporter> |
-| starlink_exporter | Prometheus exporter for Starlink dish performance and health |  | <https://github.com/joshuasing/starlink_exporter> |
-| tplink-omada-api | Python client for the TP-Link Omada controller API |  | <https://github.com/MarkGodwin/tplink-omada-api> |
-| UBNT-AirOS | Get information from Ubiquiti AirOS (airMAX) devices |  | <https://github.com/ITJamie/UBNT-AirOS> |
-| udm-kernel-tools | Tools to bootstrap custom kernels on the UniFi Dream Machine |  | <https://github.com/fabianishere/udm-kernel-tools> |
-| unifi-common | on_boot.d and utilities for customizing UniFi Dream Machines |  | <https://github.com/unifi-utilities/unifi-common> |
-| unpoller | Collect UniFi controller, site, device and client data for metrics |  | <https://github.com/unpoller/unpoller> |
-| winbox | Experimental implementation of the MikroTik Winbox protocol |  | <https://github.com/jabb3rd/winbox> |
-| winbox-terminal-protocol | Pure Python implementation of the MikroTik WinBox terminal protocol |  | <https://github.com/subixonfire/winbox-terminal-protocol> |
-| Winbox_Protocol_Dissector | Wireshark dissector for the MikroTik Winbox protocol |  | <https://github.com/Cisco-Talos/Winbox_Protocol_Dissector> |
-| zte-modem-api-docs | Reverse-engineering notes on the ZTE modem web API |  | <https://github.com/wijayamin/zte-modem-api-docs> |
-| zte_modem_tools | Tools to decode/encode ZTE modem configuration files |  | <https://github.com/douniwan5788/zte_modem_tools> |
+| UBNT-AirOS *(archived)* | Get information from Ubiquiti AirOS (airMAX) devices | 26 | <https://github.com/ITJamie/UBNT-AirOS> |
+| huawei-router-api | API for querying Huawei LTE routers | 25 | <https://github.com/siphomateke/huawei-router-api> |
+| zte-modem-api-docs | Reverse-engineering notes on the ZTE modem web API | 24 | <https://github.com/wijayamin/zte-modem-api-docs> |
+| winbox | Experimental implementation of the MikroTik Winbox protocol | 23 | <https://github.com/jabb3rd/winbox> |
+| starlink_exporter | Prometheus exporter for Starlink dish performance and health | 20 | <https://github.com/joshuasing/starlink_exporter> |
+| omada-api-toolkit | Unofficial Node.js client and docs for the undocumented Omada Web API v2 | 19 | <https://github.com/spectator81-png/omada-api-toolkit> |
+| orbicfg | Decrypt/encrypt Netgear Orbi configuration files | 17 | <https://github.com/Fysac/orbicfg> |
+| aiovodafone | Python library to control the Vodafone Station router | 15 | <https://github.com/chemelli74/aiovodafone> |
+| google-wifi-api-node | Node.js wrapper for the Google Wifi local API | 14 | <https://github.com/JamesHawkinss/google-wifi-api-node> |
+| go-starlink | Go client for the SpaceX Starlink dish gRPC API | 13 | <https://github.com/b0ch3nski/go-starlink> |
+| DishyPy | Python examples for the Starlink dish API | 11 | <https://github.com/woodseowl/DishyPy> |
+| Huawei-Router_Python | Python tool to fetch data from Huawei E3372/E5332 HiLink modems | 11 | <https://github.com/pklaus/Huawei-Router_Python> |

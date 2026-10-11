@@ -16,9 +16,9 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Bilibili-Evolved | Userscript that extends the Bilibili web client using its internal APIs | 30,744 | <https://github.com/the1812/Bilibili-Evolved> |
+| Bilibili-Evolved | Userscript that extends the Bilibili web client using its internal APIs | 30,745 | <https://github.com/the1812/Bilibili-Evolved> |
 | downkyi | DownKyi: Windows Bilibili video downloader using reverse-engineered Bilibili APIs | 24,389 | <https://github.com/leiurayer/downkyi> |
-| PiliPlus | PiliPlus | 19,350 | <https://github.com/bggRGjQaUbCoE/PiliPlus> |
+| PiliPlus | PiliPlus | 19,352 | <https://github.com/bggRGjQaUbCoE/PiliPlus> |
 | BBLL | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 | 17,493 | <https://github.com/xiaye13579/BBLL> |
 | BBDown *(archived)* | Command-line Bilibili downloader built on the site's private web and app APIs | 13,865 | <https://github.com/nilaoda/BBDown> |
 | pilipala *(archived)* | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | 13,802 | <https://github.com/guozhigq/pilipala> |
@@ -29,7 +29,7 @@
 | Bili.Copilot | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用 | 5,225 | <https://github.com/Richasy/Bili.Copilot> |
 | BiliTools *(archived)* | Cross-platform Bilibili toolbox for downloading video, audio and danmaku via private APIs | 5,067 | <https://github.com/btjawa/BiliTools> |
 | JKVideo | 高颜值第三方 B 站 React Native 客户端 | 4,996 | <https://github.com/tiajinsha/JKVideo> |
-| BiliPai | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 4,820 | <https://github.com/jay3-yy/BiliPai> |
+| BiliPai | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 4,821 | <https://github.com/jay3-yy/BiliPai> |
 | bv | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | 3,944 | <https://github.com/aaa1115910/bv> |
 | BiliRoamingX | ReVanced-based patches and integrations for the Bilibili Android app | 3,840 | <https://github.com/BiliRoamingX/BiliRoamingX> |
 | PiliPalaX *(archived)* | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 | 3,403 | <https://github.com/orz12/PiliPalaX> |
@@ -68,9 +68,9 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| alist | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,282 | <https://github.com/AlistGo/alist> |
+| alist | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,281 | <https://github.com/AlistGo/alist> |
 | OpenList | OpenList: community fork of AList for mounting cloud drives | 25,014 | <https://github.com/OpenListTeam/OpenList> |
-| LinkSwift | Userscript that obtains direct download links from Baidu, Aliyun, Quark, Tianyi and other drives | 21,471 | <https://github.com/hmjz100/LinkSwift> |
+| LinkSwift | Userscript that obtains direct download links from Baidu, Aliyun, Quark, Tianyi and other drives | 21,473 | <https://github.com/hmjz100/LinkSwift> |
 | aliyunpan | Xiaobaiyang: third-party Aliyun Drive desktop client | 11,834 | <https://github.com/liupan1890/aliyunpan> |
 | aliyundrive-webdav *(archived)* | WebDAV server for Aliyun Drive | 9,746 | <https://github.com/messense/aliyundrive-webdav> |
 | BaiduPCS-Go | Baidu Netdisk command-line client with share-link and rapid-upload transfer | 5,729 | <https://github.com/qjfoidnh/BaiduPCS-Go> |
@@ -101,18 +101,18 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| TikTokDownloader | Douyin and TikTok downloader and data collector using reverse-engineered web APIs | 16,694 | <https://github.com/JoeanAmier/TikTokDownloader> |
-| dart_simple_live | 简简单单的看直播 | 16,123 | <https://github.com/xiaoyaocz/dart_simple_live> |
-| DouyinLiveRecorder | Live recorder for Douyin, TikTok, Kuaishou, Huya, Douyu, Bilibili and more via their stream APIs | 11,022 | <https://github.com/ihmily/DouyinLiveRecorder> |
-| TikTokDownload | Douyin watermark-free batch downloader for user posts, likes and collections | 8,870 | <https://github.com/Johnserf-Seed/TikTokDownload> |
+| TikTokDownloader | Douyin and TikTok downloader and data collector using reverse-engineered web APIs | 16,697 | <https://github.com/JoeanAmier/TikTokDownloader> |
+| dart_simple_live | 简简单单的看直播 | 16,124 | <https://github.com/xiaoyaocz/dart_simple_live> |
+| DouyinLiveRecorder | Live recorder for Douyin, TikTok, Kuaishou, Huya, Douyu, Bilibili and more via their stream APIs | 11,021 | <https://github.com/ihmily/DouyinLiveRecorder> |
+| TikTokDownload | Douyin watermark-free batch downloader for user posts, likes and collections | 8,869 | <https://github.com/Johnserf-Seed/TikTokDownload> |
 | real-url | Extracts real stream URLs and danmaku from 58 Chinese live platforms (Douyu, Huya, Bilibili, Douyin) | 7,839 | <https://github.com/wbt5/real-url> |
-| DouYin_Spider | Douyin reverse-engineered API client: posts, DMs and live-room listening | 3,338 | <https://github.com/cv-cat/DouYin_Spider> |
+| DouYin_Spider | Douyin reverse-engineered API client: posts, DMs and live-room listening | 3,339 | <https://github.com/cv-cat/DouYin_Spider> |
 | video_spider | Watermark remover and parser for Douyin, Kuaishou, Weibo and many Chinese short-video apps | 2,993 | <https://github.com/5ime/video_spider> |
 | f2 | F2: high-speed multi-platform downloader with Douyin/TikTok signature (X-Bogus, a_bogus) support | 2,694 | <https://github.com/Johnserf-Seed/f2> |
 | DouyinLiveWebFetcher | Fetches Douyin live-room danmaku from the web protocol | 1,849 | <https://github.com/saermart/DouyinLiveWebFetcher> |
 | douyin | Douyin crawler for profiles, likes, music, topics and search results | 1,616 | <https://github.com/erma0/douyin> |
 | Crawler | Crawler API server for Douyin (a_bogus), Kuaishou, Bilibili, Xiaohongshu, Taobao, JD and Weibo | 1,453 | <https://github.com/ShilongLee/Crawler> |
-| KS-Downloader | Kuaishou video and image downloader using its web API | 876 | <https://github.com/JoeanAmier/KS-Downloader> |
+| KS-Downloader | Kuaishou video and image downloader using its web API | 877 | <https://github.com/JoeanAmier/KS-Downloader> |
 | dycast | Douyin live danmaku client that relays live-room messages | 847 | <https://github.com/skmcj/dycast> |
 | HuYaTv | 聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 | 781 | <https://github.com/jayjd/HuYaTv> |
 | TikTok | Documentation of TikTok reverse engineering | 744 | <https://github.com/SyntaxSparkk/TikTok> |
@@ -148,7 +148,7 @@
 | Ark-Studio | Integrated Arknights asset management and extraction platform | 235 | <https://github.com/isHarryh/Ark-Studio> |
 | blue-archive-viewer | Blue Archive resource viewer | 201 | <https://github.com/respectZ/blue-archive-viewer> |
 | BA-AD | Tool and library that downloads the latest Blue Archive assets | 192 | <https://github.com/Deathemonic/BA-AD> |
-| Blue-Archive-Asset-Downloader | Downloads Blue Archive assets from different servers | 156 | <https://github.com/ZM-Kimu/Blue-Archive-Asset-Downloader> |
+| Blue-Archive-Asset-Downloader | Downloads Blue Archive assets from different servers | 157 | <https://github.com/ZM-Kimu/Blue-Archive-Asset-Downloader> |
 | genshin-kit-node *(archived)* | Node.js wrapper for fetching Genshin Impact player data | 149 | <https://github.com/genshin-kit/genshin-kit-node> |
 | Blue-Archive---Asset-Downloader *(archived)* | Blue Archive asset downloader | 127 | <https://github.com/K0lb3s-Datamines/Blue-Archive---Asset-Downloader> |
 | hoyoapi | Unofficial HoYoLAB API wrapper library | 71 | <https://github.com/vermaysha/hoyoapi> |
@@ -157,9 +157,9 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| pixez-flutter | Third-party Pixiv Flutter client using the Pixiv app API | 13,051 | <https://github.com/Notsfsssf/pixez-flutter> |
-| Pixiv-Shaft | Third-party Pixiv Android client | 8,057 | <https://github.com/CeuiLiSA/Pixiv-Shaft> |
-| PixivBatchDownloader | Browser extension for batch downloading Pixiv artworks and novels | 5,681 | <https://github.com/xuejianxianzun/PixivBatchDownloader> |
+| pixez-flutter | Third-party Pixiv Flutter client using the Pixiv app API | 13,052 | <https://github.com/Notsfsssf/pixez-flutter> |
+| Pixiv-Shaft | Third-party Pixiv Android client | 8,058 | <https://github.com/CeuiLiSA/Pixiv-Shaft> |
+| PixivBatchDownloader | Browser extension for batch downloading Pixiv artworks and novels | 5,682 | <https://github.com/xuejianxianzun/PixivBatchDownloader> |
 | Pixeval | Third-party Pixiv desktop client for Windows | 3,166 | <https://github.com/Pixeval/Pixeval> |
 | PixivUtil2 | Downloader for Pixiv, Fanbox and related sites | 2,697 | <https://github.com/Nandaka/PixivUtil2> |
 | Pix-EzViewer | Third-party Pixiv Android client | 2,629 | <https://github.com/Notsfsssf/Pix-EzViewer> |
@@ -192,13 +192,13 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| lx-music-desktop | LX Music: desktop music player aggregating Chinese music platform sources | 54,360 | <https://github.com/lyswhut/lx-music-desktop> |
+| lx-music-desktop | LX Music: desktop music player aggregating Chinese music platform sources | 54,361 | <https://github.com/lyswhut/lx-music-desktop> |
 | YesPlayMusic | Third-party NetEase Cloud Music desktop player built on the unofficial API | 33,366 | <https://github.com/qier222/YesPlayMusic> |
 | listen1_chrome_extension | Browser extension that plays music from NetEase, QQ Music, Kugou, Kuwo, Bilibili and Migu | 12,107 | <https://github.com/listen1/listen1_chrome_extension> |
 | server | Refactored UnblockNeteaseMusic proxy that replaces unavailable NetEase songs with other sources | 7,848 | <https://github.com/UnblockNeteaseMusic/server> |
 | SPlayer *(archived)* | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop &... | 7,383 | <https://github.com/SPlayer-Dev/SPlayer> |
-| musicdl | Python music downloader for dozens of Chinese music and audio platforms | 6,512 | <https://github.com/CharlesPikachu/musicdl> |
-| MoeKoeMusic | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Win... | 6,429 | <https://github.com/MoeKoeMusic/MoeKoeMusic> |
+| musicdl | Python music downloader for dozens of Chinese music and audio platforms | 6,514 | <https://github.com/CharlesPikachu/musicdl> |
+| MoeKoeMusic | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Win... | 6,430 | <https://github.com/MoeKoeMusic/MoeKoeMusic> |
 | EchoMusic | 🎉 一个简约的第三方酷狗概念版音乐播放器 | 3,495 | <https://github.com/hoowhoami/EchoMusic> |
 | MusicDownload *(archived)* | Song downloader for Chinese music platforms (archived) | 2,444 | <https://github.com/QiuChenlyOpenSource/MusicDownload> |
 | Meting | Music API framework for NetEase, QQ Music, Kugou, Kuwo and Baidu | 2,201 | <https://github.com/metowolf/Meting> |
@@ -211,7 +211,7 @@
 | QQMusicApi | Python QQ Music API wrapper | 508 | <https://github.com/L-1124/QQMusicApi> |
 | QQKWKG-TriMusicDecrypt | Decrypts QQ Music, Kuwo and Kugou encrypted audio formats | 418 | <https://github.com/Acooldog/QQKWKG-TriMusicDecrypt> |
 | UnblockNeteaseMusic *(archived)* | Koa proxy unlocking NetEase Cloud Music abroad and replacing copyrighted tracks | 336 | <https://github.com/ITJesse/UnblockNeteaseMusic> |
-| MeloX | 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。 / A native th... | 331 | <https://github.com/youshen2/MeloX> |
+| MeloX | 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。 / A native th... | 332 | <https://github.com/youshen2/MeloX> |
 | MiguMusicApi | Migu Music Node.js API | 272 | <https://github.com/jsososo/MiguMusicApi> |
 | Kugou-api | Kugou Music web API wrapper | 261 | <https://github.com/ecitlm/Kugou-api> |
 | NeteaseCloudMusicApi | C# port of the NetEase Cloud Music API | 261 | <https://github.com/wwh1004/NeteaseCloudMusicApi> |
@@ -230,7 +230,7 @@
 | easy12306 | Machine-learning solver for the 12306 image captcha | 2,910 | <https://github.com/zhaipro/easy12306> |
 | Coolapk-UWP | 一个基于 UWP 平台的第三方酷安客户端 | 2,663 | <https://github.com/Coolapk-UWP/Coolapk-UWP> |
 | 12306-mcp | MCP server for 12306 train ticket search | 2,342 | <https://github.com/Joooook/12306-mcp> |
-| coolapk-desktop | 酷安跨平台桌面版 | 1,497 | <https://github.com/daimiaopeng/coolapk-desktop> |
+| coolapk-desktop | 酷安跨平台桌面版 | 1,501 | <https://github.com/daimiaopeng/coolapk-desktop> |
 | Crack-JS-Spider | JS anti-crawler parameter reverse engineering (Pinduoduo anti_content, QQ Music sign, BOSS Zhipin) | 1,038 | <https://github.com/LoseNine/Crack-JS-Spider> |
 | boss-cli | CLI for the BOSS Zhipin job platform via reverse-engineered APIs | 977 | <https://github.com/jackwener/boss-cli> |
 | spider_reverse | Crawler reverse-engineering case studies including WeChat mini program decompilation | 928 | <https://github.com/0xAllenChen/spider_reverse> |
@@ -257,7 +257,7 @@
 | WeChatRobot | WeChat hook bot with database decryption and WeCom hooking | 7,217 | <https://github.com/TonyChen56/WeChatRobot> |
 | LiteLoaderQQNT *(archived)* | Plugin loader for the QQNT Electron client | 7,070 | <https://github.com/LiteLoaderQQNT/LiteLoaderQQNT> |
 | wechatDataBackup | WeChat chat history backup and viewer that decrypts local databases | 6,419 | <https://github.com/git-jiadong/wechatDataBackup> |
-| echotrace | Local WeChat chat history export and analysis tool | 3,838 | <https://github.com/ycccccccy/echotrace> |
+| echotrace | Local WeChat chat history export and analysis tool | 3,837 | <https://github.com/ycccccccy/echotrace> |
 | LuckyLilliaBot | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,655 | <https://github.com/LLOneBot/LuckyLilliaBot> |
 | Icalingua-plus-plus | Third-party QQ desktop client built on reverse-engineered protocol libraries | 3,380 | <https://github.com/Icalingua-plus-plus/Icalingua-plus-plus> |
 | Lagrange.Core | Pure C# implementation of the NTQQ protocol, derived from Konata.Core | 2,992 | <https://github.com/LagrangeDev/Lagrange.Core> |
@@ -296,11 +296,11 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| XHS-Downloader | Xiaohongshu (RedNote) link extractor and post downloader | 12,970 | <https://github.com/JoeanAmier/XHS-Downloader> |
+| XHS-Downloader | Xiaohongshu (RedNote) link extractor and post downloader | 12,973 | <https://github.com/JoeanAmier/XHS-Downloader> |
 | weiboSpider | Sina Weibo crawler for user posts and profile data | 9,735 | <https://github.com/dataabc/weiboSpider> |
-| Spider_XHS | Xiaohongshu reverse-engineered crawler: signatures, DMs, live and data collection | 8,063 | <https://github.com/cv-cat/Spider_XHS> |
-| TiebaLite | 贴吧 Lite | 4,427 | <https://github.com/HuanCheng65/TiebaLite> |
-| zhihu-plus-plus | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 | 4,233 | <https://github.com/zly2006/zhihu-plus-plus> |
+| Spider_XHS | Xiaohongshu reverse-engineered crawler: signatures, DMs, live and data collection | 8,065 | <https://github.com/cv-cat/Spider_XHS> |
+| TiebaLite | 贴吧 Lite | 4,426 | <https://github.com/HuanCheng65/TiebaLite> |
+| zhihu-plus-plus | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 | 4,235 | <https://github.com/zly2006/zhihu-plus-plus> |
 | WeiboSpider | Maintained Sina Weibo data collection tool | 4,120 | <https://github.com/nghuyong/WeiboSpider> |
 | SinaSpider | Sina Weibo crawler built on Scrapy and Redis | 3,285 | <https://github.com/LiuXingMing/SinaSpider> |
 | weibo-search | Collects Weibo keyword and topic search results | 2,329 | <https://github.com/dataabc/weibo-search> |

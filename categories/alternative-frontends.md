@@ -25,12 +25,12 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | Whoogle Search *(archived)* | Self-hosted ad-free Google search proxy that scrapes results | 11,566 | <https://github.com/benbusby/whoogle-search> |
-| Degoog | Search engine frontend that scrapes Google results | 2,355 | <https://github.com/degoog-org/degoog> |
+| Degoog | Search engine frontend that scrapes Google results | 2,363 | <https://github.com/degoog-org/degoog> |
 | Xtra | Twitch player and browser for Android using Twitch's GraphQL API | 2,298 | <https://github.com/crackededed/Xtra> |
 | Lingva Translate | Alternative frontend for Google Translate using scraped results | 1,851 | <https://github.com/thedaviddelta/lingva-translate> |
 | Twire | Alternative open-source Twitch client for Android | 1,306 | <https://github.com/twireapp/Twire> |
 | pixiv-viewer | Third-party Pixiv viewer web app | 867 | <https://github.com/asadahimeka/pixiv-viewer> |
-| Freetar | Alternative frontend for Ultimate Guitar tabs | 783 | <https://github.com/kmille/freetar> |
+| Freetar | Alternative frontend for Ultimate Guitar tabs | 784 | <https://github.com/kmille/freetar> |
 | Quetre | Libre frontend for Quora | 499 | <https://github.com/zyachel/quetre> |
 | libremdb | FOSS alternative frontend for IMDb | 441 | <https://github.com/zyachel/libremdb> |
 | Dumb | Private alternative frontend for Genius lyrics | 415 | <https://github.com/rramiachraf/dumb> |
@@ -105,10 +105,10 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | ytfzf | POSIX script to search and play YouTube videos without an API key | 4,157 | <https://github.com/pystardust/ytfzf> |
-| yattee | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,738 | <https://github.com/yattee/yattee> |
+| yattee | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,739 | <https://github.com/yattee/yattee> |
 | SkyTube | Open-source YouTube app for Android using NewPipeExtractor | 2,790 | <https://github.com/SkyTubeTeam/SkyTube> |
 | ViewTube | Privacy-friendly YouTube frontend that scrapes YouTube directly | 1,473 | <https://github.com/ViewTube/viewtube> |
-| youtube-viewer | Lightweight YouTube client for Linux (CLI and GTK) | 1,314 | <https://github.com/trizen/youtube-viewer> |
+| youtube-viewer | Lightweight YouTube client for Linux (CLI and GTK) | 1,315 | <https://github.com/trizen/youtube-viewer> |
 | Materialious | Material Design YouTube client built on the Invidious API | 1,215 | <https://github.com/Materialious/Materialious> |
 | Beatbump *(archived)* | Alternative YouTube Music frontend in SvelteKit using the internal API | 1,129 | <https://github.com/snuffyDev/Beatbump> |
 | youtube-local | Browser-based YouTube client that fetches pages directly, no Google JS | 777 | <https://github.com/user234683/youtube-local> |

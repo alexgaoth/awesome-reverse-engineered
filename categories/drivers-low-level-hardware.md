@@ -14,7 +14,7 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | tinygrad | ML framework whose extra/accel/ane holds reverse-engineered Apple Neural Engine work | 33,739 | <https://github.com/tinygrad/tinygrad> |
-| neural-engine | Community documentation of the Apple Neural Engine and how Core ML uses it | 2,542 | <https://github.com/hollance/neural-engine> |
+| neural-engine | Community documentation of the Apple Neural Engine and how Core ML uses it | 2,543 | <https://github.com/hollance/neural-engine> |
 | muvm | microVM runner used by Asahi to run x86 games with FEX on 4K-page hosts | 981 | <https://github.com/AsahiLinux/muvm> |
 | linux-m1 | Linux kernel source tree | 871 | <https://github.com/corellium/linux-m1> |
 | ane (Linux ANE driver) | Reverse-engineered Linux driver and userspace for the Apple Neural Engine | 539 | <https://github.com/eiln/ane> |
@@ -22,7 +22,7 @@
 | asahi-audio | DSP and audio configuration for Apple Silicon Macs on Linux | 215 | <https://github.com/AsahiLinux/asahi-audio> |
 | speakersafetyd | Userspace speaker protection daemon for Apple Silicon Macs under Linux | 204 | <https://github.com/AsahiLinux/speakersafetyd> |
 | Asahi U-Boot | U-Boot port for Apple Silicon Macs used in the Asahi boot chain | 201 | <https://github.com/AsahiLinux/u-boot> |
-| avd | Reverse-engineered Apple Video Decoder (AVD) driver work for Linux | 182 | <https://github.com/eiln/avd> |
+| avd | Reverse-engineered Apple Video Decoder (AVD) driver work for Linux | 183 | <https://github.com/eiln/avd> |
 | linux-t2-patches | Linux patches for T2-chip Intel Macs (keyboard, touchbar, audio, BCE) | 103 | <https://github.com/t2linux/linux-t2-patches> |
 | apple-bce-drv | Reverse-engineered Linux driver for the Apple T2 Bridge Controller (BCE) | 101 | <https://github.com/t2linux/apple-bce-drv> |
 | asahi-nvram | Tools to read and write Apple Silicon NVRAM from Linux | 77 | <https://github.com/AsahiLinux/asahi-nvram> |
@@ -80,7 +80,7 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | MonitorControl | macOS app to control external display brightness over DDC | 34,439 | <https://github.com/MonitorControl/MonitorControl> |
-| G-Helper | Lightweight open replacement for ASUS Armoury Crate laptop control | 15,528 | <https://github.com/seerge/g-helper> |
+| G-Helper | Lightweight open replacement for ASUS Armoury Crate laptop control | 15,531 | <https://github.com/seerge/g-helper> |
 | LibreHardwareMonitor | Hardware sensor monitor with reverse-engineered Super I/O and EC readers | 9,183 | <https://github.com/LibreHardwareMonitor/LibreHardwareMonitor> |
 | linux-surface | Linux kernel and drivers for Microsoft Surface devices | 7,781 | <https://github.com/linux-surface/linux-surface> |
 | Lunar | macOS display brightness controller using DDC and private display APIs | 5,717 | <https://github.com/alin23/Lunar> |
@@ -92,7 +92,7 @@
 | ddccontrol | Linux DDC/CI monitor control tool with GUI and monitor database | 726 | <https://github.com/ddccontrol/ddccontrol> |
 | thinkfan | Fan control daemon for ThinkPads and other hwmon systems | 717 | <https://github.com/vmatare/thinkfan> |
 | acer-predator-turbo-and-rgb-keyboard-linux-module | Linux module for Acer Predator turbo mode and RGB keyboard | 632 | <https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module> |
-| it87 | Linux driver for ITE Super I/O hardware monitoring chips | 612 | <https://github.com/frankcrawford/it87> |
+| it87 | Linux driver for ITE Super I/O hardware monitoring chips | 613 | <https://github.com/frankcrawford/it87> |
 | ZenStates-Linux | Tool to change AMD Zen P-states via MSRs on Linux | 569 | <https://github.com/r4m0n/ZenStates-Linux> |
 | snd_hda_macbookpro | Linux audio driver for Cirrus codecs in Intel MacBook Pros | 500 | <https://github.com/davidjo/snd_hda_macbookpro> |
 | msi-ec | Linux kernel driver for MSI laptop EC features (fans, battery, LEDs) | 494 | <https://github.com/BeardOverflow/msi-ec> |
@@ -109,9 +109,9 @@
 | zcfan | Zero-configuration fan daemon for ThinkPads via thinkpad_acpi | 165 | <https://github.com/cdown/zcfan> |
 | iptsd | Userspace daemon for Intel Precise Touch & Stylus on Surface devices | 152 | <https://github.com/linux-surface/iptsd> |
 | framework-laptop-kmod | Linux kernel module exposing Framework laptop EC features (fans, LEDs, battery) | 148 | <https://github.com/DHowett/framework-laptop-kmod> |
-| framework-system | Rust tool and library to talk to the Framework laptop EC and peripherals | 146 | <https://github.com/FrameworkComputer/framework-system> |
+| framework-system | Rust tool and library to talk to the Framework laptop EC and peripherals | 147 | <https://github.com/FrameworkComputer/framework-system> |
 | Framework EC (DHowett) | Framework Laptop embedded controller firmware fork with ectool used by fan-control tools | 88 | <https://github.com/DHowett/framework-ec> |
-| GhostDeck | Driver-free power and fan control for MSI laptops via EC/WMI | 57 | <https://github.com/wygodad/ghostdeck> |
+| GhostDeck | Driver-free power and fan control for MSI laptops via EC/WMI | 58 | <https://github.com/wygodad/ghostdeck> |
 | qc71_laptop | Linux driver for QC71-based (Tongfang/XMG/Eluktronics) laptop EC features | 40 | <https://github.com/pobrn/qc71_laptop> |
 | MsiEcRamEditor | Edit and dump MSI laptop EC RAM via ACPI-WMI | 25 | <https://github.com/timschneeb/MsiEcRamEditor> |
 | asus-fan-control-ec | Fan control for ASUS devices on Linux via direct EC access | 14 | <https://github.com/Keyitdev/asus-fan-control-ec> |
@@ -126,7 +126,7 @@
 |---|---|--:|---|
 | python-validity | Reverse-engineered Validity/Synaptics fingerprint sensor driver for ThinkPads | 1,245 | <https://github.com/uunicorn/python-validity> |
 | catprinter | Prints to cheap BLE "cat" thermal printers via reverse-engineered protocol | 859 | <https://github.com/rbaron/catprinter> |
-| brlaser | Open driver for Brother laser printers that lack PostScript support | 718 | <https://github.com/pdewacht/brlaser> |
+| brlaser | Open driver for Brother laser printers that lack PostScript support | 719 | <https://github.com/pdewacht/brlaser> |
 | sane-airscan | SANE backend for driverless eSCL and WSD network scanners | 371 | <https://github.com/alexpevzner/sane-airscan> |
 | goodix-fp-dump | Reverse-engineering tools and prototype drivers for Goodix fingerprint sensors | 360 | <https://github.com/goodix-fp-linux-dev/goodix-fp-dump> |
 | labelle | Open print tool for Dymo LabelManager label printers | 189 | <https://github.com/labelle-org/labelle> |
