@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 220 projects
+[← All categories](../README.md) · 225 projects
 
 - [Camera Firmware](#camera-firmware) (15)
-- [Custom Firmware](#custom-firmware) (47)
+- [Custom Firmware](#custom-firmware) (48)
 - [Firmware Analysis Tools](#firmware-analysis-tools) (45)
-- [Retro Handhelds & Calculators](#retro-handhelds--calculators) (50)
-- [Routers & Network Gear](#routers--network-gear) (63)
+- [Retro Handhelds & Calculators](#retro-handhelds--calculators) (53)
+- [Routers & Network Gear](#routers--network-gear) (64)
 
 ## Camera Firmware
 
@@ -79,6 +79,7 @@
 | iPodLinux | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | <https://github.com/iPodLinux/iPodLinux-SVN> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
 | sengled-hub-reclaim | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | <https://github.com/djshadowxm82/sengled-hub-reclaim> |
+| wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS |  | <https://github.com/Heisath/wdmc2-kernel> |
 
 ## Firmware Analysis Tools
 
@@ -172,8 +173,11 @@
 | picowalker | RP2350-based recreation of the Pokewalker |  | <https://github.com/mamba2410/picowalker> |
 | pocketwalker | H8/38606F emulator built for the Pokewalker |  | <https://github.com/h4lfheart/pocketwalker> |
 | powar | Pokewalker emulator |  | <https://github.com/UnrealPowerz/powar> |
+| PrimeComm | HP Prime calculator communication library, GUI and CLI |  | <https://github.com/eried/PrimeComm> |
+| prinux | Tools and scripts for running Linux on the HP Prime calculator |  | <https://github.com/zephray/prinux> |
 | pw | Human-readable matching decompilation of the Pokewalker firmware |  | <https://github.com/lumirth/pw> |
 | reverse-pokewalker | Research into reverse engineering the Pokewalker from HeartGold/SoulSilver |  | <https://github.com/mamba2410/reverse-pokewalker> |
+| ripem | Native programming on the HP Prime G1 via reverse engineering |  | <https://github.com/boricj/ripem> |
 | tama-para-research | Research notes on the Tamagotchi Paradise hardware and firmware |  | <https://github.com/GMMan/tama-para-research> |
 | Tamagotchi-Hack | Code and research for hacking Tamagotchi Friends/Tamatown toys |  | <https://github.com/natashenka/Tamagotchi-Hack> |
 | tamagotchi-tech-specs | Technical specifications of Tamagotchi devices |  | <https://github.com/loociano/tamagotchi-tech-specs> |
@@ -230,6 +234,7 @@
 | google-wifi-api-node | Node.js wrapper for the Google Wifi local API |  | <https://github.com/JamesHawkinss/google-wifi-api-node> |
 | ha-omada | Home Assistant integration for TP-Link Omada controllers |  | <https://github.com/zachcheatham/ha-omada> |
 | hass-miwifi | Home Assistant integration for Xiaomi MiWiFi routers |  | <https://github.com/dmamontov/hass-miwifi> |
+| home-assistant_ugreen-nas | Home Assistant integration for UGREEN NAS devices via their web API |  | <https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas> |
 | huawei-modem-python-api-client | Python client for Huawei USB modem HTTP API |  | <https://github.com/pablo/huawei-modem-python-api-client> |
 | huawei-router-api | API for querying Huawei LTE routers |  | <https://github.com/siphomateke/huawei-router-api> |
 | Huawei-Router-Tool | Tool to interact with Huawei routers via their web API |  | <https://github.com/pearlxcore/Huawei-Router-Tool> |

@@ -157,6 +157,15 @@
 - https://sourceforge.net
 - https://github.com/libyal
 - https://github.com/EricZimmerman
+- GitHub repository search (gh search repos)
+- GitHub GraphQL API repository verification
+- https://deepwiki.com/s4mdf0o1/TuxKatana/1.1-getting-started
+- https://github.com/crmne/tonepush
+- https://pkg.go.dev/github.com/StarAurryon/lpedit
+- https://github.com/masc4ii/ConfiguratorModelD
+- https://savannah.gnu.org/projects/gnash
+- https://github.com/fox-it
+- https://github.com/mbbsemu
 
 ## Searches run
 
@@ -1128,3 +1137,162 @@
 - peloton
 - garmin connect
 - strava unofficial
+- byd
+- nio es8
+- electrify america
+- ionity
+- zero motorcycle
+- specialized turbo
+- vanmoof
+- suunto
+- pulse oximeter
+- bluetooth thermometer fever
+- gh search repos: boss katana editor
+- gh search repos: line6 helix linux
+- gh search repos: roland sysex editor
+- gh search repos: behringer synth editor
+- gh search repos: teenage engineering op-1
+- gh search repos: op-z
+- gh search repos: katana boss
+- gh search repos: fxfloorboard
+- gh search repos: helix line6
+- gh search repos: pod line6
+- gh search repos: sysex editor
+- gh search repos: elektron
+- gh search repos: digitakt
+- gh search repos: maschine linux
+- gh search repos: kemper profiler
+- gh search repos: axe-fx
+- gh search repos: native instruments linux
+- gh search repos: komplete kontrol
+- gh search repos: push2
+- gh search repos: launchpad
+- gh search repos: korg volca
+- gh search repos: korg electribe
+- gh search repos: roland jd-xi
+- gh search repos: roland sysex
+- gh search repos: yamaha sysex
+- gh search repos: zoom pedal
+- gh search repos: positive grid spark
+- gh search repos: nux amp
+- gh search repos: vox amp
+- gh search repos: ti-84 link
+- gh search repos: ti calculator usb
+- gh search repos: tilp
+- gh search repos: casio calculator
+- gh search repos: hp 50g firmware
+- gh search repos: kobo sync
+- gh search repos: kobo nickel
+- gh search repos: kindle cloud
+- gh search repos: kindle highlights api
+- gh search repos: supernote
+- gh search repos: boox
+- gh search repos: remarkable cloud
+- gh search repos: miyoo custom firmware
+- gh search repos: trimui
+- gh search repos: anbernic firmware
+- gh search repos: rg35xx
+- gh search repos: knulli
+- gh search repos: game and watch
+- gh search repos: tamagotchi
+- gh search repos: pokewalker
+- gh search repos: playdate
+- gh search repos: chdk
+- gh search repos: magic lantern
+- gh search repos: canon ptp
+- gh search repos: starlink dish
+- gh search repos: google wifi api
+- gh search repos: omada controller api
+- gh search repos: zte router api
+- gh search repos: huawei router
+- gh search repos: ipixel
+- gh search repos: led sign bluetooth
+- gh search repos: coolled
+- gh search repos: divoom
+- gh search repos: even realities
+- gh search repos: xreal
+- gh search repos: psvr
+- gh search repos: windows mixed reality linux
+- gh search repos: quest headset adb
+- gh search repos: pimax
+- gh search repos: vive linux
+- gh search repos: 8bitdo
+- gh search repos: switch 2 controller
+- gh search repos: mirabox stream deck
+- gh search repos: ulanzi
+- gh search repos: obsbot
+- gh search repos: insta360
+- gh search repos: steelseries linux
+- gh search repos: supvan
+- gh search repos: marklife
+- gh search repos: instax
+- gh search repos: selphy
+- gh search repos: sprocket printer
+- gh search repos: polaroid printer
+- gh search repos: thermal printer bluetooth protocol
+- gh search repos: hanshow
+- gh search repos: solum esl
+- gh search repos: gicisky
+- gh search repos: esl tag
+- gh search repos: label printer bluetooth
+- gh search repos: olympus wifi
+- gh search repos: lumix wifi
+- gh search repos: sony camera wifi
+- gh search repos: snapbridge
+- gh search repos: canon camera bluetooth
+- gh search repos: ricoh gr
+- gh search repos: yi camera hack
+- gh search repos: royal kludge
+- gh search repos: hyperx linux
+- gh search repos: roccat linux
+- gh search repos: huion linux
+- gh search repos: xp-pen linux
+- gh search repos: winbox
+- gh search repos: omada
+- gh search repos: zte modem
+- gh search repos: netgear orbi
+- gh search repos: airos
+- gh search repos: alcatel linkzone
+- gh search repos: tplink router api
+- gh search repos: mikrotik mac-telnet
+- gh search repos: lte modem api
+- gh search repos: fritzbox
+- gh search repos: fujifilm camera
+- gh search repos: lumix
+- gh search repos: glorious mouse linux
+- gh search repos: razer mouse linux
+- gh search repos: corsair headset linux
+- gh search repos: wd mycloud
+- gh search repos: ugreen nas
+- gh search repos: rokid
+- gh search repos: kindle scribe
+- gh search repos: tolino
+- gh search repos: pocketbook
+- gh search repos: casio link
+- gh search repos: hp prime
+- gh search repos: polyend
+- gh search repos: traktor kontrol linux
+- gh search repos: akai mpc
+- gh search repos: novation circuit
+- gh search repos: microfreak
+- gh search repos: deepmind
+- gh search repos: digitone
+- gh search repos: minilogue
+- gh search repos: op-1 field
+- gh search repos: rodecaster
+- gh search repos: beacn
+- gh search repos: yamaha thr
+- gh search repos: line6
+- web: github Boss Katana amp editor open source sysex linux
+- web: github Line 6 POD Helix editor reverse engineered open source
+- web: github Yamaha THR amp editor open source linux
+- web: github Behringer Deepmind/Neutron/Model D editor open source sysex
+- gh graphql verification of known RE format-parser repos (libyal, EricZimmerman, fox-it/dissect, PSD, DLP)
+- gh search: procreate file, afphoto, affinity designer, sketchup skp, revit rvt, solidworks sldprt, 3ds max file, dwg parser, altium, pcbdoc, pyaltium, allegro brd, boardview, easyeda2kicad
+- gh search: garmin img, mkgmap, gimgtools, garmin jnx, ozf2, oziexplorer, lowrance sl2, humminbird sonar
+- gh search: paradox database, clarion tps, sql server bak, lotus notes nsf, microsoft money mny, quickbooks qbw, outlook olm, btrieve, jmp file
+- gh search: shockwave director, macromedia director, hypercard, hypercard stack, authorware, gnash flash, flash player emulator, silverlight, java applet runner, powerbuilder decompiler, visual basic 6 compiler, winhelp hlp, helpdeco, msagent
+- gh search: insta360 insv, gpmf, dashcam gps extract, dji flight log, blackvue, sony rtmd, sony mavica, x3f sigma
+- gh search: rekordbox, serato crate, guitar pro, power tab, band in a box, fl studio flp, cubase cpr, logic pro logicx, exs24, akai mpc, akai s1000, ensoniq, kontakt, native instruments, korg pcg, finale musx
+- gh search: photoshop abr, adobe xd file, illustrator ai parser, indesign indd, paint.net pdn, clip studio, krita importer, lib3ds
+- gh search: kfx, kindle kfx, mobi unpack, kobo, ichitaro, wordstar, nokia nbu, blackberry backup ipd, symbian sis

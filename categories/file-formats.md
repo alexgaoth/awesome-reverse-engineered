@@ -1,19 +1,19 @@
 # File Formats
 
-[← All categories](../README.md) · 316 projects
+[← All categories](../README.md) · 340 projects
 
 - [Audio & Music Production](#audio--music-production) (33)
-- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (13)
-- [Databases](#databases) (21)
+- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (20)
+- [Databases](#databases) (25)
 - [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (19)
-- [E-books](#e-books) (5)
+- [E-books](#e-books) (9)
 - [EDA & PCB](#eda--pcb) (13)
-- [Filesystems & Archives](#filesystems--archives) (36)
-- [Format Description Tools](#format-description-tools) (9)
+- [Filesystems & Archives](#filesystems--archives) (38)
+- [Format Description Tools](#format-description-tools) (10)
 - [Graphics & CAD](#graphics--cad) (38)
-- [Maps & GIS](#maps--gis) (14)
+- [Maps & GIS](#maps--gis) (18)
 - [Media Codecs & Containers](#media-codecs--containers) (1)
-- [Office & Documents](#office--documents) (49)
+- [Office & Documents](#office--documents) (51)
 - [Other](#other) (1)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (64)
 
@@ -69,8 +69,15 @@
 | dji-log-parser | Rust library that parses records from DJI flight log .txt files | 123 | <https://github.com/lvauvillier/dji-log-parser> |
 | DJI_SRT_Parser | Parses telemetry from DJI drone SRT metadata files | 55 | <https://github.com/JuanIrache/DJI_SRT_Parser> |
 | DatCon | Converts DJI drone .DAT flight logs to CSV and KML | 32 | <https://github.com/BudWalkerJava/DatCon> |
+| blackclue | Extracts GPS and accelerometer data from BlackVue dashcam MP4 recordings |  | <https://github.com/gandy92/blackclue> |
+| dji-flightlog-parser | Parser and decryptor for DJI v13/v14 flight log files |  | <https://github.com/olavbolav/dji-flightlog-parser> |
+| djiLogParser | Python parser for DJI drone flight logs |  | <https://github.com/shaofanqi/djiLogParser> |
+| flighttrack | Simple viewer for DJI flight logs |  | <https://github.com/lvauvillier/flighttrack> |
 | insvtool | Dumps metadata from Insta360 .insv video files |  | <https://github.com/ke4ukz/insvtool> |
 | libcraw2 | Minimal library that decodes Canon CR2 RAW files, with format notes |  | <https://github.com/lclevy/libcraw2> |
+| mavica_411_decoder | Decodes Sony Mavica floppy-camera .411 thumbnail images |  | <https://github.com/G2-Games/mavica_411_decoder> |
+| pyavb | Reads and writes Avid Media Composer bin (.avb) files |  | <https://github.com/markreidvfx/pyavb> |
+| quicklook_d411 | QuickLook plugin that previews Sony Mavica .411 thumbnail images |  | <https://github.com/sheepdoll/quicklook_d411> |
 | x3f tools | Tools for decoding Sigma/Foveon X3F RAW files |  | <https://github.com/Kalpanika/x3f> |
 
 ## Databases
@@ -86,9 +93,12 @@
 | Parso | Lightweight Java library for reading SAS7BDAT datasets | 80 | <https://github.com/epam/parso> |
 | go-ese | Go parser for the Microsoft Extensible Storage Engine (ESE/JET Blue) database | 32 | <https://github.com/Velocidex/go-ese> |
 | access_parser | Python parser for Microsoft Access database files |  | <https://github.com/claroty/access_parser> |
+| btrieve-vdd | Btrieve database virtual device driver for DOS virtual machines |  | <https://github.com/leecher1337/btrieve-vdd> |
 | dbf (Python) | Pure Python dBase/FoxPro DBF reader and writer |  | <https://github.com/ethanfurman/dbf> |
 | dbf (Ruby) | Ruby library for reading dBase, xBase, Clipper and FoxPro DBF files |  | <https://github.com/infused/dbf> |
 | dissect.esedb | Python parser for Microsoft ESE (Extensible Storage Engine) databases |  | <https://github.com/fox-it/dissect.esedb> |
+| JMPReader | Reads SAS JMP data files directly in Python |  | <https://github.com/BreakOnExecute/JMPReader> |
+| MBBSEmu.Btrieve | Reads and recovers data from Btrieve .DAT files into SQLite |  | <https://github.com/mbbsemu/MBBSEmu.Btrieve> |
 | mdb-reader | JavaScript library to read Microsoft Access databases |  | <https://github.com/andipaetzold/mdb-reader> |
 | OpenQBW | Pure Rust reader for QuickBooks QBW company files, with Python bindings |  | <https://github.com/Sigilweaver/OpenQBW> |
 | Paradox-Reader | Native .NET reader for Paradox database files |  | <https://github.com/kymuweb/Paradox-Reader> |
@@ -98,6 +108,7 @@
 | sas7bdat | The original reverse engineering of the SAS sas7bdat file format, with an R reader |  | <https://github.com/BioStatMatt/sas7bdat> |
 | tps-parse | Parses Clarion TopSpeed (.tps) database files and converts them to CSV |  | <https://github.com/ctrl-alt-dev/tps-parse> |
 | unraveling_sql_server_bak | Research and tooling for reading SQL Server .bak backup files without SQL Server |  | <https://github.com/klandermans/unraveling_sql_server_bak> |
+| wbtrv32 | Drop-in Btrieve v5/v6 driver replacement that stores data in SQLite |  | <https://github.com/mbbsemu/wbtrv32> |
 
 ## Design Tools (PSD, Sketch, Figma, Affinity)
 
@@ -130,7 +141,11 @@
 | calibre | E-book manager with readers for many proprietary formats (MOBI, LIT, LRF, PDB, KFX via plugin) | 26,121 | <https://github.com/kovidgoyal/calibre> |
 | libmobi | C library for handling Kindle MOBI/AZW3/KF8 e-book formats | 483 | <https://github.com/bfabiszewski/libmobi> |
 | mobi | Python library to unpack Kindle (kindlegen) e-books | 78 | <https://github.com/iscc/mobi> |
+| boko | Rust converter from EPUB to Kindle KFX, AZW3 and MOBI |  | <https://github.com/zacharydenton/boko> |
+| fb2cng | FB2 converter to EPUB, KEPUB and Kindle AZW8/KFX formats |  | <https://github.com/rupor-github/fb2cng> |
 | kepubify | Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion |  | <https://github.com/pgaskin/kepubify> |
+| KFX Input (mirror) | Mirror of jhowell's calibre plugin that converts DRM-free Kindle KFX books to EPUB |  | <https://github.com/kluyg/calibre-kfx-input> |
+| KFX Output (mirror) | Mirror of jhowell's calibre plugin that writes Kindle KFX books |  | <https://github.com/dstaley/calibre-kfx-output> |
 | libe-book | Document Liberation library for legacy e-book formats (eReader, Plucker, TealDoc, LRF and more) |  | <https://sourceforge.net/projects/libebook> |
 
 ## EDA & PCB
@@ -191,6 +206,8 @@
 | dissect.ntfs | Python parser for the NTFS file system |  | <https://github.com/fox-it/dissect.ntfs> |
 | dissect.vmfs | Python parser for VMware's VMFS file system |  | <https://github.com/fox-it/dissect.vmfs> |
 | kobackupdec | Decrypts Huawei HiSuite/KoBackup backups with the user's password |  | <https://github.com/RealityNet/kobackupdec> |
+| NbuExplorer | Extracts Nokia NBU, NFB, NFC and ARC phone backup files |  | <https://github.com/jdsn/nbuexplorer> |
+| nokia-nbu-tools | Dumper for Nokia PC Suite NBU backup files |  | <https://github.com/thouters/nokia-nbu-tools> |
 
 ## Format Description Tools
 
@@ -203,6 +220,7 @@
 | serum-preset-packager | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 67 | <https://github.com/KennethWussmann/serum-preset-packager> |
 | murmelbahn | Reverse-engineered Gravitrax marble run course file format | 8 | <https://github.com/lfrancke/murmelbahn> |
 | remus-rlf-reader | Reverse-engineered RLF log format of REMUS underwater drones | 1 | <https://github.com/isaacgerg/remus-rlf-reader> |
+| Deark | Extracts and decodes hundreds of legacy file, archive and image formats |  | <https://github.com/jsummers/deark> |
 | libyal assorted | Format documentation and scripts from the libyal project |  | <https://github.com/libyal/assorted> |
 | shockwave-reversing | Notes and resources for reverse engineering Shockwave/Director files |  | <https://github.com/JrMasterModelBuilder/shockwave-reversing> |
 
@@ -258,13 +276,17 @@
 | SLYR | Converts Esri LYR, MXD, style and other ArcGIS files to QGIS | 250 | <https://github.com/north-road/slyr> |
 | dump_gdbtable | Script and reverse-engineered spec for Esri File Geodatabase .gdbtable files | 153 | <https://github.com/rouault/dump_gdbtable> |
 | Androzic | Android navigation app that reads OziExplorer ozf2/ozfx3 raster maps |  | <https://github.com/andreynovikov/Androzic> |
+| garmin-img | JavaScript parser and renderer for Garmin IMG maps |  | <https://github.com/TomasHubelbauer/garmin-img> |
+| gimgtools | Tools to inspect, split, merge and unlock-free extract Garmin IMG map files |  | <https://github.com/wuyongzheng/gimgtools> |
 | GPXSee | GPS log and map viewer that reads Garmin IMG, OziExplorer, TrekBuddy and many other formats |  | <https://github.com/tumic0/GPXSee> |
 | HumminbirdSonarFileViewer | Java viewer for Humminbird side-scan sonar recordings |  | <https://github.com/petervalencic/HumminbirdSonarFileViewer> |
 | imageio-ozf | Java ImageIO plugin for OziExplorer ozf2/ozf3 raster map files |  | <https://github.com/nikolaybespalov/imageio-ozf> |
+| imgdecode-mb | Decoder for Garmin IMG map files, derived from imgdecode |  | <https://github.com/burto/imgdecode-mb> |
 | jnxutil | Linux utility for manipulating Garmin JNX raster map files |  | <https://github.com/apr2504/jnxutil> |
 | kolibrie | Dissector for Humminbird sonar .SON recordings |  | <https://github.com/yschaeff/kolibrie> |
 | mkgmap | Compiler that writes Garmin .img maps from OpenStreetMap data (reverse-engineered format) |  | <https://github.com/openstreetmap/mkgmap> |
 | python-sllib | Python library for reading Lowrance SL2, SL3 and SLG sonar logs |  | <https://github.com/opensounder/python-sllib> |
+| QMapShack | GIS and trip-planning app that renders Garmin IMG vector maps and reads many GPS formats |  | <https://github.com/Maproom/qmapshack> |
 | sl2decode | Decodes Lowrance SL2 sonar log files with Ruby |  | <https://github.com/Chris78/sl2decode> |
 | sl2json | Standalone converter from Lowrance SL2 sonar logs to ndjson |  | <https://github.com/hrbrmstr/sl2json> |
 
@@ -326,6 +348,8 @@
 | libwps | Imports Microsoft Works, Lotus 1-2-3, Quattro Pro and other legacy DOS/Windows documents |  | <https://sourceforge.net/projects/libwps> |
 | MSGReader | C# reader for Outlook .msg and .eml files without Outlook |  | <https://github.com/Sicos1977/MSGReader> |
 | msgreader (JS) | JavaScript reader for Outlook .msg files |  | <https://github.com/HiraokaHyperTools/msgreader> |
+| Tika-JTD | Apache Tika parser that extracts text from Ichitaro (.jtd/.jtt) documents |  | <https://github.com/KHiyowa/Tika-JTD> |
+| wsconvert | Converts WordStar documents to Markdown |  | <https://github.com/kbarni/wsconvert> |
 | wv | Library for importing Microsoft Word 2-2003 binary documents |  | <https://github.com/AbiWord/wv> |
 
 ## Other

@@ -1,14 +1,14 @@
 # Automotive
 
-[← All categories](../README.md) · 261 projects
+[← All categories](../README.md) · 291 projects
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
 - [CAN Bus & ECU](#can-bus--ecu) (58)
-- [Car APIs & Telematics](#car-apis--telematics) (92)
-- [EV Batteries & BMS](#ev-batteries--bms) (19)
-- [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (20)
-- [Motorcycles](#motorcycles) (3)
-- [Scooters & E-bikes](#scooters--e-bikes) (30)
+- [Car APIs & Telematics](#car-apis--telematics) (95)
+- [EV Batteries & BMS](#ev-batteries--bms) (21)
+- [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (25)
+- [Motorcycles](#motorcycles) (10)
+- [Scooters & E-bikes](#scooters--e-bikes) (43)
 
 ## Bikes, Trainers & Bike Computers
 
@@ -169,6 +169,7 @@
 | tesla-dashcam-decrypt | Reverse-engineered Tesla dashcam eCryptfs encryption; batch decryptor | 18 | <https://github.com/XGxF3/tesla-dashcam-decrypt> |
 | saic-python-client | Python client for the SAIC/MG iSMART connected-car API | 14 | <https://github.com/SAIC-iSmart-API/saic-python-client> |
 | pySmartHashtag | API wrapper for Smart #1 and #3 connected cars | 13 | <https://github.com/DasBasti/pySmartHashtag> |
+| byd-hass | Export BYD car data to Home Assistant |  | <https://github.com/jkaberg/byd-hass> |
 | CarConnectivity-connector-volkswagen | Volkswagen connector for the CarConnectivity framework |  | <https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen> |
 | connected-car-node-sdk | JavaScript SDK for Ford vehicles via FordPass/SYNC Connect |  | <https://github.com/ianjwhite99/connected-car-node-sdk> |
 | connected-car-python-sdk | Python SDK for Ford vehicles via Sync Connect (FordPass) |  | <https://github.com/ianjwhite99/connected-car-python-sdk> |
@@ -178,6 +179,7 @@
 | fordpass-scriptable | FordPass iOS widget for Scriptable |  | <https://github.com/tonesto7/fordpass-scriptable> |
 | fordpass_china | Home Assistant integration for FordPass China (Ford/Lincoln) |  | <https://github.com/georgezhao2010/fordpass_china> |
 | ha-porscheconnect | Porsche Connect custom component for Home Assistant |  | <https://github.com/CJNE/ha-porscheconnect> |
+| hass-byd-vehicle | Custom Home Assistant integration for BYD vehicles |  | <https://github.com/jkaberg/hass-byd-vehicle> |
 | hass-uconnect | Home Assistant integration for FCA/Stellantis Uconnect cars (Jeep, Ram, Fiat, Alfa) |  | <https://github.com/hass-uconnect/hass-uconnect> |
 | homeassistant-carwings | Home Assistant integration for Nissan Connect EV services |  | <https://github.com/remuslazar/homeassistant-carwings> |
 | HomeAssistant-NissanConnect | Unofficial Home Assistant integration for Nissan Connect vehicles |  | <https://github.com/dan-r/HomeAssistant-NissanConnect> |
@@ -199,6 +201,7 @@
 | nissan-connect-php | PHP class for the Nissan Connect (Carwings) API |  | <https://github.com/gboudreau/nissan-connect-php> |
 | NissanConnect (python) | Python remote control for Nissan cars via NissanConnect Services |  | <https://github.com/KalenXI/NissanConnect> |
 | py-uconnect | Python library for the Uconnect cloud API |  | <https://github.com/hass-uconnect/py-uconnect> |
+| pyBYD | Async Python client for the BYD vehicle API |  | <https://github.com/jkaberg/pyBYD> |
 | python-lucidmotors | Unofficial Python bindings to the Lucid Motors API |  | <https://github.com/nshp/python-lucidmotors> |
 | pytoyoda | Python client for Toyota Connected Services Europe API |  | <https://github.com/pytoyoda/pytoyoda> |
 | tesla_api | Lightweight Python client for the unofficial Tesla owner API |  | <https://github.com/mlowijs/tesla_api> |
@@ -224,11 +227,13 @@
 | jkbms | Experiments decoding JK-BMS BLE protocol | 31 | <https://github.com/jblance/jkbms> |
 | bmspace | Pace battery BMS reader to MQTT/Home Assistant |  | <https://github.com/Tertiush/bmspace> |
 | BMWI3BMS | SimpBMS code to manage BMW i3 battery modules |  | <https://github.com/Tom-evnut/BMWI3BMS> |
+| byd_battery | Attempt to reverse engineer a BYD battery system |  | <https://github.com/burra/byd_battery> |
 | Daly2MQTT | ESP8266 bridge reading Daly and compatible BMS data into MQTT |  | <https://github.com/softwarecrash/Daly2MQTT> |
 | dbus-btbattery | Victron Venus OS driver for Bluetooth BMS (JBD, JK) |  | <https://github.com/bradcagle/dbus-btbattery> |
 | esp32xiaoxiangble | ESP32 client for the Xiaoxiang BMS Bluetooth protocol |  | <https://github.com/Bangybug/esp32xiaoxiangble> |
 | esphome-pace-bms | Pace BMS protocol v20/v25 implementation and ESPHome component |  | <https://github.com/nkinnan/esphome-pace-bms> |
 | esphome-yambms | Multi-BMS merging solution for ESPHome (JK, JBD, etc.) |  | <https://github.com/Sleeper85/esphome-yambms> |
+| ioBroker.bydhvs | ioBroker adapter for BYD HVS battery storage |  | <https://github.com/christianh17/ioBroker.bydhvs> |
 | jk-bms_grafana | Read JK BMS data and graph it in Grafana |  | <https://github.com/PurpleAlien/jk-bms_grafana> |
 | LiTime_BMS_bluetooth | Read and control LiTime Bluetooth BMS from a web browser |  | <https://github.com/calledit/LiTime_BMS_bluetooth> |
 | Nissan-LEAF-Battery-Upgrade | Software and guides for fitting bigger batteries into Nissan Leafs |  | <https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade> |
@@ -253,12 +258,17 @@
 | AAIdrive | Android Auto-style apps on BMW/Mini iDrive via its reverse-engineered protocol |  | <https://github.com/BimmerGestalt/AAIdrive> |
 | AAMirror | Mirror the phone screen onto Android Auto |  | <https://github.com/slashmax/AAMirror> |
 | BlueBus | Bluetooth module for BMW I-Bus vehicles using the reversed I-Bus protocol |  | <https://github.com/tedsalmon/BlueBus> |
+| byd-apps | Custom Android apps for BYD EVs including CAN bus tools |  | <https://github.com/wheregoes/byd-apps> |
+| byd-trip-stats | Trip statistics app for BYD BEV/PHEV cars |  | <https://github.com/angoikon/byd-trip-stats> |
+| BYDMate | BYD DiLink app adding split screen and navigation on the instrument cluster |  | <https://github.com/AndyShaman/BYDMate> |
+| DiAuto | Wireless and USB Android Auto receiver for BYD DiLink head units |  | <https://github.com/shihabal3amri/DiAuto> |
 | Fermata | Media player and launcher with Android Auto support |  | <https://github.com/AndreyPavlenko/Fermata> |
 | hackXpeng | Enable ADB and network ADB on Xpeng P5/P7/G3/G9/X9 head units |  | <https://github.com/hackxpeng/hackXpeng> |
 | IDriveConnectKit | Utilities for connecting to BMW/Mini iDrive infotainment |  | <https://github.com/BimmerGestalt/IDriveConnectKit> |
 | lcn2kai-decompress | Decompressor for Nissan Connect (LCN2kai) SD card files |  | <https://github.com/sapphire-bt/lcn2kai-decompress> |
 | MZD-AIO | Tweaks and apps installer for Mazda Connect infotainment |  | <https://github.com/Trevelopment/MZD-AIO> |
 | nissan_connect3_emulator | Emulator that runs Nissan Connect 3 head-unit firmware |  | <https://github.com/marek-g/nissan_connect3_emulator> |
+| Overdrive | Advanced Sentry Mode app for BYD vehicles |  | <https://github.com/yash-srivastava/Overdrive-release> |
 | Tesla Android | Run Android on a Raspberry Pi and display it in the Tesla browser |  | <https://github.com/tesla-android/android-raspberry-pi> |
 | uConnect RE | Reverse engineering of the FCA uConnect head unit |  | <https://github.com/Squithy/uConnect> |
 | UConnectTools | Tools used to reverse engineer UConnect 8.4 head units |  | <https://github.com/AW-I/UConnectTools> |
@@ -268,8 +278,15 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | bmw-motorrad-projects | Code and docs for BMW motorcycle CAN projects |  | <https://github.com/kconger/bmw-motorrad-projects> |
+| browser-parse | In-browser decoder for Zero motorcycle MBB/BMS logs |  | <https://github.com/zero-motorcycle-community/browser-parse> |
 | mcluster | Android BMW Motorrad instrument cluster |  | <https://github.com/kconger/org.thcongers.mcluster> |
 | MotoRecoLogger | BMW Motorrad CAN data logger |  | <https://github.com/SchwarzeLanzenreiter/MotoRecoLogger> |
+| Zero-Dashboard | Alternative Zero Motorcycles dashboard on ESP32 via CAN bus |  | <https://github.com/remmie1972/Zero-Dashboard> |
+| zero-log-parser | Decoder for Zero Motorcycles MBB and BMS diagnostic logs |  | <https://github.com/kimburgess/zero-log-parser> |
+| zero-motorcycle-canbus | CAN bus message discovery on Zero motorcycles |  | <https://github.com/RIAEvangelist/zero-motorcycle-canbus> |
+| zero-motorcycles-integration | Home Assistant integration for cellular-connected Zero motorcycles |  | <https://github.com/hanscappelle/zero-motorcycles-integration> |
+| ZeroNavBridge | Send navigation info to Zero motorcycle dashboards |  | <https://github.com/Belkaar/ZeroNavBridge> |
+| zmci-tool | Unofficial Zero Motorcycles cloud interface tool |  | <https://github.com/s28400/zmci-tool> |
 
 ## Scooters & E-bikes
 
@@ -295,13 +312,26 @@
 | eScive | Third-party app for iScooter e-scooters from reverse-engineered BLE packets and apps | 10 | <https://github.com/johan-perso/escive> |
 | BEStie | Bosch eBike LDI bridge exposing power/speed/cadence as FTMS |  | <https://github.com/bestie-org/BEStie> |
 | cowboybike-strava-sync | Sync rides from the Cowboy bikes API to Strava |  | <https://github.com/sam-dumont/cowboybike-strava-sync> |
+| decode-vanmoof-blt-packages | Inspect Bluetooth sniff captures of VanMoof bike traffic |  | <https://github.com/mjarkk/decode-vanmoof-blt-packages> |
 | ebike-connect-js | Unofficial Node API for the Bosch eBike Connect web service |  | <https://github.com/FlorianCassayre/ebike-connect-js> |
 | ebike-dl | Bosch eBike Connect portal downloader and KML converter |  | <https://github.com/eMerzh/ebike-dl> |
 | emtb | Garmin data field showing Shimano STEPS e-bike info |  | <https://github.com/markdotai/emtb> |
 | ha-bosch-ebike | Bosch eBike Smart System integration for Home Assistant |  | <https://github.com/Xunil99/ha-bosch-ebike> |
 | ha-bosch-ebike-flow | Bosch eBike Flow integration for Home Assistant |  | <https://github.com/marq24/ha-bosch-ebike-flow> |
 | ha-bosch-ebike-pibridge | Bosch eBike live BLE data to Home Assistant via Raspberry Pi |  | <https://github.com/possm/ha-bosch-ebike-pibridge> |
+| ha-specialized-turbo | Home Assistant integration for Specialized Turbo e-bikes via BLE |  | <https://github.com/JamieMagee/ha-specialized-turbo> |
 | hass-bosch-ebike | Home Assistant integration for Bosch Smart eBikes |  | <https://github.com/Phil-Barker/hass-bosch-ebike> |
 | ioBroker.bosch-ebike | ioBroker adapter for Bosch eBikes |  | <https://github.com/TA2k/ioBroker.bosch-ebike> |
 | shimano-steps-ep8-canbus | CAN captures and reverse-engineering of Shimano STEPS EP8 |  | <https://github.com/CapnDeCode/shimano-steps-ep8-canbus-messages-analysis-data> |
 | SmartBridge | Send Bosch eBike power data to Garmin devices |  | <https://github.com/Nilogax/SmartBridge> |
+| specialized-turbo | Python library for Specialized Turbo e-bike BLE communication |  | <https://github.com/JamieMagee/specialized-turbo> |
+| vanMoof (PowerShell) | PowerShell code to download your VanMoof data |  | <https://github.com/stefanstranger/vanMoof> |
+| vanmoof-battery-tool | Python tool for VanMoof batteries |  | <https://github.com/VangelisBV/vanmoof-battery-tool> |
+| vanmoof-bms | Reverse-engineered VanMoof S3 DynaPack battery ModBus registers |  | <https://github.com/Knight1/vanmoof-bms> |
+| vanmoof-encryption-key-exporter | Export your own VanMoof bike details and encryption keys |  | <https://github.com/grossartig/vanmoof-encryption-key-exporter> |
+| vanmoof-s6-ble-protocol | Reverse engineering of the VanMoof S6 MQTT-over-BLE protocol |  | <https://github.com/Nefilim78/vanmoof-s6-ble-protocol> |
+| VanMoof-SA5-HomeAssistant | Home Assistant integration for VanMoof S5/A5 e-bikes |  | <https://github.com/TimTheBeastNL/VanMoof-SA5-HomeAssistant> |
+| vanmoof-tools | Tools supporting VanMoof S3/X3 reverse engineering |  | <https://github.com/chwdt/vanmoof-tools> |
+| VanMoofKit | Swift package to communicate with VanMoof S3 and X3 bikes |  | <https://github.com/SvenTiigi/VanMoofKit> |
+| VanmoofX3RE | Reverse engineering of the VanMoof X3 e-bike |  | <https://github.com/ciborg971/VanmoofX3RE> |
+| VanMooof-Module | Reverse-engineered VanMoof S3/X3/S4/X4 module protocols |  | <https://github.com/Knight1/VanMooof-Module> |

@@ -1,25 +1,25 @@
 # Devices, IoT & Hardware
 
-[← All categories](../README.md) · 1,144 projects
+[← All categories](../README.md) · 1,194 projects
 
 - [3D Printers & Makers](#3d-printers--makers) (9)
 - [Appliances & Kitchen](#appliances--kitchen) (61)
 - [Audio](#audio) (17)
 - [Cameras & Drones](#cameras--drones) (59)
-- [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (41)
+- [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (47)
 - [GPUs & Drivers](#gpus--drivers) (6)
 - [HVAC & Heat Pumps](#hvac--heat-pumps) (75)
 - [Lighting & Displays](#lighting--displays) (39)
 - [Locks, Garage & Security](#locks-garage--security) (30)
-- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (74)
-- [Music Gear & Synth Editors](#music-gear--synth-editors) (60)
+- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (80)
+- [Music Gear & Synth Editors](#music-gear--synth-editors) (89)
 - [Other](#other) (11)
 - [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (125)
 - [Printers, Labels & E-ink](#printers-labels--e-ink) (37)
 - [Smart Home & IoT](#smart-home--iot) (153)
 - [Solar, Batteries & EV Chargers](#solar-batteries--ev-chargers) (156)
 - [VR & Tracking](#vr--tracking) (37)
-- [Wearables & Health](#wearables--health) (120)
+- [Wearables & Health](#wearables--health) (129)
 - [Zigbee/BLE/IR Device Databases](#zigbeebleir-device-databases) (34)
 
 ## 3D Printers & Makers
@@ -211,27 +211,33 @@
 | amazon_fiona_js | JavaScript library to manipulate Kindle cloud libraries (list, delete) |  | <https://github.com/fatso83/amazon_fiona_js> |
 | boox-rapid-draw | Zero-lag stylus drawing outside standard Boox apps via hidden Onyx APIs |  | <https://github.com/sergeylappo/boox-rapid-draw> |
 | goMarkableStream | Stream the reMarkable screen to any browser |  | <https://github.com/owulveryck/goMarkableStream> |
+| inkview | Go SDK bindings for PocketBook's inkview library |  | <https://github.com/dennwc/inkview> |
 | jrmapi | Java API for the reMarkable cloud |  | <https://github.com/jlarriba/jrmapi> |
 | kfmon | inotify-based launcher for custom apps on Kobo devices |  | <https://github.com/NiLuJe/kfmon> |
 | kindle | CLI to fetch Kindle highlights without an official API |  | <https://github.com/lodestone/kindle> |
 | kndl | Chrome-less Kindle Cloud Reader client |  | <https://github.com/passcod/kndl> |
 | kobink | Self-hosted reimplementation of the Kobo sync API |  | <https://github.com/potatoeggy/kobink> |
+| KoboTolinoFindings | Findings on the new Kobo/tolino 5.x firmware |  | <https://github.com/notmarek/KoboTolinoFindings> |
 | NickelHook | Library for creating mods for Kobo's Nickel e-reader software |  | <https://github.com/pgaskin/NickelHook> |
+| obsidian-pocketbook-cloud-highlight-importer | Import highlights from the PocketBook cloud into Obsidian |  | <https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer> |
 | onyx-send2boox | Python client for the Onyx Boox Send2Boox cloud service |  | <https://github.com/hrw/onyx-send2boox> |
 | OnyxTweaks | Xposed module adding tweaks to Onyx Boox e-ink devices |  | <https://github.com/timschneeb/OnyxTweaks> |
 | oxide | Desktop environment for the reMarkable tablet |  | <https://github.com/Eeems-Org/oxide> |
+| pocketbook_free_swupdate | Open-source PocketBook firmware update (swupdate) project |  | <https://github.com/Vanuan/pocketbook_free_swupdate> |
 | remapy | Open-source explorer for reMarkable files via the cloud API |  | <https://github.com/peerdavid/remapy> |
 | remarkable-cloud-browser | Web interface to browse reMarkable files stored in the cloud |  | <https://github.com/umanovskis/remarkable-cloud-browser> |
 | reMarkable-typescript | TypeScript reMarkable cloud API client |  | <https://github.com/benoitsepe/reMarkable-typescript> |
 | Remarkable.jl | Julia API for the reMarkable cloud |  | <https://github.com/theogf/Remarkable.jl> |
 | rm-appload | XOVI extension to run windowed and fullscreen apps on reMarkable tablets |  | <https://github.com/asivery/rm-appload> |
 | rmfuse | FUSE filesystem access to the reMarkable cloud |  | <https://github.com/rschroll/rmfuse> |
+| scribe-library | Local server for browsing Kindle Scribe notebooks |  | <https://github.com/technolaaji/scribe-library> |
 | supernote | Supernote hub: parse notebooks and self-host Supernote cloud services |  | <https://github.com/allenporter/supernote> |
 | supernote-cloud-python | Python wrapper for the unofficial Supernote cloud API |  | <https://github.com/bwhitman/supernote-cloud-python> |
 | supernote-sync-tool | Terminal app to sync Supernote notes locally and convert to PDF |  | <https://github.com/RohanGautam/supernote-sync-tool> |
 | supernote-typescript | TypeScript library for Supernote .note files and cloud |  | <https://github.com/philips/supernote-typescript> |
 | supernote-web-viewer | Web viewer for Supernote .note files |  | <https://github.com/cristianvasquez/supernote-web-viewer> |
 | supernote_pdf | Fast converter from Supernote .note files to PDF |  | <https://github.com/RohanGautam/supernote_pdf> |
+| tolino-python | Python access to the tolino e-book cloud |  | <https://github.com/hzulla/tolino-python> |
 | xovi | Function-hooking extension framework used to mod reMarkable software |  | <https://github.com/asivery/xovi> |
 
 ## GPUs & Drivers
@@ -433,8 +439,12 @@
 | Logger | Dexcom G5/G6 logging for OpenAPS rigs | 15 | <https://github.com/xdrip-js/Logger> |
 | Lookout | Dexcom transmitter monitor for OpenAPS rigs | 9 | <https://github.com/xdrip-js/Lookout> |
 | G7SensorKit | Dexcom G7 CGM manager for Loop | 7 | <https://github.com/LoopKit/G7SensorKit> |
+| Baby-Monitor-Masimo-Pulse-Oximeter | Remote monitoring of Masimo pulse oximeter data for infants |  | <https://github.com/Iukekini/Baby-Monitor-Masimo-Pulse-Oximeter> |
+| BerryMed-Pulse-Oximeter-tool | Tool to read BerryMed BLE pulse oximeters |  | <https://github.com/ehborisov/BerryMed-Pulse-Oximeter-tool> |
 | CareLinkJavaClient | Experimental Java library for Medtronic CareLink data |  | <https://github.com/benceszasz/CareLinkJavaClient> |
+| CircuitPython BLE BerryMed | CircuitPython BLE support for BerryMed pulse oximeters |  | <https://github.com/adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter> |
 | CMS50Dplus | Download data from a Contec CMS50D+ pulse oximeter |  | <https://github.com/atbrask/CMS50Dplus> |
+| cms50ew | Python client for the Contec CMS50EW pulse oximeter |  | <https://github.com/tobac/cms50ew> |
 | DashKit | Loop pump-manager plugin for Omnipod DASH |  | <https://github.com/tidepool-org/DashKit> |
 | ddguard | Real-time Medtronic 670G pump and glucose data on your phone |  | <https://github.com/ondrej1024/ddguard> |
 | decoding-dexcom | Early project decoding the Dexcom receiver protocol |  | <https://github.com/bewest/decoding-dexcom> |
@@ -446,6 +456,7 @@
 | ecc1/dexcom | Go package for talking to Dexcom CGM receivers and transmitters |  | <https://github.com/ecc1/dexcom> |
 | ecc1/medtronic | Go package for talking to Medtronic pumps via radio modules |  | <https://github.com/ecc1/medtronic> |
 | FreeAPS X | iOS artificial pancreas system based on OpenAPS |  | <https://github.com/ivalkou/freeaps> |
+| FS20F | Logger for the Wellue FS20F BLE pulse oximeter |  | <https://github.com/roger-/FS20F> |
 | G4ShareSpy | iOS framework reading Dexcom G4 Share data over BLE |  | <https://github.com/mddub/G4ShareSpy> |
 | glooko-reader | Unofficial Python client for the Glooko diabetes data platform |  | <https://github.com/spamsch/glooko-reader> |
 | GlucoDataHandler | Android app that collects CGM data from many sources for watches and cars |  | <https://github.com/pachi81/GlucoDataHandler> |
@@ -466,6 +477,7 @@
 | minimed_rf | Decoding the Medtronic pump, Enlite CGM and MySentry radio protocol |  | <https://github.com/ps2/minimed_rf> |
 | MinimedKit | Loop pump-manager plugin for Medtronic pumps |  | <https://github.com/LoopKit/MinimedKit> |
 | mmblelink | Pure Python RileyLink BLE driver for Medtronic pumps |  | <https://github.com/bewest/mmblelink> |
+| myoxi | Record data from pulse oximeters |  | <https://github.com/aebruno/myoxi> |
 | nightscout-connect | Bridge Dexcom Share, LibreLinkUp, CareLink and Glooko clouds into Nightscout |  | <https://github.com/nightscout/nightscout-connect> |
 | obpm | Omron blood pressure manager reading monitors over USB |  | <https://github.com/LazyT/obpm> |
 | OmniCore | Control Omnipod insulin pods from your phone |  | <https://github.com/winemug/OmniCore> |
@@ -506,34 +518,61 @@
 | Spark | Code for controlling the Positive Grid Spark 40 amp over Bluetooth (reverse-engineered protocol) | 14 | <https://github.com/paulhamsh/Spark> |
 | alsa-scarlett-gui | GTK4 GUI for Focusrite Scarlett/Clarett mixer controls on Linux (replaces Focusrite Control) |  | <https://github.com/geoffreybennett/alsa-scarlett-gui> |
 | axefx-sysex-maps | Reverse-engineered Fractal Axe-Fx III SysEx and parameter maps |  | <https://github.com/BigSaurus/axefx-sysex-maps> |
+| beacn-utility | Tool for configuring Beacn audio devices on Linux |  | <https://github.com/beacn-on-linux/beacn-utility> |
 | beat-link | Java library to sync and communicate with Pioneer DJ Link equipment |  | <https://github.com/Deep-Symmetry/beat-link> |
 | beat-link-trigger | Trigger events and automate shows from Pioneer CDJs |  | <https://github.com/Deep-Symmetry/beat-link-trigger> |
 | BS2-Web | Web editor for the Novation Bass Station II synth |  | <https://github.com/francoisgeorgy/BS2-Web> |
+| circuit-tools | Tools for the Novation Circuit groovebox |  | <https://github.com/digitalhobbit/circuit-tools> |
+| circuit_samples | Python module for Novation Circuit sample SysEx files |  | <https://github.com/mungewell/circuit_samples> |
 | ConfiguratorModelD | Cross-platform SysEx configurator for the Behringer Model D synth |  | <https://github.com/masc4ii/ConfiguratorModelD> |
 | digiemu | Emulator for Elektron Digitakt/Digitone/Model:Cycles running their own firmware |  | <https://github.com/irpina/digiemu> |
 | digikit | Emulator and custom firmware tools for Elektron Digi boxes |  | <https://github.com/m-dwyer/digikit> |
+| DL4II_Control | Controller app for the Line 6 DL4 MkII via USB MIDI |  | <https://github.com/DavidMolTor/DL4II_Control> |
 | dtdump | Open proof-of-concept implementation of the Elektron Overbridge USB protocol |  | <https://github.com/droelfdroelf/dtdump> |
 | dysentery | Reverse-engineered analysis of the Pioneer Pro DJ Link network protocol |  | <https://github.com/Deep-Symmetry/dysentery> |
 | e2edit | Pattern editor for KORG electribe 2 pattern files |  | <https://github.com/keijiro/e2edit> |
 | elekloader | Mod loader that patches stock Elektron firmware OS files with community mods |  | <https://github.com/irpina/elekloader> |
 | elektron-firmware-tool | Tool to unpack and inspect Elektron instrument firmware images |  | <https://github.com/mischa85/elektron-firmware-tool> |
 | elfer | Tracker-style pattern editor for Korg Electribe 2 synth/sampler files |  | <https://github.com/maks/elfer> |
+| FBV-tools | Info and examples to use the Line 6 FBV foot controller with other gear |  | <https://github.com/vlotech/FBV-tools> |
+| FBV2MIDI | Use a Line 6 FBV to control other amps such as the Kemper |  | <https://github.com/wrbi/FBV2MIDI> |
+| freakout | Patch tools and USB/MIDI transport for Arturia MiniFreak and MicroFreak |  | <https://github.com/kmorrill/freakout> |
+| fretwire | Independent native Linux editor for the Line 6 HX/Helix family |  | <https://github.com/john-baxter-dev/fretwire> |
 | go-stagelinq | Go library implementing the Denon StageLinq protocol |  | <https://github.com/icedream/go-stagelinq> |
+| go-thr | Experimental library for communicating with Yamaha THR II amps |  | <https://github.com/warmans/go-thr> |
 | goxlr-utility | Unofficial tool to configure and control TC-Helicon GoXLR on Linux |  | <https://github.com/GoXLR-on-Linux/goxlr-utility> |
 | libanalogrytm | Portable SysEx library for the Elektron Analog Rytm drum computer |  | <https://github.com/bsp2/libanalogrytm> |
+| libdigitone | Library for Elektron Digitone SysEx patch data |  | <https://github.com/d-huck/libdigitone> |
 | libdjinterop | C++ library to read/write Engine DJ (Denon/Numark) record libraries |  | <https://github.com/xsco/libdjinterop> |
+| loguetools | Korg minilogue family patch manipulation tools |  | <https://github.com/gazzar/loguetools> |
 | lpedit | Linux editor for Line 6 POD HD 500X/500/Pro via reverse-engineered USB protocol |  | <https://github.com/StarAurryon/lpedit> |
 | m8c | Cross-platform client for the Dirtywave M8 tracker's headless serial display protocol |  | <https://github.com/laamaa/m8c> |
+| managefreak | Open-source preset manager for the Arturia MicroFreak |  | <https://github.com/GiovanniBitbyBit/managefreak> |
+| mf-utils | Utilities for the Arturia MicroFreak synthesizer |  | <https://github.com/dcower/mf-utils> |
+| microfreak-reader | Read and display presets stored in the Arturia MicroFreak |  | <https://github.com/francoisgeorgy/microfreak-reader> |
+| minilogue-editor | Web-based program viewer and editor for the Korg Minilogue |  | <https://github.com/jeffkistler/minilogue-editor> |
 | Model-TG | Unofficial firmware additions for the Elektron Model:Cycles, including a sampler machine |  | <https://github.com/TinyGregAudio/Model-TG> |
+| MPC-Force-SSH-Firmwares | Modified Akai MPC and Force firmwares with SSH and mouse control |  | <https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares> |
+| MPC-LiveXplore-bootstrap | Bootstrap for running custom scripts on Akai MPC and Force |  | <https://github.com/TheKikGen/MPC-LiveXplore-bootstrap> |
+| MPCProjectManager | Manage Akai MPC Live/X project files |  | <https://github.com/frankvonwelt/MPCProjectManager> |
 | octatrack-manager | Desktop app to manage, view and edit Elektron Octatrack project files |  | <https://github.com/davidferlay/octatrack-manager> |
 | op-1-tools | Research and tools on Teenage Engineering OP-1 file formats |  | <https://github.com/sowbug/op-1-tools> |
 | opc | Teenage Engineering OP-1 companion app for samples and patches |  | <https://github.com/tink3rtanner/opc> |
+| openhx | Unofficial open-source alternative to HX Edit for Line 6 Helix/HX devices |  | <https://github.com/allansomensi/openhx> |
 | pacer-editor | Web editor for the Nektar Pacer MIDI foot controller |  | <https://github.com/francoisgeorgy/pacer-editor> |
 | PGSparkLite | Web interface to control the Positive Grid Spark 40 amp |  | <https://github.com/richtamblyn/PGSparkLite> |
+| pod-ui | GTK UI for controlling Line 6 POD family devices via MIDI |  | <https://github.com/arteme/pod-ui> |
+| podhd | Modify and convert Line 6 POD HD presets, setlists and bundles |  | <https://github.com/johanneszab/podhd> |
+| polyend-tracker-pti-creator | CLI to create Polyend Tracker .pti instruments from samples |  | <https://github.com/adriananders/polyend-tracker-pti-creator> |
+| polyendtracker-midi-export | MIDI exporter for Polyend Tracker project files |  | <https://github.com/DataGreed/polyendtracker-midi-export> |
 | presonus-studiolive-api | Reverse-engineered PreSonus StudioLive Series III network control protocol |  | <https://github.com/featherbear/presonus-studiolive-api> |
+| pti-file-format | Reverse engineering the Polyend Tracker instrument file format |  | <https://github.com/jaap3/pti-file-format> |
+| pti-tools | Turn samples into beat-sliced Polyend Tracker instruments |  | <https://github.com/jaap3/pti-tools> |
 | pyrekordbox | Unofficial Python package for rekordbox databases, XML and analysis files |  | <https://github.com/dylanljones/pyrekordbox> |
 | qKontrol | Linux tool and alternative to NI software for Komplete Kontrol MK2 keyboards |  | <https://github.com/GoaSkin/qKontrol> |
 | rebellion | Use Native Instruments Maschine/Komplete Kontrol devices without NI software |  | <https://github.com/terminar/rebellion> |
+| RETracker | Reverse engineering framework for the Polyend Tracker |  | <https://github.com/patois/RETracker> |
+| rodecaster-control | Open-source Linux alternative to RODE Central for RODECaster Pro II |  | <https://github.com/Jordan-Milner/rodecaster-control> |
 | scarlett2 | Firmware management utility for Focusrite Scarlett/Clarett interfaces on Linux |  | <https://github.com/geoffreybennett/scarlett2> |
 | snd-digitakt | ALSA driver for the Elektron Digitakt's Overbridge audio |  | <https://github.com/droelfdroelf/snd-digitakt> |
 | snd-firewire-ctl-services | Control services for FireWire audio interfaces (RME, MOTU, Focusrite, etc.) on Linux |  | <https://github.com/alsa-project/snd-firewire-ctl-services> |
@@ -542,6 +581,8 @@
 | teoperator | Make OP-1 and OP-Z drum and synth patch files from any sound |  | <https://github.com/schollz/teoperator> |
 | Toaster | Editor and remote control for the Kemper Profiling Amplifier |  | <https://github.com/virango/Toaster> |
 | tonepush | Open-source editor for Line 6 HX pedals with reverse-engineered USB protocol docs |  | <https://github.com/crmne/tonepush> |
+| tracker-mtp-editor | Pattern editor for the Polyend Tracker |  | <https://github.com/sandroidmusic/tracker-mtp-editor> |
+| tracker-pti-editor | Instrument editor for the Polyend Tracker |  | <https://github.com/sandroidmusic/tracker-pti-editor> |
 | TuxKatana | GTK4 Linux editor for the Boss Katana Mk2 amplifier over USB MIDI SysEx |  | <https://github.com/s4mdf0o1/TuxKatana> |
 | underbridge | Multitrack audio exporter for the Teenage Engineering OP-Z |  | <https://github.com/BKLronin/underbridge> |
 | xair-remote | Remote-control Behringer X-Air mixers from an X-Touch Mini via OSC |  | <https://github.com/peterdikant/xair-remote> |
@@ -1155,10 +1196,12 @@
 | pebble-tool | Community-maintained Pebble SDK command-line tool | 11 | <https://github.com/pebble-dev/pebble-tool> |
 | C30-20-Pro BLE RE | Reverse-engineered BLE protocol of a no-name Jieli-chipset smartwatch | 1 | <https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering> |
 | whoop-ble-swift | Swift package for the undocumented Whoop strap BLE protocol | 1 | <https://github.com/Asherlc/whoop-ble-swift> |
+| alt-scount | Save Suunto Ambit moves without Moveslink and Movescount |  | <https://github.com/kekepins/alt-scount> |
 | Amazfitbip-FreeRTOS | Barebone FreeRTOS firmware for the Amazfit Bip |  | <https://github.com/dslul/Amazfitbip-FreeRTOS> |
 | AmazfitCommunication | Two-way phone/watch communication library for Amazfit Pace and Stratos |  | <https://github.com/KieronQuinn/AmazfitCommunication> |
 | amazfitutils | Tools for working with Amazfit watchface files |  | <https://github.com/EXOMODE/amazfitutils> |
 | AmazMod | Replacement notification system and tweaks for Amazfit Pace/Stratos |  | <https://github.com/AmazMod/AmazMod> |
+| AmbitSync | Android app reading Suunto Ambit watches and converting to GPX |  | <https://github.com/starryalley/AmbitSync> |
 | antfs-cli | Extract FIT files from ANT-FS Garmin watches |  | <https://github.com/Tigge/antfs-cli> |
 | ATC_RF03_Ring | Findings and custom firmware for Colmi R02-class smart rings |  | <https://github.com/atc1441/ATC_RF03_Ring> |
 | atria | Local-first iOS companion app for WHOOP straps |  | <https://github.com/adidshaft/atria> |
@@ -1179,7 +1222,9 @@
 | garmin-connect-export (kjkjava) | Original script to download Garmin Connect data and GPX tracks |  | <https://github.com/kjkjava/garmin-connect-export> |
 | garmin-grafana | Fetch Garmin Connect health data into InfluxDB/Grafana |  | <https://github.com/arpanghosh8453/garmin-grafana> |
 | GcpUploader | Python uploader for Garmin Connect |  | <https://github.com/dlotton/GcpUploader> |
+| gps_track_pod | Python client for the Suunto GPS Track Pod |  | <https://github.com/iwanders/gps_track_pod> |
 | GShockTimeServer | Python script to set time on Casio G-Shock watches over BLE |  | <https://github.com/izivkov/GShockTimeServer> |
+| ha-suunto | Unofficial Suunto integration for Home Assistant |  | <https://github.com/MichalZaniewicz/ha-suunto> |
 | harbour-amazfish | Amazfit/Mi Band and other smartwatch support for Sailfish OS and Linux |  | <https://github.com/piggz/harbour-amazfish> |
 | hass-walkingpad | Home Assistant integration for KingSmith WalkingPad treadmills |  | <https://github.com/mcdax/hass-walkingpad> |
 | home-assistant-garmin_connect | Garmin Connect health data integration for Home Assistant |  | <https://github.com/cyberjunky/home-assistant-garmin_connect> |
@@ -1198,6 +1243,7 @@
 | MiBandReader | Read Mi Band steps and battery and trigger vibration |  | <https://github.com/brookwillow/MiBandReader> |
 | MiDoze | Firmware fetcher for Huami/Amazfit wearables |  | <https://github.com/Keddnyo/MiDoze> |
 | mindwave-python | Python parser for NeuroSky MindWave EEG headsets |  | <https://github.com/BarkleyUS/mindwave-python> |
+| movescount-batch-exporter | Batch exporter for Suunto Movescount activities |  | <https://github.com/alexbr/movescount-batch-exporter> |
 | noop | Offline WHOOP companion that pairs over BLE and keeps data local |  | <https://github.com/muftiarfan/noop> |
 | open_oura | Rust toolkit with reverse-engineered BLE protocol for Oura Ring Gen 3/4/5 |  | <https://github.com/Th0rgal/open_oura> |
 | open_ring | Pure Python driver for the Oura Ring |  | <https://github.com/LogosIsLife/open_ring> |
@@ -1205,10 +1251,14 @@
 | php-garmin-connect | PHP adapter for the Garmin Connect web API |  | <https://github.com/10REM/php-garmin-connect> |
 | polar-flow-export | Bulk export TCX files from Polar Flow |  | <https://github.com/gabrielreid/polar-flow-export> |
 | py_amazfit_tools | Pack/unpack .bin watchfaces for Amazfit Verge Lite/GTR/GTS |  | <https://github.com/ghtalpo/py_amazfit_tools> |
+| pyambit | Python library for Suunto Ambit data files |  | <https://github.com/jvtm/pyambit> |
 | pylotoncycle | Python library for Peloton workout data via its web API |  | <https://github.com/justmedude/pylotoncycle> |
 | python-ant-downloader | Download data from Garmin ANT wireless devices |  | <https://github.com/braiden/python-ant-downloader> |
 | reverse-engineering-whoop-post | Write-up and code reverse engineering the WHOOP strap BLE protocol |  | <https://github.com/bWanShiTong/reverse-engineering-whoop-post> |
 | suunto-api-wrapper | Unofficial TypeScript client for the Suunto app API |  | <https://github.com/Marius-Ar/suunto-api-wrapper> |
+| suunto-t3c | Reverse engineering the Suunto t3c sync protocol |  | <https://github.com/lawnjam/suunto-t3c> |
+| SuuntoLinkWine | Sync and configure Suunto watches on Linux via Wine |  | <https://github.com/JmB11/SuuntoLinkWine> |
+| suuntool | Unofficial CLI for the Suunto cloud API |  | <https://github.com/tajchert/suuntool> |
 | unofficialWhoopAPI | Unofficial WHOOP API client |  | <https://github.com/ianm199/unofficialWhoopAPI> |
 | vrc-osc-miband-hrm | Mi Band/Amazfit heart rate over BLE to VRChat via OSC |  | <https://github.com/vard88508/vrc-osc-miband-hrm> |
 | Watch-face-editor (ZeppOS) | GUI editor for Amazfit ZeppOS watch faces |  | <https://github.com/SashaCX75/Watch-face-editor-for-Amazfit-watch-on-ZeppOS> |

@@ -13526,6 +13526,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "byd-hass",
+  "url": "https://github.com/jkaberg/byd-hass",
+  "desc": "Export BYD car data to Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "CarConnectivity-connector-volkswagen",
   "url": "https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen",
   "desc": "Volkswagen connector for the CarConnectivity framework",
@@ -13668,6 +13676,14 @@
   "name": "ha-porscheconnect",
   "url": "https://github.com/CJNE/ha-porscheconnect",
   "desc": "Porsche Connect custom component for Home Assistant",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "hass-byd-vehicle",
+  "url": "https://github.com/jkaberg/hass-byd-vehicle",
+  "desc": "Custom Home Assistant integration for BYD vehicles",
   "category": "Automotive",
   "subcategory": "Car APIs & Telematics",
   "added": "2026-10-11"
@@ -14187,6 +14203,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pyBYD",
+  "url": "https://github.com/jkaberg/pyBYD",
+  "desc": "Async Python client for the BYD vehicle API",
+  "category": "Automotive",
+  "subcategory": "Car APIs & Telematics",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pycarplay",
   "url": "https://github.com/electric-monk/pycarplay",
   "desc": "Python CarPlay library for Carlinkit \"Autobox\" USB dongles",
@@ -14681,6 +14705,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "byd_battery",
+  "url": "https://github.com/burra/byd_battery",
+  "desc": "Attempt to reverse engineer a BYD battery system",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Daly2MQTT",
   "url": "https://github.com/softwarecrash/Daly2MQTT",
   "desc": "ESP8266 bridge reading Daly and compatible BMS data into MQTT",
@@ -14716,6 +14748,14 @@
   "name": "esphome-yambms",
   "url": "https://github.com/Sleeper85/esphome-yambms",
   "desc": "Multi-BMS merging solution for ESPHome (JK, JBD, etc.)",
+  "category": "Automotive",
+  "subcategory": "EV Batteries & BMS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ioBroker.bydhvs",
+  "url": "https://github.com/christianh17/ioBroker.bydhvs",
+  "desc": "ioBroker adapter for BYD HVS battery storage",
   "category": "Automotive",
   "subcategory": "EV Batteries & BMS",
   "added": "2026-10-11"
@@ -14888,6 +14928,30 @@
   "added": "2026-10-11"
  },
  {
+  "name": "byd-apps",
+  "url": "https://github.com/wheregoes/byd-apps",
+  "desc": "Custom Android apps for BYD EVs including CAN bus tools",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "byd-trip-stats",
+  "url": "https://github.com/angoikon/byd-trip-stats",
+  "desc": "Trip statistics app for BYD BEV/PHEV cars",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BYDMate",
+  "url": "https://github.com/AndyShaman/BYDMate",
+  "desc": "BYD DiLink app adding split screen and navigation on the instrument cluster",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
+  "added": "2026-10-11"
+ },
+ {
   "name": "carplay-receiver",
   "url": "https://github.com/harrylepotter/carplay-receiver",
   "desc": "Linux CarPlay receiver using Carlinkit dongles for OEM head-unit projects",
@@ -14920,6 +14984,14 @@
    "raspberrypi",
    "distro"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "DiAuto",
+  "url": "https://github.com/shihabal3amri/DiAuto",
+  "desc": "Wireless and USB Android Auto receiver for BYD DiLink head units",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
   "added": "2026-10-11"
  },
  {
@@ -14982,6 +15054,14 @@
   "lang": "C++",
   "license": "GPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Overdrive",
+  "url": "https://github.com/yash-srivastava/Overdrive-release",
+  "desc": "Advanced Sentry Mode app for BYD vehicles",
+  "category": "Automotive",
+  "subcategory": "Head Units & CarPlay/Android Auto",
   "added": "2026-10-11"
  },
  {
@@ -15057,6 +15137,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "browser-parse",
+  "url": "https://github.com/zero-motorcycle-community/browser-parse",
+  "desc": "In-browser decoder for Zero motorcycle MBB/BMS logs",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
   "name": "mcluster",
   "url": "https://github.com/kconger/org.thcongers.mcluster",
   "desc": "Android BMW Motorrad instrument cluster",
@@ -15068,6 +15156,54 @@
   "name": "MotoRecoLogger",
   "url": "https://github.com/SchwarzeLanzenreiter/MotoRecoLogger",
   "desc": "BMW Motorrad CAN data logger",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Zero-Dashboard",
+  "url": "https://github.com/remmie1972/Zero-Dashboard",
+  "desc": "Alternative Zero Motorcycles dashboard on ESP32 via CAN bus",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zero-log-parser",
+  "url": "https://github.com/kimburgess/zero-log-parser",
+  "desc": "Decoder for Zero Motorcycles MBB and BMS diagnostic logs",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zero-motorcycle-canbus",
+  "url": "https://github.com/RIAEvangelist/zero-motorcycle-canbus",
+  "desc": "CAN bus message discovery on Zero motorcycles",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zero-motorcycles-integration",
+  "url": "https://github.com/hanscappelle/zero-motorcycles-integration",
+  "desc": "Home Assistant integration for cellular-connected Zero motorcycles",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ZeroNavBridge",
+  "url": "https://github.com/Belkaar/ZeroNavBridge",
+  "desc": "Send navigation info to Zero motorcycle dashboards",
+  "category": "Automotive",
+  "subcategory": "Motorcycles",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "zmci-tool",
+  "url": "https://github.com/s28400/zmci-tool",
+  "desc": "Unofficial Zero Motorcycles cloud interface tool",
   "category": "Automotive",
   "subcategory": "Motorcycles",
   "added": "2026-10-11"
@@ -15102,6 +15238,14 @@
   "name": "cowboybike-strava-sync",
   "url": "https://github.com/sam-dumont/cowboybike-strava-sync",
   "desc": "Sync rides from the Cowboy bikes API to Strava",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "decode-vanmoof-blt-packages",
+  "url": "https://github.com/mjarkk/decode-vanmoof-blt-packages",
+  "desc": "Inspect Bluetooth sniff captures of VanMoof bike traffic",
   "category": "Automotive",
   "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
@@ -15171,6 +15315,14 @@
   "name": "ha-bosch-ebike-pibridge",
   "url": "https://github.com/possm/ha-bosch-ebike-pibridge",
   "desc": "Bosch eBike live BLE data to Home Assistant via Raspberry Pi",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-specialized-turbo",
+  "url": "https://github.com/JamieMagee/ha-specialized-turbo",
+  "desc": "Home Assistant integration for Specialized Turbo e-bikes via BLE",
   "category": "Automotive",
   "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
@@ -15329,6 +15481,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "specialized-turbo",
+  "url": "https://github.com/JamieMagee/specialized-turbo",
+  "desc": "Python library for Specialized Turbo e-bike BLE communication",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
   "name": "stromer",
   "url": "https://github.com/CoMPaTech/stromer",
   "desc": "Home Assistant integration for Stromer speed pedelecs via their cloud API",
@@ -15399,6 +15559,62 @@
   "added": "2026-10-11"
  },
  {
+  "name": "vanMoof (PowerShell)",
+  "url": "https://github.com/stefanstranger/vanMoof",
+  "desc": "PowerShell code to download your VanMoof data",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vanmoof-battery-tool",
+  "url": "https://github.com/VangelisBV/vanmoof-battery-tool",
+  "desc": "Python tool for VanMoof batteries",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vanmoof-bms",
+  "url": "https://github.com/Knight1/vanmoof-bms",
+  "desc": "Reverse-engineered VanMoof S3 DynaPack battery ModBus registers",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vanmoof-encryption-key-exporter",
+  "url": "https://github.com/grossartig/vanmoof-encryption-key-exporter",
+  "desc": "Export your own VanMoof bike details and encryption keys",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vanmoof-s6-ble-protocol",
+  "url": "https://github.com/Nefilim78/vanmoof-s6-ble-protocol",
+  "desc": "Reverse engineering of the VanMoof S6 MQTT-over-BLE protocol",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "VanMoof-SA5-HomeAssistant",
+  "url": "https://github.com/TimTheBeastNL/VanMoof-SA5-HomeAssistant",
+  "desc": "Home Assistant integration for VanMoof S5/A5 e-bikes",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "vanmoof-tools",
+  "url": "https://github.com/chwdt/vanmoof-tools",
+  "desc": "Tools supporting VanMoof S3/X3 reverse engineering",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
   "name": "vanmoof-web-controller",
   "url": "https://github.com/mjarkk/vanmoof-web-controller",
   "desc": "Web Bluetooth controller for VanMoof S3/X3 settings",
@@ -15410,6 +15626,30 @@
   "lang": "TypeScript",
   "license": "LGPL-2.1",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "VanMoofKit",
+  "url": "https://github.com/SvenTiigi/VanMoofKit",
+  "desc": "Swift package to communicate with VanMoof S3 and X3 bikes",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "VanmoofX3RE",
+  "url": "https://github.com/ciborg971/VanmoofX3RE",
+  "desc": "Reverse engineering of the VanMoof X3 e-bike",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "VanMooof-Module",
+  "url": "https://github.com/Knight1/VanMooof-Module",
+  "desc": "Reverse-engineered VanMoof S3/X3/S4/X4 module protocols",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
   "added": "2026-10-11"
  },
  {
@@ -21615,6 +21855,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "WordTsar",
+  "url": "https://github.com/sleaze/WordTsar",
+  "desc": "Open-source clone of the WordStar word processor that edits WordStar files",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "added": "2026-10-11"
+ },
+ {
   "name": "WyldCard",
   "url": "https://github.com/defano/wyldcard",
   "desc": "Java clone of Apple's HyperCard and the HyperTalk language",
@@ -21769,6 +22017,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Gnash",
+  "url": "https://savannah.gnu.org/projects/gnash",
+  "desc": "GNU Flash movie player that reimplements the Adobe Flash Player (SWF up to v9)",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Flash, Shockwave & Legacy Runtimes",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Lightspark",
   "url": "https://github.com/lightspark/lightspark",
   "desc": "Open-source Flash Player implementation with ActionScript 3 support",
@@ -21868,6 +22124,14 @@
    "operating-system",
    "bare-metal"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CP/M for OS X",
+  "url": "https://github.com/TomHarte/CP-M-for-OS-X",
+  "desc": "Z80 emulator plus CP/M-80 BDOS reimplementation to run CP/M software on macOS",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "OS & Compatibility Layers",
   "added": "2026-10-11"
  },
  {
@@ -22084,6 +22348,14 @@
    "objective-c",
    "winobjc"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MBBSEmu",
+  "url": "https://github.com/mbbsemu/MBBSEmu",
+  "desc": "Emulator that reimplements The MajorBBS/Worldgroup APIs to run its BBS modules",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "OS & Compatibility Layers",
   "added": "2026-10-11"
  },
  {
@@ -24640,6 +24912,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "inkview",
+  "url": "https://github.com/dennwc/inkview",
+  "desc": "Go SDK bindings for PocketBook's inkview library",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
   "name": "jrmapi",
   "url": "https://github.com/jlarriba/jrmapi",
   "desc": "Java API for the reMarkable cloud",
@@ -24694,6 +24974,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "KoboTolinoFindings",
+  "url": "https://github.com/notmarek/KoboTolinoFindings",
+  "desc": "Findings on the new Kobo/tolino 5.x firmware",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
   "name": "lines-are-rusty",
   "url": "https://github.com/ax3l/lines-are-rusty",
   "desc": "Rust library for the reMarkable tablet .lines/.rm file format",
@@ -24735,6 +25023,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "obsidian-pocketbook-cloud-highlight-importer",
+  "url": "https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer",
+  "desc": "Import highlights from the PocketBook cloud into Obsidian",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
   "name": "onyx-send2boox",
   "url": "https://github.com/hrw/onyx-send2boox",
   "desc": "Python client for the Onyx Boox Send2Boox cloud service",
@@ -24754,6 +25050,14 @@
   "name": "oxide",
   "url": "https://github.com/Eeems-Org/oxide",
   "desc": "Desktop environment for the reMarkable tablet",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pocketbook_free_swupdate",
+  "url": "https://github.com/Vanuan/pocketbook_free_swupdate",
+  "desc": "Open-source PocketBook firmware update (swupdate) project",
   "category": "Devices, IoT & Hardware",
   "subcategory": "E-readers & E-ink Tablets",
   "added": "2026-10-11"
@@ -24995,6 +25299,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "scribe-library",
+  "url": "https://github.com/technolaaji/scribe-library",
+  "desc": "Local server for browsing Kindle Scribe notebooks",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
   "name": "supernote",
   "url": "https://github.com/allenporter/supernote",
   "desc": "Supernote hub: parse notebooks and self-host Supernote cloud services",
@@ -25052,6 +25364,14 @@
   "name": "supernote_pdf",
   "url": "https://github.com/RohanGautam/supernote_pdf",
   "desc": "Fast converter from Supernote .note files to PDF",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "E-readers & E-ink Tablets",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tolino-python",
+  "url": "https://github.com/hzulla/tolino-python",
+  "desc": "Python access to the tolino e-book cloud",
   "category": "Devices, IoT & Hardware",
   "subcategory": "E-readers & E-ink Tablets",
   "added": "2026-10-11"
@@ -27411,6 +27731,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Baby-Monitor-Masimo-Pulse-Oximeter",
+  "url": "https://github.com/Iukekini/Baby-Monitor-Masimo-Pulse-Oximeter",
+  "desc": "Remote monitoring of Masimo pulse oximeter data for infants",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BerryMed-Pulse-Oximeter-tool",
+  "url": "https://github.com/ehborisov/BerryMed-Pulse-Oximeter-tool",
+  "desc": "Tool to read BerryMed BLE pulse oximeters",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "carelink-python-client",
   "url": "https://github.com/ondrej1024/carelink-python-client",
   "desc": "Experimental Medtronic CareLink cloud client in Python",
@@ -27450,9 +27786,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "CircuitPython BLE BerryMed",
+  "url": "https://github.com/adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter",
+  "desc": "CircuitPython BLE support for BerryMed pulse oximeters",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
   "name": "CMS50Dplus",
   "url": "https://github.com/atbrask/CMS50Dplus",
   "desc": "Download data from a Contec CMS50D+ pulse oximeter",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "cms50ew",
+  "url": "https://github.com/tobac/cms50ew",
+  "desc": "Python client for the Contec CMS50EW pulse oximeter",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
@@ -27615,6 +27967,14 @@
   "name": "FreeAPS X",
   "url": "https://github.com/ivalkou/freeaps",
   "desc": "iOS artificial pancreas system based on OpenAPS",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FS20F",
+  "url": "https://github.com/roger-/FS20F",
+  "desc": "Logger for the Wellue FS20F BLE pulse oximeter",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
@@ -27902,6 +28262,14 @@
   "name": "mmblelink",
   "url": "https://github.com/bewest/mmblelink",
   "desc": "Pure Python RileyLink BLE driver for Medtronic pumps",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "myoxi",
+  "url": "https://github.com/aebruno/myoxi",
+  "desc": "Record data from pulse oximeters",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Medical Devices (CGM, Pumps)",
   "added": "2026-10-11"
@@ -28219,6 +28587,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "beacn-utility",
+  "url": "https://github.com/beacn-on-linux/beacn-utility",
+  "desc": "Tool for configuring Beacn audio devices on Linux",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "beat-link",
   "url": "https://github.com/Deep-Symmetry/beat-link",
   "desc": "Java library to sync and communicate with Pioneer DJ Link equipment",
@@ -28264,6 +28640,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "circuit-tools",
+  "url": "https://github.com/digitalhobbit/circuit-tools",
+  "desc": "Tools for the Novation Circuit groovebox",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "circuit_samples",
+  "url": "https://github.com/mungewell/circuit_samples",
+  "desc": "Python module for Novation Circuit sample SysEx files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "ConfiguratorModelD",
   "url": "https://github.com/masc4ii/ConfiguratorModelD",
   "desc": "Cross-platform SysEx configurator for the Behringer Model D synth",
@@ -28283,6 +28675,14 @@
   "name": "digikit",
   "url": "https://github.com/m-dwyer/digikit",
   "desc": "Emulator and custom firmware tools for Elektron Digi boxes",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "DL4II_Control",
+  "url": "https://github.com/DavidMolTor/DL4II_Control",
+  "desc": "Controller app for the Line 6 DL4 MkII via USB MIDI",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28367,9 +28767,49 @@
   "added": "2026-10-11"
  },
  {
+  "name": "FBV-tools",
+  "url": "https://github.com/vlotech/FBV-tools",
+  "desc": "Info and examples to use the Line 6 FBV foot controller with other gear",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FBV2MIDI",
+  "url": "https://github.com/wrbi/FBV2MIDI",
+  "desc": "Use a Line 6 FBV to control other amps such as the Kemper",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "freakout",
+  "url": "https://github.com/kmorrill/freakout",
+  "desc": "Patch tools and USB/MIDI transport for Arturia MiniFreak and MicroFreak",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fretwire",
+  "url": "https://github.com/john-baxter-dev/fretwire",
+  "desc": "Independent native Linux editor for the Line 6 HX/Helix family",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "go-stagelinq",
   "url": "https://github.com/icedream/go-stagelinq",
   "desc": "Go library implementing the Denon StageLinq protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "go-thr",
+  "url": "https://github.com/warmans/go-thr",
+  "desc": "Experimental library for communicating with Yamaha THR II amps",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28405,9 +28845,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "libdigitone",
+  "url": "https://github.com/d-huck/libdigitone",
+  "desc": "Library for Elektron Digitone SysEx patch data",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "libdjinterop",
   "url": "https://github.com/xsco/libdjinterop",
   "desc": "C++ library to read/write Engine DJ (Denon/Numark) record libraries",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "loguetools",
+  "url": "https://github.com/gazzar/loguetools",
+  "desc": "Korg minilogue family patch manipulation tools",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28424,6 +28880,14 @@
   "name": "m8c",
   "url": "https://github.com/laamaa/m8c",
   "desc": "Cross-platform client for the Dirtywave M8 tracker's headless serial display protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "managefreak",
+  "url": "https://github.com/GiovanniBitbyBit/managefreak",
+  "desc": "Open-source preset manager for the Arturia MicroFreak",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28457,6 +28921,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "mf-utils",
+  "url": "https://github.com/dcower/mf-utils",
+  "desc": "Utilities for the Arturia MicroFreak synthesizer",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "microfreak-reader",
+  "url": "https://github.com/francoisgeorgy/microfreak-reader",
+  "desc": "Read and display presets stored in the Arturia MicroFreak",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "mightier_amp",
   "url": "https://github.com/tuntorius/mightier_amp",
   "desc": "Alternative app for controlling NUX Mighty amps over Bluetooth",
@@ -28477,9 +28957,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "minilogue-editor",
+  "url": "https://github.com/jeffkistler/minilogue-editor",
+  "desc": "Web-based program viewer and editor for the Korg Minilogue",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Model-TG",
   "url": "https://github.com/TinyGregAudio/Model-TG",
   "desc": "Unofficial firmware additions for the Elektron Model:Cycles, including a sampler machine",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MPC-Force-SSH-Firmwares",
+  "url": "https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares",
+  "desc": "Modified Akai MPC and Force firmwares with SSH and mouse control",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28496,6 +28992,22 @@
   "lang": "C",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MPC-LiveXplore-bootstrap",
+  "url": "https://github.com/TheKikGen/MPC-LiveXplore-bootstrap",
+  "desc": "Bootstrap for running custom scripts on Akai MPC and Force",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MPCProjectManager",
+  "url": "https://github.com/frankvonwelt/MPCProjectManager",
+  "desc": "Manage Akai MPC Live/X project files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
  },
  {
@@ -28518,6 +29030,14 @@
   "name": "opc",
   "url": "https://github.com/tink3rtanner/opc",
   "desc": "Teenage Engineering OP-1 companion app for samples and patches",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "openhx",
+  "url": "https://github.com/allansomensi/openhx",
+  "desc": "Unofficial open-source alternative to HX Edit for Line 6 Helix/HX devices",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28593,9 +29113,57 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pod-ui",
+  "url": "https://github.com/arteme/pod-ui",
+  "desc": "GTK UI for controlling Line 6 POD family devices via MIDI",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "podhd",
+  "url": "https://github.com/johanneszab/podhd",
+  "desc": "Modify and convert Line 6 POD HD presets, setlists and bundles",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "polyend-tracker-pti-creator",
+  "url": "https://github.com/adriananders/polyend-tracker-pti-creator",
+  "desc": "CLI to create Polyend Tracker .pti instruments from samples",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "polyendtracker-midi-export",
+  "url": "https://github.com/DataGreed/polyendtracker-midi-export",
+  "desc": "MIDI exporter for Polyend Tracker project files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
   "name": "presonus-studiolive-api",
   "url": "https://github.com/featherbear/presonus-studiolive-api",
   "desc": "Reverse-engineered PreSonus StudioLive Series III network control protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pti-file-format",
+  "url": "https://github.com/jaap3/pti-file-format",
+  "desc": "Reverse engineering the Polyend Tracker instrument file format",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pti-tools",
+  "url": "https://github.com/jaap3/pti-tools",
+  "desc": "Turn samples into beat-sliced Polyend Tracker instruments",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28634,6 +29202,22 @@
   "name": "rebellion",
   "url": "https://github.com/terminar/rebellion",
   "desc": "Use Native Instruments Maschine/Komplete Kontrol devices without NI software",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "RETracker",
+  "url": "https://github.com/patois/RETracker",
+  "desc": "Reverse engineering framework for the Polyend Tracker",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "rodecaster-control",
+  "url": "https://github.com/Jordan-Milner/rodecaster-control",
+  "desc": "Open-source Linux alternative to RODE Central for RODECaster Pro II",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -28733,6 +29317,22 @@
   "name": "tonepush",
   "url": "https://github.com/crmne/tonepush",
   "desc": "Open-source editor for Line 6 HX pedals with reverse-engineered USB protocol docs",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tracker-mtp-editor",
+  "url": "https://github.com/sandroidmusic/tracker-mtp-editor",
+  "desc": "Pattern editor for the Polyend Tracker",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "tracker-pti-editor",
+  "url": "https://github.com/sandroidmusic/tracker-pti-editor",
+  "desc": "Instrument editor for the Polyend Tracker",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Music Gear & Synth Editors",
   "added": "2026-10-11"
@@ -37144,6 +37744,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "alt-scount",
+  "url": "https://github.com/kekepins/alt-scount",
+  "desc": "Save Suunto Ambit moves without Moveslink and Movescount",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "Amazfitbip-FreeRTOS",
   "url": "https://github.com/dslul/Amazfitbip-FreeRTOS",
   "desc": "Barebone FreeRTOS firmware for the Amazfit Bip",
@@ -37171,6 +37779,14 @@
   "name": "AmazMod",
   "url": "https://github.com/AmazMod/AmazMod",
   "desc": "Replacement notification system and tweaks for Amazfit Pace/Stratos",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "AmbitSync",
+  "url": "https://github.com/starryalley/AmbitSync",
+  "desc": "Android app reading Suunto Ambit watches and converting to GPX",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Wearables & Health",
   "added": "2026-10-11"
@@ -37637,6 +38253,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "gps_track_pod",
+  "url": "https://github.com/iwanders/gps_track_pod",
+  "desc": "Python client for the Suunto GPS Track Pod",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "GShockSmartSync",
   "url": "https://github.com/izivkov/CasioGShockSmartSync",
   "desc": "Android app to sync Casio G-Shock watches over BLE",
@@ -37654,6 +38278,14 @@
   "name": "GShockTimeServer",
   "url": "https://github.com/izivkov/GShockTimeServer",
   "desc": "Python script to set time on Casio G-Shock watches over BLE",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ha-suunto",
+  "url": "https://github.com/MichalZaniewicz/ha-suunto",
+  "desc": "Unofficial Suunto integration for Home Assistant",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Wearables & Health",
   "added": "2026-10-11"
@@ -37969,6 +38601,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "movescount-batch-exporter",
+  "url": "https://github.com/alexbr/movescount-batch-exporter",
+  "desc": "Batch exporter for Suunto Movescount activities",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "muse-js",
   "url": "https://github.com/urish/muse-js",
   "desc": "Muse EEG headset library using Web Bluetooth",
@@ -38226,6 +38866,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pyambit",
+  "url": "https://github.com/jvtm/pyambit",
+  "desc": "Python library for Suunto Ambit data files",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pydexcom",
   "url": "https://github.com/gagebenne/pydexcom",
   "desc": "Python API to read Dexcom Share CGM data",
@@ -38365,6 +39013,30 @@
   "name": "suunto-api-wrapper",
   "url": "https://github.com/Marius-Ar/suunto-api-wrapper",
   "desc": "Unofficial TypeScript client for the Suunto app API",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "suunto-t3c",
+  "url": "https://github.com/lawnjam/suunto-t3c",
+  "desc": "Reverse engineering the Suunto t3c sync protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "SuuntoLinkWine",
+  "url": "https://github.com/JmB11/SuuntoLinkWine",
+  "desc": "Sync and configure Suunto watches on Linux via Wine",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "suuntool",
+  "url": "https://github.com/tajchert/suuntool",
+  "desc": "Unofficial CLI for the Suunto cloud API",
   "category": "Devices, IoT & Hardware",
   "subcategory": "Wearables & Health",
   "added": "2026-10-11"
@@ -41400,6 +42072,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "blackclue",
+  "url": "https://github.com/gandy92/blackclue",
+  "desc": "Extracts GPS and accelerometer data from BlackVue dashcam MP4 recordings",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
   "name": "canon_cr3",
   "url": "https://github.com/lclevy/canon_cr3",
   "desc": "Reverse-engineered description of the Canon CR3 RAW file format",
@@ -41428,6 +42108,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "dji-flightlog-parser",
+  "url": "https://github.com/olavbolav/dji-flightlog-parser",
+  "desc": "Parser and decryptor for DJI v13/v14 flight log files",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
   "name": "dji-log-parser",
   "url": "https://github.com/lvauvillier/dji-log-parser",
   "desc": "Rust library that parses records from DJI flight log .txt files",
@@ -41453,6 +42141,14 @@
   "lang": "JavaScript",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "djiLogParser",
+  "url": "https://github.com/shaofanqi/djiLogParser",
+  "desc": "Python parser for DJI drone flight logs",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
   "added": "2026-10-11"
  },
  {
@@ -41519,6 +42215,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "flighttrack",
+  "url": "https://github.com/lvauvillier/flighttrack",
+  "desc": "Simple viewer for DJI flight logs",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
   "name": "insvtool",
   "url": "https://github.com/ke4ukz/insvtool",
   "desc": "Dumps metadata from Insta360 .insv video files",
@@ -41549,6 +42253,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "mavica_411_decoder",
+  "url": "https://github.com/G2-Games/mavica_411_decoder",
+  "desc": "Decodes Sony Mavica floppy-camera .411 thumbnail images",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
   "name": "MLV-App",
   "url": "https://github.com/ilia3101/MLV-App",
   "desc": "Processing app for Magic Lantern MLV raw video files",
@@ -41567,6 +42279,22 @@
    "magic",
    "lantern"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pyavb",
+  "url": "https://github.com/markreidvfx/pyavb",
+  "desc": "Reads and writes Avid Media Composer bin (.avb) files",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "quicklook_d411",
+  "url": "https://github.com/sheepdoll/quicklook_d411",
+  "desc": "QuickLook plugin that previews Sony Mavica .411 thumbnail images",
+  "category": "File Formats",
+  "subcategory": "Camera RAW & Video Metadata",
   "added": "2026-10-11"
  },
  {
@@ -41602,6 +42330,14 @@
   "name": "access_parser",
   "url": "https://github.com/claroty/access_parser",
   "desc": "Python parser for Microsoft Access database files",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "btrieve-vdd",
+  "url": "https://github.com/leecher1337/btrieve-vdd",
+  "desc": "Btrieve database virtual device driver for DOS virtual machines",
   "category": "File Formats",
   "subcategory": "Databases",
   "added": "2026-10-11"
@@ -41691,6 +42427,22 @@
   "lang": "Java",
   "license": "Apache-2.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "JMPReader",
+  "url": "https://github.com/BreakOnExecute/JMPReader",
+  "desc": "Reads SAS JMP data files directly in Python",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MBBSEmu.Btrieve",
+  "url": "https://github.com/mbbsemu/MBBSEmu.Btrieve",
+  "desc": "Reads and recovers data from Btrieve .DAT files into SQLite",
+  "category": "File Formats",
+  "subcategory": "Databases",
   "added": "2026-10-11"
  },
  {
@@ -41835,6 +42587,14 @@
   "name": "unraveling_sql_server_bak",
   "url": "https://github.com/klandermans/unraveling_sql_server_bak",
   "desc": "Research and tooling for reading SQL Server .bak backup files without SQL Server",
+  "category": "File Formats",
+  "subcategory": "Databases",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wbtrv32",
+  "url": "https://github.com/mbbsemu/wbtrv32",
+  "desc": "Drop-in Btrieve v5/v6 driver replacement that stores data in SQLite",
   "category": "File Formats",
   "subcategory": "Databases",
   "added": "2026-10-11"
@@ -42069,6 +42829,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "boko",
+  "url": "https://github.com/zacharydenton/boko",
+  "desc": "Rust converter from EPUB to Kindle KFX, AZW3 and MOBI",
+  "category": "File Formats",
+  "subcategory": "E-books",
+  "added": "2026-10-11"
+ },
+ {
   "name": "calibre",
   "url": "https://github.com/kovidgoyal/calibre",
   "desc": "E-book manager with readers for many proprietary formats (MOBI, LIT, LRF, PDB, KFX via plugin)",
@@ -42090,9 +42858,33 @@
   "added": "2026-10-11"
  },
  {
+  "name": "fb2cng",
+  "url": "https://github.com/rupor-github/fb2cng",
+  "desc": "FB2 converter to EPUB, KEPUB and Kindle AZW8/KFX formats",
+  "category": "File Formats",
+  "subcategory": "E-books",
+  "added": "2026-10-11"
+ },
+ {
   "name": "kepubify",
   "url": "https://github.com/pgaskin/kepubify",
   "desc": "Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion",
+  "category": "File Formats",
+  "subcategory": "E-books",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "KFX Input (mirror)",
+  "url": "https://github.com/kluyg/calibre-kfx-input",
+  "desc": "Mirror of jhowell's calibre plugin that converts DRM-free Kindle KFX books to EPUB",
+  "category": "File Formats",
+  "subcategory": "E-books",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "KFX Output (mirror)",
+  "url": "https://github.com/dstaley/calibre-kfx-output",
+  "desc": "Mirror of jhowell's calibre plugin that writes Kindle KFX books",
   "category": "File Formats",
   "subcategory": "E-books",
   "added": "2026-10-11"
@@ -42718,6 +43510,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "NbuExplorer",
+  "url": "https://github.com/jdsn/nbuexplorer",
+  "desc": "Extracts Nokia NBU, NFB, NFC and ARC phone backup files",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "nokia-nbu-tools",
+  "url": "https://github.com/thouters/nokia-nbu-tools",
+  "desc": "Dumper for Nokia PC Suite NBU backup files",
+  "category": "File Formats",
+  "subcategory": "Filesystems & Archives",
+  "added": "2026-10-11"
+ },
+ {
   "name": "NTFS-3G",
   "url": "https://github.com/tuxera/ntfs-3g",
   "desc": "Read/write NTFS driver for Linux/macOS",
@@ -42828,6 +43636,14 @@
    "unar",
    "unarchiver"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Deark",
+  "url": "https://github.com/jsummers/deark",
+  "desc": "Extracts and decodes hundreds of legacy file, archive and image formats",
+  "category": "File Formats",
+  "subcategory": "Format Description Tools",
   "added": "2026-10-11"
  },
  {
@@ -43541,6 +44357,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "garmin-img",
+  "url": "https://github.com/TomasHubelbauer/garmin-img",
+  "desc": "JavaScript parser and renderer for Garmin IMG maps",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "GDAL",
   "url": "https://github.com/OSGeo/gdal",
   "desc": "Geospatial format library including the reverse-engineered OpenFileGDB and MapInfo drivers",
@@ -43557,6 +44381,14 @@
    "vector",
    "remote-sensing"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "gimgtools",
+  "url": "https://github.com/wuyongzheng/gimgtools",
+  "desc": "Tools to inspect, split, merge and unlock-free extract Garmin IMG map files",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
   "added": "2026-10-11"
  },
  {
@@ -43605,6 +44437,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "imgdecode-mb",
+  "url": "https://github.com/burto/imgdecode-mb",
+  "desc": "Decoder for Garmin IMG map files, derived from imgdecode",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
   "name": "jnxutil",
   "url": "https://github.com/apr2504/jnxutil",
   "desc": "Linux utility for manipulating Garmin JNX raster map files",
@@ -43632,6 +44472,14 @@
   "name": "python-sllib",
   "url": "https://github.com/opensounder/python-sllib",
   "desc": "Python library for reading Lowrance SL2, SL3 and SLG sonar logs",
+  "category": "File Formats",
+  "subcategory": "Maps & GIS",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "QMapShack",
+  "url": "https://github.com/Maproom/qmapshack",
+  "desc": "GIS and trip-planning app that renders Garmin IMG vector maps and reads many GPS formats",
   "category": "File Formats",
   "subcategory": "Maps & GIS",
   "added": "2026-10-11"
@@ -44310,6 +45158,22 @@
   "topics": [
    "stacksmith"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Tika-JTD",
+  "url": "https://github.com/KHiyowa/Tika-JTD",
+  "desc": "Apache Tika parser that extracts text from Ichitaro (.jtd/.jtt) documents",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wsconvert",
+  "url": "https://github.com/kbarni/wsconvert",
+  "desc": "Converts WordStar documents to Markdown",
+  "category": "File Formats",
+  "subcategory": "Office & Documents",
   "added": "2026-10-11"
  },
  {
@@ -46106,6 +46970,14 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wdmc2-kernel",
+  "url": "https://github.com/Heisath/wdmc2-kernel",
+  "desc": "Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "added": "2026-10-11"
+ },
+ {
   "name": "wz_mini_hacks",
   "url": "https://github.com/gtxaspec/wz_mini_hacks",
   "desc": "Wyze v3/Pan v2 camera firmware modifications adding RTSP and root access",
@@ -47394,6 +48266,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PrimeComm",
+  "url": "https://github.com/eried/PrimeComm",
+  "desc": "HP Prime calculator communication library, GUI and CLI",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "prinux",
+  "url": "https://github.com/zephray/prinux",
+  "desc": "Tools and scripts for running Linux on the HP Prime calculator",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
   "name": "pw",
   "url": "https://github.com/lumirth/pw",
   "desc": "Human-readable matching decompilation of the Pokewalker firmware",
@@ -47405,6 +48293,14 @@
   "name": "reverse-pokewalker",
   "url": "https://github.com/mamba2410/reverse-pokewalker",
   "desc": "Research into reverse engineering the Pokewalker from HeartGold/SoulSilver",
+  "category": "Firmware & Embedded",
+  "subcategory": "Retro Handhelds & Calculators",
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ripem",
+  "url": "https://github.com/boricj/ripem",
+  "desc": "Native programming on the HP Prime G1 via reverse engineering",
   "category": "Firmware & Embedded",
   "subcategory": "Retro Handhelds & Calculators",
   "added": "2026-10-11"
@@ -47834,6 +48730,14 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "home-assistant_ugreen-nas",
+  "url": "https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas",
+  "desc": "Home Assistant integration for UGREEN NAS devices via their web API",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
   "added": "2026-10-11"
  },
  {

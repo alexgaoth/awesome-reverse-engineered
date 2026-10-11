@@ -1,11 +1,11 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 67 projects
+[← All categories](../README.md) · 71 projects
 
-- [Applications](#applications) (21)
+- [Applications](#applications) (22)
 - [Binary Translators](#binary-translators) (7)
-- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (6)
-- [OS & Compatibility Layers](#os--compatibility-layers) (33)
+- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (7)
+- [OS & Compatibility Layers](#os--compatibility-layers) (35)
 
 ## Applications
 
@@ -31,6 +31,7 @@
 | libfreehand | Import library for Aldus/Macromedia FreeHand documents | 8 | <https://github.com/LibreOffice/libfreehand> |
 | HCX | macOS app that opens and runs classic HyperCard stacks |  | <https://github.com/pgostation/HCX> |
 | ViperCard | Open-source browser rewrite of HyperCard and HyperTalk |  | <https://github.com/moltenform/vipercard> |
+| WordTsar | Open-source clone of the WordStar word processor that edits WordStar files |  | <https://github.com/sleaze/WordTsar> |
 | WyldCard | Java clone of Apple's HyperCard and the HyperTalk language |  | <https://github.com/defano/wyldcard> |
 
 ## Binary Translators
@@ -54,6 +55,7 @@
 | Moonlight *(archived)* | Mono's open-source Silverlight implementation for Linux | 164 | <https://github.com/mono/moon> |
 | AwayFL Player | Flash SWF player for the web built on the Away3D/AwayJS stack | 52 | <https://github.com/awayfl/awayfl-player> |
 | D4Player | Player for Macromedia Director 4 movie files |  | <https://github.com/renaldobf/D4Player> |
+| Gnash | GNU Flash movie player that reimplements the Adobe Flash Player (SWF up to v9) |  | <https://savannah.gnu.org/projects/gnash> |
 | OpenFL | Open-source reimplementation of the Flash Player API for web, desktop and mobile |  | <https://github.com/openfl/openfl> |
 
 ## OS & Compatibility Layers
@@ -90,6 +92,8 @@
 | dmusic | Partial re-implementation of Microsoft's DirectMusic adaptive soundtrack API | 62 | <https://github.com/GothicKit/dmusic> |
 | 2ine | OS/2 compatibility layer for running OS/2 binaries on Linux | 52 | <https://github.com/icculus/2ine> |
 | re-a3d-api | Reverse-engineered C++ Aureal 3D audio API interface from 1999 | 4 | <https://github.com/oxiKKK/re-a3d-api> |
+| CP/M for OS X | Z80 emulator plus CP/M-80 BDOS reimplementation to run CP/M software on macOS |  | <https://github.com/TomHarte/CP-M-for-OS-X> |
+| MBBSEmu | Emulator that reimplements The MajorBBS/Worldgroup APIs to run its BBS modules |  | <https://github.com/mbbsemu/MBBSEmu> |
 | ndiswrapper | Loads Windows NDIS Wi-Fi drivers in the Linux kernel |  | <https://sourceforge.net/projects/ndiswrapper> |
 | vkd3d | WineHQ Direct3D 12 to Vulkan translation library |  | <https://gitlab.winehq.org/wine/vkd3d> |
 | wine-staging | Experimental patch set on top of Wine |  | <https://gitlab.winehq.org/wine/wine-staging> |
