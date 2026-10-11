@@ -10,8 +10,16 @@ Scope: interoperability, preservation and research. Exploits, jailbreaks, cheats
 
 The repo is also a Claude Code plugin with one skill, [`find-reverse-engineered`](skills/find-reverse-engineered/SKILL.md). When a task needs to talk to a closed app, device, API or file format, the agent searches this index and picks a project by stars, language, license and recent activity. It then reads the README or clones the project.
 
+**Claude Code** (plugin):
+
 ```
 /plugin install reverse-engineered --marketplace alexgaoth/awesome-reverse-engineered
+```
+
+**Claude Code, Cursor, Codex, Gemini CLI, Copilot and other agents** (with Vercel's [`skills`](https://github.com/vercel-labs/skills) CLI):
+
+```bash
+npx skills add alexgaoth/awesome-reverse-engineered
 ```
 
 Any other agent or shell can use the same search script. It has no dependencies:
