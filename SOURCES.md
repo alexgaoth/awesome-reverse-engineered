@@ -1,0 +1,1060 @@
+# Sources
+
+## Collections imported
+
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/jujumilk3/leaked-system-prompts
+- https://github.com/sayhiben/awesome-rabbit-r1
+- https://github.com/dontriskit/awesome-ai-system-prompts
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/tylerha97/awesome-reversing
+- https://github.com/ReversingID/Awesome-Reversing
+- https://github.com/nforest/awesome-decompilation
+- https://github.com/nborrmann/unofficial-apis
+- https://github.com/theabbie/unofficial-apis
+- https://github.com/VelocityRa/awesome-game-file-format-reversing
+- https://github.com/CharlotteCross1998/awesome-game-decompilations
+- https://github.com/SamidyFR/Game-Decompilations
+- https://github.com/Sebastrion/awesome-unofficial-pc-ports
+- https://github.com/darbra/awesome-ai-reverse
+- https://github.com/radareorg/awesome-radare2
+- https://github.com/user1342/Awesome-Android-Reverse-Engineering
+- https://github.com/topics/unofficial-api
+- https://github.com/topics/reverse-engineering-api
+- https://mau.fi/projects
+- https://decomp.dev/projects
+- https://github.com/SubmitGame/awesome-decomp-games
+- https://github.com/topics/decompilation
+- https://github.com/topics/server-emulator
+- https://github.com/DerekTurtleRoe/awesome-emulators
+- https://github.com/iDoka/awesome-canbus
+- https://github.com/jaredthecoder/awesome-vehicle-security
+- https://github.com/nebgnahz/awesome-iot-hacks
+- https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research
+- https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking
+- https://github.com/aolofsson/awesome-opensource-hardware
+- https://github.com/HQarroum/awesome-iot
+- https://github.com/frenck/awesome-home-assistant
+- decomp.dev project list (https://decomp.dev/projects)
+- CharlotteCross1998/awesome-game-decompilations README
+- GitHub repo descriptions, topics and READMEs
+- general knowledge of game release platforms and years
+- Hacker News (Algolia API): Show HN and story hits for 43 RE-related queries, repo-linked stories
+- r/ReverseEngineering (via red.applefritter.com mirror listing)
+- community.home-assistant.io / HACS reverse-engineered integrations (web search)
+- Simon Willison weblog: Codex reverse engineering posts
+- braindetox.kr post on pokeemerald-wasm
+- Glama/Hackaday e-bike and e-scooter RE writeups
+- https://www.techradar.com/pro/security/anthropic-confirms-it-leaked-512-000-lines-of-claude-code-source-code-spilling-some-of-its-biggest-secrets
+- https://blog.kilo.ai/p/claude-code-source-leak-a-timeline
+- https://cdn.jsdelivr.net/npm/@pi-stef/cursor@0.2.4/src/docs/protocol.md
+- https://www.hackster.io/news/going-down-a-rabbit-hole-to-jailbreak-the-r1-e58a0c483c99
+- https://blog.trailofbits.com/2024/06/14/understanding-apples-on-device-and-server-foundations-model-release/
+- https://huggingface.co/eadx/Gemini-Nano
+- https://gigazine.net/gsc_news/en/20260502-chatgpt-cloudflare/
+- https://gittrend.io/repo/dwgx/WindsurfAPI
+- https://www.sourcepulse.org/projects/19725839
+- https://www.sourcepulse.org/projects/19736391
+- https://www.yankodesign.com/2025/06/19/humane-ai-pin-gets-resurrected-thanks-to-a-new-free-open-source-platform/amp/
+- https://hackaday.com/tag/humane/
+- https://github.com/dcrebbin/meta-glasses-api
+- https://fritz.ai/reverse-engineering-core-ml/
+- https://www.assistant-ui.com/docs/guides/chatgpt-subscription
+- https://www.mintlify.com/gcui-art/suno-api/introduction
+- https://zeabur.com/templates/P2RJ2N
+- https://huggingface.co/spaces/hongshi-files/warp2api/blob/main/README.md
+- https://deepwiki.com/orangeboyChen/codebuddy2api
+- https://ossinsight.io/analyze/yeongpin/cursor-free-vip
+- https://docsearch.algolia.com/mcp/docs/repo/gzzhongqi/geminicli2api
+- https://www.sourcepulse.org/projects/20411099
+- https://GitHub.com/mohamed-chs/chatgpt-history-export-to-md
+- https://docs.openclaw.ai/providers/claude-max-api-proxy
+- https://www.sourcepulse.org/projects/31794523
+- https://www.sourcepulse.org/projects/1832721
+- https://mcpservers.org/ru/servers/ffroliva/gflow-cli
+- https://github.com/zlexdev/claude-webapi
+- https://github.com/otterpwn/cppRecall
+- https://www.computerworld.com/article/4159649/microsofts-windows-recall-still-allows-silent-data-extraction-2.html
+- https://arxiv.org/pdf/2002.07687
+- https://gittrend.io/repo/lza6/doubao-2api
+- https://web.navan.dev/posts/2026-02-24-peeking-into-claude-code.html
+- https://www.sourcepulse.org/projects/27224728
+- https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/
+- https://www.sourcepulse.org/projects/1838577
+- GitHub search API (gh search repos), 171 queries
+- https://docs.mesa3d.org
+- https://arxiv.org/html/2403.05286v3
+- https://github.com/mrexodia/ida-pro-mcp
+- https://github.com/3v1n0/python-validity
+- https://wireless.docs.kernel.org/en/latest/en/users/firmware/openfirmware.html
+- https://libreboot.org/docs/maintain/porting.html
+- https://rust-for-linux.com/apple-agx-gpu-driver
+- https://asahilinux.org/docs/
+- https://git.axiodl.com/encounter/decomp-toolkit
+- https://github.com/matt-kempster/m2c/wiki
+- https://community.frame.work/t/fan-speed-controller-with-custom-speed-curve/17208
+- https://ane-guide.readthedocs.io/
+- https://www.phoronix.com/news/Apple-Mac-Speaker-Headset-Linux
+- https://archive.fosdem.org/2013/schedule/event/give_me_my_drawing_back/
+- GitHub API (gh api repos/...) for existence and canonical names
+- https://github.com/SocialSisterYi/bilibili-API-collect
+- https://github.com/topics/kakaotalk
+- GitHub search API
+- https://github.com (repo pages verified via gh api and HTTP)
+- https://github.com/PretendoNetwork
+- https://github.com/PrismarineJS
+- https://github.com/HearthSim
+- https://github.com/SteamTracking
+- https://github.com/DoctorMcKay
+- GitHub search API (gh search repos)
+- GitHub GraphQL repository lookups
+- gitlab.com/openconnect
+- https://github.com/opengaming/osgameclones (games/*.yaml; type remake/tool with commercial content, plus disassemblies)
+- https://github.com/radek-sprta/awesome-game-remakes
+- https://github.com/mendel5/alternative-front-ends
+- https://github.com/libredirect/browser_extension (src/config.json frontends list)
+- https://github.com/pluja/awesome-privacy
+- https://github.com/digitalblossom/alternative-frontends
+- https://github.com/Myzel394/awesome-alternative-frontends
+- https://matrix.org/ecosystem/bridges/ (github.com/matrix-org/matrix.org content/ecosystem/bridges/*/bridges.toml)
+- https://pidgin.im/plugins/?type=Protocol
+- https://github.com/fishiatee/awesome-privateserver
+- https://github.com/arlyon/awesome-wow-rust
+- https://github.com/BlueInterlude/awesome-recompilations
+- https://github.com/abduznik/awesome-x360-recomps
+- https://github.com/hack-different/apple-knowledge
+- https://github.com/linjinkang/Third-Party-Clients
+- https://github.com/unosmm/awesome-unofficial-api
+- https://github.com/patricklarose/awesome-game-revivals
+- https://github.com/djsime1/awesome-flipperzero (reviewed; nearly all non-interop, 0 imported)
+- https://github.com/vkvbit/awesome-sdr
+- https://github.com/jryans/awesome-matrix (reviewed; 0 imported)
+- https://github.com/bobeff/open-source-games (reviewed; overlaps osgameclones, 0 imported)
+- https://github.com/topics/reverse-engineered
+- https://github.com/topics/unofficial-client
+- https://github.com/topics/clean-room
+- https://github.com/topics/cloud-free
+- https://github.com/topics/local-api
+- https://github.com/topics/recompilation
+- https://github.com/topics/reimplementation
+- https://github.com/topics/static-recompilation
+- https://github.com/topics/alternative-frontend
+- https://github.com/search
+- https://github.com/topics/vinted-api
+- https://pypi.org/project/vinted-api-wrapper/
+- https://github.com/kovacskokokornel/wizzair-scraper
+- https://github.com/topics/trenitalia
+- https://mcpservers.org/servers/arioliv/ifood-mcp
+- https://www.github.com/n0shake/dash
+- https://pypi.org/project/flywizz/
+- GitHub repository search (gh CLI REST + GraphQL)
+- GitHub GraphQL repository lookups for verification
+
+## Searches run
+
+- github system-prompts-and-models-of-ai-tools leaked system prompts
+- github reverse engineered Claude Code source deobfuscated
+- github copilot-api reverse engineered proxy OpenAI compatible
+- github Gemini-API HanaokaYuzu reverse engineered Gemini web
+- github unofficial Suno API reverse engineered
+- github reverse engineered ChatGPT API revChatGPT gpt4free
+- awesome list unofficial AI APIs reverse engineered web to api github
+- github LLM-Red-Team free-api kimi deepseek qwen reverse
+- github Rabbit R1 reverse engineering rabbitude
+- github cursor reverse engineered API protocol proxy
+- github notebooklm unofficial API python reverse engineered
+- github Claude.ai unofficial API python reverse engineered claude-api
+- github Perplexity AI unofficial API reverse engineered python
+- github Midjourney unofficial API discord reverse engineered
+- github Character.AI unofficial API PyCharacterAI node_characterai
+- github Grok unofficial API reverse engineered grok web
+- github asgeirtj system_prompts_leaks CL4R1T4S elder-plinius
+- github "rabbitude" rabbit r1 reverse engineering project
+- github Apple Intelligence reverse engineered prompts extracted macOS Sequoia
+- github Copilot internals reverse engineering thakkarparth007 copilot-explorer
+- github deepseek4free reverse engineered DeepSeek chat API
+- github Windsurf Codeium language server reverse engineered protocol proxy
+- github Kiro reverse engineered API proxy kiro2api claude
+- github acheong08 ChatGPT-to-API pengzhile pandora reverse ChatGPT web
+- github ChatGPT_DAN jailbreak prompts collection 0xk1h0
+- github Bing Chat EdgeGPT reverse engineered acheong08 Sydney
+- github GGUF safetensors pickle model format reverse engineering ollama registry
+- github LLM-Red-Team kimi-free-api qwen-free-api glm-free-api
+- github ChatGPT desktop app reverse engineering OpenAI Codex CLI auth proxy chatgpt subscription
+- Hacker News Claude Code source map leak npm github mirror instructkr claw-code
+- GitHub API repo search (gh): reverse engineered chatgpt / claude / gemini; bard api; perplexity api unofficial; poe api wrapper; characterai unofficial; suno api; udio api; midjourney api; copilot api proxy; copilot reverse engineered; cursor reverse engineered; cursor api; windsurf reverse; codeium api; claude code reverse; claude code sourcemap; claude code source; leaked system prompts; system prompts ai tools; grok api; deepseek free api; kimi free api; qwen free api; notebooklm api; rabbit r1; apple intelligence; kiro api; chatgpt to api; bing chat reverse; EdgeGPT; huggingchat api; gpt4free; chatgpt unofficial api; chatgpt jailbreak; gguf; humane ai pin; doubao free api; glm free api; metaai api; sora api reverse; copilot2api; gemini web api
+- awesome-reverse-engineering github list
+- awesome-decompilation github
+- awesome unofficial APIs github list reverse engineered
+- "Show HN" "I reverse engineered" API github
+- awesome game decompilations reimplementations list github
+- awesome-game-file-format-reversing github
+- awesome list reverse engineered protocols proprietary github
+- reddit ReverseEngineering "reverse engineered" protocol open source client 2025
+- "I reverse engineered" API 2025 github open source client twitter
+- awesome-unofficial-pc-ports github list
+- Wireshark dissector reverse engineered proprietary protocol github plugin
+- Synology reverse engineered encryption format open source decrypt github
+- Show HN reverse engineered protocol open source implementation 2025 2026
+- Zoom protocol reverse engineered open source client github
+- github topic reverse-engineering most starred unofficial client
+- Microsoft Teams reverse engineered API open source client github
+- "reverse engineered" file format parser github Microsoft OneNote OR Visio OR Publisher library
+- "reverse-engineered" Apple protocol open source implementation github iMessage AirDrop FaceTime
+- gh search repos: awesome reverse engineering (sorted by stars)
+- gh search repos: awesome decompilation / awesome unofficial api / awesome protocol reverse
+- awesome unofficial APIs list github reverse engineered
+- github WhatsApp web unofficial library Baileys whatsmeow whatsapp-web.js
+- github awesome-whatsapp list of unofficial WhatsApp libraries
+- iMessage reverse engineered github pypush BlueBubbles Android
+- Twitter X unofficial API scraper github twikit twscrape
+- TikTok unofficial API github signature X-Bogus reverse
+- Spotify reverse engineered client github librespot spotifyd
+- YouTube innertube unofficial client github YouTube.js NewPipeExtractor
+- mautrix bridges github whatsapp signal telegram meta gmessages
+- discord self-bot library github discord.py-self unofficial user api docs
+- Instagram private API python library instagrapi github
+- unofficial Robinhood API python robin_stocks github reverse engineered banking app
+- github unofficial Google Keep API gkeepapi gpsoauth Google Photos unofficial
+- github unofficial LINE KakaoTalk WeChat protocol client library reverse engineered
+- github unofficial API Hinge Bumble Grindr reverse engineered client
+- github unofficial Snapchat API client reverse engineered python
+- github unofficial Microsoft Teams Slack client reverse engineered purple-teams slack internal API
+- github unofficial Tidal Deezer Apple Music SoundCloud API python library
+- GitHub API search: topic:unofficial-api
+- GitHub API search: topic:reverse-engineered-api
+- GitHub API search: topic:private-api
+- GitHub API search: linkedin-api in:name
+- GitHub API search: purple-facebook in:name
+- GitHub API search: bumble api in:name,description
+- GitHub API search: hinge api in:name,description
+- GitHub API search: okcupid api in:name
+- GitHub API search: venmo api in:name
+- GitHub API search: snapchat api in:name,description
+- GitHub API search: kakaotalk in:name
+- GitHub API search: line messenger unofficial
+- GitHub API search: tinder api in:name
+- GitHub API search: bereal api in:name
+- GitHub API search: awesome unofficial apis
+- GitHub API search: teams unofficial client
+- GitHub API search: whatsapp-rust in:name
+- GitHub API search: neonize in:name
+- GitHub API search: glassdoor api in:name
+- GitHub API search: monzo api in:name
+- GitHub API search: uber unofficial api
+- GitHub API search: duolingo api in:name
+- GitHub API search: lyft api unofficial
+- GitHub API search: n26 in:name api
+- GitHub API search: trading212 api in:name
+- GitHub API search: amazon alexa unofficial api
+- GitHub API search: google messages protocol libgm
+- GitHub API search: apple music api unofficial
+- GitHub API search: deezer unofficial api
+- GitHub API search: imessage protocol rust
+- GitHub API search: zillow api in:name
+- GitHub API search: strava unofficial api
+- GitHub API search: spotify private api
+- awesome-decompilation github list game decompilation projects
+- decomp.dev projects list matching decompilation progress
+- Wikipedia list of game engine recreations
+- N64Recomp static recompilation projects github Zelda64Recomp
+- XenonRecomp UnleashedRecomp github Xbox 360 static recompilation
+- rexglue Xbox 360 recompilation github
+- github n64 recomp ports list Starfox64Recomp MarioKart64Recomp Banjo recomp
+- OpenRCT2 OpenTTD OpenMW OpenRA OpenLoco github open source reimplementation
+- TrinityCore CMaNGOS AzerothCore rAthena github private server emulator
+- github devilutionX fheroes2 OpenXcom CorsixTH Julius Augustus open source engine
+- github.com Dolphin PCSX2 RPCS3 xenia Cemu Vita3K shadPS4 Ryujinx emulator repositories
+- dolphin-emu dolphin GameCube Wii emulator github
+- xenia Xbox 360 emulator Cemu Wii U Vita3K shadPS4 repository
+- OpenTTD OpenMW OpenRA OpenXcom openage repository
+- ScummVM ResidualVM OpenJK ioquake3 OpenSAGE OpenTomb repository
+- rAthena Ragnarok Online server emulator Hercules 2009scape RuneScape private server
+- re3 reVC GTA III Vice City reverse engineered archived repository
+- OpenTTD OpenMW OpenXcom CorsixTH fheroes2 official repository
+- OpenJK ioquake3 OpenSAGE OpenTomb freeablo OpenLara repository
+- cemu-project Cemu Vita3K shadps4-emu PCSX2 RPCS3 Ryubing ryujinx
+- cmangos mangos azerothcore-wotlk TrinityCore World of Warcraft server emulator
+- devilutionX diasurgical OpenRCT2 OpenLoco open-goal jak-project Shipwright
+- game server emulator reverse engineered MMO private server open source github (LandSandBoat, ServUO, EQEmu)
+- OpenXcom CorsixTH Cemu Vita3K github repository
+- ioquake3 OpenJK OpenSAGE freeablo github
+- cmangos mangos-classic EQEmu Server ServUO ModernUO github
+- awesome-iot-hacking github
+- awesome-car-hacking github list
+- tinytuya localtuya github reverse engineered Tuya local protocol
+- OpenBambuAPI github Bambu Lab printer protocol reverse engineering
+- LibrePods AirPods reverse engineered github
+- github unofficial API python Hyundai Kia bluelinky VW carconnectivity
+- github reverse engineered BLE protocol Govee SwitchBot python library
+- openpilot opendbc github CAN DBC reverse engineered
+- ScooterHacking Ninebot firmware github custom firmware scooter
+- Whoop Oura unofficial API reverse engineered github
+- OpenIPC firmware IP camera github alternative open firmware
+- FindMy.py OpenHaystack github AirTag reverse engineering
+- github xiaomi ninebot scooter custom firmware patcher BLE protocol repository
+- github Sony WH-1000XM headphones reverse engineered protocol Linux client
+- github Whoop strap BLE protocol reverse engineering open source
+- Meta Quest Oculus reverse engineering github open driver OpenHMD
+- github Bose headphones Linux based-connect reverse engineered
+- github Samsung Galaxy Buds Linux client reverse engineered GalaxyBudsClient
+- GET https://decomp.dev/projects.json (decomp.dev project list with platform per repo; /api/projects returns 404)
+- gh api graphql: repository(owner,name){description repositoryTopics} for all 474 GitHub entries
+- gh api repos/OWNER/REPO/readme and git/trees for ~45 ambiguous repos
+- https://codeberg.org/chickenzes/smt-decomp README
+- https://raw.githubusercontent.com/CharlotteCross1998/awesome-game-decompilations/main/README.md
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse%20engineered&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineering&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineering&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse%20engineering&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20API&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20API&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=unofficial%20API&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineered%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineered%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse-engineered%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decompiled&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decompiled&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=decompiled&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=I%20reverse%20engineered&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=I%20reverse%20engineered&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=I%20reverse%20engineered&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open%20source%20client%20for&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open%20source%20client%20for&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=open%20source%20client%20for&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered%20API&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered%20API&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse%20engineered%20API&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20client&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20client&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=unofficial%20client&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decompilation&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decompilation&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=decompilation&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reimplementation&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reimplementation&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reimplementation&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered%20the&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineered%20the&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse%20engineered%20the&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineered&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineered&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse-engineered&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open%20source%20reimplementation&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open%20source%20reimplementation&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=open%20source%20reimplementation&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20SDK&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20SDK&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=unofficial%20SDK&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=protocol%20reverse&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=protocol%20reverse&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=protocol%20reverse&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=custom%20firmware&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=custom%20firmware&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=custom%20firmware&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=jailbreak&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=jailbreak&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=jailbreak&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=private%20API&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=private%20API&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=private%20API&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=undocumented%20API&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=undocumented%20API&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=undocumented%20API&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open-source%20alternative%20app&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=open-source%20alternative%20app&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=open-source%20alternative%20app&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20python&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20python&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=unofficial%20python&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=without%20the%20app&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=without%20the%20app&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=without%20the%20app&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=sniffed&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=sniffed&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=sniffed&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=mitmproxy&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=mitmproxy&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=mitmproxy&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineer&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse%20engineer&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse%20engineer&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineer&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=reverse-engineer&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse-engineer&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=Bluetooth%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=Bluetooth%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=Bluetooth%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=BLE%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=BLE%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=BLE%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=home%20assistant%20integration&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=home%20assistant%20integration&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=home%20assistant%20integration&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=local%20API&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=local%20API&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=local%20API&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=cloud-free&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=cloud-free&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=cloud-free&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=recompiled&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=recompiled&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=recompiled&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decomp&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=decomp&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=decomp&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=static%20recompilation&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=static%20recompilation&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=static%20recompilation&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=native%20port&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=native%20port&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=native%20port&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=wire%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=wire%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=wire%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=proprietary%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=proprietary%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=proprietary%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20app&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=unofficial%20app&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=unofficial%20app&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=third-party%20client&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=third-party%20client&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=third-party%20client&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=private%20API%20client&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=private%20API%20client&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=private%20API%20client&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=app%20API%20python&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=app%20API%20python&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=app%20API%20python&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- https://hn.algolia.com/api/v1/search?query=undocumented%20protocol&tags=show_hn&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search?query=undocumented%20protocol&tags=story&hitsPerPage=100&page=0..4
+- https://hn.algolia.com/api/v1/search_by_date?query=undocumented%20protocol&tags=story&hitsPerPage=100&numericFilters=created_at_i>1704067200&page=0..4
+- WebSearch: reddit r/ReverseEngineering "I reverse engineered" github 2025
+- WebSearch: reddit r/selfhosted "reverse engineered" API github cloud-free
+- WebSearch: reddit r/homeassistant "reverse engineered" API integration github local control 2025
+- WebSearch: reddit r/programming "I reverse-engineered" protocol open source 2025
+- WebSearch: x.com "I reverse engineered" github open source 2026
+- WebSearch: "reverse engineered" Bluetooth protocol github "without the app" 2025 reddit
+- WebSearch: reddit "I reverse engineered" app API python library github 2026
+- WebSearch: "reverse-engineered" smart device local API github homeassistant HACS custom integration cloud
+- WebSearch: twitter "reverse engineered" Claude Code OR Cursor OR Codex github repo 2025
+- WebSearch: r/ReverseEngineering decompilation project github 2026 static recompilation released
+- WebSearch: github "reverse engineered" API unofficial client Show HN 2026
+- WebSearch: Pokemon Emerald WebAssembly recompilation decompiled github 2026
+- WebSearch: "reverse engineered" e-bike OR scooter OR car app API github reddit 2025 open source
+- WebSearch: reddit "reverse engineered" "github.com" printer OR thermostat OR camera protocol 2025
+- gh: claude code source map
+- gh: claude-code deobfuscated
+- gh: claude code reverse engineering
+- gh: claude code system prompt
+- gh: claude-code-router
+- gh: claude code proxy openai
+- gh: claude code leaked source
+- gh: codex cli reverse
+- gh: gemini cli proxy
+- gh: gemini-cli openai api
+- gh: cursor api proxy
+- gh: cursor-api
+- gh: cursor protobuf
+- gh: cursor reverse engineering
+- gh: cursor free trial reset
+- gh: cursor machine id reset
+- gh: cursor vip
+- gh: windsurf reverse
+- gh: windsurf api proxy
+- gh: codeium proxy
+- gh: kiro reverse
+- gh: kiro2api
+- gh: kiro api proxy
+- gh: trae reverse
+- gh: trae api
+- gh: augment reverse
+- gh: augment code proxy
+- gh: copilot-api
+- gh: copilot proxy openai
+- gh: copilot-gpt4-service
+- gh: github copilot reverse engineering
+- gh: warp terminal reverse
+- gh: amazon q proxy
+- gh: qoder reverse
+- gh: jetbrains ai proxy
+- gh: chat2api
+- gh: chatgpt-to-api
+- gh: pandoranext
+- gh: chatgpt web api reverse
+- gh: claude2api
+- gh: claude.ai unofficial api
+- gh: gemini-webapi
+- gh: gemini web reverse
+- gh: grok2api
+- gh: grok reverse api
+- gh: perplexity api unofficial
+- gh: deepseek free api
+- gh: deepseek web api reverse
+- gh: kimi free api
+- gh: qwen free api
+- gh: glm free api
+- gh: doubao free api
+- gh: metaso free api
+- gh: minimax free api
+- gh: you.com api reverse
+- gh: poe-api-wrapper
+- gh: huggingchat api
+- gh: EdgeGPT
+- gh: sydney.py bing
+- gh: meta-ai-api
+- gh: notebooklm api
+- gh: notebooklm-py
+- gh: suno-api
+- gh: suno ai unofficial
+- gh: udio api
+- gh: midjourney-proxy
+- gh: midjourney api unofficial
+- gh: ideogram api
+- gh: runway api reverse
+- gh: kling api reverse
+- gh: sora api reverse
+- gh: elevenlabs reverse
+- gh: capcut api
+- gh: rabbit r1 reverse
+- gh: rabbitude
+- gh: humane ai pin
+- gh: meta ray-ban reverse
+- gh: friend pendant
+- gh: limitless pendant reverse
+- gh: plaud reverse
+- gh: apple intelligence model extract
+- gh: gemini nano extract
+- gh: totalrecall recall
+- gh: copilot recall windows
+- gh: extract tflite model apk
+- gh: coreml model extract
+- gh: openai realtime reverse
+- gh: chatgpt sentinel
+- gh: arkose funcaptcha solver
+- gh: chatgpt proof of work
+- gh: chatgpt export parser
+- gh: claude export conversations
+- gh: tiktoken reverse
+- gh: gpt4free
+- gh: openai-sentinel
+- gh: ChatGPT unofficial api python
+- gh: bard api unofficial
+- gh: copilot microsoft reverse api
+- gh: deepseek2api
+- gh: qwen2api
+- gh: zed ai proxy
+- gh: devin reverse
+- gh: anthropic oauth proxy claude max
+- gh: claude code subscription api proxy
+- gh: gemini cli oauth proxy
+- gh: codex oauth proxy chatgpt
+- gh: antigravity proxy
+- gh: cursor rules extract
+- gh: v0 system prompt
+- gh: lovable reverse
+- gh: claude code deobfuscate cli.js
+- gh: claude code prompts extracted tools
+- gh: openai codex proxy responses api
+- gh: cursor token refresh account
+- gh: windsurf free
+- gh: augment2api
+- gh: copilot2api
+- gh: chatgpt cloudflare bypass free api
+- gh: gemini2api
+- gh: gemini web cookie api
+- gh: claude web api python
+- gh: perplexity2api
+- gh: LLM-Red-Team
+- gh: deepseek web free api
+- gh: kimi2api
+- gh: qwen web api reverse
+- gh: doubao web api reverse
+- gh: spark free api
+- gh: step free api
+- gh: hailuo free api
+- gh: emohaa free api
+- gh: jimeng free api
+- gh: jimeng api reverse
+- gh: dreamina api
+- gh: suno2openai
+- gh: midjourney discord api
+- gh: sora2api
+- gh: kling free api
+- gh: runway gen api unofficial
+- gh: pika api unofficial
+- gh: notebooklm reverse
+- gh: google flow veo api reverse
+- gh: gemini image generation reverse cookie
+- gh: bing image creator api
+- gh: copilot designer api
+- gh: meta ai unofficial
+- gh: poe reverse api
+- gh: character.ai unofficial api
+- gh: characterai python
+- gh: pi.ai api reverse
+- gh: claude conversations exporter
+- gh: chatgpt history export
+- gh: r1 rabbit os jailbreak
+- gh: rabbit r1 apk
+- gh: meta glasses api
+- gh: humane pin reverse
+- gh: windows recall extract
+- gh: apple foundation model extract
+- gh: mlmodelc decrypt
+- gh: tflite extract android
+- gh: whisper app model extract
+- gh: deepseek free api openai compatible
+- gh: minimax hailuo reverse
+- gh: zai glm web api
+- gh: copilot reverse api python
+- gh: cursor reverse proto
+- gh: claude code reverse
+- gh: grok web api reverse python
+- gh: qwen chat reverse api
+- gh: ai pin humane
+- web: Claude Code source map leak github deobfuscated source 2026
+- web: cursor protocol reverse engineered protobuf github cursor2api
+- web: LLM-Red-Team free-api github kimi qwen glm
+- web: rabbit r1 reverse engineering github rabbitude jailbreak
+- web: Apple Intelligence on-device model weights extracted github
+- web: Gemini Nano model extraction Chrome weights github
+- web: Meta Ray-Ban glasses reverse engineering github protocol
+- web: Limitless pendant OR Plaud NotePin OR Bee pendant reverse engineered bluetooth github
+- web: ChatGPT sentinel proof of work turnstile reverse github openai-sentinel
+- web: Windsurf Codeium language server protocol reverse engineered github proxy
+- web: github ChatGPT web to API reverse proxy 2025 chatgpt2api free access token
+- web: Copilot+ Recall TotalRecall extract database github xaitax
+- web: Kiro IDE reverse engineered API OpenAI compatible github kiro2api
+- web: jimeng free api github reverse dreamina image video
+- web: Humane AI pin reverse engineering github penumbra jailbreak
+- web: PenumbraOS github humane pin
+- web: Meta AI glasses unofficial API github meta vision api
+- web: extract CoreML TFLite models from iOS Android apps github tool
+- web: OpenAI Codex CLI ChatGPT subscription OAuth proxy OpenAI compatible github
+- web: Suno API unofficial github reverse engineered gcui-art OR suno2api
+- web: Grok web reverse engineered API github grok2api python cookie
+- web: Augment Code reverse proxy OpenAI github augment2api
+- web: Warp terminal AI reverse engineered proxy github warp2api
+- web: Qoder OR CodeBuddy OR Trae reverse engineered API proxy github 2api
+- web: cursor machine id reset tool github too many free trial
+- web: Gemini CLI OAuth to OpenAI compatible API proxy github geminicli2api
+- web: Antigravity reverse proxy OpenAI compatible github antigravity2api
+- web: ChatGPT conversations.json export parser github
+- web: kimi-free-api fork github after LLM-Red-Team deleted
+- web: Claude Code subscription OAuth to Anthropic API proxy github claude max
+- web: Copilot Microsoft web reverse engineered API github sydney
+- web: Perplexity web reverse engineered API github perplexity2api
+- web: Google Flow Veo OR ImageFX OR Whisk reverse engineered API github
+- web: Udio OR Kling OR Hailuo unofficial API github
+- web: github reverse engineered Claude.ai web API Python claude-webapi
+- web: Windows Recall database decrypt github tool ukg.db
+- web: on-device ML model extraction Android apps ModelXRay tflite
+- web: Doubao web reverse API github doubao2api
+- web: free-api reverse Chinese LLM fork xiaoY233
+- web: poe OR you.com reverse engineered API github
+- web: Bee/Friend/Omi pendant reverse engineer BLE github
+- web: Meta AI web unofficial API github meta.ai python
+- web: Claude Code npm cli.js deobfuscate tool schemas extracted
+- web: ChatGPT desktop app reverse engineering backend-api codex
+- WebSearch: reverse engineered open source GPU driver Mesa panfrost lima nouveau NVK
+- WebSearch: tinygrad Apple Neural Engine reverse engineered driver ANE github
+- WebSearch: python-validity libfprint reverse engineered fingerprint reader driver github
+- WebSearch: foo2zjs reverse engineered printer driver open source host-based printer
+- WebSearch: framework-system EC tool laptop embedded controller open source fan control github
+- WebSearch: FEX-Emu box64 x86 emulator ARM64 Linux github
+- WebSearch: objdiff decomp-toolkit splat m2c decomp-permuter matching decompilation tools
+- WebSearch: LLM4Decompile GhidraMCP ida-pro-mcp LLM decompilation tools github
+- WebSearch: coreboot Libreboot board port reverse engineered vendor firmware tools me_cleaner ifdtool
+- WebSearch: ThinkPad open source tools Linux thinkfan tpacpi-bat zcfan embedded controller
+- WebSearch: SANE backend reverse engineered scanner protocol open source driver github
+- WebSearch: Wi-Fi driver reverse engineered open firmware b43 openfwwf ath9k_htc
+- WebSearch: Detect-It-Easy RetDec REDasm revng open source decompiler github
+- WebSearch: Asahi Linux reverse engineering tools m1n1 hypervisor AGX documentation repositories
+- WebSearch: open source reimplementation reverse engineered file format AutoCAD Visio Publisher library
+- WebSearch: ddcutil monitor control DDC/CI open source tools Linux macOS
+- WebSearch: Unity IL2CPP Cpp2IL Il2CppInspector AssetRipper .NET decompiler open source tools
+- WebSearch: Apple Silicon reverse engineered driver Linux ISP camera DCP display audio speakersafetyd
+- gh search repos: asahilinux
+- gh search repos: ghidra mcp
+- gh search repos: topic:decompilation
+- gh search repos: topic:matching-decompilation
+- gh search repos: topic:libfprint
+- gh search repos: topic:sane-backend
+- gh search repos: topic:coreboot
+- gh search repos: topic:embedded-controller
+- gh search repos: binary ninja mcp
+- gh search repos: jadx mcp
+- gh search repos: topic:il2cpp
+- gh search repos: topic:reverse-engineering topic:driver
+- gh search repos: topic:frida
+- gh search repos: tpacpi-bat / winevdm / REDasm / boomerang decompiler / ipasim
+- WebSearch: awesome reverse engineering android apps github list
+- WebSearch: github unofficial API collection Chinese apps
+- WebSearch: NapCatQQ LLOneBot Lagrange.Core OpenShamrock NTQQ protocol
+- WebSearch: unofficial bank API reverse engineered app github
+- WebSearch: MediaCrawler alternatives
+- WebSearch: Kuaishou API reverse engineered sig3
+- WebSearch: KakaoTalk LOCO protocol client
+- WebSearch: N26 Revolut Monzo unofficial API
+- WebSearch: Lime Bird scooter app API reverse engineered
+- WebSearch: Duolingo unofficial API
+- WebSearch: Niconico unofficial API client
+- WebSearch: Snapchat SnapEnhance
+- WebSearch: LINE messenger Thrift protocol reverse engineered
+- WebSearch: Strava private API
+- WebSearch: Peloton unofficial API
+- WebSearch: Scalable Capital unofficial API
+- gh search repos (~185 queries, sorted by stars): bilibili api/downloader/danmaku, douyin api/crawler/逆向, a_bogus, x-bogus, tiktok signature, kuaishou, xiaohongshu api/spider/逆向, weibo api/crawler, zhihu api/爬虫, wechat hook/decrypt/逆向/聊天记录导出, 微信小程序 逆向, 企业微信 hook, qq protocol, onebot, netease cloud music api, unblock netease music, qq music api, kugou, kuwo, migu, baidu netdisk, aliyundrive, 115, quark, 天翼云盘, 123云盘, 蓝奏云, 12306, jd sign, boss直聘, unidbg, genshin/mihoyo/hoyolab, arknights assets, blue archive, line, kakaotalk loco, pixiv api/fanbox, niconico, mercari, revanced patches, youtube vanced, youtube music client, ipatool, frida-ios-dump, ios decrypt, apk downloader, google play downloader, apk patcher, ios tweak, n26/revolut/monzo/bunq/trade republic/scalable, uber/lime/db/sbb, peloton/strava/garmin/zwift/duolingo/quizlet, tinder, instagram/snapchat/tiktok private api
+- gh api repos/<owner>/<repo> verification of ~450 candidate repos
+- gh search repos: user:PretendoNetwork
+- gh search repos: unofficial launcher
+- gh search repos: script extender
+- gh search repos: playstation network api
+- gh search repos: nintendo switch online api
+- gh search repos: riot client api
+- gh search repos: unreal engine pak
+- gh search repos: unity asset extractor
+- gh search repos: rpg maker decrypter
+- gh search repos: openspy
+- gh search repos: HedgeLib
+- gh search repos: pretendo network server
+- gh search repos: server emulator mmorpg
+- gh search repos: mod loader unity il2cpp
+- airplay receiver
+- airplay server
+- airplay mirroring
+- raop
+- airplay 2 sender
+- airpods linux
+- airpods battery
+- magic trackpad windows
+- usbmuxd
+- lockdownd
+- ios backup parser
+- imessage export
+- chat.db
+- apple notes export
+- NSKeyedArchiver
+- apple shortcuts
+- homekit accessory protocol
+- icloud drive
+- icloud photos sync
+- chromecast receiver
+- google cast protocol
+- roku ecp
+- lg webos tv
+- globalprotect
+- pulse secure
+- f5 vpn
+- activesync
+- exchange web services
+- msn messenger server
+- xfire
+- pocsag decoder
+- tetra decoder
+- libgpod
+- apple wireless direct link
+- macos private framework
+- apple music client
+- gh api search/repositories topic:reverse-engineered
+- gh api search/repositories topic:unofficial-client
+- gh api search/repositories topic:clean-room
+- gh api search/repositories topic:open-source-reimplementation
+- gh api search/repositories topic:cloud-free
+- gh api search/repositories topic:local-api
+- gh api search/repositories topic:recompilation
+- gh api search/repositories topic:reimplementation
+- gh api search/repositories topic:game-reimplementation
+- gh api search/repositories topic:static-recompilation
+- gh api search/repositories topic:alternative-frontend
+- gh api search/repositories topic:privacy-frontend
+- gh api search/repositories topic:reverse-engineered-protocol
+- gh api search/repositories topic:engine-reimplementation
+- gh api search/repositories topic:unofficial-app
+- gh api search/repositories topic:alternative-client
+- gh search repos: awesome recomp / awesome recompilations / awesome alternative frontends / awesome local control / awesome reverse engineered / awesome clean room / awesome game ports / awesome private server / awesome server emulator / awesome ble / awesome rtlsdr / awesome libpurple / awesome unofficial clients / awesome third party clients
+- gh search repos: awesome privacy / awesome flipperzero / awesome sdr / osgameclones
+- WebFetch https://pidgin.im/plugins/?type=Protocol
+- gh: fints
+- gh: unofficial notion api
+- gh: google keep
+- gh: unofficial deepl
+- gh: degiro api
+- gh: trading212
+- gh: webull api
+- gh: etoro api
+- gh: robinhood api
+- gh: wealthsimple api
+- gh: fidelity api
+- gh: trade republic api
+- gh: scalable capital api
+- gh: nordnet api
+- gh: n26 api
+- gh: nubank
+- gh: paytm api
+- gh: irctc
+- gh: zomato api
+- gh: swiggy
+- gh: ifood
+- gh: depop api
+- gh: mercari api
+- gh: poshmark api
+- gh: kleinanzeigen api
+- gh: facebook marketplace scraper
+- gh: immobilienscout24
+- gh: idealista scraper
+- gh: albert heijn api
+- gh: mcdonalds api
+- gh: shopee api
+- gh: tokopedia api
+- gh: unofficial bank api
+- gh: unofficial api supermarket
+- gh: unofficial api grocery
+- gh: unofficial api airline
+- gh: unofficial api broker
+- gh: unofficial api marketplace
+- gh: reverse engineered api app
+- gh: unofficial api train
+- gh: unofficial api real estate
+- gh: unofficial api invest
+- gh: unofficial api fintech
+- gh: unofficial api wallet
+- gh: unofficial api brasil
+- gh: api nao oficial
+- gh: unofficial api india
+- gh: unofficial api indonesia
+- gh: unofficial api vietnam
+- gh: unofficial api turkey
+- gh: kindle highlights export
+- gh: medium alternative frontend
+- gh: yandex unofficial api
+- gh: avito api
+- gh: divar api
+- gh: gojek api
+- gh: unofficial api mexico
+- gh: unofficial api africa
+- web: unofficial API IRCTC Zomato Swiggy Paytm
+- web: unofficial iFood / Mercado Livre client
+- web: Vinted API wrapper
+- web: Wizz Air / Trenitalia / SNCF Connect unofficial API
+- web: Instacart / DoorDash / Uber Eats unofficial API
+- web: Albert Heijn / Jumbo / Tesco / Rewe unofficial API
+- gh search repos: abode security
+- gh search repos: acaia scale
+- gh search repos: afore inverter
+- gh search repos: air fryer api
+- gh search repos: ajax systems
+- gh search repos: aladdin connect
+- gh search repos: alfen eve
+- gh search repos: anker solix
+- gh search repos: anova
+- gh search repos: ant bms
+- gh search repos: aosmith water heater
+- gh search repos: apsystems ecu
+- gh search repos: aquarea
+- gh search repos: arlo api
+- gh search repos: august yale lock
+- gh search repos: balboa spa
+- gh search repos: bhyve
+- gh search repos: ble battery monitor
+- gh search repos: blink camera api
+- gh search repos: blueair
+- gh search repos: bluetti
+- gh search repos: bosch dishwasher
+- gh search repos: breville
+- gh search repos: broadlink
+- gh search repos: chargepoint home
+- gh search repos: cookidoo thermomix
+- gh search repos: cosori
+- gh search repos: coway
+- gh search repos: daikin
+- gh search repos: daly bms
+- gh search repos: decent espresso
+- gh search repos: deye inverter
+- gh search repos: deye sun
+- gh search repos: dishwasher reverse engineered
+- gh search repos: dreame vacuum
+- gh search repos: dsmr p1
+- gh search repos: dyson fan
+- gh search repos: easee
+- gh search repos: easun inverter
+- gh search repos: ecoflow
+- gh search repos: econet rheem
+- gh search repos: ecovacs
+- gh search repos: eight sleep
+- gh search repos: electrolux
+- gh search repos: ember mug
+- gh search repos: emporia charger
+- gh search repos: emporia vue
+- gh search repos: enphase envoy
+- gh search repos: enphase local
+- gh search repos: epever
+- gh search repos: eufy robovac
+- gh search repos: eufy security
+- gh search repos: fellow stagg
+- gh search repos: first alert
+- gh search repos: flo by moen
+- gh search repos: fox ess
+- gh search repos: fronius
+- gh search repos: fujitsu airstage
+- gh search repos: furbo
+- gh search repos: gaggia
+- gh search repos: ge appliances smarthq
+- gh search repos: ge refrigerator
+- gh search repos: gecko spa
+- gh search repos: genie garage
+- gh search repos: givenergy
+- gh search repos: go-e charger
+- gh search repos: goodwe
+- gh search repos: govee api
+- gh search repos: gree climate
+- gh search repos: growatt api
+- gh search repos: growatt modbus
+- gh search repos: growatt shine
+- gh search repos: hacs integration inverter
+- gh search repos: haier hon
+- gh search repos: hayward omnilogic
+- gh search repos: hisense
+- gh search repos: home assistant ev charger
+- gh search repos: home assistant heat pump integration
+- gh search repos: home connect
+- gh search repos: hot tub wifi
+- gh search repos: hoymiles dtu
+- gh search repos: huawei solar sun2000
+- gh search repos: husqvarna automower
+- gh search repos: hydrawise
+- gh search repos: hypervolt
+- gh search repos: igrill
+- gh search repos: instant pot
+- gh search repos: intex spa
+- gh search repos: iotawatt
+- gh search repos: irdb infrared codes
+- gh search repos: irobot roomba
+- gh search repos: jackery
+- gh search repos: jbd bms
+- gh search repos: jbd bms bluetooth
+- gh search repos: jk bms
+- gh search repos: juicebox
+- gh search repos: june oven
+- gh search repos: keba wallbox
+- gh search repos: kidde
+- gh search repos: kostal
+- gh search repos: kumo cloud
+- gh search repos: kwikset halo
+- gh search repos: la marzocco
+- gh search repos: landroid worx
+- gh search repos: level lock
+- gh search repos: lg thinq
+- gh search repos: lg washer
+- gh search repos: liebherr fridge
+- gh search repos: lifx protocol
+- gh search repos: litter robot
+- gh search repos: lux power
+- gh search repos: marstek
+- gh search repos: meater
+- gh search repos: melcloud
+- gh search repos: meross
+- gh search repos: midea ac
+- gh search repos: miele
+- gh search repos: mitsubishi heat pump cn105
+- gh search repos: moen flo
+- gh search repos: mpp solar
+- gh search repos: myenergi zappi
+- gh search repos: myq
+- gh search repos: nanit
+- gh search repos: nanoleaf
+- gh search repos: navien
+- gh search repos: navimow
+- gh search repos: netatmo
+- gh search repos: nibe uplink
+- gh search repos: nuki
+- gh search repos: ocpp
+- gh search repos: octopus energy
+- gh search repos: ohme charger
+- gh search repos: openevse
+- gh search repos: owlet
+- gh search repos: petkit
+- gh search repos: petlibro
+- gh search repos: philips air purifier
+- gh search repos: philips hue entertainment
+- gh search repos: phyn water
+- gh search repos: pod point
+- gh search repos: pool controller pentair
+- gh search repos: powerwall
+- gh search repos: pylontech
+- gh search repos: rainbird
+- gh search repos: ratgdo
+- gh search repos: renogy
+- gh search repos: renogy bluetooth
+- gh search repos: reverse engineered api appliance
+- gh search repos: ring doorbell
+- gh search repos: ring doorbell api
+- gh search repos: rinnai
+- gh search repos: roborock
+- gh search repos: samsung washer
+- gh search repos: segway navimow
+- gh search repos: sense energy
+- gh search repos: seplos bms
+- gh search repos: sharkiq
+- gh search repos: shelly
+- gh search repos: siemens home connect local
+- gh search repos: simplisafe
+- gh search repos: sleep number
+- gh search repos: sleepiq
+- gh search repos: sma speedwire
+- gh search repos: smart oven reverse
+- gh search repos: smartir
+- gh search repos: smartthings samsung appliances
+- gh search repos: smeg
+- gh search repos: smoke detector reverse engineered
+- gh search repos: sofar solar
+- gh search repos: solaredge local
+- gh search repos: solaredge modbus
+- gh search repos: solarman
+- gh search repos: solax
+- gh search repos: sonnen battery
+- gh search repos: sonoff ewelink
+- gh search repos: srne
+- gh search repos: sungrow modbus
+- gh search repos: sunpower pvs
+- gh search repos: sunsynk
+- gh search repos: sure petcare
+- gh search repos: surepetcare
+- gh search repos: switchbot ble
+- gh search repos: tado
+- gh search repos: tailwind garage
+- gh search repos: tesla wall connector
+- gh search repos: theengs decoder
+- gh search repos: tibber
+- gh search repos: toshiba ac
+- gh search repos: tovala
+- gh search repos: tractive
+- gh search repos: traeger
+- gh search repos: tsun inverter
+- gh search repos: tuya local
+- gh search repos: vaillant
+- gh search repos: vesync
+- gh search repos: victron ble
+- gh search repos: victron venus
+- gh search repos: viessmann
+- gh search repos: voltronic inverter
+- gh search repos: wallbox
+- gh search repos: washing machine api
+- gh search repos: weber connect
+- gh search repos: weber igrill
+- gh search repos: whirlpool
+- gh search repos: whirlpool api
+- gh search repos: whistle pet
+- gh search repos: winix
+- gh search repos: wyze api
+- gh search repos: xiaomi miio
+- gh search repos: yeelight
+- gh search repos: zaptec
+- gh search repos: zendure
+- gh search repos: zigbee herdsman converters
+- gh search repos: zigpy quirks
+- gh search repos: zwave-js config
