@@ -1,0 +1,10 @@
+{
+  "name": "reverse-engineered",
+  "description": "Search 5,000+ open-source reverse-engineered tools (unofficial API clients, local-control libraries, drivers, format parsers, decompilations) and fetch the right one for a task.",
+  "version": "0.1.0",
+  "author": { "name": "Alex Gao", "url": "https://github.com/alexgaoth" },
+  "homepage": "https://github.com/alexgaoth/awesome-reverse-engineered",
+  "repository": "https://github.com/alexgaoth/awesome-reverse-engineered",
+  "license": "CC0-1.0",
+  "keywords": ["reverse-engineering", "unofficial-api", "interoperability", "decompilation", "awesome-list"]
+}

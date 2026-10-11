@@ -1,0 +1,15 @@
+{
+  "name": "awesome-reverse-engineered",
+  "description": "Agent skill for searching the awesome-reverse-engineered index of open-source reverse-engineered tools.",
+  "owner": {
+    "name": "Alex Gao",
+    "url": "https://github.com/alexgaoth"
+  },
+  "plugins": [
+    {
+      "name": "reverse-engineered",
+      "source": "./",
+      "description": "Search 5,000+ open-source reverse-engineered tools and fetch the right one for a task."
+    }
+  ]
+}
