@@ -8,7 +8,7 @@ import collections, datetime, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORDER = ["Collections & Awesome Lists", "AI Tools & LLM Clients", "Game Decompilations & Reimplementations",
          "Messaging & Social Apps", "Unofficial Web/App API Clients", "Chinese & Asian Platforms", "Alternative Frontends",
-         "Mobile Apps", "Apple Ecosystem", "Devices, IoT & Hardware", "Drivers & Low-level Hardware", "Automotive",
+         "Third-party Clients", "Mobile Apps", "Apple Ecosystem", "Devices, IoT & Hardware", "Drivers & Low-level Hardware", "Automotive",
          "Firmware & Embedded", "Network & Wire Protocols", "File Formats", "Desktop Software Reimplementations", "RE Tooling"]
 
 slug = lambda s: re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
@@ -47,7 +47,10 @@ def main():
       "The repo is also a Claude Code plugin with one skill, [`find-reverse-engineered`](skills/find-reverse-engineered/SKILL.md). "
       "When a task needs to talk to a closed app, device, API or file format, the agent searches this index and picks a project by stars, "
       "language, license and recent activity. It then reads the README or clones the project.", "",
+      "**Claude Code** (plugin):", "",
       "```", "/plugin install reverse-engineered --marketplace alexgaoth/awesome-reverse-engineered", "```", "",
+      "**Claude Code, Cursor, Codex, Gemini CLI, Copilot and other agents** (with Vercel's [`skills`](https://github.com/vercel-labs/skills) CLI):", "",
+      "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",
       "Any other agent or shell can use the same search script. It has no dependencies:", "",
       "```bash",
       "curl -sL https://raw.githubusercontent.com/alexgaoth/awesome-reverse-engineered/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
