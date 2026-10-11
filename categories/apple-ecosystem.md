@@ -18,11 +18,11 @@
 |---|---|--:|---|
 | owntone-server | Media server that streams to AirPlay 1/2 speakers and Chromecast and serves DAAP/DACP | 2,570 | <https://github.com/owntone/owntone-server> |
 | shairport | Airtunes emulator! Shairport is no longer maintained. | 2,458 | <https://github.com/abrasive/shairport> |
-| UxPlay | AirPlay Unix mirroring server | 2,121 | <https://github.com/antimof/UxPlay> |
+| UxPlay | AirPlay Unix mirroring server | 2,122 | <https://github.com/antimof/UxPlay> |
 | open-airplay | Collection of libraries for Apple's AirPlay protocol | 1,891 | <https://github.com/openairplay/open-airplay> |
 | shairplay | Apple airplay and raop protocol server | 1,405 | <https://github.com/juhovh/shairplay> |
 | Slave-in-the-Magic-Mirror | Open source implementation of AirPlay Mirroring. WIP. | 626 | <https://github.com/espes/Slave-in-the-Magic-Mirror> |
-| android-airplay-server | First open-source AirPlay receiver implementation for Android with mirroring, video and audio support | 590 | <https://github.com/jqssun/android-airplay-server> |
+| android-airplay-server | First open-source AirPlay receiver implementation for Android with mirroring, video and audio support | 591 | <https://github.com/jqssun/android-airplay-server> |
 | AirplayServer | Android AirPlay 2 mirroring receiver server | 554 | <https://github.com/KqSMea8/AirplayServer> |
 | java-airplay-server | Acts like Apple TV | 394 | <https://github.com/serezhka/java-airplay-server> |
 | airplay-server | A low level AirPlay server | 264 | <https://github.com/watson/airplay-server> |
@@ -30,7 +30,7 @@
 | java-airplay-lib | This library is intended to easily create AirPlay2 servers acting like Apple TV | 206 | <https://github.com/serezhka/java-airplay-lib> |
 | node-appletv | Node.js module to control 4th-gen+ Apple TV over the Media Remote protocol | 194 | <https://github.com/evandcoleman/node-appletv> |
 | AirReceiver | AirReceiver is an AirPort Express emulator, i.e. it allows streaming audio from iTunes and iOS devices to a computer... | 189 | <https://github.com/fgp/AirReceiver> |
-| AirPlayServer | AirPlay receiver for Windows with video mirroring and audio playback | 186 | <https://github.com/xenos1337/AirPlayServer> |
+| AirPlayServer | AirPlay receiver for Windows with video mirroring and audio playback | 187 | <https://github.com/xenos1337/AirPlayServer> |
 | nqptp | Companion daemon that implements the PTP timing AirPlay 2 needs for shairport-sync | 158 | <https://github.com/mikebrady/nqptp> |
 | mediaremotetv-protocol | Unofficial specification of the Apple TV MediaRemote remote-control protocol | 153 | <https://github.com/jeanregisser/mediaremotetv-protocol> |
 | wireshark-awdl | Wireshark dissector for Apple Wireless Direct Link (AWDL) and CoreCapture logs | 146 | <https://github.com/seemoo-lab/wireshark-awdl> |
@@ -115,17 +115,17 @@
 |---|---|--:|---|
 | ipwndfu | Open-source jailbreaking tool for iOS devices using bootrom exploits (checkm8) | 7,432 | <https://github.com/axi0mX/ipwndfu> |
 | ANE | Trains neural networks on Apple Neural Engine via reverse-engineered private APIs | 7,261 | <https://github.com/maderix/ANE> |
-| palera1n | checkm8-based jailbreak for iOS 15+ | 6,558 | <https://github.com/palera1n/palera1n> |
+| palera1n | checkm8-based jailbreak for iOS 15+ | 6,559 | <https://github.com/palera1n/palera1n> |
 | m1n1 | Bootloader and hardware experimentation tool for Apple Silicon | 4,256 | <https://github.com/AsahiLinux/m1n1> |
-| Asahi Linux kernel | Linux kernel with drivers for Apple Silicon Macs | 3,023 | <https://github.com/AsahiLinux/linux> |
+| Asahi Linux kernel | Linux kernel with drivers for Apple Silicon Macs | 3,024 | <https://github.com/AsahiLinux/linux> |
 | PongoOS | Pre-boot execution environment for Apple boards built on checkm8 | 2,761 | <https://github.com/checkra1n/PongoOS> |
 | Asahi Linux docs | Hardware reverse-engineering documentation for Apple Silicon | 2,308 | <https://github.com/AsahiLinux/docs> |
-| Project Sandcastle | Android and Linux on iPhone via checkm8 | 2,115 | <https://github.com/corellium/projectsandcastle> |
+| Project Sandcastle | Android and Linux on iPhone via checkm8 | 2,116 | <https://github.com/corellium/projectsandcastle> |
 | facetimehd | Reverse-engineered Linux driver for the Mac FaceTime HD (Broadcom 1570) PCIe webcam | 1,510 | <https://github.com/patjak/facetimehd> |
 | AsahiLinux gpu *(archived)* | Apple GPU reverse-engineering research (archived) | 1,050 | <https://github.com/AsahiLinux/gpu> |
 | asahi-installer | Installer for Asahi Linux on Apple Silicon Macs | 951 | <https://github.com/AsahiLinux/asahi-installer> |
 | applegpu | Apple G13 GPU architecture reverse engineering and disassembler | 711 | <https://github.com/dougallj/applegpu> |
-| attesor | AI-assisted reverse engineering of Rosetta 2 for Linux VMs | 85 | <https://github.com/Inokinoki/attesor> |
+| attesor | AI-assisted reverse engineering of Rosetta 2 for Linux VMs | 86 | <https://github.com/Inokinoki/attesor> |
 | aurora-silicon linux | AI-assisted reverse engineering of Apple Mac hardware for Linux kernel support | 28 | <https://github.com/aurora-silicon/linux> |
 
 ## Find My & AirTag
@@ -133,8 +133,8 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | FindMy.py | Python library to query Apple Find My devices and AirTags | 3,289 | <https://github.com/malmeloo/FindMy.py> |
-| AirGuard | Android app that detects AirTags and Find My trackers following you | 2,539 | <https://github.com/seemoo-lab/AirGuard> |
-| macless-haystack | Use OpenHaystack Find My trackers without owning a Mac | 2,205 | <https://github.com/dchristl/macless-haystack> |
+| AirGuard | Android app that detects AirTags and Find My trackers following you | 2,541 | <https://github.com/seemoo-lab/AirGuard> |
+| macless-haystack | Use OpenHaystack Find My trackers without owning a Mac | 2,206 | <https://github.com/dchristl/macless-haystack> |
 | Send My | Upload arbitrary data via Apple's Find My network | 1,888 | <https://github.com/positive-security/send-my> |
 | FindMy (biemster) | Query Apple Find My network for custom tags without a Mac | 726 | <https://github.com/biemster/FindMy> |
 
@@ -163,7 +163,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| libimobiledevice | Cross-platform protocol library to talk to iOS devices | 8,242 | <https://github.com/libimobiledevice/libimobiledevice> |
+| libimobiledevice | Cross-platform protocol library to talk to iOS devices | 8,244 | <https://github.com/libimobiledevice/libimobiledevice> |
 | ipsw | iOS/macOS research Swiss Army knife: firmware, dyld cache, kernelcache parsing | 3,786 | <https://github.com/blacktop/ipsw> |
 | usbmuxd | Socket daemon multiplexing connections to iOS devices over USB | 1,777 | <https://github.com/libimobiledevice/usbmuxd> |
 | libplist | Library for Apple binary and XML property lists | 638 | <https://github.com/libimobiledevice/libplist> |
@@ -174,14 +174,14 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | OSX-KVM | Run macOS on QEMU/KVM | 23,711 | <https://github.com/kholia/OSX-KVM> |
-| OpenCore | Open-source Apple-compatible boot loader built from macOS boot RE | 15,517 | <https://github.com/acidanthera/OpenCorePkg> |
+| OpenCore | Open-source Apple-compatible boot loader built from macOS boot RE | 15,522 | <https://github.com/acidanthera/OpenCorePkg> |
 | mac-precision-touchpad | Windows Precision Touchpad driver for Apple trackpads | 10,491 | <https://github.com/imbushuo/mac-precision-touchpad> |
 | iOS-Runtime-Headers *(archived)* | iOS Objective-C headers, including private frameworks, derived from runtime introspection | 7,972 | <https://github.com/nst/iOS-Runtime-Headers> |
-| AirCard | Customize Apple Wallet card artwork without jailbreak | 6,469 | <https://github.com/Mak5er/AirCard> |
+| AirCard | Customize Apple Wallet card artwork without jailbreak | 6,480 | <https://github.com/Mak5er/AirCard> |
 | RPiPlay | Open AirPlay mirroring server for the Raspberry Pi | 5,224 | <https://github.com/FD-/RPiPlay> |
 | AirConnect | Use AirPlay to stream to UPnP and Chromecast devices | 4,197 | <https://github.com/philippe44/AirConnect> |
 | AirPodsDesktop | AirPods battery and ear-detection support for Windows and Linux via BLE advertisements | 3,520 | <https://github.com/SpriteOvO/AirPodsDesktop> |
-| pymobiledevice3 | Pure Python implementation of iOS device protocols | 2,856 | <https://github.com/doronz88/pymobiledevice3> |
+| pymobiledevice3 | Pure Python implementation of iOS device protocols | 2,860 | <https://github.com/doronz88/pymobiledevice3> |
 | HAP-NodeJS | Node.js implementation of the HomeKit Accessory Protocol | 2,722 | <https://github.com/homebridge/HAP-NodeJS> |
 | airplay2-receiver | AirPlay 2 receiver implementation in Python | 2,429 | <https://github.com/openairplay/airplay2-receiver> |
 | qemu-t8030 *(archived)* | iPhone 11 emulated on QEMU | 2,203 | <https://github.com/TrungNguyen1909/qemu-t8030> |
@@ -256,7 +256,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| icloud_photos_downloader | A command-line tool to download photos from iCloud | 12,306 | <https://github.com/icloud-photos-downloader/icloud_photos_downloader> |
+| icloud_photos_downloader | A command-line tool to download photos from iCloud | 12,307 | <https://github.com/icloud-photos-downloader/icloud_photos_downloader> |
 | Cider *(archived)* | Cross-platform unofficial Apple Music client (v1 source) | 7,127 | <https://github.com/ciderapp/Cider> |
 | docker-icloudpd | An Alpine Linux container for the iCloud Photos Downloader command line utility | 2,954 | <https://github.com/boredazfcuk/docker-icloudpd> |
 | icloud-docker | Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. | 1,887 | <https://github.com/mandarons/icloud-docker> |
@@ -277,10 +277,10 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| fastlane | iOS/Android release automation; its spaceship module wraps Apple's private developer portal and App Store Connect APIs | 42,227 | <https://github.com/fastlane/fastlane> |
-| xtool | Cross-platform Xcode replacement to build, sign and deploy iOS apps from Linux and Windows | 6,727 | <https://github.com/xtool-org/xtool> |
+| fastlane | iOS/Android release automation; its spaceship module wraps Apple's private developer portal and App Store Connect APIs | 42,228 | <https://github.com/fastlane/fastlane> |
+| xtool | Cross-platform Xcode replacement to build, sign and deploy iOS apps from Linux and Windows | 6,828 | <https://github.com/xtool-org/xtool> |
 | ios-webkit-debug-proxy | A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector). | 6,202 | <https://github.com/google/ios-webkit-debug-proxy> |
-| idb | idb is a flexible command line interface for automating iOS simulators and devices | 5,361 | <https://github.com/facebook/idb> |
+| idb | idb is a flexible command line interface for automating iOS simulators and devices | 5,362 | <https://github.com/facebook/idb> |
 | xcodes | CLI to download and switch Xcode versions using Apple developer portal authentication | 4,849 | <https://github.com/XcodesOrg/xcodes> |
 | peertalk | iOS and Mac Cocoa library for communicating over USB | 3,490 | <https://github.com/rsms/peertalk> |
 | osxcross | macOS cross-compilation toolchain for Linux and BSD | 3,403 | <https://github.com/tpoechtrager/osxcross> |

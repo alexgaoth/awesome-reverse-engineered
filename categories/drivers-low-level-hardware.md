@@ -13,7 +13,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| tinygrad | ML framework whose extra/accel/ane holds reverse-engineered Apple Neural Engine work | 33,736 | <https://github.com/tinygrad/tinygrad> |
+| tinygrad | ML framework whose extra/accel/ane holds reverse-engineered Apple Neural Engine work | 33,739 | <https://github.com/tinygrad/tinygrad> |
 | neural-engine | Community documentation of the Apple Neural Engine and how Core ML uses it | 2,542 | <https://github.com/hollance/neural-engine> |
 | muvm | microVM runner used by Asahi to run x86 games with FEX on 4K-page hosts | 981 | <https://github.com/AsahiLinux/muvm> |
 | linux-m1 | Linux kernel source tree | 871 | <https://github.com/corellium/linux-m1> |
@@ -29,14 +29,14 @@
 | coreml_to_ane_hwx | Converts Core ML models to Apple Neural Engine HWX binaries for analysis | 51 | <https://github.com/freedomtan/coreml_to_ane_hwx> |
 | asahi-scripts | Asahi Linux support scripts (firmware extraction, boot setup) | 50 | <https://github.com/AsahiLinux/asahi-scripts> |
 | mdaiter/ane | Reverse-engineering artifacts for Apple ANECompiler, Espresso and AppleNeuralEngine | 40 | <https://github.com/mdaiter/ane> |
-| m1-pmu-gen | Generates Linux perf event tables for Apple Silicon PMU counters | 19 | <https://github.com/cyyself/m1-pmu-gen> |
+| m1-pmu-gen | Generates Linux perf event tables for Apple Silicon PMU counters | 20 | <https://github.com/cyyself/m1-pmu-gen> |
 | alsa-ucm-conf-asahi | ALSA UCM configuration for Apple Silicon audio hardware | 7 | <https://github.com/AsahiLinux/alsa-ucm-conf-asahi> |
 
 ## Firmware/BIOS (coreboot, UEFI)
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| fwupd | Linux firmware updater with many reverse-engineered device update protocols | 4,187 | <https://github.com/fwupd/fwupd> |
+| fwupd | Linux firmware updater with many reverse-engineered device update protocols | 4,188 | <https://github.com/fwupd/fwupd> |
 | MEAnalyzer | Intel/AMD engine firmware (ME, TXE, CSE, PSP) analysis tool | 1,332 | <https://github.com/platomav/MEAnalyzer> |
 | flashrom | Utility to read and write flash chips on mainboards, programmers and devices | 1,182 | <https://github.com/flashrom/flashrom> |
 | efiXplorer | IDA plugin for UEFI firmware analysis and reverse engineering | 1,136 | <https://github.com/REhints/efiXplorer> |
@@ -79,13 +79,13 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| MonitorControl | macOS app to control external display brightness over DDC | 34,436 | <https://github.com/MonitorControl/MonitorControl> |
-| G-Helper | Lightweight open replacement for ASUS Armoury Crate laptop control | 15,520 | <https://github.com/seerge/g-helper> |
-| LibreHardwareMonitor | Hardware sensor monitor with reverse-engineered Super I/O and EC readers | 9,180 | <https://github.com/LibreHardwareMonitor/LibreHardwareMonitor> |
-| linux-surface | Linux kernel and drivers for Microsoft Surface devices | 7,780 | <https://github.com/linux-surface/linux-surface> |
+| MonitorControl | macOS app to control external display brightness over DDC | 34,439 | <https://github.com/MonitorControl/MonitorControl> |
+| G-Helper | Lightweight open replacement for ASUS Armoury Crate laptop control | 15,528 | <https://github.com/seerge/g-helper> |
+| LibreHardwareMonitor | Hardware sensor monitor with reverse-engineered Super I/O and EC readers | 9,183 | <https://github.com/LibreHardwareMonitor/LibreHardwareMonitor> |
+| linux-surface | Linux kernel and drivers for Microsoft Surface devices | 7,781 | <https://github.com/linux-surface/linux-surface> |
 | Lunar | macOS display brightness controller using DDC and private display APIs | 5,717 | <https://github.com/alin23/Lunar> |
 | RyzenAdj | Adjust power settings of Ryzen mobile processors via undocumented SMU calls | 2,437 | <https://github.com/FlyGoat/RyzenAdj> |
-| ddcutil | Query and change monitor settings over DDC/CI and USB MCCS on Linux | 1,414 | <https://github.com/rockowitz/ddcutil> |
+| ddcutil | Query and change monitor settings over DDC/CI and USB MCCS on Linux | 1,415 | <https://github.com/rockowitz/ddcutil> |
 | intel-undervolt | Undervolting and power-limit tool for Intel CPUs using undocumented MSRs | 1,094 | <https://github.com/kitsunyan/intel-undervolt> |
 | nbfc-linux | C port of NoteBook FanControl for Linux using per-model EC register configs | 786 | <https://github.com/nbfc-linux/nbfc-linux> |
 | m1ddc | CLI to control external displays via DDC on Apple Silicon Macs | 741 | <https://github.com/waydabber/m1ddc> |
@@ -96,8 +96,8 @@
 | ZenStates-Linux | Tool to change AMD Zen P-states via MSRs on Linux | 569 | <https://github.com/r4m0n/ZenStates-Linux> |
 | snd_hda_macbookpro | Linux audio driver for Cirrus codecs in Intel MacBook Pros | 500 | <https://github.com/davidjo/snd_hda_macbookpro> |
 | msi-ec | Linux kernel driver for MSI laptop EC features (fans, battery, LEDs) | 494 | <https://github.com/BeardOverflow/msi-ec> |
+| SMUDebugTool | Windows tool to inspect AMD SMU, PCI and MSR registers | 489 | <https://github.com/irusanov/SMUDebugTool> |
 | zenpower | Linux hwmon driver for AMD Zen CPU sensors | 489 | <https://github.com/ocerman/zenpower> |
-| SMUDebugTool | Windows tool to inspect AMD SMU, PCI and MSR registers | 487 | <https://github.com/irusanov/SMUDebugTool> |
 | nct6687d | Linux driver for Nuvoton NCT6687-R Super I/O sensors | 474 | <https://github.com/Fred78290/nct6687d> |
 | fw-fanctrl | Fan curve service for Framework laptops using the EC via ectool | 464 | <https://github.com/TamtamHero/fw-fanctrl> |
 | tpacpi-bat | ThinkPad battery charge threshold control via undocumented ACPI calls | 454 | <https://github.com/teleshoes/tpacpi-bat> |
@@ -115,16 +115,16 @@
 | qc71_laptop | Linux driver for QC71-based (Tongfang/XMG/Eluktronics) laptop EC features | 40 | <https://github.com/pobrn/qc71_laptop> |
 | MsiEcRamEditor | Edit and dump MSI laptop EC RAM via ACPI-WMI | 25 | <https://github.com/timschneeb/MsiEcRamEditor> |
 | asus-fan-control-ec | Fan control for ASUS devices on Linux via direct EC access | 14 | <https://github.com/Keyitdev/asus-fan-control-ec> |
-| gigactl | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 6 | <https://github.com/smairio/gigactl> |
+| gigactl | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 7 | <https://github.com/smairio/gigactl> |
 | TPFanCtrl2 | ThinkPad fan control for Windows 10/11 | 6 | <https://github.com/mews-se/TPFanCtrl2> |
-| Mechrevo-Xingyao-14 | Reverse-engineering reference for an Insyde BIOS and ITE EC laptop | 4 | <https://github.com/YMGPwcca/Mechrevo-Xingyao-14> |
+| Mechrevo-Xingyao-14 | Reverse-engineering reference for an Insyde BIOS and ITE EC laptop | 5 | <https://github.com/YMGPwcca/Mechrevo-Xingyao-14> |
 | asusctl | Control daemon for ASUS ROG/TUF laptops on Linux (fans, LEDs, profiles) |  | <https://gitlab.com/asus-linux/asusctl> |
 
 ## Printers, Scanners & Fingerprint
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| python-validity | Reverse-engineered Validity/Synaptics fingerprint sensor driver for ThinkPads | 1,242 | <https://github.com/uunicorn/python-validity> |
+| python-validity | Reverse-engineered Validity/Synaptics fingerprint sensor driver for ThinkPads | 1,245 | <https://github.com/uunicorn/python-validity> |
 | catprinter | Prints to cheap BLE "cat" thermal printers via reverse-engineered protocol | 859 | <https://github.com/rbaron/catprinter> |
 | brlaser | Open driver for Brother laser printers that lack PostScript support | 718 | <https://github.com/pdewacht/brlaser> |
 | sane-airscan | SANE backend for driverless eSCL and WSD network scanners | 371 | <https://github.com/alexpevzner/sane-airscan> |

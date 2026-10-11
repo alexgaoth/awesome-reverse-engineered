@@ -85,18 +85,18 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Sunshine | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 42,093 | <https://github.com/LizardByte/Sunshine> |
-| moonlight-qt | Open-source NVIDIA GameStream / Sunshine client for Windows, macOS, Linux and Steam Link | 19,041 | <https://github.com/moonlight-stream/moonlight-qt> |
-| Impacket | Python classes for SMB, MSRPC, NTLM, Kerberos, LDAP and other Windows protocols | 16,164 | <https://github.com/fortra/impacket> |
-| FreeRDP | Free implementation of Microsoft's Remote Desktop Protocol (client and server libraries) | 13,811 | <https://github.com/FreeRDP/FreeRDP> |
-| OpenDrop | Open AirDrop implementation in Python, protocol-compatible with iOS/macOS | 9,838 | <https://github.com/seemoo-lab/opendrop> |
-| Shairport Sync | AirPlay and AirPlay 2 audio receiver for Linux/BSD | 8,885 | <https://github.com/mikebrady/shairport-sync> |
-| moonlight-android | Open-source NVIDIA GameStream client for Android | 7,267 | <https://github.com/moonlight-stream/moonlight-android> |
+| Sunshine | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 42,094 | <https://github.com/LizardByte/Sunshine> |
+| moonlight-qt | Open-source NVIDIA GameStream / Sunshine client for Windows, macOS, Linux and Steam Link | 19,043 | <https://github.com/moonlight-stream/moonlight-qt> |
+| Impacket | Python classes for SMB, MSRPC, NTLM, Kerberos, LDAP and other Windows protocols | 16,163 | <https://github.com/fortra/impacket> |
+| FreeRDP | Free implementation of Microsoft's Remote Desktop Protocol (client and server libraries) | 13,812 | <https://github.com/FreeRDP/FreeRDP> |
+| OpenDrop | Open AirDrop implementation in Python, protocol-compatible with iOS/macOS | 9,844 | <https://github.com/seemoo-lab/opendrop> |
+| Shairport Sync | AirPlay and AirPlay 2 audio receiver for Linux/BSD | 8,886 | <https://github.com/mikebrady/shairport-sync> |
+| moonlight-android | Open-source NVIDIA GameStream client for Android | 7,269 | <https://github.com/moonlight-stream/moonlight-android> |
 | xrdp | Open source RDP server for Linux | 6,758 | <https://github.com/neutrinolabs/xrdp> |
 | NearDrop | Unofficial Google Nearby Share/Quick Share receiver for macOS from reversed protocol | 6,293 | <https://github.com/grishka/NearDrop> |
 | rquickshare | Rust implementation of Android Nearby Share / Quick Share for Linux and macOS | 3,633 | <https://github.com/Martichou/rquickshare> |
 | IronRDP | Rust implementation of the Microsoft Remote Desktop Protocol (RDP) | 3,219 | <https://github.com/Devolutions/IronRDP> |
-| UxPlay | AirPlay mirroring server for Unix (reverse-engineered AirPlay 2 protocol) | 3,161 | <https://github.com/FDH2/UxPlay> |
+| UxPlay | AirPlay mirroring server for Unix (reverse-engineered AirPlay 2 protocol) | 3,165 | <https://github.com/FDH2/UxPlay> |
 | RDPY | Microsoft RDP protocol implementation in Python: client, server, MitM, honeypot | 1,733 | <https://github.com/citronneur/rdpy> |
 | moonlight-ios | Open-source NVIDIA GameStream client for iOS and tvOS | 1,686 | <https://github.com/moonlight-stream/moonlight-ios> |
 | OWL (Open Wireless Link) | Open implementation of Apple Wireless Direct Link (AWDL) for Linux and macOS | 1,561 | <https://github.com/seemoo-lab/owl> |
@@ -120,8 +120,8 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Baileys | Socket-based TypeScript API for WhatsApp Web | 11,303 | <https://github.com/WhiskeySockets/Baileys> |
-| whatsmeow | Go library for the WhatsApp web multi-device API | 7,536 | <https://github.com/tulir/whatsmeow> |
+| Baileys | Socket-based TypeScript API for WhatsApp Web | 11,304 | <https://github.com/WhiskeySockets/Baileys> |
+| whatsmeow | Go library for the WhatsApp web multi-device API | 7,538 | <https://github.com/tulir/whatsmeow> |
 | mautrix-whatsapp | Matrix-WhatsApp puppeting bridge | 1,901 | <https://github.com/mautrix/whatsapp> |
 | Open OSCAR Server (Retro AIM Server) | Self-hostable server compatible with classic AIM and ICQ clients (OSCAR protocol) | 1,581 | <https://github.com/mk6i/open-oscar-server> |
 | purple-facebook | Facebook Messenger (MQTT) protocol plugin for libpurple | 950 | <https://github.com/dequis/purple-facebook> |
@@ -154,7 +154,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| openfortivpn | Client for Fortinet's PPP+TLS SSL-VPN tunnels | 3,437 | <https://github.com/adrienverge/openfortivpn> |
+| openfortivpn | Client for Fortinet's PPP+TLS SSL-VPN tunnels | 3,438 | <https://github.com/adrienverge/openfortivpn> |
 | GlobalProtect-openconnect | Palo Alto GlobalProtect VPN client for Linux/macOS, based on OpenConnect | 2,287 | <https://github.com/yuezk/GlobalProtect-openconnect> |
 | tedious | Pure JavaScript implementation of the TDS protocol for SQL Server | 1,616 | <https://github.com/tediousjs/tedious> |
 | pywinrm | Python library for Windows Remote Management (WinRM) | 1,140 | <https://github.com/diyan/pywinrm> |
@@ -194,7 +194,7 @@
 | multimon-ng | Decoder for POCSAG/FLEX pagers, EAS, DTMF, AFSK and other digital radio modes | 1,143 | <https://github.com/EliasOenal/multimon-ng> |
 | gr-lora_sdr | This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all... | 1,012 | <https://github.com/tapparelj/gr-lora_sdr> |
 | zwave-js | Modern and standards-compliant Z-Wave device driver that runs almost anywhere | 891 | <https://github.com/zwave-js/zwave-js> |
-| dsd | Digital Speech Decoder | 791 | <https://github.com/szechyjs/dsd> |
+| dsd | Digital Speech Decoder | 790 | <https://github.com/szechyjs/dsd> |
 | rtl_433_ESP | Port of rtl_433 decoders to ESP32 with CC1101/SX127x radios | 731 | <https://github.com/NorthernMan54/rtl_433_ESP> |
 | readsb | ADS-B decoder swiss knife | 688 | <https://github.com/wiedehopf/readsb> |
 | pyModeS | Python decoder for Mode S and ADS-B signals | 669 | <https://github.com/junzis/pyModeS> |

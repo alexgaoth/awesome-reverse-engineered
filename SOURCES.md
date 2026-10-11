@@ -149,6 +149,14 @@
 - https://pypi.org/project/flywizz/
 - GitHub repository search (gh CLI REST + GraphQL)
 - GitHub GraphQL repository lookups for verification
+- GitHub GraphQL API (repo verification)
+- GitHub repository search
+- Home Assistant custom integration ecosystem
+- Nightscout/OpenAPS/Loop documentation
+- https://git.libreoffice.org
+- https://sourceforge.net
+- https://github.com/libyal
+- https://github.com/EricZimmerman
 
 ## Searches run
 
@@ -1058,3 +1066,5 @@
 - gh search repos: zigbee herdsman converters
 - gh search repos: zigpy quirks
 - gh search repos: zwave-js config
+- gh graphql verification of known RE format-parser repos
+- git.libreoffice.org gitiles project list for DLP libraries
