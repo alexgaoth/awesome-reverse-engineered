@@ -166,6 +166,18 @@
 - https://savannah.gnu.org/projects/gnash
 - https://github.com/fox-it
 - https://github.com/mbbsemu
+- https://hn.algolia.com/api/v1/search_by_date
+- GitHub GraphQL repository verification
+- https://github.com/elegos/Linux-Arctis-Manager/
+- https://hackaday.com/blog/page/1509/?cat=ttd
+- https://www.phoronix.com/news/Corsair-Void-Headset-Linux-6.13
+- https://librearts.org/2026/04/introducing-open-apollo/
+- https://github.com/sgtaziz/lian-li-linux
+- https://www.phoronix.com/news/msi-claw-configuration-driver
+- https://dev.to/michael_jordan_87eaf96f24/i-reverse-engineered-a-webcam-so-claude-could-point-it-at-things-2h3
+- https://github.com/LennardKittner/HyperXCloudIIWireless
+- https://dev.to/mateusdcc/i-reverse-engineered-codexs-web-search-and-made-it-available-to-claude-gemini-and-local-models-aj7
+- https://dev.to/kolkov/we-reverse-engineered-12-versions-of-claude-code-then-it-leaked-its-own-source-code-pij
 
 ## Searches run
 
@@ -1296,3 +1308,73 @@
 - gh search: rekordbox, serato crate, guitar pro, power tab, band in a box, fl studio flp, cubase cpr, logic pro logicx, exs24, akai mpc, akai s1000, ensoniq, kontakt, native instruments, korg pcg, finale musx
 - gh search: photoshop abr, adobe xd file, illustrator ai parser, indesign indd, paint.net pdn, clip studio, krita importer, lib3ds
 - gh search: kfx, kindle kfx, mobi unpack, kobo, ichitaro, wordstar, nokia nbu, blackberry backup ipd, symbian sis
+- gh search repos: reverse engineered claude/chatgpt/codex, chatgpt atlas, antigravity proxy/api, gemini cli reverse, sora 2 api, codex/claude subscription proxy, claude max api proxy, grok reverse api
+- gh search repos (all time): whatsapp/imessage/apple notes/instagram/linkedin/bilibili/xiaohongshu/garmin/wechat/telegram/douyin/notebooklm mcp
+- gh: discord client tui
+- gh: alternative discord client
+- gh: youtube music client android
+- gh: innertube music
+- gh: spotify client terminal
+- gh: soundcloud client
+- gh: deezer client
+- gh: twitch client android
+- gh: kick.com chat
+- gh: alternative frontend
+- gh: privacy frontend
+- gh: youtube music client
+- gh: spotify client
+- gh: twitch client
+- gh: discord client
+- gh: instagram client
+- gh: tiktok client
+- gh: youtube client android
+- gh: invidious client
+- gh: piped client
+- gh: reddit client
+- gh: twitter client
+- gh: whatsapp client
+- gh: slack client terminal
+- gh: teams client linux
+- gh: google messages client
+- gh: imessage client
+- gh: soundcloud desktop client
+- gh: tidal client
+- gh: kick client
+- gh: snapchat client
+- gh: youtube tui
+- gh: spotify tui
+- gh: slack tui
+- gh: youtube music desktop
+- gh: deezer android
+- gh: tiktok alternative frontend
+- gh: instagram alternative frontend
+- gh: twitch frontend
+- gh: reddit frontend
+- gh: youtube frontend
+- gh: discord tui
+- codeberg api: repo search for frontends (wikiless, nitter, proxigram, rimgo, gothub, teddit, twitch, quora...)
+- gh search repos: msi linux, omen, legion linux, alienware, gigabyte linux, aorus, acer linux, predator linux, clevo, razer linux, rog ally, legion go, asus linux, armoury crate
+- gh search repos: lenovo vantage, legion fan, msi dragon center, msi-ec, msi fan, galaxy book linux, surface linux, chromebook linux, gpd linux, ayaneo, onexplayer
+- gh search repos: steelseries linux, glorious mouse, stream deck, elgato linux
+- web: SteelSeries Arctis Nova linux chatmix sonar alternative
+- web: reverse engineered USB protocol oscilloscope linux Rigol Siglent OWON
+- web: InfiRay thermal camera linux open source reverse engineered USB
+- web: Focusrite Vocaster linux control
+- web: Corsair Void headset linux battery reverse engineered
+- web: HyperX Cloud headset battery linux reverse engineered
+- web: Dasung e-ink monitor linux control reverse engineered
+- web: MOTU audio interface linux mixer reverse engineered
+- web: Behringer UMC / Universal Audio Apollo linux reverse engineered driver
+- web: OBSBOT Insta360 Link webcam linux control
+- web: Nreal Viture Rokid AR glasses linux driver
+- web: KVM switch USB protocol reverse engineered TESmart
+- web: Rigol oscilloscope reverse engineered USB protocol
+- web: MSI Claw linux driver
+- web: Lian Li L-Connect linux alternative
+- gh search repos: fingerprint linux driver, libfprint driver, xp-pen linux, huion linux, thermal camera linux, multimeter, logitech g, steelseries, razer, corsair, hyperx, roccat, gamesir, flydigi, joycon, dualsense, wacom, elgato
+- gh search repos: 8bitdo, xbox controller linux, thermal camera, seek thermal, flir one, infiray, owon, siglent, hantek, e-ink monitor
+- gh search repos (created>2025-10-01): reverse engineered claude/chatgpt/codex; chatgpt atlas; perplexity comet; antigravity proxy/api/manager/2api; gemini cli reverse; sora 2 api; codex/claude subscription proxy; claude max api proxy; grok reverse/grok2api/grok web; meta ai; manus; genspark; suno/udio; copilot api/proxy; kiro proxy/kiro2api; cursor2api; warp2api; windsurf api; qoder; trae api; chatgpt2api; flow2api; gemini web/business api; doubao/qwen/glm/minimax/zai/deepseek 2api; lmarena; codex app-server; claude agent sdk rust/go; claude code internals/source analysis; chatgpt desktop; claude desktop; claude cowork; codex desktop linux; even realities g2; meta ray-ban; rabbit r1; plaud; omi; humane; xreal; rokid; perplexity web/mcp; character ai; sesame; notebooklm cli/podcast; sub2api; codex2api
+- gh search repos (all time): whatsapp/imessage/apple notes/apple photos/spotify/instagram/linkedin/bilibili/xiaohongshu/garmin/wechat/telegram/douyin/notebooklm/twitter/facebook/signal/amazon/12306/weread/netease music mcp; 'unofficial mcp'; 'private api mcp'
+- gh search repos 'reverse-engineered' created>2025-10-01 sorted by stars (top 400)
+- HN Algolia search_by_date 2026 stories: reverse engineered, reverse-engineered, reverse engineering, unofficial api, mcp server, subscription
+- WebSearch: "I reverse engineered" ChatGPT OR Claude OR Gemini OR Codex 2026 github

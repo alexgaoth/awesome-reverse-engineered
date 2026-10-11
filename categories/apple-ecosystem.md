@@ -1,6 +1,6 @@
 # Apple Ecosystem
 
-[← All categories](../README.md) · 261 projects
+[← All categories](../README.md) · 264 projects
 
 - [AirPlay & AirDrop](#airplay--airdrop) (38)
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (49)
@@ -8,7 +8,7 @@
 - [Find My & AirTag](#find-my--airtag) (5)
 - [HomeKit](#homekit) (16)
 - [Other](#other) (5)
-- [Other Apple](#other-apple) (78)
+- [Other Apple](#other-apple) (81)
 - [iCloud & Apple Services](#icloud--apple-services) (16)
 - [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (40)
 
@@ -233,6 +233,7 @@
 | smcutil | SMC utility for modifying and examining Apple's SMC payloads. | 47 | <https://github.com/hack-different/smcutil> |
 | apple-wireshark | Wireshark dissectors for Apple accessory protocols such as AAP | 46 | <https://github.com/pabloaul/apple-wireshark> |
 | macOSPrivateFrameworks | Class-dumped headers of macOS private frameworks | 45 | <https://github.com/phatblat/macOSPrivateFrameworks> |
+| Notes-Of-Fruit | Android client for iCloud Notes with reverse-engineered CRDT write path | 33 | <https://github.com/ericmigi/Notes-Of-Fruit> |
 | Peepo | Apple Watch watchOS kernel read/write and live process memory dumping | 30 | <https://github.com/datalocaltmp/Peepo> |
 | Airpods-Windows-Service | A Windows Service for reading Airpods Battery and some other informations. | 28 | <https://github.com/ohanedan/Airpods-Windows-Service> |
 | WinPods | airpods battery viewer for Windows | 28 | <https://github.com/tzyuan15/WinPods> |
@@ -240,11 +241,13 @@
 | AirStatus | Check AirPods battery instantly | 25 | <https://github.com/faglo/AirStatus> |
 | efivalidate | Firmware validation of Apple T1 and prior Macs | 25 | <https://github.com/hack-different/efivalidate> |
 | apodsmon | A Linux CLI utility for checking the AirPods battery level | 22 | <https://github.com/slp/apodsmon> |
+| mac_rom | Reverse-engineered Macintosh 68k ROM source | 22 | <https://github.com/jonathanschilling/mac_rom> |
 | img4helper *(archived)* | Tool for managing Image4 files. | 21 | <https://github.com/h3adshotzz/img4helper> |
 | iBootRE | Structures, function definitions, and code reversed from old iBoot | 19 | <https://github.com/OpenJailbreak/iBootRE> |
 | apple-diagnostics-format | Python library for handling Apple Wireless Diagnostics file formats | 17 | <https://github.com/hack-different/apple-diagnostics-format> |
 | libibackup | libibackup | 16 | <https://github.com/hack-different/libibackup> |
 | apple_net_recovery | apple_net_recovery | 15 | <https://github.com/rickmark/apple_net_recovery> |
+| ld-internals | Reverse-engineered struct layouts for Apple's ld-prime and ld64 linkers | 13 | <https://github.com/assemblew/ld-internals> |
 | go-aapl-integrity | Apple Integrity Formats (img4, chunklist, trustcache, etc) | 12 | <https://github.com/hack-different/go-aapl-integrity> |
 | python-libimobiledevice | Python bindings for libimobiledevice | 11 | <https://github.com/hack-different/python-libimobiledevice> |
 | apple_utdm | Linux Kernel Mode Driver for Apple USB Target Disk Mode | 9 | <https://github.com/rickmark/apple_utdm> |

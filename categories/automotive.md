@@ -1,10 +1,10 @@
 # Automotive
 
-[← All categories](../README.md) · 291 projects
+[← All categories](../README.md) · 294 projects
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
-- [CAN Bus & ECU](#can-bus--ecu) (58)
-- [Car APIs & Telematics](#car-apis--telematics) (95)
+- [CAN Bus & ECU](#can-bus--ecu) (59)
+- [Car APIs & Telematics](#car-apis--telematics) (97)
 - [EV Batteries & BMS](#ev-batteries--bms) (21)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (25)
 - [Motorcycles](#motorcycles) (10)
@@ -116,6 +116,7 @@
 | MazdaCANbus | Database of known Mazda CAN messages | 67 | <https://github.com/majbthrd/MazdaCANbus> |
 | TruckDevil | Framework for assessing J1939 ECUs on trucks | 65 | <https://github.com/LittleBlondeDevil/TruckDevil> |
 | reversegear | Offline reverse-engineering tools for automotive networks | 54 | <https://github.com/linklayer/reversegear> |
+| audi-mlb-evo-lin | Reverse-engineered LIN protocol of Audi MLB evo center console switch panel | 12 | <https://github.com/wiskiw/audi-mlb-evo-lin> |
 
 ## Car APIs & Telematics
 
@@ -194,9 +195,11 @@
 | fordpass_china | Home Assistant integration for FordPass China (Ford/Lincoln) | 30 | <https://github.com/georgezhao2010/fordpass_china> |
 | python-chargepoint | Unofficial Python client for the ChargePoint EV charging network API | 30 | <https://github.com/mbillow/python-chargepoint> |
 | ffpass-module | Node module for the FordPass API | 28 | <https://github.com/d4v3y0rk/ffpass-module> |
+| j5-ev-dashboard | Self-hosted dashboard for CarLinko-app cars (Jaecoo, Omoda, Chery, Exeed) | 28 | <https://github.com/GodrezJr2/j5-ev-dashboard> |
 | leaf-python-mqtt | Extract Nissan Leaf API data and post to MQTT | 27 | <https://github.com/glynhudson/leaf-python-mqtt> |
 | seatconnect | Python library to communicate with Seat Connect | 25 | <https://github.com/Farfar/seatconnect> |
 | kamereon-python | Python library for Nissan/Renault/Mitsubishi Kamereon APIs | 24 | <https://github.com/mitchellrj/kamereon-python> |
+| omoda9-ha | Unofficial reverse-engineered Home Assistant integration for Omoda 9 / Jaecoo | 21 | <https://github.com/chery-connect-ha/omoda9-ha> |
 | ioBroker.fiat | ioBroker adapter for Fiat and Jeep Uconnect vehicle APIs | 20 | <https://github.com/TA2k/ioBroker.fiat> |
 | tesla-dashcam-decrypt | Reverse-engineered Tesla dashcam eCryptfs encryption; batch decryptor | 18 | <https://github.com/XGxF3/tesla-dashcam-decrypt> |
 | myhondaplus-homeassistant | Unofficial Home Assistant integration for My Honda+ | 16 | <https://github.com/enricobattocchi/myhondaplus-homeassistant> |

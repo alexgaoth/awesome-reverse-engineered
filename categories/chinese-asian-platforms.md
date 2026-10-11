@@ -1,16 +1,16 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md) · 262 projects
+[← All categories](../README.md) · 269 projects
 
 - [Bilibili](#bilibili) (47)
 - [Cloud Drives](#cloud-drives) (28)
-- [Douyin & Kuaishou](#douyin--kuaishou) (25)
+- [Douyin & Kuaishou](#douyin--kuaishou) (26)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (21)
 - [Japan & Korea](#japan--korea) (30)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (27)
-- [Shopping & Services](#shopping--services) (16)
-- [WeChat & QQ](#wechat--qq) (46)
-- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (22)
+- [Shopping & Services](#shopping--services) (17)
+- [WeChat & QQ](#wechat--qq) (50)
+- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (23)
 
 ## Bilibili
 
@@ -126,6 +126,7 @@
 | tiktok-reverse-engineering | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 165 | <https://github.com/notemrovsky/tiktok-reverse-engineering> |
 | tiktok-web-reverse-engineering | TikTok web X-Bogus and X-Gnarly reverse engineering with strData/eData encrypt and decrypt | 85 | <https://github.com/justbeluga/tiktok-web-reverse-engineering> |
 | douyin_sign | Implementations of Douyin web a_bogus, X-Bogus and msToken algorithms | 76 | <https://github.com/ylcangel/douyin_sign> |
+| KuaiShou-Spider | Kuaishou reverse engineering: full API and live-room listener | 64 | <https://github.com/cv-cat/KuaiShou-Spider> |
 
 ## Games (miHoYo etc.)
 
@@ -238,6 +239,7 @@
 | 12306_ticket_helper | Browser helper for booking tickets on 12306 | 803 | <https://github.com/iccfish/12306_ticket_helper> |
 | Coolapk-Lite | 一个基于 UWP 平台的第三方酷安客户端精简版 | 617 | <https://github.com/Coolapk-UWP/Coolapk-Lite> |
 | 12306_code_server | Self-hosted 12306 captcha recognition server | 535 | <https://github.com/yinaoxiong/12306_code_server> |
+| TaoBaoApis | Taobao signing algorithm reverse and API client with websocket automation | 337 | <https://github.com/cv-cat/TaoBaoApis> |
 | 12306_Ticket | 12306 ticket purchase, cancel and refund program | 156 | <https://github.com/Henryhaohao/12306_Ticket> |
 | unidbg-jd-sign | JD app API signature generation by emulating the native library with unidbg | 153 | <https://github.com/yongjiu8/unidbg-jd-sign> |
 
@@ -268,9 +270,11 @@
 | ComWeChatRobot *(archived)* | PC WeChat robot via hooking, exposed as a COM interface | 1,814 | <https://github.com/ljc545w/ComWeChatRobot> |
 | MiraiGo | Go port of the Mirai QQ protocol implementation | 1,213 | <https://github.com/Mrs4s/MiraiGo> |
 | wxbot | PC WeChat hook module and bot | 1,100 | <https://github.com/jwping/wxbot> |
+| qclaw-wechat-client *(archived)* | Reverse-engineered TypeScript client for QClaw's WeChat Access API | 797 | <https://github.com/photon-hq/qclaw-wechat-client> |
 | puppet-padlocal | Wechaty puppet using the WeChat iPad protocol | 769 | <https://github.com/wechaty/puppet-padlocal> |
 | ItChat-UOS | Revived ItChat WeChat web-protocol client using the UOS login path | 742 | <https://github.com/why2lyj/ItChat-UOS> |
 | vscode-qq | VS Code QQ extension based on the Android QQ protocol | 731 | <https://github.com/takayama-lily/vscode-qq> |
+| weread-omni | WeRead toolkit with agent, API, SDK, CLI and 40 operations over the private API | 665 | <https://github.com/teng-lin/weread-omni> |
 | wechat_chatter | macOS WeChat send/receive messages by reverse engineering the client | 651 | <https://github.com/yincongcyincong/wechat_chatter> |
 | ChatGPT-weBot | ChatGPT WeChat bot built on a WeChat hook interface | 645 | <https://github.com/SnapdragonLee/ChatGPT-weBot> |
 | puppet-xp | Wechaty puppet for the Windows WeChat client via hooking | 552 | <https://github.com/wechaty/puppet-xp> |
@@ -279,6 +283,7 @@
 | WeChat-Data-Analysis | WeChat chat export and database decryption for iPhone and macOS | 475 | <https://github.com/allen1881996/WeChat-Data-Analysis> |
 | wxhook | Python WeChat bot framework hooking multiple PC WeChat versions | 396 | <https://github.com/miloira/wxhook> |
 | WechatHook | Android WeChat hooking with Xposed and accessibility services | 385 | <https://github.com/duqian291902259/WechatHook> |
+| weread-exporter (lbq110) | Exports full WeRead books to Markdown via Playwright + Canvas hook | 321 | <https://github.com/lbq110/weread-exporter> |
 | wxwork_pc_api | WeCom (WeChat Work) PC hook bot | 256 | <https://github.com/linuxxx/wxwork_pc_api> |
 | wx-mp-mcp | MCP server that unpacks WeChat mini programs and recovers API signing logic | 224 | <https://github.com/WhiteNightShadow/wx-mp-mcp> |
 | miniapp-cdp-mcp | MCP server for WeChat mini program reverse engineering through Chrome DevTools | 213 | <https://github.com/zhizhuodemao/miniapp-cdp-mcp> |
@@ -289,6 +294,7 @@
 | puppet-wechat4u | Wechaty puppet based on the wechat4u web protocol | 129 | <https://github.com/wechaty/puppet-wechat4u> |
 | wechat-decrypt | WeChat 4.0 database decryptor with memory-based key extraction | 104 | <https://github.com/328336690/wechat-decrypt> |
 | pc-wechat-hook-http-api | PC WeChat hook service exposing HTTP and WebSocket APIs | 101 | <https://github.com/daenmax/pc-wechat-hook-http-api> |
+| wechat-ilink-client | TypeScript client for WeChat iLink bot protocol, reversed from openclaw-weixin | 82 | <https://github.com/photon-hq/wechat-ilink-client> |
 | androidqq-sniffer | Tools for sniffing the Android QQ protocol | 54 | <https://github.com/yggo/androidqq-sniffer> |
 | Konata.Core *(archived)* | C# implementation of the Android QQ protocol core | 32 | <https://github.com/KonataDev/Konata.Core> |
 
@@ -303,6 +309,7 @@
 | zhihu-plus-plus | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 | 4,235 | <https://github.com/zly2006/zhihu-plus-plus> |
 | WeiboSpider | Maintained Sina Weibo data collection tool | 4,120 | <https://github.com/nghuyong/WeiboSpider> |
 | SinaSpider | Sina Weibo crawler built on Scrapy and Redis | 3,285 | <https://github.com/LiuXingMing/SinaSpider> |
+| xiaohongshu-cli | Xiaohongshu CLI to search, read and interact via reverse-engineered API | 2,664 | <https://github.com/jackwener/xiaohongshu-cli> |
 | weibo-search | Collects Weibo keyword and topic search results | 2,329 | <https://github.com/dataabc/weibo-search> |
 | weibo_terminater | Weibo crawler for posts, comments and followers | 2,317 | <https://github.com/lucasjinreal/weibo_terminater> |
 | Hydrogen | 一个基于luajvm开发的第三方知乎安卓客户端 | 1,796 | <https://github.com/zhihulite/Hydrogen> |

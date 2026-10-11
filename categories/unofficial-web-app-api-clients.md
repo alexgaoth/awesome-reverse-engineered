@@ -1,22 +1,22 @@
 # Unofficial Web/App API Clients
 
-[← All categories](../README.md) · 472 projects
+[← All categories](../README.md) · 483 projects
 
 - [Books, Reading & Learning](#books-reading--learning) (19)
 - [Dating](#dating) (12)
 - [Finance & Banking](#finance--banking) (71)
 - [Google Services](#google-services) (29)
-- [Music & Audio Streaming](#music--audio-streaming) (42)
+- [Music & Audio Streaming](#music--audio-streaming) (47)
 - [Other](#other) (11)
-- [Other APIs](#other-apis) (40)
+- [Other APIs](#other-apis) (42)
 - [Productivity](#productivity) (39)
 - [Real Estate](#real-estate) (7)
 - [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (29)
 - [Shopping & Marketplaces](#shopping--marketplaces) (34)
-- [Social & Content Platforms](#social--content-platforms) (38)
+- [Social & Content Platforms](#social--content-platforms) (40)
 - [Translation](#translation) (16)
 - [Travel & Transport](#travel--transport) (53)
-- [Video & YouTube](#video--youtube) (32)
+- [Video & YouTube](#video--youtube) (34)
 
 ## Books, Reading & Learning
 
@@ -195,13 +195,18 @@
 | bandcamp-dl | Simple python script to download Bandcamp albums | 1,178 | <https://github.com/Evolution0/bandcamp-dl> |
 | OrpheusDL | Modular music archival tool with modules for multiple streaming services' private APIs | 1,033 | <https://github.com/OrfiTeam/OrpheusDL> |
 | yandex-music-downloader | Downloader for Yandex Music using its private API | 1,004 | <https://github.com/llistochek/yandex-music-downloader> |
+| ShazamIO | Async Python library for the reverse-engineered Shazam API | 978 | <https://github.com/shazamio/ShazamIO> |
+| spotify-lyrics-api | REST API fetching Spotify's Musixmatch-powered lyrics via its private endpoints | 638 | <https://github.com/akashrchandran/spotify-lyrics-api> |
 | python-tidal | Python API for TIDAL music streaming service | 563 | <https://github.com/EbbLabs/python-tidal> |
+| syncedlyrics | Fetch synchronized LRC lyrics from Musixmatch, Deezer, NetEase and other providers | 519 | <https://github.com/moehmeni/syncedlyrics> |
 | SpotAPI | A python wrapper for the public & private Spotify API | 484 | <https://github.com/Aran404/SpotAPI> |
 | JioSaavnAPI | Unofficial Python API for JioSaavn music streaming | 465 | <https://github.com/cyberboysumanjay/JioSaavnAPI> |
 | librespot-java | [DEPRECATED] The most up-to-date open source Spotify client | 421 | <https://github.com/librespot-org/librespot-java> |
 | go-librespot | Yet another open source Spotify client, written in Go. | 377 | <https://github.com/devgianlu/go-librespot> |
+| amazon-music | Programmatic access to Amazon Music/Prime Music streaming via its web API | 356 | <https://github.com/Jaffa/amazon-music> |
 | librespot-python | Open Source Spotify Client | 331 | <https://github.com/kokarare1212/librespot-python> |
 | Turntable-API | Unofficial turntable.fm API for building bots | 318 | <https://github.com/alaingilbert/Turntable-API> |
+| syrics *(archived)* | CLI fetching synced and unsynced lyrics from Spotify and saving LRC files | 249 | <https://github.com/akashrchandran/syrics> |
 | librespot-golang | Go port of librespot, the Open Source Spotify client library | 194 | <https://github.com/librespot-org/librespot-golang> |
 | yandex-music-api | Node.js wrapper for the unofficial Yandex Music API | 192 | <https://github.com/itsmepetrov/yandex-music-api> |
 | GaanaAPI | Unofficial API for Gaana music streaming | 153 | <https://github.com/cyberboysumanjay/GaanaAPI> |
@@ -257,6 +262,7 @@
 | letterboxdpy | Letterboxd scraper/unofficial API for users, films and lists | 182 | <https://github.com/nmcassa/letterboxdpy> |
 | amzSear | Unofficial Amazon search CLI and Python API | 110 | <https://github.com/asherAgs/amzSear> |
 | MariOver | Makes almost all of the data exposed by Mario Maker 2 servers public through an API | 87 | <https://github.com/TheGreatRambler/MariOver> |
+| jomato-mobile | Unofficial API wrapper for Zomato's mobile API | 81 | <https://github.com/jatin-dot-py/jomato-mobile> |
 | undocumented-s3-apis | Catalog of undocumented Amazon S3 APIs and third-party extensions | 71 | <https://github.com/gaul/undocumented-s3-apis> |
 | Shopify-Private-APIs | Reverse-engineered Shopify private admin APIs | 64 | <https://github.com/martinamps/Shopify-Private-APIs> |
 | CasperReverse | Write-up and code for the reverse-engineered Casper private API | 57 | <https://github.com/casperreverser/CasperReverse> |
@@ -264,6 +270,7 @@
 | JimmyJohns | Unofficial Jimmy John's Client for Node.js | 18 | <https://github.com/mmahler2/JimmyJohns> |
 | capi | Unofficial Codepen.io API | 14 | <https://github.com/lucagez/capi> |
 | readsync | Reverse-engineered Amazon Kindle Whispersync API client in Python | 14 | <https://github.com/lolsborn/readsync> |
+| bunpro-community-api | Community reverse-engineered API reference for Bunpro | 12 | <https://github.com/cbullard-dev/bunpro-community-api> |
 | PlusPortalsAPI | An unofficial interface to PlusPortals | 9 | <https://github.com/DhruvBisla/PlusPortalsAPI> |
 | radio5 | Adapter for Radiooooo private API | 9 | <https://github.com/ocvit/radio5> |
 | maxbought-api | Wrapper for MaxSold's undocumented live auction APIs | 8 | <https://github.com/holts-shoe/maxbought-api> |
@@ -427,6 +434,7 @@
 | node-steam-user | Allows interaction with the Steam network via the Steam client protocol | 1,124 | <https://github.com/DoctorMcKay/node-steam-user> |
 | TikHub-API-Python-SDK | Async SDK for scraping Douyin, TikTok, Xiaohongshu, Kuaishou, Weibo and more | 914 | <https://github.com/TikHub/TikHub-API-Python-SDK> |
 | HomeHarvest | Python package for scraping real estate property data | 751 | <https://github.com/ZacharyHampton/HomeHarvest> |
+| tweety | Python Twitter/X scraper using the private web GraphQL API | 669 | <https://github.com/mahrtayyab/tweety> |
 | py3-pinterest | Fully fledged Python Pinterest client | 391 | <https://github.com/bstoilov/py3-pinterest> |
 | quora-api | An unofficial API for Quora. | 304 | <https://github.com/christophersu/quora-api> |
 | linkedin-private-api | LinkedIn NodeJS API, written in TypeScript. | 293 | <https://github.com/eilonmore/linkedin-private-api> |
@@ -439,6 +447,7 @@
 | wb-private-api | Wrapper for the private API of the Wildberries marketplace | 111 | <https://github.com/glmn/wb-private-api> |
 | pyzill | Zillow scraper made in Python | 106 | <https://github.com/johnbalvin/pyzill> |
 | epicstore_api | Epic Games Store Web API Wrapper written in Python | 104 | <https://github.com/SD4RK/epicstore_api> |
+| node-snapchat | Snapchat client library in Node.js using the reverse-engineered private API | 93 | <https://github.com/lucasad/node-snapchat> |
 | Hook | Unofficial Product Hunt REST API | 90 | <https://github.com/karan/Hook> |
 | vino | JS client for Vine's undocumented API | 90 | <https://github.com/tlack/vino> |
 | actor-zillow-api-scraper | Apify actor for extracting data about homes from Zillow.com using it's internal API. | 62 | <https://github.com/cermak-petr/actor-zillow-api-scraper> |
@@ -558,9 +567,11 @@
 | ytdl-core *(archived)* | YouTube video downloader in javascript. | 512 | <https://github.com/distubejs/ytdl-core> |
 | innertube | Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more! | 507 | <https://github.com/tombulled/innertube> |
 | ejs | External JavaScript for yt-dlp supporting many runtimes | 460 | <https://github.com/yt-dlp/ejs> |
+| pytchat *(archived)* | Python library for reading YouTube live chat without the official API | 370 | <https://github.com/taizan-hokuto/pytchat> |
 | Piped-Backend | The core component behind Piped, and other alternative frontends! | 170 | <https://github.com/TeamPiped/Piped-Backend> |
 | netflix-force-4k | Reverse-engineered Netflix 4K playback checks; extension forces 4K on unsupported browsers | 148 | <https://github.com/Pickle-Pixel/netflix-force-4k> |
 | twitch-graphql-api | Undocumented, uncorroborated, but certainly not unPoggers. | 134 | <https://github.com/mauricew/twitch-graphql-api> |
 | twitch-graphql-api | A documentation and schema scraping of Twitch's GraphQL API. | 60 | <https://github.com/SuperSonicHub1/twitch-graphql-api> |
 | disneyplus-client | Client for interacting with the Disney+ private API | 30 | <https://github.com/jonbarrow/disneyplus-client> |
+| pyytlounge | Python client for the reverse-engineered YouTube Lounge (TV remote) API | 27 | <https://github.com/FabioGNR/pyytlounge> |
 | YouScrape *(archived)* | Unofficial replacement for YouTube Data API v3 using internal endpoints | 6 | <https://github.com/MirazMac/YouScrape> |

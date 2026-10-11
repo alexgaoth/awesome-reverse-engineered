@@ -1,10 +1,10 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md) · 2,028 projects
+[← All categories](../README.md) · 2,036 projects
 
 - [Asset & File-Format Tools](#asset--file-format-tools) (122)
 - [Console Emulators](#console-emulators) (14)
-- [Engine Reimplementations](#engine-reimplementations) (540)
+- [Engine Reimplementations](#engine-reimplementations) (543)
 - [Game Network Protocols & APIs](#game-network-protocols--apis) (68)
 - [Launchers & Store Clients](#launchers--store-clients) (35)
 - [Matching Decompilations — Arcade](#matching-decompilations--arcade) (2)
@@ -14,7 +14,7 @@
 - [Matching Decompilations — Mobile](#matching-decompilations--mobile) (22)
 - [Matching Decompilations — Nintendo 64](#matching-decompilations--nintendo-64) (81)
 - [Matching Decompilations — Other / Multi-platform](#matching-decompilations--other--multi-platform) (115)
-- [Matching Decompilations — PC / DOS / Windows](#matching-decompilations--pc--dos--windows) (88)
+- [Matching Decompilations — PC / DOS / Windows](#matching-decompilations--pc--dos--windows) (89)
 - [Matching Decompilations — PSP / Vita / PS3](#matching-decompilations--psp--vita--ps3) (2)
 - [Matching Decompilations — PlayStation 1](#matching-decompilations--playstation-1) (58)
 - [Matching Decompilations — PlayStation 2](#matching-decompilations--playstation-2) (54)
@@ -24,9 +24,9 @@
 - [Matching Decompilations — Xbox](#matching-decompilations--xbox) (12)
 - [Mod Loaders & Script Extenders](#mod-loaders--script-extenders) (74)
 - [Open-source Game Clones](#open-source-game-clones) (59)
-- [Other](#other) (36)
-- [Private Servers](#private-servers) (121)
-- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (266)
+- [Other](#other) (38)
+- [Private Servers](#private-servers) (122)
+- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (267)
 
 ## Asset & File-Format Tools
 
@@ -470,6 +470,7 @@
 | engge2 | Open source remake of Thimbleweed Park's engine | 53 | <https://github.com/scemino/engge2> |
 | Prince-Monogame | Monogame implementation of Prince of Persia 2. | 53 | <https://github.com/salvadorc17/Prince-Monogame> |
 | SimUnity2 *(archived)* | Attempt at a reimplementation of The Sims 2 Ultimate Collection in the Unity Engine... | 52 | <https://github.com/LazyDuchess/SimUnity2> |
+| wacki | From-scratch C/SDL2 reimplementation of Wacki (1998) from reverse-engineered opcodes | 52 | <https://github.com/mszula/wacki> |
 | OpenNitemare3D | reimplementation of the 1994 FPS Nitemare 3D | 51 | <https://github.com/BBQGiraffe/OpenNitemare3D> |
 | BtBuilder | An open source implementation of the Bard's Tale Construction Set. | 50 | <https://github.com/dulsi/btbuilder> |
 | DesktopAdventures | A recreation of the Desktop Adventures engine in C | 50 | <https://github.com/shinyquagsire23/DesktopAdventures> |
@@ -502,6 +503,7 @@
 | OpenRakis | Tools for an open-source reimplementation of Cryo's Dune (1992) | 36 | <https://github.com/OpenRakis/OpenRakis> |
 | openzt | WIP Reimplimentation of Zoo Tycoon (2001) | 36 | <https://github.com/openzt1/openzt> |
 | JJFFE *(archived)* | John Jordan's reverse engineering of Frontier: First Encounters. | 35 | <https://github.com/videogamepreservation/jjffe> |
+| reb3 | Partial reverse-engineered rebuild of Burnout 3: Takedown | 35 | <https://github.com/lolz0r/reb3> |
 | sadx_decomp *(archived)* | Sonic Adventure DX Decompilation | 35 | <https://github.com/FraGag/sadx_decomp> |
 | Pokémon Anniversary Red | Anniversary Red dissassembly | 34 | <https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed> |
 | rsc-remastered | Reverse-engineered implementation of the RuneScape Classic client | 34 | <https://github.com/Danjb1/rsc-remastered> |
@@ -530,6 +532,7 @@
 | Iris2 | An Open-Source 3D Ultima Online(tm) Client. No active development, mostly for archival purposes as the original proje... | 25 | <https://github.com/kblaschke/Iris2> |
 | Thirdeye | Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack. | 25 | <https://github.com/psi29a/thirdeye> |
 | Harold | Open-source Fallout 2 engine implementation, a revival of darkfo project | 24 | <https://github.com/OldGamesLab/Harold> |
+| skyroads-port | 1:1 reverse-engineered portable port of SkyRoads (1993) in C11 + SDL2 | 24 | <https://github.com/ammaarreshi/skyroads-port> |
 | Bedlam 2: Absolute Bedlam | Source code for Bedlam 2 (1997) game executable file. | 23 | <https://github.com/8street/Bedlam2> |
 | F-Zero Clone | A WebGL F-Zero clone. Show ya moves! | 23 | <https://github.com/chipbell4/F-Zero-Clone> |
 | OpenNox *(archived)* | Open-source reimplementation of Nox | 23 | <https://github.com/noxworld-dev/opennox> |
@@ -654,7 +657,7 @@
 | Quarantine | Game Engine re-creation of Quarantine by Imagexcel | 2 | <https://github.com/mattseabrook/Quarantine> |
 | SITDDISASM | A disassembly of the game "Shining in the Darkness" for documentation and fan-project purposes. | 2 | <https://github.com/ShiningForceCentral/SITDDISASM> |
 | Super Star Trek meets 25th Anniversary | source code of Super Star Trek 1978 meets 25th Anniversary | 2 | <https://github.com/emabolo/sst25th> |
-| tetris_nes | NES Tetris decompiled and rebuilt in readable Rust | 2 | <https://github.com/sanghoonio/nes-tetris> |
+| tetris_nes | NES Tetris decompiled and rebuilt in readable Rust | 2 | <https://github.com/sanghoonio/tetris_nes> |
 | Travel With Trashman | A disassembly of Travel With Trashman, created using SkoolKit. | 2 | <https://github.com/pobtastic/travelwithtrashman> |
 | ult3src | ultima 3 exodus reverse enigneered by Sven Carlberg for GBC http://sven.50webs.org/ultima3.html | 2 | <https://github.com/gondur/ult3src> |
 | Uplink | Decompilation of Uplink by Introversion Software (GOG Linux version, installer gog_uplink_hacker_elite_2.0.0.4.sh) | 2 | <https://github.com/AdrUlb/Uplink> |
@@ -1325,6 +1328,7 @@
 | Black & White | Matching decompilation of Black & White (PC, 2001) | 84 | <https://github.com/openblack/bw1-decomp> |
 | SkiFree | Matching decompilation of SkiFree (PC, 1991) | 70 | <https://github.com/yuv422/skifree_decomp> |
 | Star Wars Episode I: Racer | Matching decompilation of Star Wars Episode I: Racer (PC, 1999) | 67 | <https://github.com/tim-tim707/SW_RACER_RE> |
+| half-life1_win32_722 | Reverse-engineered source of Half-Life 1 Net Test 1 (build 722) | 60 | <https://github.com/ScriptedSnark/half-life1_win32_722> |
 | Buckshot Roulette | Decompilation of Buckshot Roulette (PC, 2023) | 51 | <https://github.com/uncreativeCultist/buckshot-decomp-public> |
 | Space Rangers HD: A War Apart | Matching decompilation of Space Rangers HD: A War Apart (PC, 2013) | 48 | <https://github.com/pakompom/SpaceRangersHD_decomp> |
 | FlatOut 2 | Decompilation of FlatOut 2 (PC, 2006) | 43 | <https://github.com/ZackWilde27/FlatOut-2-decomp> |
@@ -1768,7 +1772,9 @@
 | Super-Mario-64-DS-Remastered | **OPEN SOURCE EPIC** | 45 | <https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered> |
 | Genesis 68K Static Recompiler | Sega Genesis / Mega Drive game static recompiler ecosystem · Part of the R.A.I.D. community | 43 | <https://github.com/mstan/segagenesisrecomp> |
 | Lotus STE | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features | 42 | <https://github.com/jonathanopalise/lotus-ste> |
+| osdbits | Parts of the PlayStation 2 OSDSYS reverse engineered | 33 | <https://github.com/aap/osdbits> |
 | Ultima V Remastered | Ultima V remastered for EasyFlash and 1581 | 32 | <https://github.com/Drunella/u5remastered> |
+| plugin-sdk-sa | GTA San Andreas plugin SDK extended from a fully reverse-engineered codebase | 31 | <https://github.com/Dryxio/plugin-sdk-sa> |
 | Beasts and Bumpkins Fan Patch | Tool for Beasts and Bumpkins game data (osgameclones) (Go) | 29 | <https://github.com/bb-patch/bb-patch> |
 | ShinDataUtil | This is an utility for working with game files of Higurashi no Naku Koro ni and Kono Subarashii Sekai ni Shukufuku wo... | 20 | <https://github.com/DCNick3/ShinDataUtil> |
 | hobbitgfx | The Hobbit graphics engine | 19 | <https://github.com/richcarl/hobbitgfx> |
@@ -1900,6 +1906,7 @@
 | Lolo | 开放空间/OverField 服务端部分实现 | 18 | <https://github.com/BanterSR/Lolo> |
 | spikewall | An open source server for the defunct 2015 mobile game Sonic Runners. | 17 | <https://github.com/Ramen2X/spikewall> |
 | assettocorsa_competizione_server | Assetto Corsa Competizione server | 16 | <https://github.com/renaudallard/assettocorsa_competizione_server> |
+| Z7 | Reverse-engineered Blaze server for Plants vs Zombies: Garden Warfare 2 | 15 | <https://github.com/Khysnik/Z7> |
 | of-ps | overfield emu server | 12 | <https://github.com/byzp/of-ps> |
 | OpenLethe | OpenLethe | 10 | <https://github.com/LEAGUE-OF-NINE/OpenLethe> |
 | hk4e-go | 世҉̰̗͕́͢͡界҈̧̟͙̖̎̎̕遗҈͚̄̓̍̕͜忘҈̢͕̙̪̄͞我҉̛̰̯̊͢ | 9 | <https://github.com/Kei-Luna/hk4e-go> |
@@ -2110,6 +2117,7 @@
 | PerfectDarkZeroRecomp | Perfect Dark Zero [Xbox360] game static recompilation project based on RexGlue-SDK | 16 | <https://github.com/nikolaygorb/PerfectDarkZeroRecomp> |
 | weltendaemmerung | Reverse engineering a C64 game with AI and porting it to the web | 16 | <https://github.com/s-macke/weltendaemmerung> |
 | Earthbound Companion | Recomp of Earthbound (SNES) to PC. | 15 | <https://github.com/rages4calm/earthbound-companion> |
+| scooby-doo-mystery port | Native SFML port of Sega Genesis Scooby-Doo Mystery from reverse-engineered 68000 code | 15 | <https://github.com/janezkranjc/scooby-doo-mistery-mouse-version> |
 | Sonic '06 Demo | Xbox 360 static recompilation of Sonic '06 Demo | 15 | <https://github.com/PranchaD/re-Sonic06Demo> |
 | OpenEmperor | 🤴🏼 Clean-room reimplementation of Emperor: Rise of the Middle Kingdom in C++20 and SDL3. Built for modern systems, st... | 14 | <https://github.com/oliverjessner/OpenEmperor> |
 | socom-unzipped | SOCOM II: U.S. Navy SEALs, statically recompiled for PC with self-hosted online play | 14 | <https://github.com/Scotho/socom-unzipped> |

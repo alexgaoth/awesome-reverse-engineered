@@ -1,11 +1,11 @@
 # Mobile Apps
 
-[← All categories](../README.md) · 79 projects
+[← All categories](../README.md) · 80 projects
 
 - [Android Apps](#android-apps) (3)
 - [App Store Clients & Downloaders](#app-store-clients--downloaders) (19)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (7)
+- [Fitness & Education Apps](#fitness--education-apps) (8)
 - [Other](#other) (1)
 - [Patched & Alternative Clients](#patched--alternative-clients) (28)
 - [Transport & Delivery Apps](#transport--delivery-apps) (5)
@@ -59,6 +59,7 @@
 | peloton-to-garmin | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | <https://github.com/philosowaffle/peloton-to-garmin> |
 | garmin-connect *(archived)* | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | <https://github.com/abrander/garmin-connect> |
 | zwift-client | Python client for the Zwift mobile API | 62 | <https://github.com/jsmits/zwift-client> |
+| mywhoosh-api | Unofficial API documentation for the MyWhoosh cycling app | 16 | <https://github.com/mywhoosh-community/mywhoosh-api> |
 | duobot | Duolingo automation built on the reverse-engineered Android app API | 4 | <https://github.com/mc51/duobot> |
 | pypeloton | Sync and async Python client for the Peloton API | 2 | <https://github.com/raman325/pypeloton> |
 | Duolingo | Unofficial Duolingo API in Python | 0 | <https://github.com/idefux/Duolingo> |

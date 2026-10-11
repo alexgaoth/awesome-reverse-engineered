@@ -1,8 +1,8 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 71 projects
+[← All categories](../README.md) · 72 projects
 
-- [Applications](#applications) (22)
+- [Applications](#applications) (23)
 - [Binary Translators](#binary-translators) (7)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (7)
 - [OS & Compatibility Layers](#os--compatibility-layers) (35)
@@ -30,6 +30,7 @@
 | LibreShockwave | Open-source SDK, decompiler and web player for Adobe Shockwave | 85 | <https://github.com/LibreShockwave/LibreShockwave> |
 | Mariana | ActionScript 3 runtime for .NET | 20 | <https://github.com/jfd16/Mariana> |
 | InstallerLG | A reimplementation of the LISP-like 'Installer' scripting language. | 19 | <https://github.com/sodero/InstallerLG> |
+| paper-rs | Clean-room Rust reimplementation of the Paper design app | 19 | <https://github.com/michaelshimeles/paper-rs> |
 | WordTsar | Open-source clone of the WordStar word processor that edits WordStar files | 18 | <https://github.com/sleaze/WordTsar> |
 | HCX | macOS app that opens and runs classic HyperCard stacks | 17 | <https://github.com/pgostation/HCX> |
 | libfreehand | Import library for Aldus/Macromedia FreeHand documents | 8 | <https://github.com/LibreOffice/libfreehand> |

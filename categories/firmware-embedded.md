@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 225 projects
+[← All categories](../README.md) · 231 projects
 
 - [Camera Firmware](#camera-firmware) (15)
-- [Custom Firmware](#custom-firmware) (48)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (45)
+- [Custom Firmware](#custom-firmware) (51)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (47)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (53)
-- [Routers & Network Gear](#routers--network-gear) (64)
+- [Routers & Network Gear](#routers--network-gear) (65)
 
 ## Camera Firmware
 
@@ -67,18 +67,21 @@
 | LibreTiny | Arduino/PlatformIO support for Beken/Realtek chips used in Tuya and other IoT devices | 548 | <https://github.com/libretiny-eu/libretiny> |
 | rpi-open-firmware (librerpi) | Open-source VPU bootloader for the Raspberry Pi | 466 | <https://github.com/librerpi/rpi-open-firmware> |
 | kindle-5.6.5-jailbreak | Kindle 5.6.5 firmware exploitation tools to jailbreak the e-reader | 432 | <https://github.com/sgayou/kindle-5.6.5-jailbreak> |
+| rk3562deb | Debian 13 for the Doogee U10 RK3562 tablet, reverse-engineered without a BSP | 403 | <https://github.com/tech4bot/rk3562deb> |
 | switch-linux | Linux kernel port for the Nintendo Switch | 359 | <https://github.com/fail0verflow/switch-linux> |
 | esp8266-midea-dehumidifier | Cloud-free wifi dehumidification | 191 | <https://github.com/Hypfer/esp8266-midea-dehumidifier> |
 | Laser_tape_reverse_engineering | Reverse-engineered cheap X-40 laser tape measure with alternative firmware | 136 | <https://github.com/iliasam/Laser_tape_reverse_engineering> |
 | Analogue Duo JB | Jailbreak for the Analogue Duo console | 125 | <https://github.com/analoguejb/Analogue-Duo-JB> |
 | flipperzero-protobuf | Protobuf definitions for the Flipper Zero RPC protocol | 104 | <https://github.com/flipperdevices/flipperzero-protobuf> |
 | DVRPwned | First custom firmware for the Sony PSX DESR DVRP | 90 | <https://github.com/pcm720/dvrpwned> |
+| xiaomi-hyperos-bootloader-unlock | HyperOS/MIUI bootloader unlock via RPMB erase, LK reverse-engineered with Ghidra | 70 | <https://github.com/Jz8Root/xiaomi-hyperos-bootloader-unlock> |
 | esp8266-deerma-humidifier | Custom firmware to uncloud the Xiaomi Mi Smart Antibacterial Humidifier | 64 | <https://github.com/Hypfer/esp8266-deerma-humidifier> |
 | wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | <https://github.com/Heisath/wdmc2-kernel> |
 | rpi-open-firmware | Open-source VideoCore firmware for the Raspberry Pi | 40 | <https://github.com/christinaa/rpi-open-firmware> |
 | SGS01BTHome | Custom firmware for the Tuya SGS01 soil sensor to send data in standard BTHome format | 28 | <https://github.com/haraldapp/SGS01BTHome> |
 | iPodLinux | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | <https://github.com/iPodLinux/iPodLinux-SVN> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
+| macrosilicon_firmware | Custom EEPROM firmware for Macrosilicon USB video chips from mask ROM disassembly | 12 | <https://github.com/kraln/macrosilicon_firmware> |
 | sengled-hub-reclaim | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | <https://github.com/djshadowxm82/sengled-hub-reclaim> |
 
 ## Firmware Analysis Tools
@@ -128,7 +131,9 @@
 | AMT630A | Reverse-engineered AMT630A display controller from a cheap backup camera screen | 38 | <https://github.com/mogrinz/AMT630A> |
 | insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras | 36 | <https://github.com/enekochan/insta360-go-firmware-tool> |
 | qemu-hexagon | QEMU with support for QDSP6 user mode emulation | 34 | <https://github.com/Comsecuris/qemu-hexagon> |
+| odyssey-g5-firmware-research | Reverse-engineering Samsung Odyssey G5 monitor firmware for hidden features | 32 | <https://github.com/c8dhjp4tyv-bit/odyssey-g5-firmware-research> |
 | NTRDisasm *(archived)* | Annotated disassembly of the NTR 2.x custom firmware for the Nintendo N3DS | 24 | <https://github.com/patois/NTRDisasm> |
+| Smiko | Reverse engineering and exploiting the Google Security Chip (Titan/H1) | 15 | <https://github.com/HavenOverflow/Smiko> |
 | Cyclone_CRAM_Mapper | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | <https://github.com/14sea/Cyclone_CRAM_Mapper> |
 
 ## Retro Handhelds & Calculators
@@ -234,6 +239,7 @@
 | asusrouter | API wrapper for ASUSWRT-powered routers over HTTP | 127 | <https://github.com/Vaskivskyi/asusrouter> |
 | uiprotect | Unofficial Python API for UniFi Protect | 104 | <https://github.com/uilibs/uiprotect> |
 | omada-api | Python wrapper for the TP-Link Omada Software Controller API | 94 | <https://github.com/ghaberek/omada-api> |
+| open-u60-pro | ZTE U60 Pro 5G router toolkit with reverse-engineered 143-endpoint API | 91 | <https://github.com/jesther-ai/open-u60-pro> |
 | aiounifi | Async Python library for the UniFi Controller API | 90 | <https://github.com/Kane610/aiounifi> |
 | python-qnapstats | Python API for obtaining QNAP NAS system stats | 89 | <https://github.com/colinodell/python-qnapstats> |
 | linksys_velop | Home Assistant integration for Linksys Velop mesh using its local JNAP API | 77 | <https://github.com/uvjim/linksys_velop> |

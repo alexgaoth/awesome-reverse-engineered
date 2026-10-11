@@ -1,11 +1,11 @@
 # Devices, IoT & Hardware
 
-[← All categories](../README.md) · 1,194 projects
+[← All categories](../README.md) · 1,324 projects
 
 - [3D Printers & Makers](#3d-printers--makers) (9)
 - [Appliances & Kitchen](#appliances--kitchen) (61)
-- [Audio](#audio) (17)
-- [Cameras & Drones](#cameras--drones) (59)
+- [Audio](#audio) (25)
+- [Cameras & Drones](#cameras--drones) (61)
 - [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (47)
 - [GPUs & Drivers](#gpus--drivers) (6)
 - [HVAC & Heat Pumps](#hvac--heat-pumps) (75)
@@ -13,13 +13,13 @@
 - [Locks, Garage & Security](#locks-garage--security) (30)
 - [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (80)
 - [Music Gear & Synth Editors](#music-gear--synth-editors) (89)
-- [Other](#other) (11)
-- [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (125)
+- [Other](#other) (22)
+- [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (225)
 - [Printers, Labels & E-ink](#printers-labels--e-ink) (37)
-- [Smart Home & IoT](#smart-home--iot) (153)
+- [Smart Home & IoT](#smart-home--iot) (158)
 - [Solar, Batteries & EV Chargers](#solar-batteries--ev-chargers) (156)
 - [VR & Tracking](#vr--tracking) (37)
-- [Wearables & Health](#wearables--health) (129)
+- [Wearables & Health](#wearables--health) (133)
 - [Zigbee/BLE/IR Device Databases](#zigbeebleir-device-databases) (34)
 
 ## 3D Printers & Makers
@@ -119,8 +119,16 @@
 | streborn | Cloud-free revival for Bose SoundTouch speakers: internet radio, Spotify Connect, hardware preset buttons, multiroom.... | 108 | <https://github.com/JRpersonal/streborn> |
 | FM-1-RE | Reverse engineering of the M-VAVE FM-1 pocket synthesizer firmware | 100 | <https://github.com/AL-255/FM-1-RE> |
 | bose-dfu | Reverse-engineered firmware updater for Bose devices | 97 | <https://github.com/tchebb/bose-dfu> |
+| bosectl | Control Bose QC Ultra 2 headphones from Linux via reverse-engineered BMAP protocol | 57 | <https://github.com/aaronsb/bosectl> |
 | shurectl | Unofficial cross-platform client for Shure MV mics, replacing ShurePlus MOTIV | 37 | <https://github.com/Humblemonk/shurectl> |
+| pyBlackPearl | Reverse-engineered driver for the TRN Black Pearl walkplay DAC | 34 | <https://github.com/cheesyserg/pyBlackPearl> |
 | game-blaster | Reverse-engineered Creative Music System / Game Blaster CT-1300 card | 31 | <https://github.com/schlae/game-blaster> |
+| fairbuds | Tool for the reverse-engineered Fairbuds GATT protocol with AutoEq presets | 27 | <https://github.com/jurf/fairbuds> |
+| fiiocontrol-oss | Reverse-engineered web drivers for FiiO DACs | 18 | <https://github.com/adithyasource/fiiocontrol-oss> |
+| SSL | Reverse-engineered Python client controlling SSL mixing consoles over Ethernet | 16 | <https://github.com/koltyj/SSL> |
+| valeton-gp50 | Browser editor for Valeton GP-50 presets via reverse-engineered SysEx | 15 | <https://github.com/drewmerc302/valeton-gp50> |
+| momentum4-control | Linux tray controller for Sennheiser Momentum 4 via reverse-engineered Bluetooth | 14 | <https://github.com/f3Y0/momentum4-control> |
+| orba-protocol | Reverse-engineered protocol spec and libraries for the Artiphon Orba | 14 | <https://github.com/holofermes/orba-protocol> |
 | mmt8 | Alesis MMT-8 sequencer firmware disassembly and simulation | 2 | <https://github.com/audiodestrukt/mmt8> |
 | bosectl | Python, Rust and C++ libraries for the Bose BMAP protocol over RFCOMM | 0 | <https://github.com/alabalag1/bosectl> |
 
@@ -184,6 +192,8 @@
 | insta360-luna-ultra-reverse-engineering | Reverse engineering of the Insta360 Luna Ultra | 18 | <https://github.com/derrickyau9/insta360-luna-ultra-reverse-engineering> |
 | insta360ctl | CLI to manage Insta360 cameras | 17 | <https://github.com/xaionaro-go/insta360ctl> |
 | dashy | Viofo dashcam client for ingesting footage over WiFi | 14 | <https://github.com/muddyland/dashy> |
+| dahua-rpc-api | Dahua JSON-RPC API reference, 275+ methods reversed from firmware JS | 12 | <https://github.com/H3xano/dahua-rpc-api> |
+| h120d-protocol | Reverse-engineered WiFi protocol of the Holy Stone H120D drone | 12 | <https://github.com/zturner1/h120d-protocol> |
 | homeassistant-70mai | Integrate 70mai dashcams in Home Assistant | 7 | <https://github.com/lorenzo-deluca/homeassistant-70mai> |
 | xpeng-dashcam | Self-hosted viewer for Xpeng built-in dashcam footage | 5 | <https://github.com/psuurbach/xpeng-dashcam> |
 | piofo | Extract GPS data embedded in Viofo dashcam videos | 4 | <https://github.com/wcedmisten/piofo> |
@@ -593,12 +603,23 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
+| Network UPS Tools | UPS monitoring with drivers for many vendor UPS protocols, much of it reverse engineered | 4,413 | <https://github.com/networkupstools/nut> |
 | rtlamr | RTL-SDR receiver for Itron ERT smart utility meters | 2,548 | <https://github.com/bemasher/rtlamr> |
 | r1_escape | Jailbreak tool for the Rabbit R1 | 434 | <https://github.com/RabbitHoleEscapeR1/r1_escape> |
+| usbrelay | Control cheap HID-based USB relay boards on Linux | 369 | <https://github.com/darrylb123/usbrelay> |
+| LDS | Arduino library for low-cost LiDARs incl. Xiaomi LDS02RR, Neato XV11 and Camsense X1 | 226 | <https://github.com/kaiaai/LDS> |
+| XV_Lidar_Controller | Arduino controller for the Neato XV-11 robot vacuum LiDAR | 138 | <https://github.com/getSurreal/XV_Lidar_Controller> |
+| temper | Python tool for reading TEMPer USB thermometers | 85 | <https://github.com/urwen/temper> |
+| Wee_Wii | Reverse-engineered open-source PCB recreation of the Nintendo Wii | 80 | <https://github.com/ReflowOven/Wee_Wii> |
+| toybridge | Reverse-engineer BLE toy protocols and control them from AI agents | 78 | <https://github.com/AmandaClarke61/toybridge> |
 | Rabbit-R1 (Pinball3D) | Rabbit R1 reverse engineering; runs the R1 launcher on any Android device | 77 | <https://github.com/Pinball3D/Rabbit-R1> |
+| camsense-X1 | Unofficial reverse engineering of the Camsense X1 low-cost LiDAR protocol | 74 | <https://github.com/Vidicon/camsense-X1> |
 | rabbit_r1_boot_notes | Documents the boot process of the Rabbit R1 (MediaTek mt6765, Android 13) | 70 | <https://github.com/DavidBuchanan314/rabbit_r1_boot_notes> |
 | OpenPin | Makes the discontinued Humane Ai Pin usable again with a replacement software stack | 57 | <https://github.com/MaxMaeder/OpenPin> |
 | fake_kilter_board | An ESP32 program + desktop application for serving as a mock Kilter Board. | 40 | <https://github.com/1-max-1/fake_kilter_board> |
+| the-beetel | Reverse-engineered Beetel M59 phone turned into a music player | 30 | <https://github.com/natyavidhan/the-beetel> |
+| e87_badge | Reverse-engineered Bluetooth communication with the E87 LED badge | 19 | <https://github.com/jumpingmushroom/e87_badge> |
+| Ocrustar-USB-IR | Reverse-engineered protocol and Python driver for Ocrustar/ElkSmart USB IR blaster | 18 | <https://github.com/deadboy18/Ocrustar-USB-IR> |
 | PenumbraOS docs | Reverse engineering findings on the Humane Ai Pin | 7 | <https://github.com/PenumbraOS/docs> |
 | ai-pin-apk-environment | Environment for reverse engineering Humane AI Pin APKs | 6 | <https://github.com/agg23/ai-pin-apk-environment> |
 | rabbitude-backend | Go reimplementation of the Rabbit R1 backend and API endpoints | 6 | <https://github.com/KibbeWater/rabbitude-backend> |
@@ -611,6 +632,7 @@
 |---|---|--:|---|
 | OpenLogi | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over... | 23,376 | <https://github.com/AprilNEA/OpenLogi> |
 | Solaar | Linux manager for Logitech Unifying, Bolt and Lightspeed receivers and devices | 9,472 | <https://github.com/pwr-Solaar/Solaar> |
+| 360Controller | macOS driver for Xbox 360 and Xbox One wired controllers | 6,725 | <https://github.com/360Controller/360Controller> |
 | Proxmark3 Iceman | RFID research toolkit firmware and client with protocol RE support | 6,139 | <https://github.com/RfidResearchGroup/proxmark3> |
 | Piper | GTK GUI to configure gaming mice via libratbag | 6,025 | <https://github.com/libratbag/piper> |
 | BetterJoy | Use Switch Joy-Cons and Pro Controllers on Windows as XInput devices | 4,789 | <https://github.com/Davidobot/BetterJoy> |
@@ -631,6 +653,8 @@
 | razer-macos | Color effects manager for Razer devices on macOS | 2,574 | <https://github.com/1kc/razer-macos> |
 | GP2040-CE | Gamepad firmware for RP2040 emulating multiple console controller protocols | 2,557 | <https://github.com/OpenStickCommunity/GP2040-CE> |
 | xone | Linux kernel driver for Xbox One and Series X-S accessories via the wireless dongle | 2,523 | <https://github.com/medusalix/xone> |
+| Bitfocus Companion | Turns Stream Decks and other controllers into a broadcast control surface, with no vendor software | 2,322 | <https://github.com/bitfocus/companion> |
+| turing-smart-screen-python | Unofficial system monitor and library for Turing Smart Screen and similar USB-C IPS displays | 2,301 | <https://github.com/mathoudebine/turing-smart-screen-python> |
 | OpenDeck | Linux software for the Stream Deck with Elgato plugin support | 2,262 | <https://github.com/nekename/OpenDeck> |
 | libfreenect2 | Open driver for the Kinect for Windows v2 | 2,259 | <https://github.com/OpenKinect/libfreenect2> |
 | Validity90 | Reverse-engineered Validity/Synaptics fingerprint reader protocol for Linux | 1,879 | <https://github.com/nmikhailov/Validity90> |
@@ -638,12 +662,14 @@
 | SC-Controller | User-mode driver and GUI for the Steam Controller and others | 1,646 | <https://github.com/kozec/sc-controller> |
 | libnx | Library for Nintendo Switch homebrew | 1,472 | <https://github.com/switchbrew/libnx> |
 | g810-led | Linux LED controller for Logitech G keyboards | 1,455 | <https://github.com/MatMoul/g810-led> |
+| xow | Linux userspace driver for the Xbox One wireless dongle (reverse engineered protocol) | 1,452 | <https://github.com/medusalix/xow> |
 | joycontrol | Emulate Nintendo Switch controllers over Bluetooth | 1,363 | <https://github.com/mart1nro/joycontrol> |
 | OpenHMD | Free and open driver set for VR headsets including Oculus Rift | 1,287 | <https://github.com/OpenHMD/OpenHMD> |
 | streamdeck-ui | Linux-compatible UI for the Elgato Stream Deck | 1,270 | <https://github.com/timothycrosley/streamdeck-ui> |
 | Polychromatic | RGB lighting GUI for OpenRazer devices | 1,253 | <https://github.com/polychromatic/polychromatic> |
 | ps2sdk | Homebrew SDK for the PlayStation 2 | 1,249 | <https://github.com/ps2dev/ps2sdk> |
 | DIGImend | Linux drivers for non-Wacom graphics tablets (Huion, XP-Pen) | 1,242 | <https://github.com/DIGImend/digimend-kernel-drivers> |
+| OpenLinkHub | Open interface for Corsair iCUE LINK hubs and AIOs on Linux: RGB, fans and pumps | 1,222 | <https://github.com/jurkovic-nikola/OpenLinkHub> |
 | ds4drv | Sony DualShock 4 userspace driver for Linux | 1,171 | <https://github.com/chrippa/ds4drv> |
 | Bluepad32 | Bluetooth gamepad host firmware for ESP32 and Pico W supporting many controllers | 1,160 | <https://github.com/ricardoquesada/bluepad32> |
 | python-elgato-streamdeck | Python library to control Elgato Stream Deck devices over HID | 1,136 | <https://github.com/abcminiuser/python-elgato-streamdeck> |
@@ -657,81 +683,176 @@
 | cameractrls | Linux camera controls including vendor extension units (Logitech, Kiyo, etc.) | 953 | <https://github.com/soyersoyer/cameractrls> |
 | libsurvive | Open-source Lighthouse (SteamVR) tracking from reverse-engineered protocols | 940 | <https://github.com/collabora/libsurvive> |
 | tip-toi-reveng | Reverse-engineered file format of the Ravensburger TipToi audio pen; tttool to make content | 886 | <https://github.com/entropia/tip-toi-reveng> |
+| JoyShockMapper | Gyro and button mapper for DualShock 4, DualSense, Joy-Con and Switch Pro controllers on PC | 873 | <https://github.com/JibbSmart/JoyShockMapper> |
 | steamcontroller | Standalone Steam Controller driver | 848 | <https://github.com/ynsta/steamcontroller> |
 | NiimBlue | Web client for Niimbot label printers over BLE | 793 | <https://github.com/MultiMote/niimblue> |
 | input-wacom | Linux kernel driver for Wacom tablets | 728 | <https://github.com/linuxwacom/input-wacom> |
 | brother_ql | Python package to print on Brother QL label printers using the raster protocol | 717 | <https://github.com/pklaus/brother_ql> |
+| OpenCorsairLink | Linux and macOS support for Corsair Link coolers, fans and PSUs | 713 | <https://github.com/hyperkineticnerd/OpenCorsairLink> |
 | Cat-Printer | Driver app for cheap BLE "cat" thermal printers | 656 | <https://github.com/NaitLee/Cat-Printer> |
 | nxdk | Open-source SDK for the original Xbox | 598 | <https://github.com/XboxDev/nxdk> |
 | InputPlumber | Input router and remapper daemon for handheld PC controllers on Linux | 595 | <https://github.com/ShadowBlip/InputPlumber> |
 | bluefluff | Reverse-engineered Furby Connect Bluetooth protocol and update format | 575 | <https://github.com/Jeija/bluefluff> |
+| CorsairLightingProtocol | Arduino firmware that emulates a Corsair Lighting Node for use with iCUE | 572 | <https://github.com/Legion2/CorsairLightingProtocol> |
 | OpenSteamController | Steam Controller reverse engineering and custom firmware project | 541 | <https://github.com/greggersaurus/OpenSteamController> |
 | joycond | Userspace daemon that combines Nintendo Joy-Cons into one controller on Linux | 540 | <https://github.com/DanielOgorchock/joycond> |
 | PS Move API | Cross-platform library for PlayStation Move motion controllers | 530 | <https://github.com/thp/psmoveapi> |
 | new-lg4ff | Improved Linux driver for Logitech steering wheels | 509 | <https://github.com/berarma/new-lg4ff> |
+| footswitch | Command-line utility to program PCsensor and Scythe USB foot switches | 496 | <https://github.com/rgerganov/footswitch> |
 | rangoli | Open-source cross-platform software for Royal Kludge keyboards | 471 | <https://github.com/rnayabed/rangoli> |
 | niimprint | Python library for Niimbot label printers via the reverse-engineered protocol | 468 | <https://github.com/AndBondStyle/niimprint> |
 | phomemo-tools | CUPS driver and tools for Phomemo thermal printers | 465 | <https://github.com/vivier/phomemo-tools> |
+| DualSenseY | DualSense features (adaptive triggers, haptics, LEDs) and Xbox 360 emulation on Windows | 449 | <https://github.com/WujekFoliarz/DualSenseY-v2> |
 | dualsensectl | Linux tool to control PS5 DualSense controller features | 447 | <https://github.com/nowrep/dualsensectl> |
 | ogx360 *(archived)* | Add modern XInput USB controller support to the original Xbox | 444 | <https://github.com/Ryzee119/ogx360> |
 | DualSense-Windows | Windows API for the PS5 DualSense controller via reverse-engineered HID reports | 440 | <https://github.com/Ohjurot/DualSense-Windows> |
 | streamdeck-linux-gui | Linux GUI for the Elgato Stream Deck | 438 | <https://github.com/streamdeck-linux-gui/streamdeck-linux-gui> |
 | xboxdrv | Xbox 360 userspace driver for Linux | 435 | <https://github.com/xboxdrv/xboxdrv> |
+| XJoy *(archived)* | Use Nintendo Switch Joy-Cons as a virtual Xbox 360 controller on Windows | 415 | <https://github.com/DuroSoft/XJoy> |
 | hhd | Handheld Daemon to configure controllers, RGB and TDP on handheld PCs | 406 | <https://github.com/hhd-dev/hhd> |
+| PCXSense | Translates DualSense input to XInput for PC games | 399 | <https://github.com/Denellyne/PCXSense> |
+| ClickSync | Multi-brand mouse web driver over WebHID for Razer, Logitech and other mice | 397 | <https://github.com/Nuitfanee/ClickSync> |
+| StreamDeckSharp | .NET library to drive Elgato Stream Deck hardware directly | 396 | <https://github.com/OpenMacroBoard/StreamDeckSharp> |
 | QuestPatcher | Mod patcher for Meta Quest apps | 384 | <https://github.com/Lauriethefish/QuestPatcher> |
 | hid-tmff2 | Linux force feedback driver for Thrustmaster wheels | 379 | <https://github.com/Kimplul/hid-tmff2> |
 | hid-fanatecff | Linux driver for Fanatec wheels and pedals | 346 | <https://github.com/gotzl/hid-fanatecff> |
+| busylight | Control USB presence lights (Kuando, Embrava, Luxafor, ThingM and more) from CLI or web API | 343 | <https://github.com/JnyJny/busylight> |
 | wiiuse | Cross-platform Wii Remote access library | 336 | <https://github.com/wiiuse/wiiuse> |
 | joycontrol (Poohl) | Maintained fork of joycontrol for emulating Switch controllers | 326 | <https://github.com/Poohl/joycontrol> |
 | JoyShockLibrary | Read DualSense, DualShock 4, Joy-Con and Pro Controller input on PC | 317 | <https://github.com/JibbSmart/JoyShockLibrary> |
 | mouse_m908 | Control Redragon gaming mice from Linux, BSD and Haiku | 314 | <https://github.com/dokutan/mouse_m908> |
+| Eruption | Realtime RGB LED driver for Linux supporting ROCCAT and other keyboards and mice | 304 | <https://github.com/eruption-project/eruption> |
+| joycon | Joy-Con input driver for Linux (userspace) | 297 | <https://github.com/riking/joycon> |
+| deckmaster | App to control an Elgato Stream Deck on Linux | 296 | <https://github.com/muesli/deckmaster> |
+| FanControl.CorsairLink | Unofficial Corsair Link plugin for Fan Control supporting Corsair controllers and AIOs | 290 | <https://github.com/EvanMulawski/FanControl.CorsairLink> |
 | wii-u-gc-adapter | Use the Wii U GameCube controller adapter on Linux | 278 | <https://github.com/ToadKing/wii-u-gc-adapter> |
 | xwiimote | Open-source Nintendo Wii Remote Linux device driver | 277 | <https://github.com/xwiimote/xwiimote> |
+| razercfg | Razer mouse configuration library and tools for Linux (DPI, LEDs, profiles) | 255 | <https://github.com/mbuesch/razer> |
 | rgb_keyboard | Control RGB lighting on GMMK, Redragon and other keyboards on Linux | 255 | <https://github.com/dokutan/rgb_keyboard> |
+| lian-li-linux | Linux replacement for Lian Li L-Connect 3: fan, RGB and LCD control from USB captures | 241 | <https://github.com/sgtaziz/lian-li-linux> |
 | msi-perkeyrgb | Linux CLI to control per-key RGB on MSI laptop keyboards | 239 | <https://github.com/Askannz/msi-perkeyrgb> |
+| hue-plus | Windows and Linux driver in Python for the NZXT Hue+ lighting controller | 230 | <https://github.com/kusti8/hue-plus> |
+| razer_chroma_drivers | Linux drivers for Razer Chroma devices with all lighting modes | 229 | <https://github.com/pez2001/razer_chroma_drivers> |
+| ltunify | Tool for pairing and managing Logitech Unifying receivers and devices on Linux | 211 | <https://github.com/Lekensteyn/ltunify> |
+| decky-XRGaming | Steam Deck plugin for XREAL/Rokid/VITURE AR glasses head tracking using reverse engineered IMU drivers | 209 | <https://github.com/wheaney/decky-XRGaming> |
+| node-elgato-stream-deck | Node.js library for driving Elgato Stream Deck hardware over HID | 205 | <https://github.com/Julusian/node-elgato-stream-deck> |
+| DSAdvance | Xbox controller emulation for DualSense, DualShock 4, Pro Controller and Joy-Cons | 196 | <https://github.com/r57zone/DSAdvance> |
+| SAxense | Proof of concept for DualSense haptics over Bluetooth | 196 | <https://github.com/egormanga/SAxense> |
+| joy-con-webhid | Use Nintendo Switch Joy-Cons in the browser via WebHID | 188 | <https://github.com/tomayac/joy-con-webhid> |
 | joycon-python | Python driver for Nintendo Switch Joy-Cons | 188 | <https://github.com/tocoteron/joycon-python> |
 | obsbot-camera-control | Qt app on Linux to manage OBSBOT webcams including AI tracking | 183 | <https://github.com/aaronsb/obsbot-camera-control> |
+| vds | Virtual USB-to-Bluetooth bridge for DualSense and DualSense Edge controllers | 178 | <https://github.com/hurryman2212/vds> |
 | huion-linux-drivers | Linux user-space drivers for Huion graphics tablets | 172 | <https://github.com/joseluis/huion-linux-drivers> |
 | OpenHMD (thaytan) | OpenHMD fork with reverse-engineered Oculus Rift CV1 and Rift S tracking | 167 | <https://github.com/thaytan/OpenHMD> |
+| sinowisp | Read and write flash on Sinowealth 8051-based HID keyboards and mice through the ISP bootloader | 165 | <https://github.com/carlossless/sinowisp> |
 | pydualsense | Control a DualSense controller from Python | 164 | <https://github.com/flok/pydualsense> |
+| litra-rs | CLI and library to control Logitech Litra Glow and Beam lights over USB HID | 163 | <https://github.com/timrogers/litra-rs> |
+| DeckSurf | Lightweight open tool and SDK to manage a Stream Deck without Elgato software | 158 | <https://github.com/dend/DeckSurf> |
 | Mechanical-Keyboard-Database | Database of mechanical keyboards with Sonix MCUs for QMK porting | 157 | <https://github.com/SonixQMK/Mechanical-Keyboard-Database> |
+| G213Colors | Python script to set Logitech G213 Prodigy keyboard colors without G Hub | 155 | <https://github.com/SebiTimeWaster/G213Colors> |
 | t150_driver | Linux driver for the Thrustmaster T150 steering wheel | 155 | <https://github.com/scarburato/t150_driver> |
+| asdbctl | CLI to get and set Apple Studio Display brightness from Linux | 141 | <https://github.com/juliuszint/asdbctl> |
+| g13 | libusb userspace driver for the Logitech G13 gameboard | 141 | <https://github.com/ecraven/g13> |
+| Lolgato | macOS app for Elgato Key Light control beyond Control Center | 139 | <https://github.com/raine/Lolgato> |
+| logitech-g710-linux-driver | Linux kernel driver for Logitech G710 keyboard G-keys and backlight | 138 | <https://github.com/Wattos/logitech-g710-linux-driver> |
 | loupedeck | Node.js API for Loupedeck and Razer Stream controllers | 138 | <https://github.com/foxxyz/loupedeck> |
+| XBox_Controller_Linux_Interface | Talks to an Xbox One controller directly via its raw USB stream on Linux | 133 | <https://github.com/MauriceGit/XBox_Controller_Linux_Interface> |
+| devdeck | Stream Deck control software for developers on Linux | 132 | <https://github.com/jamesridgway/devdeck> |
+| apex-tux | Linux support for the OLED screen of SteelSeries Apex Pro, 5 and 7 keyboards | 130 | <https://github.com/not-jan/apex-tux> |
+| logitech-g600-linux | Key binding utility for all 16 buttons of the Logitech G600 mouse on Linux | 128 | <https://github.com/mafik/logitech-g600-linux> |
+| MiniSynapse | Lightweight Razer peripheral initialization without Synapse | 126 | <https://github.com/miyu/MiniSynapse> |
 | dualsense | WebHID explorer for the DualSense controller HID reports | 122 | <https://github.com/nondebug/dualsense> |
+| aquacomputer_d5next-hwmon | Linux hwmon driver for Aquacomputer pumps and fan controllers, partly mainlined | 118 | <https://github.com/aleksamagicka/aquacomputer_d5next-hwmon> |
+| logitech-g29 *(archived)* | Node.js driver for the Logitech G29 racing wheel: inputs, LEDs and force feedback | 118 | <https://github.com/nightmode/logitech-g29> |
+| hidpp | Collection of tools for the Logitech HID++ protocol | 116 | <https://github.com/cvuchener/hidpp> |
 | WiimoteLib | .NET library for the Nintendo Wii Remote | 113 | <https://github.com/BrianPeek/WiimoteLib> |
+| g910-gkey-macro-support | G-key macro support for the Logitech G910 keyboard on Linux | 110 | <https://github.com/JSubelj/g910-gkey-macro-support> |
+| Naga_KeypadMapper | Linux daemon to map the side keypad of Razer Naga mice | 110 | <https://github.com/RaulPPelaez/Naga_KeypadMapper> |
+| ApexSenseBridge | Brings DualSense adaptive triggers and haptics to Flydigi Apex 4/5 controllers | 107 | <https://github.com/ReynArts/ApexSenseBridge> |
 | 8bitdo-kbd-mapper | Key mapper for the 8BitDo Retro Mechanical Keyboard | 104 | <https://github.com/goncalor/8bitdo-kbd-mapper> |
 | g305-re | Reverse engineering of the G305 mouse by Logitech | 102 | <https://github.com/you-wouldnt-reverse-engineer-a-rat/g305-re> |
+| gbmonctl | CLI control of Gigabyte M32U monitor settings over USB, replacing OSD Sidekick | 102 | <https://github.com/kelvie/gbmonctl> |
+| keylight-control | Linux app to control Elgato Key Lights over their local HTTP API | 102 | <https://github.com/justinforlenza/keylight-control> |
+| libcmmk *(archived)* | Unofficial LED control API for Cooler Master MasterKeys keyboards | 102 | <https://github.com/chmod222/libcmmk> |
+| ApexCtl | Enables the extra macro keys on SteelSeries Apex keyboards under Linux | 101 | <https://github.com/tuxmark5/ApexCtl> |
 | switch2_controller_research | Research into Nintendo Switch 2 controller protocols | 98 | <https://github.com/ndeadly/switch2_controller_research> |
+| liquidtux | Linux kernel hwmon drivers for NZXT and other AIO liquid coolers | 94 | <https://github.com/liquidctl/liquidtux> |
+| rust-elgato-streamdeck | Rust library for interacting with Elgato Stream Deck hardware | 94 | <https://github.com/OpenActionAPI/rust-elgato-streamdeck> |
+| trigger-control | Control DualSense adaptive triggers on Linux and Windows with GUI and C++ API | 94 | <https://github.com/BananaWorks07/trigger-control> |
+| streamdeck (Go) | Golang API for the Elgato Stream Deck hardware | 90 | <https://github.com/dh1tw/streamdeck> |
+| libjoycon | Library to encode and decode Joy-Con Bluetooth packets | 88 | <https://github.com/Inokinoki/libjoycon> |
+| dualsense-controller-python | Python library for the DualSense controller | 84 | <https://github.com/yesbotics/dualsense-controller-python> |
+| roccat-vulcan | Linux RGB LED effects for the ROCCAT Vulcan 100/120 keyboards | 84 | <https://github.com/duncanthrax/roccat-vulcan> |
 | OpenSnek | Reverse-engineered Razer mouse USB/Bluetooth protocol for configuration on macOS | 81 | <https://github.com/gh123man/OpenSnek> |
+| JoyCon2Mac | macOS DriverKit driver for Nintendo Switch 2 Joy-Cons | 80 | <https://github.com/OZORDI/JoyCon2Mac> |
 | userspace-tablet-driver-daemon | Linux userspace drivers for XP-Pen, Huion and Gaomon tablets and pen displays | 77 | <https://github.com/kurikaesu/userspace-tablet-driver-daemon> |
+| rivalctl | Linux CLI to configure the SteelSeries Rival gaming mouse | 72 | <https://github.com/andrepl/rivalctl> |
+| linux_thermaltake_riing | Python driver and daemon for Thermaltake Riing fans and pumps on Linux | 71 | <https://github.com/chestm007/linux_thermaltake_riing> |
+| razer_test | Experimental userspace replacement for OpenRazer | 69 | <https://github.com/z3ntu/razer_test> |
 | WebCamControl | Linux alternative to Insta360 Link Controller for PTZ webcams | 67 | <https://github.com/Daniel15/WebCamControl> |
+| mxw | Cross-platform CLI for Glorious Model O/D Wireless mouse settings | 66 | <https://github.com/korkje/mxw> |
 | YHK-Cat-Thermal-Printer | Protocol notes and code for YHK cat/rabbit mini thermal printers | 66 | <https://github.com/abhigkar/YHK-Cat-Thermal-Printer> |
+| OmniLED | Control the OLED screens on SteelSeries and other devices with Lua scripts, cross-platform | 64 | <https://github.com/llMBQll/OmniLED> |
+| rcue | Userspace USB driver for the Corsair H150i PRO AIO cooler | 60 | <https://github.com/mygnu/rcue> |
+| flydigi-vader5 | Linux driver for the Flydigi Vader 5 Pro gamepad with gyro and back buttons | 59 | <https://github.com/BANANASJIM/flydigi-vader5> |
+| JoyConSwift | IOKit wrapper for Joy-Con and Pro Controller on macOS | 59 | <https://github.com/magicien/JoyConSwift> |
+| steelseries-linux | SteelSeries device support utilities for Linux | 59 | <https://github.com/MiddleMan5/steelseries-linux> |
+| CorsairLinkPlusPlus *(archived)* | Open implementation of the Corsair Link protocol for coolers and fans | 57 | <https://github.com/Doridian/CorsairLinkPlusPlus> |
 | pt-p710bt-label-maker | Print to Brother PT-P710BT label printers over Bluetooth | 56 | <https://github.com/robby-cornelissen/pt-p710bt-label-maker> |
 | tiny2 | Linux GUI controller for the OBSBOT Tiny 2 webcam | 56 | <https://github.com/cgevans/tiny2> |
+| corsairmi | Tool to read sensors from Corsair RMi power supplies | 55 | <https://github.com/notaz/corsairmi> |
+| deepcool-ak620-digital-linux | Linux driver for the temperature display on DeepCool AK620 Digital CPU coolers | 54 | <https://github.com/raghulkrishna/deepcool-ak620-digital-linux> |
 | Switch2-Controllers | Tools and GUI to connect Nintendo Switch 2 controllers to PC | 53 | <https://github.com/Nohzockt/Switch2-Controllers> |
+| joycon-toolweb | Web tool to change Joy-Con and Pro Controller body colors in SPI flash | 49 | <https://github.com/mzyy94/joycon-toolweb> |
 | ME2-Writeup | Reconstructing a dead handheld's USB protocol by desoldering and dumping its flash | 49 | <https://github.com/coremaze/ME2-Writeup> |
+| gamesir-linux-tools | Linux configuration app for GameSir controllers and Logitech mice | 48 | <https://github.com/broroeror/gamesir-linux-tools> |
 | kludgeknight | Browser-based open-source configurator for Royal Kludge keyboards | 48 | <https://github.com/vinc3m1/kludgeknight> |
+| GKraken *(archived)* | GTK app to control NZXT Kraken AIO cooler fans, pump and lighting on Linux | 46 | <https://github.com/leinardi/gkraken> |
 | ulanzi-d200-linux | Linux manager for the Ulanzi D200 stream deck | 40 | <https://github.com/racerxdl/ulanzi-d200-linux> |
+| corsair-cpro | Linux kernel driver for the Corsair Commander Pro fan and RGB controller | 37 | <https://github.com/MisterZ42/corsair-cpro> |
+| corsair-psu | Linux hwmon driver for Corsair RMi/HXi PSUs over their USB interface (mainlined) | 37 | <https://github.com/wgottwalt/corsair-psu> |
+| corsairpsu | Linux hwmon driver for Corsair RMi and HXi power supplies | 37 | <https://github.com/Benzhaomin/corsairpsu> |
+| Kreo-Hive65-Rgb-Linux | Reverse-engineered HID protocol of Kreo Hive 65 keyboard for Linux | 37 | <https://github.com/PushkarDesai-06/Kreo-Hive65-Rgb-Linux> |
 | wavebird | Nintendo Switch 2 controller bridge app for macOS | 36 | <https://github.com/murphyjt/wavebird> |
+| Apex-Macros | Use SteelSeries Apex keyboard macro keys on Linux | 35 | <https://github.com/Gibtnix/Apex-Macros> |
 | Royal-Kludge-R75 | Custom QMK firmware for the Royal Kludge R75 | 35 | <https://github.com/snakkarike/Royal-Kludge-R75> |
+| apexctl | Control SteelSeries Apex keyboards on GNU/Linux | 34 | <https://github.com/AstroSnail/apexctl> |
+| flydigictl | Linux utility to manage Flydigi controller configuration | 34 | <https://github.com/pipe01/flydigictl> |
+| glorious-mouse-control | CLI control for Glorious wired mice settings and RGB | 34 | <https://github.com/outfoxxed/glorious-mouse-control> |
 | Insta360-Link-1-and-2-Controller-for-Linux | Insta360 Link 1/2 webcam controller for Linux | 32 | <https://github.com/vrwallace/Insta360-Link-1-and-2-Controller-for-Linux> |
 | Tiny4Linux | GUI and CLI controller for the OBSBOT Tiny 2 on Linux | 32 | <https://github.com/OpenFoxes/Tiny4Linux> |
 | insta360-link-firmware-re | Reverse engineering Insta360 Link webcam firmware and UVC control protocol | 31 | <https://github.com/schlarpc/insta360-link-firmware-re> |
 | obsbot-tiny-2-control | Python control of OBSBOT Tiny 2 AI modes | 28 | <https://github.com/mitchelloharawild/obsbot-tiny-2-control> |
 | switch2-controllers | Use Nintendo Switch 2 Joy-Cons on PC | 27 | <https://github.com/Nadeflore/switch2-controllers> |
+| Logitech-G19-Linux-Daemon | Python daemon for Logitech G19 keyboard LCD, keys and backlight on Linux | 26 | <https://github.com/MultiCoreNop/Logitech-G19-Linux-Daemon> |
+| logitech-g400-config | libusb CLI to set Logitech G400 mouse DPI and polling rate | 26 | <https://github.com/rprichard/logitech-g400-config> |
 | 8bitdo-spec | Documentation of the protocol used to configure 8BitDo controllers | 25 | <https://github.com/TheJayMann/8bitdo-spec> |
+| UtechSmart-Venus-Pro-Linux | Reverse-engineered Linux config utility for the UtechSmart Venus Pro mouse | 25 | <https://github.com/Es00bac/UtechSmart-Venus-Pro-Linux-MMO-Mouse-Utility> |
 | openbitdo | 8BitDo controller customization software for Linux/macOS | 24 | <https://github.com/bybrooklyn/openbitdo> |
+| real_utilities | Tools for interfacing with Nreal Air glasses IMU and display modes | 24 | <https://github.com/edwatt/real_utilities> |
 | rkcu | Reverse-engineered USB configuration tool for Royal Kludge RK61 keyboards | 24 | <https://github.com/oddlyspaced/rkcu> |
 | thermal-pocket-printer-basic | Reverse-engineered BLE protocol of a thermal pocket printer; Python CLI and web GUI | 24 | <https://github.com/ChiaraCannolee/thermal-pocket-printer-basic> |
 | meet4k | Control extra features of the OBSBOT Meet 4K camera on Linux | 23 | <https://github.com/samliddicott/meet4k> |
+| steelseries-oled | Python utility to display GIFs on SteelSeries keyboard OLEDs | 23 | <https://github.com/edbgon/steelseries-oled> |
 | switch2-controllers-linux | Wireless Switch 2 controllers (Joy-Con 2, Pro 2, NSO GameCube) on Linux | 23 | <https://github.com/trevlars/switch2-controllers-linux> |
+| reed-tpse | Linux CLI for Tryx Panorama SE AIO cooler display via reverse-engineered protocol | 22 | <https://github.com/fadli0029/reed-tpse> |
+| OpenGHub | Open, Linux-native reimplementation of Logitech G HUB | 21 | <https://github.com/Slyvan25/OpenGHub> |
+| vader3 | Flydigi Vader 3 Bluetooth driver for GNU/Linux | 21 | <https://github.com/ahungry/vader3> |
+| apex7tkl_linux | Python CLI for the SteelSeries Apex 7 TKL keyboard on Linux | 20 | <https://github.com/FrankGrimm/apex7tkl_linux> |
+| Linux G15 Daemon (G110) | G15 daemon, macros and LED control for Logitech G110 and other keyboards on Linux | 20 | <https://github.com/Leproide/Linux-G15-Daemon-Logitech-G110-> |
+| corsair-xeneon-edge-linux | Native Linux control for CORSAIR XENEON EDGE touchscreen | 18 | <https://github.com/aabdelghani/corsair-xeneon-edge-linux> |
+| logitech-ipc-protocol | Reverse-engineered Logi Options+ agent IPC protocol to switch multi-host devices | 18 | <https://github.com/saimanish1/logitech-ipc-protocol> |
 | laser-drift | Reverse-engineered Carrera Digital slot car IR controller protocol | 17 | <https://github.com/buntine/laser-drift> |
 | NSW2-controller-enabler | Scripts to enable Switch 2 Pro/GameCube controllers via USB | 16 | <https://github.com/ikz87/NSW2-controller-enabler> |
+| one-xr | Android library parsing IMU data and controls of XREAL One glasses | 15 | <https://github.com/Skarian/one-xr> |
+| OpenKraken | Linux control center for NZXT Kraken AIO coolers via reverse-engineered protocol | 15 | <https://github.com/davidboulay/OpenKraken> |
 | zenvision-linux | Reverse-engineered userspace driver for the ASUS ZenVision lid OLED display on Linux | 15 | <https://github.com/tarpediem/zenvision-linux> |
 | pixma-rs | Reverse-engineered Canon PIXMA G3010 macOS print/scan driver in Rust | 13 | <https://github.com/pdrgds/pixma-rs> |
+| switch2controller | Wakes a Nintendo Switch 2 via ESP32 BLE beacon, reverse-engineered | 13 | <https://github.com/alexvnesta/switch2controller> |
 | goodix-fp-spi-linux | Reverse-engineered Goodix SPI fingerprint sensors (incl. QSEE enclave) for Linux | 11 | <https://github.com/wrobelda/goodix-fp-spi-linux> |
 | attack-shark-linux | Reverse-engineered gaming mouse HID protocol to configure it on Linux | 9 | <https://github.com/blak0p/attack-shark-linux> |
 | dell-1320c-cups-driver | Reverse-engineered CUPS driver for the Dell 1320c / Fuji Xerox C525A printer | 7 | <https://github.com/biosed/dell-1320c-cups-driver> |
+| myXreal | C++ driver for XREAL Air 2 Ultra IMU, stereo camera and calibration | 5 | <https://github.com/mazeasdamien/myXreal> |
 | niimprint (niimbot) | Niimbot label printer client based on the reverse-engineered protocol | 0 | <https://github.com/niimbot/niimprint> |
 | ptouch-print | Print labels on Brother P-touch printers from Linux using the reverse-engineered protocol | 0 | <https://github.com/probonopd/ptouch-print> |
 
@@ -873,6 +994,7 @@
 | petkit (hasscc) | PetKit feeder components for Home Assistant | 129 | <https://github.com/hasscc/petkit> |
 | deebot-client | Python client for Ecovacs Deebot vacuums | 123 | <https://github.com/DeebotUniverse/client.py> |
 | Cybele | BLE to MQTT Gateway for Smarthome and IoT Devices | 116 | <https://github.com/Hypfer/Cybele> |
+| open-ring | Unofficial API and menu bar app for Ring doorbells and cameras | 111 | <https://github.com/abracadabra50/open-ring> |
 | eufy_robovac | Control Eufy RoboVac via the local Tuya protocol | 109 | <https://github.com/mitchellrj/eufy_robovac> |
 | OPNpool | Integrates Pentair pool controllers into the smart home via ESP32/RS-485 | 102 | <https://github.com/cvonk/OPNpool> |
 | eightctl | Eight Sleep CLI to fetch data and control pods | 99 | <https://github.com/steipete/eightctl> |
@@ -925,6 +1047,10 @@
 | schellenberg-qivicon-usb | Schellenberg USB protocol | 19 | <https://github.com/Hypfer/schellenberg-qivicon-usb> |
 | aioflo | Async Python library for Flo by Moen smart water shutoffs | 18 | <https://github.com/bachya/aioflo> |
 | narwal_r | 云鲸扫地机器人 Home Assistant 本地集成 \| Narwal robot vacuum local WebSocket integration for Home Assistant (HACS) | 18 | <https://github.com/rudyll/narwal_r> |
+| tc002-customisation | Reverse-engineered docs, local API and replacement app for Ulanzi TC002 pixel clock | 17 | <https://github.com/atomicstack/tc002-customisation> |
+| lumalou | Local BLE control for Fisher-Price Lumalou via reverse-engineered MPID protocol | 16 | <https://github.com/stramanu/lumalou> |
+| AqaraPresenceSensorFP2ReverseEngineering | Reverse engineered information about the Aqara FP2 presence sensor | 15 | <https://github.com/hansihe/AqaraPresenceSensorFP2ReverseEngineering> |
+| inkbird-bw-ble | Reverse-engineered BLE protocol and ESPHome bridge for Inkbird INT-12/14-BW | 14 | <https://github.com/paul43210/inkbird-bw-ble> |
 | venuscontrol | Web-based replacement for the Marstek App allowing cloud-free use of Venus storages | 14 | <https://github.com/Hypfer/venuscontrol> |
 | Marstek-offline-endpoint | Run a Marstek Venus battery without the cloud. Self-hosted container that answers the telemetry upload locally — stop... | 9 | <https://github.com/sphings79/Marstek-offline-endpoint> |
 | whiskerless | Un-cloud your Whisker devices — fully-local MQTT control + telemetry for the Litter-Robot 4 (Python library, CLI, and... | 8 | <https://github.com/SisyphusMD/whiskerless> |
@@ -1252,10 +1378,13 @@
 | AmbitSync | Android app reading Suunto Ambit watches and converting to GPX | 15 | <https://github.com/starryalley/AmbitSync> |
 | band10-toolkit | Source-first toolkit for custom Xiaomi Smart Band 10 watch faces: JSON layouts, validation, a React/SVG studio, anima... | 15 | <https://github.com/utsabfdahal/band10-toolkit> |
 | galileo | Python utility to sync Fitbit trackers with the Fitbit server | 15 | <https://github.com/benallard/galileo> |
+| garmin-bridge | Reverse-engineered BLE Garmin Fenix sync for Linux, no smartphone | 15 | <https://github.com/wh1le/garmin-bridge> |
 | whoop-reader | Python BLE reader documenting the Whoop 4.0 protocol | 15 | <https://github.com/christianmeurer/whoop-reader> |
 | zepp_to_influxdb | Pull Zepp/Mi Fit/Huami data into InfluxDB | 15 | <https://github.com/bentasker/zepp_to_influxdb> |
+| formgoggles-py | Python client for FORM Swim Goggles reverse-engineered API and BLE protocol | 14 | <https://github.com/garrickgan/formgoggles-py> |
 | SuuntoLinkWine | Sync and configure Suunto watches on Linux via Wine | 14 | <https://github.com/JmB11/SuuntoLinkWine> |
 | hass-walkingpad | Home Assistant integration for KingSmith WalkingPad treadmills | 12 | <https://github.com/mcdax/hass-walkingpad> |
+| o2ring-s-protocol | Reverse-engineered BLE protocol for Wellue O2Ring-S oximeter | 12 | <https://github.com/nglessner/o2ring-s-protocol> |
 | open_ring | Pure Python driver for the Oura Ring | 12 | <https://github.com/LogosIsLife/open_ring> |
 | homebridge-eightsleep | Homebridge plugin for Eight Sleep | 11 | <https://github.com/nfarina/homebridge-eightsleep> |
 | OmniBLE | Swift driver for the Omnipod DASH insulin pump BLE protocol | 11 | <https://github.com/LoopKit/OmniBLE> |
@@ -1268,6 +1397,7 @@
 | freesleep-notes | Notes for open-source local control of the Eight Sleep Pod 3 | 6 | <https://github.com/appositeit/freesleep-notes> |
 | eight-sleep-local | Local Eight Sleep integration built on Free Sleep | 4 | <https://github.com/adamksmith/eight-sleep-local> |
 | EightSleepPod2Server | Spark protocol server to control Eight Sleep Pod 2 locally | 3 | <https://github.com/a-chaudhari/EightSleepPod2Server> |
+| j2208-band-tools | Raw BLE client and protocol docs for J2208-family fitness bands | 3 | <https://github.com/brendangooden/j2208-band-tools> |
 | zepp-food-extractor | Export food logs from the Zepp/Amazfit cloud API | 3 | <https://github.com/lcanis/zepp-food-extractor> |
 | C30-20-Pro BLE RE | Reverse-engineered BLE protocol of a no-name Jieli-chipset smartwatch | 1 | <https://github.com/TruthGh0st/C30-20-Pro-BLE-Reverse-Engineering> |
 | whoop-ble-swift | Swift package for the undocumented Whoop strap BLE protocol | 1 | <https://github.com/Asherlc/whoop-ble-swift> |

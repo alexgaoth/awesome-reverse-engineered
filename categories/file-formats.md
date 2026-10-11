@@ -1,6 +1,6 @@
 # File Formats
 
-[← All categories](../README.md) · 340 projects
+[← All categories](../README.md) · 342 projects
 
 - [Audio & Music Production](#audio--music-production) (33)
 - [Camera RAW & Video Metadata](#camera-raw--video-metadata) (20)
@@ -13,7 +13,7 @@
 - [Graphics & CAD](#graphics--cad) (38)
 - [Maps & GIS](#maps--gis) (18)
 - [Media Codecs & Containers](#media-codecs--containers) (1)
-- [Office & Documents](#office--documents) (51)
+- [Office & Documents](#office--documents) (53)
 - [Other](#other) (1)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (64)
 
@@ -333,8 +333,10 @@
 | libvisio | Parser for Microsoft Visio file formats (re-lab reverse engineering) | 47 | <https://github.com/LibreOffice/libvisio> |
 | stackimport | Reads HyperCard stacks and converts them to XML and images | 43 | <https://github.com/uliwitness/stackimport> |
 | helpdeco | Decompiles Windows WinHelp (.hlp) files back to RTF and project files | 38 | <https://github.com/pmachapman/helpdeco> |
+| sdocx | Reverse-engineered tooling and SDK for Samsung Notes (.sdocx) files | 29 | <https://github.com/twangodev/sdocx> |
 | wsconvert | Converts WordStar documents to Markdown | 20 | <https://github.com/kbarni/wsconvert> |
 | libetonyek | Parser for Apple Keynote, Pages and Numbers documents | 19 | <https://github.com/LibreOffice/libetonyek> |
+| FileMaker-XMLsnippet-Claude-Skill | Reverse-engineered spec of FileMaker's undocumented script XML clipboard format | 18 | <https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill> |
 | hypercard-stack-uploader | Imports classic HyperCard stacks and exports them as HTML or JSON | 16 | <https://github.com/hyperhello/hypercard-stack-uploader> |
 | libmspub | Parser for Microsoft Publisher documents | 14 | <https://github.com/LibreOffice/libmspub> |
 | libfole | Library for Object Linking and Embedding (OLE) data types | 13 | <https://github.com/libyal/libfole> |

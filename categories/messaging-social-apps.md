@@ -1,15 +1,15 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md) · 191 projects
+[← All categories](../README.md) · 196 projects
 
-- [Bridges & Multi-protocol](#bridges--multi-protocol) (40)
+- [Bridges & Multi-protocol](#bridges--multi-protocol) (41)
 - [Discord & Slack](#discord--slack) (21)
-- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (17)
+- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (18)
 - [Other](#other) (5)
-- [Other Messaging](#other-messaging) (25)
+- [Other Messaging](#other-messaging) (27)
 - [Signal & Telegram](#signal--telegram) (15)
 - [Social Media Private APIs](#social-media-private-apis) (7)
-- [TikTok & Snapchat](#tiktok--snapchat) (17)
+- [TikTok & Snapchat](#tiktok--snapchat) (18)
 - [Twitter/X](#twitterx) (14)
 - [WhatsApp](#whatsapp) (18)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (12)
@@ -49,6 +49,7 @@
 | pidgin-libbnet | Allows Pidgin-like clients to connect to the Classic Battle.net service. | 19 | <https://github.com/nmbook/pidgin-libbnet> |
 | purple-pulsesms | purple-pulsesms | 19 | <https://github.com/EionRobb/purple-pulsesms> |
 | purple-battlenet | Battle.net Plugin for libpurple | 15 | <https://github.com/EionRobb/purple-battlenet> |
+| maxgram | MAX to Telegram bridge using reverse-engineered WebSocket API | 12 | <https://github.com/eiler2005/maxgram> |
 | okcupid-pidgin | Automatically exported from code.google.com/p/okcupid-pidgin | 9 | <https://github.com/EionRobb/okcupid-pidgin> |
 | pidgin-nateon | privately maintained & patched fork of pidgin nateon plugin | 9 | <https://github.com/kaisyu/pidgin-nateon> |
 | pidgin-omegle *(archived)* | Automatically exported from code.google.com/p/pidgin-omegle | 8 | <https://github.com/EionRobb/pidgin-omegle> |
@@ -103,6 +104,7 @@
 | instagram_mqtt | Realtime MQTT and push notification (FBNS) support for instagram-private-api | 297 | <https://github.com/Nerixyz/instagram_mqtt> |
 | threads-api *(archived)* | Unofficial Python API for Meta's Threads App | 157 | <https://github.com/Danie1/threads-api> |
 | instagram *(archived)* | A Matrix-Instagram DM puppeting bridge | 150 | <https://github.com/mautrix/instagram> |
+| MetaAdsCollector | Collects Meta Ad Library ads via the reverse-engineered internal GraphQL API | 92 | <https://github.com/promisingcoder/MetaAdsCollector> |
 | fca-unofficial | Unofficial Facebook Chat API for Nodejs | 49 | <https://github.com/VangBanLaNhat/fca-unofficial> |
 | instagram-private-api (azimgd) | Instagram private API JavaScript client | 26 | <https://github.com/azimgd/instagram-private-api> |
 | instagram-api (oktaysenkan) *(archived)* | Private Instagram API library without API token or login | 17 | <https://github.com/oktaysenkan/instagram-api> |
@@ -129,6 +131,7 @@
 | wxhelper | WeChat PC client hooking / reverse-engineering toolkit | 3,176 | <https://github.com/ttttupup/wxhelper> |
 | hangups | the first third-party instant messaging client for Google Hangouts | 1,742 | <https://github.com/tdryer/hangups> |
 | LINE | Python client for LINE messenger using its reverse-engineered Thrift protocol | 827 | <https://github.com/carpedm20/LINE> |
+| zca-js | Unofficial Zalo API for JavaScript | 664 | <https://github.com/RFS-ADRENO/zca-js> |
 | node-kakao | Loco protocol compatible library | 424 | <https://github.com/storycraft/node-kakao> |
 | SkPy *(archived)* | An unofficial Python library for interacting with the Skype HTTP API. | 271 | <https://github.com/Terrance/SkPy> |
 | skyweb | Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol. | 196 | <https://github.com/ShyykoSerhiy/skyweb> |
@@ -142,6 +145,7 @@
 | OkLine | Unofficial LINE API Python SDK — automate your personal LINE Messenger account: QR code login in your terminal,... | 17 | <https://github.com/NiceDayZc/OkLine> |
 | KakaoBot *(archived)* | A Kakao Bot based on KakaoPy and KakaoLink-Python | 16 | <https://github.com/ksaidev/KakaoBot> |
 | linego | Unofficial Go client for LINE messenger | 13 | <https://github.com/go-line/linego> |
+| max-api-docs | Reverse-engineered protocol docs for Russia's MAX messenger | 12 | <https://github.com/pr0bel1230/max-api-docs> |
 | Tellonym.js | Tellonym private api wrapper made in typescript | 3 | <https://github.com/47PADO47/Tellonym.js> |
 | line-messenger-protocol | Unofficial LINE Messenger protocol documentation | 1 | <https://github.com/Shivelight/line-messenger-protocol> |
 | kawaii | Very in-development LINE client, using the unofficial Thrift-based API. | 0 | <https://github.com/antigravities/kawaii> |
@@ -198,6 +202,7 @@
 | tiktok-web-reverse-engineering | Tiktok Web Reverse Engineering & X-Gnarly implementation | 181 | <https://github.com/justscrapeme/tiktok-web-reverse-engineering> |
 | SnapchatKit *(archived)* | An Objective-C implementation of the unofficial Snapchat API. | 108 | <https://github.com/NSExceptional/SnapchatKit> |
 | tiktok-xgnarly-decoded | Full reverse-engineering of TikTok's X-Gnarly request signature (webmssdk 5.1.3-ZTCA) with a pure-JavaScript... | 29 | <https://github.com/carcabot/tiktok-xgnarly-decoded> |
+| tiktok (alana72212) | TikTok web signatures reverse engineered | 16 | <https://github.com/alana72212/tiktok> |
 | tiktok-private-api | Unofficial TikTok Private API SDK for Python — 50+ endpoints, full mobile signing, Android + iOS | 6 | <https://github.com/molkex/tiktok-private-api> |
 | Snapchat-SDK-PHP | PHP SDK for Snapchat | 4 | <https://github.com/peterlevin/Snapchat-SDK-PHP> |
 

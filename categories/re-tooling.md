@@ -1,15 +1,15 @@
 # RE Tooling
 
-[← All categories](../README.md) · 244 projects
+[← All categories](../README.md) · 254 projects
 
-- [AI-assisted RE](#ai-assisted-re) (16)
+- [AI-assisted RE](#ai-assisted-re) (21)
 - [Binary & Format Analysis](#binary--format-analysis) (13)
 - [Decompilation Project Tooling](#decompilation-project-tooling) (35)
-- [Disassemblers & Decompilers](#disassemblers--decompilers) (98)
+- [Disassemblers & Decompilers](#disassemblers--decompilers) (99)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (17)
-- [Mobile RE](#mobile-re) (33)
-- [Other](#other) (13)
-- [Traffic Interception](#traffic-interception) (19)
+- [Mobile RE](#mobile-re) (34)
+- [Other](#other) (14)
+- [Traffic Interception](#traffic-interception) (21)
 
 ## AI-assisted RE
 
@@ -21,14 +21,19 @@
 | reagent | Reconstruct and validate C/C++ code from compiled programs with AI | 2,060 | <https://github.com/Dryxio/reagent> |
 | open-reverselab | AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg, Rizin | 1,250 | <https://github.com/LING71671/open-reverselab> |
 | jadx-mcp-server | MCP server for the JADX-AI plugin for Android RE | 794 | <https://github.com/zinja-coder/jadx-mcp-server> |
+| unbrowse | Reverse engineers websites' internal APIs so agents can call them directly | 784 | <https://github.com/unbrowse-ai/unbrowse> |
 | GhidrAssistMCP | MCP server extension for Ghidra | 769 | <https://github.com/symgraph/GhidrAssistMCP> |
 | GhidrAssist | LLM assistant plugin for Ghidra | 756 | <https://github.com/symgraph/GhidrAssist> |
 | DAILA | Decompiler-agnostic AI assistant plugin for IDA, Ghidra, Binja and angr | 710 | <https://github.com/mahaloz/DAILA> |
 | r2ai | LLM integration for radare2 | 487 | <https://github.com/radareorg/r2ai> |
 | binary_ninja_mcp | Binary Ninja plugin with MCP server for LLM clients | 450 | <https://github.com/fosdickio/binary_ninja_mcp> |
 | pyghidra-mcp | Command-line Python Ghidra MCP server | 441 | <https://github.com/clearbluejar/pyghidra-mcp> |
+| idasql | SQL interface over IDA Pro databases via live virtual tables for agent-driven RE | 422 | <https://github.com/allthingsida/idasql> |
 | binary-ninja-headless-mcp | Headless Binary Ninja MCP server for AI agents | 256 | <https://github.com/mrphrazer/binary-ninja-headless-mcp> |
 | ghidra-headless-mcp | Headless Ghidra MCP server for AI agents | 190 | <https://github.com/mrphrazer/ghidra-headless-mcp> |
+| grokathon (Nova) | Grok Build harness that reverse engineers old binaries; Grokathon winner | 37 | <https://github.com/theodorechapman/grokathon> |
+| deobfuscate-mcp-server | MCP server helping LLMs reverse-engineer minified JavaScript | 18 | <https://github.com/MadeByTokens/deobfuscate-mcp-server> |
+| 2api-skill | Agent skill to reverse-engineer any webchat into an OpenAI/Anthropic API | 14 | <https://github.com/69gg/2api-skill> |
 | decomp-goal-harness | Harness for coding agents working on matching decompilation goals | 8 | <https://github.com/Muhtasham/decomp-goal-harness> |
 | DAITK | AI-assisted GameCube decompilation pipeline with objdiff verification | 0 | <https://github.com/Grien25/DAITK> |
 
@@ -188,6 +193,7 @@
 | PbdViewer | Decompiler and viewer for PowerBuilder PBD/PBL libraries | 49 | <https://github.com/Hucxy/PbdViewer> |
 | ida-swarm | Multi-agent AI system for automated reverse engineering in IDA | 41 | <https://github.com/shells-above/ida-swarm> |
 | binja_kc | Plugin for loading MachO kernelcache and dSYM files to Binary Ninja | 39 | <https://github.com/skr0x1c0/binja_kc> |
+| r2unity | Reverse engineer Unity games with radare2 | 38 | <https://github.com/radareorg/r2unity> |
 | sephelper | IDA loader to help with SEPROM reverse engineering. | 36 | <https://github.com/haiyuidesu/sephelper> |
 | iBoot-Binja-Loader | iBoot/SecureROM Loader | 35 | <https://github.com/EliseZeroTwo/iBoot-Binja-Loader> |
 | tonguetwister | Macromedia Director file disassembler, Lingo decompiler and format documentation | 12 | <https://github.com/lham/tonguetwister> |
@@ -247,6 +253,7 @@
 | apk2gold | CLI tool that decompiles Android APKs to Java source and resources | 700 | <https://github.com/lxdvs/apk2gold> |
 | android-reverse-engineering-skill | Agent skill that decompiles APKs and extracts endpoints, auth headers and signing logic | 540 | <https://github.com/CreditTone/android-reverse-engineering-skill> |
 | Il2CppInterop | Interop between CoreCLR and IL2CPP at runtime for modding | 398 | <https://github.com/BepInEx/Il2CppInterop> |
+| hermes-decomp | Decompiler for React Native Hermes bytecode (.hbc) | 184 | <https://github.com/SymbioticSec/hermes-decomp> |
 | rnidbg | Rust Android ARM64 emulator rewritten from unidbg | 164 | <https://github.com/fuqiuluo/rnidbg> |
 | mobile-network-traffic | Guide to sniff Android HTTPS traffic with Waydroid and mitmproxy | 102 | <https://github.com/ddxv/mobile-network-traffic> |
 | r2garlic | Fast Android DEX decompiler integrated into radare2 | 43 | <https://github.com/radareorg/r2garlic> |
@@ -268,6 +275,7 @@
 | cobol-rekt | Toolkit for analysing and reverse engineering legacy COBOL code (flowcharts, CFGs) | 167 | <https://github.com/avishek-sen-gupta/cobol-rekt> |
 | icestick-lpc-tpm-sniffer | FPGA-based LPC bus sniffer to extract TPM secrets | 84 | <https://github.com/SySS-Research/icestick-lpc-tpm-sniffer> |
 | RET | FUTO's reverse-engineering tool | 79 | <https://github.com/futo-org/ret> |
+| dfuexplorer | USB DFU client for reverse engineers | 38 | <https://github.com/travisgoodspeed/dfuexplorer> |
 | Reverse-engineering-agent | MCP server giving AI agents 46 RE tools (Ghidra, GDB, Binwalk) | 35 | <https://github.com/The-Arabi/Reverse-engineering-agent> |
 | mcp_reverse_engineering | MCP server exposing reverse engineering tools | 1 | <https://github.com/daedalus/mcp_reverse_engineering> |
 
@@ -289,8 +297,10 @@
 | bluebox (web-hacker) | Reverse engineers web apps' undocumented APIs from browser traffic | 202 | <https://github.com/VectorlyApp/bluebox> |
 | AutomatiQ | Reverse-engineering agent that turns web app traffic into APIs | 172 | <https://github.com/StoneSteel27/AutomatiQ> |
 | usbsnoop | Live system-wide USB transfer sniffer in eBPF with inline protocol decoding | 87 | <https://github.com/yeet-src/usbsnoop> |
+| BLE-Analyzer-pro-linux-capture | Linux capture tool for the reverse-engineered BLE Analyzer Pro USB sniffer | 77 | <https://github.com/xecaz/BLE-Analyzer-pro-linux-capture> |
 | mitmcloak | mitmproxy addon mirroring real browser TLS/H2/H3 fingerprints upstream | 64 | <https://github.com/sardanioss/mitmcloak> |
 | impersonate-proxy | Local MitM proxy to control TLS (JA3/JA4) and HTTP/2 fingerprints | 40 | <https://github.com/ytkoka/impersonate-proxy> |
 | rever-browser | AI-agent browser for web API reverse engineering | 34 | <https://github.com/greekr4/rever-browser> |
+| api-reverse-engineer | Chrome extension capturing fetch/XHR calls to reverse engineer site APIs | 32 | <https://github.com/ctala/api-reverse-engineer> |
 | fritm | Cross-platform network reverse engineering framework hooking processes with Frida | 26 | <https://github.com/louisabraham/fritm> |
 | Wireshark | Network protocol analyzer with dissectors for many reverse-engineered protocols |  | <https://gitlab.com/wireshark/wireshark> |
