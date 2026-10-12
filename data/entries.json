@@ -2869,6 +2869,22 @@
   "added": "2026-10-11"
  },
  {
+  "name": "muse-client",
+  "url": "https://github.com/wong2/muse-client",
+  "desc": "Unofficial TypeScript SDK for Muse chat using the Muse Gadget SDK protocol",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-03",
+  "lang": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+   "muse"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "NChatGPTRev",
   "url": "https://github.com/BruceQiu1996/NChatGPTRev",
   "desc": "C# ChatGPT SDK using the reverse engineered web API",
@@ -24563,6 +24579,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "scooter-display",
+  "url": "https://github.com/simmsb/scooter-display",
+  "desc": "Reverse-engineered custom Rust firmware for the Egret GT e-scooter display",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-09-08",
+  "lang": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+   "custom-firmware",
+   "e-scooter",
+   "egret",
+   "rust"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "shimano-steps-ep8-canbus",
   "url": "https://github.com/CapnDeCode/shimano-steps-ep8-canbus-messages-analysis-data",
   "desc": "CAN captures and reverse-engineering of Shimano STEPS EP8",
@@ -31234,6 +31269,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "awesome-fm-1",
+  "url": "https://github.com/cicloid/awesome-fm-1",
+  "desc": "Curated list of M-VAVE FM-1 custom firmware, reverse engineering and tools",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "Hardware & IoT",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "",
+  "license": "CC0-1.0",
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "custom-firmware",
+   "dx7",
+   "fm-1",
+   "fm-synthesis"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Awesome-Hardware-and-IoT-Hacking",
   "url": "https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking",
   "desc": "Curated hardware, firmware and IoT hacking resources and tools",
@@ -31406,6 +31462,20 @@
   "pushed": "2022-03-10",
   "lang": "Python",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CADCraft",
+  "url": "https://github.com/storytold/cadcraft",
+  "desc": "Clean-room AutoCAD-style CAD and drafting application written in pure Rust",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 2820,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Rust",
+  "license": "Apache-2.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -31859,6 +31929,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PhotoCraft",
+  "url": "https://github.com/storytold/photocraft",
+  "desc": "Clean-room Photoshop-style photo editor written from scratch in pure Rust",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 48763,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+   "images",
+   "photo-editing",
+   "art",
+   "rust",
+   "image-editing",
+   "image-editing-software"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Plasma-Writeup",
   "url": "https://github.com/coremaze/Plasma-Writeup",
   "desc": "Restoring Picroma Plasma by reverse engineering its unknown instruction set",
@@ -31980,6 +32071,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "SoundCraft",
+  "url": "https://github.com/storytold/soundcraft",
+  "desc": "Clean-room reimplementation of Avid Pro Tools in pure Rust",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 1891,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "SQ8L",
   "url": "https://github.com/sq8l-revival/SQ8L",
   "desc": "Faithful 64-bit port of the SQ8L Ensoniq SQ-80 emulation plugin",
@@ -31998,6 +32103,20 @@
    "ensoniq",
    "esq-1"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "urna-vota-decompiled",
+  "url": "https://github.com/igoroalonge/urna-vota-decompiled",
+  "desc": "Readable C++ reconstruction of the WASM module behind Brazil's TSE electronic voting simulator",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -37076,6 +37195,20 @@
   "pushed": "2024-11-24",
   "lang": "Python",
   "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Film Studio (a5100)",
+  "url": "https://github.com/ukiki0718-netizen/sony-a5100-film-studio",
+  "desc": "Unofficial Sony PMCA in-camera app adding film-simulation presets to the a5100",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Cameras & Drones",
+  "stars": 50,
+  "archived": false,
+  "pushed": "2026-09-19",
+  "lang": "Python",
+  "license": "NOASSERTION",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -46169,6 +46302,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "jieli-ble-badge-research",
+  "url": "https://github.com/ElectronicCats/jieli-ble-badge-research",
+  "desc": "Reverse engineering of a JieLi AC707N BLE e-badge: BLE clients, UFW tooling and flash helpers",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Other",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2026-09-18",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "jieli",
+   "ac707n",
+   "br35"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "LDS",
   "url": "https://github.com/kaiaai/LDS",
   "desc": "Arduino library for low-cost LiDARs incl. Xiaomi LDS02RR, Neato XV11 and Camsense X1",
@@ -52382,6 +52533,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "chsmartbulb",
+  "url": "https://github.com/mertemr/chsmartbulb",
+  "desc": "Replacement for the dead CHSmartBulb app on a reverse-engineered BLE protocol, with CLI and Python lib",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Smart Home & IoT",
+  "stars": 2,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "ble",
+   "bluetooth",
+   "bluetooth-low-energy",
+   "bluez",
+   "home-automation",
+   "iot"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "climapilot",
   "url": "https://github.com/pit711/climapilot",
   "desc": "Control Midea air conditioners locally over Wi-Fi without a cloud account",
@@ -53190,6 +53362,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ha-ps5-remoteplay",
+  "url": "https://github.com/iharosi/ha-ps5-remoteplay",
+  "desc": "Home Assistant integration to wake, standby and track PS5 consoles over local Remote Play",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Smart Home & IoT",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2026-09-17",
+  "lang": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+   "hacs",
+   "hacs-integration",
+   "home-assistant",
+   "homeassistant",
+   "playstation-5",
+   "ps5"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "ha-smartthinq-sensors",
   "url": "https://github.com/ollo69/ha-smartthinq-sensors",
   "desc": "Home Assistant integration for LG SmartThinQ appliances",
@@ -53851,6 +54044,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "mcz-musa-esphome-home-assistant",
+  "url": "https://github.com/mylifeos/mcz-musa-esphome-home-assistant",
+  "desc": "ESPHome CC1101 remote for the MCZ MUSA 2.0 pellet stove, reverse-engineered RF protocol",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Smart Home & IoT",
+  "stars": 0,
+  "archived": false,
+  "pushed": "2026-09-24",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Meross",
   "url": "https://github.com/bytespider/Meross",
   "desc": "Investigation of the Meross/Refoss MSS310 plug to make it talk to local services",
@@ -54263,6 +54470,27 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "panasonic-doorphone-connect",
+  "url": "https://github.com/jethac/panasonic-doorphone-connect",
+  "desc": "Unofficial Home Assistant bridge acting as a virtual Wi-Fi handset for Panasonic Doorphone Connect",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Smart Home & IoT",
+  "stars": 20,
+  "archived": false,
+  "pushed": "2026-09-17",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "doorbell",
+   "home-assistant",
+   "home-automation",
+   "panasonic",
+   "rust",
+   "viana"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -63718,6 +63946,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ht36",
+  "url": "https://github.com/tcsenpai/ht36",
+  "desc": "Reverse-engineered local-first BLE client for the HT36 smartwatch, zero cloud",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "stars": 4,
+  "archived": false,
+  "pushed": "2026-07-10",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "HuaFetch",
   "url": "https://github.com/Keddnyo/HuaFetch",
   "desc": "Fetch Huami wearable pairing data (auth keys) for third-party apps",
@@ -64367,6 +64609,26 @@
   "lang": "Jupyter Notebook",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OpenRayneo",
+  "url": "https://github.com/Tobi1chi/OpenRayneo",
+  "desc": "Unofficial macOS Bluetooth bridge and local HTTP API for RayNeo iO glasses",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Wearables & Health",
+  "stars": 102,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Swift",
+  "license": "Apache-2.0",
+  "topics": [
+   "bluetooth",
+   "macos",
+   "rayneo",
+   "swift",
+   "teleprompter"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -78593,6 +78855,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "awtrix-ng-tc002",
+  "url": "https://github.com/sanderdw/awtrix-ng-tc002",
+  "desc": "Unofficial AWTRIX NG firmware port for the Ulanzi TC002 pixel clock with web UI and MQTT",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 28,
+  "archived": false,
+  "pushed": "2026-10-02",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+   "awtrix",
+   "awtrix-ng",
+   "home-assistant",
+   "led-matrix",
+   "mqtt",
+   "tc002"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "b3603",
   "url": "https://github.com/baruch/b3603",
   "desc": "Alternative firmware for the B3603 power supply module",
@@ -78624,6 +78907,24 @@
    "nic",
    "ethernet",
    "talos-ii"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "blackbox-mod",
+  "url": "https://github.com/j3threejay/blackbox-mod",
+  "desc": "Unofficial feature patch for the 1010music Blackbox sampler's stock 3.1.9 firmware",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 20,
+  "archived": false,
+  "pushed": "2026-10-05",
+  "lang": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+   "blackbox",
+   "firmware-mod",
+   "sampler"
   ],
   "added": "2026-10-11"
  },
@@ -78674,6 +78975,23 @@
   "lang": "C",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ChroMagic",
+  "url": "https://github.com/cursedtoast2/ChroMagic",
+  "desc": "Custom firmware for the ModRetro Chromatic handheld adding cartridge backups",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-09-11",
+  "lang": "C",
+  "license": "",
+  "topics": [
+   "chromatic",
+   "modretro-chromatic"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -78834,6 +79152,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ems-machinedrum-firmware",
+  "url": "https://github.com/emuyia/ems-machinedrum-firmware",
+  "desc": "Custom firmware for the Elektron Machinedrum adding per-track lengths, speeds and trig conditions",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 34,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "esp8266-deerma-humidifier",
   "url": "https://github.com/Hypfer/esp8266-deerma-humidifier",
   "desc": "Custom firmware to uncloud the Xiaomi Mi Smart Antibacterial Humidifier",
@@ -78918,6 +79250,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Felucca",
+  "url": "https://github.com/hugelton/Felucca",
+  "desc": "Custom firmware for the M-VAVE FM-1 pocket FM synthesizer",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 416,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Flipper Zero firmware",
   "url": "https://github.com/flipperdevices/flipperzero-firmware",
   "desc": "Flipper Zero firmware with sub-GHz, NFC, RFID and IR protocol decoders",
@@ -78949,6 +79295,20 @@
   "pushed": "2025-01-15",
   "lang": "",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fm1-nes",
+  "url": "https://github.com/Keitark/fm1-nes",
+  "desc": "Custom firmware SDK integration, diagnostics and NES example for the M-VAVE FM-1 (WL82 chip)",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-09",
+  "lang": "C",
+  "license": "Apache-2.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -79140,6 +79500,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "jangada",
+  "url": "https://github.com/zednaked/jangada",
+  "desc": "Alternative M-VAVE FM-1 firmware (Felucca fork) with superwave, mod matrix and 4 tracks",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 23,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "GPL-3.0",
+  "topics": [
+   "drone",
+   "dsp",
+   "embedded",
+   "firmware",
+   "fm-1",
+   "jieli"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "k5prog",
   "url": "https://github.com/sq5bpf/k5prog",
   "desc": "EEPROM and flash programmer for the Quansheng UV-K5 using its serial bootloader protocol",
@@ -79311,6 +79692,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Lunar Modulator",
+  "url": "https://github.com/ip2k/lunar-modulator",
+  "desc": "Open firmware for the M-VAVE FM-1 with new sound engines, a sequencer and a browser simulator",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 55,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "macrosilicon_firmware",
   "url": "https://github.com/kraln/macrosilicon_firmware",
   "desc": "Custom EEPROM firmware for Macrosilicon USB video chips from mask ROM disassembly",
@@ -79335,6 +79730,20 @@
   "pushed": "2026-02-22",
   "lang": "C",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "melodee",
+  "url": "https://github.com/keremimo/melodee",
+  "desc": "Custom firmware for the M-VAVE FM-1 pocket synthesizer",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 47,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -79579,6 +79988,27 @@
   "lang": "",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "openwrt-nx679j",
+  "url": "https://github.com/Saddytech/openwrt-nx679j",
+  "desc": "Native OpenWrt port to the Nubia RedMagic 7 phone with reverse-engineered boot chain docs",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 26,
+  "archived": false,
+  "pushed": "2026-10-01",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [
+   "avb",
+   "bootloader-unlock",
+   "drm-kms",
+   "openwrt",
+   "qmi",
+   "qualcomm"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -79986,6 +80416,62 @@
    "tuya",
    "knx"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "techo5",
+  "url": "https://github.com/HuskerMinion/techo5",
+  "desc": "Open Alpine Linux firmware for Amazon Echo Show 5 (gen 1/2): no Alexa, local Home Assistant voice satellite",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 265,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "cronos",
+   "echo-show",
+   "esphome",
+   "home-assistant",
+   "mt8163",
+   "voice-assistant"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "techo5-dot",
+  "url": "https://github.com/HuskerMinion/techo5-dot",
+  "desc": "Linux firmware for Amazon Echo Dot 2nd gen replacing Fire OS, as a local Home Assistant voice satellite",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 113,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "alexa-alternative",
+   "alpine-linux",
+   "biscuit",
+   "bluetooth-speaker",
+   "echo-dot",
+   "esphome"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "techo5-spot",
+  "url": "https://github.com/HuskerMinion/techo5-spot",
+  "desc": "Linux firmware for Amazon Echo Spot 1st gen replacing Fire OS, as a local Home Assistant voice satellite",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 36,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -82862,6 +83348,20 @@
    "firmware",
    "research"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Freenetic",
+  "url": "https://github.com/unisequence/freenetic",
+  "desc": "Clean-room reimplementation of Keenetic router UX and CLI on vanilla OpenWrt",
+  "category": "Firmware & Embedded",
+  "subcategory": "Routers & Network Gear",
+  "stars": 47,
+  "archived": false,
+  "pushed": "2026-10-09",
+  "lang": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -86930,6 +87430,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Model2EmuEx",
+  "url": "https://github.com/octavioCuatrochio/Model2EmuEx",
+  "desc": "Decompiled Sega Model 2 emulator modified to run on Linux and Android",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Console Emulators",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-09-24",
+  "lang": "C",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Nuked-MD",
   "url": "https://github.com/nukeykt/Nuked-MD",
   "desc": "Cycle-accurate Mega Drive emulator from die-level reverse engineering",
@@ -88421,6 +88935,20 @@
   "pushed": "2026-09-30",
   "lang": "Go",
   "license": "GPL-2.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Concilia Tower",
+  "url": "https://github.com/Jonahss/concilia-tower",
+  "desc": "Ground-up rewrite of SimTower (1994) from decompilation, playable in the browser",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 13,
+  "archived": false,
+  "pushed": "2026-09-12",
+  "lang": "C",
+  "license": "",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -89935,6 +90463,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Galaxy on Fire 2 Unity Remake",
+  "url": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+  "desc": "Galaxy on Fire 2 decompilation and Unity remake",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 122,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "GemRB",
   "url": "https://github.com/gemrb/gemrb",
   "desc": "Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).",
@@ -91235,6 +91777,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Marble Love",
+  "url": "https://github.com/magno73/marble-love",
+  "desc": "TypeScript reimplementation of Atari's Marble Madness (1984), incl. Slapstic behaviour",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 3,
+  "archived": false,
+  "pushed": "2026-08-31",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Mario Kart 64 for Dreamcast",
   "url": "https://github.com/jnmartin84/mk64-dc",
   "desc": "Sega Dreamcast port of Mario Kart 64 decompilation",
@@ -91288,6 +91844,27 @@
   "lang": "C++",
   "license": "GPL-3.0",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "mdk-sdl",
+  "url": "https://github.com/nemo22/mdk-sdl",
+  "desc": "Port of Shiny's MDK (1997) to C# and SDL3 based on reverse engineering",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C#",
+  "license": "GPL-3.0",
+  "topics": [
+   "csharp",
+   "dotnet",
+   "game-port",
+   "mdk",
+   "reverse-engineering",
+   "sdl3"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -93531,6 +94108,26 @@
   "added": "2026-10-11"
  },
  {
+  "name": "OpenTS",
+  "url": "https://github.com/OpenTS-Developers/OpenTS",
+  "desc": "Open-source, reverse-engineered rebuild of the Command & Conquer: Tiberian Sun engine",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 569,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+   "cnc",
+   "command-and-conquer",
+   "modding",
+   "tiberian-sun",
+   "westwood-studios"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "OpenTS2",
   "url": "https://github.com/LazyDuchess/OpenTS2",
   "desc": "Open source re-implementation of The Sims 2 in Unity",
@@ -93873,6 +94470,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PanzerMortyr",
+  "url": "https://github.com/Panzerschrek/PanzerMortyr",
+  "desc": "Reimplementation of the Mortyr 2093-1944 game engine",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 1,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "GLSL",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Paper Mario DX",
   "url": "https://github.com/bates64/papermario-dx",
   "desc": "Improved Paper Mario (N64) engine for your next romhack",
@@ -94004,6 +94615,20 @@
    "webrtc",
    "webrtc-datachannels"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "piney_apples",
+  "url": "https://github.com/Toyz/piney_apples",
+  "desc": "Native Rust port of the PS2 .hack engine from reverse engineering",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -95087,6 +95712,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Rosebed",
+  "url": "https://github.com/mdmrk/rosebed",
+  "desc": "From-scratch Zig reimplementation of Minecraft Beta 1.7.3 client and server, protocol-compatible",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2026-09-21",
+  "lang": "Zig",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "RPG-X",
   "url": "https://github.com/UberGames/rpgxEF",
   "desc": "A modifaction of ioEF with increased limits for RPG-X2, now including the gamecode",
@@ -96112,6 +96751,27 @@
   "lang": "C++",
   "license": "NOASSERTION",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "T.O.R.E Fighters",
+  "url": "https://github.com/john-overton/T.O.R.E-Fighters",
+  "desc": "Reverse-engineered rebuild of Jane's Fighters Anthology flight sim",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+   "combat",
+   "fighters",
+   "fighters-anthology",
+   "flight-simulator",
+   "simluation",
+   "simulation"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -107251,6 +107911,21 @@
   "added": "2026-10-11"
  },
  {
+  "name": "psychonauts-decomp",
+  "url": "https://github.com/DrDecki/psychonauts-decomp",
+  "desc": "Decompilation project for Psychonauts",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Matching Decompilations — Other / Multi-platform",
+  "platform": "Other / Multi-platform",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "PvZ-TV-Touch",
   "url": "https://github.com/WuDi-ZhanShen/PvZ-TV-Touch",
   "desc": "Decompiled Java source of Android Plants vs. Zombies TV edition, adapted for touch",
@@ -111535,6 +112210,21 @@
   "pushed": "2025-08-26",
   "lang": "C",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "BT3-Decompiled",
+  "url": "https://github.com/z3xox/BT3-Decompiled",
+  "desc": "Matching decompilation of Dragon Ball Z: Budokai Tenkaichi 3 (PS2)",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Matching Decompilations — PlayStation 2",
+  "platform": "PlayStation 2",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "C",
+  "license": "CC0-1.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -119097,6 +119787,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Hoshimi",
+  "url": "https://github.com/Enigfrank/Hoshimi",
+  "desc": "Unofficial local game emulation server for Hoshimi",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Private Servers",
+  "stars": 22,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "PowerShell",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Houdini",
   "url": "https://github.com/solero/houdini",
   "desc": "Club Penguin private server written in Python 3",
@@ -119313,6 +120017,22 @@
    "backend",
    "fortnite",
    "xmpp"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "LibreKO",
+  "url": "https://github.com/ZeusAFK/LibreKO",
+  "desc": "From-scratch reimplementation of the Knight Online game server and client",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Private Servers",
+  "stars": 32,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C#",
+  "license": "AGPL-3.0",
+  "topics": [
+   "knight-online"
   ],
   "added": "2026-10-11"
  },
@@ -120177,6 +120897,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PTCGP-Private-Server",
+  "url": "https://github.com/Layen-lang/PTCGP-Private-Server",
+  "desc": "Unofficial local compatibility server and profile editor for Pokémon TCG Pocket",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Private Servers",
+  "stars": 37,
+  "archived": false,
+  "pushed": "2026-10-01",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "pokemon",
+   "pokemon-tcg-pocket",
+   "pokemon-tcgp",
+   "private-server",
+   "self-hosted",
+   "emulator"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "puniemu",
   "url": "https://github.com/SuperTavor/puniemu",
   "desc": "Server emulator for Yo-kai Watch Puni Puni",
@@ -120947,6 +121688,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": ".hack//Recompilation",
+  "url": "https://github.com/dothacktranslate/dothack-recompilation",
+  "desc": "Native recompilation project for the PS2 .hack//IMOQ quadrilogy",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 36,
+  "archived": false,
+  "pushed": "2026-09-14",
+  "lang": "Python",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "3dpinball-dc",
   "url": "https://github.com/headshot2017/3dpinball-dc",
   "desc": "Port of the Space Cadet Pinball decompilation to Dreamcast",
@@ -121007,6 +121762,20 @@
    "rexglue-recomp",
    "static-recompilation"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ac3-remix",
+  "url": "https://github.com/i5han/ac3-remix",
+  "desc": "PC port and remaster of Ace Combat 3: Electrosphere",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2026-10-06",
+  "lang": "",
+  "license": "NOASSERTION",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -121237,6 +122006,20 @@
   "archived": false,
   "pushed": "2026-10-11",
   "lang": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "ArmyOfTwo-Recomp",
+  "url": "https://github.com/Genesis5500/ArmyOfTwo-Recomp",
+  "desc": "Experimental native PC port of Army of Two (Xbox 360) via ReXGlue static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-09-10",
+  "lang": "C++",
   "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
@@ -121565,6 +122348,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Body Harvest Recompiled",
+  "url": "https://github.com/danielgomesvieira2000/body-harvest-recomp",
+  "desc": "Native PC port of Body Harvest (N64) built with N64Recomp and RT64",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-09-17",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "BT3-Recomp",
   "url": "https://github.com/z3xox/BT3-Recomp",
   "desc": "Dragon Ball Z: Budokai Tenkaichi 3 PC port via static recompilation",
@@ -121621,6 +122418,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "CafeRecomp",
+  "url": "https://github.com/hardkiller2565123123/CafeRecomp",
+  "desc": "Wii U static recompilation framework, starting with Breath of the Wild",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-09-28",
+  "lang": "C",
+  "license": "MPL-2.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "castlevania-chronicles-recomp",
   "url": "https://github.com/Spicywonda/castlevania-chronicles-recomp",
   "desc": "Experimental Castlevania Chronicles (PS1) recompilation",
@@ -121631,6 +122442,20 @@
   "pushed": "2026-10-12",
   "lang": "C#",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CBFD-Recompiled",
+  "url": "https://github.com/sciaschi/CBFD-Recompiled",
+  "desc": "Static recompilation of Conker's Bad Fur Day (N64) to native PC",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 248,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C",
+  "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -121666,6 +122491,20 @@
    "sega-32x",
    "static-recompilation"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "CoD3Recomp",
+  "url": "https://github.com/FrankHUN88453/CoD3Recomp",
+  "desc": "Static recompilation of Call of Duty 3 (Xbox 360) with host runtime and tools",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -121755,6 +122594,20 @@
   "pushed": "2026-10-06",
   "lang": "C",
   "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Crash2Recomp",
+  "url": "https://github.com/Zumbo06/Crash2Recomp",
+  "desc": "Crash Bandicoot 2 (PS1) translated to native code instead of emulated",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 84,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "Python",
+  "license": "",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -122000,6 +122853,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "demoscene-recomp",
+  "url": "https://github.com/treylorswift/demoscene-recomp",
+  "desc": "Classic DOS demoscene productions recompiled to run natively in the browser",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 21,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "JavaScript",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Destroy All Humans! Path of the Furon",
   "url": "https://github.com/masterspike52/reDAHM",
   "desc": "Xbox 360 static recompilation of Destroy All Humans! Path of the Furon",
@@ -122218,6 +123085,20 @@
   "pushed": "2026-10-11",
   "lang": "C++",
   "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "DQIV-Recompiled",
+  "url": "https://github.com/GoldieLeGenie/DQIV-Recompiled",
+  "desc": "Native PC version of Dragon Quest IV (DS) via recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -122509,6 +123390,55 @@
   "added": "2026-10-11"
  },
  {
+  "name": "FFTARecomp",
+  "url": "https://github.com/Jorge262007/FFTARecomp",
+  "desc": "Native Windows port of Final Fantasy Tactics Advance (GBA) with widescreen",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "emulator",
+   "final-fantasy",
+   "game",
+   "recompilation",
+   "rust",
+   "windows"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "fifa-street-pc-port",
+  "url": "https://github.com/samuelit0davila/fifa-street-pc-port",
+  "desc": "Experimental Windows PC port of FIFA Street (2012, Xbox 360) built with ReXGlue",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 56,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "FinFanTacRecomp",
+  "url": "https://github.com/NJH-1001/FinFanTacRecomp",
+  "desc": "PSXRecomp native Windows port of Final Fantasy Tactics (PS1) with 16:9 option",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-09-03",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Flame",
   "url": "https://github.com/DiaLight/Flame",
   "desc": "Dungeon Keeper II partial recompilation with bug fixes.",
@@ -122631,6 +123561,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "FZeroRecomp",
+  "url": "https://github.com/craigshaw/FZeroRecomp",
+  "desc": "Static recompilation of F-Zero to native PC",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2026-09-27",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "G-Diffuser",
   "url": "https://github.com/Zorkats/G-Diffuser",
   "desc": "Unofficial PC port of F-Zero X based on its decompilation",
@@ -122680,6 +123624,41 @@
   "topics": [
    "recompiler"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "gdx-3ds",
+  "url": "https://github.com/cruxxxxxx/gdx-3ds",
+  "desc": "Unofficial 3DS port of F-Zero X based on its decompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-09-04",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [
+   "citro3d",
+   "decompilation",
+   "f-zero-x",
+   "homebrew",
+   "libultraship",
+   "n64"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "gears-judgement-recomp",
+  "url": "https://github.com/OverkillLabs3/gears-judgement-recomp",
+  "desc": "Native Windows recompilation of Gears of War: Judgment (Xbox 360)",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 40,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "BSD-3-Clause",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -122929,6 +123908,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "halo-ce-vita",
+  "url": "https://github.com/BirchWoodGod/halo-ce-vita",
+  "desc": "PS Vita port of Halo: Combat Evolved built on the decompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 61,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "hard-corps-uprising-recompiled",
   "url": "https://github.com/saulob/hard-corps-uprising-recompiled",
   "desc": "Native PC port of Hard Corps: Uprising (Xbox Live Arcade) via static recompilation, with the TRG launcher",
@@ -123002,6 +123995,20 @@
   "pushed": "2026-10-11",
   "lang": "C#",
   "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "HuntersRecomp",
+  "url": "https://github.com/aabrole/HuntersRecomp",
+  "desc": "Metroid Prime Hunters (DS) recompiled to a native dual-screen Android port",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2026-09-06",
+  "lang": "Java",
+  "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -123475,6 +124482,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "MCX360-EDITION",
+  "url": "https://github.com/DevZer0D4Y/MCX360-EDITION",
+  "desc": "ReXGlue recompilation of Minecraft Xbox 360 Edition running on iOS",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-09-27",
+  "lang": "C++",
+  "license": "BSD-3-Clause",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "MegaMan64Recompiled",
   "url": "https://github.com/MegaMan64Recomp/MegaMan64Recompiled",
   "desc": "Mega Man 64 static recompilation with mod support",
@@ -123503,6 +124524,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "melee-unlocked",
+  "url": "https://github.com/Hero88go/melee-unlocked",
+  "desc": "Native Windows source port of Super Smash Bros. Melee built from its decompiled C source",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 103,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "MeleePC",
   "url": "https://github.com/999sian/melee-pc",
   "desc": "Recomp of Super Smash Bros Melee to PC.",
@@ -123527,6 +124562,20 @@
   "pushed": "2026-10-06",
   "lang": "C",
   "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Metal Gear Solid Recompiled",
+  "url": "https://github.com/alexbeavs-ps1-ports/metal-gear-solid-recomp",
+  "desc": "PSXRecomp native PC port of Metal Gear Solid (PS1)",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-02",
+  "lang": "Python",
+  "license": "",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -123608,6 +124657,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "MK64 Portable",
+  "url": "https://github.com/beckerd/psp_mk64_portable",
+  "desc": "Native PSP port of Mario Kart 64 built on the n64decomp/mk64 decompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2026-09-29",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "mk8-recomp",
   "url": "https://github.com/dougchansan/mk8-recomp",
   "desc": "Static recompilation of Mario Kart 8 AArch64 code to native x86-64",
@@ -123618,6 +124681,34 @@
   "pushed": "2026-09-25",
   "lang": "C++",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MKVDCU-Recomp",
+  "url": "https://github.com/KawaiiBunga/MKVDCU-Recomp",
+  "desc": "Unofficial PC recompilation of Mortal Kombat vs. DC Universe",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 34,
+  "archived": false,
+  "pushed": "2026-09-30",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "MKW-3DS",
+  "url": "https://github.com/MiniBandit/MKW-3DS",
+  "desc": "Native Nintendo 3DS port of Mario Kart Wii, built from your own disc",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 76,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "NOASSERTION",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -123682,6 +124773,20 @@
    "msu-1",
    "recomp"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Mother3Recomp",
+  "url": "https://github.com/agray0425/Mother3Recomp",
+  "desc": "Static recompilation of MOTHER 3 (GBA) to native PC on the gbarecomp framework",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 24,
+  "archived": false,
+  "pushed": "2026-09-24",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -123788,6 +124893,20 @@
    "launcher-application",
    "dotnet"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "naruto-rise-recomp",
+  "url": "https://github.com/jorjbarbosa/naruto-rise-recomp",
+  "desc": "Static PC recompilation of Naruto: Rise of a Ninja (Xbox 360) via ReXGlue",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 40,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -123995,6 +125114,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "NSMB-Wii-Multiplayer-Recompilation",
+  "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+  "desc": "Static recompilation of New Super Mario Bros. Wii for Android and Windows",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Ogre Battle 64 Recompiled",
   "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
   "desc": "Static recompilation of Ogre Battle 64 to native PC",
@@ -124075,6 +125208,20 @@
    "handheld",
    "muos"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "OpenCrossing-Xbox",
+  "url": "https://github.com/TechProGabe/OpenCrossing-Xbox",
+  "desc": "Native original Xbox port of Animal Crossing built from the GameCube decompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2026-10-05",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -124250,6 +125397,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "P.T. for PC",
+  "url": "https://github.com/LoreanXavier/pt-pc",
+  "desc": "Native PC port of Kojima's P.T. with game logic rebuilt in C++, runs from your own PS4 files",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 1454,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "P3P3DS",
   "url": "https://github.com/endercodezz/P3P3DS",
   "desc": "Persona 3 Portable port for the New Nintendo 3DS",
@@ -124378,6 +125539,34 @@
    "xbox-360",
    "project-gotham-racing"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Phase Distorter",
+  "url": "https://github.com/TheRunaway5/Phase-Distorter",
+  "desc": "Native C++20 PC port of EarthBound / Mother 2 for Linux and Windows",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 100,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C++",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Pilotwings 64 Recomp",
+  "url": "https://github.com/danielgomesvieira2000/pilotwings-64-recomp",
+  "desc": "Native PC port of Pilotwings 64 statically recompiled with N64Recomp, widescreen and high FPS",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 73,
+  "archived": false,
+  "pushed": "2026-09-17",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -124895,6 +126084,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ReShadowTower",
+  "url": "https://github.com/JFryy/reshadowtower",
+  "desc": "Recompiled native port of Shadow Tower (PS1) with modern PC controls",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-10-06",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "ReXGlue SDK",
   "url": "https://github.com/rexglue/rexglue-sdk",
   "desc": "SDK for static recompilation of Xbox 360 games from PowerPC to portable C++",
@@ -124905,6 +126108,20 @@
   "pushed": "2026-10-02",
   "lang": "C",
   "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "RidgeRacer4Recomp",
+  "url": "https://github.com/omegakatana92/RidgeRacer4Recomp",
+  "desc": "Native PC port of R4: Ridge Racer Type 4 (PS1) built with PSXRecomp",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2026-09-03",
+  "lang": "PowerShell",
+  "license": "",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -125502,6 +126719,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "sms-pc-port",
+  "url": "https://github.com/chasem-dev/sms-pc-port",
+  "desc": "Native PC port of Super Mario Sunshine",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 116,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "Snap64Recomp",
   "url": "https://github.com/JackandBeans/Snap64Recomp",
   "desc": "Pokémon Snap static recompilation",
@@ -125547,6 +126778,20 @@
   "pushed": "2026-10-11",
   "lang": "C",
   "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "snowboardkids-recomp",
+  "url": "https://github.com/cdlewis/snowboardkids-recomp",
+  "desc": "Native PC port of Snowboard Kids (N64) for Windows, Linux and macOS",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -125601,6 +126846,27 @@
   "lang": "CMake",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "sonic-r-android",
+  "url": "https://github.com/ZinexDa/sonic-r-android",
+  "desc": "Native Android port of the Sonic R PC decompilation with GLES2 renderer",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 20,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [
+   "android",
+   "android-port",
+   "c",
+   "game-port",
+   "gles2",
+   "kotlin"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -125711,6 +126977,34 @@
    "recompilation",
    "reverse-engineering"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Splatterhouse Recompiled",
+  "url": "https://github.com/0c0de/splatterhouse-decomp",
+  "desc": "Native PC port of Splatterhouse (2010, Xbox 360) via ReXGlue static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-10-01",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "srw64-recomp",
+  "url": "https://github.com/dyzz/srw64-recomp",
+  "desc": "Experimental native recompilation of Super Robot Wars 64 with translations and HD mode",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "GPL-3.0",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -126274,6 +127568,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "twisted-metal-2012-ps3-native-port",
+  "url": "https://github.com/franklincg/twisted-metal-2012-ps3-native-port",
+  "desc": "Community native PC recompilation of Twisted Metal (2012, PS3)",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-09-15",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "ufc3recomp",
   "url": "https://github.com/paulogaab21/ufc3recomp",
   "desc": "Native recompilation of UFC 3 Undisputed for Windows, Linux and macOS",
@@ -126463,6 +127771,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Wave Race 64 Recomp",
+  "url": "https://github.com/danielgomesvieira2000/wave-race-64-recomp",
+  "desc": "Native PC port of Wave Race 64 via N64 static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 78,
+  "archived": false,
+  "pushed": "2026-09-23",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "wc1-re",
   "url": "https://github.com/neuromancer/wc1-re",
   "desc": "Open-source recomp of Wing Commander I.",
@@ -126553,6 +127875,20 @@
   "pushed": "2026-01-05",
   "lang": "Assembly",
   "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "wet-recomp",
+  "url": "https://github.com/Supermedo/wet-recomp",
+  "desc": "Fan PC port of WET (Xbox 360) via ReXGlue static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 21,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C#",
+  "license": "NOASSERTION",
   "topics": [],
   "added": "2026-10-11"
  },
@@ -126699,6 +128035,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wwe13-recomp",
+  "url": "https://github.com/PromethenDev/wwe13-recomp",
+  "desc": "Static recompilation of WWE '13 (Xbox 360) for Windows and Linux via ReXGlue",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 51,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "WWFNoMercyRecomp",
   "url": "https://github.com/jessetbh/WWFNoMercyRecomp",
   "desc": "WWF No Mercy N64 static recompilation",
@@ -126750,6 +128100,20 @@
   "archived": false,
   "pushed": "2026-09-08",
   "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Xbox360-Native-Ports",
+  "url": "https://github.com/CrownParkComputing/Xbox360-Native-Ports",
+  "desc": "Xbox 360 titles recompiled to native Linux with Vulkan renderer; launchers only",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 128,
+  "archived": false,
+  "pushed": "2026-09-23",
+  "lang": "C++",
   "license": "",
   "topics": [],
   "added": "2026-10-11"
@@ -126813,6 +128177,20 @@
   "archived": false,
   "pushed": "2026-10-12",
   "lang": "C++",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xmd-recompiled",
+  "url": "https://github.com/florinp93/xmd-recompiled",
+  "desc": "Native PC port of X-Men Destiny via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2026-09-02",
+  "lang": "C",
   "license": "",
   "topics": [],
   "added": "2026-10-11"
@@ -135549,6 +136927,20 @@
    "trade",
    "republic"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "crono-vision",
+  "url": "https://github.com/felixmelanson/crono-vision",
+  "desc": "Photo food logging via Cronometer's undocumented mobile API (CLI and serverless)",
+  "category": "Mobile Apps",
+  "subcategory": "Fitness & Education Apps",
+  "stars": 34,
+  "archived": false,
+  "pushed": "2026-08-30",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -146379,6 +147771,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "super-trouper",
+  "url": "https://github.com/crissyfield/super-trouper",
+  "desc": "MCP server exposing Frida dynamic instrumentation to AI agents",
+  "category": "RE Tooling",
+  "subcategory": "AI-assisted RE",
+  "stars": 51,
+  "archived": false,
+  "pushed": "2026-10-04",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "application-security",
+   "frida",
+   "ios-security",
+   "mcp",
+   "mobile-security",
+   "model-context-protocol"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "unbrowse",
   "url": "https://github.com/unbrowse-ai/unbrowse",
   "desc": "Reverse engineers websites' internal APIs so agents can call them directly",
@@ -149006,6 +150419,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "SaturnRecomp",
+  "url": "https://github.com/sonsegajp/SaturnRecomp",
+  "desc": "Experimental clean-room Sega Saturn runtime and static recompilation toolkit",
+  "category": "RE Tooling",
+  "subcategory": "Decompilation Project Tooling",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-09-06",
+  "lang": "C",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-11"
+ },
+ {
   "name": "sega2asm",
   "url": "https://github.com/hansbonini/sega2asm",
   "desc": "Sega Genesis / Mega Drive disassembler and splitter in Go",
@@ -149115,6 +150542,20 @@
    "x86",
    "wine"
   ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "xboxrecomp",
+  "url": "https://github.com/sp00nznet/xboxrecomp",
+  "desc": "Static recompiler turning original Xbox game binaries into native Windows executables",
+  "category": "RE Tooling",
+  "subcategory": "Decompilation Project Tooling",
+  "stars": 176,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
   "added": "2026-10-11"
  },
  {
@@ -150944,6 +152385,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "hexpyrion",
+  "url": "https://github.com/DimaReverse/hexpyrion",
+  "desc": "Static source recovery for Nuitka-compiled Python binaries",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-09-12",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "decompiler",
+   "nuitka",
+   "unpacker"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "HexraysToolbox",
   "url": "https://github.com/patois/HexraysToolbox",
   "desc": "Finds code patterns in the Hex-Rays ctree",
@@ -151581,6 +153040,27 @@
    "bytecode",
    "decode",
    "decompiler"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "jscd",
+  "url": "https://github.com/ejfkdev/jscd",
+  "desc": "Static Rust decompiler from bytenode .jsc (V8 code cache) back to JavaScript",
+  "category": "RE Tooling",
+  "subcategory": "Disassemblers & Decompilers",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-05",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "bytenode",
+   "decompiler",
+   "javascript",
+   "reverse-engineering",
+   "rust",
+   "v8"
   ],
   "added": "2026-10-11"
  },
@@ -155964,6 +157444,27 @@
    "vscode-extension",
    "iosre",
    "jailbreak"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Jadart",
+  "url": "https://github.com/IR0NBYTE/Jadart",
+  "desc": "Fast Flutter/Dart AOT decompiler for agents and mobile researchers",
+  "category": "RE Tooling",
+  "subcategory": "Mobile RE",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "dart",
+   "decompiler",
+   "flutter",
+   "mobile-security",
+   "reverse-engineering",
+   "android"
   ],
   "added": "2026-10-11"
  },
@@ -165604,6 +167105,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "digikala-mcp",
+  "url": "https://github.com/sepehr071/digikala-mcp",
+  "desc": "Unofficial read-only MCP server for Digikala product, seller and price-history data",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 28,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "digikala",
+   "iran",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "python"
+  ],
+  "added": "2026-10-11"
+ },
+ {
   "name": "diveharder_api.py",
   "url": "https://github.com/helldivers-2/diveharder_api.py",
   "desc": "FastAPI proxy exposing Helldivers 2 API data for community developers",
@@ -165794,6 +167316,27 @@
   "topics": [
    "cinema",
    "movie"
+  ],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "Kasumi",
+  "url": "https://github.com/p0mpurin/Kasumi",
+  "desc": "Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 70,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C",
+  "license": "GPL-3.0",
+  "topics": [
+   "3ds",
+   "3ds-homebrew",
+   "citro2d",
+   "cloud-gaming",
+   "game-streaming",
+   "geforce-now"
   ],
   "added": "2026-10-11"
  },
@@ -166412,6 +167955,27 @@
   "lang": "PHP",
   "license": "",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "snapp-mcp",
+  "url": "https://github.com/sepehr071/snapp-mcp",
+  "desc": "Unofficial read-only MCP server for Snappfood and SnappMarket private APIs",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 32,
+  "archived": false,
+  "pushed": "2026-10-06",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "iran",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "python",
+   "snappfood"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -167270,6 +168834,27 @@
   "lang": "Go",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "proton-drive-linux-fs",
+  "url": "https://github.com/khaosdoctor/proton-drive-linux-fs",
+  "desc": "Unofficial FUSE filesystem for Proton Drive on Linux with on-demand file fetch",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 15,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "filesystem",
+   "fuse",
+   "golang",
+   "linux",
+   "privacy",
+   "proton"
+  ],
   "added": "2026-10-11"
  },
  {
@@ -171162,6 +172747,27 @@
   "lang": "Python",
   "license": "MIT",
   "topics": [],
+  "added": "2026-10-11"
+ },
+ {
+  "name": "pykorail",
+  "url": "https://github.com/devgyurak/pykorail",
+  "desc": "Unofficial Python SDK for Korail (Korean railway) reservations",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "korail",
+   "ktx",
+   "ktx-library",
+   "ktx-srt",
+   "ktxbot",
+   "srt"
+  ],
   "added": "2026-10-11"
  },
  {

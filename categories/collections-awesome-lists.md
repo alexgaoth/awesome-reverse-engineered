@@ -1,12 +1,12 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md) · 75 projects
+[← All categories](../README.md) · 76 projects
 
 - [AI](#ai) (1)
 - [APIs & Apps](#apis--apps) (21)
 - [Games](#games) (24)
 - [General RE](#general-re) (16)
-- [Hardware & IoT](#hardware--iot) (13)
+- [Hardware & IoT](#hardware--iot) (14)
 
 ## AI
 
@@ -107,3 +107,4 @@
 | ESP32-reversing | Curated list of ESP32 reversing resources | 320 | <https://github.com/BlackVS/ESP32-reversing> |
 | awesome-linbus | Awesome list of LIN bus tools and resources for reverse engineering LIN devices | 246 | <https://github.com/iDoka/awesome-linbus> |
 | awesome-even-realities-g1 | Collection of projects for Even Realities G1 AR glasses | 35 | <https://github.com/galfaroth/awesome-even-realities-g1> |
+| awesome-fm-1 | Curated list of M-VAVE FM-1 custom firmware, reverse engineering and tools | 25 | <https://github.com/cicloid/awesome-fm-1> |

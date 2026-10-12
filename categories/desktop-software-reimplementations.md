@@ -1,8 +1,8 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 167 projects
+[← All categories](../README.md) · 171 projects
 
-- [Applications](#applications) (46)
+- [Applications](#applications) (50)
 - [Binary Translators](#binary-translators) (11)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (9)
 - [OS & Compatibility Layers](#os--compatibility-layers) (50)
@@ -13,14 +13,17 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | vaultwarden | Unofficial Bitwarden-compatible server written in Rust | 68,863 | <https://github.com/dani-garcia/vaultwarden> |
+| PhotoCraft | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 48,763 | <https://github.com/storytold/photocraft> |
 | ruffle | A Flash Player emulator written in Rust | 18,658 | <https://github.com/ruffle-rs/ruffle> |
 | Webamp | Winamp 2.9 reimplemented in HTML5/JS, including skin and playlist format support | 11,291 | <https://github.com/captbaritone/webamp> |
 | wordcraft | Open-source clean-room reimplementation of Microsoft Word in Rust | 6,468 | <https://github.com/storytold/wordcraft> |
 | notion-enhancer | Patches the Notion desktop/Electron app to add themes and extensions | 5,030 | <https://github.com/notion-enhancer/notion-enhancer> |
 | figma-linux | Unofficial Figma desktop client for Linux built around the web app | 3,285 | <https://github.com/Figma-Linux/figma-linux> |
 | gridcraft | Open-source clean-room Excel-style spreadsheet in Rust | 3,075 | <https://github.com/storytold/gridcraft> |
+| CADCraft | Clean-room AutoCAD-style CAD and drafting application written in pure Rust | 2,820 | <https://github.com/storytold/cadcraft> |
 | lotion | Unofficial Notion.so desktop app for Linux | 2,229 | <https://github.com/puneetsl/lotion> |
 | deckcraft | Open-source clean-room reimplementation of Microsoft PowerPoint in Rust | 2,087 | <https://github.com/storytold/deckcraft> |
+| SoundCraft | Clean-room reimplementation of Avid Pro Tools in pure Rust | 1,891 | <https://github.com/storytold/soundcraft> |
 | OpenSAGE | Open source reimplementation of EA's SAGE RTS engine (C&C Generals) | 1,648 | <https://github.com/OpenSAGE/OpenSAGE> |
 | Schism Tracker | Open-source reimplementation of Impulse Tracker | 1,568 | <https://github.com/schismtracker/schismtracker> |
 | SAM | Reverse engineered C port of the Software Automatic Mouth speech synthesizer | 1,512 | <https://github.com/s-macke/SAM> |
@@ -57,6 +60,7 @@
 | paper-rs | Clean-room Rust reimplementation of the Paper design app | 19 | <https://github.com/michaelshimeles/paper-rs> |
 | WordTsar | Open-source clone of the WordStar word processor that edits WordStar files | 18 | <https://github.com/sleaze/WordTsar> |
 | HCX | macOS app that opens and runs classic HyperCard stacks | 17 | <https://github.com/pgostation/HCX> |
+| urna-vota-decompiled | Readable C++ reconstruction of the WASM module behind Brazil's TSE electronic voting simulator | 16 | <https://github.com/igoroalonge/urna-vota-decompiled> |
 | libfreehand | Import library for Aldus/Macromedia FreeHand documents | 8 | <https://github.com/LibreOffice/libfreehand> |
 
 ## Binary Translators

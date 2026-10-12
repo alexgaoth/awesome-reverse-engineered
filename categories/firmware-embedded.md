@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 334 projects
+[← All categories](../README.md) · 348 projects
 
 - [Camera Firmware](#camera-firmware) (18)
-- [Custom Firmware](#custom-firmware) (104)
+- [Custom Firmware](#custom-firmware) (117)
 - [Firmware Analysis Tools](#firmware-analysis-tools) (82)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (60)
-- [Routers & Network Gear](#routers--network-gear) (70)
+- [Routers & Network Gear](#routers--network-gear) (71)
 
 ## Camera Firmware
 
@@ -76,12 +76,14 @@
 | LibreTiny | Arduino/PlatformIO support for Beken/Realtek chips used in Tuya and other IoT devices | 548 | <https://github.com/libretiny-eu/libretiny> |
 | rpi-open-firmware (librerpi) | Open-source VPU bootloader for the Raspberry Pi | 466 | <https://github.com/librerpi/rpi-open-firmware> |
 | uofw | Reverse engineering and reimplementation of the latest PSP official firmware | 440 | <https://github.com/uofw/uofw> |
+| Felucca | Custom firmware for the M-VAVE FM-1 pocket FM synthesizer | 416 | <https://github.com/hugelton/Felucca> |
 | rk3562deb | Debian 13 for the Doogee U10 RK3562 tablet, reverse-engineered without a BSP | 403 | <https://github.com/tech4bot/rk3562deb> |
 | echolocal | Turns an Echo Dot 2nd gen into a fully local Home Assistant voice satellite | 393 | <https://github.com/ygelfand/echolocal> |
 | switch-linux | Linux kernel port for the Nintendo Switch | 359 | <https://github.com/fail0verflow/switch-linux> |
 | RF-Bridge-EFM8BB1 *(archived)* | Alternative firmware for the Sonoff RF Bridge 433 MHz chip with raw protocol sniffing | 301 | <https://github.com/Portisch/RF-Bridge-EFM8BB1> |
 | Deviation | Custom firmware for Walkera and other RC transmitters with many RC protocols | 268 | <https://github.com/DeviationTX/deviation> |
 | uv-k5-firmware *(archived)* | Open reimplementation of the Quansheng UV-K5 handheld radio firmware | 266 | <https://github.com/DualTachyon/uv-k5-firmware> |
+| techo5 | Open Alpine Linux firmware for Amazon Echo Show 5 (gen 1/2): no Alexa, local Home Assistant voice satellite | 265 | <https://github.com/HuskerMinion/techo5> |
 | k5prog | EEPROM and flash programmer for the Quansheng UV-K5 using its serial bootloader protocol | 249 | <https://github.com/sq5bpf/k5prog> |
 | rtl8196e-gateway | Open-source Linux firmware for RTL8196E smart home gateways like Lidl Silvercrest | 216 | <https://github.com/jnilo1/rtl8196e-gateway> |
 | uv-k5-firmware-custom (OneOfEleven) | Customized Quansheng UV-K5 firmware based on DualTachyon's reimplementation | 200 | <https://github.com/OneOfEleven/uv-k5-firmware-custom> |
@@ -101,6 +103,7 @@
 | ch552g_mini_keyboard | Alternative firmware for the CH552G 3-key rotary encoder keyboard | 116 | <https://github.com/eccherda/ch552g_mini_keyboard> |
 | Itead_Sonoff *(archived)* | Alternative MQTT firmware for Itead Sonoff switches | 116 | <https://github.com/SamZorSec/Itead_Sonoff> |
 | open-desk-lamp-firmware | Open source firmware for the Xiaomi desk lamp | 113 | <https://github.com/fvollmer/open-desk-lamp-firmware> |
+| techo5-dot | Linux firmware for Amazon Echo Dot 2nd gen replacing Fire OS, as a local Home Assistant voice satellite | 113 | <https://github.com/HuskerMinion/techo5-dot> |
 | SONOFF-SNZB-02-Temperature-and-humidity-sensor | Alternative Zigbee firmware for the SONOFF SNZB-02 sensor | 109 | <https://github.com/smartboxchannel/SONOFF-SNZB-02-Temperature-and-humidity-sensor> |
 | RF-Bridge-OB38S003 | Alternative firmware for the Sonoff RF Bridge radio MCU | 107 | <https://github.com/mightymos/RF-Bridge-OB38S003> |
 | flipperzero-protobuf | Protobuf definitions for the Flipper Zero RPC protocol | 104 | <https://github.com/flipperdevices/flipperzero-protobuf> |
@@ -126,14 +129,24 @@
 | gm328a_rev_eng | Reverse engineering of the GM328A transistor tester firmware | 56 | <https://github.com/robsoncouto/gm328a_rev_eng> |
 | riden-dongle | Alternative firmware for the Riden WiFi module with Modbus TCP and SCPI | 56 | <https://github.com/morgendagen/riden-dongle> |
 | linkplay-a31 | Alternative OpenWrt firmware for the Linkplay A31 WiFi audio module | 55 | <https://github.com/hn/linkplay-a31> |
+| Lunar Modulator | Open firmware for the M-VAVE FM-1 with new sound engines, a sequencer and a browser simulator | 55 | <https://github.com/ip2k/lunar-modulator> |
 | AI-Thinker_RGBW_Bulb *(archived)* | Alternative MQTT firmware for AI-Thinker RGBW bulbs | 52 | <https://github.com/SamZorSec/AI-Thinker_RGBW_Bulb> |
 | Dynaban | Alternative firmware for Dynamixel servos | 52 | <https://github.com/RhobanProject/Dynaban> |
+| melodee | Custom firmware for the M-VAVE FM-1 pocket synthesizer | 47 | <https://github.com/keremimo/melodee> |
 | wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | <https://github.com/Heisath/wdmc2-kernel> |
 | osos-lab | RepriseOS: patches and reverse engineering that add features to Apple's iPod firmware | 45 | <https://github.com/lgreitis/osos-lab> |
 | rpi-open-firmware | Open-source VideoCore firmware for the Raspberry Pi | 40 | <https://github.com/christinaa/rpi-open-firmware> |
 | pluto-firmware-modifications | Tools and docs for modifying the ADI ADALM-Pluto SDR firmware | 36 | <https://github.com/daniestevez/pluto-firmware-modifications> |
+| techo5-spot | Linux firmware for Amazon Echo Spot 1st gen replacing Fire OS, as a local Home Assistant voice satellite | 36 | <https://github.com/HuskerMinion/techo5-spot> |
+| ems-machinedrum-firmware | Custom firmware for the Elektron Machinedrum adding per-track lengths, speeds and trig conditions | 34 | <https://github.com/emuyia/ems-machinedrum-firmware> |
+| awtrix-ng-tc002 | Unofficial AWTRIX NG firmware port for the Ulanzi TC002 pixel clock with web UI and MQTT | 28 | <https://github.com/sanderdw/awtrix-ng-tc002> |
 | SGS01BTHome | Custom firmware for the Tuya SGS01 soil sensor to send data in standard BTHome format | 28 | <https://github.com/haraldapp/SGS01BTHome> |
+| openwrt-nx679j | Native OpenWrt port to the Nubia RedMagic 7 phone with reverse-engineered boot chain docs | 26 | <https://github.com/Saddytech/openwrt-nx679j> |
+| jangada | Alternative M-VAVE FM-1 firmware (Felucca fork) with superwave, mod matrix and 4 tracks | 23 | <https://github.com/zednaked/jangada> |
 | iPodLinux | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | <https://github.com/iPodLinux/iPodLinux-SVN> |
+| blackbox-mod | Unofficial feature patch for the 1010music Blackbox sampler's stock 3.1.9 firmware | 20 | <https://github.com/j3threejay/blackbox-mod> |
+| ChroMagic | Custom firmware for the ModRetro Chromatic handheld adding cartridge backups | 18 | <https://github.com/cursedtoast2/ChroMagic> |
+| fm1-nes | Custom firmware SDK integration, diagnostics and NES example for the M-VAVE FM-1 (WL82 chip) | 16 | <https://github.com/Keitark/fm1-nes> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
 | macrosilicon_firmware | Custom EEPROM firmware for Macrosilicon USB video chips from mask ROM disassembly | 12 | <https://github.com/kraln/macrosilicon_firmware> |
 | open-yoto | Open-source firmware for the Yoto player | 7 | <https://github.com/tensorfish/open-yoto> |
@@ -351,6 +364,7 @@
 | FreshTomato (MIPS) | Alternative open-source firmware for Broadcom-based MIPS routers | 61 | <https://github.com/FreshTomato-Project/freshtomato-mips> |
 | ZTE-MC-Home-assistant-repo | Home Assistant integration for ZTE MC801A, MC888, MC889 and G5 5G routers | 57 | <https://github.com/Kajkac/ZTE-MC-Home-assistant-repo> |
 | cavium-cn6640 SmartNIC | Reverse-engineered Cavium Octeon II SmartNIC into a working 10GbE card on Linux | 51 | <https://github.com/nicologiuliani6/cavium-cn6640-snic10e-octeon-ii-nic> |
+| Freenetic | Clean-room reimplementation of Keenetic router UX and CLI on vanilla OpenWrt | 47 | <https://github.com/unisequence/freenetic> |
 | tplink-omada-api | Python client for the TP-Link Omada controller API | 43 | <https://github.com/MarkGodwin/tplink-omada-api> |
 | eternalegypt | Python API for Netgear LTE modems | 36 | <https://github.com/amelchio/eternalegypt> |
 | winbox-terminal-protocol | Pure Python implementation of the MikroTik WinBox terminal protocol | 29 | <https://github.com/subixonfire/winbox-terminal-protocol> |

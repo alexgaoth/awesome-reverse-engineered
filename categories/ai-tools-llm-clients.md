@@ -1,9 +1,9 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md) · 683 projects
+[← All categories](../README.md) · 684 projects
 
 - [AI Hardware & On-device Models](#ai-hardware--on-device-models) (45)
-- [Chatbot Web APIs](#chatbot-web-apis) (174)
+- [Chatbot Web APIs](#chatbot-web-apis) (175)
 - [Chinese LLM Web APIs](#chinese-llm-web-apis) (48)
 - [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (243)
 - [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (61)
@@ -222,6 +222,7 @@
 | chatgpt-turnstile-reversed | Reverse engineered ChatGPT Turnstile anti-bot token used for login and chat | 18 | <https://github.com/jonathanyly/chatgpt-turnstile-reversed> |
 | chatgpt-exporter (ezwep) | Self-hosted backup of ChatGPT conversations, projects and custom GPTs | 16 | <https://github.com/ezwep/chatgpt-exporter> |
 | Go-EdgeGPT | Go reverse-engineered API of Microsoft's Bing Chat | 16 | <https://github.com/billikeu/Go-EdgeGPT> |
+| muse-client | Unofficial TypeScript SDK for Muse chat using the Muse Gadget SDK protocol | 16 | <https://github.com/wong2/muse-client> |
 | Discord-C.AI-Wrapper | Brings Character.AI personas into Discord via the unofficial API | 15 | <https://github.com/walterwhite-69/Discord-C.AI-Wrapper> |
 | grok-web-api | Lightweight proxy for the grok.com web API | 15 | <https://github.com/imjustprism/grok-web-api> |
 | huggingchat-api *(archived)* | HuggingChat web API client with streaming and web search | 15 | <https://github.com/ogios/huggingchat-api> |

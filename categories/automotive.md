@@ -1,6 +1,6 @@
 # Automotive
 
-[← All categories](../README.md) · 354 projects
+[← All categories](../README.md) · 355 projects
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
 - [CAN Bus & ECU](#can-bus--ecu) (89)
@@ -8,7 +8,7 @@
 - [EV Batteries & BMS](#ev-batteries--bms) (22)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (31)
 - [Motorcycles](#motorcycles) (10)
-- [Scooters & E-bikes](#scooters--e-bikes) (50)
+- [Scooters & E-bikes](#scooters--e-bikes) (51)
 
 ## Bikes, Trainers & Bike Computers
 
@@ -382,6 +382,7 @@
 | decode-vanmoof-blt-packages | Inspect Bluetooth sniff captures of VanMoof bike traffic | 20 | <https://github.com/mjarkk/decode-vanmoof-blt-packages> |
 | ebike-connect-js | Unofficial Node API for the Bosch eBike Connect web service | 20 | <https://github.com/FlorianCassayre/ebike-connect-js> |
 | LevoEsp32Ble | Arduino library reading telemetry from Specialized Levo e-bikes over BLE | 20 | <https://github.com/Sepp62/LevoEsp32Ble> |
+| scooter-display | Reverse-engineered custom Rust firmware for the Egret GT e-scooter display | 17 | <https://github.com/simmsb/scooter-display> |
 | VanmoofX3RE | Reverse engineering of the VanMoof X3 e-bike | 17 | <https://github.com/ciborg971/VanmoofX3RE> |
 | vanmoof-bms | Reverse-engineered VanMoof S3 DynaPack battery ModBus registers | 16 | <https://github.com/Knight1/vanmoof-bms> |
 | vanMoof (PowerShell) | PowerShell code to download your VanMoof data | 14 | <https://github.com/stefanstranger/vanMoof> |

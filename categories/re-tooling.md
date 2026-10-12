@@ -1,13 +1,13 @@
 # RE Tooling
 
-[← All categories](../README.md) · 685 projects
+[← All categories](../README.md) · 691 projects
 
-- [AI-assisted RE](#ai-assisted-re) (56)
+- [AI-assisted RE](#ai-assisted-re) (57)
 - [Binary & Format Analysis](#binary--format-analysis) (86)
-- [Decompilation Project Tooling](#decompilation-project-tooling) (60)
-- [Disassemblers & Decompilers](#disassemblers--decompilers) (241)
+- [Decompilation Project Tooling](#decompilation-project-tooling) (62)
+- [Disassemblers & Decompilers](#disassemblers--decompilers) (243)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (62)
-- [Mobile RE](#mobile-re) (108)
+- [Mobile RE](#mobile-re) (109)
 - [Other](#other) (37)
 - [Traffic Interception](#traffic-interception) (35)
 
@@ -66,6 +66,7 @@
 | recopilot | ReCopilot reverse engineering copilot for binary analysis | 66 | <https://github.com/XingTuLab/recopilot> |
 | x64dbg-rippy | AI reverse engineering assistant chat panel for x64dbg | 62 | <https://github.com/dariushoule/x64dbg-rippy> |
 | Vibe-Reverse-Engineering | LLM-friendly tools for Cursor to reverse engineer binaries, especially games | 59 | <https://github.com/Ekozmaster/Vibe-Reverse-Engineering> |
+| super-trouper | MCP server exposing Frida dynamic instrumentation to AI agents | 51 | <https://github.com/crissyfield/super-trouper> |
 | grokathon (Nova) | Grok Build harness that reverse engineers old binaries; Grokathon winner | 37 | <https://github.com/theodorechapman/grokathon> |
 | deobfuscate-mcp-server | MCP server helping LLMs reverse-engineer minified JavaScript | 18 | <https://github.com/MadeByTokens/deobfuscate-mcp-server> |
 | 2api-skill | Agent skill to reverse-engineer any webchat into an OpenAI/Anthropic API | 14 | <https://github.com/69gg/2api-skill> |
@@ -187,6 +188,7 @@
 | psx-modding-toolchain | Tools to mod and reverse engineer PlayStation 1 games | 193 | <https://github.com/mateusfavarin/psx-modding-toolchain> |
 | rabbitizer | MIPS instruction decoder library used by decomp tooling | 181 | <https://github.com/Decompollaborate/rabbitizer> |
 | wibo | Minimal Windows binary loader to run old Win32 compilers on Linux | 179 | <https://github.com/decompals/wibo> |
+| xboxrecomp | Static recompiler turning original Xbox game binaries into native Windows executables | 176 | <https://github.com/sp00nznet/xboxrecomp> |
 | asm-differ | Assembly differ for matching decompilation work | 175 | <https://github.com/simonlindholm/asm-differ> |
 | reccmp | Tools for comparing recompiled code against original binaries | 157 | <https://github.com/isledecomp/reccmp> |
 | ccc | Library and tools for parsing PS2 debugging symbols | 108 | <https://github.com/chaoticgd/ccc> |
@@ -218,6 +220,7 @@
 | delink | Splitting tool for decompilation projects | 25 | <https://github.com/HaydnTrigg/delink> |
 | n64-decomp-workbench | Relocation-aware diffs to find late-stage MIPS decompilation mismatches | 20 | <https://github.com/akratch/n64-decomp-workbench> |
 | RecompCore | A static-recompilation CPU core for Dolphin — run GameCube games as native code, with transparent interpreter fallback | 20 | <https://github.com/aharonahdoot/RecompCore> |
+| SaturnRecomp | Experimental clean-room Sega Saturn runtime and static recompilation toolkit | 18 | <https://github.com/sonsegajp/SaturnRecomp> |
 | nWiiURecomp | Static recompilation and runtime toolkit for Nintendo Wii U (based on NWiiRecomp) to make native PC ports (and not only) | 14 | <https://github.com/BlackLineInteractive/nWiiURecomp> |
 | model3recomp | Sega Model 3 hardware runtime and PowerPC 603e static recompiler. Link a recompiled Model 3 game against native C har... | 13 | <https://github.com/sp00nznet/model3recomp> |
 | PS4Recomp | Experimental macOS Apple Silicon first recompiler of PS4 programs | 11 | <https://github.com/wie-project/PS4Recomp> |
@@ -471,6 +474,8 @@
 | r2unity | Reverse engineer Unity games with radare2 | 38 | <https://github.com/radareorg/r2unity> |
 | sephelper | IDA loader to help with SEPROM reverse engineering. | 36 | <https://github.com/haiyuidesu/sephelper> |
 | iBoot-Binja-Loader | iBoot/SecureROM Loader | 35 | <https://github.com/EliseZeroTwo/iBoot-Binja-Loader> |
+| hexpyrion | Static source recovery for Nuitka-compiled Python binaries | 19 | <https://github.com/DimaReverse/hexpyrion> |
+| jscd | Static Rust decompiler from bytenode .jsc (V8 code cache) back to JavaScript | 18 | <https://github.com/ejfkdev/jscd> |
 | tonguetwister | Macromedia Director file disassembler, Lingo decompiler and format documentation | 12 | <https://github.com/lham/tonguetwister> |
 | visualbasic-rs | Rust library to parse and inspect compiled Visual Basic 6 binaries | 2 | <https://github.com/ATRAPSLLC/visualbasic-rs> |
 
@@ -651,6 +656,7 @@
 | AndroidRunnableJadx | Run Android Java methods inside Jadx without a device | 62 | <https://github.com/asmjmp0/AndroidRunnableJadx> |
 | r2garlic | Fast Android DEX decompiler integrated into radare2 | 43 | <https://github.com/radareorg/r2garlic> |
 | hasmer *(archived)* | Command-line tool for reverse engineering Hermes (React Native) bytecode | 42 | <https://github.com/lucasbaizer/hasmer> |
+| Jadart | Fast Flutter/Dart AOT decompiler for agents and mobile researchers | 19 | <https://github.com/IR0NBYTE/Jadart> |
 | grida *(archived)* | Graphical reverse engineering UI for Frida on Android | 16 | <https://github.com/pluggyai/grida> |
 | Talaria | Decompiles React Native Hermes bytecode to pseudocode | 2 | <https://github.com/moleium/talaria> |
 

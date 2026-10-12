@@ -200,6 +200,11 @@
 - GitHub GraphQL API (repository existence/canonical URL checks)
 - GitHub repository search API (sort=stars), paged up to 1000 results per query, split by creation date
 - r7 sweep remainder
+- https://api.github.com/search/repositories
+- https://x.com/iamdavidhill/status/2107248003543384170
+- https://news.ycombinator.com
+- https://opensaga.dev
+- https://kvetch.io/conciliatower/
 
 ## Searches run
 
@@ -1787,3 +1792,23 @@
 - gh search/repositories sorted by stars: "hidden api" stars:>30
 - gh search/repositories sorted by stars: "internal api" unofficial stars:>20
 - gh search/repositories sorted by stars: "web api" unofficial stars:>30
+- HN Algolia search_by_date stories since 2026-08-27: reverse engineered
+- HN Algolia search_by_date stories since 2026-08-27: reverse-engineered
+- HN Algolia search_by_date stories since 2026-08-27: reverse engineering
+- HN Algolia search_by_date stories since 2026-08-27: unofficial API
+- HN Algolia search_by_date stories since 2026-08-27: undocumented API
+- HN Algolia search_by_date stories since 2026-08-27: decompilation
+- HN Algolia search_by_date stories since 2026-08-27: recompiled
+- HN Algolia search_by_date stories since 2026-08-27: open source client
+- HN Algolia search_by_date stories since 2026-08-27: local control
+- HN Algolia search_by_date stories since 2026-08-27: protocol
+- HN Algolia search_by_date stories since 2026-08-27: I reverse
+- HN Algolia search_by_date stories since 2026-08-27: decompiled
+- HN Algolia search_by_date stories since 2026-08-27: recompilation
+- HN Algolia search_by_date stories since 2026-08-27: reimplementation
+- HN Algolia search_by_date stories since 2026-08-27: open source driver
+- HN Algolia search_by_date stories since 2026-08-27: cloud-free
+- HN Algolia search_by_date stories since 2026-08-27: private API
+- HN Algolia search_by_date stories since 2026-08-27: reverse engineer
+- GitHub search created:>=2026-08-27 stars:>15 for: "reverse engineered", "reverse-engineered", "unofficial api", "unofficial client", "private api", decompilation, recompilation, reimplementation, "local api", cloud-free, decompiled, recomp, "reverse engineering", "undocumented api", "local control", "clean-room", unofficial, decomp, "static recompilation", "custom firmware", rexglue, N64Recomp, psxrecomp, "open firmware", "alternative firmware", "pc port", "native port", esphome, topic:reverse-engineering, topic:decompilation, topic:recompilation
+- WebSearch extended: reddit/x.com 'reverse engineered' github 2026; 'static recompilation' new PC port October 2026; 'unofficial API' python library 2026; reverse-engineered no-cloud smart device 2026

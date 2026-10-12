@@ -1,6 +1,6 @@
 # Unofficial Web/App API Clients
 
-[← All categories](../README.md) · 648 projects
+[← All categories](../README.md) · 653 projects
 
 - [Books, Reading & Learning](#books-reading--learning) (22)
 - [Dating](#dating) (13)
@@ -8,14 +8,14 @@
 - [Google Services](#google-services) (45)
 - [Music & Audio Streaming](#music--audio-streaming) (63)
 - [Other](#other) (11)
-- [Other APIs](#other-apis) (74)
-- [Productivity](#productivity) (58)
+- [Other APIs](#other-apis) (77)
+- [Productivity](#productivity) (59)
 - [Real Estate](#real-estate) (8)
 - [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (37)
 - [Shopping & Marketplaces](#shopping--marketplaces) (38)
 - [Social & Content Platforms](#social--content-platforms) (43)
 - [Translation](#translation) (21)
-- [Travel & Transport](#travel--transport) (65)
+- [Travel & Transport](#travel--transport) (66)
 - [Video & YouTube](#video--youtube) (60)
 
 ## Books, Reading & Learning
@@ -336,6 +336,7 @@
 | APIs-by-Integuru | Collection of unofficial APIs built by reverse engineering web apps | 84 | <https://github.com/Integuru-AI/APIs-by-Integuru> |
 | jomato-mobile | Unofficial API wrapper for Zomato's mobile API | 81 | <https://github.com/jatin-dot-py/jomato-mobile> |
 | undocumented-s3-apis | Catalog of undocumented Amazon S3 APIs and third-party extensions | 71 | <https://github.com/gaul/undocumented-s3-apis> |
+| Kasumi | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 70 | <https://github.com/p0mpurin/Kasumi> |
 | uf_api | Documentation of the University of Florida's undocumented API | 68 | <https://github.com/Rolstenhouse/uf_api> |
 | Shopify-Private-APIs | Reverse-engineered Shopify private admin APIs | 64 | <https://github.com/martinamps/Shopify-Private-APIs> |
 | awsapilib | Python library for AWS services driven by undocumented APIs not in boto3 | 62 | <https://github.com/schubergphilis/awsapilib> |
@@ -349,7 +350,9 @@
 | McReverse | Reverse-engineered Java library for the German McDonald's API | 38 | <https://github.com/Louuke/McReverse> |
 | WinLight | Download Windows Spotlight lock screen images via the Content Delivery Manager API | 38 | <https://github.com/Biswa96/WinLight> |
 | archivetoday | Unofficial API and CLI for archive.today | 36 | <https://github.com/HRDepartment/archivetoday> |
+| snapp-mcp | Unofficial read-only MCP server for Snappfood and SnappMarket private APIs | 32 | <https://github.com/sepehr071/snapp-mcp> |
 | python_Meijer | Reverse-engineered API for Meijer's shopping list | 29 | <https://github.com/dapperfu/python_Meijer> |
+| digikala-mcp | Unofficial read-only MCP server for Digikala product, seller and price-history data | 28 | <https://github.com/sepehr071/digikala-mcp> |
 | SynackAPI | Python library for Synack's undocumented API endpoints | 24 | <https://github.com/bamhm182/SynackAPI> |
 | go-amizone *(archived)* | Reverse-engineered API and SDK for the Amizone student portal | 23 | <https://github.com/go-amizone/go-amizone> |
 | entry-api | Unofficial API wrapper for the Entry (playentry.org) coding platform | 21 | <https://github.com/dotcute/entry-api> |
@@ -430,6 +433,7 @@
 | TimeTree-MCP | Unofficial MCP server for the TimeTree calendar | 24 | <https://github.com/ehs208/TimeTree-MCP> |
 | duolingo-api | Duolingo Unofficial OpenAPI Definition | 17 | <https://github.com/igorskh/duolingo-api> |
 | python-bring-api *(archived)* | Unofficial Python package for the Bring! shopping list API | 16 | <https://github.com/eliasball/python-bring-api> |
+| proton-drive-linux-fs | Unofficial FUSE filesystem for Proton Drive on Linux with on-demand file fetch | 15 | <https://github.com/khaosdoctor/proton-drive-linux-fs> |
 | py-our-groceries | Unofficial Python wrapper for OurGroceries | 14 | <https://github.com/ljmerza/py-our-groceries> |
 | n8n-nodes-plaud-unofficial | n8n node for Plaud AI voice recorders using the unofficial API | 12 | <https://github.com/leonardsellem/n8n-nodes-plaud-unofficial> |
 | node-karma | An API wrapper for the anti-waste app Karma | 1 | <https://github.com/jzarca01/node-karma> |
@@ -656,6 +660,7 @@
 | MouseTools *(archived)* | Python wrapper for Disney's parks API | 31 | <https://github.com/scaratozzolo/MouseTools> |
 | ryanair | Unofficial TypeScript client for Ryanair airports, flights and fares | 31 | <https://github.com/2BAD/ryanair> |
 | onboardapis | Python wrapper for on-board Wi-Fi portal APIs of trains and transport operators | 29 | <https://github.com/felix-zenk/onboardapis> |
+| pykorail | Unofficial Python SDK for Korail (Korean railway) reservations | 29 | <https://github.com/devgyurak/pykorail> |
 | sncf *(archived)* | SNCF API client | 28 | <https://github.com/juliuste/sncf> |
 | ICEOnboardAPI | Reverse-engineered API for the ICE Portal on German ICE trains | 26 | <https://github.com/lightsprint09/ICEOnboardAPI> |
 | hafas-rest-api | Expose a HAFAS client via an HTTP REST API. | 25 | <https://github.com/public-transport/hafas-rest-api> |

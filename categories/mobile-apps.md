@@ -1,11 +1,11 @@
 # Mobile Apps
 
-[← All categories](../README.md) · 85 projects
+[← All categories](../README.md) · 86 projects
 
 - [Android Apps](#android-apps) (5)
 - [App Store Clients & Downloaders](#app-store-clients--downloaders) (23)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (11)
+- [Fitness & Education Apps](#fitness--education-apps) (12)
 - [Other](#other) (1)
 - [Patched & Alternative Clients](#patched--alternative-clients) (35)
 - [Transport & Delivery Apps](#transport--delivery-apps) (5)
@@ -68,6 +68,7 @@
 | yazio-mcp | Unofficial MCP server for Yazio nutrition data | 64 | <https://github.com/fliptheweb/yazio-mcp> |
 | zwift-client | Python client for the Zwift mobile API | 62 | <https://github.com/jsmits/zwift-client> |
 | cronometer-api-mcp | MCP server for Cronometer nutrition tracking via the mobile REST API | 61 | <https://github.com/rwestergren/cronometer-api-mcp> |
+| crono-vision | Photo food logging via Cronometer's undocumented mobile API (CLI and serverless) | 34 | <https://github.com/felixmelanson/crono-vision> |
 | mywhoosh-api | Unofficial API documentation for the MyWhoosh cycling app | 16 | <https://github.com/mywhoosh-community/mywhoosh-api> |
 | duobot | Duolingo automation built on the reverse-engineered Android app API | 4 | <https://github.com/mc51/duobot> |
 | pypeloton | Sync and async Python client for the Peloton API | 2 | <https://github.com/raman325/pypeloton> |

@@ -1,11 +1,11 @@
 # Devices, IoT & Hardware
 
-[← All categories](../README.md) · 1,869 projects
+[← All categories](../README.md) · 1,877 projects
 
 - [3D Printers & Makers](#3d-printers--makers) (18)
 - [Appliances & Kitchen](#appliances--kitchen) (67)
 - [Audio](#audio) (60)
-- [Cameras & Drones](#cameras--drones) (86)
+- [Cameras & Drones](#cameras--drones) (87)
 - [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (48)
 - [Fitness Equipment](#fitness-equipment) (61)
 - [GPUs & Drivers](#gpus--drivers) (6)
@@ -14,15 +14,15 @@
 - [Locks, Garage & Security](#locks-garage--security) (34)
 - [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (84)
 - [Music Gear & Synth Editors](#music-gear--synth-editors) (97)
-- [Other](#other) (68)
+- [Other](#other) (69)
 - [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (257)
 - [Printers, Labels & E-ink](#printers-labels--e-ink) (44)
-- [Smart Home & IoT](#smart-home--iot) (213)
+- [Smart Home & IoT](#smart-home--iot) (217)
 - [Solar, Batteries & EV Chargers](#solar-batteries--ev-chargers) (159)
 - [TVs, Set-top Boxes & AV Receivers](#tvs-set-top-boxes--av-receivers) (95)
 - [Toys & Education Robots](#toys--education-robots) (105)
 - [VR & Tracking](#vr--tracking) (41)
-- [Wearables & Health](#wearables--health) (164)
+- [Wearables & Health](#wearables--health) (166)
 - [Zigbee/BLE/IR Device Databases](#zigbeebleir-device-databases) (34)
 
 ## 3D Printers & Makers
@@ -251,6 +251,7 @@
 | libfuji | Library to connect to and control Fujifilm cameras over USB, Wi-Fi and BLE | 54 | <https://github.com/petabyt/libfuji> |
 | lumixproto | Reverse-engineered Lumix GX80 Wi-Fi protocol | 52 | <https://github.com/cleverfox/lumixproto> |
 | JD385_Documentation | Reverse engineering of the JD385 quadcopter | 51 | <https://github.com/hackocopter/JD385_Documentation> |
+| Film Studio (a5100) | Unofficial Sony PMCA in-camera app adding film-simulation presets to the a5100 | 50 | <https://github.com/ukiki0718-netizen/sony-a5100-film-studio> |
 | libpict | Picture Transfer Protocol client library with vendor extensions | 50 | <https://github.com/petabyt/libpict> |
 | lib-osmo-ble | Reverse-engineered BLE protocol for the DJI Osmo Pocket 3 in Node.js | 44 | <https://github.com/yigitkonur/lib-osmo-ble> |
 | insta360_ble_esp32 | Control Insta360 cameras over BLE from an ESP32 | 43 | <https://github.com/pchwalek/insta360_ble_esp32> |
@@ -838,6 +839,7 @@
 | lkv-wiki | Reverse engineering wiki for the LKV373A HDMI extender and similar devices | 45 | <https://github.com/v3l0c1r4pt0r/lkv-wiki> |
 | fake_kilter_board | An ESP32 program + desktop application for serving as a mock Kilter Board. | 40 | <https://github.com/1-max-1/fake_kilter_board> |
 | the-beetel | Reverse-engineered Beetel M59 phone turned into a music player | 30 | <https://github.com/natyavidhan/the-beetel> |
+| jieli-ble-badge-research | Reverse engineering of a JieLi AC707N BLE e-badge: BLE clients, UFW tooling and flash helpers | 25 | <https://github.com/ElectronicCats/jieli-ble-badge-research> |
 | BMSCtl | Control panel for ANT BMS with a reverse-engineered UART protocol | 23 | <https://github.com/Sgw32/BMSCtl> |
 | e87_badge | Reverse-engineered Bluetooth communication with the E87 LED badge | 19 | <https://github.com/jumpingmushroom/e87_badge> |
 | Ocrustar-USB-IR | Reverse-engineered protocol and Python driver for Ocrustar/ElkSmart USB IR blaster | 18 | <https://github.com/deadboy18/Ocrustar-USB-IR> |
@@ -1339,6 +1341,7 @@
 | glance-clock | Reverse-engineered GlanceClock BLE protocol | 38 | <https://github.com/Hypfer/glance-clock> |
 | ha-ttlock-ble | Home Assistant integration for TTLock smart locks over Bluetooth | 32 | <https://github.com/roquerodrigo/ha-ttlock-ble> |
 | wink-mqtt | Local MQTT control of a Wink Hub | 32 | <https://github.com/danielolson13/wink-mqtt> |
+| ha-ps5-remoteplay | Home Assistant integration to wake, standby and track PS5 consoles over local Remote Play | 31 | <https://github.com/iharosi/ha-ps5-remoteplay> |
 | surehub-api | Unofficial RESTful API for Sure Petcare SureHub products | 31 | <https://github.com/fabieu/surehub-api> |
 | omnilogic-api | Library for the Hayward OmniLogic pool control system | 30 | <https://github.com/djtimca/omnilogic-api> |
 | oralb-ble | BLE library for Oral-B toothbrushes | 30 | <https://github.com/Bluetooth-Devices/oralb-ble> |
@@ -1356,6 +1359,7 @@
 | inkbird-ble | Parser for INKBIRD BLE sensor advertisements | 22 | <https://github.com/Bluetooth-Devices/inkbird-ble> |
 | googledevices *(archived)* | Get information from, and control various Google devices. | 21 | <https://github.com/ludeeus/googledevices> |
 | screenlogicpy | Python interface for Pentair ScreenLogic pool controllers over IP | 21 | <https://github.com/dieselrabbit/screenlogicpy> |
+| panasonic-doorphone-connect | Unofficial Home Assistant bridge acting as a virtual Wi-Fi handset for Panasonic Doorphone Connect | 20 | <https://github.com/jethac/panasonic-doorphone-connect> |
 | schellenberg-qivicon-usb | Schellenberg USB protocol | 19 | <https://github.com/Hypfer/schellenberg-qivicon-usb> |
 | aioflo | Async Python library for Flo by Moen smart water shutoffs | 18 | <https://github.com/bachya/aioflo> |
 | narwal_r | 云鲸扫地机器人 Home Assistant 本地集成 \| Narwal robot vacuum local WebSocket integration for Home Assistant (HACS) | 18 | <https://github.com/rudyll/narwal_r> |
@@ -1375,6 +1379,8 @@
 | Ride-the-api | Replaces IoT vendor cloud servers with a local server | 4 | <https://github.com/thcuba/Ride-the-api> |
 | aioguardian | Async library for Elexa Guardian water valve controllers | 2 | <https://github.com/bachya/aioguardian> |
 | BLEIOT | Reverse engineering of BLE IoT tracking networks | 2 | <https://github.com/AndriiKempa/BLEIOT> |
+| chsmartbulb | Replacement for the dead CHSmartBulb app on a reverse-engineered BLE protocol, with CLI and Python lib | 2 | <https://github.com/mertemr/chsmartbulb> |
+| mcz-musa-esphome-home-assistant | ESPHome CC1101 remote for the MCZ MUSA 2.0 pellet stove, reverse-engineered RF protocol | 0 | <https://github.com/mylifeos/mcz-musa-esphome-home-assistant> |
 
 ## Solar, Batteries & EV Chargers
 
@@ -1874,6 +1880,7 @@
 | example-android-mi-band-2 | Android example of the Mi Band 2 BLE protocol and auth | 108 | <https://github.com/aashari/example-android-mi-band-2> |
 | vrc-osc-miband-hrm | Mi Band/Amazfit heart rate over BLE to VRChat via OSC | 108 | <https://github.com/vard88508/vrc-osc-miband-hrm> |
 | mindwave-python | Python parser for NeuroSky MindWave EEG headsets | 104 | <https://github.com/BarkleyUS/mindwave-python> |
+| OpenRayneo | Unofficial macOS Bluetooth bridge and local HTTP API for RayNeo iO glasses | 102 | <https://github.com/Tobi1chi/OpenRayneo> |
 | dt78 | DT78 smartwatch BLE protocol reverse engineering | 100 | <https://github.com/fbiego/dt78> |
 | seiko | Seiko UC-2000 computer watch reverse engineering | 98 | <https://github.com/azya52/seiko> |
 | miband-5-heart-rate-monitor | Web Bluetooth heart rate monitor for Mi Band 4 and 5 | 96 | <https://github.com/Jaapp-/miband-5-heart-rate-monitor> |
@@ -1958,6 +1965,7 @@
 | zepp-health-cli | Unofficial CLI for the Zepp/Huami mobile health API | 7 | <https://github.com/m4ary/zepp-health-cli> |
 | freesleep-notes | Notes for open-source local control of the Eight Sleep Pod 3 | 6 | <https://github.com/appositeit/freesleep-notes> |
 | eight-sleep-local | Local Eight Sleep integration built on Free Sleep | 4 | <https://github.com/adamksmith/eight-sleep-local> |
+| ht36 | Reverse-engineered local-first BLE client for the HT36 smartwatch, zero cloud | 4 | <https://github.com/tcsenpai/ht36> |
 | integration_yunmai_scale | Home Assistant custom component for Yunmai body scales | 4 | <https://github.com/huyuwei1996/integration_yunmai_scale> |
 | EightSleepPod2Server | Spark protocol server to control Eight Sleep Pod 2 locally | 3 | <https://github.com/a-chaudhari/EightSleepPod2Server> |
 | j2208-band-tools | Raw BLE client and protocol docs for J2208-family fitness bands | 3 | <https://github.com/brendangooden/j2208-band-tools> |
