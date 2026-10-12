@@ -1,10 +1,10 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md) · 2,628 projects
+[← All categories](../README.md) · 2,648 projects
 
 - [Asset & File-Format Tools](#asset--file-format-tools) (165)
 - [Console Emulators](#console-emulators) (31)
-- [Engine Reimplementations](#engine-reimplementations) (639)
+- [Engine Reimplementations](#engine-reimplementations) (642)
 - [Game Network Protocols & APIs](#game-network-protocols--apis) (88)
 - [Launchers & Store Clients](#launchers--store-clients) (45)
 - [Matching Decompilations — Arcade](#matching-decompilations--arcade) (3)
@@ -16,7 +16,7 @@
 - [Matching Decompilations — Other / Multi-platform](#matching-decompilations--other--multi-platform) (181)
 - [Matching Decompilations — PC / DOS / Windows](#matching-decompilations--pc--dos--windows) (115)
 - [Matching Decompilations — PSP / Vita / PS3](#matching-decompilations--psp--vita--ps3) (2)
-- [Matching Decompilations — PlayStation 1](#matching-decompilations--playstation-1) (61)
+- [Matching Decompilations — PlayStation 1](#matching-decompilations--playstation-1) (62)
 - [Matching Decompilations — PlayStation 2](#matching-decompilations--playstation-2) (58)
 - [Matching Decompilations — SNES / NES](#matching-decompilations--snes--nes) (37)
 - [Matching Decompilations — Sega](#matching-decompilations--sega) (4)
@@ -26,7 +26,7 @@
 - [Open-source Game Clones](#open-source-game-clones) (58)
 - [Other](#other) (95)
 - [Private Servers](#private-servers) (180)
-- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (403)
+- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (419)
 
 ## Asset & File-Format Tools
 
@@ -756,6 +756,7 @@
 | re3-Resurrected | Clean-room reverse engineering of GTA III / Vice City for PC | 9 | <https://github.com/cinchitsolutions/re3-Resurrected> |
 | rust-theft-auto | Grand Theft Auto engine reimplementation in Rust | 9 | <https://github.com/gaudecker/rust-theft-auto> |
 | Chuckie-Egg | Reverse-engineered Chuckie Egg with ASCII and 3D renderers | 8 | <https://github.com/pbrook/Chuckie-Egg> |
+| LibertyFlux | GTA IV engine rewritten in Rust function by function by AI agents for Windows x64 and ARM | 8 | <https://github.com/monstercameron/LibertyFlux> |
 | Lupin Sansei - Pandora no Isan | An annotated disassembly of the famicom game "Lupin Sansei - Pandora no Isan" (1987). | 8 | <https://github.com/PavelSha/Lupin-Sansei---Pandora-no-Isan> |
 | olduvai | From-scratch C++/SDL2 reimplementation of the Prehistorik (1991) engine — bring your own game files. | 8 | <https://github.com/ksokolowski/olduvai> |
 | Prehistorik_js *(archived)* | Prehistorik (Demo) engine reimplementation (Emscripten, SDL2) | 8 | <https://github.com/cyxx/prehistorik_js> |
@@ -774,10 +775,12 @@
 | jy2-copy | Engine reimplementation of Heroes of Jin Yong 2; uses original game data (JavaScript) | 6 | <https://github.com/MngYou/jy2-copy> |
 | Minecraft-4K-Decompilation | Decompilation of Minecraft 4K, updated to be a regular application | 6 | <https://github.com/CelestialAmber/Minecraft-4K-Decompilation> |
 | OpenJill *(archived)* | Official OpenJill project source repository to understand how Jill of the Jungle game engine work and rewrite it in J... | 6 | <https://github.com/emeric-martineau/openjill> |
+| re3bevy | Unofficial GTA III reimplementation in Rust with the Bevy engine and ECS | 6 | <https://github.com/imbevystar/re3bevy> |
 | rechelon | Echelon: free engine reimplementation | 6 | <https://github.com/pkulev/rechelon> |
 | remc1hw | Recode Binary code of game/datadisk Magic Carpet1 Hidden Words to C/C++ language(remake MC1 for any platform) | 6 | <https://github.com/turican0/remc1hw> |
 | retruxx | Reverse engineered Hard Truck Apocalypse. | 6 | <https://github.com/mindflower/retruxx> |
 | scale-miniatures | Micro Machines (PC, 1994) rewritten in TypeScript from the disassembly, running natively in the browser. No emulator.... | 6 | <https://github.com/hivvu/scale-miniatures> |
+| sims-3-bevy | Work-in-progress reimplementation of The Sims 3 in the Bevy game engine | 6 | <https://github.com/Eamo5/sims-3-bevy> |
 | sm_rewrite | Super Metroid rewrite project | 6 | <https://github.com/enderandrew/sm_rewrite> |
 | TetrisGBRecomp | Tetris recompiled for the Game Boy using a fork of gb-recompiled · Part of the R.A.I.D. community | 6 | <https://github.com/mstan/TetrisGBRecomp> |
 | The Bard's Tale III | Bard's Tale III Easyflash Version | 6 | <https://github.com/Drunella/bt3-easyflash> |
@@ -1747,6 +1750,7 @@
 | Jumping Flash! | Matching decompilation of Jumping Flash! (PlayStation, 1995) | 21 | <https://github.com/NotExactlySiev/aloha> |
 | Twisted Metal | Matching decompilation of Twisted Metal (PlayStation, 1995) | 20 | <https://github.com/abelbriggs1/tm1_decomp> |
 | Lunar 2: Eternal Blue Complete | Decompilation of Lunar 2: Eternal Blue Complete | 15 | <https://github.com/Zackmon/lunar2-psx-decomp> |
+| dw2003recomp | Decompilation of Digimon World 2003 (PS1, EU) with reference tests; PC port in progress | 14 | <https://github.com/gascarcella/dw2003recomp> |
 | Digimon World 2 | Matching decompilation of Digimon World 2 (PlayStation, 2000) | 13 | <https://github.com/Wyrelade/Digimon-World-2-Decomp> |
 | Evo's Space Adventures | Matching decompilation of Evo's Space Adventures (PlayStation, 1999) | 13 | <https://github.com/mkst/esa> |
 | LSD: Dream Emulator | Matching decompilation of LSD: Dream Emulator (PlayStation, 1998) | 13 | <https://github.com/brian-oblivion/lsddecomp> |
@@ -2547,6 +2551,7 @@
 | SCDA-XBERecomp | Unofficial PC port of Splinter Cell: Double Agent (original Xbox) via static recompilation | 60 | <https://github.com/TGP482/SCDA-XBERecomp> |
 | RoadRash64Recompiled | Unofficial PC recompilation of Road Rash 64 | 59 | <https://github.com/linkssy2/RoadRash64Recompiled> |
 | SMB-Vanilla | C decompilation and port of NES Super Mario Bros and The Lost Levels | 59 | <https://github.com/nukep/SMB-Vanilla> |
+| ps2-web-recomp | PS2 games statically recompiled to WebAssembly with a native runtime to run in the browser | 57 | <https://github.com/snuri00/ps2-web-recomp> |
 | fifa-street-pc-port | Experimental Windows PC port of FIFA Street (2012, Xbox 360) built with ReXGlue | 56 | <https://github.com/samuelit0davila/fifa-street-pc-port> |
 | KameoRePowered | Static recompilation of Kameo: Elements of Power (Xbox 360) for Windows and Linux | 56 | <https://github.com/birabittoh/KameoRePowered> |
 | mkwii-ps5 | Mario Kart Wii PAL on PS5 via native static recompilation | 56 | <https://github.com/Phi1ow/mkwii-ps5> |
@@ -2644,6 +2649,7 @@
 | rush2recompiled | Recompilation of the N64 game Rush 2 | 26 | <https://github.com/bryantmh/rush2recompiled> |
 | ac3-remix | PC port and remaster of Ace Combat 3: Electrosphere | 25 | <https://github.com/i5han/ac3-remix> |
 | annepad | Pokémon Stadium for iPhone and iPad via static recompilation, with native Metal rendering, touch controls, and ROM-fr... | 25 | <https://github.com/chrissotraidis/annepad> |
+| Black-2006-Recomp | Native Windows static recompilation of BLACK (2006) for the original Xbox | 25 | <https://github.com/portingpete/Black-2006-Recomp> |
 | conker64-recompiled | Native PC port of Conker's Bad Fur Day (N64) via Static MIPS Recompilation. SDL2 engine with 3D UV texturing, N64 aud... | 25 | <https://github.com/Conker64Recomp/conker64-recompiled> |
 | fuc-recomp | Hybrid native Fate/unlimited codes project: PSP static-recompilation/gameplay base with PS2 assets and controls in de... | 25 | <https://github.com/elprogramadorloco-arch/fuc-recomp> |
 | halo-ce-anbernic-rg35xx | Halo: Combat Evolved running natively on Anbernic RG35XX H handhelds | 25 | <https://github.com/kirklandsig/halo-ce-anbernic-rg35xx> |
@@ -2698,6 +2704,7 @@
 | ArmyOfTwo-Recomp | Experimental native PC port of Army of Two (Xbox 360) via ReXGlue static recompilation | 17 | <https://github.com/Genesis5500/ArmyOfTwo-Recomp> |
 | Body Harvest Recompiled | Native PC port of Body Harvest (N64) built with N64Recomp and RT64 | 17 | <https://github.com/danielgomesvieira2000/body-harvest-recomp> |
 | CafeRecomp | Wii U static recompilation framework, starting with Breath of the Wild | 17 | <https://github.com/hardkiller2565123123/CafeRecomp> |
+| Little Planet | Sonic CD (Mega-CD) byte-identical disassembly plus static recompilation into a native PC port | 17 | <https://github.com/carlosrmz009/littleplanet> |
 | moonpearl | Android port of snesrev/zelda3 (ALttP reimplementation): widescreen, rewind, shaders, MSU-1, save states, controller... | 17 | <https://github.com/DoutorRaposo/moonpearl> |
 | snowboardkids-recomp | Native PC port of Snowboard Kids (N64) for Windows, Linux and macOS | 17 | <https://github.com/cdlewis/snowboardkids-recomp> |
 | xboxdashboard | The first-ever native PC port of the original Xbox Dashboard (build 3944) — static recompilation of xboxdash.xbe (x86... | 17 | <https://github.com/sp00nznet/xboxdashboard> |
@@ -2715,17 +2722,22 @@
 | OpenEmperor | 🤴🏼 Clean-room reimplementation of Emperor: Rise of the Middle Kingdom in C++20 and SDL3. Built for modern systems, st... | 14 | <https://github.com/oliverjessner/OpenEmperor> |
 | socom-unzipped | SOCOM II: U.S. Navy SEALs, statically recompiled for PC with self-hosted online play | 14 | <https://github.com/Scotho/socom-unzipped> |
 | Test Drive | Open-source recomp of Test Drive (1987). | 14 | <https://github.com/kylofon/test-drive-sdl3> |
+| ffta-recomp | Native recompilation of Final Fantasy Tactics Advance (GBA) built on the gbarecomp framework | 13 | <https://github.com/james2doyle/ffta-recomp> |
 | re-stunts | Recomp of the game Stunts. Original and enhanced versions. | 13 | <https://github.com/CommonLoon102/restunts-bb11> |
 | tomodachi-ltd-recomp | Native PC build of Tomodachi Life: Living the Dream via static recompilation. Bring your own copy — no game files inc... | 13 | <https://github.com/RussoPhone/tomodachi-ltd-recomp> |
+| TooTawersRecomp | Native Windows port of The Lord of the Rings: The Two Towers (Xbox, 2002) via static recompilation | 13 | <https://github.com/Gumpolas/TooTawersRecomp> |
 | WWFWrestleMania2000Recomp | WWF WrestleMania 2000 N64 static recompilation | 13 | <https://github.com/jessetbh/WWFWrestleMania2000Recomp> |
 | X-Men Mutant Academy 2 | Recomp of the PS1 game X-Men Mutant Academy 2. | 13 | <https://github.com/GTTeancum/xmen-mutant-academy-2-pc> |
+| Glover-R | Static recompilation of the N64 game Glover to native PC | 12 | <https://github.com/ThatGuyMcd/Glover-R> |
 | MCLA-4iOS | Midnight Club: Los Angeles on iPhone and iPad — ARM64 static recompilation, native Metal, and an experimental 60 FPS... | 12 | <https://github.com/KoreanSeats1/MCLA-4iOS> |
 | CV64Recomp | A recompilation of Castlevania for the N64. | 11 | <https://github.com/RevoSucks/CV64Recomp> |
+| Geometry Wars: Retro Evolved 2 Recompiled | Native PC port of Geometry Wars: Retro Evolved 2 (Xbox 360) via static recompilation | 11 | <https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled> |
 | nfs-mw | 🦀 Rust rewrite of Need for Speed: Most Wanted (2005, PC v1.3 / Black Edition) with bevy engine | 11 | <https://github.com/47PADO47/nfs-mw> |
 | nfsmw-recomp | Recompilation of Need for Speed: Most Wanted (the 2005 PC Black Edition) built on recomp-kit: macOS, iPad, Linux, Win... | 11 | <https://github.com/veritr1x/nfsmw-recomp> |
 | SVR2011-Recomp | Unofficial Windows version of WWE SmackDown vs. Raw 2011 (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 11 | <https://github.com/shaneomac1337/SVR2011-Recomp> |
 | WetRecomp | Wet [Xbox360] game static recompilation project based on RexGlue-SDK | 11 | <https://github.com/nikolaygorb/WetRecomp> |
 | Banjo-Tooie: Recompiled | Banjo-Tooie static recompilation for Windows/Linux | 10 | <https://github.com/Vidanox/BanjoTooieRecompiled> |
+| defjam_recomp | Static recompilation of Def Jam: Fight for NY (Xbox) for Windows | 10 | <https://github.com/comoria08/defjam_recomp> |
 | doa3-recomp | Dead or Alive 3 PC Port | 10 | <https://github.com/parkerallan/doa3-recomp> |
 | project-1944 | Unofficial native Windows PC port of Call of Duty 3 (Xbox 360) via static recompilation. Bring your own game. EN · RU... | 10 | <https://github.com/zenit2893-cmyk/project-1944> |
 | WWE-AllStars-Recomp | Unofficial Windows version of WWE All Stars (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 10 | <https://github.com/shaneomac1337/WWE-AllStars-Recomp> |
@@ -2735,22 +2747,30 @@
 | muscle-march-recomp | Unofficial native PC port of Muscle March (WiiWare) via static recompilation: macOS, Linux, Steam Deck, Windows. Requ... | 9 | <https://github.com/tmcleroy/muscle-march-recomp> |
 | RogueSquadron64Recomp | A fully playable (AI assisted) static recompilation of Star Wars: Rogue Squadron on N64 for the PC, Linux & Android | 9 | <https://github.com/MikeSemicolonD/RogueSquadron64Recomp> |
 | Titanic: Adventure Out of Time | Recomp of Titanic Adventure Out of Time to Godot. | 9 | <https://github.com/itskenny0/titanic-godot> |
+| Warthog | Halo: Combat Evolved decompilation rebuilt for the original Xbox, playing online with PC builds | 9 | <https://github.com/ChupathingyCE/warthog> |
+| burnout-crash-recomp | Native PC port of Burnout CRASH! (Xbox 360 XBLA) via ReXGlue static recompilation | 8 | <https://github.com/mpkonmbk/burnout-crash-recomp> |
 | hard-corps-uprising-recompiled | Native PC port of Hard Corps: Uprising (Xbox Live Arcade) via static recompilation, with the TRG launcher | 8 | <https://github.com/saulob/hard-corps-uprising-recompiled> |
+| mm3-recomp | Static recompilation of Midtown Madness 3 (Xbox) to native Windows x64 with a Direct3D 11 renderer | 8 | <https://github.com/MattSG/mm3-recomp> |
 | StrikersRecomp | Super Mario Strikers (G4QE01) recompilation project — the worked example for RecompCore and DolRuntime. No game data... | 8 | <https://github.com/aharonahdoot/StrikersRecomp> |
 | Test Drive III | Recomp of Test Drive III: The Passion. | 8 | <https://github.com/kylofon/test-drive-3-sdl3> |
 | TheDarknessRecomp | The Darkness [Xbox360] game static recompilation project based on RexGlue-SDK | 8 | <https://github.com/nikolaygorb/TheDarknessRecomp> |
 | VPW64Recomp | Virtual Pro Wrestling 64 static recompilation | 8 | <https://github.com/jessetbh/VPW64Recomp> |
+| WWE-SVR2008-RECOMP | Native PC port of WWE SmackDown vs. Raw 2008 (Xbox 360) via static recompilation | 8 | <https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP> |
+| DAORecomp | Static recompilation of Dragon Age: Origins (Xbox 360) to native PC | 7 | <https://github.com/96dot/DAORecomp> |
 | DoomSNESRecomp | This is a PC Recomp of the SNES Version of Doom using SNESrecomp. | 7 | <https://github.com/Cacodemontube/DoomSNESRecomp> |
+| RROP | Static recompilation of Rings of Power for Linux and Windows with widescreen and smooth scrolling | 7 | <https://github.com/kruzeman/RROP> |
 | SacredStonesRecomp | Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA). | 7 | <https://github.com/Lordingard/SacredStonesRecomp> |
 | SHO-GTA-VCS-PS2Recomp *(archived)* | Playstation 2 Static Recompiler Silent Hill Origins & GTA Vice City Stories | 7 | <https://github.com/BlackLineInteractive/SHO-GTA-VCS-PS2Recomp> |
 | TDURecomp | Recompilation of TDU | 7 | <https://github.com/testdriveupgrade/TDURecomp> |
 | WiiCompiled-Switch | Experimental native Nintendo Switch port of WiiCompiled, with GX capture/replay and GPU diagnostics. Recognizable gam... | 7 | <https://github.com/yashin-sh/WiiCompiled-Switch> |
+| WWE-SVR2009-RECOMP | Native PC port of WWE SmackDown vs. Raw 2009 (Xbox 360) via static recompilation | 7 | <https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP> |
 | aerobiz-disasm | Complete static recompilation of Aerobiz Supersonic for the Sega Genesis | 6 | <https://github.com/matiaszanolli/aerobiz-disasm> |
 | DeepSea | Deep Sea: The Wind Waker at 60 fps. A free, open-source native Windows port you build from your own disc. | 6 | <https://github.com/AH64-dll/DeepSea> |
 | DragonBallZLegacyOfGokuRecomp | Static recompilation of Dragon Ball Z: The Legacy of Goku with Adaptive Widescreen · Part of the R.A.I.D. community | 6 | <https://github.com/mstan/DragonBallZLegacyOfGokuRecomp> |
 | Snapshot | Static recompilation of Pokémon Snap (N64, 1999) for PC platforms (Windows, Linux, macOS) | 6 | <https://github.com/dreamsailing59-ops/Snapshot> |
 | VeronicaRecomp | A static recompilation of Resident Evil CODE:Veronica developed with RexGlue. | 6 | <https://github.com/psxrestore/VeronicaRecomp> |
 | WiiCompiled-Xbox-UWP | Xbox Series / UWP port of WiiCompiled - a Mario Kart Wii static recompilation with a Dawn/D3D12 renderer | 6 | <https://github.com/itzjuan612/WiiCompiled-Xbox-UWP> |
+| WWE-SVR2010-RECOMP | Native PC port of WWE SmackDown vs. Raw 2010 (Xbox 360) via static recompilation | 6 | <https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP> |
 | ANIMANIACS-GC-RECOMP | Animaniacs: The Great Edgar Hunt — GameCube Static Recompilation | 5 | <https://github.com/ant0-blase/ANIMANIACS-GC-RECOMP> |
 | caesar2-reconstruction | Clean-room reconstruction of Caesar II. | 5 | <https://github.com/second-impressions/caesar2-reconstruction> |
 | FFCCEOT-Recomp | Native PC port of Final Fantasy Crystal Chronicles: Echoes of Time (DS) by static recompilation. Bring your own ROM:... | 5 | <https://github.com/JonathanDC64/FFCCEOT-Recomp> |

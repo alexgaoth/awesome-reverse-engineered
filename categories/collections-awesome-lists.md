@@ -1,10 +1,10 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md) · 76 projects
+[← All categories](../README.md) · 78 projects
 
 - [AI](#ai) (1)
 - [APIs & Apps](#apis--apps) (21)
-- [Games](#games) (24)
+- [Games](#games) (26)
 - [General RE](#general-re) (16)
 - [Hardware & IoT](#hardware--iot) (14)
 
@@ -64,7 +64,9 @@
 | awesome-wow-rust | Excellent resources for world of warcraft private servers in rust | 50 | <https://github.com/arlyon/awesome-wow-rust> |
 | awesome-recompilations | Recompiled N64 and Xbox 360 ROMs using N64Recomp and XenonRecomp. | 47 | <https://github.com/BlueInterlude/awesome-recompilations> |
 | awesome-uo | Curated list of Ultima Online projects including server emulators | 19 | <https://github.com/Alurith/awesome-uo> |
+| AVP Ports Index | Link-only index of community game ports (decomps, recomps) running natively on Apple Vision Pro | 18 | <https://github.com/edgytoast/avp-ports-index> |
 | awesome-x360-recomps | A curated list of awesome Xbox 360 game recompilation projects | 15 | <https://github.com/abduznik/awesome-x360-recomps> |
+| Greates Games Decompilations List | List of 1200+ game decompilations, disassemblies and static recompilations grouped by platform | 11 | <https://github.com/Carter54git/Greates-Games-Decompilations-List> |
 | awesome-game-file-formats | Documentation and libraries for many game file formats | 4 | <https://github.com/MeltyPlayer/awesome-game-file-formats> |
 | decomp.dev | Progress dashboard for matching game decompilation projects |  | <https://decomp.dev> |
 | List of game engine recreations (Wikipedia) | Wikipedia table of fan-made game engine recreations |  | <https://en.wikipedia.org/wiki/List_of_game_engine_recreations> |

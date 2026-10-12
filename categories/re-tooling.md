@@ -1,10 +1,10 @@
 # RE Tooling
 
-[← All categories](../README.md) · 691 projects
+[← All categories](../README.md) · 693 projects
 
-- [AI-assisted RE](#ai-assisted-re) (57)
+- [AI-assisted RE](#ai-assisted-re) (58)
 - [Binary & Format Analysis](#binary--format-analysis) (86)
-- [Decompilation Project Tooling](#decompilation-project-tooling) (62)
+- [Decompilation Project Tooling](#decompilation-project-tooling) (63)
 - [Disassemblers & Decompilers](#disassemblers--decompilers) (243)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (62)
 - [Mobile RE](#mobile-re) (109)
@@ -70,6 +70,7 @@
 | grokathon (Nova) | Grok Build harness that reverse engineers old binaries; Grokathon winner | 37 | <https://github.com/theodorechapman/grokathon> |
 | deobfuscate-mcp-server | MCP server helping LLMs reverse-engineer minified JavaScript | 18 | <https://github.com/MadeByTokens/deobfuscate-mcp-server> |
 | 2api-skill | Agent skill to reverse-engineer any webchat into an OpenAI/Anthropic API | 14 | <https://github.com/69gg/2api-skill> |
+| asmsense | Small model that names and describes functions in stripped x86-64 binaries, with open dataset | 11 | <https://github.com/krxi/asmsense> |
 | decomp-goal-harness | Harness for coding agents working on matching decompilation goals | 8 | <https://github.com/Muhtasham/decomp-goal-harness> |
 | DAITK | AI-assisted GameCube decompilation pipeline with objdiff verification | 0 | <https://github.com/Grien25/DAITK> |
 
@@ -223,6 +224,7 @@
 | SaturnRecomp | Experimental clean-room Sega Saturn runtime and static recompilation toolkit | 18 | <https://github.com/sonsegajp/SaturnRecomp> |
 | nWiiURecomp | Static recompilation and runtime toolkit for Nintendo Wii U (based on NWiiRecomp) to make native PC ports (and not only) | 14 | <https://github.com/BlackLineInteractive/nWiiURecomp> |
 | model3recomp | Sega Model 3 hardware runtime and PowerPC 603e static recompiler. Link a recompiled Model 3 game against native C har... | 13 | <https://github.com/sp00nznet/model3recomp> |
+| gba-matching-decomp-skill | Claude Code skill for matching decompilation of GBA ROMs with agbcc, from splitting to decomp.dev | 12 | <https://github.com/FacundoMainere/gba-matching-decomp-skill> |
 | PS4Recomp | Experimental macOS Apple Silicon first recompiler of PS4 programs | 11 | <https://github.com/wie-project/PS4Recomp> |
 | GXRuntime | Game-agnostic GameCube static-recompilation runtime: CPU semantics, devices, GX renderer (work in progress) | 8 | <https://github.com/aharonahdoot/GXRuntime> |
 | model2recomp | A Sega Model 2 hardware runtime for statically recompiled games: geometry engine, rasterizer, tilemaps and TGP coproc... | 8 | <https://github.com/sp00nznet/model2recomp> |

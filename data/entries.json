@@ -30477,6 +30477,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "AVP Ports Index",
+  "url": "https://github.com/edgytoast/avp-ports-index",
+  "desc": "Link-only index of community game ports (decomps, recomps) running natively on Apple Vision Pro",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "Games",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "apple-vision-pro",
+   "curated-list",
+   "decompilation",
+   "game-ports",
+   "spatial-computing",
+   "vision-pro"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "awesome-decomp-games",
   "url": "https://github.com/SubmitGame/awesome-decomp-games",
   "desc": "Rated list of decompiled, recompiled and reverse-engineered games",
@@ -30803,6 +30824,20 @@
    "cheat-engine"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Greates Games Decompilations List",
+  "url": "https://github.com/Carter54git/Greates-Games-Decompilations-List",
+  "desc": "List of 1200+ game decompilations, disassemblies and static recompilations grouped by platform",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "Games",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "List of game engine recreations (Wikipedia)",
@@ -31750,6 +31785,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "LightCraft Android",
+  "url": "https://github.com/artcraft-android/lightcraft-android",
+  "desc": "Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "lotion",
   "url": "https://github.com/puneetsl/lotion",
   "desc": "Unofficial Notion.so desktop app for Linux",
@@ -31769,6 +31818,20 @@
    "linux-notion"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "MailCraft",
+  "url": "https://github.com/MonkeySaint/mailcraft",
+  "desc": "Clean-room reimplementation of Microsoft Outlook (classic) in pure Rust",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "Mariana",
@@ -31976,6 +32039,20 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "PrintCraft",
+  "url": "https://github.com/kabaragoya-loves-you/printcraft",
+  "desc": "Clean-room reimplementation of Adobe Acrobat in pure Rust",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "reportviewercore",
@@ -78773,6 +78850,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "AI-Agent-on-a-NOKIA",
+  "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+  "desc": "Reverse-engineered Nokia 110 4G firmware to run a native AI chat app that drives calls, alarms and torch",
+  "category": "Firmware & Embedded",
+  "subcategory": "Custom Firmware",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-10-09",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "AI-Thinker_RGBW_Bulb",
   "url": "https://github.com/SamZorSec/AI-Thinker_RGBW_Bulb",
   "desc": "Alternative MQTT firmware for AI-Thinker RGBW bulbs",
@@ -81635,6 +81726,20 @@
    "packager"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "lv0pen",
+  "url": "https://github.com/sagemono/lv0pen",
+  "desc": "Byte-matching decompilation of the PlayStation 3 boot chain (lv0, loaders) and isolated SPU modules",
+  "category": "Firmware & Embedded",
+  "subcategory": "Firmware Analysis Tools",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "maskromtool",
@@ -91403,6 +91508,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "LibertyFlux",
+  "url": "https://github.com/monstercameron/LibertyFlux",
+  "desc": "GTA IV engine rewritten in Rust function by function by AI agents for Windows x64 and ARM",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 8,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "ai-agents",
+   "arm64",
+   "decompilation",
+   "game-engine",
+   "game-preservation",
+   "ghidra"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "libnpengine",
   "url": "https://github.com/FGRE/libnpengine",
   "desc": "Free implementation of Nitroplus/5pb. Visual Novel game engine",
@@ -95163,6 +95289,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "re3bevy",
+  "url": "https://github.com/imbevystar/re3bevy",
+  "desc": "Unofficial GTA III reimplementation in Rust with the Bevy engine and ECS",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+   "bevy",
+   "bevy-engine",
+   "ecs",
+   "grand-theft-auto",
+   "gta-iii",
+   "gta3"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "realice",
   "url": "https://github.com/FWGS/realice",
   "desc": "Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.",
@@ -96199,6 +96346,20 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "sims-3-bevy",
+  "url": "https://github.com/Eamo5/sims-3-bevy",
+  "desc": "Work-in-progress reimplementation of The Sims 3 in the Bevy game engine",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Rust",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "SimUnity2",
@@ -111454,6 +111615,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "dw2003recomp",
+  "url": "https://github.com/gascarcella/dw2003recomp",
+  "desc": "Decompilation of Digimon World 2003 (PS1, EU) with reference tests; PC port in progress",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Matching Decompilations — PlayStation 1",
+  "platform": "PlayStation 1",
+  "stars": 14,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [
+   "decompilation",
+   "digimon",
+   "playstation",
+   "psx",
+   "reverse-engineering"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "Evo's Space Adventures",
   "url": "https://github.com/mkst/esa",
   "desc": "Matching decompilation of Evo's Space Adventures (PlayStation, 1999)",
@@ -122255,6 +122437,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Black-2006-Recomp",
+  "url": "https://github.com/portingpete/Black-2006-Recomp",
+  "desc": "Native Windows static recompilation of BLACK (2006) for the original Xbox",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "BloodBorne for Windows",
   "url": "https://github.com/Supermedo/bloodborne_pc",
   "desc": "Recomp of BloodBorne (PS4) to Windows.",
@@ -122374,6 +122570,20 @@
   "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "burnout-crash-recomp",
+  "url": "https://github.com/mpkonmbk/burnout-crash-recomp",
+  "desc": "Native PC port of Burnout CRASH! (Xbox 360 XBLA) via ReXGlue static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 8,
+  "archived": false,
+  "pushed": "2026-10-08",
+  "lang": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "caesar2-port",
@@ -122693,6 +122903,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "DAORecomp",
+  "url": "https://github.com/96dot/DAORecomp",
+  "desc": "Static recompilation of Dragon Age: Origins (Xbox 360) to native PC",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "Daytona Arcade Recomp",
   "url": "https://github.com/alphanu1/daytona-arcade-recomp",
   "desc": "Recomp of Daytona Racing to PC.",
@@ -122830,6 +123054,20 @@
    "wind-waker"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "defjam_recomp",
+  "url": "https://github.com/comoria08/defjam_recomp",
+  "desc": "Static recompilation of Def Jam: Fight for NY (Xbox) for Windows",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 10,
+  "archived": false,
+  "pushed": "2026-10-09",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "DefJamFFNY-recomp",
@@ -123390,6 +123628,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ffta-recomp",
+  "url": "https://github.com/james2doyle/ffta-recomp",
+  "desc": "Native recompilation of Final Fantasy Tactics Advance (GBA) built on the gbarecomp framework",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 13,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Python",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "FFTARecomp",
   "url": "https://github.com/Jorge262007/FFTARecomp",
   "desc": "Native Windows port of Final Fantasy Tactics Advance (GBA) with widescreen",
@@ -123677,6 +123929,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Geometry Wars: Retro Evolved 2 Recompiled",
+  "url": "https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled",
+  "desc": "Native PC port of Geometry Wars: Retro Evolved 2 (Xbox 360) via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-2.0",
+  "topics": [
+   "decomp",
+   "decompilation",
+   "game",
+   "recomp",
+   "recompilation",
+   "rexglue"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "Ghostship",
   "url": "https://github.com/HarbourMasters/Ghostship",
   "desc": "Harbour Masters Super Mario 64 source port with mods and modern graphics",
@@ -123689,6 +123962,20 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Glover-R",
+  "url": "https://github.com/ThatGuyMcd/Glover-R",
+  "desc": "Static recompilation of the N64 game Glover to native PC",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2026-10-06",
+  "lang": "Python",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "god-of-war-recomp",
@@ -124306,6 +124593,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Little Planet",
+  "url": "https://github.com/carlosrmz009/littleplanet",
+  "desc": "Sonic CD (Mega-CD) byte-identical disassembly plus static recompilation into a native PC port",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "Assembly",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "lost-odyssey-hd-remaster",
   "url": "https://github.com/faligame/lost-odyssey-hd-remaster",
   "desc": "Lost Odyssey HD Remaster: a native PC build of Lost Odyssey (Xbox 360) via static recompilation. 720p to 4K with an e...",
@@ -124725,6 +125026,20 @@
   "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "mm3-recomp",
+  "url": "https://github.com/MattSG/mm3-recomp",
+  "desc": "Static recompilation of Midtown Madness 3 (Xbox) to native Windows x64 with a Direct3D 11 renderer",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 8,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "ModernGekko",
@@ -125819,6 +126134,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ps2-web-recomp",
+  "url": "https://github.com/snuri00/ps2-web-recomp",
+  "desc": "PS2 games statically recompiled to WebAssembly with a native runtime to run in the browser",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 57,
+  "archived": false,
+  "pushed": "2026-10-12",
+  "lang": "C++",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "ps3recomp",
   "url": "https://github.com/sp00nznet/ps3recomp",
   "desc": "Static recompilation runtime libraries for PlayStation 3 titles",
@@ -126232,6 +126561,20 @@
    "reverse-engineering"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "RROP",
+  "url": "https://github.com/kruzeman/RROP",
+  "desc": "Static recompilation of Rings of Power for Linux and Windows with widescreen and smooth scrolling",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "rt64",
@@ -127519,6 +127862,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "TooTawersRecomp",
+  "url": "https://github.com/Gumpolas/TooTawersRecomp",
+  "desc": "Native Windows port of The Lord of the Rings: The Two Towers (Xbox, 2002) via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 13,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
   "name": "Top-Gear-SNES-Static-Recomp",
   "url": "https://github.com/Junior-Jones/Top-Gear-SNES-Static-Recomp",
   "desc": "Static recompilation of Top Gear (SNES) for Windows 10 and 11. ROM not included.",
@@ -127771,6 +128128,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Warthog",
+  "url": "https://github.com/ChupathingyCE/warthog",
+  "desc": "Halo: Combat Evolved decompilation rebuilt for the original Xbox, playing online with PC builds",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "C",
+  "license": "CC0-1.0",
+  "topics": [
+   "cc0",
+   "cross-play",
+   "decompilation",
+   "halo",
+   "halo-combat-evolved",
+   "homebrew"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "Wave Race 64 Recomp",
   "url": "https://github.com/danielgomesvieira2000/wave-race-64-recomp",
   "desc": "Native PC port of Wave Race 64 via N64 static recompilation",
@@ -128013,6 +128391,48 @@
    "wwe"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "WWE-SVR2008-RECOMP",
+  "url": "https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP",
+  "desc": "Native PC port of WWE SmackDown vs. Raw 2008 (Xbox 360) via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 8,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
+  "name": "WWE-SVR2009-RECOMP",
+  "url": "https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP",
+  "desc": "Native PC port of WWE SmackDown vs. Raw 2009 (Xbox 360) via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-12"
+ },
+ {
+  "name": "WWE-SVR2010-RECOMP",
+  "url": "https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP",
+  "desc": "Native PC port of WWE SmackDown vs. Raw 2010 (Xbox 360) via static recompilation",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "wwe-svr2011-pc",
@@ -146890,6 +147310,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "asmsense",
+  "url": "https://github.com/krxi/asmsense",
+  "desc": "Small model that names and describes functions in stripped x86-64 binaries, with open dataset",
+  "category": "RE Tooling",
+  "subcategory": "AI-assisted RE",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "assembly",
+   "binary-analysis",
+   "dataset",
+   "decompilation",
+   "llm",
+   "reverse-engineering"
+  ],
+  "added": "2026-10-12"
+ },
+ {
   "name": "binary-ninja-headless-mcp",
   "url": "https://github.com/mrphrazer/binary-ninja-headless-mcp",
   "desc": "Headless Binary Ninja MCP server for AI agents",
@@ -149738,6 +150179,20 @@
    "wii"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "gba-matching-decomp-skill",
+  "url": "https://github.com/FacundoMainere/gba-matching-decomp-skill",
+  "desc": "Claude Code skill for matching decompilation of GBA ROMs with agbcc, from splitting to decomp.dev",
+  "category": "RE Tooling",
+  "subcategory": "Decompilation Project Tooling",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2026-10-05",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-12"
  },
  {
   "name": "gba-recomp",

@@ -1,8 +1,8 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 171 projects
+[← All categories](../README.md) · 174 projects
 
-- [Applications](#applications) (50)
+- [Applications](#applications) (53)
 - [Binary Translators](#binary-translators) (11)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (9)
 - [OS & Compatibility Layers](#os--compatibility-layers) (50)
@@ -61,7 +61,10 @@
 | WordTsar | Open-source clone of the WordStar word processor that edits WordStar files | 18 | <https://github.com/sleaze/WordTsar> |
 | HCX | macOS app that opens and runs classic HyperCard stacks | 17 | <https://github.com/pgostation/HCX> |
 | urna-vota-decompiled | Readable C++ reconstruction of the WASM module behind Brazil's TSE electronic voting simulator | 16 | <https://github.com/igoroalonge/urna-vota-decompiled> |
+| MailCraft | Clean-room reimplementation of Microsoft Outlook (classic) in pure Rust | 11 | <https://github.com/MonkeySaint/mailcraft> |
+| LightCraft Android | Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI | 9 | <https://github.com/artcraft-android/lightcraft-android> |
 | libfreehand | Import library for Aldus/Macromedia FreeHand documents | 8 | <https://github.com/LibreOffice/libfreehand> |
+| PrintCraft | Clean-room reimplementation of Adobe Acrobat in pure Rust | 6 | <https://github.com/kabaragoya-loves-you/printcraft> |
 
 ## Binary Translators
 

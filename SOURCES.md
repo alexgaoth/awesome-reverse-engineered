@@ -205,6 +205,7 @@
 - https://news.ycombinator.com
 - https://opensaga.dev
 - https://kvetch.io/conciliatower/
+- https://news.ycombinator.com (Show HN: PS2 games statically recompiled to WebAssembly)
 
 ## Searches run
 
@@ -1812,3 +1813,7 @@
 - HN Algolia search_by_date stories since 2026-08-27: reverse engineer
 - GitHub search created:>=2026-08-27 stars:>15 for: "reverse engineered", "reverse-engineered", "unofficial api", "unofficial client", "private api", decompilation, recompilation, reimplementation, "local api", cloud-free, decompiled, recomp, "reverse engineering", "undocumented api", "local control", "clean-room", unofficial, decomp, "static recompilation", "custom firmware", rexglue, N64Recomp, psxrecomp, "open firmware", "alternative firmware", "pc port", "native port", esphome, topic:reverse-engineering, topic:decompilation, topic:recompilation
 - WebSearch extended: reddit/x.com 'reverse engineered' github 2026; 'static recompilation' new PC port October 2026; 'unofficial API' python library 2026; reverse-engineered no-cloud smart device 2026
+- HN Algolia search_by_date tags=story created_at_i>1791676800: reverse engineered, reverse-engineered, reverse engineering, unofficial API, undocumented API, decompilation, recompiled, open source client, local control, protocol, I reverse
+- HN Algolia tags=show_hn created_at_i>1791676800 (156 titles scanned)
+- GitHub search created:>=2026-10-04 stars:>5: "reverse engineered", "reverse-engineered", "unofficial api", "unofficial client", "private api", decompilation, recompilation, reimplementation, "local api", "cloud-free"
+- WebSearch extended: "reverse engineered" github reddit October 2026; "reverse engineered" github site:x.com; reddit "I reverse engineered" open source github this week

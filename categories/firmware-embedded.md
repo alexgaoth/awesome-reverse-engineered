@@ -1,10 +1,10 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 348 projects
+[← All categories](../README.md) · 350 projects
 
 - [Camera Firmware](#camera-firmware) (18)
-- [Custom Firmware](#custom-firmware) (117)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (82)
+- [Custom Firmware](#custom-firmware) (118)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (83)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (60)
 - [Routers & Network Gear](#routers--network-gear) (71)
 
@@ -149,6 +149,7 @@
 | fm1-nes | Custom firmware SDK integration, diagnostics and NES example for the M-VAVE FM-1 (WL82 chip) | 16 | <https://github.com/Keitark/fm1-nes> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
 | macrosilicon_firmware | Custom EEPROM firmware for Macrosilicon USB video chips from mask ROM disassembly | 12 | <https://github.com/kraln/macrosilicon_firmware> |
+| AI-Agent-on-a-NOKIA | Reverse-engineered Nokia 110 4G firmware to run a native AI chat app that drives calls, alarms and torch | 9 | <https://github.com/anupray95/AI-Agent-on-a-NOKIA> |
 | open-yoto | Open-source firmware for the Yoto player | 7 | <https://github.com/tensorfish/open-yoto> |
 | sengled-hub-reclaim | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | <https://github.com/djshadowxm82/sengled-hub-reclaim> |
 | teddiebox | Open firmware for the ESP32 Toniebox that plays figures from a local teddyCloud | 5 | <https://github.com/emka/teddiebox> |
@@ -238,6 +239,7 @@
 | qemu-hexagon | QEMU with support for QDSP6 user mode emulation | 34 | <https://github.com/Comsecuris/qemu-hexagon> |
 | odyssey-g5-firmware-research | Reverse-engineering Samsung Odyssey G5 monitor firmware for hidden features | 32 | <https://github.com/c8dhjp4tyv-bit/odyssey-g5-firmware-research> |
 | NTRDisasm *(archived)* | Annotated disassembly of the NTR 2.x custom firmware for the Nintendo N3DS | 24 | <https://github.com/patois/NTRDisasm> |
+| lv0pen | Byte-matching decompilation of the PlayStation 3 boot chain (lv0, loaders) and isolated SPU modules | 11 | <https://github.com/sagemono/lv0pen> |
 | Cyclone_CRAM_Mapper | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | <https://github.com/14sea/Cyclone_CRAM_Mapper> |
 
 ## Retro Handhelds & Calculators
