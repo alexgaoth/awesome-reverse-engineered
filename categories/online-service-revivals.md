@@ -15,7 +15,7 @@
 |---|---|--:|---|
 | NoLongerEvil Thermostat | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,874 | <https://github.com/codykociemba/NoLongerEvil-Thermostat> |
 | Legacy Update | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,373 | <https://github.com/LegacyUpdate/LegacyUpdate> |
-| wire-pod | Free local server that replaces the cloud services of the Anki Vector robot | 828 | <https://github.com/kercre123/wire-pod> |
+| wire-pod | Free local server that replaces the cloud services of the Anki Vector robot | 829 | <https://github.com/kercre123/wire-pod> |
 | harmony-api | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | <https://github.com/maddox/harmony-api> |
 | PyCozmo | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 238 | <https://github.com/zayfod/pycozmo> |
 | Slinger | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 202 | <https://github.com/GerryDazoo/Slinger> |
@@ -109,7 +109,7 @@
 | HokakuCTR | On-console 3DS dumper of NEX RMC traffic, used to reverse engineer game server protocols | 46 | <https://github.com/PretendoNetwork/HokakuCTR> |
 | Pretendo Pokemon Gen 6 | Reimplemented game servers for Pokemon X/Y/Omega Ruby/Alpha Sapphire online features | 46 | <https://github.com/PretendoNetwork/pokemon-gen6> |
 | libmobile | Implementation of the Game Boy Mobile Adapter GB protocol for custom servers | 44 | <https://github.com/REONTeam/libmobile> |
-| WiiLink food-server | Revived backend for the Japanese Wii Demae (food delivery) Channel | 43 | <https://github.com/WiiLink24/food-server> |
+| WiiLink food-server | Revived backend for the Japanese Wii Demae (food delivery) Channel | 44 | <https://github.com/WiiLink24/food-server> |
 | Pretendo Mario Kart 7 | Reimplemented NEX game server for Mario Kart 7 on 3DS | 42 | <https://github.com/PretendoNetwork/mario-kart-7> |
 | Pretendo friends | Reimplemented Nintendo Network friends server for Wii U and 3DS | 41 | <https://github.com/PretendoNetwork/friends> |
 | RiiConnect24 Mail-Go *(archived)* | Go server the Wii uses to send and receive WiiConnect24 mail | 41 | <https://github.com/RiiConnect24/Mail-Go> |
@@ -197,10 +197,10 @@
 |---|---|--:|---|
 | ProjectLighthouse | Clean-room open-source custom server for LittleBigPlanet | 258 | <https://github.com/LBPUnion/ProjectLighthouse> |
 | DreamPi | Raspberry Pi bridge between a Dreamcast dial-up modem and the internet | 142 | <https://github.com/Kazade/dreampi> |
-| PolarisServer | Phantasy Star Online 2 private server project in C# | 126 | <https://github.com/PolarisTeam/PolarisServer> |
+| PolarisServer | Phantasy Star Online 2 private server project in C# | 127 | <https://github.com/PolarisTeam/PolarisServer> |
 | MultiServer | Unified server suite for PlayStation Home, SVO, Medius and other PS2/PS3 online services | 61 | <https://github.com/GitHubProUser67/PSHome-MultiServer> |
 | Clank | Open-source SCE-RT Medius server for PS2/PS3 online games such as Ratchet & Clank | 60 | <https://github.com/hashsploit/clank> |
-| Horizon | Medius server emulator for Ratchet: Deadlocked and other PS2 online games | 41 | <https://github.com/Horizon-Private-Server/horizon-server> |
+| Horizon | Medius server emulator for Ratchet: Deadlocked and other PS2 online games | 42 | <https://github.com/Horizon-Private-Server/horizon-server> |
 | Sylverant ship_server | Ship server for Phantasy Star Online, part of the Sylverant revival | 26 | <https://github.com/Sylverant/ship_server> |
 | Sylverant login_server | Login server for Phantasy Star Online on Dreamcast, GameCube and PC | 14 | <https://github.com/Sylverant/login_server> |
 | aemu-servers | Docker wrapper for PSP ad-hoc (aemu) online play servers | 8 | <https://github.com/a-blondel/aemu-servers> |

@@ -57,12 +57,12 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | secplus | Software implementation of the Chamberlain Security+ rolling-code garage door system | 315 | <https://github.com/argilo/secplus> |
-| iown-homecontrol | Documentation and implementation of the io-homecontrol radio protocol (Velux, Somfy) | 286 | <https://github.com/Velocet/iown-homecontrol> |
+| iown-homecontrol | Documentation and implementation of the io-homecontrol radio protocol (Velux, Somfy) | 287 | <https://github.com/Velocet/iown-homecontrol> |
 | Somfy_Remote_Lib | Emulates a Somfy RTS remote with a 433.42 MHz transmitter | 158 | <https://github.com/Legion2/Somfy_Remote_Lib> |
 | HCPBridge | Emulates the Hörmann HAP 1 HCP2 bus module on ESP8266/ESP32 for garage doors | 102 | <https://github.com/hkiam/HCPBridge> |
 | velux-cli | Go client for the Velux Active KIX 300 cloud API | 37 | <https://github.com/nougad/velux-cli> |
 | SommerESP | Plug-and-play ESP32-C3 board to control Sommer garage doors | 28 | <https://github.com/exico91/SommerESP> |
-| iohc-flipper | Flipper Zero app to sniff, pair and control io-homecontrol (Velux/Somfy) devices | 13 | <https://github.com/samr037/iohc-flipper> |
+| iohc-flipper | Flipper Zero app to sniff, pair and control io-homecontrol (Velux/Somfy) devices | 14 | <https://github.com/samr037/iohc-flipper> |
 | BiSecur | Hörmann BiSecur Gateway CLI, Go SDK and Home Assistant integration | 12 | <https://github.com/halacs/BiSecur> |
 | pysecur3 | Python communication library for Hörmann BiSecur devices | 12 | <https://github.com/skelsec/pysecur3> |
 | VeluxIR | Decoded IR protocol for old Velux remotes | 10 | <https://github.com/zschub/VeluxIR> |
@@ -78,8 +78,8 @@
 |---|---|--:|---|
 | EMS-ESP32 | ESP32 firmware to read and control Bosch/Buderus/Nefit EMS and Heatronic boilers | 1,032 | <https://github.com/emsesp/EMS-ESP32> |
 | mitsubishi2MQTT | ESP8266 bridge from Mitsubishi heat pumps (CN105 port) to MQTT | 503 | <https://github.com/gysmo38/mitsubishi2MQTT> |
-| esphome_aux_ac_component | ESPHome component for AUX-based air conditioners via the reverse-engineered UART protocol | 375 | <https://github.com/GrKoR/esphome_aux_ac_component> |
-| BSB-LAN | Monitor and control Siemens-based Brötje/Elco/Atlantic heating over the BSB/LPB bus | 349 | <https://github.com/fredlcore/BSB-LAN> |
+| esphome_aux_ac_component | ESPHome component for AUX-based air conditioners via the reverse-engineered UART protocol | 376 | <https://github.com/GrKoR/esphome_aux_ac_component> |
+| BSB-LAN | Monitor and control Siemens-based Brötje/Elco/Atlantic heating over the BSB/LPB bus | 350 | <https://github.com/fredlcore/BSB-LAN> |
 | esphome_samsung_hvac_bus | ESPHome component for Samsung HVAC units over the NASA/non-NASA RS-485 bus | 317 | <https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus> |
 | EMS-ESP *(archived)* | ESP8266 firmware for Bosch/Buderus EMS and Heatronic heating equipment | 310 | <https://github.com/emsesp/EMS-ESP> |
 | ebusd-configuration | Reverse-engineered eBUS message definitions for Vaillant, Wolf and other heating devices | 286 | <https://github.com/john30/ebusd-configuration> |
@@ -92,11 +92,11 @@
 | inetbox.py | Software implementation of a Truma iNet box for Truma CP Plus caravan heaters over LIN | 120 | <https://github.com/danielfett/inetbox.py> |
 | infinitive | Impersonates a SAM on the Carrier Infinity ABCD RS-485 bus for local control | 116 | <https://github.com/acd/infinitive> |
 | ESP_Buderus_KM271 | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 114 | <https://github.com/dewenni/ESP_Buderus_KM271> |
+| esphome_toshiba_suzumi | ESPHome component for Toshiba air conditioners via their serial protocol | 114 | <https://github.com/pedobry/esphome_toshiba_suzumi> |
 | remeha_home | Home Assistant integration for the private Remeha Home cloud API | 114 | <https://github.com/msvisser/remeha_home> |
-| esphome_toshiba_suzumi | ESPHome component for Toshiba air conditioners via their serial protocol | 113 | <https://github.com/pedobry/esphome_toshiba_suzumi> |
 | FujiHeatPump | Control Fujitsu air conditioners from Arduino via the reverse-engineered indoor-unit bus | 107 | <https://github.com/unreality/FujiHeatPump> |
+| luxtronik | Home Assistant integration for Luxtronik heat pump controllers | 100 | <https://github.com/Bouni/luxtronik> |
 | esphome-truma_inetbox | ESPHome component to control Truma CP Plus heaters over LIN | 99 | <https://github.com/Fabian-Schmidt/esphome-truma_inetbox> |
-| luxtronik | Home Assistant integration for Luxtronik heat pump controllers | 99 | <https://github.com/Bouni/luxtronik> |
 | Nefit-Buderus-EMS-bus-Arduino-Domoticz | Reads Nefit/Buderus EMS bus datagrams into Domoticz | 90 | <https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz> |
 | esphome-fujitsu | ESPHome component for Fujitsu air conditioners via the reverse-engineered indoor-unit bus | 89 | <https://github.com/FujiHeatPump/esphome-fujitsu> |
 | ecodan-ha-local | Local Home Assistant control of Mitsubishi Ecodan heat pumps via CN105 | 85 | <https://github.com/rbroker/ecodan-ha-local> |
@@ -175,7 +175,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| HslCommunication | C# industrial comms library covering Siemens, Mitsubishi, Omron, AB, Keyence and other PLC protocols | 2,134 | <https://github.com/dathlin/HslCommunication> |
+| HslCommunication | C# industrial comms library covering Siemens, Mitsubishi, Omron, AB, Keyence and other PLC protocols | 2,133 | <https://github.com/dathlin/HslCommunication> |
 | plc4x | Apache PLC4X: drivers for S7, Allen-Bradley, Beckhoff, Modbus and other PLC protocols in Java/Go/C | 1,755 | <https://github.com/apache/plc4x> |
 | IoTClient | .NET client for industrial protocols: Siemens S7, Mitsubishi MC, Omron FINS, Allen-Bradley | 1,689 | <https://github.com/zhaopeiym/IoTClient> |
 | s7netplus | S7.NET+: .NET library that talks the Siemens S7comm protocol to Step7 PLCs | 1,634 | <https://github.com/S7NetPlus/s7netplus> |
