@@ -1,10 +1,10 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 231 projects
+[← All categories](../README.md) · 249 projects
 
 - [Camera Firmware](#camera-firmware) (15)
-- [Custom Firmware](#custom-firmware) (51)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (47)
+- [Custom Firmware](#custom-firmware) (66)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (50)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (53)
 - [Routers & Network Gear](#routers--network-gear) (65)
 
@@ -53,6 +53,8 @@
 | OpenIPC firmware | Open alternative firmware for IP cameras based on HiSilicon, Ingenic, SigmaStar and other SoCs | 2,237 | <https://github.com/OpenIPC/firmware> |
 | thingino | Open-source firmware for Ingenic SoC IP cameras | 2,195 | <https://github.com/themactep/thingino-firmware> |
 | tuya-cloudcutter | Detach Tuya devices from the cloud or flash custom firmware via exploit | 1,934 | <https://github.com/tuya-cloudcutter/tuya-cloudcutter> |
+| uv-k5-firmware-custom (egzumer) | Popular custom firmware for the Quansheng UV-K5 radio | 1,932 | <https://github.com/egzumer/uv-k5-firmware-custom> |
+| DIY-Multiprotocol-TX-Module | RC transmitter module speaking many reverse-engineered RC protocols (FrSky, DSM, Flysky) | 1,911 | <https://github.com/pascallanger/DIY-Multiprotocol-TX-Module> |
 | yi-hack-v4 | Custom firmware for Xiaomi Yi cameras | 1,641 | <https://github.com/TheCrypt0/yi-hack-v4> |
 | Heads | Minimal Linux boot firmware for coreboot laptops | 1,596 | <https://github.com/linuxboot/heads> |
 | wz_mini_hacks | Wyze v3/Pan v2 camera firmware modifications adding RTSP and root access | 1,533 | <https://github.com/gtxaspec/wz_mini_hacks> |
@@ -60,25 +62,38 @@
 | yi-hack-Allwinner-v2 | Custom firmware for Yi Allwinner cameras | 1,148 | <https://github.com/roleoroleo/yi-hack-Allwinner-v2> |
 | yi-hack-v5 | Custom firmware for Yi HiSilicon-based cameras | 1,028 | <https://github.com/alienatedsec/yi-hack-v5> |
 | yi-hack-MStar | Custom firmware for Yi MStar cameras | 980 | <https://github.com/roleoroleo/yi-hack-MStar> |
+| OpenRTX | Open radio firmware for TYT MD-380/UV380, Radioddity GD-77 and other handhelds | 922 | <https://github.com/OpenRTX/OpenRTX> |
+| Quansheng_UV-K5_Firmware | Firmware dumps, encryption tools and mods for the Quansheng UV-K5 | 919 | <https://github.com/amnemonic/Quansheng_UV-K5_Firmware> |
+| md380tools | Firmware patches and RE tools for the TYT MD380 DMR handheld | 853 | <https://github.com/travisgoodspeed/md380tools> |
 | OpenMiko | Open firmware for Ingenic T20 cameras such as Wyze Cam v2 | 802 | <https://github.com/openmiko/openmiko> |
 | MrChromebox firmware utility | Scripts to flash custom coreboot UEFI firmware on Chromebooks | 794 | <https://github.com/MrChromebox/scripts> |
 | dejavuln-autoroot | Exploit that roots LG webOS TVs and installs the Homebrew Channel | 739 | <https://github.com/throwaway96/dejavuln-autoroot> |
 | Rockbox | Open-source firmware replacement for digital audio players | 735 | <https://github.com/Rockbox/rockbox> |
+| UV-K5-Modded-Firmwares *(archived)* | Collection of modified firmwares for the Quansheng UV-K5 radio | 645 | <https://github.com/Tunas1337/UV-K5-Modded-Firmwares> |
 | LibreTiny | Arduino/PlatformIO support for Beken/Realtek chips used in Tuya and other IoT devices | 548 | <https://github.com/libretiny-eu/libretiny> |
 | rpi-open-firmware (librerpi) | Open-source VPU bootloader for the Raspberry Pi | 466 | <https://github.com/librerpi/rpi-open-firmware> |
 | kindle-5.6.5-jailbreak | Kindle 5.6.5 firmware exploitation tools to jailbreak the e-reader | 432 | <https://github.com/sgayou/kindle-5.6.5-jailbreak> |
 | rk3562deb | Debian 13 for the Doogee U10 RK3562 tablet, reverse-engineered without a BSP | 403 | <https://github.com/tech4bot/rk3562deb> |
 | switch-linux | Linux kernel port for the Nintendo Switch | 359 | <https://github.com/fail0verflow/switch-linux> |
+| RF-Bridge-EFM8BB1 *(archived)* | Alternative firmware for the Sonoff RF Bridge 433 MHz chip with raw protocol sniffing | 301 | <https://github.com/Portisch/RF-Bridge-EFM8BB1> |
+| Deviation | Custom firmware for Walkera and other RC transmitters with many RC protocols | 268 | <https://github.com/DeviationTX/deviation> |
+| uv-k5-firmware *(archived)* | Open reimplementation of the Quansheng UV-K5 handheld radio firmware | 266 | <https://github.com/DualTachyon/uv-k5-firmware> |
+| k5prog | EEPROM and flash programmer for the Quansheng UV-K5 using its serial bootloader protocol | 249 | <https://github.com/sq5bpf/k5prog> |
+| uv-k5-firmware-custom (OneOfEleven) | Customized Quansheng UV-K5 firmware based on DualTachyon's reimplementation | 200 | <https://github.com/OneOfEleven/uv-k5-firmware-custom> |
 | esp8266-midea-dehumidifier | Cloud-free wifi dehumidification | 191 | <https://github.com/Hypfer/esp8266-midea-dehumidifier> |
+| uvk5-reverse-engineering | Notes and tools from reverse engineering the Quansheng UV-K5 radio | 140 | <https://github.com/sq5bpf/uvk5-reverse-engineering> |
 | Laser_tape_reverse_engineering | Reverse-engineered cheap X-40 laser tape measure with alternative firmware | 136 | <https://github.com/iliasam/Laser_tape_reverse_engineering> |
 | Analogue Duo JB | Jailbreak for the Analogue Duo console | 125 | <https://github.com/analoguejb/Analogue-Duo-JB> |
 | flipperzero-protobuf | Protobuf definitions for the Flipper Zero RPC protocol | 104 | <https://github.com/flipperdevices/flipperzero-protobuf> |
 | DVRPwned | First custom firmware for the Sony PSX DESR DVRP | 90 | <https://github.com/pcm720/dvrpwned> |
 | xiaomi-hyperos-bootloader-unlock | HyperOS/MIUI bootloader unlock via RPMB erase, LK reverse-engineered with Ghidra | 70 | <https://github.com/Jz8Root/xiaomi-hyperos-bootloader-unlock> |
 | esp8266-deerma-humidifier | Custom firmware to uncloud the Xiaomi Mi Smart Antibacterial Humidifier | 64 | <https://github.com/Hypfer/esp8266-deerma-humidifier> |
+| radtel-rt-890-oefw *(archived)* | Open firmware for the Radtel RT-890 reversed from the stock 1.34 firmware | 57 | <https://github.com/DualTachyon/radtel-rt-890-oefw> |
 | wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | <https://github.com/Heisath/wdmc2-kernel> |
 | rpi-open-firmware | Open-source VideoCore firmware for the Raspberry Pi | 40 | <https://github.com/christinaa/rpi-open-firmware> |
+| pluto-firmware-modifications | Tools and docs for modifying the ADI ADALM-Pluto SDR firmware | 36 | <https://github.com/daniestevez/pluto-firmware-modifications> |
 | SGS01BTHome | Custom firmware for the Tuya SGS01 soil sensor to send data in standard BTHome format | 28 | <https://github.com/haraldapp/SGS01BTHome> |
+| raymarine-axiom-rescue | Notes on jailbreaking and rescuing Raymarine Axiom chartplotter firmware | 26 | <https://github.com/colinoflynn/raymarine-axiom-rescue> |
 | iPodLinux | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | <https://github.com/iPodLinux/iPodLinux-SVN> |
 | catcard | Clean-room open-source Rust firmware for Coldcard hardware wallets. MIT licensed, no-std, Cortex-M4F. | 14 | <https://github.com/TibaneLabs/catcard> |
 | macrosilicon_firmware | Custom EEPROM firmware for Macrosilicon USB video chips from mask ROM disassembly | 12 | <https://github.com/kraln/macrosilicon_firmware> |
@@ -95,6 +110,7 @@
 | UEFITool | UEFI firmware image viewer and editor | 5,737 | <https://github.com/LongSoft/UEFITool> |
 | me_cleaner | Tool for partially deblobbing Intel ME firmware images | 5,051 | <https://github.com/corna/me_cleaner> |
 | EMBA | Security analyzer for embedded device firmware | 3,697 | <https://github.com/e-m-b-a/emba> |
+| edl | Unofficial Qualcomm Firehose, Sahara, streaming and DIAG tools | 2,619 | <https://github.com/bkerler/edl> |
 | unblob | Extraction suite for arbitrary firmware and binary blobs | 2,570 | <https://github.com/onekey-sec/unblob> |
 | Glasgow | Scots Army Knife for electronics and hardware reverse engineering | 2,225 | <https://github.com/GlasgowEmbedded/glasgow> |
 | Ubertooth | Open-source Bluetooth monitoring and experimentation platform | 2,146 | <https://github.com/greatscottgadgets/ubertooth> |
@@ -102,6 +118,7 @@
 | Firmware Analysis Toolkit | Toolkit to emulate firmware and analyze it for security vulnerabilities | 1,614 | <https://github.com/attify/firmware-analysis-toolkit> |
 | Tasmotizer | Flashing tool for Tasmota firmware onto ESP devices | 1,540 | <https://github.com/tasmota/tasmotizer> |
 | FACT | Firmware Analysis and Comparison Tool | 1,467 | <https://github.com/fkie-cad/FACT_core> |
+| mtkclient | MediaTek flash and repair utility using bootrom/preloader protocols | 1,302 | <https://github.com/bkerler/mtkclient> |
 | hactool | Decrypt and extract Nintendo Switch file formats | 1,199 | <https://github.com/SciresM/hactool> |
 | Sniffle | Bluetooth 5 and 4.x LE sniffer for TI CC1352/CC26x2 | 1,189 | <https://github.com/nccgroup/Sniffle> |
 | BIOSUtilities | Utilities to parse and extract vendor BIOS/UEFI firmware | 1,095 | <https://github.com/platomav/BIOSUtilities> |
@@ -127,6 +144,7 @@
 | fwtool.py | Tool to unpack Sony camera firmware images | 207 | <https://github.com/ma1co/fwtool.py> |
 | Ablation | Autonomous reverse engineering system, demonstrated on Fortinet firmware | 206 | <https://github.com/Ablation-Tool/ablation> |
 | Dell iDRAC GPU throttling RE | Reverse-engineered Dell iDRAC firmware to stop throttling of unsupported GPUs in C4130 | 134 | <https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling> |
+| openpst | Tools for Qualcomm MSM devices (Sahara, DM/DIAG, streaming protocols) | 133 | <https://github.com/openpst/openpst> |
 | 8cryptdo | Reverse-engineered docs and tools for 8BitDo firmware encryption | 38 | <https://github.com/aeromodes/8cryptdo> |
 | AMT630A | Reverse-engineered AMT630A display controller from a cheap backup camera screen | 38 | <https://github.com/mogrinz/AMT630A> |
 | insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras | 36 | <https://github.com/enekochan/insta360-go-firmware-tool> |

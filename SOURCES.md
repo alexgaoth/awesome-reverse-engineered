@@ -178,6 +178,25 @@
 - https://github.com/LennardKittner/HyperXCloudIIWireless
 - https://dev.to/mateusdcc/i-reverse-engineered-codexs-web-search-and-made-it-available-to-claude-gemini-and-local-models-aj7
 - https://dev.to/kolkov/we-reverse-engineered-12-versions-of-claude-code-then-it-leaked-its-own-source-code-pij
+- https://github.com/john30/ebusd
+- https://github.com/openv/openv
+- https://github.com/FujiHeatPump/esphome-fujitsu
+- https://github.com/tsunglung/taixia
+- https://github.com/zellyn/openers
+- https://securelist.com/the-secrets-of-schneider-electrics-umas-protocol/107435/
+- roblarsen/awesome-rtlsdr
+- Schm1tz1/awesome-rtl-sdr
+- MrOplus/Awesome-SDR
+- vkvbit/awesome-sdr
+- rybolov/Awesome-SDR
+- canyoleri/awesome-SDR
+- shvyac/awesome-hamradio
+- https://github.com/WiiLink24
+- https://github.com/RiiConnect24
+- https://github.com/topics/medius
+- https://dreamcastlive.net/?p=3222
+- https://gitlab.com/explore/projects/topics/escargot-chat
+- rtl-sdr.com articles
 
 ## Searches run
 
@@ -1378,3 +1397,157 @@
 - gh search repos 'reverse-engineered' created>2025-10-01 sorted by stars (top 400)
 - HN Algolia search_by_date 2026 stories: reverse engineered, reverse-engineered, reverse engineering, unofficial api, mcp server, subscription
 - WebSearch: "I reverse engineered" ChatGPT OR Claude OR Gemini OR Codex 2026 github
+- gh: omron fins
+- gh: s7comm
+- gh: melsec
+- gh: fanuc focas
+- gh: allen bradley df1
+- gh: ge srtp
+- gh: keyence plc
+- gh: snap7
+- gh: pccc
+- gh: beckhoff ads
+- gh: optolink
+- gh: km200 buderus
+- gh: stiebel eltron can
+- gh: hoval
+- gh: froeling
+- gh: hargassner
+- gh: oekofen
+- gh: windhager
+- gh: paradigma heating
+- gh: diematic
+- gh: eberspacher
+- gh: rinnai
+- gh: helios kwl
+- gh: zehnder comfoair
+- gh: blauberg vento
+- gh: pentair
+- gh: umas
+- gh: codesys v3
+- gh: micronova pellet stove
+- gh: mertik maxitrol
+- gh: palazzetti
+- gh: mcz pellet
+- gh: harvia sauna
+- gh: bisecur
+- gh: sommer garage
+- gh: marantec
+- gh: velux
+- gh: hayward pool
+- gh: kamstrup
+- gh: fujitsu esphome
+- gh: hitachi yutaki
+- gh: wolf heating
+- gh: weishaupt
+- gh: ruida
+- gh: sinumerik
+- web: reverse engineered garage door protocol Nice BFT Came ESP32
+- web: reverse engineered heat pump protocol ESPHome
+- web: Schneider UMAS protocol library
+- meteor lrpt
+- fengyun decoder
+- elektro-l lrit
+- goes hrit decoder
+- inmarsat stdc
+- inmarsat decoder
+- iridium decoder
+- starlink dish
+- starlink signal
+- sirf binary protocol
+- mtk gps logger
+- garmin gps protocol serial
+- seatalk
+- nmea2000 proprietary
+- raymarine
+- lowrance sonar
+- garmin sonar
+- humminbird
+- navico
+- furuno
+- flarm decoder
+- acars decoder
+- vdl2
+- dji droneid
+- remote id receiver
+- drone id decoder
+- radiosonde decoder
+- tpms decoder
+- wmbus decoder
+- kamstrup
+- itron
+- smart meter 868
+- qualcomm diag
+- shannon baseband
+- mediatek modem log
+- huawei modem firmware
+- lacrosse sensor
+- oregon scientific protocol
+- fine offset weather
+- acurite
+- ceiling fan rf remote
+- nxdn decoder
+- dmr decoder
+- lora sdr decoder
+- orbcomm
+- garmin protocol
+- gh org listing: PretendoNetwork, WiiLink24, RiiConnect24, solero, OpenFusionProject, ElevenGiants, KaeruTeam, REONTeam
+- club penguin server
+- habbo emulator
+- nintendo wfc server
+- gamespy master server emulator
+- dreamcast online server
+- AIM oscar server
+- blaze server emulator
+- github open source server revival dead online service Dreamcast PSO DCNet
+- github PS2 online revival server Medius emulator open source
+- github Escargot MSN messenger server source code
+- github Anki Vector Cozmo Jibo revival server open source
+- gamespy emulator
+- pokemon gts server
+- dwc server
+- wii u server replacement
+- psp adhoc server
+- yahoo messenger server
+- xfire server
+- flipnote hatena server
+- xband server
+- saturn netlink
+- dreamcast server game revival
+- jibo
+- chumby
+- neato robot local
+- harmony hub local
+- zune
+- private server revival mobile game
+- server emulator revival shutdown
+- toontown server
+- pixie hollow
+- webkinz
+- free realms server
+- games for windows live replacement
+- glide wrapper
+- web search: EverBlu, Sigfox, FengYun, Inmarsat STD-C, EOT, FlexNet, Iridium, MTK, DECT, YSF, Qualcomm DIAG, UV-K5, Davis
+- games for windows live
+- socom server
+- svo server playstation
+- dnas server
+- medius server
+- yahoo messenger
+- myspaceim
+- skype server emulator
+- nintendo dsi shop
+- wii shop channel server
+- 3ds spotpass
+- wiiconnect24
+- dreamcast dial-up
+- battlefield 2 gamespy
+- slingbox server
+- prodigy reloaded
+- bildschirmtext
+- minitel server
+- aol server emulator
+- neverwinter nights master server
+- matrix online server emulator
+- ghostpp warcraft
+- graphql batch verification of ~250 known candidate repos (Retro OS, DirectX wrappers, AppleTalk, Palm/Newton/Psion, MMO revivals)

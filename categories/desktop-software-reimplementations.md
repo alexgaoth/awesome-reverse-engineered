@@ -1,11 +1,12 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 72 projects
+[← All categories](../README.md) · 116 projects
 
 - [Applications](#applications) (23)
 - [Binary Translators](#binary-translators) (7)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (7)
 - [OS & Compatibility Layers](#os--compatibility-layers) (35)
+- [Retro OS & Compatibility](#retro-os--compatibility) (44)
 
 ## Applications
 
@@ -98,3 +99,52 @@
 | ndiswrapper | Loads Windows NDIS Wi-Fi drivers in the Linux kernel |  | <https://sourceforge.net/projects/ndiswrapper> |
 | vkd3d | WineHQ Direct3D 12 to Vulkan translation library |  | <https://gitlab.winehq.org/wine/vkd3d> |
 | wine-staging | Experimental patch set on top of Wine |  | <https://gitlab.winehq.org/wine/wine-staging> |
+
+## Retro OS & Compatibility
+
+| Name | What it is | ★ | Repo |
+|---|---|--:|---|
+| One-Core-API | Compatibility layer that reimplements newer Windows APIs on Windows XP/2003 | 2,274 | <https://github.com/shorthorn-project/One-Core-API-Binaries> |
+| DDrawCompat | DirectDraw and Direct3D 1-7 compatibility layer for modern Windows | 1,425 | <https://github.com/narzoul/DDrawCompat> |
+| WRP | Web rendering proxy that lets vintage browsers view modern websites | 1,301 | <https://github.com/tenox7/wrp> |
+| d3d8to9 | Pseudo-driver that converts Direct3D 8 calls and shaders to Direct3D 9 | 1,263 | <https://github.com/crosire/d3d8to9> |
+| Boxedwine | Emulator that runs 32-bit Windows programs on other platforms via Wine | 1,098 | <https://github.com/danoon2/Boxedwine> |
+| YY-Thunks | Thunks that provide missing newer Win32 APIs so programs run on Windows XP/Vista | 1,028 | <https://github.com/Chuyu-Team/YY-Thunks> |
+| Munt | Software emulation of the Roland MT-32 and related MIDI synths, from reverse-engineered ROMs | 818 | <https://github.com/munt/munt> |
+| Nuked-SC55 *(archived)* | Emulation of the Roland SC-55 sound module from decapped chip and firmware RE | 757 | <https://github.com/nukeykt/Nuked-SC55> |
+| WebOne | HTTP 1.x proxy that makes old web browsers usable on the modern web | 749 | <https://github.com/atauenis/webone> |
+| DSOAL | DirectSound DLL replacement that restores EAX and 3D audio via OpenAL Soft | 739 | <https://github.com/kcat/dsoal> |
+| dosemu2 | Runs DOS programs under Linux with a DOS environment emulator | 737 | <https://github.com/dosemu2/dosemu2> |
+| Zimodem | ESP8266/ESP32 modem-to-internet emulator for retro computers | 539 | <https://github.com/bozimmerman/Zimodem> |
+| Einstein | Emulator that runs Apple's NewtonOS on modern operating systems | 532 | <https://github.com/pguyot/Einstein> |
+| RunCPM | Portable Z80 CP/M 2.2 emulator that reimplements the BDOS on modern hosts | 510 | <https://github.com/MockbaTheBorg/RunCPM> |
+| Netatalk | Open-source AFP/AppleTalk file server for classic and modern Macs | 476 | <https://github.com/Netatalk/netatalk> |
+| GLaBIOS | Scratch-built open-source ROM BIOS for IBM PC, XT and 8088 clones | 382 | <https://github.com/640-KB/GLaBIOS> |
+| FrogFind | Search engine that strips the web down for vintage computers | 371 | <https://github.com/ActionRetro/FrogFind> |
+| amitools | Tools including vamos, which runs AmigaOS programs by emulating the OS API | 361 | <https://github.com/cnvogelg/amitools> |
+| CloudpilotEmu | Palm OS emulator for the web and mobile | 321 | <https://github.com/cloudpilot-emu/cloudpilot-emu> |
+| GNUstep GUI | Free reimplementation of the OpenStep/Cocoa AppKit GUI library | 315 | <https://github.com/gnustep/libs-gui> |
+| Open ROMs | Clean-room open-source replacement ROMs for the Commodore 64 and other retro computers | 306 | <https://github.com/MEGA65/open-roms> |
+| EmuTOS | Free replacement for the Atari ST TOS operating system ROM | 305 | <https://github.com/emutos/emutos> |
+| IPXWrapper | Windows DLL that tunnels IPX/SPX over UDP so old LAN games work on modern Windows | 270 | <https://github.com/solemnwarning/ipxwrapper> |
+| HX DOS Extender | DOS extender that runs Win32 console and some GUI programs under plain DOS | 263 | <https://github.com/Baron-von-Riedesel/HX> |
+| Nuked-OPL3 | Highly accurate Yamaha OPL3 emulator based on die-shot reverse engineering | 246 | <https://github.com/nukeykt/Nuked-OPL3> |
+| fdpp | 64-bit FreeDOS-derived DOS kernel used by dosemu2 | 245 | <https://github.com/dosemu2/fdpp> |
+| FreeCOM | FreeDOS command shell, a clean-room COMMAND.COM replacement | 201 | <https://github.com/FDOS/freecom> |
+| OpenGEM | Extended free distribution of the Digital Research GEM GUI for DOS | 185 | <https://github.com/shanecoughlan/OpenGEM> |
+| dinputto8 | Converts DirectInput 1-7 calls to DirectInput 8 for old game compatibility | 175 | <https://github.com/elishacloud/dinputto8> |
+| tcpser | Hayes modem emulator that connects retro computers to telnet BBSes | 157 | <https://github.com/FozzTexx/tcpser> |
+| CERF | Universal Windows CE emulator (CE Runtime Foundation) | 106 | <https://github.com/gweslab/cerf> |
+| 68k.news | News site served in simple HTML for vintage computers | 105 | <https://github.com/ActionRetro/68k-news> |
+| ipxbox | DOSBox IPX-over-UDP server with TAP bridge and Quake proxying for retro LAN play | 103 | <https://github.com/fragglet/ipxbox> |
+| MS-DOS Player | Runs MS-DOS command-line programs on Win32/x64 by emulating DOS | 96 | <https://github.com/cracyc/msdos-player> |
+| dgVoodoo (classic) *(archived)* | Source of the original dgVoodoo 3dfx Glide wrapper | 71 | <https://github.com/dege-diosg/dgVoodoo> |
+| palm-sync | TypeScript implementation of the Palm HotSync protocol | 54 | <https://github.com/jichu4n/palm-sync> |
+| TashTalk | Interface for Apple's LocalTalk networking protocol | 53 | <https://github.com/lampmerchant/tashtalk> |
+| tbxi | Tool to build and unpack classic Mac OS NewWorld ROM images | 42 | <https://github.com/elliotnunn/tbxi> |
+| TashRouter | AppleTalk router supporting LToUDP, TashTalk and EtherTalk | 40 | <https://github.com/lampmerchant/tashrouter> |
+| A2SERVER | AppleTalk file and netboot server for Apple II computers | 34 | <https://github.com/RasppleII/a2server> |
+| pilot-link | Tools for syncing with Palm OS devices on Unix-like systems | 33 | <https://github.com/jichu4n/pilot-link> |
+| plptools | Tools for connecting to Psion EPOC devices over the PLP link protocol | 33 | <https://github.com/plptools/plptools> |
+| DirectPlay Lite | Reimplementation of Microsoft's DirectPlay API for old multiplayer games | 29 | <https://github.com/solemnwarning/directplay-lite> |
+| OpenGlide | Wrapper that runs 3dfx Glide games on OpenGL | 22 | <https://github.com/fcbarros/openglide> |

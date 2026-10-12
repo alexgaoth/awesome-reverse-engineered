@@ -1,6 +1,6 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md) · 2,036 projects
+[← All categories](../README.md) · 2,038 projects
 
 - [Asset & File-Format Tools](#asset--file-format-tools) (122)
 - [Console Emulators](#console-emulators) (14)
@@ -25,7 +25,7 @@
 - [Mod Loaders & Script Extenders](#mod-loaders--script-extenders) (74)
 - [Open-source Game Clones](#open-source-game-clones) (59)
 - [Other](#other) (38)
-- [Private Servers](#private-servers) (122)
+- [Private Servers](#private-servers) (124)
 - [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (267)
 
 ## Asset & File-Format Tools
@@ -1880,10 +1880,12 @@
 | SphereServer Source-X | Ultima Online server emulator | 85 | <https://github.com/Sphereserver/Source-X> |
 | Juxtaposition | Pretendo's Miiverse replacement service for Wii U and 3DS | 73 | <https://github.com/PretendoNetwork/juxtaposition> |
 | OpenDAoC | Free Dark Age of Camelot server emulator | 69 | <https://github.com/OpenDAoC/OpenDAoC-Core> |
+| mxoemu | Server emulator for the shut-down MMO The Matrix Online | 64 | <https://github.com/rajkosto/mxoemu> |
 | Freya | Cabal Online server emulator | 60 | <https://github.com/ubis/Freya> |
 | titanic | A private server that supports all osu! clients (2007-2026) | 60 | <https://github.com/osuTitanic/titanic> |
 | perlica-rs | A server software reimplementation for an old version of a certain anime game about factories. | 58 | <https://github.com/Yoshk4e/perlica-rs> |
 | OpenRS2 | Open-source multiplayer game server compatible with the RuneScape client | 56 | <https://github.com/openrs2/openrs2> |
+| Hardline Dreams | C# server emulator for The Matrix Online | 53 | <https://github.com/hdneo/mxo-hd> |
 | Holocore | Star Wars Galaxies server emulator for the JVM | 52 | <https://github.com/ProjectSWGCore/Holocore> |
 | wrath-rs | A very functionally incomplete World of Warcraft: Wrath of the Lich King server emulator written in pure rust. | 52 | <https://github.com/Victov/wrath-rs> |
 | remielle | Zenless Zone Zero server emulator focused on efficiency, stability and correctness. | 50 | <https://github.com/thexeondev/remielle> |
