@@ -8,7 +8,7 @@ import collections, datetime, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORDER = ["Collections & Awesome Lists", "AI Tools & LLM Clients", "Game Decompilations & Reimplementations",
          "Messaging & Social Apps", "Unofficial Web/App API Clients", "Chinese & Asian Platforms", "Alternative Frontends",
-         "Third-party Clients", "Mobile Apps", "Apple Ecosystem", "Devices, IoT & Hardware", "Drivers & Low-level Hardware", "Automotive",
+         "Third-party Clients", "Mobile Apps", "Online Service Revivals", "Apple Ecosystem", "Devices, IoT & Hardware", "Drivers & Low-level Hardware", "Automotive", "Industrial & Building Automation",
          "Firmware & Embedded", "Network & Wire Protocols", "File Formats", "Desktop Software Reimplementations", "RE Tooling"]
 
 slug = lambda s: re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
