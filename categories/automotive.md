@@ -1,14 +1,14 @@
 # Automotive
 
-[← All categories](../README.md) · 325 projects
+[← All categories](../README.md) · 354 projects
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
-- [CAN Bus & ECU](#can-bus--ecu) (73)
-- [Car APIs & Telematics](#car-apis--telematics) (101)
+- [CAN Bus & ECU](#can-bus--ecu) (89)
+- [Car APIs & Telematics](#car-apis--telematics) (113)
 - [EV Batteries & BMS](#ev-batteries--bms) (22)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (31)
 - [Motorcycles](#motorcycles) (10)
-- [Scooters & E-bikes](#scooters--e-bikes) (49)
+- [Scooters & E-bikes](#scooters--e-bikes) (50)
 
 ## Bikes, Trainers & Bike Computers
 
@@ -116,6 +116,7 @@
 | GVRET | Generalized Electric Vehicle Reverse Engineering Tool firmware | 114 | <https://github.com/collin80/GVRET> |
 | MxT | ME7 ECU calibration tools for MAF, fueling and torque maps | 109 | <https://github.com/TracqiTechnology/MxT> |
 | PSA-RE | PSA (Peugeot/Citroen/DS) electronics architecture reverse engineering | 107 | <https://github.com/prototux/PSA-RE> |
+| FastECU | Tuning, logging and flashing software for OEM ECUs | 105 | <https://github.com/miikasyvanen/FastECU> |
 | automotive-security-research | Reverse engineering results and resources for several vehicles | 104 | <https://github.com/ps1337/automotive-security-research> |
 | PyVCDS *(archived)* | Reimplementation of VCDS VAG diagnostics in Python with SocketCAN | 102 | <https://github.com/baconwaifu/PyVCDS> |
 | PiCCANTE | Raspberry Pi Pico tool for exploring and reversing vehicle CAN buses | 98 | <https://github.com/Alia5/PiCCANTE> |
@@ -123,13 +124,28 @@
 | CAN-RE-Tool | Reverse-engineering tool for CAN bus systems | 90 | <https://github.com/openvehicles/CAN-RE-Tool> |
 | CanLab | Desktop app for reverse engineering CAN bus captures | 87 | <https://github.com/Sherin-SEF-AI/CanLab> |
 | FG-Falcon | Ford FG Falcon CAN bus and module reverse engineering | 86 | <https://github.com/jakka351/FG-Falcon> |
+| can2RNET | Code and documentation to control power wheelchairs with R-Net electronics over CAN | 83 | <https://github.com/redragonx/can2RNET> |
 | ESP32_RET_SD | CAN bus reverse engineering tool firmware for ESP32 | 77 | <https://github.com/MotorvateDIY/ESP32_RET_SD> |
+| VanBus | Vehicle Area Network (VAN) bus packet reader/writer for ESP8266 and ESP32 | 77 | <https://github.com/0xCAFEDECAF/VanBus> |
 | arduino-psa-comfort-can-adapter | Run newer PSA/Stellantis CAN2010 devices on older CAN2004 cars | 73 | <https://github.com/ludwig-v/arduino-psa-comfort-can-adapter> |
 | Ioniq5_CAN | Hyundai Ioniq 5/6 and Kia EV6 battery preconditioning via CAN | 68 | <https://github.com/tylerharvey/Ioniq5_CAN> |
 | Nissan-Leaf-Inverter-Controller | Open control unit for Nissan Leaf Gen1/Gen2 inverters via reversed CAN messages | 68 | <https://github.com/damienmaguire/Nissan-Leaf-Inverter-Controller> |
+| 7226ctrl | Controller for the Mercedes 722.6 automatic transmission | 67 | <https://github.com/mkovero/7226ctrl> |
 | MazdaCANbus | Database of known Mazda CAN messages | 67 | <https://github.com/majbthrd/MazdaCANbus> |
 | TruckDevil | Framework for assessing J1939 ECUs on trucks | 65 | <https://github.com/LittleBlondeDevil/TruckDevil> |
+| npkern | Nissan/Infiniti ECU reflashing kernel for use with nisprog | 60 | <https://github.com/fenugrec/npkern> |
+| medc17-checksum-tool | Checksum analyzer and corrector for Bosch MED17/EDC17 ECU firmware | 58 | <https://github.com/ConnorHowell/medc17-checksum-tool> |
+| BMW-iDrive-HID | Use a BMW iDrive controller as a BLE HID device | 57 | <https://github.com/IAmOrion/BMW-iDrive-HID> |
+| Volvo-VIDA | Reverse engineering Volvo VIDA to read vehicle CAN bus information | 57 | <https://github.com/Tigo2000/Volvo-VIDA> |
 | reversegear | Offline reverse-engineering tools for automotive networks | 54 | <https://github.com/linklayer/reversegear> |
+| VanLiveConnect | Live data from a PSA vehicle's VAN bus on a smartphone | 53 | <https://github.com/0xCAFEDECAF/VanLiveConnect> |
+| BMW-i3-CCS | Reverse engineering the BMW i3 LIM module for open-source CCS fast charging | 51 | <https://github.com/damienmaguire/BMW-i3-CCS> |
+| Ford-Fiesta-MK5-MS-CAN-bus | Reverse engineering of Ford Fiesta MK5 MS-CAN messages | 51 | <https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus> |
+| ReCAN | Datasets and tools for reverse engineering Controller Area Networks | 51 | <https://github.com/Cyberdefence-Lab-Murcia/ReCAN> |
+| openpilot-cabana | CAN / CAN FD bus analyzer for reverse engineering and diagnostics | 49 | <https://github.com/deanlee/openpilot-cabana> |
+| ODIS-project-explorer | Python dumper/explorer for VW ODIS MCD runtime projects | 42 | <https://github.com/kartoffelpflanze/ODIS-project-explorer> |
+| carhack | Reverse engineering vehicle CAN bus messages | 39 | <https://github.com/jackm/carhack> |
+| rx8-ecu-dump | Utility to dump the Mazda RX8 ECU firmware | 38 | <https://github.com/ConnorRigby/rx8-ecu-dump> |
 | audi-mlb-evo-lin | Reverse-engineered LIN protocol of Audi MLB evo center console switch panel | 12 | <https://github.com/wiskiw/audi-mlb-evo-lin> |
 
 ## Car APIs & Telematics
@@ -177,32 +193,44 @@
 | mg-saic-ha | MG SAIC custom integration for Home Assistant | 117 | <https://github.com/townsmcp/mg-saic-ha> |
 | pyze | Unofficial Python client and API for Renault ZE electric vehicles | 116 | <https://github.com/jamesremuscat/pyze> |
 | pyBYD | Async Python client for the BYD vehicle API | 115 | <https://github.com/jkaberg/pyBYD> |
+| teslabtapi | Unofficial documentation of the Tesla vehicle BLE API | 107 | <https://github.com/ArchGryphon9362/teslabtapi> |
 | skodaconnect *(archived)* | Python library to communicate with the Skoda Connect service (deprecated) | 104 | <https://github.com/skodaconnect/skodaconnect> |
+| leapmotor-mate | Trip tracking, charge logging and remote control for Leapmotor electric vehicles | 103 | <https://github.com/ProtossBlaster/leapmotor-mate> |
 | HomeAssistant-NissanConnect | Unofficial Home Assistant integration for Nissan Connect vehicles | 101 | <https://github.com/dan-r/HomeAssistant-NissanConnect> |
 | OnStarJS | Unofficial Node.js client for GM OnStar | 96 | <https://github.com/samrum/OnStarJS> |
 | volkswagencarnet | Python library for the Volkswagen We Connect / Car-Net web service | 96 | <https://github.com/robinostlund/volkswagencarnet> |
 | mytoyota | Python client for the Toyota Connected Services API | 95 | <https://github.com/DurgNomis-drol/mytoyota> |
 | connected-car-python-sdk *(archived)* | Python SDK for Ford vehicles via Sync Connect (FordPass) | 93 | <https://github.com/ianjwhite99/connected-car-python-sdk> |
+| unofficial-polestar-api | Unofficial Polestar API and Home Assistant integration | 90 | <https://github.com/kildahldev/unofficial-polestar-api> |
 | jlrpy | Python library for the Jaguar Land Rover InControl remote car API | 87 | <https://github.com/ardevd/jlrpy> |
 | pytoyoda | Python client for Toyota Connected Services Europe API | 84 | <https://github.com/pytoyoda/pytoyoda> |
 | WeConnect-mqtt | MQTT client publishing Volkswagen WeConnect data | 80 | <https://github.com/tillsteinbach/WeConnect-mqtt> |
 | tesla_api | Lightweight Python client for the unofficial Tesla owner API | 79 | <https://github.com/mlowijs/tesla_api> |
 | homeassistant-seatconnect | Home Assistant integration for Seat/Cupra Connect | 75 | <https://github.com/Farfar/homeassistant-seatconnect> |
+| pillion | Mirror a phone screen to a Garmin-powered motorcycle dash over Bluetooth (NaviLite) | 75 | <https://github.com/alexandrevega/pillion> |
+| SmartHashtag | Home Assistant component for the Smart #1/#3/#5 vehicle API | 73 | <https://github.com/DasBasti/SmartHashtag> |
 | homeassistant-subaru | MySubaru Connected Services custom component for Home Assistant | 72 | <https://github.com/G-Two/homeassistant-subaru> |
 | mercedes_me_api | Scripts to use the Mercedes me APIs | 72 | <https://github.com/xraver/mercedes_me_api> |
 | homeassistant-jlrincontrol | Home Assistant integration for JLR InControl | 71 | <https://github.com/msp1974/homeassistant-jlrincontrol> |
 | byd-hass *(archived)* | Export BYD car data to Home Assistant | 70 | <https://github.com/jkaberg/byd-hass> |
 | pyporscheconnectapi | Python client for the Porsche Connect API | 70 | <https://github.com/CJNE/pyporscheconnectapi> |
+| better-dash | Alternative navigation app for the Royal Enfield TFT screen | 69 | <https://github.com/OpenMotoDash/better-dash> |
 | hass-uconnect | Home Assistant integration for FCA/Stellantis Uconnect cars (Jeep, Ram, Fiat, Alfa) | 69 | <https://github.com/hass-uconnect/hass-uconnect> |
+| GM-Vehicle-API | Remote API for supported General Motors vehicles | 64 | <https://github.com/q39JzrRa/GM-Vehicle-API> |
 | ha-porscheconnect | Porsche Connect custom component for Home Assistant | 64 | <https://github.com/CJNE/ha-porscheconnect> |
 | homebridge-fordpass | Control Ford vehicles in HomeKit via Homebridge | 63 | <https://github.com/Brandawg93/homebridge-fordpass> |
 | nissan-leaf-tcu | Nissan LEAF TCU research and reverse engineering | 63 | <https://github.com/developerfromjokela/nissan-leaf-tcu> |
 | myskoda | Python library for the MySkoda connected-car APIs | 62 | <https://github.com/skodaconnect/myskoda> |
+| byd-dolphin-hacking | Reverse engineering the BYD Dolphin head unit: CAN bus, AVAS, NFC keys and OTA | 60 | <https://github.com/wheregoes/byd-dolphin-hacking> |
 | teslajsonpy | Async Python library for Tesla API used by Home Assistant | 58 | <https://github.com/zabuldon/teslajsonpy> |
+| tesla-charge-port-signal | Guided reverse engineering of Tesla's charge port remote control signal | 56 | <https://github.com/akrutsinger/tesla-charge-port-signal> |
 | connected-car-node-sdk *(archived)* | JavaScript SDK for Ford vehicles via FordPass/SYNC Connect | 55 | <https://github.com/ianjwhite99/connected-car-node-sdk> |
 | homeassistant-carwings | Home Assistant integration for Nissan Connect EV services | 54 | <https://github.com/remuslazar/homeassistant-carwings> |
+| tesla-local-control-addon | Control a Tesla locally from Home Assistant over BLE | 53 | <https://github.com/tesla-local-control/tesla-local-control-addon> |
+| SMEG_PLUS | Reverse engineering of the PSA SMEG+ head unit | 47 | <https://github.com/bousqi/SMEG_PLUS> |
 | leaf2mqtt | Nissan Connect LEAF data to MQTT | 44 | <https://github.com/yp87/leaf2mqtt> |
 | mymazda-relay | Flask relay for the MyMazda Connected Services API (pymazda-based) | 43 | <https://github.com/alanzchen/mymazda-relay> |
+| OpenRemoteStart | Open-source remote for the Fortin EVO-One remote starter | 43 | <https://github.com/jmaxxz/OpenRemoteStart> |
 | nissan-connect-php | PHP class for the Nissan Connect (Carwings) API | 42 | <https://github.com/gboudreau/nissan-connect-php> |
 | CarConnectivity-connector-volkswagen | Volkswagen connector for the CarConnectivity framework | 41 | <https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen> |
 | geely-connect | Unofficial Home Assistant integration for Geely vehicles via app API | 36 | <https://github.com/YossiKon/geely-connect> |
@@ -342,6 +370,7 @@
 | vanmoof-tools | Tools supporting VanMoof S3/X3 reverse engineering | 55 | <https://github.com/chwdt/vanmoof-tools> |
 | pymoof | Connect to a VanMoof SX3 e-bike over BLE from Python | 47 | <https://github.com/quantsini/pymoof> |
 | TSDZ2_wireless | Open-source wireless firmware and display for the TSDZ2 e-bike motor | 45 | <https://github.com/OpenSourceEBike/TSDZ2_wireless> |
+| obike | Reverse engineering of the oBike bike-share BLE and HTTP protocol | 42 | <https://github.com/antoinet/obike> |
 | emtb | Garmin data field showing Shimano STEPS e-bike info | 35 | <https://github.com/markdotai/emtb> |
 | ninebot-ble | Python client for Ninebot scooters over BLE | 35 | <https://github.com/ownbee/ninebot-ble> |
 | miauth | Authentication and communication with Xiaomi M365/Ninebot scooters over BLE | 31 | <https://github.com/dnandha/miauth> |

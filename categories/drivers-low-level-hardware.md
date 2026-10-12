@@ -1,16 +1,16 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md) · 362 projects
+[← All categories](../README.md) · 377 projects
 
-- [Apple Silicon (Asahi)](#apple-silicon-asahi) (18)
+- [Apple Silicon (Asahi)](#apple-silicon-asahi) (19)
 - [Drawing Tablets & Input](#drawing-tablets--input) (16)
 - [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (19)
-- [GPU Drivers](#gpu-drivers) (16)
+- [GPU Drivers](#gpu-drivers) (20)
 - [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (80)
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (31)
 - [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (72)
-- [Laptop EC & Peripherals](#laptop-ec--peripherals) (63)
-- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (31)
+- [Laptop EC & Peripherals](#laptop-ec--peripherals) (69)
+- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (35)
 - [Wi-Fi & Radios](#wi-fi--radios) (16)
 
 ## Apple Silicon (Asahi)
@@ -30,6 +30,7 @@
 | linux-t2-patches | Linux patches for T2-chip Intel Macs (keyboard, touchbar, audio, BCE) | 103 | <https://github.com/t2linux/linux-t2-patches> |
 | apple-bce-drv | Reverse-engineered Linux driver for the Apple T2 Bridge Controller (BCE) | 101 | <https://github.com/t2linux/apple-bce-drv> |
 | asahi-nvram | Tools to read and write Apple Silicon NVRAM from Linux | 77 | <https://github.com/AsahiLinux/asahi-nvram> |
+| anecc | Run CoreML models on the Apple Neural Engine under Asahi Linux | 62 | <https://github.com/eiln/anecc> |
 | coreml_to_ane_hwx | Converts Core ML models to Apple Neural Engine HWX binaries for analysis | 51 | <https://github.com/freedomtan/coreml_to_ane_hwx> |
 | asahi-scripts | Asahi Linux support scripts (firmware extraction, boot setup) | 50 | <https://github.com/AsahiLinux/asahi-scripts> |
 | mdaiter/ane | Reverse-engineering artifacts for Apple ANECompiler, Espresso and AppleNeuralEngine | 40 | <https://github.com/mdaiter/ane> |
@@ -91,7 +92,11 @@
 | radeon-tools | AMD Radeon reverse engineering tools | 154 | <https://github.com/fail0verflow/radeon-tools> |
 | grate | Reverse-engineering tools and docs for the NVIDIA Tegra 2/3 GPU (open Tegra graphics) | 90 | <https://github.com/grate-driver/grate> |
 | linux_openpvrsgx | Reshaping PowerVR SGX GPL kernel drivers for mainline Linux | 65 | <https://github.com/openpvrsgx-devgroup/linux_openpvrsgx> |
+| linux-cedrus | Mainline kernel tree for the Allwinner VPU (Cedrus) reverse engineering effort | 61 | <https://github.com/bootlin/linux-cedrus> |
+| dlss-nr-on-intel | Independent reimplementation of the DLSS neural rendering inference pass on an Intel iGPU | 58 | <https://github.com/Uzbekunknown/dlss-nr-on-intel> |
+| NVFC | Open-source tool for monitoring, configuring and overclocking NVIDIA GPUs | 50 | <https://github.com/graphitemaster/NVFC> |
 | mali-isa-docs | Reverse-engineered documentation of Arm Mali GPU shader ISAs | 43 | <https://github.com/cwabbott0/mali-isa-docs> |
+| tegra-re *(archived)* | Reverse engineering of NVIDIA's Tegra Linux driver | 36 | <https://github.com/kusma/tegra-re> |
 | blackwell-isa | Reverse-engineered ISA database for NVIDIA SM120 Blackwell GPUs | 16 | <https://github.com/kacper-daftcode/blackwell-isa> |
 | libvdpau-tegra | VDPAU video decode driver for NVIDIA Tegra built from reverse-engineered hardware | 16 | <https://github.com/grate-driver/libvdpau-tegra> |
 | etna-gpu-tools | Vivante GPU debugging and reverse-engineering tools from the etnaviv project | 4 | <https://github.com/etnaviv/etna-gpu-tools> |
@@ -350,17 +355,23 @@
 | dell-powermanager | Cross-platform Dell Power Manager reimplementation | 115 | <https://github.com/alexVinarskis/dell-powermanager> |
 | surface-aggregator-module | Linux drivers for the Microsoft Surface System Aggregator Module embedded controller | 106 | <https://github.com/linux-surface/surface-aggregator-module> |
 | asus-fan *(archived)* | Linux kernel module to read and set fan speeds on ASUS Zenbooks | 97 | <https://github.com/daringer/asus-fan> |
+| Open-Source-PC110 | Reconstructing the missing technical documentation of the IBM PC110 palmtop | 97 | <https://github.com/ahmadexp/Open-Source-PC110> |
 | IdeapadToolkit | Lightweight Lenovo Vantage alternative for the IdeaPad Flex 5 | 91 | <https://github.com/havlif/IdeapadToolkit> |
+| qnap8528 | Linux kernel module exposing the ITE8528 embedded controller on QNAP devices | 91 | <https://github.com/0xGiddi/qnap8528> |
 | Framework EC (DHowett) | Framework Laptop embedded controller firmware fork with ectool used by fan-control tools | 88 | <https://github.com/DHowett/framework-ec> |
 | surface-control | CLI to control Surface performance mode, dGPU power and clipboard detach on Linux | 83 | <https://github.com/linux-surface/surface-control> |
 | asus-ec-sensors | Linux hwmon driver reading ASUS motherboard sensors from the embedded controller | 78 | <https://github.com/zeule/asus-ec-sensors> |
 | Galaxy-Book4-Edge-linux | Linux driver and RE tools for the Samsung Galaxy Book4 Edge | 76 | <https://github.com/Saddytech/Galaxy-Book4-Edge-linux> |
+| predator-sense | Unofficial Linux hardware control for Acer Predator/Helios/Nitro laptops | 71 | <https://github.com/cleyton1986/predator-sense> |
 | yogabook-c930-linux-eink-driver | Reverse engineered Linux driver for the Lenovo Yoga Book C930 e-ink keyboard | 70 | <https://github.com/aleksb/yogabook-c930-linux-eink-driver> |
+| turbomem | Linux driver for the Intel Turbo Memory Controller PCIe card | 60 | <https://github.com/yarrick/turbomem> |
 | GhostDeck | Driver-free power and fan control for MSI laptops via EC/WMI | 58 | <https://github.com/wygodad/ghostdeck> |
 | init-headphone | Initializes the headphone amplifier found in some Clevo laptops on Linux | 57 | <https://github.com/Unrud/init-headphone> |
+| HallMonitor | Clean-room Galaxy S4 View Cover driver | 45 | <https://github.com/durka/HallMonitor> |
 | surface-dtx-daemon | Userspace daemon for the Surface Book detachment (DTX) system on Linux | 45 | <https://github.com/linux-surface/surface-dtx-daemon> |
 | qc71_laptop | Linux driver for QC71-based (Tongfang/XMG/Eluktronics) laptop EC features | 40 | <https://github.com/pobrn/qc71_laptop> |
 | MsiEcRamEditor | Edit and dump MSI laptop EC RAM via ACPI-WMI | 25 | <https://github.com/timschneeb/MsiEcRamEditor> |
+| OpenInputBridge | Clean-room, protocol-compatible reimplementation of the Interception keyboard/mouse driver | 25 | <https://github.com/Applet-LLC/OpenInputBridge> |
 | t2-better-audio | Audio configuration files for Apple T2 Macs running Linux | 18 | <https://github.com/kekrby/t2-better-audio> |
 | asus-fan-control-ec | Fan control for ASUS devices on Linux via direct EC access | 14 | <https://github.com/Keyitdev/asus-fan-control-ec> |
 | gigactl | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 7 | <https://github.com/smairio/gigactl> |
@@ -385,8 +396,12 @@
 | libfprint elan | libfprint driver for Elantech fingerprint sensors | 161 | <https://github.com/iafilatov/libfprint> |
 | synaTudor | Linux libfprint driver for Synaptics Tudor match-in-sensor fingerprint readers | 152 | <https://github.com/Popax21/synaTudor> |
 | Goodix92 *(archived)* | Reverse engineering the Goodix 27c6:5395 fingerprint sensor in Dell XPS 9570 | 104 | <https://github.com/IDerr/Goodix92> |
+| brother-in-arms | Brother printer drivers for ARM and Raspberry Pi | 80 | <https://github.com/alexivkin/brother-in-arms> |
 | open-fprintd | fprintd replacement allowing standalone backends such as python-validity | 79 | <https://github.com/uunicorn/open-fprintd> |
+| ql570 | Linux program for Brother QL-570/QL-700 label printers | 62 | <https://github.com/sudomesh/ql570> |
 | SpliX | CUPS driver for Samsung/Xerox SPL host-based laser printers | 51 | <https://github.com/OpenPrinting/splix> |
+| CatPrinterBLE | Implementation of the MXW01 cat thermal printer BLE protocol | 49 | <https://github.com/MaikelChan/CatPrinterBLE> |
+| PTouchHH | Brother P-Touch label printer reverse engineering and firmware work | 46 | <https://github.com/furrtek/PTouchHH> |
 | fingerprint-ocv | Linux driver for the FPC 10a5:9201 fingerprint sensor controller | 42 | <https://github.com/vrolife/fingerprint-ocv> |
 | goodix-fingerprint-reversing | Notes and tools from reverse engineering the Goodix 5110 fingerprint reader | 39 | <https://github.com/tlambertz/goodix-fingerprint-reversing> |
 | goodix53x5-libfprint | libfprint driver for the Goodix 27c6:5385 fingerprint sensor in the Dell XPS 13 7390 | 38 | <https://github.com/AndyHazz/goodix53x5-libfprint> |

@@ -1,16 +1,16 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md) · 290 projects
+[← All categories](../README.md) · 293 projects
 
 - [Bilibili](#bilibili) (51)
 - [Cloud Drives](#cloud-drives) (31)
 - [Douyin & Kuaishou](#douyin--kuaishou) (25)
-- [Games (miHoYo etc.)](#games-mihoyo-etc) (24)
+- [Games (miHoYo etc.)](#games-mihoyo-etc) (25)
 - [Japan & Korea](#japan--korea) (36)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
 - [Shopping & Services](#shopping--services) (19)
-- [WeChat & QQ](#wechat--qq) (52)
-- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (24)
+- [WeChat & QQ](#wechat--qq) (53)
+- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (25)
 
 ## Bilibili
 
@@ -162,6 +162,7 @@
 | Blue-Archive---Asset-Downloader *(archived)* | Blue Archive asset downloader | 127 | <https://github.com/K0lb3s-Datamines/Blue-Archive---Asset-Downloader> |
 | HollowPS | Zenless Zone Zero server emulator | 95 | <https://github.com/reversedrooms/HollowPS> |
 | hoyoapi | Unofficial HoYoLAB API wrapper library | 71 | <https://github.com/vermaysha/hoyoapi> |
+| Grasscutter *(archived)* | Anime game (Genshin Impact) server software reimplementation | 51 | <https://github.com/seiKiMo-Inc/Grasscutter> |
 
 ## Japan & Korea
 
@@ -316,6 +317,7 @@
 | pc-wechat-hook-http-api | PC WeChat hook service exposing HTTP and WebSocket APIs | 101 | <https://github.com/daenmax/pc-wechat-hook-http-api> |
 | wechat-ilink-client | TypeScript client for WeChat iLink bot protocol, reversed from openclaw-weixin | 82 | <https://github.com/photon-hq/wechat-ilink-client> |
 | androidqq-sniffer | Tools for sniffing the Android QQ protocol | 54 | <https://github.com/yggo/androidqq-sniffer> |
+| mmtls_demo | Demo implementation of the WeChat mmtls API protocol | 38 | <https://github.com/pawpawclaw/mmtls_demo> |
 | Konata.Core *(archived)* | C# implementation of the Android QQ protocol core | 32 | <https://github.com/KonataDev/Konata.Core> |
 
 ## Xiaohongshu & Weibo & Zhihu
@@ -346,3 +348,4 @@
 | WeiboApis | Reverse-engineered Weibo request algorithms | 61 | <https://github.com/cv-cat/WeiboApis> |
 | ZhihuApis | Reverse-engineered Zhihu request signing algorithms | 49 | <https://github.com/cv-cat/ZhihuApis> |
 | zhihuapi-py *(archived)* | Unofficial API for Zhihu | 46 | <https://github.com/syaning/zhihuapi-py> |
+| Huzai | Unofficial third-party Android client for the Hupu community | 23 | <https://github.com/Kanezikiiu/Huzai> |

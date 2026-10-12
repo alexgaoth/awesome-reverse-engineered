@@ -1,13 +1,13 @@
 # Mobile Apps
 
-[← All categories](../README.md) · 78 projects
+[← All categories](../README.md) · 85 projects
 
 - [Android Apps](#android-apps) (5)
-- [App Store Clients & Downloaders](#app-store-clients--downloaders) (22)
+- [App Store Clients & Downloaders](#app-store-clients--downloaders) (23)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (9)
+- [Fitness & Education Apps](#fitness--education-apps) (11)
 - [Other](#other) (1)
-- [Patched & Alternative Clients](#patched--alternative-clients) (31)
+- [Patched & Alternative Clients](#patched--alternative-clients) (35)
 - [Transport & Delivery Apps](#transport--delivery-apps) (5)
 - [iOS Dumping & Decryption](#ios-dumping--decryption) (2)
 
@@ -46,6 +46,7 @@
 | apkmirror-downloader | Downloads apps from APKMirror | 93 | <https://github.com/tanishqmanuja/apkmirror-downloader> |
 | ApplePackage | Swift library and CLI reimplementation of ipatool | 80 | <https://github.com/Lakr233/ApplePackage> |
 | SamsungApkDownloader | Downloads APKs from the Samsung Galaxy Store | 74 | <https://github.com/david-lev/SamsungApkDownloader> |
+| apkpure_get | APK downloader for apkpure.com | 61 | <https://github.com/0x27/apkpure_get> |
 | Aurora Store | Open-source Google Play client using the reverse-engineered Play protocol |  | <https://gitlab.com/AuroraOSS/AuroraStore> |
 
 ## Banking & Finance Apps
@@ -64,7 +65,9 @@
 | peloton-to-garmin | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | <https://github.com/philosowaffle/peloton-to-garmin> |
 | nrc-exporter | Downloads Nike Run Club runs via its private API and converts to GPX | 164 | <https://github.com/yasoob/nrc-exporter> |
 | garmin-connect *(archived)* | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | <https://github.com/abrander/garmin-connect> |
+| yazio-mcp | Unofficial MCP server for Yazio nutrition data | 64 | <https://github.com/fliptheweb/yazio-mcp> |
 | zwift-client | Python client for the Zwift mobile API | 62 | <https://github.com/jsmits/zwift-client> |
+| cronometer-api-mcp | MCP server for Cronometer nutrition tracking via the mobile REST API | 61 | <https://github.com/rwestergren/cronometer-api-mcp> |
 | mywhoosh-api | Unofficial API documentation for the MyWhoosh cycling app | 16 | <https://github.com/mywhoosh-community/mywhoosh-api> |
 | duobot | Duolingo automation built on the reverse-engineered Android app API | 4 | <https://github.com/mc51/duobot> |
 | pypeloton | Sync and async Python client for the Peloton API | 2 | <https://github.com/raman325/pypeloton> |
@@ -110,6 +113,10 @@
 | revanced-library | Shared utilities library for ReVanced tools | 140 | <https://github.com/ReVanced/revanced-library> |
 | GoogleDialerMod-Magisk *(archived)* | Magisk module tweaking Google Dialer hidden features | 136 | <https://github.com/jacopotediosi/GoogleDialerMod-Magisk> |
 | privacy-revanced-patches *(archived)* | ReVanced patches that disable ads, trackers and analytics in apps | 129 | <https://github.com/jkennethcarino/privacy-revanced-patches> |
+| Square | Unofficial YouTube Music / Spotify client for Android with audio effects | 126 | <https://github.com/Lelonio/Square> |
+| ForPDA | Alternative Android client for the 4pda.ru forum | 116 | <https://github.com/RadiationX/ForPDA> |
+| mitch | Unofficial Android client for itch.io | 116 | <https://github.com/gardenappl/mitch> |
+| anixapp | Fast anime client built on the Anixart API | 94 | <https://github.com/Maks1mio/anixapp> |
 | arcore-patch *(archived)* | Patch to run ARCore Preview 2 on unsupported devices | 85 | <https://github.com/thestr4ng3r/arcore-patch> |
 
 ## Transport & Delivery Apps

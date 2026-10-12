@@ -1,11 +1,11 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md) · 148 projects
+[← All categories](../README.md) · 167 projects
 
-- [Applications](#applications) (34)
-- [Binary Translators](#binary-translators) (10)
+- [Applications](#applications) (46)
+- [Binary Translators](#binary-translators) (11)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (9)
-- [OS & Compatibility Layers](#os--compatibility-layers) (44)
+- [OS & Compatibility Layers](#os--compatibility-layers) (50)
 - [Retro OS & Compatibility](#retro-os--compatibility) (51)
 
 ## Applications
@@ -40,6 +40,18 @@
 | electroportis | SGI ElectroPaint screensaver ported to Windows via decompilation | 132 | <https://github.com/drvink/electroportis> |
 | figma-linux-font-helper | Linux implementation of the Figma local font helper service | 127 | <https://github.com/tryvin/figma-linux-font-helper> |
 | LibreShockwave | Open-source SDK, decompiler and web player for Adobe Shockwave | 85 | <https://github.com/LibreShockwave/LibreShockwave> |
+| geowrite | Reconstructed source code of geoWrite 2.1 for the Commodore 64 | 69 | <https://github.com/mist64/geowrite> |
+| gnupoc-package | Patches and native Unix reimplementations of tools to use Symbian SDKs on Unix | 62 | <https://github.com/mstorsjo/gnupoc-package> |
+| bottle-fever | Clean-room clone of the Fever RSS aggregator API | 60 | <https://github.com/rcarmo/bottle-fever> |
+| intel80tools | Reconstruction of the Intel 8080 toolchain including PLM80, ASM80, LINK80 and ISIS 4.1 | 60 | <https://github.com/ogdenpm/intel80tools> |
+| OpenShockwave | Reverse engineering and re-implementation of Macromedia Shockwave | 60 | <https://github.com/Brian151/OpenShockwave> |
+| Scmpoo | Reverse engineering of STRAY SHEEP The Screen Mate, a 16-bit Windows application | 60 | <https://github.com/lwu309/Scmpoo> |
+| xcode-tools | Open-source reimplementation of Apple's Xcode command-line tools | 48 | <https://github.com/b-man/xcode-tools> |
+| digital-fauxice | Independent RGBI dust-and-scratch repair for the Nikon LS-5000 scanner (Digital ICE replacement) | 44 | <https://github.com/rohanpandula/digital-fauxice> |
+| openevv | Reimplementation of IBM Embedded ViaVoice / ETI Eloquence TTS in portable C | 40 | <https://github.com/Mudb0y/openevv> |
+| GlovePIEReverseEngineering | The GlovePIE decompilation effort | 39 | <https://github.com/GlovePIEPreservation/GlovePIEReverseEngineering> |
+| SQ8L | Faithful 64-bit port of the SQ8L Ensoniq SQ-80 emulation plugin | 37 | <https://github.com/sq8l-revival/SQ8L> |
+| ZuneShell.dll | Decompilations of the Zune desktop ZuneShell.dll, UIX.dll and UIXControls.dll | 34 | <https://github.com/ZuneDev/ZuneShell.dll> |
 | Mariana | ActionScript 3 runtime for .NET | 20 | <https://github.com/jfd16/Mariana> |
 | InstallerLG | A reimplementation of the LISP-like 'Installer' scripting language. | 19 | <https://github.com/sodero/InstallerLG> |
 | paper-rs | Clean-room Rust reimplementation of the Paper design app | 19 | <https://github.com/michaelshimeles/paper-rs> |
@@ -61,6 +73,7 @@
 | felix86 | x86-64 userspace emulator for RISC-V Linux | 699 | <https://github.com/OFFTKP/felix86> |
 | bin2llvm | Binary to LLVM IR translator | 159 | <https://github.com/cojocar/bin2llvm> |
 | binrec-tob | Dynamic binary lifting and recompilation | 152 | <https://github.com/trailofbits/binrec-tob> |
+| epanos | MIPS to C decompiler for the SGI ElectroPaint program | 74 | <https://github.com/drvink/epanos> |
 
 ## Flash, Shockwave & Legacy Runtimes
 
@@ -119,7 +132,13 @@
 | InputFusion | Reimplementation of XInput and other gamepad APIs over SDL3 | 101 | <https://github.com/xan105/InputFusion> |
 | cmd | Faithful reimplementation of the Windows cmd.exe interpreter | 94 | <https://github.com/ChenPi11/cmd> |
 | dmusic | Partial re-implementation of Microsoft's DirectMusic adaptive soundtrack API | 62 | <https://github.com/GothicKit/dmusic> |
+| Mirage | Reimplementation of the Nintendo Switch firmware | 60 | <https://github.com/mirage-rs/Mirage> |
+| dui70 | Reverse engineering the undocumented Windows UI library dui70.dll | 57 | <https://github.com/seven-mile/dui70> |
 | 2ine | OS/2 compatibility layer for running OS/2 binaries on Linux | 52 | <https://github.com/icculus/2ine> |
+| Saturnus | Open-source reimplementation of the Nintendo Switch Horizon microkernel | 48 | <https://github.com/vbe0201/Saturnus> |
+| CallCbsCore | Calling the undocumented Windows Component Based Servicing (CBS) API | 41 | <https://github.com/seven-mile/CallCbsCore> |
+| OpenWebView2Loader | Open-source reimplementation of the Microsoft WebView2Loader | 37 | <https://github.com/jchv/OpenWebView2Loader> |
+| DWM | Decompilation of Windows 7's Desktop Window Manager (dwm.exe and uDWM.dll) | 23 | <https://github.com/Adrikikicp2/DWM> |
 | re-a3d-api | Reverse-engineered C++ Aureal 3D audio API interface from 1999 | 4 | <https://github.com/oxiKKK/re-a3d-api> |
 | ndiswrapper | Loads Windows NDIS Wi-Fi drivers in the Linux kernel |  | <https://sourceforge.net/projects/ndiswrapper> |
 | vkd3d | WineHQ Direct3D 12 to Vulkan translation library |  | <https://gitlab.winehq.org/wine/vkd3d> |

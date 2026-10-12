@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md) · 315 projects
+[← All categories](../README.md) · 334 projects
 
 - [Camera Firmware](#camera-firmware) (18)
-- [Custom Firmware](#custom-firmware) (91)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (77)
+- [Custom Firmware](#custom-firmware) (104)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (82)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (60)
-- [Routers & Network Gear](#routers--network-gear) (69)
+- [Routers & Network Gear](#routers--network-gear) (70)
 
 ## Camera Firmware
 
@@ -86,6 +86,7 @@
 | rtl8196e-gateway | Open-source Linux firmware for RTL8196E smart home gateways like Lidl Silvercrest | 216 | <https://github.com/jnilo1/rtl8196e-gateway> |
 | uv-k5-firmware-custom (OneOfEleven) | Customized Quansheng UV-K5 firmware based on DualTachyon's reimplementation | 200 | <https://github.com/OneOfEleven/uv-k5-firmware-custom> |
 | OpenPineBuds | Community-maintained open firmware for PineBuds Pro | 198 | <https://github.com/pine64/OpenPineBuds> |
+| project-stellar | Original Xbox add-on whose StellarOS is a clean re-implementation of the retail Xbox BIOS | 196 | <https://github.com/MakeMHz/project-stellar> |
 | RS41ng | Custom firmware for Vaisala RS41 and Graw DFM-17 radiosondes | 194 | <https://github.com/mikaelnousiainen/RS41ng> |
 | esp8266-midea-dehumidifier | Cloud-free wifi dehumidification | 191 | <https://github.com/Hypfer/esp8266-midea-dehumidifier> |
 | Arilux_AL-LC0X *(archived)* | Alternative MQTT firmware for Arilux LED controllers | 187 | <https://github.com/SamZorSec/Arilux_AL-LC0X> |
@@ -105,6 +106,7 @@
 | flipperzero-protobuf | Protobuf definitions for the Flipper Zero RPC protocol | 104 | <https://github.com/flipperdevices/flipperzero-protobuf> |
 | seagate-blackarmor-nas | Reverse engineered technical data and Debian alternative firmware for Seagate BlackArmor NAS | 100 | <https://github.com/hn/seagate-blackarmor-nas> |
 | hackiebox_cfw | Custom firmware for the CC3200-based Toniebox | 98 | <https://github.com/toniebox-reverse-engineering/hackiebox_cfw> |
+| NanoApps | Run and build homebrew apps on the iPod nano 7th generation | 92 | <https://github.com/nfzerox/NanoApps> |
 | DVRPwned | First custom firmware for the Sony PSX DESR DVRP | 90 | <https://github.com/pcm720/dvrpwned> |
 | bcm5719-fw | Open reimplementation of the Broadcom BCM5719 NIC firmware | 87 | <https://github.com/meklort/bcm5719-fw> |
 | gt3b | Alternative firmware for the FlySky FS-GT3B RC transmitter | 86 | <https://github.com/semerad/gt3b> |
@@ -113,10 +115,21 @@
 | xiaomi-hyperos-bootloader-unlock | HyperOS/MIUI bootloader unlock via RPMB erase, LK reverse-engineered with Ghidra | 70 | <https://github.com/Jz8Root/xiaomi-hyperos-bootloader-unlock> |
 | rt-4d-fw-beta | Fully reverse engineered firmware builds for the Radtel RT-4D radio | 68 | <https://github.com/DualTachyon/rt-4d-fw-beta> |
 | b3603 | Alternative firmware for the B3603 power supply module | 66 | <https://github.com/baruch/b3603> |
+| catgenius | Alternative firmware for the CatGenie 120 litter box | 64 | <https://github.com/CatGenius/catgenius> |
 | esp8266-deerma-humidifier | Custom firmware to uncloud the Xiaomi Mi Smart Antibacterial Humidifier | 64 | <https://github.com/Hypfer/esp8266-deerma-humidifier> |
 | zd-20u | Alternative firmware for the ZD-20U USB soldering iron | 62 | <https://github.com/ole00/zd-20u> |
+| orsala_hack | Alternative firmware for the IKEA ORSALA lamp | 60 | <https://github.com/j-zero/orsala_hack> |
+| launchpad-core-firmware | Rust-based custom firmware for the Novation Launchpad series | 59 | <https://github.com/anthonyhfm/launchpad-core-firmware> |
+| gc-ipl | Open-source GameCube IPL (boot ROM) | 58 | <https://github.com/ogamespec/gc-ipl> |
+| DragonBreath | Open ESP-IDF firmware for the BIGTREETECH Panda Breath chamber heater | 57 | <https://github.com/plastikman/DragonBreath> |
 | radtel-rt-890-oefw *(archived)* | Open firmware for the Radtel RT-890 reversed from the stock 1.34 firmware | 57 | <https://github.com/DualTachyon/radtel-rt-890-oefw> |
+| gm328a_rev_eng | Reverse engineering of the GM328A transistor tester firmware | 56 | <https://github.com/robsoncouto/gm328a_rev_eng> |
+| riden-dongle | Alternative firmware for the Riden WiFi module with Modbus TCP and SCPI | 56 | <https://github.com/morgendagen/riden-dongle> |
+| linkplay-a31 | Alternative OpenWrt firmware for the Linkplay A31 WiFi audio module | 55 | <https://github.com/hn/linkplay-a31> |
+| AI-Thinker_RGBW_Bulb *(archived)* | Alternative MQTT firmware for AI-Thinker RGBW bulbs | 52 | <https://github.com/SamZorSec/AI-Thinker_RGBW_Bulb> |
+| Dynaban | Alternative firmware for Dynamixel servos | 52 | <https://github.com/RhobanProject/Dynaban> |
 | wdmc2-kernel | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | <https://github.com/Heisath/wdmc2-kernel> |
+| osos-lab | RepriseOS: patches and reverse engineering that add features to Apple's iPod firmware | 45 | <https://github.com/lgreitis/osos-lab> |
 | rpi-open-firmware | Open-source VideoCore firmware for the Raspberry Pi | 40 | <https://github.com/christinaa/rpi-open-firmware> |
 | pluto-firmware-modifications | Tools and docs for modifying the ADI ADALM-Pluto SDR firmware | 36 | <https://github.com/daniestevez/pluto-firmware-modifications> |
 | SGS01BTHome | Custom firmware for the Tuya SGS01 soil sensor to send data in standard BTHome format | 28 | <https://github.com/haraldapp/SGS01BTHome> |
@@ -201,6 +214,11 @@
 | ida-efitools | IDA Pro scripts to assist reverse engineering EFI binaries | 80 | <https://github.com/theskyabovetheport/ida-efitools> |
 | am335xbootrom | Reverse engineering the TI AM3358 boot ROM | 67 | <https://github.com/sjgallagher2/am335xbootrom> |
 | prjcombine *(archived)* | FPGA reverse engineering and bitstream documentation project | 66 | <https://github.com/prjunnamed/prjcombine> |
+| SharpOdinClient | .NET library to talk to Samsung Android devices in download (Odin) mode for flashing | 59 | <https://github.com/Alephgsm/SharpOdinClient> |
+| fastboot-oem-extractor | Extract hidden fastboot oem commands from firmware blobs | 58 | <https://github.com/chkndrp/fastboot-oem-extractor> |
+| FimiX8-SDFG | SD-card-flashable firmware generator for the Fimi X8 SE drone | 56 | <https://github.com/wischbgr/FimiX8-SDFG> |
+| imx-nand-tools | Firmware reverse engineering tools for i.MX NAND flash | 55 | <https://github.com/DigitalSecurity/imx-nand-tools> |
+| aixun_t3a_rev | Reverse engineering of the AIXUN T3A soldering station | 54 | <https://github.com/c0d3z3r0/aixun_t3a_rev> |
 | 8cryptdo | Reverse-engineered docs and tools for 8BitDo firmware encryption | 38 | <https://github.com/aeromodes/8cryptdo> |
 | AMT630A | Reverse-engineered AMT630A display controller from a cheap backup camera screen | 38 | <https://github.com/mogrinz/AMT630A> |
 | insta360-go-firmware-tool | Unofficial firmware tool for Insta360 GO 2/3/3S cameras | 36 | <https://github.com/enekochan/insta360-go-firmware-tool> |
@@ -331,6 +349,7 @@
 | FIOS-G1100 | Reverse engineering information for the Verizon FIOS-G1100 router | 71 | <https://github.com/ozwaldorf/FIOS-G1100> |
 | huawei-utility-page | Web page with utility tools for Huawei LTE routers | 68 | <https://github.com/andreluis034/huawei-utility-page> |
 | FreshTomato (MIPS) | Alternative open-source firmware for Broadcom-based MIPS routers | 61 | <https://github.com/FreshTomato-Project/freshtomato-mips> |
+| ZTE-MC-Home-assistant-repo | Home Assistant integration for ZTE MC801A, MC888, MC889 and G5 5G routers | 57 | <https://github.com/Kajkac/ZTE-MC-Home-assistant-repo> |
 | cavium-cn6640 SmartNIC | Reverse-engineered Cavium Octeon II SmartNIC into a working 10GbE card on Linux | 51 | <https://github.com/nicologiuliani6/cavium-cn6640-snic10e-octeon-ii-nic> |
 | tplink-omada-api | Python client for the TP-Link Omada controller API | 43 | <https://github.com/MarkGodwin/tplink-omada-api> |
 | eternalegypt | Python API for Netgear LTE modems | 36 | <https://github.com/amelchio/eternalegypt> |

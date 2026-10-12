@@ -1,14 +1,14 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md) · 662 projects
+[← All categories](../README.md) · 683 projects
 
-- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (44)
-- [Chatbot Web APIs](#chatbot-web-apis) (168)
-- [Chinese LLM Web APIs](#chinese-llm-web-apis) (47)
-- [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (235)
-- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (57)
+- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (45)
+- [Chatbot Web APIs](#chatbot-web-apis) (174)
+- [Chinese LLM Web APIs](#chinese-llm-web-apis) (48)
+- [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (243)
+- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (61)
 - [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (57)
-- [Other AI](#other-ai) (25)
+- [Other AI](#other-ai) (26)
 - [System Prompt Leaks & Extractions](#system-prompt-leaks--extractions) (29)
 
 ## AI Hardware & On-device Models
@@ -28,6 +28,7 @@
 | v831-npu | Reverse engineering the Allwinner V831 NPU | 95 | <https://github.com/mtx512/v831-npu> |
 | plaud-sync-for-obsidian | Obsidian plugin syncing Plaud recordings via reverse-engineered API | 89 | <https://github.com/leonardsellem/plaud-sync-for-obsidian> |
 | codex-micro-4-core2 | Unofficial BLE Codex Micro firmware turning M5Stack Core2 into a ChatGPT Desktop controller | 78 | <https://github.com/imliubo/codex-micro-4-core2> |
+| npunlock | Write and run custom C kernels on Intel Core Ultra NPUs | 65 | <https://github.com/hsfzxjy/npunlock> |
 | rokid-docs | Community docs for Rokid AR glasses incl. YodaOS internals and reverse-engineered details | 51 | <https://github.com/buildwithfenna/rokid-docs> |
 | plaud-toolkit | TypeScript library, CLI and MCP server for the Plaud API | 44 | <https://github.com/sergivalverde/plaud-toolkit> |
 | mabl *(archived)* | Modular assistant replacing Humane's cloud assistant on the jailbroken Ai Pin | 41 | <https://github.com/PenumbraOS/mabl> |
@@ -154,6 +155,7 @@
 | claude2api-deploy | Claude.ai web to API proxy | 153 | <https://github.com/realnoob007/claude2api-deploy> |
 | EdgeGPT-Go | Go port of the reverse engineered Bing Chat API with gRPC and CLI | 151 | <https://github.com/pavel-one/EdgeGPT-Go> |
 | grok2api | Grok web to OpenAI API reverse proxy | 151 | <https://github.com/aurora-develop/grok2api> |
+| GPT_scraper | Scrapes full ChatGPT user history through the hidden frontend backend API | 138 | <https://github.com/rodolflying/GPT_scraper> |
 | llm-web-api | Converts the ChatGPT web page into an API | 137 | <https://github.com/adryfish/llm-web-api> |
 | perplexity-webui-scraper | Python client, MCP server and REST API for Perplexity web UI | 136 | <https://github.com/henrique-coder/perplexity-webui-scraper> |
 | grok2api_new | Grok web reverse proxy to OpenAI API with multi-account pooling | 135 | <https://github.com/Tomiya233/grok2api_new> |
@@ -183,6 +185,7 @@
 | edgegpt *(archived)* | Reverse engineering of the new Bing chat feature (Node.js) | 77 | <https://github.com/KeJunMao/edgegpt> |
 | apibeam | Converts a ChatGPT or Claude web account into an API | 76 | <https://github.com/NiteshSingh17/apibeam> |
 | chatgpt-web-voice | Reverse-engineered ChatGPT.com web voice (realtime WebRTC + DataChannel) protocol | 76 | <https://github.com/dyhhhhhh/chatgpt-web-voice> |
+| unofficial-chatgpt-api | Node.js client for the ChatGPT web API | 76 | <https://github.com/abacaj/unofficial-chatgpt-api> |
 | openplayground-api *(archived)* | Reverse engineered Python wrapper for OpenPlayground (nat.dev) | 74 | <https://github.com/ading2210/openplayground-api> |
 | Claude2api | Claude.ai web to API proxy | 69 | <https://github.com/aurora-develop/Claude2api> |
 | PoeAPI | Self-hostable reverse engineered Poe.com API | 69 | <https://github.com/aspekts/PoeAPI> |
@@ -190,12 +193,14 @@
 | DuckDuckGo-AI | DuckDuckGo AI chat reverse engineered API on Cloudflare Workers | 64 | <https://github.com/HuggingBear/DuckDuckGo-AI> |
 | GLM-Free-API | Reverse-engineered Zhipu ChatGLM web API with streaming and agent support | 63 | <https://github.com/xiaoY233/GLM-Free-API> |
 | gemini-webapi-mcp | MCP server for Gemini web via browser cookies (chat and image generation) | 59 | <https://github.com/AndyShaman/gemini-webapi-mcp> |
+| Grok3API | Async Python client for the Grok mobile private gRPC API | 59 | <https://github.com/boykopovar/Grok3API> |
 | node-character.ai *(archived)* | Unofficial API wrapper for Character.AI | 58 | <https://github.com/RichardDorian/node-character.ai> |
 | CAINode | Lightweight unofficial Character.AI API for Node.js, Deno and Bun | 57 | <https://github.com/KevinAdhaikal/CAINode> |
 | chat2api | Simple framework for reversing web chat services into APIs | 57 | <https://github.com/qy527145/chat2api> |
 | cto | Proxies cto.new chat into OpenAI ChatCompletion format | 57 | <https://github.com/Luotianyi-0712/cto> |
 | Gemini-1.5-Pro AI Studio Reverse Engineered API | Reverse engineered Google AI Studio endpoint for Gemini 1.5 Pro | 57 | <https://github.com/SreejanPersonal/Gemini-1.5-Pro-Google-AI-Studio-Reverse-Engineered-API> |
 | geminiweb2api | OpenAI-compatible proxy for the Gemini web app | 55 | <https://github.com/XxxXTeam/geminiweb2api> |
+| LlM-Api-Open | Unofficial open APIs for ChatGPT and Microsoft Copilot with self-hosting | 44 | <https://github.com/F33RNI/LlM-Api-Open> |
 | pi-oracle | ChatGPT and Grok web-session oracle extension for the Pi agent | 39 | <https://github.com/fitchmultz/pi-oracle> |
 | Gemini-Chat-API | Unofficial API for interacting with Google Gemini web chat | 38 | <https://github.com/OEvortex/Gemini-Chat-API> |
 | claude-ai-re-client | CLI client built on Claude.ai's reverse-engineered HTTPS completion API | 37 | <https://github.com/Adithyan-Defender/claude-ai-re-client> |
@@ -203,10 +208,12 @@
 | pi-perplexity | Pi extension searching via your Perplexity Pro/Max web subscription | 32 | <https://github.com/ivanrvpereira/pi-perplexity> |
 | grok2api | FastAPI Grok2API compatible with OpenAI calls | 31 | <https://github.com/sodikinnaa/grok2api> |
 | MetaAI-Free-Hermes-Agent | Runs Meta AI's web model in Hermes Agent without API keys | 29 | <https://github.com/compnew2006/MetaAI-Free-Hermes-Agent> |
+| Perplexity-Reverse-Engineered-API | Reverse-engineered Perplexity API client in Python over WebSocket | 28 | <https://github.com/SreejanPersonal/Perplexity-Reverse-Engineered-API> |
 | grok2api-pro | Grok web to OpenAI-style API with image/video generation and account pool | 27 | <https://github.com/miuzhaii/grok2api-pro> |
 | chatgptproxy | ChatGPT web to OpenAI API proxy with Sentinel PoW solver | 25 | <https://github.com/acruz6421-bot/chatgptproxy> |
 | gemini-claude-web2api | OpenAI-compatible proxy for Gemini and Claude web APIs via cookie auth | 24 | <https://github.com/cyberanrhy/gemini-claude-web2api> |
 | prism2api | Reverse-engineered Python API for prism.openai.com | 24 | <https://github.com/Robinfxa/prism2api> |
+| Gemini-Reverse | Unofficial Node.js client for gemini.google.com | 23 | <https://github.com/rynn-k/Gemini-Reverse> |
 | EdgeGPT *(archived)* | Bing AI chatbot WebSocket API wrapper for PHP | 22 | <https://github.com/IhsanDevs/EdgeGPT> |
 | grokforge | Go rewrite of grok2api (Grok web to API) | 22 | <https://github.com/crmmc/grokforge> |
 | EdgeGPTJs | Node.js port of the reverse-engineered EdgeGPT Bing Chat API | 21 | <https://github.com/lonelam/EdgeGPTJs> |
@@ -267,6 +274,7 @@
 | qwen2api (map-A) | chat.qwen.ai web to OpenAI API | 38 | <https://github.com/map-A/qwen2api> |
 | doubao-free-api | Wraps the Doubao desktop client as an OpenAI-compatible API | 34 | <https://github.com/5201213/doubao-free-api> |
 | doubao2API (HongYan789) | Reverse-engineered Doubao web API gateway | 34 | <https://github.com/HongYan789/doubao2API> |
+| DeepSeek-API-Unofficial-v2 | Unofficial reverse-engineered API for DeepSeek Chat and Coder | 32 | <https://github.com/SreejanPersonal/DeepSeek-API-Unofficial-v2> |
 | deepseek-web-api | Unofficial local OpenAI-compatible API for DeepSeek web sessions | 30 | <https://github.com/kittors/deepseek-web-api> |
 | KimiFreeAPI | OpenAI-compatible free API for Kimi web | 29 | <https://github.com/izaart95-jpg/KimiFreeAPI> |
 | qwen-free-api-worker | Cloudflare Worker exposing chat.qwenlm.ai as an OpenAI-compatible API | 28 | <https://github.com/aigem/qwen-free-api-worker> |
@@ -402,8 +410,10 @@
 | llm-openai-via-codex | Reverse-engineered Codex CLI auth to call OpenAI models via a Codex subscription | 114 | <https://github.com/simonw/llm-openai-via-codex> |
 | AntigravityProxyLauncher | DYLD-injection transparent proxy for Antigravity/Gemini with MITM of AI traffic | 106 | <https://github.com/OpsinTech/AntigravityProxyLauncher> |
 | xcode-copilot-server | GitHub Copilot proxy for Xcode with Claude Agent and Codex Agent support | 105 | <https://github.com/theblixguy/xcode-copilot-server> |
+| zcode-cli | Unofficial terminal client for the agent runtime shipped with ZCode Desktop | 101 | <https://github.com/kingsword09/zcode-cli> |
 | claude-codex | Adapter letting the Codex desktop app drive Claude Code via the Codex app-server protocol | 99 | <https://github.com/fuergaosi233/claude-codex> |
 | clodex | Bridges Claude Code to OpenAI models via API key or ChatGPT/Codex-plan OAuth | 99 | <https://github.com/bman654/clodex> |
+| zemote | Remote control client for ZCode Desktop on phones and tablets, built by replicating its protocol | 99 | <https://github.com/HumanAILoop/zemote> |
 | cursoride2api | Tutorial on reverse engineering the Cursor IDE API | 96 | <https://github.com/7836246/cursoride2api> |
 | claude-meter | Reverse engineering Claude Code usage limits to track remaining quota | 91 | <https://github.com/abhishekray07/claude-meter> |
 | claude-code-source-analysis (xiaonancs) | Architecture breakdown of 23 Claude Code subsystems from source study | 90 | <https://github.com/xiaonancs/claude-code-source-analysis> |
@@ -413,6 +423,8 @@
 | kiro2api | Kiro to Anthropic/OpenAI API proxy | 83 | <https://github.com/nineyuanz/kiro2api> |
 | cursor-grpc | Reverse engineered Cursor IDE gRPC / protobuf definitions | 81 | <https://github.com/Jordan-Jarvis/cursor-grpc> |
 | antigravity-proxy *(archived)* | Gateway exposing Google Antigravity's internal Gemini and Claude APIs | 79 | <https://github.com/frieser/antigravity-proxy> |
+| Antigravity-Database-Manager | Database manager and recovery tool for the Google Antigravity IDE conversation store | 76 | <https://github.com/ag-donald/Antigravity-Database-Manager> |
+| antigravity-add-model | Patch for Google Antigravity that intercepts its internal Cloud Code API to add other LLM providers | 75 | <https://github.com/vahapogut/antigravity-add-model> |
 | cursor-tab *(archived)* | Protocol Buffers definitions for Cursor Tab | 75 | <https://github.com/wisdgod/cursor-tab> |
 | Cursor2API | Lightweight gateway exposing Cursor's tools/models as an API | 75 | <https://github.com/NGLSG/Cursor2API> |
 | cursor_api_demo | Cursor IDE backend endpoint API reverse engineered (v2.6.22) | 73 | <https://github.com/eisbaw/cursor_api_demo> |
@@ -422,8 +434,10 @@
 | codex-app-linux | Unofficial Codex App for Linux with npm, AUR and Nix packaging | 66 | <https://github.com/better-slop/codex-app-linux> |
 | qoder2api | Converts Qoder AI service to OpenAI/Claude/Codex-format API | 64 | <https://github.com/Zhengyuuuui/qoder2api> |
 | cursor-agent-api-proxy | Wraps Cursor CLI as an OpenAI-compatible API for any client | 63 | <https://github.com/tageecc/cursor-agent-api-proxy> |
+| cursor-opencode-auth | Use a Cursor account inside the OpenCode TUI | 63 | <https://github.com/Infiland/cursor-opencode-auth> |
 | copilot-api (prassaaa) | Exposes GitHub Copilot as OpenAI/Anthropic-compatible API for Claude Code | 62 | <https://github.com/prassaaa/copilot-api> |
 | kirocc | Local proxy forwarding Anthropic Messages API calls to Kiro's backend using Kiro CLI credentials | 62 | <https://github.com/d-kuro/kirocc> |
+| cc-copilot-bridge | Route Claude Code CLI through a Copilot subscription, Ollama or Anthropic | 61 | <https://github.com/FlorianBruniaux/cc-copilot-bridge> |
 | copilot-openai-api | FastAPI proxy turning GitHub Copilot chat completions/embeddings into an OpenAI-compatible service | 60 | <https://github.com/yuchanns/copilot-openai-api> |
 | coxy | GitHub Copilot exposed as OpenAI-compatible APIs | 60 | <https://github.com/coxy-proxy/coxy> |
 | cursor-rpc | Reverse engineered RPC client for Cursor.sh cloud services | 60 | <https://github.com/everestmz/cursor-rpc> |
@@ -432,6 +446,7 @@
 | claude-code-reverse | Reverse analysis of Claude Code | 58 | <https://github.com/injekt/claude-code-reverse> |
 | antigravity-proxy *(archived)* | Intercepts Google Antigravity IDE API calls to use your own Gemini key | 57 | <https://github.com/elad12390/antigravity-proxy> |
 | Codex-App-Linux | Codex App (macOS) ported to Linux | 57 | <https://github.com/areu01or00/Codex-App-Linux> |
+| codex-asr | Unofficial CLI and Whisper-compatible shim for Codex Desktop speech recognition | 57 | <https://github.com/Wangnov/codex-asr> |
 | qoder-proxy | OpenAI API wrapper around the Qoder CLI | 57 | <https://github.com/foxy1402/qoder-proxy> |
 | AgentHub | Reverse proxy turning local Trae, WorkBuddy and Zcode into OpenAI API | 56 | <https://github.com/HUIdada1/AgentHub> |
 | claw-decode | Decodes leaked Claude Code source: hidden features, 43 tool definitions, system prompts | 56 | <https://github.com/fattail4477/claw-decode> |
@@ -470,6 +485,7 @@
 | cursor-api | Cursor chat API reverse proxy | 24 | <https://github.com/zeke-chin/cursor-api> |
 | kiro-proxy | Kiro API proxy with OpenAI and Anthropic compatible endpoints | 24 | <https://github.com/Colin3191/kiro-proxy> |
 | claude-agent-sdk-go (schlunsen) | Go port of the Claude Agent SDK driving the Claude Code CLI protocol | 23 | <https://github.com/schlunsen/claude-agent-sdk-go> |
+| minimax-agent-linux | Unofficial Linux port of the MiniMax Agent desktop app | 22 | <https://github.com/unn-Known1/minimax-agent-linux> |
 | trae-api-proxy | Go proxy bridging the Trae IDE API to the OpenAI standard API | 22 | <https://github.com/muskke/trae-api-proxy> |
 | claude-agent-sdk-go (Roasbeef) | Go SDK for Claude Code with tool use, MCP and streaming | 20 | <https://github.com/Roasbeef/claude-agent-sdk-go> |
 | copilot-proxy-go | Go server turning GitHub Copilot into OpenAI/Anthropic-compatible API | 20 | <https://github.com/tonghaoch/copilot-proxy-go> |
@@ -568,13 +584,17 @@
 | IdeogramWrapper | Python wrapper for Ideogram image generation | 76 | <https://github.com/flowese/IdeogramWrapper> |
 | craiyon.py | Unofficial API wrapper for Craiyon image generation | 70 | <https://github.com/FireHead90544/craiyon.py> |
 | suno-api-private | Suno API with JWT token authentication support | 69 | <https://github.com/joeseesun/suno-api-private> |
+| bingart | Unofficial async API wrapper for Bing Image and Video Creator | 58 | <https://github.com/DedInc/bingart> |
 | suno-cli | Terminal client for Suno music generation | 58 | <https://github.com/paperfoot/suno-cli> |
 | Comfyui-GeminiWeb | ComfyUI node using the Gemini web API for image generation and chat | 52 | <https://github.com/Koko-boya/Comfyui-GeminiWeb> |
 | dreamina-api | Dreamina (CapCut AI) image generation API on Cloudflare Workers | 49 | <https://github.com/LiJunYi2/dreamina-api> |
 | Suno-API | Unofficial Suno AI API | 48 | <https://github.com/imyizhang/Suno-API> |
+| Lexica.art | Reverse-engineered Python API wrapper for Lexica.art image generation | 41 | <https://github.com/NotCookey/Lexica.art> |
 | py-midjourney-proxy | Python Midjourney Discord proxy | 41 | <https://github.com/Anychnn/py-midjourney-proxy> |
+| stable-diffusion-xl-api | Reverse-engineered API for Stable Diffusion XL 1.0 text-to-image | 41 | <https://github.com/KoushikNavuluri/stable-diffusion-xl-api> |
 | wombot | Unofficial API and Discord bot for Wombo Dream art generation | 34 | <https://github.com/adri326/wombot> |
 | suno-ai | JavaScript API for generating songs on suno.ai | 26 | <https://github.com/hissincn/suno-ai> |
+| Msdesigner-api *(archived)* | Reverse-engineered API for Microsoft Designer image generation | 25 | <https://github.com/imnotdev25/Msdesigner-api> |
 | suno-ai-proxy | Unofficial Suno AI Node.js API | 23 | <https://github.com/MelohubAI/suno-ai-proxy> |
 | flow2api (HL320217) | Multi-user platform over the Google Flow / Labs FX protocol for image and video | 20 | <https://github.com/HL320217/flow2api> |
 | suno-mcp | MCP server for generating songs through Suno's web API | 14 | <https://github.com/CodeKeanu/suno-mcp> |
@@ -671,6 +691,7 @@
 | ModelLink | Local proxy routing third-party models through Claude Desktop | 140 | <https://github.com/Win-Hao/ModelLink> |
 | Claude-Conversation-Exporter | Chrome extension for bulk-exporting Claude.ai conversations | 128 | <https://github.com/socketteer/Claude-Conversation-Exporter> |
 | reverse-SynthID-text | Reverse engineering Google's SynthID text watermarking | 127 | <https://github.com/aloshdenny/reverse-SynthID-text> |
+| snowman | Reimplementation of the Snowboy hotword detection engine | 96 | <https://github.com/Thalhammer/snowman> |
 | claude-chromium-native-messaging | Makes Claude in Chrome's native messaging work in Brave, Arc, Vivaldi, Edge | 82 | <https://github.com/stolot0mt0m/claude-chromium-native-messaging> |
 | openai-sentinel | Generates ChatGPT/Sora Sentinel and proof-of-work tokens | 78 | <https://github.com/leetanshaj/openai-sentinel> |
 | chatgpt-rtl | RTL and UI patcher for the ChatGPT desktop application | 58 | <https://github.com/mmnaderi/chatgpt-rtl> |

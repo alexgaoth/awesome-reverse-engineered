@@ -1,17 +1,17 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md) · 369 projects
+[← All categories](../README.md) · 377 projects
 
 - [Aviation & Marine](#aviation--marine) (29)
 - [Casting & TV Remotes](#casting--tv-remotes) (40)
 - [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (22)
 - [Digital Voice Radio](#digital-voice-radio) (13)
 - [Email & Groupware](#email--groupware) (22)
-- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (23)
+- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (24)
 - [Legacy IM Revival](#legacy-im-revival) (2)
 - [Messaging Protocols](#messaging-protocols) (16)
-- [Other Protocols](#other-protocols) (11)
-- [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (35)
+- [Other Protocols](#other-protocols) (17)
+- [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (36)
 - [Radio & SDR Protocols](#radio--sdr-protocols) (60)
 - [Satellite Downlinks](#satellite-downlinks) (32)
 - [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (42)
@@ -195,6 +195,7 @@
 | go-smb2 | SMB2/3 client library written in Go | 410 | <https://github.com/hirochachacha/go-smb2> |
 | smbprotocol | Python SMBv2/v3 client implementation | 401 | <https://github.com/jborean93/smbprotocol> |
 | ksmbd | In-kernel Linux SMB3 server | 373 | <https://github.com/namjaejeon/ksmbd> |
+| moonlight-windows *(archived)* | NVIDIA GameStream client for Windows Phone (discontinued) | 82 | <https://github.com/moonlight-stream/moonlight-windows> |
 
 ## Legacy IM Revival
 
@@ -235,8 +236,14 @@
 | sspks | Simple Synology package server reverse engineered from the official package repository protocol | 279 | <https://github.com/jdel/sspks> |
 | HelicopterDemod | Reverse-engineered news helicopter downlink radio protocol from audio in video | 168 | <https://github.com/proto17/HelicopterDemod> |
 | OpenChirp | Reverse engineered implementation of the Chirp data-over-audio protocol | 108 | <https://github.com/cawfree/OpenChirp> |
+| android-universal-reader | Android NFC reader demo for Apple VAS and Google Smart Tap protocols | 87 | <https://github.com/kormax/android-universal-reader> |
+| AirVideo | Ruby library for interacting with an AirVideo server | 75 | <https://github.com/jphastings/AirVideo> |
 | open-ds | Reverse engineered lightweight cross-platform FRC Driver Station | 60 | <https://github.com/Boomaa23/open-ds> |
+| openfsd | Open FSD multiplayer flight simulation network server | 57 | <https://github.com/renorris/openfsd> |
+| ez-sniff | Demodulate and dissect RF packets from E-ZPass toll transponders | 56 | <https://github.com/kwesthaus/ez-sniff> |
 | wow_messages | Auto generated messages for the World of Warcraft network protocol | 53 | <https://github.com/gtker/wow_messages> |
+| nokd | Reverse engineering and reimplementation of the Windows NT kernel debugger protocol | 44 | <https://github.com/irql/nokd> |
+| Wow-wireshark-dissector | World of Warcraft Wireshark dissector | 40 | <https://github.com/chaodhib/Wow-wireshark-dissector> |
 | wow_srp | Library for World of Warcraft flavor of SRP6 authentication. | 19 | <https://github.com/gtker/wow_srp> |
 | project-mayhem | Reverse-engineered Streamate webcam protocol; native client | 7 | <https://github.com/giannitedesco/project-mayhem> |
 
@@ -274,6 +281,7 @@
 | SAP Wireshark dissectors | Wireshark dissectors for proprietary SAP NI, Diag, RFC, Router, Enqueue protocols | 114 | <https://github.com/SecureAuthCorp/SAP-Dissection-plug-in-for-Wireshark> |
 | smb-rs | Pure Rust SMB2/3 client | 86 | <https://github.com/afiffon/smb-rs> |
 | OpenURMA | Clean-room open implementation of the Unified Bus protocol | 80 | <https://github.com/bojieli/OpenURMA> |
+| snxvpn | Command-line client for Check Point SSL VPN | 72 | <https://github.com/schlatterbeck/snxvpn> |
 | pyspnego | Python SPNEGO authentication library | 66 | <https://github.com/jborean93/pyspnego> |
 | libfintx | .NET client library for HBCI, FinTS and EBICS banking protocols | 65 | <https://github.com/libfintx/libfintx> |
 | unifi-protocol-reverse-engineering | Reverse engineered docs for the protocol between UniFi APs and controller | 60 | <https://github.com/fxkr/unifi-protocol-reverse-engineering> |

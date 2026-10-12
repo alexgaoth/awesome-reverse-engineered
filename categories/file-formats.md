@@ -1,6 +1,6 @@
 # File Formats
 
-[← All categories](../README.md) · 360 projects
+[← All categories](../README.md) · 379 projects
 
 - [Audio & Music Production](#audio--music-production) (37)
 - [Camera RAW & Video Metadata](#camera-raw--video-metadata) (20)
@@ -8,12 +8,12 @@
 - [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (20)
 - [E-books](#e-books) (8)
 - [EDA & PCB](#eda--pcb) (13)
-- [Filesystems & Archives](#filesystems--archives) (39)
-- [Format Description Tools](#format-description-tools) (11)
-- [Graphics & CAD](#graphics--cad) (40)
+- [Filesystems & Archives](#filesystems--archives) (42)
+- [Format Description Tools](#format-description-tools) (18)
+- [Graphics & CAD](#graphics--cad) (47)
 - [Maps & GIS](#maps--gis) (18)
 - [Media Codecs & Containers](#media-codecs--containers) (3)
-- [Office & Documents](#office--documents) (56)
+- [Office & Documents](#office--documents) (58)
 - [Other](#other) (4)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (66)
 
@@ -201,6 +201,9 @@
 | go-ntfs | Pure Go NTFS file system parser | 76 | <https://github.com/Velocidex/go-ntfs> |
 | hbkit | Recovers files from Synology Hyper Backup archives without Synology software | 67 | <https://github.com/YordiLorenzo/hbkit> |
 | titl | Tools for iTunes Libraries | 66 | <https://github.com/josephw/titl> |
+| DynamicDiskPartitioner | Manage Windows dynamic disks and volumes (LDM) | 64 | <https://github.com/TalAloni/DynamicDiskPartitioner> |
+| unshieldv3 | Extract InstallShield V3 (*.Z) archives | 61 | <https://github.com/wfr/unshieldv3> |
+| libzbitmap | Library for Apple's LZBITMAP compression | 59 | <https://github.com/eafer/libzbitmap> |
 | rsrcfork | Pure Python reader for classic Macintosh resource forks | 32 | <https://github.com/dgelessus/python-rsrcfork> |
 | libmodi | Library for Mac OS disk image formats (UDIF, sparse image, sparse bundle) | 22 | <https://github.com/libyal/libmodi> |
 | NbuExplorer | Extracts Nokia NBU, NFB, NFC and ARC phone backup files | 19 | <https://github.com/jdsn/nbuexplorer> |
@@ -224,8 +227,15 @@
 | ImHex-Patterns | Pattern files describing many binary file formats for ImHex | 1,032 | <https://github.com/WerWolv/ImHex-Patterns> |
 | Kaitai Struct Formats | Library of .ksy descriptions of hundreds of binary file formats | 798 | <https://github.com/kaitai-io/kaitai_struct_formats> |
 | Deark | Extracts and decodes hundreds of legacy file, archive and image formats | 229 | <https://github.com/jsummers/deark> |
+| kbdasm | Assembler/disassembler for Windows keyboard layout DLLs | 95 | <https://github.com/grompe/kbdasm> |
 | serum-preset-packager | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 67 | <https://github.com/KennethWussmann/serum-preset-packager> |
+| bitfiltrator | General approach for reverse-engineering Xilinx FPGA bitstream formats | 60 | <https://github.com/epfl-vlsc/bitfiltrator> |
+| nextion-font-editor | Nextion .zi font format documentation, parser, generator and editor | 59 | <https://github.com/hagronnestad/nextion-font-editor> |
+| xnb_parse | XNA xnb/xact file parser and FEZ extractor/viewer | 49 | <https://github.com/fesh0r/xnb_parse> |
 | libyal assorted | Format documentation and scripts from the libyal project | 40 | <https://github.com/libyal/assorted> |
+| flipnote-studio-3d-docs | Documentation for Flipnote Studio 3D formats | 37 | <https://github.com/Flipnote-Collective/flipnote-studio-3d-docs> |
+| gameformats | Tools and specs for reverse-engineered game file formats | 31 | <https://github.com/dstien/gameformats> |
+| fseq-file-format | Reverse-engineered documentation of the Falcon sequence (FSEQ) v2 file format | 24 | <https://github.com/Cryptkeeper/fseq-file-format> |
 | murmelbahn | Reverse-engineered Gravitrax marble run course file format | 8 | <https://github.com/lfrancke/murmelbahn> |
 | shockwave-reversing | Notes and resources for reverse engineering Shockwave/Director files | 5 | <https://github.com/JrMasterModelBuilder/shockwave-reversing> |
 | remus-rlf-reader | Reverse-engineered RLF log format of REMUS underwater drones | 1 | <https://github.com/isaacgerg/remus-rlf-reader> |
@@ -255,9 +265,16 @@
 | UniConvertor | Universal vector graphics translator with reverse-engineered CorelDRAW CDR/CMX importers | 177 | <https://github.com/sk1-project/uniconvertor> |
 | InventorLoader | FreeCAD workbench that imports Autodesk Inventor files | 169 | <https://github.com/jmplonka/InventorLoader> |
 | OpenSKP | Open-source SketchUp .skp reader/writer and converter that does not need the Trimble SDK | 117 | <https://github.com/iamahsanmehmood/openskp> |
+| Rainbow | Texture format converter for various game consoles' graphics formats | 99 | <https://github.com/marco-calautti/Rainbow> |
 | libembroidery | C library for reading and writing machine embroidery design files | 82 | <https://github.com/Embroidermodder/libembroidery> |
 | libredwg-web | WebAssembly/JavaScript DWG/DXF parser built on LibreDWG | 81 | <https://github.com/mlightcad/libredwg-web> |
+| nd2 | Full-featured reader for Nikon NIS-Elements .nd2 microscopy files | 81 | <https://github.com/tlambert03/nd2> |
+| voxel-viewer | Web viewer for CBCT volumes and scan folders, including Sirona GALILEOS formats | 80 | <https://github.com/denysdovhan/voxel-viewer> |
 | warcraft-rs | Unified CLI tool for World of Warcraft file formats. Integrates file format libraries for parsing, conversion, and va... | 63 | <https://github.com/wowemulation-dev/warcraft-rs> |
+| ColorPaletteCodable | Reader/writer for many color palette and gradient file formats | 57 | <https://github.com/dagronf/ColorPaletteCodable> |
+| OpenAllegroParser *(archived)* | Open-source parser for Cadence Allegro PCB designs | 57 | <https://github.com/Werni2A/OpenAllegroParser> |
+| MascotCapsule | MascotCapsule Micro3D research, libraries and tools | 47 | <https://github.com/j2me-preservation/MascotCapsule> |
+| rvt-rs | Clean-room reader for Autodesk Revit files without Revit | 35 | <https://github.com/DrunkOnJava/rvt-rs> |
 | swf-parser | Rust and TypeScript parsers for the SWF format | 33 | <https://github.com/open-flash/swf-parser> |
 | lib3ds | Library for reading and writing Autodesk 3D Studio .3DS model files | 30 | <https://github.com/vkocheryzhkin/lib3ds> |
 | drxtract | Extracts data from Macromedia Director 5 DRI and DRX files | 26 | <https://github.com/System25/drxtract> |
@@ -335,10 +352,12 @@
 | HyperCardPreview | macOS app that opens and displays HyperCard stacks from the reverse-engineered format | 143 | <https://github.com/PierreLorenzi/HyperCardPreview> |
 | ProPresenter7-Proto | Reverse engineered protobuf definitions for ProPresenter 7 file formats | 118 | <https://github.com/greyshirtguy/ProPresenter7-Proto> |
 | catdoc | Command-line converter of legacy Microsoft Word documents to text | 89 | <https://github.com/petewarden/catdoc> |
+| cronodump | Converter for the proprietary Cronos database format | 86 | <https://github.com/alephdata/cronodump> |
 | onenote.rs | Rust parser for Microsoft OneNote .one/.onetoc2 files (MS-ONESTORE) | 86 | <https://github.com/msiemens/onenote.rs> |
 | re-lab | Joint effort reverse engineering proprietary file formats for open source apps | 84 | <https://github.com/renyxa/re-lab> |
 | Antiword | Free reader for Microsoft Word binary documents | 82 | <https://github.com/grobian/antiword> |
 | libolecf | Library and tools for the OLE 2 Compound File format | 80 | <https://github.com/libyal/libolecf> |
+| BabylonToHtml | Convert Babylon .bgl dictionaries to structured HTML | 58 | <https://github.com/alonrotem/BabylonToHtml> |
 | pychm | Python bindings for CHMLib to read Microsoft CHM help files | 58 | <https://github.com/dottedmag/pychm> |
 | kindling | Reverse-engineered kindlegen MOBI/KF8 builder in Rust, ~7,000x faster | 57 | <https://github.com/ciscoriordan/kindling> |
 | msgreader (JS) | JavaScript reader for Outlook .msg files | 57 | <https://github.com/HiraokaHyperTools/msgreader> |

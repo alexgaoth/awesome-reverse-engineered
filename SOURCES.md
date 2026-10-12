@@ -199,6 +199,7 @@
 - rtl-sdr.com articles
 - GitHub GraphQL API (repository existence/canonical URL checks)
 - GitHub repository search API (sort=stars), paged up to 1000 results per query, split by creation date
+- r7 sweep remainder
 
 ## Searches run
 

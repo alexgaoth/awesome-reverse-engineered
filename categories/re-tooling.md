@@ -1,13 +1,13 @@
 # RE Tooling
 
-[← All categories](../README.md) · 664 projects
+[← All categories](../README.md) · 685 projects
 
 - [AI-assisted RE](#ai-assisted-re) (56)
-- [Binary & Format Analysis](#binary--format-analysis) (84)
-- [Decompilation Project Tooling](#decompilation-project-tooling) (49)
-- [Disassemblers & Decompilers](#disassemblers--decompilers) (236)
-- [Dynamic Instrumentation](#dynamic-instrumentation) (61)
-- [Mobile RE](#mobile-re) (106)
+- [Binary & Format Analysis](#binary--format-analysis) (86)
+- [Decompilation Project Tooling](#decompilation-project-tooling) (60)
+- [Disassemblers & Decompilers](#disassemblers--decompilers) (241)
+- [Dynamic Instrumentation](#dynamic-instrumentation) (62)
+- [Mobile RE](#mobile-re) (108)
 - [Other](#other) (37)
 - [Traffic Interception](#traffic-interception) (35)
 
@@ -159,6 +159,8 @@
 | ninjadiff | Binary diffing plugin for Binary Ninja | 71 | <https://github.com/riverloopsec/ninjadiff> |
 | Virtual-File-System-Editor | Extracts embedded files from application virtualizers | 64 | <https://github.com/extremecoders-re/Virtual-File-System-Editor> |
 | prawntools | Integrated circuit reverse engineering software | 62 | <https://github.com/JohnDMcMaster/prawntools> |
+| mrcrowbar | Library and model framework for reverse engineering binary file formats | 55 | <https://github.com/moralrecordings/mrcrowbar> |
+| PowerBuilder-decompile | Python module that parses PowerBuilder PBD files and analyzes the code | 27 | <https://github.com/sijms/PowerBuilder-decompile> |
 | mootool | MachO's Other Tooling | 12 | <https://github.com/hack-different/mootool> |
 
 ## Decompilation Project Tooling
@@ -189,6 +191,7 @@
 | reccmp | Tools for comparing recompiled code against original binaries | 157 | <https://github.com/isledecomp/reccmp> |
 | ccc | Library and tools for parsing PS2 debugging symbols | 108 | <https://github.com/chaoticgd/ccc> |
 | llvm8 | Statically recompiling CHIP8 to Windows and macOS using LLVM | 99 | <https://github.com/ioncodes/llvm8> |
+| ds-decomp | Toolkit for decompiling Nintendo DS games | 92 | <https://github.com/AetiasHax/ds-decomp> |
 | dtk-template | Project template for decomp-toolkit GameCube/Wii decompilations | 84 | <https://github.com/encounter/dtk-template> |
 | ido-static-recomp | Static recompilation of the IDO 5.3 and 7.1 compilers for modern platforms | 83 | <https://github.com/decompals/ido-static-recomp> |
 | spimdisasm | MIPS disassembler that produces matching-ready assembly for decomp projects | 83 | <https://github.com/Decompollaborate/spimdisasm> |
@@ -198,11 +201,21 @@
 | mzretools | Tools for reversing DOS games via MZ executable inspection | 72 | <https://github.com/neuviemeporte/mzretools> |
 | ZomboidDecompiler | Decompilation tool specialised for Project Zomboid using Vineflower | 67 | <https://github.com/demiurgeQuantified/ZomboidDecompiler> |
 | SwitchRecomp | Preservation-focused static recompilation research for Nintendo Switch. | 65 | <https://github.com/bgyss/SwitchRecomp> |
+| Ghidra-SegaSaturn-Loader | Sega Saturn loader for Ghidra | 60 | <https://github.com/VGKintsugi/Ghidra-SegaSaturn-Loader> |
+| ds_disassembly_tools | Scripts to set up a Nintendo DS disassembly project | 56 | <https://github.com/pret/ds_disassembly_tools> |
+| pmdsky-debug | Debug info for reverse engineering Pokemon Mystery Dungeon: Explorers of Sky | 54 | <https://github.com/UsernameFodder/pmdsky-debug> |
 | NESgen *(archived)* | Static Recompilation of NES ROMs to C code | 53 | <https://github.com/Xenomega/NESgen> |
 | Kappa | VS Code extension assisting matching decompilation work | 51 | <https://github.com/macabeus/kappa> |
+| psretrox | PlayStation 2 decompilation and recompilation tool | 49 | <https://github.com/cualquiercosa327/psretrox> |
+| PSP-recompilation-project | Static recompiler for PSP games with native rendering | 47 | <https://github.com/sal063/PSP-recompilation-project> |
+| sega2asm | Sega Genesis / Mega Drive disassembler and splitter in Go | 38 | <https://github.com/hansbonini/sega2asm> |
+| gilgamesh | SNES reverse engineering toolkit with static recompilation support | 37 | <https://github.com/AndreaOrru/gilgamesh> |
+| gba-recomp | Static recompilation tool and runtime for the GBA | 35 | <https://github.com/JRickey/gba-recomp> |
 | 3dsrecomp | Static recompiler for Nintendo 3DS games, from ARM to C | 33 | <https://github.com/fearkov/3dsrecomp> |
+| ppcdis | GameCube/Wii PowerPC disassembly and decompilation tools | 31 | <https://github.com/SeekyCt/ppcdis> |
 | mapfile_parser | Parses linker map files for decomp progress tracking | 30 | <https://github.com/Decompollaborate/mapfile_parser> |
 | NWiiRecomp | Static recompilation and runtime toolkit for Nintendo GameCube and Wii to make native PC ports (and not only) | 28 | <https://github.com/BlackLineInteractive/NWiiRecomp> |
+| delink | Splitting tool for decompilation projects | 25 | <https://github.com/HaydnTrigg/delink> |
 | n64-decomp-workbench | Relocation-aware diffs to find late-stage MIPS decompilation mismatches | 20 | <https://github.com/akratch/n64-decomp-workbench> |
 | RecompCore | A static-recompilation CPU core for Dolphin — run GameCube games as native code, with transparent interpreter fallback | 20 | <https://github.com/aharonahdoot/RecompCore> |
 | nWiiURecomp | Static recompilation and runtime toolkit for Nintendo Wii U (based on NWiiRecomp) to make native PC ports (and not only) | 14 | <https://github.com/BlackLineInteractive/nWiiURecomp> |
@@ -426,6 +439,7 @@
 | revsync | Realtime cross-tool collaborative reverse engineering | 100 | <https://github.com/lunixbochs/revsync> |
 | collabREate | Collaborative reverse engineering plugin for IDA Pro | 98 | <https://github.com/cseagle/collabREate> |
 | GhidraFindcrypt | Ghidra plugin locating cryptographic constants | 98 | <https://github.com/antoniovazquezblanco/GhidraFindcrypt> |
+| HlslDecompiler | Decompiles Shader Model 1-5 shader bytecode into HLSL | 94 | <https://github.com/AndresTraks/HlslDecompiler> |
 | NotDec | WebAssembly decompiler and static analysis framework on LLVM IR | 94 | <https://github.com/NotDec/NotDec> |
 | bn-dyldsharedcache | this was a single-image DSC parser predating official support for DSC support in binaryninja. | 92 | <https://github.com/0cyn/bn-dyldsharedcache> |
 | wcdatool | Watcom disassembly tool for DOS applications | 91 | <https://github.com/fonic/wcdatool> |
@@ -445,8 +459,12 @@
 | jsdec | Simple decompiler for Rizin | 67 | <https://github.com/rizinorg/jsdec> |
 | JustDecompileEngine | Decompilation engine of CodemerxDecompile | 66 | <https://github.com/codemerx/JustDecompileEngine> |
 | ptxNinja | Binary Ninja plugin for NVIDIA PTX | 66 | <https://github.com/seekbytes/ptxNinja> |
+| dx-shader-decompiler | Decompiler for DirectX 9 shaders | 64 | <https://github.com/aizvorski/dx-shader-decompiler> |
 | pdbgen | Generates PDB files from Ghidra | 62 | <https://github.com/wandel/pdbgen> |
 | seprom-loader | Binary Ninja loader for 64 bits Apple SEPROMs | 61 | <https://github.com/matteyeux/seprom-loader> |
+| MBBSDASM | x86 disassembler for 16-bit NE executables, used to emulate The Major BBS | 56 | <https://github.com/mbbsemu/MBBSDASM> |
+| IDR | Interactive Delphi Reconstructor (Pascal version) | 54 | <https://github.com/tmcdos/IDR> |
+| gm81decompiler | GameMaker 8.1 decompiler | 51 | <https://github.com/WastedMeerkat/gm81decompiler> |
 | PbdViewer | Decompiler and viewer for PowerBuilder PBD/PBL libraries | 49 | <https://github.com/Hucxy/PbdViewer> |
 | ida-swarm | Multi-agent AI system for automated reverse engineering in IDA | 41 | <https://github.com/shells-above/ida-swarm> |
 | binja_kc | Plugin for loading MachO kernelcache and dSYM files to Binary Ninja | 39 | <https://github.com/skr0x1c0/binja_kc> |
@@ -521,6 +539,7 @@
 | koidbg *(archived)* | Debugger for Windows ARM64 aimed at reverse engineers | 73 | <https://github.com/keowu/koidbg> |
 | frida-stack | Better stacks and backtraces in Frida | 64 | <https://github.com/rednaga/frida-stack> |
 | snixpc | XPC message sniffer for macOS using LLDB | 50 | <https://github.com/tony-go/snixpc> |
+| WinTTD | Reverse-engineered API for Microsoft's Time Travel Debugger | 35 | <https://github.com/Colton1skees/WinTTD> |
 
 ## Mobile RE
 
@@ -618,6 +637,7 @@
 | binder-trace | Kernel-based Android Binder transaction observer | 115 | <https://github.com/fuqiuluo/binder-trace> |
 | PulseAPK | WPF frontend for apktool and signing | 115 | <https://github.com/deemoun/PulseAPK> |
 | dexdec | Fast Android decompiler for humans and AI agents | 111 | <https://github.com/asLody/dexdec> |
+| react-native-decompiler *(archived)* | Decompile React Native JavaScript bundles | 107 | <https://github.com/richardfuca/react-native-decompiler> |
 | r0dump | ART-integrated DEX dumper and repair toolkit for Android 16 | 106 | <https://github.com/tiwe0/r0dump> |
 | autojs-unpacker | Reverse engineering tool for Android AutoJS applications | 105 | <https://github.com/imlk0/autojs-unpacker> |
 | reverse_flutter | Tools and guidelines for reverse engineering Flutter apps | 105 | <https://github.com/Neoxs/reverse_flutter> |
@@ -630,6 +650,7 @@
 | jscHookR *(archived)* | Reverse engineering tool for Android Cocos2d-JS apps | 67 | <https://github.com/Mas0nShi/jscHookR> |
 | AndroidRunnableJadx | Run Android Java methods inside Jadx without a device | 62 | <https://github.com/asmjmp0/AndroidRunnableJadx> |
 | r2garlic | Fast Android DEX decompiler integrated into radare2 | 43 | <https://github.com/radareorg/r2garlic> |
+| hasmer *(archived)* | Command-line tool for reverse engineering Hermes (React Native) bytecode | 42 | <https://github.com/lucasbaizer/hasmer> |
 | grida *(archived)* | Graphical reverse engineering UI for Frida on Android | 16 | <https://github.com/pluggyai/grida> |
 | Talaria | Decompiles React Native Hermes bytecode to pseudocode | 2 | <https://github.com/moleium/talaria> |
 

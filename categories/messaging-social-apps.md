@@ -1,16 +1,16 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md) · 246 projects
+[← All categories](../README.md) · 256 projects
 
 - [Bridges & Multi-protocol](#bridges--multi-protocol) (42)
-- [Discord & Slack](#discord--slack) (25)
-- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (36)
+- [Discord & Slack](#discord--slack) (27)
+- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (38)
 - [Other](#other) (5)
-- [Other Messaging](#other-messaging) (29)
+- [Other Messaging](#other-messaging) (30)
 - [Signal & Telegram](#signal--telegram) (14)
-- [Social Media Private APIs](#social-media-private-apis) (16)
-- [TikTok & Snapchat](#tiktok--snapchat) (25)
-- [Twitter/X](#twitterx) (20)
+- [Social Media Private APIs](#social-media-private-apis) (18)
+- [TikTok & Snapchat](#tiktok--snapchat) (27)
+- [Twitter/X](#twitterx) (21)
 - [WhatsApp](#whatsapp) (21)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (13)
 
@@ -85,10 +85,12 @@
 | revenge-bundle-next | Client modification for Discord Android | 190 | <https://github.com/revenge-mod/revenge-bundle-next> |
 | discord-protos | Reverse engineered Discord user settings protobufs | 150 | <https://github.com/discord-userdoccers/discord-protos> |
 | slack | A Matrix-Slack puppeting bridge | 105 | <https://github.com/mautrix/slack> |
+| Unofficial-Discord-3DS-Client | Unofficial Discord client for the Nintendo 3DS | 94 | <https://github.com/yourWaifu/Unofficial-Discord-3DS-Client> |
 | Oldcord *(archived)* | Moved to https://git.dere.net/oldcord/oldcord | 77 | <https://github.com/oldcordapp/Oldcord> |
 | ripcord-api *(archived)* | Reverse engineered Discord API that mimics the official web client | 58 | <https://github.com/saucecode/ripcord-api> |
 | unofficial-discord-client | Unofficial client for discord build in C++ with Qt. | 49 | <https://github.com/Coding-Bunker/unofficial-discord-client> |
 | teams-api | Unofficial Micorosoft Teams client/cli | 39 | <https://github.com/nakasyou/teams-api> |
+| reUpdater | Decompilation of Discord's updater.node | 20 | <https://github.com/cordpackers/reUpdater> |
 | slack-openapi-generator | Regenerates Slack's withdrawn OpenAPI spec by analysing the Slack Node SDK | 7 | <https://github.com/connectstrata/slack-openapi-generator> |
 
 ## Meta (Instagram/Facebook/Threads)
@@ -120,6 +122,7 @@
 | Facebot *(archived)* | Unofficial Facebook API | 112 | <https://github.com/davidyen1124/Facebot> |
 | fbmsgr | Reverse engineered Facebook Messenger API in Go | 95 | <https://github.com/unixpickle/fbmsgr> |
 | MetaAdsCollector | Collects Meta Ad Library ads via the reverse-engineered internal GraphQL API | 92 | <https://github.com/promisingcoder/MetaAdsCollector> |
+| user-instagram *(archived)* | Get data of any Instagram user or post | 82 | <https://github.com/EdouardCourty/user-instagram> |
 | threads-api | Reverse engineered Rust client for Instagram's Threads | 77 | <https://github.com/m1guelpf/threads-api> |
 | go-instagram | Instagram private API client in Go | 73 | <https://github.com/hieven/go-instagram> |
 | threads-py *(archived)* | Unofficial reverse engineered Python client for Meta's Threads | 68 | <https://github.com/junhoyeo/threads-py> |
@@ -128,6 +131,7 @@
 | instagram-api | PHP private API for Instagram mobile and web endpoints | 57 | <https://github.com/suphiyasin/instagram-api> |
 | instagram-api-toolkit *(archived)* | Instagram private API SDK generator toolkit | 57 | <https://github.com/b3nab/instagram-api-toolkit> |
 | ts-messenger-api | Unofficial TypeScript API for Facebook Messenger | 57 | <https://github.com/makara-filip/ts-messenger-api> |
+| fca-unofficial | Unofficial Facebook Messenger chat API for Node.js | 51 | <https://github.com/Tinkprocodes/fca-unofficial> |
 | fca-unofficial | Unofficial Facebook Chat API for Nodejs | 49 | <https://github.com/VangBanLaNhat/fca-unofficial> |
 | instagram-private-api (azimgd) | Instagram private API JavaScript client | 26 | <https://github.com/azimgd/instagram-private-api> |
 | instagram-api (oktaysenkan) *(archived)* | Private Instagram API library without API token or login | 17 | <https://github.com/oktaysenkan/instagram-api> |
@@ -164,6 +168,7 @@
 | kakaotalk_analysis | Security analysis and reverse engineering of the KakaoTalk app and LOCO protocol | 129 | <https://github.com/stulle123/kakaotalk_analysis> |
 | BeFake *(archived)* | Python wrapper for BeReal's private API | 128 | <https://github.com/notmarek/BeFake> |
 | beReal-api | An unofficial BeReal REST API in which you can get all posts info, comment, upload a post... | 85 | <https://github.com/chemokita13/beReal-api> |
+| zalo-linux-2026 | Unofficial Zalo messenger port for Linux x86_64 | 80 | <https://github.com/realdtn2/zalo-linux-2026> |
 | linkedin-messaging-api *(archived)* | Unofficial API for LinkedIn Messaging used by Beeper's bridge | 62 | <https://github.com/beeper/linkedin-messaging-api> |
 | line | A bridgev2 project for bridging Matrix and LINE - Intended for use with Beeper | 49 | <https://github.com/beeper/line> |
 | Extract-Protocol-From-LINE-Write-up | Reverse Engineering of LINE. This article is from my 2018 analysis. Be aware of that some of the protocol has been... | 30 | <https://github.com/lutwidse/Extract-Protocol-From-LINE-Write-up> |
@@ -211,7 +216,9 @@
 | periscope_api | Ruby Periscope private API client | 139 | <https://github.com/gabrielg/periscope_api> |
 | Hack-Yak *(archived)* | Reverse engineering Yik Yak's protocol | 85 | <https://github.com/SuperSpyTX/Hack-Yak> |
 | BitClout-Awesome *(archived)* | Reverse engineered BitClout API documentation and tools | 80 | <https://github.com/HPaulson/BitClout-Awesome> |
+| offsides | Android client for Sidechat and YikYak | 78 | <https://github.com/micahlt/offsides> |
 | SnapWrap | Wrapper for the unofficial, undocumented Snapchat API | 62 | <https://github.com/Rob--/SnapWrap> |
+| AminoREAPI *(archived)* | Unofficial reverse-engineered client library for Amino Apps | 41 | <https://github.com/MrPowerGamerBR/AminoREAPI> |
 | snapy | Python library for the Snapchat private API | 41 | <https://github.com/rxw/snapy> |
 | WhatsJava | Java implementation of the WhatsApp Web API | 41 | <https://github.com/Louuke/WhatsJava> |
 | PeachKit | Swift wrapper for Peach.cool's undocumented API | 32 | <https://github.com/steve228uk/PeachKit> |
@@ -241,7 +248,9 @@
 | SnapchatKit *(archived)* | An Objective-C implementation of the unofficial Snapchat API. | 108 | <https://github.com/NSExceptional/SnapchatKit> |
 | snap-map-private-api | Node.js wrapper for Snap Map's private API | 69 | <https://github.com/AlecAnthonyGarcia/snap-map-private-api> |
 | tiktok | Module to access the TikTok private API | 55 | <https://github.com/pushshift/tiktok> |
+| Musically-API | TikTok (Musical.ly) reverse-engineered private API | 41 | <https://github.com/mangledbottles/Musically-API> |
 | tiktok-xgnarly-decoded | Full reverse-engineering of TikTok's X-Gnarly request signature (webmssdk 5.1.3-ZTCA) with a pure-JavaScript... | 29 | <https://github.com/carcabot/tiktok-xgnarly-decoded> |
+| TikTok-Webcast-Protobuf | Clean-room reverse engineering of the TikTok LIVE Protobuf schema | 23 | <https://github.com/isaackogan/TikTok-Webcast-Protobuf> |
 | tiktok (alana72212) | TikTok web signatures reverse engineered | 16 | <https://github.com/alana72212/tiktok> |
 | tiktok-private-api | Unofficial TikTok Private API SDK for Python — 50+ endpoints, full mobile signing, Android + iOS | 6 | <https://github.com/molkex/tiktok-private-api> |
 | Snapchat-SDK-PHP | PHP SDK for Snapchat | 4 | <https://github.com/peterlevin/Snapchat-SDK-PHP> |
@@ -269,6 +278,7 @@
 | TwitterX | Keeps Twitter for macOS alive with code injection | 189 | <https://github.com/nakiostudio/TwitterX> |
 | twitter_openapi_python | Implementation of Twitter internal API (Twitter graphql API) in Python with data validation by pydantic | 95 | <https://github.com/fa0311/twitter_openapi_python> |
 | reX | Reverse engineered Twitter API client | 79 | <https://github.com/parasyte-x/reX> |
+| tweet_scrapper *(archived)* | Scrape the Twitter frontend API without authentication | 61 | <https://github.com/5hirish/tweet_scrapper> |
 | TwitterFrontendFlow | Unofficial client for Twitter's internal login flow API | 58 | <https://github.com/fa0311/TwitterFrontendFlow> |
 
 ## WhatsApp

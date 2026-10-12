@@ -1,14 +1,14 @@
 # Apple Ecosystem
 
-[← All categories](../README.md) · 313 projects
+[← All categories](../README.md) · 326 projects
 
 - [AirPlay & AirDrop](#airplay--airdrop) (43)
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (49)
 - [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
-- [Find My & AirTag](#find-my--airtag) (7)
+- [Find My & AirTag](#find-my--airtag) (8)
 - [HomeKit](#homekit) (18)
 - [Other](#other) (4)
-- [Other Apple](#other-apple) (114)
+- [Other Apple](#other-apple) (126)
 - [iCloud & Apple Services](#icloud--apple-services) (21)
 - [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (43)
 
@@ -144,6 +144,7 @@
 | FindMy (biemster) | Query Apple Find My network for custom tags without a Mac | 726 | <https://github.com/biemster/FindMy> |
 | OpenTagViewer | Track AirTags and other Find My devices on Android | 425 | <https://github.com/parawanderer/OpenTagViewer> |
 | airtag | AirTag instrumentation including firmware downgrades | 196 | <https://github.com/seemoo-lab/airtag> |
+| PHP-FindMyiPhone | PHP class to locate, play sounds on and lock iOS devices via Find My iPhone | 85 | <https://github.com/albeebe/PHP-FindMyiPhone> |
 
 ## HomeKit
 
@@ -254,25 +255,37 @@
 | qt-liquid-glass | Brings Apple's Liquid Glass effect to Qt6 apps using undocumented macOS APIs | 109 | <https://github.com/fsalinas26/qt-liquid-glass> |
 | ThunderboltPatcher | Patch Thunderbolt firmware through TI PD interface | 108 | <https://github.com/osy/ThunderboltPatcher> |
 | UnifiedLogReader | A parser for Unified logging tracev3 files | 104 | <https://github.com/ydkhatri/UnifiedLogReader> |
+| sips-js-api | Unofficial documentation of the JavaScript API of the macOS sips tool | 101 | <https://github.com/manicmaniac/sips-js-api> |
 | To-The-Apples-Core | Non-jailbroken code snippets using reverse engineered iOS private APIs | 99 | <https://github.com/joncardasis/To-The-Apples-Core> |
 | CoreSymbolication | Reverse engineered headers for Apple's private CoreSymbolication framework | 94 | <https://github.com/mountainstorm/CoreSymbolication> |
+| ibtool | Python reimplementation of Apple's ibtool for compiling iOS Interface Builder files | 93 | <https://github.com/davidquesada/ibtool> |
 | airplay-spec | Unofficial AirPlay protocol specification | 85 | <https://github.com/openairplay/airplay-spec> |
 | NotPrivateAPIs | Documentation of private Apple APIs | 77 | <https://github.com/Mcrich-LLC/NotPrivateAPIs> |
+| SiriRemoteForge | Turn a 3rd-gen Apple TV Siri Remote into a programmable macOS controller | 76 | <https://github.com/HOLODATA-COM/SiriRemoteForge> |
 | aiohomekit | Asyncio HomeKit controller library | 72 | <https://github.com/Jc2k/aiohomekit> |
 | ftab-dump | Dumps files from 'rkos' ftab firmware images found in Apple micro-devices. | 72 | <https://github.com/19h/ftab-dump> |
 | Lisa-PCBs | Reverse engineered Apple Lisa PCB designs | 72 | <https://github.com/alexthecat123/Lisa-PCBs> |
+| xcross | Run and hot-reload Flutter iOS apps from Linux without Xcode or macOS | 72 | <https://github.com/arxdeus/xcross> |
+| GS-LOC | Reverse engineering of Apple's geolocation services and database scraper | 69 | <https://github.com/zadewg/GS-LOC> |
 | pam_wtid | Patch for Apple's pam_tid adding Apple Watch sudo authentication | 68 | <https://github.com/inickt/pam_wtid> |
 | SiriRemote-Linux | Control Linux with an Apple TV Siri Remote over BLE | 68 | <https://github.com/Yanndroid/SiriRemote-Linux> |
 | apple-gymkit | Reverse engineering Apple GymKit | 64 | <https://github.com/kormax/apple-gymkit> |
+| AirUx | AirPlay receiver for Linux | 58 | <https://github.com/init1lham/AirUx> |
+| MetalLibraryExplorer | Parse and disassemble Apple .metallib files in the browser | 56 | <https://github.com/YuAo/MetalLibraryExplorer> |
+| ModernStickies | Reverse engineering Apple's Stickies.app | 55 | <https://github.com/AlexDenisov/ModernStickies> |
 | trustcache | Interact with trustcaches | 54 | <https://github.com/CRKatri/trustcache> |
 | hammerspoon_asm.undocumented | Hammerspoon modules using undocumented macOS APIs | 53 | <https://github.com/asmagill/hammerspoon_asm.undocumented> |
 | QuartzInternal | Core Animation and Core Graphics private API/SPI headers | 53 | <https://github.com/avaidyam/QuartzInternal> |
 | AirPodsBatteryCLI | CLI tool for Grabbing the AirPods Battery Status | 52 | <https://github.com/duk242/AirPodsBatteryCLI> |
+| CustomLiquidGlass | Tools to recreate Apple's Liquid Glass effects from reverse engineering | 52 | <https://github.com/kierajmumick/CustomLiquidGlass> |
 | sepsplit-rs | SEP firmware splitter, made in rust. | 49 | <https://github.com/justtryingthingsout/sepsplit-rs> |
 | gnome-airpods-battery-status | A Gnome Shell Extension to display the battery levels of your Airpods (and case) in the top bar. | 47 | <https://github.com/delphiki/gnome-airpods-battery-status> |
 | smcutil | SMC utility for modifying and examining Apple's SMC payloads. | 47 | <https://github.com/hack-different/smcutil> |
 | apple-wireshark | Wireshark dissectors for Apple accessory protocols such as AAP | 46 | <https://github.com/pabloaul/apple-wireshark> |
+| dyld-cache-dump | Command-line tool to dump the contents of dyld shared cache files | 46 | <https://github.com/macmade/dyld-cache-dump> |
 | macOSPrivateFrameworks | Class-dumped headers of macOS private frameworks | 45 | <https://github.com/phatblat/macOSPrivateFrameworks> |
+| ShatteredGlass | Deconstruction of macOS 26 Liquid Glass effects | 41 | <https://github.com/AlexStrNik/ShatteredGlass> |
+| ios-charging-monitor | Live iPhone charging watts read through private APIs | 35 | <https://github.com/gregsramblings/ios-charging-monitor> |
 | Notes-Of-Fruit | Android client for iCloud Notes with reverse-engineered CRDT write path | 33 | <https://github.com/ericmigi/Notes-Of-Fruit> |
 | QCPatchXcodeTemplate | Xcode template for custom Quartz Composer patches via the unofficial API | 33 | <https://github.com/kineme/QCPatchXcodeTemplate> |
 | Peepo | Apple Watch watchOS kernel read/write and live process memory dumping | 30 | <https://github.com/datalocaltmp/Peepo> |
