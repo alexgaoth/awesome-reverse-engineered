@@ -1,12 +1,12 @@
 # Third-party Clients
 
-[← All categories](../README.md) · 157 projects
+[← All categories](../README.md) · 163 projects
 
 - [Chat & Messaging](#chat--messaging) (54)
-- [Music Streaming](#music-streaming) (58)
+- [Music Streaming](#music-streaming) (59)
 - [Other](#other) (3)
 - [Social Media](#social-media) (8)
-- [Video & Streaming](#video--streaming) (34)
+- [Video & Streaming](#video--streaming) (39)
 
 ## Chat & Messaging
 
@@ -99,6 +99,7 @@
 | Muzza | Material 3 YouTube Music client for Android | 700 | <https://github.com/Maloy-Android/Muzza> |
 | high-tide | Libadwaita TIDAL client for Linux built on the unofficial tidalapi library | 675 | <https://github.com/Nokse22/high-tide> |
 | cspot | Spotify Connect player for embedded devices such as ESP32 (C++ librespot port) | 641 | <https://github.com/feelfreelinux/cspot> |
+| deezer-linux | Linux port of the Deezer desktop app | 626 | <https://github.com/aunetx/deezer-linux> |
 | TidaLuna | Client mod for the TIDAL desktop app, successor to Neptune | 610 | <https://github.com/Inrixia/TidaLuna> |
 | pithos | Pandora Radio desktop client for Linux using the private Pandora API | 519 | <https://github.com/pithos/pithos> |
 | lazyspotify | Terminal Spotify client for macOS and Linux | 445 | <https://github.com/dubeyKartikay/lazyspotify> |
@@ -170,17 +171,22 @@
 | frosty | Mobile Twitch client for iOS and Android with 7TV, BTTV and FFZ emote support | 1,064 | <https://github.com/tommyxchow/frosty> |
 | plugin.video.youtube | Kodi add-on for watching YouTube content | 977 | <https://github.com/anxdpanic/plugin.video.youtube> |
 | chatty | Twitch chat client written in Java | 896 | <https://github.com/chatty/chatty> |
+| playlet | Unofficial privacy-focused YouTube client for Roku | 768 | <https://github.com/iBicha/playlet> |
 | twitch-dl | CLI for downloading Twitch VODs and clips via Twitch's GraphQL API | 760 | <https://github.com/ihabunek/twitch-dl> |
 | TwitchLink | GUI downloader and recorder for Twitch streams, videos and clips | 695 | <https://github.com/devhotteok/TwitchLink> |
 | SmartTwitchTV | Twitch client for Android TV and web-based systems | 680 | <https://github.com/fgl27/SmartTwitchTV> |
 | twitch-tui | Twitch chat in the terminal | 634 | <https://github.com/Xithrius/twitch-tui> |
+| plx-native | Unofficial native Plex client for LG webOS TVs | 603 | <https://github.com/GLinnik21/plx-native> |
 | gnome-twitch *(archived)* | GNOME desktop client for watching Twitch | 438 | <https://github.com/vinszent/gnome-twitch> |
 | minitube | Native desktop YouTube app (Qt) that works without a Google account | 394 | <https://github.com/flaviotordini/minitube> |
 | DankChat | Android Twitch chat client with third-party emote support | 367 | <https://github.com/flex3r/DankChat> |
 | orion *(archived)* | Cross-platform Twitch.tv desktop client in Qt/QML | 310 | <https://github.com/alamminsalo/orion> |
 | Twitch-Drops-Bot | Node.js bot that watches Twitch streams and claims drop rewards automatically | 290 | <https://github.com/TychoTheTaco/Twitch-Drops-Bot> |
 | smarttv-twitch | Twitch client for Samsung Smart TVs (Tizen) | 224 | <https://github.com/fgl27/smarttv-twitch> |
+| youtube-webos-cobalt-adfree | Unofficial Cobalt-based YouTube client for webOS with SponsorBlock | 212 | <https://github.com/RF1705/youtube-webos-cobalt-adfree> |
 | invidtui | TUI-based Invidious client for YouTube | 203 | <https://github.com/darkhz/invidtui> |
+| crunchyroll-tizen | Unofficial Crunchyroll app for Samsung Tizen TVs | 195 | <https://github.com/jhassan8/crunchyroll-tizen> |
+| ReactTube | YouTube player for Apple TV using internal YouTube APIs | 189 | <https://github.com/Duell10111/ReactTube> |
 | Flow-Desktop | YouTube and YouTube Music client for desktop built with Rust | 101 | <https://github.com/Flow-Tube/Flow-Desktop> |
 | Pocket-Plays-for-Twitch | Open-source Twitch client for Android | 67 | <https://github.com/SebastianRask/Pocket-Plays-for-Twitch> |
 | FlexTube | Alternative YouTube frontend for Android inspired by LibreTube | 55 | <https://github.com/flexxxxer/FlexTube> |

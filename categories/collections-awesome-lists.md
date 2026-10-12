@@ -1,13 +1,12 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md) · 68 projects
+[← All categories](../README.md) · 75 projects
 
 - [AI](#ai) (1)
 - [APIs & Apps](#apis--apps) (21)
-- [Games](#games) (21)
-- [General RE](#general-re) (14)
-- [Hardware & IoT](#hardware--iot) (10)
-- [Other](#other) (1)
+- [Games](#games) (24)
+- [General RE](#general-re) (16)
+- [Hardware & IoT](#hardware--iot) (13)
 
 ## AI
 
@@ -49,6 +48,7 @@
 | Open Source Game Clones (osgameclones) | YAML database of open-source remakes, reimplementations and clones of games | 3,149 | <https://github.com/opengaming/osgameclones> |
 | Awesome-PlayStation-Vita | PS Vita resource list incl. RE tools, file formats and homebrew | 1,842 | <https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita> |
 | awesome-game-remakes | Actively maintained open-source game remakes and engine reimplementations | 1,505 | <https://github.com/radek-sprta/awesome-game-remakes> |
+| UE-Modding-Tools | Databank of Unreal Engine modding and reverse engineering tools | 1,248 | <https://github.com/Buckminsterfullerene02/UE-Modding-Tools> |
 | awesome-unofficial-pc-ports | Curated list of fan-made PC ports of console games via decompilation/recompilation | 855 | <https://github.com/Sebastrion/awesome-unofficial-pc-ports> |
 | awesome-emulators | Awesome list of emulators | 727 | <https://github.com/DerekTurtleRoe/awesome-emulators> |
 | RetroReversing | Website/repo on reverse engineering retro games, consoles and dev kits | 700 | <https://github.com/RetroReversing/retroReversing> |
@@ -58,7 +58,9 @@
 | awesome-decomp-games | Rated list of decompiled, recompiled and reverse-engineered games | 265 | <https://github.com/SubmitGame/awesome-decomp-games> |
 | awesome-game-file-format-reversing | Docs, tools and resources for reverse engineering video game file formats | 222 | <https://github.com/VelocityRa/awesome-game-file-format-reversing> |
 | awesome-privateserver | A non-exhaustive list of free custom server backend implementations for various games | 214 | <https://github.com/fishiatee/awesome-privateserver> |
+| retrore | Curated list of original and reverse engineered 6502 game source code | 76 | <https://github.com/realdmx/retrore> |
 | XeNTaX Backup | Public backup of the XeNTaX game file format reverse engineering forum and wiki | 74 | <https://github.com/XeNTaXBackup/XeNTaXBackup.github.io> |
+| rac-modding-resources | Links for Ratchet and Clank modding and reverse engineering | 67 | <https://github.com/RatchetModding/rac-modding-resources> |
 | awesome-wow-rust | Excellent resources for world of warcraft private servers in rust | 50 | <https://github.com/arlyon/awesome-wow-rust> |
 | awesome-recompilations | Recompiled N64 and Xbox 360 ROMs using N64Recomp and XenonRecomp. | 47 | <https://github.com/BlueInterlude/awesome-recompilations> |
 | awesome-uo | Curated list of Ultima Online projects including server emulators | 19 | <https://github.com/Alurith/awesome-uo> |
@@ -77,12 +79,14 @@
 | awesome-reverse-engineering (alphaSeclab) | Huge RE resource list for all platforms: 3500+ open source tools and 2300+ posts/videos | 5,097 | <https://github.com/alphaSeclab/awesome-reverse-engineering> |
 | awesome-reversing (tylerha97) | Curated list of reversing resources: books, courses, tools, practice targets | 4,527 | <https://github.com/tylerha97/awesome-reversing> |
 | iOS App Reverse Engineering | Free book on iOS app reverse engineering techniques | 4,433 | <https://github.com/iosre/iOSAppReverseEngineering> |
+| idaplugins-list | List of IDA Pro plugins | 3,841 | <https://github.com/onethawt/idaplugins-list> |
 | apple-knowledge | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | 1,403 | <https://github.com/hack-different/apple-knowledge> |
-| indetectables toolkit | Toolkit bundle for reversing, malware analysis and cracking | 1,010 | <https://github.com/indetectables-net/toolkit> |
 | Awesome-Reversing (ReversingID) | Curated list of reverse engineering resources by topic | 738 | <https://github.com/ReversingID/Awesome-Reversing> |
 | awesome-radare2 | Curated list of projects, articles and plugins built on radare2 | 737 | <https://github.com/radareorg/awesome-radare2> |
 | awesome-decompilation | Curated list of decompilation resources, papers and projects (incl. AI decompilers) | 676 | <https://github.com/nforest/awesome-decompilation> |
-| reversingBits | Cheatsheet collection for reverse engineering, binary analysis and assembly | 660 | <https://github.com/mohitmishra786/reversingBits> |
+| ida-plugins | Interactive list of IDA Pro plugins | 488 | <https://github.com/vmallet/ida-plugins> |
+| decompilation-wiki | The Decompilation Wiki covering decompilers and research | 253 | <https://github.com/mahaloz/decompilation-wiki> |
+| PRE-list | List of automatic network protocol reverse engineering tools | 188 | <https://github.com/techge/PRE-list> |
 | awesome-reverse-engineering (morluto) | Curated RE tools and learning resources for binaries, apps, firmware, formats and protocols | 94 | <https://github.com/morluto/awesome-reverse-engineering> |
 | awesome-reverse-engineering-and-malware-analysis | Verified map of RE and malware-analysis tools: disassemblers, unpacking, firmware | 91 | <https://github.com/ZX41R/awesome-reverse-engineering-and-malware-analysis> |
 
@@ -97,12 +101,9 @@
 | awesome-embedded-and-iot-security | Curated resources about embedded and IoT security | 2,466 | <https://github.com/fkie-cad/awesome-embedded-and-iot-security> |
 | awesome-opensource-hardware | List of open-source hardware projects | 2,440 | <https://github.com/aolofsson/awesome-opensource-hardware> |
 | awesome-iot-hacks | Collection of IoT device hacks and teardown write-ups | 2,431 | <https://github.com/nebgnahz/awesome-iot-hacks> |
+| awesome-industrial-protocols | Security-oriented list of resources about industrial network protocols | 774 | <https://github.com/Orange-Cyberdefense/awesome-industrial-protocols> |
 | Awesome Embedded Systems Vulnerability Research | Resources for vulnerability research on embedded devices | 519 | <https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research> |
 | Awesome-Hardware-and-IoT-Hacking | Curated hardware, firmware and IoT hacking resources and tools | 408 | <https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking> |
+| ESP32-reversing | Curated list of ESP32 reversing resources | 320 | <https://github.com/BlackVS/ESP32-reversing> |
+| awesome-linbus | Awesome list of LIN bus tools and resources for reverse engineering LIN devices | 246 | <https://github.com/iDoka/awesome-linbus> |
 | awesome-even-realities-g1 | Collection of projects for Even Realities G1 AR glasses | 35 | <https://github.com/galfaroth/awesome-even-realities-g1> |
-
-## Other
-
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| awesome-rabbit-r1 | Resources for hacking the Rabbit R1: jailbreaks, alternative clients, backend reimplementations | 174 | <https://github.com/sayhiben/awesome-rabbit-r1> |

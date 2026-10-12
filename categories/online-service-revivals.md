@@ -1,13 +1,13 @@
 # Online Service Revivals
 
-[← All categories](../README.md) · 155 projects
+[← All categories](../README.md) · 168 projects
 
-- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (33)
-- [Kids' MMOs & Flash Worlds](#kids-mmos--flash-worlds) (17)
-- [Messengers](#messengers) (4)
-- [Nintendo Online](#nintendo-online) (69)
-- [PC Game Services (GameSpy, Battle.net, EA)](#pc-game-services-gamespy-battlenet-ea) (22)
-- [Sony & Sega Online](#sony--sega-online) (10)
+- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (35)
+- [Kids' MMOs & Flash Worlds](#kids-mmos--flash-worlds) (23)
+- [Messengers](#messengers) (5)
+- [Nintendo Online](#nintendo-online) (66)
+- [PC Game Services (GameSpy, Battle.net, EA)](#pc-game-services-gamespy-battlenet-ea) (28)
+- [Sony & Sega Online](#sony--sega-online) (11)
 
 ## Dead Devices & Cloud Services
 
@@ -19,21 +19,23 @@
 | harmony-api | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | <https://github.com/maddox/harmony-api> |
 | PyCozmo | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 238 | <https://github.com/zayfod/pycozmo> |
 | Slinger | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 202 | <https://github.com/GerryDazoo/Slinger> |
+| open-pocket | Clean-room open-source implementation of the discontinued Pocket service | 189 | <https://github.com/open-pocket/open-pocket> |
 | pynab | Python software that revives Nabaztag rabbits with a Raspberry Pi board | 174 | <https://github.com/nabaztag2018/pynab> |
 | eyefiserver2 | Standalone Eye-Fi server that replaces the shut-down Eye-Fi cloud for Wi-Fi SD cards | 150 | <https://github.com/dgrant/eyefiserver2> |
 | OpenJabNab | PHP/C++ server that replaces the shut-down Nabaztag/Tag rabbit cloud | 127 | <https://github.com/OpenJabNab/OpenJabNab> |
 | Vector source | Released source of the Anki Vector robot firmware, published after Anki's shutdown | 119 | <https://github.com/digital-dream-labs/vector> |
+| EchoRelay *(archived)* | Reimplementation of Echo VR web services and dedicated server | 99 | <https://github.com/Xenomega/EchoRelay> |
 | ServerlessNabaztag | Firmware to control a Nabaztag/tag directly over the web, without the dead server | 98 | <https://github.com/andreax79/ServerlessNabaztag> |
 | Bildschirmtext revival | Server that revives Germany's BTX videotex service for original decoders and clients | 80 | <https://github.com/bildschirmtext/bildschirmtext> |
 | pynitel | Python library to write Minitel videotex servers for real French Minitel terminals | 78 | <https://github.com/cquest/pynitel> |
 | ZuneModdingHelper | Tool that applies community mods to the Zune desktop software | 76 | <https://github.com/ZuneDev/ZuneModdingHelper> |
 | asterisk-Softmodem | V.23 softmodem for Asterisk so real BTX/Minitel terminals can dial revived services | 73 | <https://github.com/proquar/asterisk-Softmodem> |
 | ZuneNetApi | Recreation of the original Zune web APIs (marketplace, social) for the Zune software | 70 | <https://github.com/ZuneDev/ZuneNetApi> |
+| picobrew-server | Reverse engineered server for the PicoBrew Zymatic brewing protocol | 63 | <https://github.com/hotzenklotz/picobrew-server> |
 | minisrv | Node.js WebTV/MSN TV server with encrypted WTVP protocol support | 57 | <https://github.com/zefie/zefie_wtvp_minisrv> |
 | libmtp-zune | libmtp patches that add support for Microsoft Zune players | 43 | <https://github.com/kbhomes/libmtp-zune> |
 | vector-cloud | Released cloud-side code for the Anki Vector robot | 36 | <https://github.com/digital-dream-labs/vector-cloud> |
 | Escape Pod extension | Extension SDK for Escape Pod, the local server for the Anki Vector robot | 33 | <https://github.com/digital-dream-labs/escape-pod-extension> |
-| Project Lyra | Persistent jailbreak and modding platform for the Zune HD | 28 | <https://github.com/project-lyra-zune/project-lyra> |
 | vector-go-sdk | Go SDK for the Anki Vector robot released after Anki's shutdown | 20 | <https://github.com/digital-dream-labs/vector-go-sdk> |
 | Prodigy Reloaded | Reimplemented server side of the 1990s Prodigy online service for its original DOS client | 15 | <https://github.com/ProdigyReloaded/delivery-system> |
 | Zurk's offline Chumby firmware | Offline firmware that keeps the classic Chumby working without its cloud service | 10 | <https://github.com/francistheodorecatte/zurks-offline-firmware-classic> |
@@ -53,7 +55,13 @@
 |---|---|--:|---|
 | OpenFusion | Server emulator for Cartoon Network's FusionFall MMO | 423 | <https://github.com/OpenFusionProject/OpenFusion> |
 | Havana | Java server that revives 2009-era Habbo Hotel v31 | 228 | <https://github.com/Quackster/Havana> |
+| qqpet_automation | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 194 | <https://github.com/xuemian168/qqpet_automation> |
 | Wand | Docker setup that bundles the Houdini Club Penguin private server and its services | 128 | <https://github.com/solero/wand> |
+| MQReawakened | Open source emulation of the Monkey Quest server backend | 96 | <https://github.com/FeroxFoxxo/MQReawakened> |
+| sodoff | School of Dragons server emulator | 79 | <https://github.com/SoDOff-Project/sodoff> |
+| classic-dungeon-blitz *(archived)* | Fan revival of the Dungeon Blitz Flash game | 75 | <https://github.com/db-preservation-contributors/classic-dungeon-blitz> |
+| Timeline | Club Penguin private server emulator in Python | 73 | <https://github.com/Times-0/Timeline> |
+| MoleWorld-5.5.0-touchHLE-offline | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 65 | <https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline> |
 | Yukon server | Server for Yukon, an HTML5 recreation of Club Penguin | 52 | <https://github.com/wizguin/yukon-server> |
 | Eleven Giants server | Game server that revives Tiny Speck's shut-down browser MMO Glitch | 48 | <https://github.com/ElevenGiants/eleven-server> |
 | Slippers | Club Penguin server emulator for the original 2005 client | 44 | <https://github.com/wizguin/slippers> |
@@ -76,6 +84,7 @@
 | Hotline (mierau) | Modern Hotline client for macOS and iOS that speaks the classic Hotline protocol | 762 | <https://github.com/mierau/hotline> |
 | Mobius | Hotline server reimplemented in Go, compatible with classic Hotline clients | 190 | <https://github.com/jhalter/mobius> |
 | aim-oscar-server | Server that provides AIM OSCAR services to old AIM clients | 85 | <https://github.com/ox/aim-oscar-server> |
+| mrim-server | Mail.ru Agent (MRIM) server emulator | 72 | <https://github.com/mrimsu/mrim-server> |
 | Yumeko | Yahoo! Messenger service emulator for old Yahoo Messenger clients | 3 | <https://github.com/r0neko/yumeko> |
 
 ## Nintendo Online
@@ -83,10 +92,8 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | pkmn-classic-framework | Servers for Pokemon Gen IV/V online features such as the GTS | 290 | <https://github.com/mm201/pkmn-classic-framework> |
-| nds-constraint | Nintendo DS SSL certificate validation exploit used by DS online revival services | 286 | <https://github.com/KaeruTeam/nds-constraint> |
 | MH3SP | Server project that revives Monster Hunter Tri online play on Wii | 231 | <https://github.com/sepalani/MH3SP> |
 | WiiLink Patcher *(archived)* | Patcher that installs revived WiiConnect24 and Japanese Wii channels pointed at WiiLink | 218 | <https://github.com/WiiLink24/WiiLink24-Patcher> |
-| Pretendo SSSL | Wii U/3DS SSL exploit used to redirect Nintendo Network HTTPS traffic to replacement servers | 212 | <https://github.com/PretendoNetwork/SSSL> |
 | SatellaZone | Revival of the 3DS Nintendo Zone hotspot service | 155 | <https://github.com/Aftendo/SatellaZone> |
 | OUTRUN | Custom server that revives the shut-down Sonic Runners mobile game | 101 | <https://github.com/fluofoxxo/outrun> |
 | GiveMiiYouTube | Keeps the discontinued Wii U YouTube app working by patching it to a revived backend | 89 | <https://github.com/PretendoNetwork/GiveMiiYouTube> |
@@ -149,22 +156,27 @@
 | WiiLink nwc24 | Utilities for the WiiConnect24 protocol and file formats | 4 | <https://github.com/WiiLink24/nwc24> |
 | WiiLink Votes-Server | Revived backend for the Everybody Votes Channel | 4 | <https://github.com/WiiLink24/Votes-Server> |
 | homepass-pi | Scripts that run a Nintendo 3DS StreetPass/SpotPass Homepass relay on a Raspberry Pi | 3 | <https://github.com/superruzafa/homepass-pi> |
-| wc24-tools *(archived)* | Encrypts and decrypts WiiConnect24 files | 2 | <https://github.com/RiiConnect24/wc24-tools> |
 | wuc24 | WiiConnect24 standby client for Wii U mode (Cafe OS) | 2 | <https://github.com/waffulzz/wuc24> |
 
 ## PC Game Services (GameSpy, Battle.net, EA)
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
+| Kyber | Launcher adding community-hosted servers to Star Wars Battlefront II (2017) | 373 | <https://github.com/ArmchairDevelopers/Kyber> |
 | Downlord's FAF client | Client for Forged Alliance Forever, the community online service for Supreme Commander | 217 | <https://github.com/FAForever/downlords-faf-client> |
 | Project Cartographer | Restores Halo 2 PC (Vista) online multiplayer after Games for Windows Live shutdown | 192 | <https://github.com/pnill/cartographer> |
+| ZoneInternetGamesServer | Server reviving the Windows 7 and XP Internet Games | 160 | <https://github.com/provigz/ZoneInternetGamesServer> |
+| stmsrvemu | Emulator for early Steam servers | 134 | <https://github.com/real-pmein1/stmsrvemu> |
+| ggposrv | Unofficial GGPO matchmaking server reimplementation | 128 | <https://github.com/poliva/ggposrv> |
+| nfsuserver | Server emulator for Need for Speed: Underground online play | 125 | <https://github.com/HarpyWar/nfsuserver> |
+| ME3PSE | Mass Effect 3 private server emulator | 90 | <https://github.com/PrivateServerEmulator/ME3PSE> |
+| UT4MasterServer | Reimplementation of Epic's master server for Unreal Tournament pre-alpha | 77 | <https://github.com/timiimit/UT4MasterServer> |
 | FAF lobby server | Lobby server of Forged Alliance Forever, which replaced GPGnet for Supreme Commander: FA | 72 | <https://github.com/FAForever/server> |
 | gfll-dll | Patcher DLL that makes Games for Windows - LIVE work under Wine on Linux and macOS | 50 | <https://github.com/InvoxiPlayGames/gfll-dll> |
 | GfWLUtility | Utility to manage Games for Windows - LIVE installs and content after the service wound down | 32 | <https://github.com/InvoxiPlayGames/GfWLUtility> |
 | FAF Java API | REST API of the Forged Alliance Forever community service | 31 | <https://github.com/FAForever/faf-java-api> |
 | xlive-research | Reverse-engineering research on the Games for Windows Live xlive.dll | 23 | <https://github.com/widberg/xlive-research> |
 | OpenSpy UT3 proxy | Patches that move Unreal Tournament 3 online play to the OpenSpy GameSpy replacement | 18 | <https://github.com/openspy/ut3-proxy> |
-| Bug_OldProtoSSL | Exploits an EA ProtoSSL flaw so old EA games accept custom revival server certificates | 16 | <https://github.com/Aim4kill/Bug_OldProtoSSL> |
 | CnCNet tunnel server | Tunnel server for CnCNet, the revived online service for classic Westwood C&C games | 16 | <https://github.com/CnCNet/cncnet-server> |
 | OpenSpy web backend | Web services backend for the OpenSpy GameSpy replacement network | 14 | <https://github.com/openspy/openspy-web-backend> |
 | 333networks MasterServer | Replacement GameSpy master server for Unreal-engine and other classic games | 12 | <https://github.com/333networks/Masterserver-Qt5> |
@@ -183,6 +195,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
+| ProjectLighthouse | Clean-room open-source custom server for LittleBigPlanet | 258 | <https://github.com/LBPUnion/ProjectLighthouse> |
 | DreamPi | Raspberry Pi bridge between a Dreamcast dial-up modem and the internet | 142 | <https://github.com/Kazade/dreampi> |
 | PolarisServer | Phantasy Star Online 2 private server project in C# | 126 | <https://github.com/PolarisTeam/PolarisServer> |
 | MultiServer | Unified server suite for PlayStation Home, SVO, Medius and other PS2/PS3 online services | 61 | <https://github.com/GitHubProUser67/PSHome-MultiServer> |

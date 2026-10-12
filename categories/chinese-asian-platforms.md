@@ -1,16 +1,16 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md) · 269 projects
+[← All categories](../README.md) · 290 projects
 
-- [Bilibili](#bilibili) (47)
-- [Cloud Drives](#cloud-drives) (28)
-- [Douyin & Kuaishou](#douyin--kuaishou) (26)
-- [Games (miHoYo etc.)](#games-mihoyo-etc) (21)
-- [Japan & Korea](#japan--korea) (30)
-- [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (27)
-- [Shopping & Services](#shopping--services) (17)
-- [WeChat & QQ](#wechat--qq) (50)
-- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (23)
+- [Bilibili](#bilibili) (51)
+- [Cloud Drives](#cloud-drives) (31)
+- [Douyin & Kuaishou](#douyin--kuaishou) (25)
+- [Games (miHoYo etc.)](#games-mihoyo-etc) (24)
+- [Japan & Korea](#japan--korea) (36)
+- [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
+- [Shopping & Services](#shopping--services) (19)
+- [WeChat & QQ](#wechat--qq) (52)
+- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (24)
 
 ## Bilibili
 
@@ -30,8 +30,10 @@
 | BiliTools *(archived)* | Cross-platform Bilibili toolbox for downloading video, audio and danmaku via private APIs | 5,067 | <https://github.com/btjawa/BiliTools> |
 | JKVideo | 高颜值第三方 B 站 React Native 客户端 | 4,996 | <https://github.com/tiajinsha/JKVideo> |
 | BiliPai | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 4,821 | <https://github.com/jay3-yy/BiliPai> |
+| bilibili-android-client | Unofficial Bilibili Android client | 4,465 | <https://github.com/HotBitmapGG/bilibili-android-client> |
 | bv | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | 3,944 | <https://github.com/aaa1115910/bv> |
 | BiliRoamingX | ReVanced-based patches and integrations for the Bilibili Android app | 3,840 | <https://github.com/BiliRoamingX/BiliRoamingX> |
+| bilibili-mac-client | Unofficial Bilibili client for macOS | 3,836 | <https://github.com/typcn/bilibili-mac-client> |
 | PiliPalaX *(archived)* | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 | 3,403 | <https://github.com/orz12/PiliPalaX> |
 | ATV-Bilibili-demo | BiliBili Client Demo for Apple TV (tvOS) | 3,162 | <https://github.com/yichengchen/ATV-Bilibili-demo> |
 | bilimiao2 | bilimiao 2.x | 2,948 | <https://github.com/10miaomiao/bilimiao2> |
@@ -52,11 +54,13 @@
 | bilibili-api | Kotlin library for the Bilibili app API, including signing of requests | 526 | <https://github.com/czp3009/bilibili-api> |
 | BiliBiliMApp | 一个通过 iOS 逆向分析实现的 无广告版哔哩哔哩 客户端，感谢使用，欢迎Star。 | 514 | <https://github.com/TouchFriend/BiliBiliMApp> |
 | bilive_client | Node.js Bilibili account activity client implementing the live-stream protocol | 450 | <https://github.com/bilive/bilive_client> |
+| bilisoleil | Unofficial Bilibili Android client | 434 | <https://github.com/yoyiyi/bilisoleil> |
 | pilipro *(archived)* | 使用Flutter开发的BiliBili第三方安卓客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗。小字：pro是PeRsOnal的缩写，非professional（由于种种原因此项目已不再... | 412 | <https://github.com/naaammme/pilipro> |
 | MiniBili-WEB | Third-party Bilibili client for iOS, iPadOS, watchOS, macOS (tvOS, visionOS) | 408 | <https://github.com/ResistanceTo/MiniBili-WEB> |
 | biliuwp *(archived)* | bilibili uwp | 285 | <https://github.com/xiaoyaocz/biliuwp> |
 | BACNext | Bilibili API Collect Next: community continuation of Bilibili API documentation | 200 | <https://github.com/BACNext/BACNext> |
 | bilibili-downloader | Script to download Bilibili audio and video via its APIs | 156 | <https://github.com/foamzou/bilibili-downloader> |
+| bilisoleil-kotlin | Unofficial Kotlin Bilibili Android client | 140 | <https://github.com/yoyiyi/bilisoleil-kotlin> |
 | cilicili | A SwiftUI third-party iOS client experiment for Bilibili browsing, dynamics, video playback, and danmaku. | 133 | <https://github.com/Rone89/cilicili> |
 | biligo | Go SDK for Bilibili APIs | 91 | <https://github.com/iyear/biligo> |
 | BilibiliApis | Reverse-engineered Bilibili request signing algorithms | 90 | <https://github.com/cv-cat/BilibiliApis> |
@@ -82,6 +86,7 @@
 | baidupcsapi *(archived)* | Unofficial Baidu Netdisk API for Python | 1,240 | <https://github.com/ly0/baidupcsapi> |
 | aliyundrive-fuse *(archived)* | FUSE filesystem for Aliyun Drive | 933 | <https://github.com/messense/aliyundrive-fuse> |
 | aligo | Simple, extensible Python Aliyun Drive API library | 924 | <https://github.com/foyoux/aligo> |
+| fakeThunder | Unofficial Xunlei (Thunder) offline download client for OS X | 814 | <https://github.com/MartianZ/fakeThunder> |
 | LanZouCloud-API | Third-party Lanzou Cloud API for Python | 810 | <https://github.com/zaxtyson/LanZouCloud-API> |
 | aliyunpan | 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver | 756 | <https://github.com/PingKuNet/aliyunpan> |
 | BaiduPCS-Rust | 一个使用 Rust 和 Vue 3 构建的 百度网盘第三方客户端，提供多线程下载、多账号管理、自动备份与本地侧加密上传能力，并支持 Web 管理、访问密码与 TOTP 双因素认证。 | 739 | <https://github.com/komorebiCarry/BaiduPCS-Rust> |
@@ -91,9 +96,11 @@
 | 123pan | Third-party 123pan cloud drive client | 555 | <https://github.com/123panNextGen/123pan> |
 | fake115uploader | Emulates the 115 cloud drive client upload protocol | 384 | <https://github.com/orzogc/fake115uploader> |
 | quarkdrive-webdav | WebDAV server for Quark cloud drive | 362 | <https://github.com/chenqimiao/quarkdrive-webdav> |
+| BaiduOldDriver | C# library and tools for Baidu Netdisk private APIs | 262 | <https://github.com/pengw0048/BaiduOldDriver> |
 | 189Cloud-Downloader | Unthrottled Tianyi Cloud downloader including share links | 209 | <https://github.com/otokaze/189Cloud-Downloader> |
 | AliPCS-Py | Aliyun Drive API and command-line client | 174 | <https://github.com/PeterDing/AliPCS-Py> |
 | QuarkPan | Python client for Quark cloud drive | 159 | <https://github.com/lich0821/QuarkPan> |
+| 115wangpan | Unofficial Python SDK for 115.com cloud drive | 111 | <https://github.com/shichao-an/115wangpan> |
 | elevengo | Go API client for 115 Cloud Storage | 102 | <https://github.com/deadblue/elevengo> |
 | p115client | Python client for the 115 cloud drive web and app APIs | 66 | <https://github.com/ChenyangGao/p115client> |
 
@@ -124,7 +131,6 @@
 | Tiktok_Signature | Generates Douyin X-Bogus, msToken and ttwid values | 320 | <https://github.com/5ime/Tiktok_Signature> |
 | douyin-api-1 | Douyin data, live and video API wrappers | 224 | <https://github.com/jackspeng/douyin-api-1> |
 | tiktok-reverse-engineering | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 165 | <https://github.com/notemrovsky/tiktok-reverse-engineering> |
-| tiktok-web-reverse-engineering | TikTok web X-Bogus and X-Gnarly reverse engineering with strData/eData encrypt and decrypt | 85 | <https://github.com/justbeluga/tiktok-web-reverse-engineering> |
 | douyin_sign | Implementations of Douyin web a_bogus, X-Bogus and msToken algorithms | 76 | <https://github.com/ylcangel/douyin_sign> |
 | KuaiShou-Spider | Kuaishou reverse engineering: full API and live-room listener | 64 | <https://github.com/cv-cat/KuaiShou-Spider> |
 
@@ -149,9 +155,12 @@
 | Ark-Studio | Integrated Arknights asset management and extraction platform | 235 | <https://github.com/isHarryh/Ark-Studio> |
 | blue-archive-viewer | Blue Archive resource viewer | 201 | <https://github.com/respectZ/blue-archive-viewer> |
 | BA-AD | Tool and library that downloads the latest Blue Archive assets | 192 | <https://github.com/Deathemonic/BA-AD> |
+| Shorekeeper | Wuthering Waves server emulator in Rust | 173 | <https://github.com/thexeondev/Shorekeeper> |
 | Blue-Archive-Asset-Downloader | Downloads Blue Archive assets from different servers | 157 | <https://github.com/ZM-Kimu/Blue-Archive-Asset-Downloader> |
 | genshin-kit-node *(archived)* | Node.js wrapper for fetching Genshin Impact player data | 149 | <https://github.com/genshin-kit/genshin-kit-node> |
+| Sorapointa *(archived)* | Server software reimplementation for an anime game (Genshin Impact) | 149 | <https://github.com/Sorapointa/Sorapointa> |
 | Blue-Archive---Asset-Downloader *(archived)* | Blue Archive asset downloader | 127 | <https://github.com/K0lb3s-Datamines/Blue-Archive---Asset-Downloader> |
+| HollowPS | Zenless Zone Zero server emulator | 95 | <https://github.com/reversedrooms/HollowPS> |
 | hoyoapi | Unofficial HoYoLAB API wrapper library | 71 | <https://github.com/vermaysha/hoyoapi> |
 
 ## Japan & Korea
@@ -169,22 +178,28 @@
 | PixivFanboxDownloader | Browser extension for batch downloading Pixiv Fanbox files | 1,095 | <https://github.com/xuejianxianzun/PixivFanboxDownloader> |
 | KiwiTalk | Unofficial cross-platform KakaoTalk client (TypeScript and Rust) | 759 | <https://github.com/KiwiTalk/KiwiTalk> |
 | nndownload | Downloads and processes links from Niconico (nicovideo.jp) | 317 | <https://github.com/AlexAplin/nndownload> |
+| pixes | Unofficial pixiv app | 316 | <https://github.com/pixes-app/pixes> |
+| kmsg | Unofficial KakaoTalk CLI and MCP server for macOS | 275 | <https://github.com/channprj/kmsg> |
 | line-py | Python library for LINE Messenger's private API | 266 | <https://github.com/fadhiilrachman/line-py> |
 | fanbox-dl | Pixiv Fanbox downloader | 264 | <https://github.com/hareku/fanbox-dl> |
 | PiPixiv | 一个使用Compose Multiplatform开发的第三方Pixiv客户端，支持国内直连 | 262 | <https://github.com/darriousliu/PiPixiv> |
 | pixiv-app-api | Promise-based client for the Pixiv app API | 226 | <https://github.com/akameco/pixiv-app-api> |
+| xeit | Opens Korean encrypted secure emails without ActiveX | 200 | <https://github.com/tomyun/xeit> |
 | revanced-patches | Patches for KakaoTalk and DCInside Android apps | 176 | <https://github.com/AmpleReVanced/revanced-patches> |
 | pykakao *(archived)* | Python wrapper for the KakaoTalk LOCO and HTTP protocols | 163 | <https://github.com/hallazzang/pykakao> |
 | kakaocli | KakaoTalk CLI for AI agents - read and send messages via database + UI automation | 161 | <https://github.com/silver-flight-group/kakaocli> |
 | pixivpy-async | Async Python client for the Pixiv API | 161 | <https://github.com/Mikubill/pixivpy-async> |
 | pixiv-api-client | Pixiv API client for Node.js and React Native | 155 | <https://github.com/alphasp/pixiv-api-client> |
 | core | A Node.js module to make unofficial KakaoTalk bots | 137 | <https://github.com/remote-kakao/core> |
+| openkakao-cli | Unofficial KakaoTalk CLI for macOS | 131 | <https://github.com/JungHoonGhae/openkakao-cli> |
 | pixiv-api | Documented and tested wrapper around Pixiv's app API | 131 | <https://github.com/azuline/pixiv-api> |
 | LINE-instant-messenger-protocol | It is work of Matti Virkkunen, link to http://altrepo.eu/git/line-protocol.git for latest update. | 114 | <https://github.com/ruyaoyao/LINE-instant-messenger-protocol> |
 | Pixiv-SwiftUI | 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS | 111 | <https://github.com/Eslzzyl/Pixiv-SwiftUI> |
 | mercari-python-api *(archived)* | Python API for the Mercari marketplace | 94 | <https://github.com/philipperemy/mercari-python-api> |
 | LINE-Source | Extracted and readable LINE client-side Thrift protocol definitions | 57 | <https://github.com/BroNils/LINE-Source> |
 | Hanairo | 一款使用 SwiftUI 构建的，为 iOS 原生开发的第三方 Pixiv 客户端 | 44 | <https://github.com/youshen2/Hanairo> |
+| soop | Unofficial API library for the SOOP (AfreecaTV) live streaming platform | 38 | <https://github.com/reindeer002/soop> |
+| paypax *(archived)* | Unofficial PayPay API wrapper library | 34 | <https://github.com/EdamAme-x/paypax> |
 | Line-Unofficial-API | Line-Unofficial-API | 8 | <https://github.com/bobwei/Line-Unofficial-API> |
 | nico | Go client for the Niconico API | 2 | <https://github.com/178inaba/nico> |
 | niconico.py | Python library to fetch Niconico video data and downloads | 0 | <https://github.com/Negima1072/niconico.py> |
@@ -210,7 +225,8 @@
 | QtUnblockNeteaseMusic | Qt desktop client for UnblockNeteaseMusic | 709 | <https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic> |
 | UnblockNeteaseMusic | Go implementation of UnblockNeteaseMusic | 520 | <https://github.com/cnsilvan/UnblockNeteaseMusic> |
 | QQMusicApi | Python QQ Music API wrapper | 508 | <https://github.com/L-1124/QQMusicApi> |
-| QQKWKG-TriMusicDecrypt | Decrypts QQ Music, Kuwo and Kugou encrypted audio formats | 418 | <https://github.com/Acooldog/QQKWKG-TriMusicDecrypt> |
+| electron-netease-cloud-music | Unofficial Electron desktop client for NetEase Cloud Music | 478 | <https://github.com/Rocket1184/electron-netease-cloud-music> |
+| netease-cloud-music | Golang NetEase Cloud Music API client and CLI | 408 | <https://github.com/chaunsin/netease-cloud-music> |
 | UnblockNeteaseMusic *(archived)* | Koa proxy unlocking NetEase Cloud Music abroad and replacing copyrighted tracks | 336 | <https://github.com/ITJesse/UnblockNeteaseMusic> |
 | MeloX | 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。 / A native th... | 332 | <https://github.com/youshen2/MeloX> |
 | MiguMusicApi | Migu Music Node.js API | 272 | <https://github.com/jsososo/MiguMusicApi> |
@@ -228,20 +244,22 @@
 | 12306 *(archived)* | 12306 China Railway ticket grabbing and booking tool (archived) | 34,061 | <https://github.com/testerSunshine/12306> |
 | py12306 | 12306 China Railway ticket booking assistant with clustering and multi-account support | 14,967 | <https://github.com/pjialin/py12306> |
 | jd_sign_bot *(archived)* | JD.com daily sign-in bot | 4,362 | <https://github.com/ruicky/jd_sign_bot> |
-| easy12306 | Machine-learning solver for the 12306 image captcha | 2,910 | <https://github.com/zhaipro/easy12306> |
+| 12306ForMac | Unofficial China Railway 12306 ticketing client for Mac | 2,895 | <https://github.com/fancymax/12306ForMac> |
 | Coolapk-UWP | 一个基于 UWP 平台的第三方酷安客户端 | 2,663 | <https://github.com/Coolapk-UWP/Coolapk-UWP> |
 | 12306-mcp | MCP server for 12306 train ticket search | 2,342 | <https://github.com/Joooook/12306-mcp> |
 | coolapk-desktop | 酷安跨平台桌面版 | 1,501 | <https://github.com/daimiaopeng/coolapk-desktop> |
-| Crack-JS-Spider | JS anti-crawler parameter reverse engineering (Pinduoduo anti_content, QQ Music sign, BOSS Zhipin) | 1,038 | <https://github.com/LoseNine/Crack-JS-Spider> |
 | boss-cli | CLI for the BOSS Zhipin job platform via reverse-engineered APIs | 977 | <https://github.com/jackwener/boss-cli> |
 | spider_reverse | Crawler reverse-engineering case studies including WeChat mini program decompilation | 928 | <https://github.com/0xAllenChen/spider_reverse> |
 | ACAC | 一个第三方AcFun TV和Pad客户端，A third-party AcFun client for TV & Pad。 | 817 | <https://github.com/xiaye13579/ACAC> |
 | 12306_ticket_helper | Browser helper for booking tickets on 12306 | 803 | <https://github.com/iccfish/12306_ticket_helper> |
 | Coolapk-Lite | 一个基于 UWP 平台的第三方酷安客户端精简版 | 617 | <https://github.com/Coolapk-UWP/Coolapk-Lite> |
-| 12306_code_server | Self-hosted 12306 captcha recognition server | 535 | <https://github.com/yinaoxiong/12306_code_server> |
+| signature_algorithm | Collection of reversed request-signing and encryption algorithms of Chinese apps and mini programs | 433 | <https://github.com/gadfly0x/signature_algorithm> |
 | TaoBaoApis | Taobao signing algorithm reverse and API client with websocket automation | 337 | <https://github.com/cv-cat/TaoBaoApis> |
+| doubean-public | Unofficial Douban client for Android | 261 | <https://github.com/Bumblebee202111/doubean-public> |
 | 12306_Ticket | 12306 ticket purchase, cancel and refund program | 156 | <https://github.com/Henryhaohao/12306_Ticket> |
 | unidbg-jd-sign | JD app API signature generation by emulating the native library with unidbg | 153 | <https://github.com/yongjiu8/unidbg-jd-sign> |
+| DoubanMApp | Ad-free Douban iOS client built from iOS reverse analysis | 94 | <https://github.com/TouchFriend/DoubanMApp> |
+| douban-openapi-server *(archived)* | Douban API server providing unofficial media information APIs | 68 | <https://github.com/caryyu/douban-openapi-server> |
 
 ## WeChat & QQ
 
@@ -254,11 +272,9 @@
 | WeChatTweak | macOS WeChat tweak: anti-recall and multiple instances via binary injection | 13,828 | <https://github.com/sunnyyoung/WeChatTweak> |
 | NapCatQQ | NapCat: OneBot 11 bot framework built by hooking the NTQQ desktop client | 10,912 | <https://github.com/NapNeko/NapCatQQ> |
 | go-cqhttp | Go implementation of the reverse-engineered QQ protocol exposing the OneBot API | 10,622 | <https://github.com/Mrs4s/go-cqhttp> |
-| PyWxDump | PyWxDump: WeChat PC key extraction and chat database decryption (repo now emptied) | 9,649 | <https://github.com/xaoyaoo/PyWxDump> |
 | WechatExporter | Exports WeChat chat history from iTunes/iOS backups | 8,525 | <https://github.com/BlueMatthew/WechatExporter> |
-| WeChatRobot | WeChat hook bot with database decryption and WeCom hooking | 7,217 | <https://github.com/TonyChen56/WeChatRobot> |
 | LiteLoaderQQNT *(archived)* | Plugin loader for the QQNT Electron client | 7,070 | <https://github.com/LiteLoaderQQNT/LiteLoaderQQNT> |
-| wechatDataBackup | WeChat chat history backup and viewer that decrypts local databases | 6,419 | <https://github.com/git-jiadong/wechatDataBackup> |
+| weweChat *(archived)* | Unofficial WeChat desktop client built on the web WeChat protocol | 5,698 | <https://github.com/trazyn/weweChat> |
 | echotrace | Local WeChat chat history export and analysis tool | 3,837 | <https://github.com/ycccccccy/echotrace> |
 | LuckyLilliaBot | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,655 | <https://github.com/LLOneBot/LuckyLilliaBot> |
 | Icalingua-plus-plus | Third-party QQ desktop client built on reverse-engineered protocol libraries | 3,380 | <https://github.com/Icalingua-plus-plus/Icalingua-plus-plus> |
@@ -266,9 +282,12 @@
 | oicq *(archived)* | Node.js QQ bot library implementing the Android QQ protocol | 2,630 | <https://github.com/takayama-lily/oicq> |
 | WeChatRedEnvelop *(archived)* | iOS WeChat tweak that automatically grabs red envelopes | 2,291 | <https://github.com/buginux/WeChatRedEnvelop> |
 | wechat-dump | Analyzing your wechat message history from android | 2,018 | <https://github.com/ppwwyyxx/wechat-dump> |
+| WechatMagician | Xposed module to control and extend WeChat on Android | 1,894 | <https://github.com/Gh0u1L5/WechatMagician> |
 | wechat4u | JavaScript implementation of the WeChat web protocol | 1,863 | <https://github.com/nodeWechat/wechat4u> |
 | ComWeChatRobot *(archived)* | PC WeChat robot via hooking, exposed as a COM interface | 1,814 | <https://github.com/ljc545w/ComWeChatRobot> |
+| WechatSpellbook | Kotlin WeChat plugin framework on Xposed | 1,732 | <https://github.com/Gh0u1L5/WechatSpellbook> |
 | MiraiGo | Go port of the Mirai QQ protocol implementation | 1,213 | <https://github.com/Mrs4s/MiraiGo> |
+| FishChat *(archived)* | Hooks WeChat on non-jailbroken iOS devices | 1,102 | <https://github.com/yulingtianxia/FishChat> |
 | wxbot | PC WeChat hook module and bot | 1,100 | <https://github.com/jwping/wxbot> |
 | qclaw-wechat-client *(archived)* | Reverse-engineered TypeScript client for QClaw's WeChat Access API | 797 | <https://github.com/photon-hq/qclaw-wechat-client> |
 | puppet-padlocal | Wechaty puppet using the WeChat iPad protocol | 769 | <https://github.com/wechaty/puppet-padlocal> |
@@ -279,20 +298,21 @@
 | ChatGPT-weBot | ChatGPT WeChat bot built on a WeChat hook interface | 645 | <https://github.com/SnapdragonLee/ChatGPT-weBot> |
 | puppet-xp | Wechaty puppet for the Windows WeChat client via hooking | 552 | <https://github.com/wechaty/puppet-xp> |
 | wechat-explorer *(archived)* | WeChat chat history export and analysis tool | 540 | <https://github.com/humiaozuzu/wechat-explorer> |
-| WechatDecrypt | WeChat message database decryption tool | 509 | <https://github.com/HackerDev-Felix/WechatDecrypt> |
-| WeChat-Data-Analysis | WeChat chat export and database decryption for iPhone and macOS | 475 | <https://github.com/allen1881996/WeChat-Data-Analysis> |
 | wxhook | Python WeChat bot framework hooking multiple PC WeChat versions | 396 | <https://github.com/miloira/wxhook> |
 | WechatHook | Android WeChat hooking with Xposed and accessibility services | 385 | <https://github.com/duqian291902259/WechatHook> |
 | weread-exporter (lbq110) | Exports full WeRead books to Markdown via Playwright + Canvas hook | 321 | <https://github.com/lbq110/weread-exporter> |
 | wxwork_pc_api | WeCom (WeChat Work) PC hook bot | 256 | <https://github.com/linuxxx/wxwork_pc_api> |
+| wxappUnpacker | Node.js unpacker restoring WeChat mini program .wxapkg resources | 225 | <https://github.com/threecha/wxappUnpacker> |
 | wx-mp-mcp | MCP server that unpacks WeChat mini programs and recovers API signing logic | 224 | <https://github.com/WhiteNightShadow/wx-mp-mcp> |
 | miniapp-cdp-mcp | MCP server for WeChat mini program reverse engineering through Chrome DevTools | 213 | <https://github.com/zhizhuodemao/miniapp-cdp-mcp> |
 | LagrangeV2 *(archived)* | Second-generation Lagrange NTQQ protocol implementation | 210 | <https://github.com/LagrangeDev/LagrangeV2> |
+| gtk-qq *(archived)* | Unofficial GTK4 Linux QQ client in Rust | 200 | <https://github.com/lomirus/gtk-qq> |
 | protocol-versions | Tracks the latest QQ client protocol versions and parameters | 143 | <https://github.com/RomiChan/protocol-versions> |
 | Go-Mirai-Client | MiraiGo-based QQ client exposing bot messages over reverse WebSocket | 138 | <https://github.com/ProtobufBot/Go-Mirai-Client> |
 | lagrange-python | Python implementation of the NTQQ PC protocol | 135 | <https://github.com/LagrangeDev/lagrange-python> |
 | puppet-wechat4u | Wechaty puppet based on the wechat4u web protocol | 129 | <https://github.com/wechaty/puppet-wechat4u> |
-| wechat-decrypt | WeChat 4.0 database decryptor with memory-based key extraction | 104 | <https://github.com/328336690/wechat-decrypt> |
+| seeWxapkg | Web tool to decompile WeChat mini programs | 113 | <https://github.com/Leslie-SSS/seeWxapkg> |
+| WeiXin-Private-API *(archived)* | WeChat Official Account platform private API wrapper | 112 | <https://github.com/lealife/WeiXin-Private-API> |
 | pc-wechat-hook-http-api | PC WeChat hook service exposing HTTP and WebSocket APIs | 101 | <https://github.com/daenmax/pc-wechat-hook-http-api> |
 | wechat-ilink-client | TypeScript client for WeChat iLink bot protocol, reversed from openclaw-weixin | 82 | <https://github.com/photon-hq/wechat-ilink-client> |
 | androidqq-sniffer | Tools for sniffing the Android QQ protocol | 54 | <https://github.com/yggo/androidqq-sniffer> |
@@ -325,3 +345,4 @@
 | WeiboCrawler | Cookie-free Weibo crawler for users, posts, comments and reposts | 167 | <https://github.com/XWang20/WeiboCrawler> |
 | WeiboApis | Reverse-engineered Weibo request algorithms | 61 | <https://github.com/cv-cat/WeiboApis> |
 | ZhihuApis | Reverse-engineered Zhihu request signing algorithms | 49 | <https://github.com/cv-cat/ZhihuApis> |
+| zhihuapi-py *(archived)* | Unofficial API for Zhihu | 46 | <https://github.com/syaning/zhihuapi-py> |

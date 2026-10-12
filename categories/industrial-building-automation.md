@@ -1,14 +1,14 @@
 # Industrial & Building Automation
 
-[← All categories](../README.md) · 187 projects
+[← All categories](../README.md) · 196 projects
 
 - [Building Automation](#building-automation) (1)
-- [CNC & Machine Tools](#cnc--machine-tools) (9)
-- [Energy Meters](#energy-meters) (11)
+- [CNC & Machine Tools](#cnc--machine-tools) (10)
+- [Energy Meters](#energy-meters) (15)
 - [Gates, Blinds & Garage](#gates-blinds--garage) (15)
-- [Heating & Heat Pump Buses](#heating--heat-pump-buses) (86)
+- [Heating & Heat Pump Buses](#heating--heat-pump-buses) (88)
 - [Industrial Robots](#industrial-robots) (1)
-- [PLC Protocols](#plc-protocols) (42)
+- [PLC Protocols](#plc-protocols) (44)
 - [Ventilation, Pool & Water](#ventilation-pool--water) (22)
 
 ## Building Automation
@@ -24,6 +24,7 @@
 | inkscape-silhouette | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 680 | <https://github.com/fablabnbg/inkscape-silhouette> |
 | meerk40t | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 435 | <https://github.com/meerk40t/meerk40t> |
 | pyLSV2 | Pure-Python implementation of Heidenhain's LSV2 CNC control protocol | 92 | <https://github.com/drunsinn/pyLSV2> |
+| cnc3018-offline-controller | Open-source firmware for the CNC3018 offline controller | 89 | <https://github.com/positron96/cnc3018-offline-controller> |
 | ruida-laser | Reverse-engineered protocol and file format of Ruida laser controllers (RDWorks, USB, Ethernet) | 64 | <https://github.com/jnweiger/ruida-laser> |
 | ruida | Decoder and tooling for the scrambled RDWorks .rd laser file format | 44 | <https://github.com/kkaempf/ruida> |
 | inkscape-thunderlaser | Inkscape extension to drive Ruida-based laser cutters directly | 20 | <https://github.com/jnweiger/inkscape-thunderlaser> |
@@ -36,7 +37,11 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | amsreader-firmware | ESP firmware reading HAN port data from smart electricity meters to MQTT | 465 | <https://github.com/UtilitechAS/amsreader-firmware> |
+| Home-Assistant-custom-components-Tauron-AMIplus | Home Assistant sensor for Tauron eLicznik energy data via unofficial API | 220 | <https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus> |
+| Peacefair-PZEM-004T- | Reverse engineered schematics and interface software for the PZEM-004T power meter | 108 | <https://github.com/TheHWcave/Peacefair-PZEM-004T-> |
 | ha-kamstrup_403 | Home Assistant integration for Kamstrup 403 heat meters via the optical KMP protocol | 91 | <https://github.com/golles/ha-kamstrup_403> |
+| vienna-smartmeter | Python library for the Wiener Netze smart meter private API | 82 | <https://github.com/platysma/vienna-smartmeter> |
+| emerald_electricity_advisor | Reverse engineered tools and docs for the Emerald Electricity Advisor | 61 | <https://github.com/WeekendWarrior1/emerald_electricity_advisor> |
 | PyKamstrup *(archived)* | Implementation of the Kamstrup Meter Protocol (KMP) | 61 | <https://github.com/bsdphk/PyKamstrup> |
 | kamstrup-402-mqtt | Python library reading Kamstrup Multical 402 heat meters over the optical eye | 54 | <https://github.com/matthijsvisser/kamstrup-402-mqtt> |
 | esphome_multical402 | ESPHome component for Kamstrup Multical 402 heat meters | 43 | <https://github.com/cenobitedk/esphome_multical402> |
@@ -86,11 +91,13 @@
 | esp-arduino-ebus | ESP-based Wi-Fi firmware for eBUS adapter hardware | 133 | <https://github.com/danielkucera/esp-arduino-ebus> |
 | inetbox.py | Software implementation of a Truma iNet box for Truma CP Plus caravan heaters over LIN | 120 | <https://github.com/danielfett/inetbox.py> |
 | infinitive | Impersonates a SAM on the Carrier Infinity ABCD RS-485 bus for local control | 116 | <https://github.com/acd/infinitive> |
+| ESP_Buderus_KM271 | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 114 | <https://github.com/dewenni/ESP_Buderus_KM271> |
 | remeha_home | Home Assistant integration for the private Remeha Home cloud API | 114 | <https://github.com/msvisser/remeha_home> |
 | esphome_toshiba_suzumi | ESPHome component for Toshiba air conditioners via their serial protocol | 113 | <https://github.com/pedobry/esphome_toshiba_suzumi> |
 | FujiHeatPump | Control Fujitsu air conditioners from Arduino via the reverse-engineered indoor-unit bus | 107 | <https://github.com/unreality/FujiHeatPump> |
 | esphome-truma_inetbox | ESPHome component to control Truma CP Plus heaters over LIN | 99 | <https://github.com/Fabian-Schmidt/esphome-truma_inetbox> |
 | luxtronik | Home Assistant integration for Luxtronik heat pump controllers | 99 | <https://github.com/Bouni/luxtronik> |
+| Nefit-Buderus-EMS-bus-Arduino-Domoticz | Reads Nefit/Buderus EMS bus datagrams into Domoticz | 90 | <https://github.com/bbqkees/Nefit-Buderus-EMS-bus-Arduino-Domoticz> |
 | esphome-fujitsu | ESPHome component for Fujitsu air conditioners via the reverse-engineered indoor-unit bus | 89 | <https://github.com/FujiHeatPump/esphome-fujitsu> |
 | ecodan-ha-local | Local Home Assistant control of Mitsubishi Ecodan heat pumps via CN105 | 85 | <https://github.com/rbroker/ecodan-ha-local> |
 | python-panasonic-comfort-cloud | Python module for the private Panasonic Comfort Cloud climate API | 85 | <https://github.com/lostfields/python-panasonic-comfort-cloud> |
@@ -185,6 +192,7 @@
 | snap7 | Snap7 suite: open client, server and partner implementation of the Siemens S7comm protocol | 284 | <https://github.com/SCADACS/snap7> |
 | Sharp7 | Sharp7: C# port of the Snap7 Siemens S7comm client packaged for NuGet | 258 | <https://github.com/fbarresi/Sharp7> |
 | S7CommPlusDriver | Reverse-engineered S7comm-plus driver for Siemens S7-1200/1500 PLCs | 228 | <https://github.com/thomas-v2/S7CommPlusDriver> |
+| ICSREF | Tool for reverse engineering industrial control system (CODESYS) binaries | 185 | <https://github.com/momalab/ICSREF> |
 | node-snap7 | Node.js bindings for the Snap7 Siemens S7 communication library | 180 | <https://github.com/mathiask88/node-snap7> |
 | snap7 | Official Snap7 repository: multi-platform Siemens S7 Ethernet communication suite | 175 | <https://github.com/davenardella/snap7> |
 | pycomm | Python modules to talk to Allen-Bradley PLCs (ControlLogix tags, SLC/PCCC) | 158 | <https://github.com/ruscito/pycomm> |
@@ -193,6 +201,7 @@
 | libfins | Multi-platform C library for the Omron FINS PLC protocol | 133 | <https://github.com/lammertb/libfins> |
 | mcprotocol | Node.js implementation of the Mitsubishi MC protocol for FX/Q/L PLCs | 121 | <https://github.com/plcpeople/mcprotocol> |
 | acd | Tools to parse Rockwell Studio 5000 .ACD project files, a proprietary binary format | 112 | <https://github.com/hutcheb/acd> |
+| scada-stuff | Scripts and tools for reverse engineering SCADA/ICS devices | 110 | <https://github.com/nezza/scada-stuff> |
 | pymcprotocol | Python implementation of the Mitsubishi MELSEC MC protocol | 105 | <https://github.com/senrust/pymcprotocol> |
 | mokka7 | Mokka7: pure-Java port of the Snap7 Siemens S7comm client | 69 | <https://github.com/comtel2000/mokka7> |
 | go-mcprotocol | Go client for the Mitsubishi MELSEC MC protocol | 51 | <https://github.com/future-architect/go-mcprotocol> |

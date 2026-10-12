@@ -1,17 +1,17 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md) · 336 projects
+[← All categories](../README.md) · 362 projects
 
 - [Apple Silicon (Asahi)](#apple-silicon-asahi) (18)
 - [Drawing Tablets & Input](#drawing-tablets--input) (16)
 - [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (19)
-- [GPU Drivers](#gpu-drivers) (15)
-- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (76)
-- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (29)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (66)
-- [Laptop EC & Peripherals](#laptop-ec--peripherals) (58)
-- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (26)
-- [Wi-Fi & Radios](#wi-fi--radios) (13)
+- [GPU Drivers](#gpu-drivers) (16)
+- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (80)
+- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (31)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (72)
+- [Laptop EC & Peripherals](#laptop-ec--peripherals) (63)
+- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (31)
+- [Wi-Fi & Radios](#wi-fi--radios) (16)
 
 ## Apple Silicon (Asahi)
 
@@ -87,7 +87,10 @@
 |---|---|--:|---|
 | applecpu | Reverse-engineered Apple Firestorm/Icestorm CPU microarchitecture notes | 265 | <https://github.com/dougallj/applecpu> |
 | mesa-lima | Development tree of the Lima Mali-400 driver before upstream Mesa merge | 164 | <https://github.com/yuq/mesa-lima> |
+| gddr6 | Linux GDDR6/GDDR6X VRAM temperature reader for NVIDIA RTX cards | 157 | <https://github.com/olealgoritme/gddr6> |
+| radeon-tools | AMD Radeon reverse engineering tools | 154 | <https://github.com/fail0verflow/radeon-tools> |
 | grate | Reverse-engineering tools and docs for the NVIDIA Tegra 2/3 GPU (open Tegra graphics) | 90 | <https://github.com/grate-driver/grate> |
+| linux_openpvrsgx | Reshaping PowerVR SGX GPL kernel drivers for mainline Linux | 65 | <https://github.com/openpvrsgx-devgroup/linux_openpvrsgx> |
 | mali-isa-docs | Reverse-engineered documentation of Arm Mali GPU shader ISAs | 43 | <https://github.com/cwabbott0/mali-isa-docs> |
 | blackwell-isa | Reverse-engineered ISA database for NVIDIA SM120 Blackwell GPUs | 16 | <https://github.com/kacper-daftcode/blackwell-isa> |
 | libvdpau-tegra | VDPAU video decode driver for NVIDIA Tegra built from reverse-engineered hardware | 16 | <https://github.com/grate-driver/libvdpau-tegra> |
@@ -96,8 +99,6 @@
 | Freedreno / Turnip | Reverse-engineered Mesa OpenGL and Vulkan drivers for Qualcomm Adreno GPUs |  | <https://docs.mesa3d.org/drivers/freedreno.html> |
 | Lima | Reverse-engineered Mesa driver for Arm Mali-400/450 (Utgard) GPUs |  | <https://docs.mesa3d.org/drivers/lima.html> |
 | Mesa | Mesa 3D: hosts reverse-engineered GPU drivers (panfrost, lima, freedreno, etnaviv, nouveau, asahi, NVK) |  | <https://gitlab.freedesktop.org/mesa/mesa> |
-| Nouveau | Reverse-engineered open-source driver stack for NVIDIA GPUs (kernel DRM + Mesa) |  | <https://nouveau.freedesktop.org> |
-| nouveau kernel tree | Nouveau DRM kernel driver development tree for NVIDIA GPUs |  | <https://gitlab.freedesktop.org/drm/nouveau> |
 | NVK | Open-source Mesa Vulkan driver for NVIDIA GPUs built on nouveau |  | <https://docs.mesa3d.org/drivers/nvk.html> |
 | Panfrost / PanVK | Reverse-engineered Mesa driver for Arm Mali Midgard, Bifrost and Valhall GPUs |  | <https://docs.mesa3d.org/drivers/panfrost.html> |
 
@@ -128,17 +129,21 @@
 | alienfx | CLI and GUI to control Alienware lighting effects on Linux | 339 | <https://github.com/trackmastersteve/alienfx> |
 | msi-keyboard | MSI SteelSeries laptop keyboard LED controller (reverse engineered HID) | 313 | <https://github.com/stephenlacy/msi-keyboard> |
 | SimpleDeckyTDP | Decky plugin for TDP, CPU boost and GPU control on Linux PC handhelds | 297 | <https://github.com/aarron-lee/SimpleDeckyTDP> |
+| avell-unofficial-control-center | Unofficial control center for Avell laptops on Linux | 289 | <https://github.com/rodgomesc/avell-unofficial-control-center> |
 | LenovoController *(archived)* | Lightweight Windows alternative to Lenovo Vantage for Legion laptops | 278 | <https://github.com/ViRb3/LenovoController> |
 | MSIKLM | Control the SteelSeries keyboard lighting of MSI gaming laptops on Linux | 255 | <https://github.com/Gibtnix/MSIKLM> |
 | AsusFanControl | Small fan control app for ASUS laptops on Windows without Armoury Crate | 254 | <https://github.com/Karmel0x/AsusFanControl> |
 | OmenCore | Performance control for HP Omen laptops replacing Omen Gaming Hub | 249 | <https://github.com/theantipopau/omencore> |
 | OMEN Space | Command center for HP OMEN and Victus laptops on Linux | 245 | <https://github.com/yunusemreyl/omen-space> |
+| Ayuz | Unofficial MyAsus alternative control center for Linux | 235 | <https://github.com/Traciges/Ayuz> |
 | hp-omen-linux-module | Linux kernel module for HP Omen keyboard lighting and performance settings | 226 | <https://github.com/pelrun/hp-omen-linux-module> |
 | AWCC (Linux) | Unofficial Linux alternative to Alienware Command Center for Dell G series | 201 | <https://github.com/tr1xem/AWCC> |
 | asus-wmi-screenpad | asus-wmi kernel module variant with ScreenPad brightness support for ASUS laptops | 182 | <https://github.com/Plippo/asus-wmi-screenpad> |
+| gpd-win-tricks | Info and fixes for running Linux on GPD Win devices | 165 | <https://github.com/aarron-lee/gpd-win-tricks> |
 | ryzen_smu | Linux kernel driver exposing the AMD Ryzen System Management Unit mailbox to userspace | 152 | <https://github.com/leogx9r/ryzen_smu> |
 | clevo-indicator | Ubuntu fan control indicator for Clevo laptops using direct EC access | 148 | <https://github.com/SkyLandTW/clevo-indicator> |
 | OmenXHub | Lightweight offline replacement for HP OMEN Gaming Hub | 143 | <https://github.com/MasonDye/OmenXHub> |
+| Lecoo-Control-Center | Rust daemon controlling fans, TDP and battery on Lecoo laptops | 141 | <https://github.com/LaVashikk/Lecoo-Control-Center> |
 | razer-laptop-control-no-dkms *(archived)* | Userspace Razer Blade fan, power and RGB control on Linux without a kernel module | 137 | <https://github.com/Razer-Linux/razer-laptop-control-no-dkms> |
 | akbl *(archived)* | Control Alienware computer lights under GNU/Linux | 132 | <https://github.com/rsm-gh/akbl> |
 | omen-fan | Fan control utility for HP Omen laptops on Linux via EC registers | 111 | <https://github.com/alou-S/omen-fan> |
@@ -193,11 +198,13 @@
 | elgato-gchd | Reverse engineered Linux userspace driver for the Elgato Game Capture HD | 298 | <https://github.com/tolga9009/elgato-gchd> |
 | Linux Arctis Manager | Open replacement for SteelSeries GG to manage Arctis headsets and ChatMix on Linux | 210 | <https://github.com/elegos/Linux-Arctis-Manager> |
 | SoundcoreManager | Rust app to control Anker Soundcore headphones over Bluetooth | 183 | <https://github.com/gmallios/SoundcoreManager> |
+| macbook12-audio-driver | Linux audio driver for the CS4208 codec in the 12-inch MacBook | 173 | <https://github.com/leifliddy/macbook12-audio-driver> |
 | sc0710 | Linux driver for the Elgato 4K60 Pro Mk.2 capture card | 162 | <https://github.com/stoth68000/sc0710> |
 | Arctis Sound Manager | SteelSeries GG and Sonar alternative for Arctis headsets on Linux with mixer and EQ | 159 | <https://github.com/loteran/Arctis-Sound-Manager> |
 | sc0710 (multi-client) | Multi-client Linux driver for Elgato 4K60 Pro MK.2, 4K Pro and Cam Link Pro capture cards | 147 | <https://github.com/Nakildias/sc0710> |
 | PS4 Camera Tools | Tools to load firmware and use the PlayStation 4 camera on PC | 143 | <https://github.com/ps4eye/ps4eye> |
 | HyperHeadset | CLI and tray app to monitor and manage HyperX Cloud II and Stinger headsets on Linux/macOS | 126 | <https://github.com/LennardKittner/HyperHeadset> |
+| Ozzy | Driver for Ploytec-based USB audio interfaces | 113 | <https://github.com/mischa85/Ozzy> |
 | QuadcastRGB | Set RGB lights on HyperX QuadCast S and DuoCast microphones on Linux | 108 | <https://github.com/Ors1mer/QuadcastRGB> |
 | MixiD | Unofficial Linux control panel for Audient iD interfaces using a reverse engineered USB protocol | 85 | <https://github.com/TheOnlyJoey/MixiD> |
 | arctis-battery-percentage *(archived)* | Shows SteelSeries Arctis wireless headset battery as a notification | 69 | <https://github.com/atagulalan/arctis-battery-percentage> |
@@ -231,8 +238,11 @@
 | OWON-VDS1022 | Unofficial improved software release for the OWON VDS1022/I USB oscilloscope | 306 | <https://github.com/florentbr/OWON-VDS1022> |
 | rd-usb | Web GUI for RuiDeng/Riden USB testers (UM34C, UM24C, UM25C, TC66C) | 276 | <https://github.com/kolinger/rd-usb> |
 | P2Pro-Viewer | Viewer and API for the InfiRay P2 Pro thermal camera with a reverse engineered protocol | 256 | <https://github.com/LeoDJ/P2Pro-Viewer> |
+| ppk2-api-python | Unofficial Python API for the Nordic Power Profiler Kit II | 255 | <https://github.com/IRNAS/ppk2-api-python> |
 | fnirsi-usb-power-data-logger | Data logger for FNIRSI FNB48, C1 and FNB58 USB power meters | 244 | <https://github.com/baryluk/fnirsi-usb-power-data-logger> |
+| AWG_DHO8-900 | Arbitrary waveform generator add-on for Rigol DHO800/DHO900 oscilloscopes | 216 | <https://github.com/MatthiasElectronic/AWG_DHO8-900> |
 | UT210E | Reverse engineered information and data-logging for the UNI-T UT210E clamp meter | 200 | <https://github.com/af3556/UT210E> |
+| FNIRSI-1013D-1014D-Hack | Reverse engineering resources and firmware for FNIRSI 1013D/1014D scopes | 155 | <https://github.com/pecostm32/FNIRSI-1013D-1014D-Hack> |
 | rusty_meter | Rust app to operate OWON XDM and Victor bench multimeters without vendor software | 143 | <https://github.com/markusdd/rusty_meter> |
 | Hantek6022API | Python API for the Hantek 6022BE USB scope, reverse engineered from USB traces | 137 | <https://github.com/rpcope1/Hantek6022API> |
 | qrigol | Qt assistant for Rigol DS1000 series scopes over USB | 134 | <https://github.com/wd5gnr/qrigol> |
@@ -248,6 +258,9 @@
 | Dokit | Cross-platform library and apps for Pokit Bluetooth measuring devices | 75 | <https://github.com/pcolby/dokit> |
 | Riden | Python library for Riden RD series power supplies | 74 | <https://github.com/ShayBox/Riden> |
 | thermal-cat | Cross-platform viewer app for the InfiRay P2 Pro thermal camera | 74 | <https://github.com/alufers/thermal-cat> |
+| lnDSO150 | Alternative firmware for the DSO150 shell oscilloscope | 67 | <https://github.com/mean00/lnDSO150> |
+| HP34401a-OLED-FW | OLED display mod firmware for the HP 34401A multimeter | 66 | <https://github.com/openscopeproject/HP34401a-OLED-FW> |
+| 121gw-re | Reverse engineering the EEVblog 121GW multimeter | 64 | <https://github.com/tpwrules/121gw-re> |
 | libseekthermal | Driver library for Seek Thermal imaging devices | 63 | <https://github.com/ethz-asl/libseekthermal> |
 | fx2lafw | Open firmware for Cypress FX2 logic analyzers, replacing vendor firmware | 61 | <https://github.com/sigrokproject/sigrok-firmware-fx2lafw> |
 | sds7102 | Port of Linux to the OWON SDS7102 oscilloscope | 57 | <https://github.com/wingel/sds7102> |
@@ -323,6 +336,7 @@
 | dell-bios-fan-control | Toggle Dell BIOS fan control via undocumented SMM calls | 258 | <https://github.com/TomFreudenberg/dell-bios-fan-control> |
 | monitorcontrol (Python) | Python library for monitor control via DDC/CI on Linux and Windows | 244 | <https://github.com/newAM/monitorcontrol> |
 | i8kutils | Fan and SMM utilities for Dell laptops | 235 | <https://github.com/vitorafsr/i8kutils> |
+| galaxy-book2-pro-linux | Notes and utilities for Linux on the Samsung Galaxy Book2 Pro | 194 | <https://github.com/joshuagrisham/galaxy-book2-pro-linux> |
 | zcfan | Zero-configuration fan daemon for ThinkPads via thinkpad_acpi | 165 | <https://github.com/cdown/zcfan> |
 | samsung-galaxy-book-linux-fixes | Linux fixes for Samsung Galaxy Book 3/4/5 webcam, speakers and microphone | 160 | <https://github.com/Andycodeman/samsung-galaxy-book-linux-fixes> |
 | iptsd | Userspace daemon for Intel Precise Touch & Stylus on Surface devices | 152 | <https://github.com/linux-surface/iptsd> |
@@ -330,14 +344,18 @@
 | framework-system | Rust tool and library to talk to the Framework laptop EC and peripherals | 147 | <https://github.com/FrameworkComputer/framework-system> |
 | cros-keyboard-map | Generates keyd configs so Chromebook top-row keys work under normal Linux distros | 138 | <https://github.com/WeirdTreeThing/cros-keyboard-map> |
 | mbp2018-bridge-drv | Reverse engineered Apple T2 BCE driver for keyboard, trackpad and audio on 2018+ MacBooks | 138 | <https://github.com/MCMrARM/mbp2018-bridge-drv> |
+| Reverse_Engineering_BQ20z70_Laptop_BMS | Reverse engineering the BQ20z70 laptop battery management system | 132 | <https://github.com/omarKmekkawy/Reverse_Engineering_BQ20z70_Laptop_BMS> |
 | zenbook-duo-2024-linux | Linux support for the ASUS Zenbook Duo 2024 dual screens, keyboard backlight and battery limit | 127 | <https://github.com/alesya-h/zenbook-duo-2024-ux8406ma-linux> |
 | tiny-dfr | Minimal dynamic function row daemon for the MacBook Touch Bar on Linux | 121 | <https://github.com/AsahiLinux/tiny-dfr> |
+| dell-powermanager | Cross-platform Dell Power Manager reimplementation | 115 | <https://github.com/alexVinarskis/dell-powermanager> |
 | surface-aggregator-module | Linux drivers for the Microsoft Surface System Aggregator Module embedded controller | 106 | <https://github.com/linux-surface/surface-aggregator-module> |
 | asus-fan *(archived)* | Linux kernel module to read and set fan speeds on ASUS Zenbooks | 97 | <https://github.com/daringer/asus-fan> |
 | IdeapadToolkit | Lightweight Lenovo Vantage alternative for the IdeaPad Flex 5 | 91 | <https://github.com/havlif/IdeapadToolkit> |
 | Framework EC (DHowett) | Framework Laptop embedded controller firmware fork with ectool used by fan-control tools | 88 | <https://github.com/DHowett/framework-ec> |
 | surface-control | CLI to control Surface performance mode, dGPU power and clipboard detach on Linux | 83 | <https://github.com/linux-surface/surface-control> |
 | asus-ec-sensors | Linux hwmon driver reading ASUS motherboard sensors from the embedded controller | 78 | <https://github.com/zeule/asus-ec-sensors> |
+| Galaxy-Book4-Edge-linux | Linux driver and RE tools for the Samsung Galaxy Book4 Edge | 76 | <https://github.com/Saddytech/Galaxy-Book4-Edge-linux> |
+| yogabook-c930-linux-eink-driver | Reverse engineered Linux driver for the Lenovo Yoga Book C930 e-ink keyboard | 70 | <https://github.com/aleksb/yogabook-c930-linux-eink-driver> |
 | GhostDeck | Driver-free power and fan control for MSI laptops via EC/WMI | 58 | <https://github.com/wygodad/ghostdeck> |
 | init-headphone | Initializes the headphone amplifier found in some Clevo laptops on Linux | 57 | <https://github.com/Unrud/init-headphone> |
 | surface-dtx-daemon | Userspace daemon for the Surface Book detachment (DTX) system on Linux | 45 | <https://github.com/linux-surface/surface-dtx-daemon> |
@@ -359,9 +377,14 @@
 | brlaser | Open driver for Brother laser printers that lack PostScript support | 719 | <https://github.com/pdewacht/brlaser> |
 | sane-airscan | SANE backend for driverless eSCL and WSD network scanners | 371 | <https://github.com/alexpevzner/sane-airscan> |
 | goodix-fp-dump | Reverse-engineering tools and prototype drivers for Goodix fingerprint sensors | 360 | <https://github.com/goodix-fp-linux-dev/goodix-fp-dump> |
+| Epson-Waste-Reset | Open-source utility to reset Epson printer waste ink pad counters | 353 | <https://github.com/RxNaison/Epson-Waste-Reset> |
+| node-hp-scan-to | Enables HP All-in-One scan-to-computer without HP software | 304 | <https://github.com/manuc66/node-hp-scan-to> |
+| Validity91 | Reverse engineering the Validity 138a:0091 fingerprint sensor in Dell XPS laptops | 241 | <https://github.com/hmaarrfk/Validity91> |
 | labelle | Open print tool for Dymo LabelManager label printers | 189 | <https://github.com/labelle-org/labelle> |
+| hp-laser-1008a-macos | Native Apple Silicon macOS driver for HP Laser 1003-1008 printers | 174 | <https://github.com/Kuberwastaken/hp-laser-1008a-macos> |
 | libfprint elan | libfprint driver for Elantech fingerprint sensors | 161 | <https://github.com/iafilatov/libfprint> |
 | synaTudor | Linux libfprint driver for Synaptics Tudor match-in-sensor fingerprint readers | 152 | <https://github.com/Popax21/synaTudor> |
+| Goodix92 *(archived)* | Reverse engineering the Goodix 27c6:5395 fingerprint sensor in Dell XPS 9570 | 104 | <https://github.com/IDerr/Goodix92> |
 | open-fprintd | fprintd replacement allowing standalone backends such as python-validity | 79 | <https://github.com/uunicorn/open-fprintd> |
 | SpliX | CUPS driver for Samsung/Xerox SPL host-based laser printers | 51 | <https://github.com/OpenPrinting/splix> |
 | fingerprint-ocv | Linux driver for the FPC 10a5:9201 fingerprint sensor controller | 42 | <https://github.com/vrolife/fingerprint-ocv> |
@@ -394,7 +417,10 @@
 | qdmr | GUI to configure and program cheap DMR radios on Linux and macOS | 356 | <https://github.com/hmatuschek/qdmr> |
 | OsmocomBB | Free GSM baseband firmware for Calypso-based phones built by reverse engineering | 333 | <https://github.com/osmocom/osmocom-bb> |
 | dmrconfig | Configuration utility for DMR radios (TYT, Baofeng, Radioddity) with reverse engineered protocols | 286 | <https://github.com/OpenRTX/dmrconfig> |
+| bl602-re | Reverse engineering of the BL602 Wi-Fi/BLE binary blobs | 105 | <https://github.com/pine64/bl602-re> |
+| ESP32-Bluetooth-Reversing | Reverse engineering of the ESP32 Bluetooth controller | 88 | <https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing> |
 | libmirisdr-4 | Open driver for Mirics MSi001/MSi2500 SDR dongles (SDRplay-type) | 86 | <https://github.com/f4exb/libmirisdr-4> |
 | bcm-public | SEEMOO Broadcom Wi-Fi firmware analysis and patching resources | 79 | <https://github.com/seemoo-lab/bcm-public> |
+| Inside-EZRadioPRO | Reverse engineering the Silabs EZRadioPRO sub-GHz radios | 77 | <https://github.com/astuder/Inside-EZRadioPRO> |
 | osmo-fl2k | Uses FL2000 USB-to-VGA adapters as cheap SDR transmitters | 58 | <https://github.com/osmocom/osmo-fl2k> |
 | b43-tools | b43 firmware tools: fwcutter, assembler and disassembler for Broadcom Wi-Fi microcode | 39 | <https://github.com/mbuesch/b43-tools> |

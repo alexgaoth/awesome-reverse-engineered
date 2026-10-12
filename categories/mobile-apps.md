@@ -1,20 +1,22 @@
 # Mobile Apps
 
-[← All categories](../README.md) · 80 projects
+[← All categories](../README.md) · 78 projects
 
-- [Android Apps](#android-apps) (3)
-- [App Store Clients & Downloaders](#app-store-clients--downloaders) (19)
+- [Android Apps](#android-apps) (5)
+- [App Store Clients & Downloaders](#app-store-clients--downloaders) (22)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (8)
+- [Fitness & Education Apps](#fitness--education-apps) (9)
 - [Other](#other) (1)
-- [Patched & Alternative Clients](#patched--alternative-clients) (28)
+- [Patched & Alternative Clients](#patched--alternative-clients) (31)
 - [Transport & Delivery Apps](#transport--delivery-apps) (5)
-- [iOS Dumping & Decryption](#ios-dumping--decryption) (13)
+- [iOS Dumping & Decryption](#ios-dumping--decryption) (2)
 
 ## Android Apps
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
+| SmartisanMusic-Revived | Revives the discontinued Smartisan Music app via reverse engineering and a modern rewrite | 421 | <https://github.com/Mangi-11/SmartisanMusic-Revived> |
+| ViPERFX_RE | Open reimplementation of the ViPER4Android FX audio effect library via reverse engineering | 334 | <https://github.com/AndroidAudioMods/ViPERFX_RE> |
 | drona | Reverse-engineered Inshorts Android app with modifications | 15 | <https://github.com/v-adhithyan/drona> |
 | nokia8-evenwell | Decompiled com.evenwell preinstalled packages on Nokia 8 phones revealing data collection | 12 | <https://github.com/julKali/nokia8-evenwell> |
 | 2022_beijing | Decompiled 2022 Beijing Olympics iOS/Android apps for privacy and security analysis | 0 | <https://github.com/jonathandata1/2022_beijing> |
@@ -26,6 +28,7 @@
 | ipatool | CLI that searches and downloads App Store IPAs using Apple's private store APIs | 11,621 | <https://github.com/majd/ipatool> |
 | YalpStore | Android app that downloads APKs directly from Google Play | 2,549 | <https://github.com/yeriomin/YalpStore> |
 | DLiPA | iOS app to download and install App Store IPAs, inspired by ipatool | 993 | <https://github.com/AhmedBafkir/DLiPA> |
+| googleplay-api *(archived)* | Unofficial Google Play Python API | 897 | <https://github.com/egirault/googleplay-api> |
 | raccoon4 | Raccoon: desktop APK downloader for Google Play | 758 | <https://github.com/onyxbits/raccoon4> |
 | ipatool-py | Python ipatool for downloading IPAs from the App Store | 730 | <https://github.com/NyaMisty/ipatool-py> |
 | gplaydl | Command-line Google Play APK downloader | 673 | <https://github.com/rehmatworks/gplaydl> |
@@ -35,7 +38,9 @@
 | apk-downloader | Chrome extension that downloads APKs from Google Play | 340 | <https://github.com/Lekensteyn/apk-downloader> |
 | ipatool.js | JavaScript implementation of ipatool | 311 | <https://github.com/wf021325/ipatool.js> |
 | gplay-apk-downloader | Downloads APK files directly from the Google Play Store | 300 | <https://github.com/alltechdev/gplay-apk-downloader> |
+| android-market-api-php *(archived)* | PHP implementation of the Android Market API | 235 | <https://github.com/vincentkoc/android-market-api-php> |
 | IPA_Downloader | Script to purchase and download App Store apps, including removed ones | 176 | <https://github.com/kda2495/IPA_Downloader> |
+| Google-Play-Store-API | Unofficial Google Play Store API | 159 | <https://github.com/thetutlage/Google-Play-Store-API> |
 | apkd *(archived)* | APK downloader for several stores | 137 | <https://github.com/kiber-io/apkd> |
 | ipatool-ios | On-device iOS command-line ipatool | 125 | <https://github.com/dlevi309/ipatool-ios> |
 | apkmirror-downloader | Downloads apps from APKMirror | 93 | <https://github.com/tanishqmanuja/apkmirror-downloader> |
@@ -57,6 +62,7 @@
 |---|---|--:|---|
 | zwift-offline | Offline server reimplementation for the Zwift cycling app | 1,389 | <https://github.com/zoffline/zwift-offline> |
 | peloton-to-garmin | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | <https://github.com/philosowaffle/peloton-to-garmin> |
+| nrc-exporter | Downloads Nike Run Club runs via its private API and converts to GPX | 164 | <https://github.com/yasoob/nrc-exporter> |
 | garmin-connect *(archived)* | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | <https://github.com/abrander/garmin-connect> |
 | zwift-client | Python client for the Zwift mobile API | 62 | <https://github.com/jsmits/zwift-client> |
 | mywhoosh-api | Unofficial API documentation for the MyWhoosh cycling app | 16 | <https://github.com/mywhoosh-community/mywhoosh-api> |
@@ -89,19 +95,22 @@
 | revanced-patcher | Bytecode patcher library behind ReVanced | 3,519 | <https://github.com/ReVanced/revanced-patcher> |
 | YTMusicUltimate | The best tweak for YouTube Music iOS. | 2,614 | <https://github.com/dayanch96/YTMusicUltimate> |
 | revanced-patches *(archived)* | ReVanced Extended patches for YouTube and YouTube Music (archived) | 2,273 | <https://github.com/inotia00/revanced-patches> |
+| ZerotierFix | Unofficial ZeroTier Android client patched from the official client | 2,215 | <https://github.com/kaaass/ZerotierFix> |
 | revanced-patches | Third-party ReVanced patch collection | 1,898 | <https://github.com/anddea/revanced-patches> |
 | continuum | Continuation of Infinity for Reddit using user-supplied API keys | 1,672 | <https://github.com/cygnusx-1-org/continuum> |
 | revanced-cli | Command-line tool for applying ReVanced patches to APKs | 1,599 | <https://github.com/ReVanced/revanced-cli> |
 | Apollo-Reborn | iOS tweak that revives the Apollo Reddit app with user API keys and unlocked features | 1,426 | <https://github.com/Apollo-Reborn/Apollo-Reborn> |
-| SnapHide | iOS tweak that hides jailbreak and hooks from Snapchat | 1,424 | <https://github.com/AeonLucid/SnapHide> |
 | instafel | Instafel: patched Instagram alpha builds with extra features | 1,272 | <https://github.com/mamiiblt/instafel> |
 | revanced-integrations *(archived)* | Classes merged into patched apps by the ReVanced patcher (archived) | 744 | <https://github.com/ReVanced/revanced-integrations> |
 | rvx-builder *(archived)* | Node.js builder for ReVanced Extended APKs (archived) | 717 | <https://github.com/inotia00/rvx-builder> |
 | ytermusic | Terminal YouTube Music client | 699 | <https://github.com/ccgauche/ytermusic> |
+| lite *(archived)* | Modified VK Android client | 634 | <https://github.com/vtosters/lite> |
 | RedditFilter | iOS tweak that filters unwanted content from the Reddit app | 366 | <https://github.com/level3tjg/RedditFilter> |
 | WhatsAppPatcher | Decompiles the WhatsApp APK, patches smali, recompiles and signs it | 262 | <https://github.com/Schwartzblat/WhatsAppPatcher> |
 | revanced-library | Shared utilities library for ReVanced tools | 140 | <https://github.com/ReVanced/revanced-library> |
+| GoogleDialerMod-Magisk *(archived)* | Magisk module tweaking Google Dialer hidden features | 136 | <https://github.com/jacopotediosi/GoogleDialerMod-Magisk> |
 | privacy-revanced-patches *(archived)* | ReVanced patches that disable ads, trackers and analytics in apps | 129 | <https://github.com/jkennethcarino/privacy-revanced-patches> |
+| arcore-patch *(archived)* | Patch to run ARCore Preview 2 on unsupported devices | 85 | <https://github.com/thestr4ng3r/arcore-patch> |
 
 ## Transport & Delivery Apps
 
@@ -117,16 +126,5 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| TrollStore | Permanent IPA installer exploiting an iOS CoreTrust bug | 22,321 | <https://github.com/opa334/TrollStore> |
-| frida-ios-dump | Frida script that pulls decrypted IPAs from jailbroken devices | 3,945 | <https://github.com/AloneMonkey/frida-ios-dump> |
 | Clutch | Fast iOS executable dumper | 3,829 | <https://github.com/KJCracks/Clutch> |
-| dumpdecrypted | Dumps decrypted Mach-O files from encrypted iOS apps | 3,038 | <https://github.com/stefanesser/dumpdecrypted> |
-| bagbak | Frida-based iOS app decryptor that also decrypts app extensions | 1,507 | <https://github.com/ChiChou/bagbak> |
-| appdecrypt | Decrypts iOS app binaries on macOS with SIP enabled | 1,055 | <https://github.com/paradiseduo/appdecrypt> |
-| TrollDecrypt | On-device iOS IPA decrypter for TrollStore | 846 | <https://github.com/donato-fiore/TrollDecrypt> |
-| flexdecrypt | Decrypts iOS apps and Mach-O binaries | 740 | <https://github.com/JohnCoates/flexdecrypt> |
-| yacd | Decrypts FairPlay apps on iOS 13.4.1 and lower without jailbreak | 700 | <https://github.com/DerekSelander/yacd> |
-| bfdecrypt | Decrypts App Store apps on jailbroken iOS 11 | 493 | <https://github.com/BishopFox/bfdecrypt> |
-| fouldecrypt | Lightweight iOS binary decryptor | 318 | <https://github.com/NyaMisty/fouldecrypt> |
 | fd-back | Single-file Frida runtime with one-click iOS app dumping | 250 | <https://github.com/aadog/fd-back> |
-| frida-ipa-extract | Frida-based tool that dumps decrypted iOS apps as IPA | 129 | <https://github.com/lautarovculic/frida-ipa-extract> |

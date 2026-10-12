@@ -197,6 +197,8 @@
 - https://dreamcastlive.net/?p=3222
 - https://gitlab.com/explore/projects/topics/escargot-chat
 - rtl-sdr.com articles
+- GitHub GraphQL API (repository existence/canonical URL checks)
+- GitHub repository search API (sort=stars), paged up to 1000 results per query, split by creation date
 
 ## Searches run
 
@@ -1551,3 +1553,236 @@
 - matrix online server emulator
 - ghostpp warcraft
 - graphql batch verification of ~250 known candidate repos (Retro OS, DirectX wrappers, AppleTalk, Palm/Newton/Psion, MMO revivals)
+- gh search repos: peloton bluetooth
+- gh search repos: peloton bike reverse engineering
+- gh search repos: echelon bike bluetooth
+- gh search repos: ifit treadmill bluetooth
+- gh search repos: nordictrack ifit
+- gh search repos: walkingpad
+- gh search repos: kingsmith treadmill
+- gh search repos: bowflex bluetooth
+- gh search repos: keiser m3 bluetooth
+- gh search repos: schwinn ic4
+- gh search repos: yesoul bike
+- gh search repos: domyos bluetooth
+- gh search repos: hydrow rower
+- gh search repos: tonal api
+- gh search repos: zwift click
+- gh search repos: zwift play controller
+- gh search repos: tacx bluetooth protocol
+- gh search repos: elite trainer bluetooth
+- gh search repos: wahoo kickr protocol
+- gh search repos: waterrower bluetooth
+- gh search repos: peloton
+- gh search repos: echelon bike
+- gh search repos: ifit
+- gh search repos: bowflex
+- gh search repos: keiser
+- gh search repos: domyos
+- gh search repos: hydrow
+- gh search repos: tacx
+- gh search repos: wahoo kickr
+- gh search repos: waterrower
+- gh search repos: ftms bridge
+- gh search repos: ftms treadmill
+- gh search repos: smart trainer ble
+- gh search repos: zwift
+- gh search repos: toniebox
+- gh search repos: tonie
+- gh search repos: yoto
+- gh search repos: pybricks
+- gh search repos: powered up lego
+- gh search repos: lego boost
+- gh search repos: sphero
+- gh search repos: tello
+- gh search repos: furby
+- gh search repos: anki overdrive
+- gh search repos: poweredup
+- gh search repos: lego hub bluetooth
+- gh search repos: lego wedo
+- gh search repos: lego mario
+- gh search repos: lego spike prime protocol
+- gh search repos: mindstorms reverse
+- gh search repos: cozmo
+- gh search repos: anki drive
+- gh search repos: meccano
+- gh search repos: wowwee
+- gh search repos: smartpen
+- gh search repos: livescribe
+- gh search repos: neo smartpen
+- gh search repos: vtech
+- gh search repos: leapfrog
+- gh search repos: loona robot
+- gh search repos: aibo
+- gh search repos: osmo
+- gh search repos: wonder workshop dash
+- gh search repos: ozobot
+- gh search repos: mi robot builder
+- gh search repos: ubtech
+- gh search repos: xiaomi scale
+- gh search repos: renpho
+- gh search repos: massage gun
+- gh search repos: theragun
+- gh search repos: tonal
+- gh search repos: mirror lululemon
+- gh search repos: ergatta
+- gh search repos: concept2 pm5
+- gh search repos: android tv remote protocol
+- gh search repos: fire tv remote
+- gh search repos: samsung tv websocket
+- gh search repos: samsung tizen remote
+- gh search repos: smartthings tv
+- gh search repos: webos tv
+- gh search repos: lg tv
+- gh search repos: bravia
+- gh search repos: vizio smartcast
+- gh search repos: philips tv jointspace
+- gh search repos: hisense tv mqtt
+- gh search repos: vidaa
+- gh search repos: tcl tv
+- gh search repos: panasonic viera
+- gh search repos: soundtouch
+- gh search repos: bose speaker
+- gh search repos: samsung soundbar
+- gh search repos: lg soundbar
+- gh search repos: denon avr
+- gh search repos: onkyo eiscp
+- gh search repos: yamaha ynca
+- gh search repos: musiccast
+- gh search repos: epson projector
+- gh search repos: benq projector
+- gh search repos: nvidia shield
+- gh search repos: plex api
+- gh search repos: sky q
+- gh search repos: tivo
+- gh search repos: xfinity
+- gh search repos: freebox
+- gh search repos: lifespan treadmill
+- gh search repos: proform
+- gh search repos: fitshow
+- gh search repos: sole treadmill
+- gh search repos: sterzo
+- gh search repos: pelomon
+- gh search repos: peloton tread
+- gh search repos: lululemon mirror
+- gh search repos: yunmai scale
+- gh search repos: smart scale ble
+- gh search repos: mediathek
+- gh search repos: ardmediathek
+- gh search repos: iplayer
+- gh search repos: catchup tv
+- gh search repos: svtplay
+- gh search repos: harmony hub
+- gh search repos: songpal
+- gh search repos: samsung frame art
+- gh search repos: virgin tivo
+- gh search repos: horizon box
+- gh search repos: magenta tv
+- gh search repos: foxtel
+- gh search repos: livebox tv
+- gh search repos: bbox tv
+- gh search repos: tizen tv remote
+- gh search repos: roku reverse
+- gh search repos: android tv pairing
+- gh search repos: google tv remote
+- gh search repos: yamaha receiver
+- gh search repos: teddy ruxpin
+- gh search repos: cloudpets
+- gh search repos: emo robot
+- gh search repos: aibo ers
+- gh search repos: androidtv remote
+- gh search repos: fire tv protocol
+- gh search repos: roku private api
+- gh search repos: kidizoom
+- gh search repos: leappad
+- gh search repos: zwift ride
+- gh search repos: sonos alternative bose
+- gh search repos: smart bike ble
+- gh search/repositories sorted by stars: "reverse engineered" in:description stars:>50 created:2008-01-01..2015-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:description stars:>50 created:2016-01-01..2019-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:description stars:>50 created:2020-01-01..2022-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:description stars:>50 created:2023-01-01..2026-12-31
+- gh search/repositories sorted by stars: "reverse-engineered" in:description stars:>50
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:>200 created:2008-01-01..2017-12-31
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:>200 created:2018-01-01..2021-12-31
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:>200 created:2022-01-01..2026-12-31
+- gh search/repositories sorted by stars: "unofficial api" stars:>30 created:2008-01-01..2017-12-31
+- gh search/repositories sorted by stars: "unofficial api" stars:>30 created:2018-01-01..2021-12-31
+- gh search/repositories sorted by stars: "unofficial api" stars:>30 created:2022-01-01..2026-12-31
+- gh search/repositories sorted by stars: "unofficial client" stars:>30
+- gh search/repositories sorted by stars: "private api" stars:>50
+- gh search/repositories sorted by stars: "undocumented api" stars:>20
+- gh search/repositories sorted by stars: "clean-room" stars:>20
+- gh search/repositories sorted by stars: "clean room" reimplementation stars:>20
+- gh search/repositories sorted by stars: "reimplementation" stars:>50 created:2008-01-01..2018-12-31
+- gh search/repositories sorted by stars: "reimplementation" stars:>50 created:2019-01-01..2026-12-31
+- gh search/repositories sorted by stars: "open source reimplementation"
+- gh search/repositories sorted by stars: "open-source reimplementation"
+- gh search/repositories sorted by stars: "decompilation" stars:>20 created:2008-01-01..2021-12-31
+- gh search/repositories sorted by stars: "decompilation" stars:>20 created:2022-01-01..2026-12-31
+- gh search/repositories sorted by stars: "recompilation" stars:>10
+- gh search/repositories sorted by stars: "cloud-free" stars:>5
+- gh search/repositories sorted by stars: "local control" stars:>20
+- gh search/repositories sorted by stars: protocol reverse stars:>100
+- gh search/repositories sorted by stars: topic:reverse-engineering stars:>100 created:2008-01-01..2017-12-31
+- gh search/repositories sorted by stars: topic:reverse-engineering stars:>100 created:2018-01-01..2021-12-31
+- gh search/repositories sorted by stars: topic:reverse-engineering stars:>100 created:2022-01-01..2026-12-31
+- gh search/repositories sorted by stars: topic:unofficial-api
+- gh search/repositories sorted by stars: topic:decompilation
+- gh search/repositories sorted by stars: topic:reverse-engineered
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:>100 created:2008-01-01..2016-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:>100 created:2017-01-01..2019-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:>100 created:2020-01-01..2021-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:>100 created:2022-01-01..2023-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:>100 created:2024-01-01..2026-12-31
+- gh search/repositories sorted by stars: "reverse engineered" in:readme stars:50..100
+- gh search/repositories sorted by stars: "reverse-engineered" in:readme stars:>100 created:2008-01-01..2019-12-31
+- gh search/repositories sorted by stars: "reverse-engineered" in:readme stars:>100 created:2020-01-01..2026-12-31
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:50..200 created:2008-01-01..2018-12-31
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:50..200 created:2019-01-01..2022-12-31
+- gh search/repositories sorted by stars: "reverse engineering" in:description stars:50..200 created:2023-01-01..2026-12-31
+- gh search/repositories sorted by stars: "unofficial" in:name stars:>50
+- gh search/repositories sorted by stars: "unofficial" in:description api stars:>100
+- gh search/repositories sorted by stars: "unofficial" in:description client stars:>100
+- gh search/repositories sorted by stars: "unofficial" in:description app stars:>100
+- gh search/repositories sorted by stars: "unofficial" in:description library stars:>100
+- gh search/repositories sorted by stars: "unofficial" in:description wrapper stars:>50
+- gh search/repositories sorted by stars: topic:reverse-engineering stars:30..100
+- gh search/repositories sorted by stars: topic:matching-decompilation
+- gh search/repositories sorted by stars: topic:decomp
+- gh search/repositories sorted by stars: topic:reimplementation
+- gh search/repositories sorted by stars: topic:recompilation
+- gh search/repositories sorted by stars: topic:static-recompilation
+- gh search/repositories sorted by stars: topic:unofficial
+- gh search/repositories sorted by stars: topic:unofficial-client
+- gh search/repositories sorted by stars: topic:private-api
+- gh search/repositories sorted by stars: topic:reverse-engineering-api
+- gh search/repositories sorted by stars: topic:protocol-reverse-engineering
+- gh search/repositories sorted by stars: "static recompilation"
+- gh search/repositories sorted by stars: "decomp" in:name stars:>20
+- gh search/repositories sorted by stars: "decompilation of" stars:>10
+- gh search/repositories sorted by stars: "matching decompilation"
+- gh search/repositories sorted by stars: "reverse engineered protocol"
+- gh search/repositories sorted by stars: "reverse engineered api"
+- gh search/repositories sorted by stars: "reverse-engineered api"
+- gh search/repositories sorted by stars: "protocol" "reverse engineered" stars:>20
+- gh search/repositories sorted by stars: "file format" reverse engineered stars:>20
+- gh search/repositories sorted by stars: "engine reimplementation" stars:>10
+- gh search/repositories sorted by stars: "engine recreation" stars:>10
+- gh search/repositories sorted by stars: "open source re-implementation"
+- gh search/repositories sorted by stars: "re-implementation" stars:>100
+- gh search/repositories sorted by stars: "private server" emulator stars:>100
+- gh search/repositories sorted by stars: "server emulator" stars:>50
+- gh search/repositories sorted by stars: "alternative firmware" stars:>50
+- gh search/repositories sorted by stars: "open source firmware" reverse stars:>30
+- gh search/repositories sorted by stars: "without the cloud" stars:>10
+- gh search/repositories sorted by stars: "no cloud" local stars:>50
+- gh search/repositories sorted by stars: "cloud free" stars:>10
+- gh search/repositories sorted by stars: "local api" reverse stars:>10
+- gh search/repositories sorted by stars: "open source driver" reverse stars:>20
+- gh search/repositories sorted by stars: "reverse engineering" driver stars:>50
+- gh search/repositories sorted by stars: "undocumented" protocol stars:>50
+- gh search/repositories sorted by stars: "undocumented" in:description stars:>200
+- gh search/repositories sorted by stars: "hidden api" stars:>30
+- gh search/repositories sorted by stars: "internal api" unofficial stars:>20
+- gh search/repositories sorted by stars: "web api" unofficial stars:>30
