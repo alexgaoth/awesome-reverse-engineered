@@ -29,16 +29,16 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| ha-bambulab | Home Assistant integration for Bambu Lab 3D printers | 2,370 | <https://github.com/greghesp/ha-bambulab> |
-| Bambu RFID Tag Guide | Reverse engineering of Bambu Lab filament RFID tags | 1,725 | <https://github.com/Bambu-Research-Group/RFID-Tag-Guide> |
+| ha-bambulab | Home Assistant integration for Bambu Lab 3D printers | 2,371 | <https://github.com/greghesp/ha-bambulab> |
+| Bambu RFID Tag Guide | Reverse engineering of Bambu Lab filament RFID tags | 1,727 | <https://github.com/Bambu-Research-Group/RFID-Tag-Guide> |
 | X1Plus | Community custom firmware for Bambu Lab X1 series printers | 1,043 | <https://github.com/X1Plus/X1Plus> |
 | OrcaSlicer-bambulab | OrcaSlicer plugin restoring Bambu Lab printer control after firmware lockdown | 732 | <https://github.com/jarczakpawel/OrcaSlicer-bambulab> |
 | OpenBambuAPI | Reverse-engineered documentation of Bambu Lab printer MQTT, cloud and camera protocols | 695 | <https://github.com/Doridian/OpenBambuAPI> |
-| open-bamboo-networking | Open-source drop-in replacement for Bambu Studio's proprietary networking plugin | 560 | <https://github.com/ClusterM/open-bamboo-networking> |
+| open-bamboo-networking | Open-source drop-in replacement for Bambu Studio's proprietary networking plugin | 561 | <https://github.com/ClusterM/open-bamboo-networking> |
 | flashforge_ad5m_klipper_mod | Unofficial firmware mod running Klipper and Moonraker on Flashforge Adventurer 5M | 445 | <https://github.com/xblax/flashforge_ad5m_klipper_mod> |
-| Bambu-Lab-RFID-Library | Collection of Bambu Lab filament RFID tag scans for research | 394 | <https://github.com/queengooborg/Bambu-Lab-RFID-Library> |
+| Bambu-Lab-RFID-Library | Collection of Bambu Lab filament RFID tag scans for research | 397 | <https://github.com/queengooborg/Bambu-Lab-RFID-Library> |
 | bambulabs_api | Python API for Bambu Lab printers over MQTT | 329 | <https://github.com/BambuTools/bambulabs_api> |
-| ankermake-m5-protocol | AnkerMake M5 protocol specifications and libraries | 216 | <https://github.com/Ankermgmt/ankermake-m5-protocol> |
+| ankermake-m5-protocol | AnkerMake M5 protocol specifications and libraries | 217 | <https://github.com/Ankermgmt/ankermake-m5-protocol> |
 | Creality K1 Klipper Mod | Install open Klipper/Moonraker on Creality K1 series printers | 121 | <https://github.com/pellcorp/creality> |
 | robocut | Control Craft Robo, Silhouette Cameo and Portrait vinyl cutters with a reverse-engineered protocol | 106 | <https://github.com/Timmmm/robocut> |
 | reversing-mono4k | Reverse engineering of the Anycubic Photon Mono 4K | 103 | <https://github.com/nviennot/reversing-mono4k> |
@@ -55,14 +55,14 @@
 | miio | Node.js control of Mi Home devices over the miIO protocol | 1,906 | <https://github.com/aholstenson/miio> |
 | hon | Home Assistant integration for Haier hOn appliances (Haier, Candy, Hoover) | 1,529 | <https://github.com/Andre0512/hon> |
 | FreeMDU | Open hardware and software for Miele appliances' optical diagnostic interface | 1,065 | <https://github.com/medusalix/FreeMDU> |
-| FW-Dyson-BMS | Unofficial firmware for Dyson V6/V7 vacuum battery management systems | 939 | <https://github.com/tinfever/FW-Dyson-BMS> |
+| FW-Dyson-BMS | Unofficial firmware for Dyson V6/V7 vacuum battery management systems | 940 | <https://github.com/tinfever/FW-Dyson-BMS> |
 | homeassistant-roborock *(archived)* | Roborock integration for Home Assistant using the Roborock app's API | 742 | <https://github.com/humbertogontijo/homeassistant-roborock> |
 | bsh-home-appliances | Reverse engineering Bosch/Siemens (BSH) home appliances: D-Bus protocol, washer and dryer electronics | 618 | <https://github.com/hn/bsh-home-appliances> |
 | rrcc *(archived)* | RoboRock Control Center desktop client | 588 | <https://github.com/LazyT/rrcc> |
 | hcpy | Python tool to talk to Home Connect appliances over the local network | 525 | <https://github.com/osresearch/hcpy> |
-| localthings | Controls Samsung appliances from Home Assistant over the local network | 510 | <https://github.com/mbillow/localthings> |
+| localthings | Controls Samsung appliances from Home Assistant over the local network | 515 | <https://github.com/mbillow/localthings> |
 | pyhOn | Python library to control Haier hOn appliances | 501 | <https://github.com/Andre0512/pyhOn> |
-| homeconnect_local_hass | Home Connect integration for Home Assistant over the local network | 481 | <https://github.com/chris-mc1/homeconnect_local_hass> |
+| homeconnect_local_hass | Home Connect integration for Home Assistant over the local network | 483 | <https://github.com/chris-mc1/homeconnect_local_hass> |
 | bumper | Self-hosted reimplementation of the central server used by Ecovacs robots | 398 | <https://github.com/bmartin5692/bumper> |
 | hcpy2 | Maintained successor of hcpy for local Home Connect appliance control | 394 | <https://github.com/hcpy2-0/hcpy> |
 | rest980 | REST interface to control iRobot Roomba vacuums on the LAN | 353 | <https://github.com/koalazak/rest980> |
@@ -75,12 +75,12 @@
 | libpurecoollink | Python library for Dyson Pure Cool Link fans | 207 | <https://github.com/CharlesBlonde/libpurecoollink> |
 | winix (Home Assistant) | Home Assistant component for Winix air purifiers | 204 | <https://github.com/iprak/winix> |
 | ember-mug | Reverse-engineered Bluetooth protocol for Ember mugs | 183 | <https://github.com/orlopau/ember-mug> |
-| cookidoo-api | Unofficial Python package to access Thermomix Cookidoo | 165 | <https://github.com/miaucl/cookidoo-api> |
+| cookidoo-api | Unofficial Python package to access Thermomix Cookidoo | 167 | <https://github.com/miaucl/cookidoo-api> |
 | hass-ember-mug-component | Ember mug integration for Home Assistant | 158 | <https://github.com/sopelj/hass-ember-mug-component> |
 | ecovacs-deebot.js | Node.js library for Ecovacs Deebot and yeedi vacuums | 145 | <https://github.com/mrbungle64/ecovacs-deebot.js> |
 | ha_blueair | Home Assistant integration for Blueair purifiers | 121 | <https://github.com/dahlb/ha_blueair> |
+| hass-dyson | Unofficial Home Assistant integration for Dyson fans, vacuums and lights | 114 | <https://github.com/cmgrayb/hass-dyson> |
 | homeassistant-wellbeing | Reads Electrolux appliances via the Wellbeing cloud | 113 | <https://github.com/JohNan/homeassistant-wellbeing> |
-| hass-dyson | Unofficial Home Assistant integration for Dyson fans, vacuums and lights | 111 | <https://github.com/cmgrayb/hass-dyson> |
 | xiaomi_raw | Home Assistant component that helps reverse engineer Xiaomi miIO devices | 110 | <https://github.com/syssi/xiaomi_raw> |
 | MieleRESTServer | Unofficial implementation of the Miele@Home protocol for local control | 109 | <https://github.com/akappner/MieleRESTServer> |
 | custom_vesync *(archived)* | Custom VeSync component for Home Assistant | 108 | <https://github.com/vlebourl/custom_vesync> |
@@ -105,7 +105,7 @@
 | btscale | JavaScript library to talk to Bluetooth scales like Acaia | 54 | <https://github.com/bpowers/btscale> |
 | python-ember-mug | Python library to interact with Ember mugs | 54 | <https://github.com/sopelj/python-ember-mug> |
 | cloudbbq | Bluetooth-to-MQTT bridge for Tenergy Solis and similar BBQ thermometers | 48 | <https://github.com/gleeds/cloudbbq> |
-| mcp-cookidoo | MCP server for the Thermomix Cookidoo platform | 46 | <https://github.com/alexandrepa/mcp-cookidoo> |
+| mcp-cookidoo | MCP server for the Thermomix Cookidoo platform | 47 | <https://github.com/alexandrepa/mcp-cookidoo> |
 | fellow-stagg-ekg-plus | Wi-Fi and Google Assistant bridge for the Fellow Stagg EKG+ kettle | 44 | <https://github.com/tlyakhov/fellow-stagg-ekg-plus> |
 | esphome-ewh | Controls Electrolux/Ballu/Zanussi water heaters and humidifiers via UART | 43 | <https://github.com/dentra/esphome-ewh> |
 | pyanova-api | Python library for Anova Wi-Fi sous-vide cookers via the cloud | 40 | <https://github.com/ammarzuberi/pyanova-api> |
@@ -124,14 +124,14 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| LibrePods | AirPods features (ANC, ear detection, battery) on Android and Linux via reverse-engineered AAP | 30,248 | <https://github.com/librepods-org/librepods> |
-| GalaxyBudsClient | Unofficial Galaxy Buds manager using the reverse-engineered RFCOMM protocol | 5,280 | <https://github.com/timschneeb/GalaxyBudsClient> |
+| LibrePods | AirPods features (ANC, ear detection, battery) on Android and Linux via reverse-engineered AAP | 30,280 | <https://github.com/librepods-org/librepods> |
+| GalaxyBudsClient | Unofficial Galaxy Buds manager using the reverse-engineered RFCOMM protocol | 5,285 | <https://github.com/timschneeb/GalaxyBudsClient> |
 | pychromecast | Python library to communicate with Google Chromecast devices | 2,685 | <https://github.com/home-assistant-libs/pychromecast> |
 | node-sonos-http-api | HTTP API bridge for controlling Sonos speakers | 1,963 | <https://github.com/jishi/node-sonos-http-api> |
-| HeadsetControl | Control features of Logitech, SteelSeries, Corsair and other USB headsets on Linux/macOS | 1,921 | <https://github.com/Sapd/HeadsetControl> |
+| HeadsetControl | Control features of Logitech, SteelSeries, Corsair and other USB headsets on Linux/macOS | 1,922 | <https://github.com/Sapd/HeadsetControl> |
 | SonyHeadphonesClient *(archived)* | Cross-platform client for Sony headphones via the reverse-engineered protocol | 1,366 | <https://github.com/Plutoberth/SonyHeadphonesClient> |
 | OpenPods | Free Android app to show AirPods battery status | 1,264 | <https://github.com/adolfintel/OpenPods> |
-| CAPod | Android companion app for AirPods showing battery and pop-up status | 1,169 | <https://github.com/d4rken-org/capod> |
+| CAPod | Android companion app for AirPods showing battery and pop-up status | 1,173 | <https://github.com/d4rken-org/capod> |
 | Snark Barker | Open-source reverse-engineered clone of the Creative Sound Blaster 1.0 sound card | 685 | <https://github.com/schlae/snark-barker> |
 | opl3_fpga | Reverse engineered SystemVerilog RTL of the Yamaha OPL3 FM synthesizer | 409 | <https://github.com/gtaylormb/opl3_fpga> |
 | based-connect | Reverse-engineered Bose Connect replacement for Linux | 279 | <https://github.com/Denton-L/based-connect> |
@@ -140,9 +140,9 @@
 | wiim | WiiM/LinkPlay audio integration for Home Assistant | 138 | <https://github.com/mjcumming/wiim> |
 | jt12 | Verilog FM sound source compatible with YM2612 and YM3438 | 131 | <https://github.com/jotego/jt12> |
 | BudsPro-Headtracking | Streams head-tracking data from Samsung Galaxy Buds Pro | 127 | <https://github.com/timschneeb/BudsPro-Headtracking> |
+| FM-1-RE | Reverse engineering of the M-VAVE FM-1 pocket synthesizer firmware | 108 | <https://github.com/AL-255/FM-1-RE> |
 | streborn | Cloud-free revival for Bose SoundTouch speakers: internet radio, Spotify Connect, hardware preset buttons, multiroom.... | 108 | <https://github.com/JRpersonal/streborn> |
 | ay-3-8910_reverse_engineered | Transistor-level reverse engineered AY-3-8910 sound chip with Verilog model | 106 | <https://github.com/lvd2/ay-3-8910_reverse_engineered> |
-| FM-1-RE | Reverse engineering of the M-VAVE FM-1 pocket synthesizer firmware | 104 | <https://github.com/AL-255/FM-1-RE> |
 | libsoundtouch | Python library for Bose SoundTouch speakers | 101 | <https://github.com/CharlesBlonde/libsoundtouch> |
 | Bose-SoundTouch-Hybrid | Private cloud replacing the Bose SoundTouch cloud to keep speakers working | 99 | <https://github.com/TJGigs/Bose-SoundTouch-Hybrid> |
 | bose-dfu | Reverse-engineered firmware updater for Bose devices | 97 | <https://github.com/tchebb/bose-dfu> |
@@ -193,12 +193,12 @@
 | dji-firmware-tools | Tools for handling DJI drone firmware and reverse-engineered protocols | 2,246 | <https://github.com/o-gs/dji-firmware-tools> |
 | goprowifihack *(archived)* | Unofficial GoPro WiFi API documentation | 2,174 | <https://github.com/KonradIT/goprowifihack> |
 | HomeAssistant-Tapo-Control | Home Assistant control of Tapo cameras using the private local API | 2,014 | <https://github.com/JurajNyiri/HomeAssistant-Tapo-Control> |
-| eufy_security | Home Assistant integration for Eufy Security cameras and doorbells | 1,402 | <https://github.com/fuatakgun/eufy_security> |
+| eufy_security | Home Assistant integration for Eufy Security cameras and doorbells | 1,403 | <https://github.com/fuatakgun/eufy_security> |
 | libgphoto2 | Camera access library supporting vendor PTP extensions for thousands of cameras | 1,389 | <https://github.com/gphoto/libgphoto2> |
 | DroneSecurity | DJI DroneID reverse engineering and receiver | 1,326 | <https://github.com/RUB-SysSec/DroneSecurity> |
 | neolink | RTSP bridge for Reolink IP cameras using their proprietary Baichuan protocol | 1,015 | <https://github.com/thirtythreeforty/neolink> |
 | WyzeHacks | Hacks for Wyze cameras: telnet, NFS recording, and custom scripts | 883 | <https://github.com/HclX/WyzeHacks> |
-| blinkpy | Python library for Blink cameras via the unofficial API | 811 | <https://github.com/fronzbot/blinkpy> |
+| blinkpy | Python library for Blink cameras via the unofficial API | 813 | <https://github.com/fronzbot/blinkpy> |
 | eufy-security-client *(archived)* | Client library for Eufy Security devices via the reverse-engineered cloud and P2P protocol | 744 | <https://github.com/bropat/eufy-security-client> |
 | teslausb | Smart USB drive for Tesla dashcam with auto-archive to network storage | 648 | <https://github.com/cimryan/teslausb> |
 | turbodrone | Reverse engineered control of best-selling cheap Wi-Fi toy drones | 573 | <https://github.com/marshallrichards/turbodrone> |
@@ -208,7 +208,7 @@
 | filmkit | Create and manage Fujifilm film-simulation recipes over a USB camera connection | 447 | <https://github.com/eggricesoy/filmkit> |
 | lytro_unlock | Documents reverse engineering of the original Lytro light-field camera | 399 | <https://github.com/ea/lytro_unlock> |
 | wyze-sdk | Unofficial Python SDK for the Wyze cloud API | 358 | <https://github.com/shauntarves/wyze-sdk> |
-| OpenPocketCine | Open-source iOS and Android field monitor for DJI Osmo Pocket cameras | 329 | <https://github.com/erik-sutton95/OpenPocketCine> |
+| OpenPocketCine | Open-source iOS and Android field monitor for DJI Osmo Pocket cameras | 331 | <https://github.com/erik-sutton95/OpenPocketCine> |
 | dji_rev | DJI drone firmware and protocol reverse engineering | 325 | <https://github.com/fvantienen/dji_rev> |
 | sony-pm-alt | Wireless picture transfer from Sony cameras without PlayMemories | 319 | <https://github.com/falk0069/sony-pm-alt> |
 | telemetry-parser | Parse embedded telemetry from GoPro, Sony, Insta360, DJI and other camera files | 312 | <https://github.com/AdrianEddy/telemetry-parser> |
@@ -229,7 +229,7 @@
 | fpv-dvca *(archived)* | Unofficial companion app for the DJI Digital FPV system | 121 | <https://github.com/d4rken-org/fpv-dvca> |
 | viofosync | Self-hosted app to download and browse Viofo dashcam recordings | 119 | <https://github.com/RobXYZ/viofosync> |
 | gopro-ble-py | Python Bluetooth LE controller for GoPro cameras | 111 | <https://github.com/KonradIT/gopro-ble-py> |
-| tuya-ipc-terminal | CLI tool to stream Tuya smart cameras via RTSP | 109 | <https://github.com/seydx/tuya-ipc-terminal> |
+| tuya-ipc-terminal | CLI tool to stream Tuya smart cameras via RTSP | 110 | <https://github.com/seydx/tuya-ipc-terminal> |
 | GMaster | Panasonic Lumix camera remote control app for Windows | 108 | <https://github.com/Rambalac/GMaster> |
 | osmosis | Third-party Android client for DJI Osmo cameras and DJI drones | 106 | <https://github.com/KonradIT/osmosis> |
 | GRsync | Sync photos from Ricoh GR II / GR III over Wi-Fi without the vendor app | 104 | <https://github.com/clyang/GRsync> |
@@ -253,9 +253,9 @@
 | Film Studio (a5100) | Unofficial Sony PMCA in-camera app adding film-simulation presets to the a5100 | 51 | <https://github.com/ukiki0718-netizen/sony-a5100-film-studio> |
 | JD385_Documentation | Reverse engineering of the JD385 quadcopter | 51 | <https://github.com/hackocopter/JD385_Documentation> |
 | libpict | Picture Transfer Protocol client library with vendor extensions | 50 | <https://github.com/petabyt/libpict> |
-| lib-osmo-ble | Reverse-engineered BLE protocol for the DJI Osmo Pocket 3 in Node.js | 44 | <https://github.com/yigitkonur/lib-osmo-ble> |
+| lib-osmo-ble | Reverse-engineered BLE protocol for the DJI Osmo Pocket 3 in Node.js | 45 | <https://github.com/yigitkonur/lib-osmo-ble> |
+| nsg | Provide GPS data to Nikon Z cameras without SnapBridge | 44 | <https://github.com/hurui200320/nsg> |
 | insta360_ble_esp32 | Control Insta360 cameras over BLE from an ESP32 | 43 | <https://github.com/pchwalek/insta360_ble_esp32> |
-| nsg | Provide GPS data to Nikon Z cameras without SnapBridge | 43 | <https://github.com/hurui200320/nsg> |
 | olympus-wifi | Connect to Wi-Fi Olympus cameras: live view, clock, capture and download | 42 | <https://github.com/joergmlpts/olympus-wifi> |
 | RICOH-GR-Live-View-Shooting | M5Stack firmware for Ricoh GR remote live view and BLE shutter | 37 | <https://github.com/sky18Dragon/RICOH-GR-Live-View-Shooting> |
 | ptp-ip | Go implementation of PTP/IP for Wi-Fi camera control | 34 | <https://github.com/malc0mn/ptp-ip> |
@@ -266,9 +266,9 @@
 | insvtools | Toolkit for Insta360 .insv video files | 28 | <https://github.com/alex-plekhanov/insvtools> |
 | sony_qx_controller | Controls Sony QX10/QX100 lens cameras including undocumented API calls | 27 | <https://github.com/Tsar/sony_qx_controller> |
 | LumixController | Electron app to control a Panasonic Lumix DMC-G7 | 26 | <https://github.com/davidkim9/LumixController> |
+| fudge | Alternative Wi-Fi/Bluetooth app for Fujifilm cameras replacing the vendor app | 24 | <https://github.com/petabyt/fudge> |
 | eos-remote-web | Web Bluetooth remote for Canon EOS cameras using the reverse-engineered BLE protocol | 23 | <https://github.com/RReverser/eos-remote-web> |
-| fudge | Alternative Wi-Fi/Bluetooth app for Fujifilm cameras replacing the vendor app | 23 | <https://github.com/petabyt/fudge> |
-| insta360-luna-ultra-reverse-engineering | Reverse engineering of the Insta360 Luna Ultra | 21 | <https://github.com/derrickyau9/insta360-luna-ultra-reverse-engineering> |
+| insta360-luna-ultra-reverse-engineering | Reverse engineering of the Insta360 Luna Ultra | 22 | <https://github.com/derrickyau9/insta360-luna-ultra-reverse-engineering> |
 | insta360ctl | CLI to manage Insta360 cameras | 17 | <https://github.com/xaionaro-go/insta360ctl> |
 | dashy | Viofo dashcam client for ingesting footage over WiFi | 14 | <https://github.com/muddyland/dashy> |
 | dahua-rpc-api | Dahua JSON-RPC API reference, 275+ methods reversed from firmware JS | 12 | <https://github.com/H3xano/dahua-rpc-api> |
@@ -285,7 +285,7 @@
 | rmview | Live screen viewer for the reMarkable tablet written in PyQt5 | 826 | <https://github.com/bordaigorl/rmview> |
 | goMarkableStream | Stream the reMarkable screen to any browser | 754 | <https://github.com/owulveryck/goMarkableStream> |
 | FBInk | Library/tool to draw text and images to Kindle/Kobo/reMarkable eInk framebuffers | 550 | <https://github.com/NiLuJe/FBInk> |
-| supernote-tool | Unofficial Python tool to convert Supernote .note files to PNG/SVG/PDF | 456 | <https://github.com/jya-dev/supernote-tool> |
+| supernote-tool | Unofficial Python tool to convert Supernote .note files to PNG/SVG/PDF | 457 | <https://github.com/jya-dev/supernote-tool> |
 | kfmon | inotify-based launcher for custom apps on Kobo devices | 434 | <https://github.com/NiLuJe/kfmon> |
 | ReMarkableAPI *(archived)* | Docs and implementation of the reMarkable file sync API | 421 | <https://github.com/splitbrain/ReMarkableAPI> |
 | rmkit | App framework and apps for the reMarkable tablet | 418 | <https://github.com/rmkit-dev/rmkit> |
@@ -300,7 +300,7 @@
 | Kobo-UNCaGED | Wireless Calibre connection for Kobo devices integrated into Nickel | 133 | <https://github.com/shermp/Kobo-UNCaGED> |
 | rmapy *(archived)* | Unofficial Python module for the reMarkable cloud API | 130 | <https://github.com/subutux/rmapy> |
 | rmc | Convert to/from reMarkable v6 .rm files (SVG, PDF, markdown) | 130 | <https://github.com/ricklupton/rmc> |
-| KoboTolinoFindings | Findings on the new Kobo/tolino 5.x firmware | 110 | <https://github.com/notmarek/KoboTolinoFindings> |
+| KoboTolinoFindings | Findings on the new Kobo/tolino 5.x firmware | 111 | <https://github.com/notmarek/KoboTolinoFindings> |
 | rm-appload | XOVI extension to run windowed and fullscreen apps on reMarkable tablets | 107 | <https://github.com/asivery/rm-appload> |
 | xovi | Function-hooking extension framework used to mod reMarkable software | 107 | <https://github.com/asivery/xovi> |
 | reMarkable-typescript *(archived)* | TypeScript reMarkable cloud API client | 105 | <https://github.com/benoitsepe/reMarkable-typescript> |
@@ -334,14 +334,14 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| mirror | Guide to repurposing a discontinued Lululemon Mirror as a smart mirror with a replacement mainboard | 282 | <https://github.com/olm3ca/mirror> |
+| mirror | Guide to repurposing a discontinued Lululemon Mirror as a smart mirror with a replacement mainboard | 283 | <https://github.com/olm3ca/mirror> |
 | pirowflo | All-in-one data interface for WaterRower S4 and SmartRow rowers to BLE/ANT+ | 173 | <https://github.com/inonoob/pirowflo> |
 | ph4-walkingpad | Python controller with reverse-engineered BLE protocol for Kingsmith/Xiaomi WalkingPad treadmills | 113 | <https://github.com/ph4r05/ph4-walkingpad> |
 | QZCompanionNordictrackTreadmill | Companion app on NordicTrack/iFit consoles that exposes speed and incline to QZ (qdomyos-zwift) | 83 | <https://github.com/cagnulein/QZCompanionNordictrackTreadmill> |
 | waterrower-ble | WaterRower S4 adapter that exposes the Bluetooth LE Cycling Power Service | 83 | <https://github.com/olympum/waterrower-ble> |
 | waterrower *(archived)* | Node.js library for communicating with the WaterRower S4 monitor | 74 | <https://github.com/codefoster/waterrower> |
 | oarsman | Application interface and logger for the WaterRower S4 monitor | 55 | <https://github.com/olympum/oarsman> |
-| zwift_click_handling | Decodes Zwift Click controller BLE messages for use outside Zwift | 54 | <https://github.com/jat255/zwift_click_handling> |
+| zwift_click_handling | Decodes Zwift Click controller BLE messages for use outside Zwift | 55 | <https://github.com/jat255/zwift_click_handling> |
 | ifit-garmin-sync | Exports iFit workouts to Garmin Connect via iFit's private web API | 48 | <https://github.com/flackdl/ifit-garmin-sync> |
 | iFitController | Network controller for NordicTrack treadmills via the iFit console websocket interface | 47 | <https://github.com/belden/iFitController> |
 | node-waterrower | Node server for the WaterRower S4/S5 USB performance monitor | 44 | <https://github.com/jamesnesfield/node-waterrower> |
@@ -400,7 +400,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| OpenDLSS-NR | Vulkan reimplementation of NVIDIA DLSS 5 neural rendering network, bit-exact against original | 890 | <https://github.com/maanHimself/OpenDLSS-NR> |
+| OpenDLSS-NR | Vulkan reimplementation of NVIDIA DLSS 5 neural rendering network, bit-exact against original | 901 | <https://github.com/maanHimself/OpenDLSS-NR> |
 | videocoreiv | Reverse-engineered documentation of the Broadcom VideoCore IV | 866 | <https://github.com/hermanhermitage/videocoreiv> |
 | envytools | Tools and docs for reverse engineering NVIDIA GPUs (nouveau) | 546 | <https://github.com/envytools/envytools> |
 | freedreno | Reverse-engineering tools and docs for Qualcomm Adreno GPUs | 303 | <https://github.com/freedreno/freedreno> |
@@ -415,19 +415,19 @@
 | MitsubishiCN105ESPHome | ESPHome firmware for Mitsubishi heat pumps using the CN105 connector | 1,140 | <https://github.com/echavet/MitsubishiCN105ESPHome> |
 | ESP32-Faikout *(archived)* | ESP32 module that controls Daikin air conditioners through their serial port | 1,107 | <https://github.com/revk/xESP32-Faikout> |
 | esphome-mitsubishiheatpump *(archived)* | ESPHome climate component for Mitsubishi heat pumps via the CN105 serial port | 683 | <https://github.com/geoffdavis/esphome-mitsubishiheatpump> |
-| HomeAssistant-GreeClimateComponent | Home Assistant climate component for ACs that use the Gree protocol | 526 | <https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent> |
+| HomeAssistant-GreeClimateComponent | Home Assistant climate component for ACs that use the Gree protocol | 527 | <https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent> |
 | P1P2MQTT | Monitors and controls Daikin/Rotex Altherma heat pumps via the 2-wire P1/P2 thermostat bus | 495 | <https://github.com/Arnold-n/P1P2MQTT> |
 | arduino-heatpumpir | Arduino library to control split-unit heat pumps over decoded IR protocols | 434 | <https://github.com/ToniA/arduino-heatpumpir> |
-| esphome-econet | ESPHome package for Rheem water heaters and HVAC over the EcoNet bus | 366 | <https://github.com/esphome-econet/esphome-econet> |
+| esphome-econet | ESPHome package for Rheem water heaters and HVAC over the EcoNet bus | 367 | <https://github.com/esphome-econet/esphome-econet> |
 | mypyllant-component | Home Assistant component for Vaillant heat pumps and boilers via myVAILLANT | 342 | <https://github.com/signalkraft/mypyllant-component> |
 | wiserHomeAssistantPlatform | Home Assistant platform for the Drayton Wiser heating system's local API | 325 | <https://github.com/asantaga/wiserHomeAssistantPlatform> |
 | daikin-control *(archived)* | Unofficial API documentation and web UI for Daikin Emura air conditioners | 311 | <https://github.com/ael-code/daikin-control> |
+| rethink | Fully local reverse-engineered server for LG ThinQ devices | 288 | <https://github.com/anszom/rethink> |
 | ariston-remotethermo-home-assistant-v3 | Home Assistant integration for Ariston NET remotethermo | 287 | <https://github.com/fustom/ariston-remotethermo-home-assistant-v3> |
-| rethink | Fully local reverse-engineered server for LG ThinQ devices | 286 | <https://github.com/anszom/rethink> |
 | daikin_residential | Cloud control of Daikin devices supported by the Daikin Residential Controller app | 280 | <https://github.com/rospogrigio/daikin_residential> |
 | infinitude | Open control of Carrier/Bryant thermostats by intercepting their cloud traffic | 257 | <https://github.com/nebulous/infinitude> |
 | homebridge-lg-thinq | Homebridge plugin for LG ThinQ devices via the ThinQ platform | 246 | <https://github.com/nVuln/homebridge-lg-thinq> |
-| AirCon | Scripts for controlling air conditioners with HiSense Wi-Fi modules | 241 | <https://github.com/deiger/AirCon> |
+| AirCon | Scripts for controlling air conditioners with HiSense Wi-Fi modules | 242 | <https://github.com/deiger/AirCon> |
 | open3e | Local access to Viessmann E3 controllers (Vitocal, Vitodens) via CAN or DoIP | 213 | <https://github.com/open3e/open3e> |
 | home-assistant-toshiba_ac | Toshiba air conditioner integration for Home Assistant | 207 | <https://github.com/h4de5/home-assistant-toshiba_ac> |
 | PyViCare | Python library for the Viessmann ViCare API | 169 | <https://github.com/openviess/PyViCare> |
@@ -448,7 +448,7 @@
 | esphome-daikin-s21 | ESPHome component for Daikin mini-splits via the S21 serial port | 110 | <https://github.com/joshbenner/esphome-daikin-s21> |
 | daikin-controller-cloud | Node.js library to connect to and control Daikin cloud devices | 109 | <https://github.com/Apollon77/daikin-controller-cloud> |
 | MideaUART | Library for controlling Midea appliances via their UART protocol | 109 | <https://github.com/dudanov/MideaUART> |
-| daikinskyport | API for the Daikin One+ thermostat cloud | 105 | <https://github.com/apetrycki/daikinskyport> |
+| daikinskyport | API for the Daikin One+ thermostat cloud | 107 | <https://github.com/apetrycki/daikinskyport> |
 | daikin_altherma | Home Assistant custom component for Daikin Altherma heat pumps | 98 | <https://github.com/tadasdanielius/daikin_altherma> |
 | Samsung-HVAC-buscontrol | Protocol description of Samsung air conditioner serial bus | 97 | <https://github.com/DannyDeGaspari/Samsung-HVAC-buscontrol> |
 | rinnaicontrolr-ha | Home Assistant integration for Rinnai Control-R water heaters | 96 | <https://github.com/explosivo22/rinnaicontrolr-ha> |
@@ -467,7 +467,7 @@
 | GoHeishaMon | Go port of HeishaMon that runs directly on the Panasonic CZ-TAW1 module | 68 | <https://github.com/lsochanowski/GoHeishaMon> |
 | local_daikin | Home Assistant integration for Daikin ACs on newer firmware using the local API | 68 | <https://github.com/Apoc182/local_daikin> |
 | ha-daikinone | Home Assistant integration for Daikin One HVAC systems and thermostats | 64 | <https://github.com/zlangbert/ha-daikinone> |
-| navien | Navien water heater wire protocol for NaviLink and attached devices | 63 | <https://github.com/htumanyan/navien> |
+| navien | Navien water heater wire protocol for NaviLink and attached devices | 64 | <https://github.com/htumanyan/navien> |
 | arduino-altherma-controller | Arduino controller for Daikin Altherma heat pumps over the P1/P2 bus | 62 | <https://github.com/budulinek/arduino-altherma-controller> |
 | rinnai-wifi | ESP32 firmware interfacing a Rinnai control panel to Home Assistant | 58 | <https://github.com/ayavilevich/rinnai-wifi> |
 | midea-open-dongle *(archived)* | Open replacement dongle design for Midea-compatible climate devices | 56 | <https://github.com/dudanov/midea-open-dongle> |
@@ -495,11 +495,11 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| awtrix3 | Custom firmware for the Ulanzi TC001 smart pixel clock | 2,359 | <https://github.com/Blueforcer/awtrix3> |
+| awtrix3 | Custom firmware for the Ulanzi TC001 smart pixel clock | 2,358 | <https://github.com/Blueforcer/awtrix3> |
 | esp8266_milight_hub | ESP8266 replacement for a MiLight/LimitlessLED hub | 1,048 | <https://github.com/sidoh/esp8266_milight_hub> |
 | chubby75 | Reverse engineering of the Linsn RV901T HUB75 LED receiver card as an FPGA board | 644 | <https://github.com/q3k/chubby75> |
 | pywizlight | Python connector for Philips WiZ lights via local UDP protocol | 559 | <https://github.com/sbidy/pywizlight> |
-| geekmagic-hacs | Home Assistant integration for GeekMagic SmallTV displays | 457 | <https://github.com/adrienbrault/geekmagic-hacs> |
+| geekmagic-hacs | Home Assistant integration for GeekMagic SmallTV displays | 458 | <https://github.com/adrienbrault/geekmagic-hacs> |
 | hacs-govee | Home Assistant integration for Govee lights | 362 | <https://github.com/LaggAt/hacs-govee> |
 | pixoo | Python library for Divoom Pixoo 64 Wi-Fi pixel displays | 346 | <https://github.com/SomethingWithComputers/pixoo> |
 | pixoo-rest | REST API to interact with Wi-Fi Divoom Pixoo devices | 333 | <https://github.com/4ch1m/pixoo-rest> |
@@ -519,7 +519,7 @@
 | ble_rgb_led_strip_controller | Control cheap BLE RGB LED strip controllers | 111 | <https://github.com/arduino12/ble_rgb_led_strip_controller> |
 | ha-ipixel-color | Home Assistant integration for iPixel Color LED displays | 95 | <https://github.com/cagcoach/ha-ipixel-color> |
 | divoom-control *(archived)* | Script/CLI for controlling Divoom devices (Pixoo etc.) | 90 | <https://github.com/MattIPv4/divoom-control> |
-| CandleLEDhack | Candle-flicker LED reverse engineering and emulation | 78 | <https://github.com/cpldcpu/CandleLEDhack> |
+| CandleLEDhack | Candle-flicker LED reverse engineering and emulation | 79 | <https://github.com/cpldcpu/CandleLEDhack> |
 | pixoo-client | Python 3 Bluetooth client for the Divoom Pixoo | 78 | <https://github.com/virtualabs/pixoo-client> |
 | csrmesh | Reverse engineered bridge for the CSRMesh Bluetooth LE mesh protocol | 71 | <https://github.com/nkaminski/csrmesh> |
 | govee-local-api | Python library for the Govee LAN API | 66 | <https://github.com/Galorhallen/govee-local-api> |
@@ -535,9 +535,9 @@
 | homeassistant-timebox-mini | Control a Divoom Timebox Mini from Home Assistant | 26 | <https://github.com/mathoudebine/homeassistant-timebox-mini> |
 | timebox | Script to use the Divoom Mini Timebox as a matrix display | 25 | <https://github.com/Smanar/timebox> |
 | ulanzi_tc001_hardware | Hardware description and Arduino examples for the Ulanzi TC001 pixel clock | 24 | <https://github.com/rroels/ulanzi_tc001_hardware> |
+| divoom-minitoo | Divoom MiniToo Bluetooth toolkit | 21 | <https://github.com/bugzmanov/divoom-minitoo> |
+| ESPHome-component-iPixel-ble | ESPHome component to control iPixel LED boards over BLE | 21 | <https://github.com/DonKracho/ESPHome-component-iPixel-ble> |
 | divoom-ditoo-pro-controller | Send Bluetooth commands to a Divoom Ditoo Pro without the app | 20 | <https://github.com/andreas-mausch/divoom-ditoo-pro-controller> |
-| divoom-minitoo | Divoom MiniToo Bluetooth toolkit | 20 | <https://github.com/bugzmanov/divoom-minitoo> |
-| ESPHome-component-iPixel-ble | ESPHome component to control iPixel LED boards over BLE | 20 | <https://github.com/DonKracho/ESPHome-component-iPixel-ble> |
 | iPixel-ESP32 | ESP32 REST API bridge for iPixel Color matrices | 19 | <https://github.com/ToBiDi0410/iPixel-ESP32> |
 | divo | Python controller for Divoom Pixoo and Timebox Evo | 17 | <https://github.com/spezifisch/divo> |
 | iPixel-CFW | Work-in-progress custom firmware for iPixel Color LED matrices | 17 | <https://github.com/lucagoc/iPixel-CFW> |
@@ -554,7 +554,7 @@
 | nuki_hub | ESP32 hub between Nuki locks and the smart home using the Nuki BLE protocol | 747 | <https://github.com/technyon/nuki_hub> |
 | pyzk | Unofficial library for ZKTeco fingerprint attendance machines | 669 | <https://github.com/fananimi/pyzk> |
 | dscKeybusInterface | Arduino/ESP library interfacing DSC security systems via the reverse engineered Keybus | 617 | <https://github.com/taligentx/dscKeybusInterface> |
-| esphome-ratgdo | ESPHome firmware for ratgdo garage door controllers | 552 | <https://github.com/ratgdo/esphome-ratgdo> |
+| esphome-ratgdo | ESPHome firmware for ratgdo garage door controllers | 553 | <https://github.com/ratgdo/esphome-ratgdo> |
 | homebridge-myq *(archived)* | Homebridge plugin for myQ LiftMaster and Chamberlain garage openers | 546 | <https://github.com/hjdhjd/homebridge-myq> |
 | rat-ratgdo | Open-source schematics for the ratgdo PCB | 508 | <https://github.com/Kaldek/rat-ratgdo> |
 | hass-aarlo | Asynchronous Arlo component for Home Assistant using the web API | 481 | <https://github.com/twrecked/hass-aarlo> |
@@ -568,7 +568,7 @@
 | myq | Implementation of the modern LiftMaster/Chamberlain myQ API | 164 | <https://github.com/hjdhjd/myq> |
 | homebridge-simplisafe3 | Homebridge plugin for SimpliSafe 3 | 146 | <https://github.com/homebridge-simplisafe3/homebridge-simplisafe3> |
 | myq-api | Node.js interface to myQ garage devices | 143 | <https://github.com/thomasmunduchira/myq-api> |
-| aegis-hass | Unofficial Home Assistant integration for Ajax Security Systems | 127 | <https://github.com/bvis/aegis-hass> |
+| aegis-hass | Unofficial Home Assistant integration for Ajax Security Systems | 128 | <https://github.com/bvis/aegis-hass> |
 | ESPHome_nuki_lock | ESPHome lock platform for Nuki smart locks over BLE | 125 | <https://github.com/uriyacovy/ESPHome_nuki_lock> |
 | ring-api | Reverse engineered promise-based API for Ring doorbells | 116 | <https://github.com/jimhigson/ring-api> |
 | pymyq *(archived)* | Python wrapper for the myQ API | 115 | <https://github.com/arraylabs/pymyq> |
@@ -606,7 +606,7 @@
 | dexcom-g7-apk-patcher | Patcher for the Dexcom G7 app enabling AAPS broadcasting | 113 | <https://github.com/DiaKEM/dexcom-g7-apk-patcher> |
 | OmniCore | Control Omnipod insulin pods from your phone | 105 | <https://github.com/winemug/OmniCore> |
 | glucometer-protocols | Shared descriptions of reverse engineered glucometer communication protocols | 103 | <https://github.com/glucometers-tech/glucometer-protocols> |
-| omblepy | CLI to read records from Omron Bluetooth blood-pressure monitors | 100 | <https://github.com/userx14/omblepy> |
+| omblepy | CLI to read records from Omron Bluetooth blood-pressure monitors | 101 | <https://github.com/userx14/omblepy> |
 | libomron *(archived)* | Library for accessing data from Omron medical devices | 99 | <https://github.com/openyou/libomron> |
 | share2nightscout-bridge | Bridges Dexcom Share data into Nightscout | 96 | <https://github.com/nightscout/share2nightscout-bridge> |
 | xDripCareLinkFollower | Medtronic CareLink follower data source for xDrip+ | 91 | <https://github.com/benceszasz/xDripCareLinkFollower> |
@@ -621,18 +621,18 @@
 | LibreLinkUpDesktop | Desktop app showing glucose from LibreLinkUp | 67 | <https://github.com/Crazy-Marvin/LibreLinkUpDesktop> |
 | omnipy | Python control of Omnipod Eros pods via RileyLink | 64 | <https://github.com/winemug/omnipy> |
 | CMS50Dplus | Download data from a Contec CMS50D+ pulse oximeter | 60 | <https://github.com/atbrask/CMS50Dplus> |
-| nightscout-connect | Bridge Dexcom Share, LibreLinkUp, CareLink and Glooko clouds into Nightscout | 58 | <https://github.com/nightscout/nightscout-connect> |
+| nightscout-connect | Bridge Dexcom Share, LibreLinkUp, CareLink and Glooko clouds into Nightscout | 59 | <https://github.com/nightscout/nightscout-connect> |
 | decoding-contour-next-link | Decoding Contour Next Link meter and Medtronic pump comms | 56 | <https://github.com/pazaan/decoding-contour-next-link> |
 | minimed-connect-to-nightscout | Send Medtronic CareLink Connect data to Nightscout | 55 | <https://github.com/nightscout/minimed-connect-to-nightscout> |
 | decoding-dexcom | Early project decoding the Dexcom receiver protocol | 52 | <https://github.com/bewest/decoding-dexcom> |
+| omramin | Sync OMRON connect blood pressure and weight to Garmin Connect | 51 | <https://github.com/bugficks/omramin> |
 | Dexcom-ESP32-Reader | Read Dexcom G5/G6 data on an ESP32 | 50 | <https://github.com/TheEpicBigBoss/Dexcom-ESP32-Reader> |
-| omramin | Sync OMRON connect blood pressure and weight to Garmin Connect | 50 | <https://github.com/bugficks/omramin> |
 | libre-link-unofficial-api | Unofficial TypeScript API for Abbott LibreLink Up | 49 | <https://github.com/DRFR0ST/libre-link-unofficial-api> |
 | hass-omron | Omron BLE blood pressure monitor integration for Home Assistant | 48 | <https://github.com/eigger/hass-omron> |
 | wixel-xDrip | Wixel firmware letting a DIY bridge act as a Dexcom receiver | 45 | <https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip> |
 | ecc1/medtronic | Go package for talking to Medtronic pumps via radio modules | 43 | <https://github.com/ecc1/medtronic> |
 | Home-Assistant-Carelink | Unofficial Medtronic CareLink component for Home Assistant | 43 | <https://github.com/yo-han/Home-Assistant-Carelink> |
-| LibreView-HomeAssistant | Integrate LibreView sensor data with Home Assistant | 42 | <https://github.com/PTST/LibreView-HomeAssistant> |
+| LibreView-HomeAssistant | Integrate LibreView sensor data with Home Assistant | 43 | <https://github.com/PTST/LibreView-HomeAssistant> |
 | pingrf | RF stack for the Animas OneTouch Ping insulin pump | 40 | <https://github.com/mariusae/pingrf> |
 | LibreTransmitter *(archived)* | Loop CGM manager for Libre sensors via transmitters | 39 | <https://github.com/dabear/LibreTransmitter> |
 | dexcom_reader *(archived)* | Export data from a Dexcom G4 CGM receiver | 38 | <https://github.com/compbrain/dexcom_reader> |
@@ -677,11 +677,11 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| alsa-scarlett-gui | GTK4 GUI for Focusrite Scarlett/Clarett mixer controls on Linux (replaces Focusrite Control) | 1,352 | <https://github.com/geoffreybennett/alsa-scarlett-gui> |
+| alsa-scarlett-gui | GTK4 GUI for Focusrite Scarlett/Clarett mixer controls on Linux (replaces Focusrite Control) | 1,350 | <https://github.com/geoffreybennett/alsa-scarlett-gui> |
 | goxlr-utility | Unofficial tool to configure and control TC-Helicon GoXLR on Linux | 1,058 | <https://github.com/GoXLR-on-Linux/goxlr-utility> |
-| beat-link-trigger | Trigger events and automate shows from Pioneer CDJs | 720 | <https://github.com/Deep-Symmetry/beat-link-trigger> |
+| beat-link-trigger | Trigger events and automate shows from Pioneer CDJs | 722 | <https://github.com/Deep-Symmetry/beat-link-trigger> |
 | m8c | Cross-platform client for the Dirtywave M8 tracker's headless serial display protocol | 613 | <https://github.com/laamaa/m8c> |
-| pyrekordbox | Unofficial Python package for rekordbox databases, XML and analysis files | 494 | <https://github.com/dylanljones/pyrekordbox> |
+| pyrekordbox | Unofficial Python package for rekordbox databases, XML and analysis files | 495 | <https://github.com/dylanljones/pyrekordbox> |
 | elektroid | Sample and MIDI device manager for Elektron, Korg, Arturia and other synths on Linux | 426 | <https://github.com/dagargo/elektroid> |
 | launchpad.py | Python control suite for Novation Launchpad and Midi Fighter controllers | 383 | <https://github.com/FMMT666/launchpad.py> |
 | X32-Behringer | Tools and unofficial OSC protocol docs for the Behringer X32/M32 digital mixers | 317 | <https://github.com/pmaillot/X32-Behringer> |
@@ -689,20 +689,20 @@
 | beat-link | Java library to sync and communicate with Pioneer DJ Link equipment | 293 | <https://github.com/Deep-Symmetry/beat-link> |
 | dysentery | Reverse-engineered analysis of the Pioneer Pro DJ Link network protocol | 267 | <https://github.com/Deep-Symmetry/dysentery> |
 | zoom-ms-utility | Patch utility for Zoom MS-50G/MS-60B/MS-70CDR multistomp pedals | 263 | <https://github.com/g200kg/zoom-ms-utility> |
-| octabam | Remixer for the Elektron Octatrack OS with custom DSP effects | 253 | <https://github.com/sambanks/octabam> |
+| octabam | Remixer for the Elektron Octatrack OS with custom DSP effects | 258 | <https://github.com/sambanks/octabam> |
 | overwitch | JACK client for Elektron Overbridge USB audio devices on Linux (reverse-engineered protocol) | 239 | <https://github.com/dagargo/overwitch> |
 | mightier_amp | Alternative app for controlling NUX Mighty amps over Bluetooth | 236 | <https://github.com/tuntorius/mightier_amp> |
-| teoperator | Make OP-1 and OP-Z drum and synth patch files from any sound | 170 | <https://github.com/schollz/teoperator> |
+| teoperator | Make OP-1 and OP-Z drum and synth patch files from any sound | 171 | <https://github.com/schollz/teoperator> |
 | cabl | Controller abstraction layer for Native Instruments Maschine/Kontrol hardware without NI drivers | 153 | <https://github.com/shaduzlabs/cabl> |
 | scarlett2 | Firmware management utility for Focusrite Scarlett/Clarett interfaces on Linux | 139 | <https://github.com/geoffreybennett/scarlett2> |
+| underbridge | Multitrack audio exporter for the Teenage Engineering OP-Z | 135 | <https://github.com/BKLronin/underbridge> |
 | RETracker | Reverse engineering framework for the Polyend Tracker | 134 | <https://github.com/patois/RETracker> |
-| underbridge | Multitrack audio exporter for the Teenage Engineering OP-Z | 134 | <https://github.com/BKLronin/underbridge> |
+| fm1-custom-fw | M-VAVE FM-1 custom firmwares and MIDI SysEx protocol docs | 132 | <https://github.com/aroum/fm1-custom-fw> |
 | zoom-zt2 | Python tool to install/remove effects on Zoom G1Four pedals via reverse-engineered USB MIDI | 126 | <https://github.com/mungewell/zoom-zt2> |
 | midiverb_emulator | Emulator of the Alesis Midiverb I and II from their DSP ROMs | 124 | <https://github.com/thement/midiverb_emulator> |
-| fm1-custom-fw | M-VAVE FM-1 custom firmwares and MIDI SysEx protocol docs | 121 | <https://github.com/aroum/fm1-custom-fw> |
-| Model-TG | Unofficial firmware additions for the Elektron Model:Cycles, including a sampler machine | 117 | <https://github.com/TinyGregAudio/Model-TG> |
+| Model-TG | Unofficial firmware additions for the Elektron Model:Cycles, including a sampler machine | 120 | <https://github.com/TinyGregAudio/Model-TG> |
+| elektron-firmware-tool | Tool to unpack and inspect Elektron instrument firmware images | 118 | <https://github.com/mischa85/elektron-firmware-tool> |
 | prolink-connect | Library to talk to Pioneer PRO DJ LINK equipment | 117 | <https://github.com/evanpurkhiser/prolink-connect> |
-| elektron-firmware-tool | Tool to unpack and inspect Elektron instrument firmware images | 116 | <https://github.com/mischa85/elektron-firmware-tool> |
 | ep_133_sample_tool *(archived)* | Sample transfer tool for the Teenage Engineering EP-133 | 110 | <https://github.com/garrettjwilke/ep_133_sample_tool> |
 | rebellion | Use Native Instruments Maschine/Komplete Kontrol devices without NI software | 107 | <https://github.com/terminar/rebellion> |
 | dtdump | Open proof-of-concept implementation of the Elektron Overbridge USB protocol | 102 | <https://github.com/droelfdroelf/dtdump> |
@@ -722,11 +722,11 @@
 | libanalogrytm | Portable SysEx library for the Elektron Analog Rytm drum computer | 71 | <https://github.com/bsp2/libanalogrytm> |
 | elk-herd | Elektron Digitakt/Model sample and project manager using reverse-engineered SysEx protocol | 70 | <https://github.com/mzero/elk-herd> |
 | qKontrol | Linux tool and alternative to NI software for Komplete Kontrol MK2 keyboards | 67 | <https://github.com/GoaSkin/qKontrol> |
-| pod-ui | GTK UI for controlling Line 6 POD family devices via MIDI | 64 | <https://github.com/arteme/pod-ui> |
-| presonus-studiolive-api | Reverse-engineered PreSonus StudioLive Series III network control protocol | 64 | <https://github.com/featherbear/presonus-studiolive-api> |
+| pod-ui | GTK UI for controlling Line 6 POD family devices via MIDI | 65 | <https://github.com/arteme/pod-ui> |
+| presonus-studiolive-api | Reverse-engineered PreSonus StudioLive Series III network control protocol | 65 | <https://github.com/featherbear/presonus-studiolive-api> |
+| digiemu | Emulator for Elektron Digitakt/Digitone/Model:Cycles running their own firmware | 62 | <https://github.com/irpina/digiemu> |
 | go-stagelinq | Go library implementing the Denon StageLinq protocol | 61 | <https://github.com/icedream/go-stagelinq> |
 | xair-remote | Remote-control Behringer X-Air mixers from an X-Touch Mini via OSC | 60 | <https://github.com/peterdikant/xair-remote> |
-| digiemu | Emulator for Elektron Digitakt/Digitone/Model:Cycles running their own firmware | 59 | <https://github.com/irpina/digiemu> |
 | opc | Teenage Engineering OP-1 companion app for samples and patches | 58 | <https://github.com/tink3rtanner/opc> |
 | outsider | Linux program to control Blackstar ID series amplifiers (replacement for Insider) | 54 | <https://github.com/jonathanunderwood/outsider> |
 | BS2-Web | Web editor for the Novation Bass Station II synth | 50 | <https://github.com/francoisgeorgy/BS2-Web> |
@@ -738,20 +738,20 @@
 | podhd | Modify and convert Line 6 POD HD presets, setlists and bundles | 44 | <https://github.com/johanneszab/podhd> |
 | lpedit | Linux editor for Line 6 POD HD 500X/500/Pro via reverse-engineered USB protocol | 43 | <https://github.com/StarAurryon/lpedit> |
 | octatrack-manager | Desktop app to manage, view and edit Elektron Octatrack project files | 43 | <https://github.com/davidferlay/octatrack-manager> |
+| managefreak | Open-source preset manager for the Arturia MicroFreak | 41 | <https://github.com/GiovanniBitbyBit/managefreak> |
 | sparkpal | Raspberry Pi Zero foot pedal controlling the Positive Grid Spark amp over Bluetooth | 41 | <https://github.com/jamesguitar3/sparkpal> |
-| managefreak | Open-source preset manager for the Arturia MicroFreak | 40 | <https://github.com/GiovanniBitbyBit/managefreak> |
 | StageLinq | Node.js library for the Denon DJ StageLinq protocol | 40 | <https://github.com/chrisle/StageLinq> |
 | loguetools | Korg minilogue family patch manipulation tools | 38 | <https://github.com/gazzar/loguetools> |
+| maschine-mikro-mk3-driver | Userspace Linux MIDI driver for the NI Maschine Mikro MK3 | 38 | <https://github.com/r00tman/maschine-mikro-mk3-driver> |
 | circuit-tools | Tools for the Novation Circuit groovebox | 37 | <https://github.com/digitalhobbit/circuit-tools> |
-| maschine-mikro-mk3-driver | Userspace Linux MIDI driver for the NI Maschine Mikro MK3 | 36 | <https://github.com/r00tman/maschine-mikro-mk3-driver> |
 | polyend-tracker-pti-creator | CLI to create Polyend Tracker .pti instruments from samples | 36 | <https://github.com/adriananders/polyend-tracker-pti-creator> |
 | openhx | Unofficial open-source alternative to HX Edit for Line 6 Helix/HX devices | 35 | <https://github.com/allansomensi/openhx> |
 | MPC-LiveXplore-bootstrap | Bootstrap for running custom scripts on Akai MPC and Force | 34 | <https://github.com/TheKikGen/MPC-LiveXplore-bootstrap> |
 | pti-file-format | Reverse engineering the Polyend Tracker instrument file format | 33 | <https://github.com/jaap3/pti-file-format> |
 | elfer *(archived)* | Tracker-style pattern editor for Korg Electribe 2 synth/sampler files | 31 | <https://github.com/maks/elfer> |
+| fretwire | Independent native Linux editor for the Line 6 HX/Helix family | 31 | <https://github.com/john-baxter-dev/fretwire> |
 | libdigitone | Library for Elektron Digitone SysEx patch data | 31 | <https://github.com/d-huck/libdigitone> |
 | polyendtracker-midi-export | MIDI exporter for Polyend Tracker project files | 31 | <https://github.com/DataGreed/polyendtracker-midi-export> |
-| fretwire | Independent native Linux editor for the Line 6 HX/Helix family | 30 | <https://github.com/john-baxter-dev/fretwire> |
 | MPC-Force-SSH-Firmwares | Modified Akai MPC and Force firmwares with SSH and mouse control | 26 | <https://github.com/bonsaipanda/MPC-Force-SSH-Firmwares> |
 | digikit | Emulator and custom firmware tools for Elektron Digi boxes | 25 | <https://github.com/m-dwyer/digikit> |
 | pacer-editor *(archived)* | Web editor for the Nektar Pacer MIDI foot controller | 24 | <https://github.com/francoisgeorgy/pacer-editor> |
@@ -762,8 +762,8 @@
 | FBV-tools | Info and examples to use the Line 6 FBV foot controller with other gear | 22 | <https://github.com/vlotech/FBV-tools> |
 | tracker-pti-editor | Instrument editor for the Polyend Tracker | 21 | <https://github.com/sandroidmusic/tracker-pti-editor> |
 | DL4II_Control | Controller app for the Line 6 DL4 MkII via USB MIDI | 19 | <https://github.com/DavidMolTor/DL4II_Control> |
+| freakout | Patch tools and USB/MIDI transport for Arturia MiniFreak and MicroFreak | 18 | <https://github.com/kmorrill/freakout> |
 | FBV2MIDI | Use a Line 6 FBV to control other amps such as the Kemper | 17 | <https://github.com/wrbi/FBV2MIDI> |
-| freakout | Patch tools and USB/MIDI transport for Arturia MiniFreak and MicroFreak | 17 | <https://github.com/kmorrill/freakout> |
 | circuit_samples | Python module for Novation Circuit sample SysEx files | 16 | <https://github.com/mungewell/circuit_samples> |
 | go-thr | Experimental library for communicating with Yamaha THR II amps | 16 | <https://github.com/warmans/go-thr> |
 | MPCProjectManager | Manage Akai MPC Live/X project files | 16 | <https://github.com/frankvonwelt/MPCProjectManager> |
@@ -786,8 +786,8 @@
 | z80-open-silicon | Open-source pin-compatible silicon clone of the Zilog Z80 | 805 | <https://github.com/rejunity/z80-open-silicon> |
 | counterfeit_DS18B20 | Analysis of counterfeit DS18B20 temperature sensors and how to identify them | 689 | <https://github.com/cpetrich/counterfeit_DS18B20> |
 | Jarvis | Reverse engineering the Fully Jarvis standing desk controller for home automation | 483 | <https://github.com/phord/Jarvis> |
-| usbrelay | Control cheap HID-based USB relay boards on Linux | 369 | <https://github.com/darrylb123/usbrelay> |
-| ColorLCDVape-RE | Reverse engineering of disposable vapes with color TFT LCDs | 243 | <https://github.com/ginbot86/ColorLCDVape-RE> |
+| usbrelay | Control cheap HID-based USB relay boards on Linux | 368 | <https://github.com/darrylb123/usbrelay> |
+| ColorLCDVape-RE | Reverse engineering of disposable vapes with color TFT LCDs | 244 | <https://github.com/ginbot86/ColorLCDVape-RE> |
 | rp3a0 | Reverse engineering the RP3A0 SoC of the Raspberry Pi Zero 2 W | 240 | <https://github.com/jonny12375/rp3a0> |
 | DeskUp-Pro-Controller-RJ12 | ESPHome controller for standing desks via the RJ11/RJ12 handset port protocol | 232 | <https://github.com/SmartHomeGuys/DeskUp-Pro-Controller-RJ12> |
 | SiliconRE | Traces and schematics of custom chips reverse engineered from silicon die shots | 231 | <https://github.com/furrtek/SiliconRE> |
@@ -842,7 +842,7 @@
 | jieli-ble-badge-research | Reverse engineering of a JieLi AC707N BLE e-badge: BLE clients, UFW tooling and flash helpers | 25 | <https://github.com/ElectronicCats/jieli-ble-badge-research> |
 | BMSCtl | Control panel for ANT BMS with a reverse-engineered UART protocol | 23 | <https://github.com/Sgw32/BMSCtl> |
 | e87_badge | Reverse-engineered Bluetooth communication with the E87 LED badge | 20 | <https://github.com/jumpingmushroom/e87_badge> |
-| Ocrustar-USB-IR | Reverse-engineered protocol and Python driver for Ocrustar/ElkSmart USB IR blaster | 18 | <https://github.com/deadboy18/Ocrustar-USB-IR> |
+| Ocrustar-USB-IR | Reverse-engineered protocol and Python driver for Ocrustar/ElkSmart USB IR blaster | 19 | <https://github.com/deadboy18/Ocrustar-USB-IR> |
 | PenumbraOS docs | Reverse engineering findings on the Humane Ai Pin | 7 | <https://github.com/PenumbraOS/docs> |
 | ai-pin-apk-environment | Environment for reverse engineering Humane AI Pin APKs | 6 | <https://github.com/agg23/ai-pin-apk-environment> |
 | rabbitude-backend | Go reimplementation of the Rabbit R1 backend and API endpoints | 6 | <https://github.com/KibbeWater/rabbitude-backend> |
@@ -853,32 +853,32 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| OpenLogi | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over... | 23,436 | <https://github.com/AprilNEA/OpenLogi> |
-| Solaar | Linux manager for Logitech Unifying, Bolt and Lightspeed receivers and devices | 9,476 | <https://github.com/pwr-Solaar/Solaar> |
-| 360Controller | macOS driver for Xbox 360 and Xbox One wired controllers | 6,725 | <https://github.com/360Controller/360Controller> |
-| Proxmark3 Iceman | RFID research toolkit firmware and client with protocol RE support | 6,142 | <https://github.com/RfidResearchGroup/proxmark3> |
+| OpenLogi | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over... | 23,497 | <https://github.com/AprilNEA/OpenLogi> |
+| Solaar | Linux manager for Logitech Unifying, Bolt and Lightspeed receivers and devices | 9,480 | <https://github.com/pwr-Solaar/Solaar> |
+| 360Controller | macOS driver for Xbox 360 and Xbox One wired controllers | 6,726 | <https://github.com/360Controller/360Controller> |
+| Proxmark3 Iceman | RFID research toolkit firmware and client with protocol RE support | 6,140 | <https://github.com/RfidResearchGroup/proxmark3> |
 | Piper | GTK GUI to configure gaming mice via libratbag | 6,027 | <https://github.com/libratbag/piper> |
-| BetterJoy | Use Switch Joy-Cons and Pro Controllers on Windows as XInput devices | 4,789 | <https://github.com/Davidobot/BetterJoy> |
-| OpenRGB | Open-source RGB lighting control without vendor software | 4,567 | <https://github.com/CalcProgrammer1/OpenRGB> |
+| BetterJoy | Use Switch Joy-Cons and Pro Controllers on Windows as XInput devices | 4,790 | <https://github.com/Davidobot/BetterJoy> |
+| OpenRGB | Open-source RGB lighting control without vendor software | 4,571 | <https://github.com/CalcProgrammer1/OpenRGB> |
 | OpenRazer | Open-source Linux drivers and daemon for Razer peripherals | 4,534 | <https://github.com/openrazer/openrazer> |
-| logiops | Unofficial userspace driver for HID++ Logitech mice and keyboards | 4,383 | <https://github.com/PixlOne/logiops> |
-| OpenTabletDriver | Cross-platform user-mode tablet driver | 4,170 | <https://github.com/OpenTabletDriver/OpenTabletDriver> |
+| logiops | Unofficial userspace driver for HID++ Logitech mice and keyboards | 4,384 | <https://github.com/PixlOne/logiops> |
+| OpenTabletDriver | Cross-platform user-mode tablet driver | 4,171 | <https://github.com/OpenTabletDriver/OpenTabletDriver> |
 | libfreenect | Drivers and libraries for the Xbox Kinect built from USB RE | 3,846 | <https://github.com/OpenKinect/libfreenect> |
 | Nintendo Switch Reverse Engineering | Documentation of Joy-Con and Pro Controller Bluetooth/HID protocols | 3,789 | <https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering> |
-| ckb-next | Open-source driver for Corsair keyboards and mice | 3,695 | <https://github.com/ckb-next/ckb-next> |
-| Proxmark3 | Original Proxmark3 RFID research tool firmware and client | 3,555 | <https://github.com/Proxmark/proxmark3> |
-| LenovoLegionLinux | Linux driver for Lenovo Legion laptop fans, power modes and RGB | 3,450 | <https://github.com/johnfanv2/LenovoLegionLinux> |
+| ckb-next | Open-source driver for Corsair keyboards and mice | 3,697 | <https://github.com/ckb-next/ckb-next> |
+| Proxmark3 | Original Proxmark3 RFID research tool firmware and client | 3,554 | <https://github.com/Proxmark/proxmark3> |
+| LenovoLegionLinux | Linux driver for Lenovo Legion laptop fans, power modes and RGB | 3,454 | <https://github.com/johnfanv2/LenovoLegionLinux> |
 | NBFC | Notebook fan control via embedded controller register access | 3,229 | <https://github.com/hirschmann/nbfc> |
 | ScpToolkit *(archived)* | Windows driver and XInput wrapper for DualShock 3/4 controllers | 3,173 | <https://github.com/nefarius/ScpToolkit> |
-| xpadneo | Advanced Linux driver for Xbox One wireless gamepads over Bluetooth | 2,788 | <https://github.com/atar-axis/xpadneo> |
+| xpadneo | Advanced Linux driver for Xbox One wireless gamepads over Bluetooth | 2,789 | <https://github.com/atar-axis/xpadneo> |
 | liquidctl | Cross-platform tool for controlling AIO coolers, fans and RGB from NZXT, Corsair and others | 2,689 | <https://github.com/liquidctl/liquidctl> |
 | libratbag | DBus daemon to configure gaming mice from Logitech, Roccat, SteelSeries and others | 2,583 | <https://github.com/libratbag/libratbag> |
-| razer-macos | Color effects manager for Razer devices on macOS | 2,575 | <https://github.com/1kc/razer-macos> |
+| razer-macos | Color effects manager for Razer devices on macOS | 2,576 | <https://github.com/1kc/razer-macos> |
 | GP2040-CE | Gamepad firmware for RP2040 emulating multiple console controller protocols | 2,558 | <https://github.com/OpenStickCommunity/GP2040-CE> |
 | xone | Linux kernel driver for Xbox One and Series X-S accessories via the wireless dongle | 2,524 | <https://github.com/medusalix/xone> |
-| Bitfocus Companion | Turns Stream Decks and other controllers into a broadcast control surface, with no vendor software | 2,322 | <https://github.com/bitfocus/companion> |
-| turing-smart-screen-python | Unofficial system monitor and library for Turing Smart Screen and similar USB-C IPS displays | 2,302 | <https://github.com/mathoudebine/turing-smart-screen-python> |
-| OpenDeck | Linux software for the Stream Deck with Elgato plugin support | 2,269 | <https://github.com/nekename/OpenDeck> |
+| Bitfocus Companion | Turns Stream Decks and other controllers into a broadcast control surface, with no vendor software | 2,325 | <https://github.com/bitfocus/companion> |
+| turing-smart-screen-python | Unofficial system monitor and library for Turing Smart Screen and similar USB-C IPS displays | 2,306 | <https://github.com/mathoudebine/turing-smart-screen-python> |
+| OpenDeck | Linux software for the Stream Deck with Elgato plugin support | 2,270 | <https://github.com/nekename/OpenDeck> |
 | libfreenect2 | Open driver for the Kinect for Windows v2 | 2,259 | <https://github.com/OpenKinect/libfreenect2> |
 | Validity90 | Reverse-engineered Validity/Synaptics fingerprint reader protocol for Linux | 1,879 | <https://github.com/nmikhailov/Validity90> |
 | DsHidMini | Windows driver for PS3 DualShock 3 controllers | 1,836 | <https://github.com/nefarius/DsHidMini> |
@@ -892,31 +892,31 @@
 | Polychromatic | RGB lighting GUI for OpenRazer devices | 1,253 | <https://github.com/polychromatic/polychromatic> |
 | ps2sdk | Homebrew SDK for the PlayStation 2 | 1,249 | <https://github.com/ps2dev/ps2sdk> |
 | DIGImend | Linux drivers for non-Wacom graphics tablets (Huion, XP-Pen) | 1,241 | <https://github.com/DIGImend/digimend-kernel-drivers> |
-| OpenLinkHub | Open interface for Corsair iCUE LINK hubs and AIOs on Linux: RGB, fans and pumps | 1,224 | <https://github.com/jurkovic-nikola/OpenLinkHub> |
-| ds4drv | Sony DualShock 4 userspace driver for Linux | 1,171 | <https://github.com/chrippa/ds4drv> |
-| Bluepad32 | Bluetooth gamepad host firmware for ESP32 and Pico W supporting many controllers | 1,160 | <https://github.com/ricardoquesada/bluepad32> |
-| python-elgato-streamdeck | Python library to control Elgato Stream Deck devices over HID | 1,136 | <https://github.com/abcminiuser/python-elgato-streamdeck> |
-| StreamController | Linux app for the Elgato Stream Deck with plugins | 1,128 | <https://github.com/StreamController/StreamController> |
+| OpenLinkHub | Open interface for Corsair iCUE LINK hubs and AIOs on Linux: RGB, fans and pumps | 1,225 | <https://github.com/jurkovic-nikola/OpenLinkHub> |
+| ds4drv | Sony DualShock 4 userspace driver for Linux | 1,172 | <https://github.com/chrippa/ds4drv> |
+| Bluepad32 | Bluetooth gamepad host firmware for ESP32 and Pico W supporting many controllers | 1,162 | <https://github.com/ricardoquesada/bluepad32> |
+| python-elgato-streamdeck | Python library to control Elgato Stream Deck devices over HID | 1,137 | <https://github.com/abcminiuser/python-elgato-streamdeck> |
+| StreamController | Linux app for the Elgato Stream Deck with plugins | 1,129 | <https://github.com/StreamController/StreamController> |
 | JoyCon-Driver | vJoy feeder for Nintendo Switch Joy-Cons and Pro Controller | 1,120 | <https://github.com/fossephate/JoyCon-Driver> |
 | oversteer | Steering wheel manager for Linux (Logitech, Thrustmaster, Fanatec) | 1,082 | <https://github.com/berarma/oversteer> |
-| nxbt | Emulate Switch controllers over Bluetooth to control a Nintendo Switch | 1,036 | <https://github.com/Brikwerk/nxbt> |
+| nxbt | Emulate Switch controllers over Bluetooth to control a Nintendo Switch | 1,037 | <https://github.com/Brikwerk/nxbt> |
 | rivalcfg | Configure SteelSeries gaming mice on Linux using the reverse-engineered protocol | 1,007 | <https://github.com/flozz/rivalcfg> |
 | xpad | Updated Linux xpad driver for Xbox controllers | 998 | <https://github.com/paroj/xpad> |
-| cameractrls | Linux camera controls including vendor extension units (Logitech, Kiyo, etc.) | 953 | <https://github.com/soyersoyer/cameractrls> |
+| cameractrls | Linux camera controls including vendor extension units (Logitech, Kiyo, etc.) | 954 | <https://github.com/soyersoyer/cameractrls> |
 | libsurvive | Open-source Lighthouse (SteamVR) tracking from reverse-engineered protocols | 940 | <https://github.com/collabora/libsurvive> |
 | tip-toi-reveng | Reverse-engineered file format of the Ravensburger TipToi audio pen; tttool to make content | 886 | <https://github.com/entropia/tip-toi-reveng> |
-| JoyShockMapper | Gyro and button mapper for DualShock 4, DualSense, Joy-Con and Switch Pro controllers on PC | 873 | <https://github.com/JibbSmart/JoyShockMapper> |
+| JoyShockMapper | Gyro and button mapper for DualShock 4, DualSense, Joy-Con and Switch Pro controllers on PC | 874 | <https://github.com/JibbSmart/JoyShockMapper> |
 | steamcontroller | Standalone Steam Controller driver | 849 | <https://github.com/ynsta/steamcontroller> |
 | NiimBlue | Web client for Niimbot label printers over BLE | 793 | <https://github.com/MultiMote/niimblue> |
 | input-wacom | Linux kernel driver for Wacom tablets | 728 | <https://github.com/linuxwacom/input-wacom> |
 | brother_ql | Python package to print on Brother QL label printers using the raster protocol | 717 | <https://github.com/pklaus/brother_ql> |
 | OpenCorsairLink | Linux and macOS support for Corsair Link coolers, fans and PSUs | 713 | <https://github.com/hyperkineticnerd/OpenCorsairLink> |
 | Cat-Printer | Driver app for cheap BLE "cat" thermal printers | 656 | <https://github.com/NaitLee/Cat-Printer> |
-| nxdk | Open-source SDK for the original Xbox | 598 | <https://github.com/XboxDev/nxdk> |
-| InputPlumber | Input router and remapper daemon for handheld PC controllers on Linux | 595 | <https://github.com/ShadowBlip/InputPlumber> |
-| bluefluff | Reverse-engineered Furby Connect Bluetooth protocol and update format | 575 | <https://github.com/Jeija/bluefluff> |
+| nxdk | Open-source SDK for the original Xbox | 599 | <https://github.com/XboxDev/nxdk> |
+| InputPlumber | Input router and remapper daemon for handheld PC controllers on Linux | 596 | <https://github.com/ShadowBlip/InputPlumber> |
+| bluefluff | Reverse-engineered Furby Connect Bluetooth protocol and update format | 576 | <https://github.com/Jeija/bluefluff> |
 | CorsairLightingProtocol | Arduino firmware that emulates a Corsair Lighting Node for use with iCUE | 572 | <https://github.com/Legion2/CorsairLightingProtocol> |
-| OpenSteamController | Steam Controller reverse engineering and custom firmware project | 541 | <https://github.com/greggersaurus/OpenSteamController> |
+| OpenSteamController | Steam Controller reverse engineering and custom firmware project | 542 | <https://github.com/greggersaurus/OpenSteamController> |
 | joycond | Userspace daemon that combines Nintendo Joy-Cons into one controller on Linux | 540 | <https://github.com/DanielOgorchock/joycond> |
 | PS Move API | Cross-platform library for PlayStation Move motion controllers | 530 | <https://github.com/thp/psmoveapi> |
 | ds4-tools | Scripts to explore and reverse engineer the DualShock 4 controller | 525 | <https://github.com/dualshock-tools/ds4-tools> |
@@ -931,13 +931,13 @@
 | ogx360 *(archived)* | Add modern XInput USB controller support to the original Xbox | 444 | <https://github.com/Ryzee119/ogx360> |
 | DualSense-Windows | Windows API for the PS5 DualSense controller via reverse-engineered HID reports | 441 | <https://github.com/Ohjurot/DualSense-Windows> |
 | streamdeck-linux-gui | Linux GUI for the Elgato Stream Deck | 438 | <https://github.com/streamdeck-linux-gui/streamdeck-linux-gui> |
-| xboxdrv | Xbox 360 userspace driver for Linux | 435 | <https://github.com/xboxdrv/xboxdrv> |
+| xboxdrv | Xbox 360 userspace driver for Linux | 436 | <https://github.com/xboxdrv/xboxdrv> |
 | XJoy *(archived)* | Use Nintendo Switch Joy-Cons as a virtual Xbox 360 controller on Windows | 415 | <https://github.com/DuroSoft/XJoy> |
-| hhd | Handheld Daemon to configure controllers, RGB and TDP on handheld PCs | 406 | <https://github.com/hhd-dev/hhd> |
+| hhd | Handheld Daemon to configure controllers, RGB and TDP on handheld PCs | 407 | <https://github.com/hhd-dev/hhd> |
 | PCXSense | Translates DualSense input to XInput for PC games | 400 | <https://github.com/Denellyne/PCXSense> |
 | ClickSync | Multi-brand mouse web driver over WebHID for Razer, Logitech and other mice | 397 | <https://github.com/Nuitfanee/ClickSync> |
 | StreamDeckSharp | .NET library to drive Elgato Stream Deck hardware directly | 396 | <https://github.com/OpenMacroBoard/StreamDeckSharp> |
-| spacemouse | DIY 6-DOF mouse that emulates a 3Dconnexion SpaceMouse over USB | 392 | <https://github.com/AndunHH/spacemouse> |
+| spacemouse | DIY 6-DOF mouse that emulates a 3Dconnexion SpaceMouse over USB | 393 | <https://github.com/AndunHH/spacemouse> |
 | LD-ToyPad-Emulator | Toy Pad emulator for LEGO Dimensions | 387 | <https://github.com/Berny23/LD-ToyPad-Emulator> |
 | QuestPatcher | Mod patcher for Meta Quest apps | 384 | <https://github.com/Lauriethefish/QuestPatcher> |
 | hid-tmff2 | Linux force feedback driver for Thrustmaster wheels | 379 | <https://github.com/Kimplul/hid-tmff2> |
@@ -952,7 +952,7 @@
 | Eruption | Realtime RGB LED driver for Linux supporting ROCCAT and other keyboards and mice | 304 | <https://github.com/eruption-project/eruption> |
 | joycon | Joy-Con input driver for Linux (userspace) | 297 | <https://github.com/riking/joycon> |
 | deckmaster | App to control an Elgato Stream Deck on Linux | 296 | <https://github.com/muesli/deckmaster> |
-| FanControl.CorsairLink | Unofficial Corsair Link plugin for Fan Control supporting Corsair controllers and AIOs | 290 | <https://github.com/EvanMulawski/FanControl.CorsairLink> |
+| FanControl.CorsairLink | Unofficial Corsair Link plugin for Fan Control supporting Corsair controllers and AIOs | 291 | <https://github.com/EvanMulawski/FanControl.CorsairLink> |
 | wii-u-gc-adapter | Use the Wii U GameCube controller adapter on Linux | 278 | <https://github.com/ToadKing/wii-u-gc-adapter> |
 | xwiimote | Open-source Nintendo Wii Remote Linux device driver | 277 | <https://github.com/xwiimote/xwiimote> |
 | razercfg | Razer mouse configuration library and tools for Linux (DPI, LEDs, profiles) | 255 | <https://github.com/mbuesch/razer> |
@@ -963,9 +963,9 @@
 | hue-plus | Windows and Linux driver in Python for the NZXT Hue+ lighting controller | 230 | <https://github.com/kusti8/hue-plus> |
 | razer_chroma_drivers | Linux drivers for Razer Chroma devices with all lighting modes | 229 | <https://github.com/pez2001/razer_chroma_drivers> |
 | pok3r_re_firmware | Reverse engineering and custom firmware for POK3R and related keyboards | 225 | <https://github.com/pok3r-custom/pok3r_re_firmware> |
-| thermalright-trcc-linux | Native Linux port of the Thermalright LCD Control Center | 217 | <https://github.com/Lexonight1/thermalright-trcc-linux> |
+| thermalright-trcc-linux | Native Linux port of the Thermalright LCD Control Center | 218 | <https://github.com/Lexonight1/thermalright-trcc-linux> |
 | ltunify | Tool for pairing and managing Logitech Unifying receivers and devices on Linux | 211 | <https://github.com/Lekensteyn/ltunify> |
-| decky-XRGaming | Steam Deck plugin for XREAL/Rokid/VITURE AR glasses head tracking using reverse engineered IMU drivers | 209 | <https://github.com/wheaney/decky-XRGaming> |
+| decky-XRGaming | Steam Deck plugin for XREAL/Rokid/VITURE AR glasses head tracking using reverse engineered IMU drivers | 210 | <https://github.com/wheaney/decky-XRGaming> |
 | node-elgato-stream-deck | Node.js library for driving Elgato Stream Deck hardware over HID | 205 | <https://github.com/Julusian/node-elgato-stream-deck> |
 | DSAdvance | Xbox controller emulation for DualSense, DualShock 4, Pro Controller and Joy-Cons | 196 | <https://github.com/r57zone/DSAdvance> |
 | SAxense | Proof of concept for DualSense haptics over Bluetooth | 196 | <https://github.com/egormanga/SAxense> |
@@ -1000,7 +1000,7 @@
 | aquacomputer_d5next-hwmon | Linux hwmon driver for Aquacomputer pumps and fan controllers, partly mainlined | 118 | <https://github.com/aleksamagicka/aquacomputer_d5next-hwmon> |
 | logitech-g29 *(archived)* | Node.js driver for the Logitech G29 racing wheel: inputs, LEDs and force feedback | 118 | <https://github.com/nightmode/logitech-g29> |
 | hidpp | Collection of tools for the Logitech HID++ protocol | 116 | <https://github.com/cvuchener/hidpp> |
-| ApexSenseBridge | Brings DualSense adaptive triggers and haptics to Flydigi Apex 4/5 controllers | 113 | <https://github.com/ReynArts/ApexSenseBridge> |
+| ApexSenseBridge | Brings DualSense adaptive triggers and haptics to Flydigi Apex 4/5 controllers | 115 | <https://github.com/ReynArts/ApexSenseBridge> |
 | WiimoteLib | .NET library for the Nintendo Wii Remote | 113 | <https://github.com/BrianPeek/WiimoteLib> |
 | g910-gkey-macro-support | G-key macro support for the Logitech G910 keyboard on Linux | 110 | <https://github.com/JSubelj/g910-gkey-macro-support> |
 | Naga_KeypadMapper | Linux daemon to map the side keypad of Razer Naga mice | 110 | <https://github.com/RaulPPelaez/Naga_KeypadMapper> |
@@ -1021,8 +1021,8 @@
 | libjoycon | Library to encode and decode Joy-Con Bluetooth packets | 88 | <https://github.com/Inokinoki/libjoycon> |
 | dualsense-controller-python | Python library for the DualSense controller | 84 | <https://github.com/yesbotics/dualsense-controller-python> |
 | roccat-vulcan | Linux RGB LED effects for the ROCCAT Vulcan 100/120 keyboards | 84 | <https://github.com/duncanthrax/roccat-vulcan> |
-| JoyCon2Mac | macOS DriverKit driver for Nintendo Switch 2 Joy-Cons | 81 | <https://github.com/OZORDI/JoyCon2Mac> |
-| OpenSnek | Reverse-engineered Razer mouse USB/Bluetooth protocol for configuration on macOS | 81 | <https://github.com/gh123man/OpenSnek> |
+| JoyCon2Mac | macOS DriverKit driver for Nintendo Switch 2 Joy-Cons | 82 | <https://github.com/OZORDI/JoyCon2Mac> |
+| OpenSnek | Reverse-engineered Razer mouse USB/Bluetooth protocol for configuration on macOS | 82 | <https://github.com/gh123man/OpenSnek> |
 | userspace-tablet-driver-daemon | Linux userspace drivers for XP-Pen, Huion and Gaomon tablets and pen displays | 77 | <https://github.com/kurikaesu/userspace-tablet-driver-daemon> |
 | monsgeek-akko-linux | Linux driver for MonsGeek/Akko magnetic keyboards | 76 | <https://github.com/echtzeit-solutions/monsgeek-akko-linux> |
 | cube64-dx | GameCube controller adaptor for the N64 | 74 | <https://github.com/darthcloud/cube64-dx> |
@@ -1051,17 +1051,17 @@
 | deepcool-ak620-digital-linux | Linux driver for the temperature display on DeepCool AK620 Digital CPU coolers | 54 | <https://github.com/raghulkrishna/deepcool-ak620-digital-linux> |
 | Switch2-Controllers | Tools and GUI to connect Nintendo Switch 2 controllers to PC | 53 | <https://github.com/Nohzockt/Switch2-Controllers> |
 | gmk87-node | Open-source configurator for the Zuoya GMK87 keyboard | 52 | <https://github.com/codedgar/gmk87-node> |
+| gamesir-linux-tools | Linux configuration app for GameSir controllers and Logitech mice | 51 | <https://github.com/broroeror/gamesir-linux-tools> |
 | ajazz-keyboard-software-linux | Linux software for Ajazz keyboards such as the AK820 Pro | 50 | <https://github.com/TaxMachine/ajazz-keyboard-software-linux> |
-| gamesir-linux-tools | Linux configuration app for GameSir controllers and Logitech mice | 49 | <https://github.com/broroeror/gamesir-linux-tools> |
 | joycon-toolweb | Web tool to change Joy-Con and Pro Controller body colors in SPI flash | 49 | <https://github.com/mzyy94/joycon-toolweb> |
 | ME2-Writeup | Reconstructing a dead handheld's USB protocol by desoldering and dumping its flash | 49 | <https://github.com/coremaze/ME2-Writeup> |
 | kludgeknight | Browser-based open-source configurator for Royal Kludge keyboards | 48 | <https://github.com/vinc3m1/kludgeknight> |
+| Unbound-editor-device-customizer | Remap the buttons on a Blackmagic Design Speed Editor | 48 | <https://github.com/PuzzleEmptyM/Unbound-editor-device-customizer> |
 | Trueforce-For-All | Use Logitech Trueforce in any game with telemetry-based force feedback | 47 | <https://github.com/Mhytee/Trueforce-For-All> |
-| Unbound-editor-device-customizer | Remap the buttons on a Blackmagic Design Speed Editor | 47 | <https://github.com/PuzzleEmptyM/Unbound-editor-device-customizer> |
 | GKraken *(archived)* | GTK app to control NZXT Kraken AIO cooler fans, pump and lighting on Linux | 46 | <https://github.com/leinardi/gkraken> |
 | LegoDimensions | Read and write Lego Dimensions tags and interact with the portal | 46 | <https://github.com/Ellerbach/LegoDimensions> |
 | mirabox-streamdock-node | Reverse-engineered MiraBox StreamDock communication protocol | 41 | <https://github.com/rigor789/mirabox-streamdock-node> |
-| ulanzi-d200-linux | Linux manager for the Ulanzi D200 stream deck | 40 | <https://github.com/racerxdl/ulanzi-d200-linux> |
+| ulanzi-d200-linux | Linux manager for the Ulanzi D200 stream deck | 41 | <https://github.com/racerxdl/ulanzi-d200-linux> |
 | corsair-cpro | Linux kernel driver for the Corsair Commander Pro fan and RGB controller | 37 | <https://github.com/MisterZ42/corsair-cpro> |
 | corsair-psu | Linux hwmon driver for Corsair RMi/HXi PSUs over their USB interface (mainlined) | 37 | <https://github.com/wgottwalt/corsair-psu> |
 | corsairpsu | Linux hwmon driver for Corsair RMi and HXi power supplies | 37 | <https://github.com/Benzhaomin/corsairpsu> |
@@ -1076,8 +1076,8 @@
 | Insta360-Link-1-and-2-Controller-for-Linux | Insta360 Link 1/2 webcam controller for Linux | 32 | <https://github.com/vrwallace/Insta360-Link-1-and-2-Controller-for-Linux> |
 | Tiny4Linux | GUI and CLI controller for the OBSBOT Tiny 2 on Linux | 32 | <https://github.com/OpenFoxes/Tiny4Linux> |
 | insta360-link-firmware-re | Reverse engineering Insta360 Link webcam firmware and UVC control protocol | 31 | <https://github.com/schlarpc/insta360-link-firmware-re> |
+| obsbot-tiny-2-control | Python control of OBSBOT Tiny 2 AI modes | 29 | <https://github.com/mitchelloharawild/obsbot-tiny-2-control> |
 | openjvs | Reverse engineering and USB HID driver for the JVS arcade protocol | 29 | <https://github.com/TheOnlyJoey/openjvs> |
-| obsbot-tiny-2-control | Python control of OBSBOT Tiny 2 AI modes | 28 | <https://github.com/mitchelloharawild/obsbot-tiny-2-control> |
 | switch2-controllers | Use Nintendo Switch 2 Joy-Cons on PC | 27 | <https://github.com/Nadeflore/switch2-controllers> |
 | Logitech-G19-Linux-Daemon | Python daemon for Logitech G19 keyboard LCD, keys and backlight on Linux | 26 | <https://github.com/MultiCoreNop/Logitech-G19-Linux-Daemon> |
 | logitech-g400-config | libusb CLI to set Logitech G400 mouse DPI and polling rate | 26 | <https://github.com/rprichard/logitech-g400-config> |
@@ -1115,12 +1115,12 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| badgemagic-app | Badge Magic app to program Bluetooth LED name badges | 2,031 | <https://github.com/fossasia/badgemagic-app> |
+| badgemagic-app | Badge Magic app to program Bluetooth LED name badges | 2,032 | <https://github.com/fossasia/badgemagic-app> |
 | OpenEPaperLink | Open firmware and access point to drive electronic shelf label e-paper tags | 1,857 | <https://github.com/OpenEPaperLink/OpenEPaperLink> |
 | NiimPrintX | Python library and GUI for NIIMBOT label printers | 522 | <https://github.com/labbots/NiimPrintX> |
 | Thermal_Printer | Arduino library to draw text and graphics on cheap BLE thermal printers | 520 | <https://github.com/bitbank2/Thermal_Printer> |
 | ATC_TLSR_Paper | Custom BLE firmware for Hanshow e-paper shelf labels | 516 | <https://github.com/atc1441/ATC_TLSR_Paper> |
-| PrecIR | Tools to send images to infrared electronic shelf labels (reverse-engineered protocol) | 458 | <https://github.com/furrtek/PrecIR> |
+| PrecIR | Tools to send images to infrared electronic shelf labels (reverse-engineered protocol) | 459 | <https://github.com/furrtek/PrecIR> |
 | brother_ql_web | Web service to print labels on Brother QL printers | 322 | <https://github.com/pklaus/brother_ql_web> |
 | led-name-badge-ls32 | Upload tool for USB-HID LED name badges | 309 | <https://github.com/jnweiger/led-name-badge-ls32> |
 | fichero-printer | Reverse engineered BLE protocol and Python CLI for the Fichero D11s thermal label printer | 297 | <https://github.com/0xMH/fichero-printer> |
@@ -1130,7 +1130,7 @@
 | phomymo | Print to Phomemo label printers without the Phomemo app or drivers | 178 | <https://github.com/transcriptionstream/phomymo> |
 | instax_api *(archived)* | Python API for Fujifilm Instax SP-2/SP-3 printers via reverse-engineered protocol | 161 | <https://github.com/jpwsutton/instax_api> |
 | dymoprint | Linux software to print with DYMO LabelManager PnP | 157 | <https://github.com/computerlyrik/dymoprint> |
-| niimbluelib | Library for NIIMBOT printer communication from browser or Node | 145 | <https://github.com/MultiMote/niimbluelib> |
+| niimbluelib | Library for NIIMBOT printer communication from browser or Node | 146 | <https://github.com/MultiMote/niimbluelib> |
 | InstaxBLE | Python library to print to Fujifilm Instax Link printers over Bluetooth LE | 117 | <https://github.com/javl/InstaxBLE> |
 | IBM-Wheelwriter-Hack | Turns an IBM Wheelwriter typewriter into a printer | 116 | <https://github.com/tofergregg/IBM-Wheelwriter-Hack> |
 | hass-gicisky *(archived)* | Home Assistant integration for Gicisky BLE e-paper labels | 111 | <https://github.com/eigger/hass-gicisky> |
@@ -1143,7 +1143,7 @@
 | instax-link-web | Web app to print to Fujifilm Instax Link printers over Web Bluetooth | 62 | <https://github.com/linssenste/instax-link-web> |
 | hanshow | Research and tools for Hanshow electronic shelf label products | 60 | <https://github.com/CursedHardware/hanshow> |
 | thermoprint | Design and print labels for Marklife/Pristar P15, P12, P7 Bluetooth thermal printers | 59 | <https://github.com/tomLadder/thermoprint> |
-| nelko-p21-print | Reverse engineered script and docs for the Nelko P21 Bluetooth label printer | 53 | <https://github.com/merlinschumacher/nelko-p21-print> |
+| nelko-p21-print | Reverse engineered script and docs for the Nelko P21 Bluetooth label printer | 54 | <https://github.com/merlinschumacher/nelko-p21-print> |
 | HanshowEpd | Reprogram the Hanshow 2.13" price tag as an e-paper clock | 51 | <https://github.com/xxp1943/HanshowEpd> |
 | canon-selphy-print | Print to Canon SELPHY CP1200 and compatible printers over Wi-Fi | 46 | <https://github.com/abelits/canon-selphy-print> |
 | ATC_GICISKY_ESL | Info and example code to control Gicisky/PICKSMART e-paper shelf labels | 37 | <https://github.com/atc1441/ATC_GICISKY_ESL> |
@@ -1164,19 +1164,19 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| KOReader | Ebook reader app for Kindle, Kobo, PocketBook and reMarkable | 30,266 | <https://github.com/koreader/koreader> |
-| Zigbee2MQTT | Zigbee to MQTT bridge, removes the need for proprietary vendor hubs | 15,712 | <https://github.com/Koenkk/zigbee2mqtt> |
-| Valetudo | Cloud-free web UI and firmware replacement for robot vacuums (Roborock, Dreame) | 9,796 | <https://github.com/Hypfer/Valetudo> |
-| rtl_433 | Decode radio transmissions from 200+ devices on ISM bands | 7,858 | <https://github.com/merbanan/rtl_433> |
-| hass-xiaomi-miot | Home Assistant integration for Xiaomi MIoT devices via the miot spec protocol | 6,166 | <https://github.com/al-one/hass-xiaomi-miot> |
-| OpenMQTTGateway | Gateway firmware bridging RF, IR, BLE and LoRa devices to MQTT | 4,102 | <https://github.com/1technophile/OpenMQTTGateway> |
-| LocalTuya | Home Assistant integration for local control of Tuya devices without the cloud | 3,996 | <https://github.com/rospogrigio/localtuya> |
-| tuya-local | Home Assistant integration for local Tuya device control with per-device configs | 3,533 | <https://github.com/make-all/tuya-local> |
+| KOReader | Ebook reader app for Kindle, Kobo, PocketBook and reMarkable | 30,292 | <https://github.com/koreader/koreader> |
+| Zigbee2MQTT | Zigbee to MQTT bridge, removes the need for proprietary vendor hubs | 15,719 | <https://github.com/Koenkk/zigbee2mqtt> |
+| Valetudo | Cloud-free web UI and firmware replacement for robot vacuums (Roborock, Dreame) | 9,799 | <https://github.com/Hypfer/Valetudo> |
+| rtl_433 | Decode radio transmissions from 200+ devices on ISM bands | 7,860 | <https://github.com/merbanan/rtl_433> |
+| hass-xiaomi-miot | Home Assistant integration for Xiaomi MIoT devices via the miot spec protocol | 6,169 | <https://github.com/al-one/hass-xiaomi-miot> |
+| OpenMQTTGateway | Gateway firmware bridging RF, IR, BLE and LoRa devices to MQTT | 4,103 | <https://github.com/1technophile/OpenMQTTGateway> |
+| LocalTuya | Home Assistant integration for local control of Tuya devices without the cloud | 3,997 | <https://github.com/rospogrigio/localtuya> |
+| tuya-local | Home Assistant integration for local Tuya device control with per-device configs | 3,540 | <https://github.com/make-all/tuya-local> |
 | SonoffLAN | Controls Sonoff/eWeLink devices with stock firmware over LAN and cloud | 3,324 | <https://github.com/AlexxIT/SonoffLAN> |
 | XiaomiGateway3 | Home Assistant control of Xiaomi Gateway 3 Zigbee/BLE/Mesh devices locally | 2,793 | <https://github.com/AlexxIT/XiaomiGateway3> |
-| ble_monitor | Passive BLE sensor monitor for Xiaomi, Govee, Qingping and others in Home Assistant | 2,249 | <https://github.com/custom-components/ble_monitor> |
-| dreame-vacuum | Home Assistant integration for Dreame robot vacuums with map support | 2,230 | <https://github.com/Tasshack/dreame-vacuum> |
-| YandexStation | Home Assistant control of Yandex Station and Alice smart-home devices via private APIs | 1,940 | <https://github.com/AlexxIT/YandexStation> |
+| ble_monitor | Passive BLE sensor monitor for Xiaomi, Govee, Qingping and others in Home Assistant | 2,250 | <https://github.com/custom-components/ble_monitor> |
+| dreame-vacuum | Home Assistant integration for Dreame robot vacuums with map support | 2,233 | <https://github.com/Tasshack/dreame-vacuum> |
+| YandexStation | Home Assistant control of Yandex Station and Alice smart-home devices via private APIs | 1,941 | <https://github.com/AlexxIT/YandexStation> |
 | deCONZ REST plugin | REST API for the ConBee Zigbee gateway with support for many vendor devices | 1,905 | <https://github.com/dresden-elektronik/deconz-rest-plugin> |
 | OpenCCU | Cloud-free smart-home platform for Homematic IP CCU hardware | 1,845 | <https://github.com/OpenCCU/OpenCCU> |
 | midea_ac_lan | Control Midea M-Smart appliances over the local network | 1,827 | <https://github.com/georgezhao2010/midea_ac_lan> |
@@ -1184,21 +1184,21 @@
 | phue | Python library for Philips Hue bridges | 1,567 | <https://github.com/studioimaginaire/phue> |
 | python-broadlink | Python module for Broadlink IR/RF remotes and smart plugs | 1,547 | <https://github.com/mjg59/python-broadlink> |
 | ha-bridge | Emulates a Philips Hue bridge to control other systems from Alexa | 1,485 | <https://github.com/bwssytems/ha-bridge> |
-| govee2mqtt | Connects Govee lights and devices to Home Assistant via LAN, BLE and cloud APIs | 1,467 | <https://github.com/wez/govee2mqtt> |
-| ha-smartthinq-sensors | Home Assistant integration for LG SmartThinQ appliances | 1,324 | <https://github.com/ollo69/ha-smartthinq-sensors> |
-| hass-localtuya | Maintained LocalTuya fork with protocol 3.5 and auto-configuration support | 1,249 | <https://github.com/xZetsubou/hass-localtuya> |
-| zigbee-herdsman-converters | Device definitions mapping vendor-specific Zigbee clusters for 4000+ devices | 1,226 | <https://github.com/Koenkk/zigbee-herdsman-converters> |
+| govee2mqtt | Connects Govee lights and devices to Home Assistant via LAN, BLE and cloud APIs | 1,469 | <https://github.com/wez/govee2mqtt> |
+| ha-smartthinq-sensors | Home Assistant integration for LG SmartThinQ appliances | 1,325 | <https://github.com/ollo69/ha-smartthinq-sensors> |
+| hass-localtuya | Maintained LocalTuya fork with protocol 3.5 and auto-configuration support | 1,251 | <https://github.com/xZetsubou/hass-localtuya> |
+| zigbee-herdsman-converters | Device definitions mapping vendor-specific Zigbee clusters for 4000+ devices | 1,227 | <https://github.com/Koenkk/zigbee-herdsman-converters> |
 | SwitchBotAPI | SwitchBot open API and BLE protocol documentation | 1,222 | <https://github.com/OpenWonderLabs/SwitchBotAPI> |
-| ESPSomfy-RTS | Control Somfy RTS shades with an ESP32 and CC1101 radio | 1,214 | <https://github.com/rstrouse/ESPSomfy-RTS> |
+| ESPSomfy-RTS | Control Somfy RTS shades with an ESP32 and CC1101 radio | 1,216 | <https://github.com/rstrouse/ESPSomfy-RTS> |
 | dorita980 | Unofficial Node.js SDK for iRobot Roomba and Braava robots | 1,202 | <https://github.com/koalazak/dorita980> |
 | pixmob-ir-reverse-engineering | Reverse-engineered PixMob concert wristband IR/RF protocol to control them at home | 1,040 | <https://github.com/danielweidman/pixmob-ir-reverse-engineering> |
 | HeatPump | Arduino library for Mitsubishi heat pumps via the CN105 port | 1,021 | <https://github.com/SwiCago/HeatPump> |
 | rmapi *(archived)* | Go client for the reMarkable cloud API | 1,016 | <https://github.com/juruen/rmapi> |
 | pytradfri | Python library for the IKEA Tradfri gateway over CoAP | 962 | <https://github.com/home-assistant-libs/pytradfri> |
 | Toltec *(archived)* | Community package repository for reMarkable tablets | 931 | <https://github.com/toltec-dev/toltec> |
-| local_roborock_server | Emulates Roborock's cloud (HTTPS/MQTT) so vacuums work without internet | 906 | <https://github.com/Python-roborock/local_roborock_server> |
+| local_roborock_server | Emulates Roborock's cloud (HTTPS/MQTT) so vacuums work without internet | 913 | <https://github.com/Python-roborock/local_roborock_server> |
 | meross-homeassistant | Home Assistant integration for Meross devices via a reverse engineered protocol | 858 | <https://github.com/albertogeniola/meross-homeassistant> |
-| tapo | Rust and Python API for TP-Link Tapo smart devices | 853 | <https://github.com/mihai-dinculescu/tapo> |
+| tapo | Rust and Python API for TP-Link Tapo smart devices | 855 | <https://github.com/mihai-dinculescu/tapo> |
 | ebusd | Daemon for the eBUS protocol used by Vaillant and other heating systems | 837 | <https://github.com/john30/ebusd> |
 | HASS-sonoff-ewelink *(archived)* | Home Assistant component for Sonoff/eWeLink devices with original firmware | 791 | <https://github.com/peterbuga/HASS-sonoff-ewelink> |
 | meross_lan | Home Assistant integration for local control of Meross devices | 750 | <https://github.com/krahabb/meross_lan> |
@@ -1206,18 +1206,18 @@
 | Valetudo RE | Cloud-free software fork for Roborock and Xiaomi vacuums | 713 | <https://github.com/rand256/valetudo> |
 | LGWebOSRemote | Command-line webOS remote for LG TVs | 659 | <https://github.com/klattimer/LGWebOSRemote> |
 | remarkable_mouse | Use the reMarkable as a graphics tablet | 638 | <https://github.com/Evidlo/remarkable_mouse> |
-| TapoP100 | Python module to control Tapo P100 plugs via the reverse-engineered API | 627 | <https://github.com/fishbigger/TapoP100> |
+| TapoP100 | Python module to control Tapo P100 plugs via the reverse-engineered API | 626 | <https://github.com/fishbigger/TapoP100> |
 | MerossIot | Async Python library for controlling Meross devices | 538 | <https://github.com/albertogeniola/MerossIot> |
 | ESPAltherma | Monitor Daikin Altherma heat pumps with an ESP32 | 508 | <https://github.com/raomin/ESPAltherma> |
 | ha-nest-protect | Home Assistant integration for Nest Protect via the unofficial API | 487 | <https://github.com/iMicknl/ha-nest-protect> |
 | Roomba980-Python | Python library to control iRobot Roomba over local MQTT | 450 | <https://github.com/NickWaterton/Roomba980-Python> |
-| ha-dyson | Home Assistant integration for Dyson fans and purifiers over local MQTT | 439 | <https://github.com/libdyson-wg/ha-dyson> |
+| ha-dyson | Home Assistant integration for Dyson fans and purifiers over local MQTT | 440 | <https://github.com/libdyson-wg/ha-dyson> |
 | samsung-tv-ws-api | Python library for Samsung TVs over the WebSocket API | 433 | <https://github.com/xchwarze/samsung-tv-ws-api> |
 | HeishaMon | Read and control Panasonic Aquarea heat pumps | 407 | <https://github.com/heishamon/HeishaMon> |
 | nodejs-poolController | Controls Pentair and other pool equipment over RS-485 | 407 | <https://github.com/tagyoureit/nodejs-poolController> |
 | pylips | Control Philips Android TVs via the reverse-engineered JointSpace API | 394 | <https://github.com/eslavnov/pylips> |
 | petlibro | Petlibro integration for Home Assistant | 374 | <https://github.com/jjjonesjr33/petlibro> |
-| home-assistant-petkit | Home Assistant integration for PetKit devices | 353 | <https://github.com/RobertD502/home-assistant-petkit> |
+| home-assistant-petkit | Home Assistant integration for PetKit devices | 354 | <https://github.com/RobertD502/home-assistant-petkit> |
 | wideq | Reverse-engineered client for the LG SmartThinQ API | 350 | <https://github.com/sampsyo/wideq> |
 | gree-remote | Reverse-engineered protocol tools for Gree smart air conditioners | 349 | <https://github.com/tomikaa87/gree-remote> |
 | landroid_cloud | Worx Landroid cloud component for Home Assistant | 349 | <https://github.com/MTrab/landroid_cloud> |
@@ -1226,7 +1226,7 @@
 | PyWebOSTV | Python library to control LG webOS TVs | 316 | <https://github.com/supersaiyanmode/PyWebOSTV> |
 | VacuumRobot | Reverse engineering the 3irobotix CRL-200S robot vacuum | 316 | <https://github.com/codetiger/VacuumRobot> |
 | dustcloud-documentation | Xiaomi smart home device reverse engineering and hacking docs | 308 | <https://github.com/dgiese/dustcloud-documentation> |
-| pywemo | Python module to discover and control Belkin WeMo devices | 307 | <https://github.com/pywemo/pywemo> |
+| pywemo | Python module to discover and control Belkin WeMo devices | 308 | <https://github.com/pywemo/pywemo> |
 | home-assistant-futurehome | Home Assistant add-on replacing the Futurehome smart hub cloud | 306 | <https://github.com/adrianjagielak/home-assistant-futurehome> |
 | homeassistant_petkit | Full-featured PetKit integration for Home Assistant | 302 | <https://github.com/Jezza34000/homeassistant_petkit> |
 | openv | Viessmann heating protocol documentation (Optolink) | 299 | <https://github.com/openv/openv> |
@@ -1236,8 +1236,8 @@
 | dirigera | Python library for the IKEA Dirigera hub | 218 | <https://github.com/Leggin/dirigera> |
 | xiaomi-air-purifier-reverse-engineering | Reverse engineering of the Xiaomi Air Purifier H3 | 209 | <https://github.com/Flamingo-tech/xiaomi-air-purifier-reverse-engineering> |
 | pylitterbot | Python package for Whisker Litter-Robot litter boxes and feeders | 196 | <https://github.com/natekspencer/pylitterbot> |
+| tapo-rest | Unofficial REST API to control TP-Link Tapo devices | 194 | <https://github.com/ClementNerma/tapo-rest> |
 | deye-microinverter-cloud-free | Use Deye solar microinverters without the Solarman cloud | 193 | <https://github.com/Hypfer/deye-microinverter-cloud-free> |
-| tapo-rest | Unofficial REST API to control TP-Link Tapo devices | 193 | <https://github.com/ClementNerma/tapo-rest> |
 | tuya-mqtt | Bridges Tuya devices to MQTT via the local tuyapi protocol | 184 | <https://github.com/TheAgentK/tuya-mqtt> |
 | petlibro-esphome | ESPHome firmwares for Petlibro feeders and fountains | 180 | <https://github.com/taylorfinnell/petlibro-esphome> |
 | xiaomi-flower-care-api | Xiaomi Flower Care (MiFlora) BLE API wrapper | 180 | <https://github.com/vrachieru/xiaomi-flower-care-api> |
@@ -1248,12 +1248,12 @@
 | Govee-Reverse-Engineering | Central documentation of reverse-engineered Govee product protocols | 172 | <https://github.com/egold555/Govee-Reverse-Engineering> |
 | aiohomematic | Python 3 interface for HomeMatic and HomeMatic IP devices | 168 | <https://github.com/SukramJ/aiohomematic> |
 | flux_led | Control MagicHome/Flux WiFi LED bulbs via the reverse-engineered LAN protocol | 168 | <https://github.com/lightinglibs/flux_led> |
-| wmbuster | Flipper Zero Wireless M-Bus listener for sniffing EU smart meters | 159 | <https://github.com/i12bp8/wmbuster> |
+| wmbuster | Flipper Zero Wireless M-Bus listener for sniffing EU smart meters | 160 | <https://github.com/i12bp8/wmbuster> |
 | opensleep | Open-source firmware for the Eight Sleep Pod 3 | 158 | <https://github.com/LiamSnow/opensleep> |
 | python-nest | Python API and CLI for the Nest thermostat | 153 | <https://github.com/jkoelker/python-nest> |
 | AutoMower-BLE | Reverse-engineered Husqvarna Automower Connect BLE library | 151 | <https://github.com/alistair23/AutoMower-BLE> |
 | smartbed-mqtt | MQTT bridge for smart adjustable beds (Sleeptracker, ErgoMotion and others) | 150 | <https://github.com/richardhopton/smartbed-mqtt> |
-| midea-msmart | Python library for local control of Midea air conditioners | 147 | <https://github.com/mill1000/midea-msmart> |
+| midea-msmart | Python library for local control of Midea air conditioners | 148 | <https://github.com/mill1000/midea-msmart> |
 | cbyge | Reverse engineering Cync (C by GE) Wi-Fi devices | 146 | <https://github.com/unixpickle/cbyge> |
 | tuya-sign-hacking | Reverse engineering of the Tuya API signing algorithm | 142 | <https://github.com/nalajcie/tuya-sign-hacking> |
 | Meross | Investigation of the Meross/Refoss MSS310 plug to make it talk to local services | 141 | <https://github.com/bytespider/Meross> |
@@ -1272,13 +1272,13 @@
 | unofficial_nodejs_nest *(archived)* | Unofficial Node.js client for the Nest thermostat API | 99 | <https://github.com/wiredprairie/unofficial_nodejs_nest> |
 | Bluetooth | Documentation of Xiaomi ecosystem Bluetooth/BLE device protocols | 98 | <https://github.com/wiecosystem/Bluetooth> |
 | govee_btled | Control Govee BLE LED strips via the reverse-engineered protocol | 97 | <https://github.com/chvolkmann/govee_btled> |
+| echo-dot-assist | Turn Amazon Echo devices into local Home Assistant voice satellites, replacing Alexa | 96 | <https://github.com/Gamer92000/echo-dot-assist> |
 | esp8266-intexsbh20 | MQTT Wi-Fi remote control for Intex PureSpa whirlpools | 96 | <https://github.com/jnsbyr/esp8266-intexsbh20> |
 | Anki.Vector.SDK | Unofficial .NET SDK for the Anki Vector robot | 93 | <https://github.com/codaris/Anki.Vector.SDK> |
 | DirigeraClient | Java client API for IKEA's DIRIGERA smart home hub | 93 | <https://github.com/dvdgeisler/DirigeraClient> |
 | plugp100 | Python library for TP-Link Tapo devices using the reverse-engineered KLAP protocol | 92 | <https://github.com/petretiandrea/plugp100> |
 | surepy | Library and CLI for Sure Petcare pet doors, cat flaps and feeders | 91 | <https://github.com/benleb/surepy> |
 | chihiros-led-control | Control Chihiros aquarium LEDs from Home Assistant or CLI | 89 | <https://github.com/TheMicDiet/chihiros-led-control> |
-| echo-dot-assist | Turn Amazon Echo devices into local Home Assistant voice satellites, replacing Alexa | 89 | <https://github.com/Gamer92000/echo-dot-assist> |
 | homeassistant-velux | Drive Velux electric shutters from Home Assistant without Velux hardware | 86 | <https://github.com/reefab/homeassistant-velux> |
 | geckolib | Library for Gecko Alliance spa packs via the in.touch2 module | 85 | <https://github.com/gazoodle/geckolib> |
 | fyrtur-esp | ESP32/ESP8266 replacement controller for IKEA Fyrtur wireless blinds | 84 | <https://github.com/mjuhanne/fyrtur-esp> |
@@ -1291,9 +1291,9 @@
 | aiohue | Async Python package to talk to Philips Hue bridges | 75 | <https://github.com/home-assistant-libs/aiohue> |
 | Custom-Meross-Pairer | Android app that pairs Meross devices with third-party MQTT brokers | 75 | <https://github.com/albertogeniola/Custom-Meross-Pairer> |
 | SmartThings-Local | Local control of Samsung SmartThings appliances over cert-authenticated CoAP-DTLS | 75 | <https://github.com/QuiteYellow/SmartThings-Local> |
+| climapilot | Control Midea air conditioners locally over Wi-Fi without a cloud account | 74 | <https://github.com/pit711/climapilot> |
 | NarwalIntegration | Local Home Assistant integration for the Narwal Flow robot vacuum | 73 | <https://github.com/sjmotew/NarwalIntegration> |
 | xiaomi-ble | Parser for Xiaomi BLE (MiBeacon) devices including encrypted ones | 72 | <https://github.com/Bluetooth-Devices/xiaomi-ble> |
-| climapilot | Control Midea air conditioners locally over Wi-Fi without a cloud account | 71 | <https://github.com/pit711/climapilot> |
 | homebridge-unifi-access | UniFi Access plugin for HomeKit (Homebridge) | 71 | <https://github.com/hjdhjd/homebridge-unifi-access> |
 | smarkant | Convert an IKEA Bekant desk into an IoT device | 70 | <https://github.com/grappendorf/smarkant> |
 | home-assistant-omnik-inverter | Read Omnik solar inverter data over the local network | 69 | <https://github.com/robbinjanssen/home-assistant-omnik-inverter> |
@@ -1302,8 +1302,8 @@
 | py-august | Python API for August smart locks and doorbells | 68 | <https://github.com/snjoetw/py-august> |
 | RGB-PC | Control Govee LED strips over Bluetooth | 67 | <https://github.com/ib0b/RGB-PC> |
 | yeelight-ble-rotary-dimmer | Yeelight YLKG08YL BLE rotary dimmer protocol and hardware details | 67 | <https://github.com/nccchirag/yeelight-ble-rotary-dimmer> |
+| home-assistant-sofabaton-x1s | Local Home Assistant control of Sofabaton X1, X1S and X2 hubs | 66 | <https://github.com/m3tac0de/home-assistant-sofabaton-x1s> |
 | solax-local-api-docs | Documentation of the Solax inverter local API | 66 | <https://github.com/nazar-pc/solax-local-api-docs> |
-| home-assistant-sofabaton-x1s | Local Home Assistant control of Sofabaton X1, X1S and X2 hubs | 65 | <https://github.com/m3tac0de/home-assistant-sofabaton-x1s> |
 | pyEight *(archived)* | Python library for the Eight Sleep API | 64 | <https://github.com/mezz64/pyEight> |
 | tuya-local-key-extractor | Gets a Tuya device's local key | 64 | <https://github.com/redphx/tuya-local-key-extractor> |
 | ezviz_hp7 | Home Assistant integration for the EZVIZ HP7 intercom | 63 | <https://github.com/Bobsilvio/ezviz_hp7> |
@@ -1325,9 +1325,9 @@
 | xcomfortd-go | Eaton xComfort USB/ECI to MQTT gateway | 53 | <https://github.com/karloygard/xcomfortd-go> |
 | ge-appliances-re | Notes and findings from reverse engineering GE Appliances | 52 | <https://github.com/doitaljosh/ge-appliances-re> |
 | gree-hvac-protocol | Reverse-engineered UART protocol of GREE air conditioners | 52 | <https://github.com/bekmansurov/gree-hvac-protocol> |
+| py-petkit-api | PetKit client API library | 50 | <https://github.com/Jezza34000/py-petkit-api> |
 | tplink-smartplug-api | TP-Link HS1xx smart plug API wrapper | 50 | <https://github.com/vrachieru/tplink-smartplug-api> |
 | haomnilogic-local | Home Assistant integration for Hayward OmniLogic using the local API | 49 | <https://github.com/cryptk/haomnilogic-local> |
-| py-petkit-api | PetKit client API library | 49 | <https://github.com/Jezza34000/py-petkit-api> |
 | sharkiq | Python API for Shark IQ robot vacuums | 48 | <https://github.com/sharkiqlibs/sharkiq> |
 | hisensetv *(archived)* | Python API to control Hisense TVs via their internal MQTT broker | 47 | <https://github.com/newAM/hisensetv> |
 | iaqualink-py | Async library for Jandy iAqualink pool systems | 46 | <https://github.com/flz/iaqualink-py> |
@@ -1352,9 +1352,9 @@
 | QolsysController | Emulates a virtual IQ Remote for full local control of a Qolsys IQ Panel | 28 | <https://github.com/EHylands/QolsysController> |
 | pyworxcloud | Python module for Worx Landroid cloud devices | 27 | <https://github.com/MTrab/pyworxcloud> |
 | thermopro-ble | Parser for ThermoPro BLE sensors | 27 | <https://github.com/Bluetooth-Devices/thermopro-ble> |
+| xiaomi-vac | Local control and room cleaning for ijai, Dreame, Viomi and Xiaomi robot vacuums | 26 | <https://github.com/letitbe-dull/xiaomi-vac> |
 | aio-intex-spa | Python client for the Intex Spa Wi-Fi interface | 25 | <https://github.com/mathieu-mp/aio-intex-spa> |
 | pyflowater | Python interface for the Flo by Moen API | 25 | <https://github.com/homeassistant-projects/pyflowater> |
-| xiaomi-vac | Local control and room cleaning for ijai, Dreame, Viomi and Xiaomi robot vacuums | 25 | <https://github.com/letitbe-dull/xiaomi-vac> |
 | duco-analysis | Reverse engineering of the Duco ventilation connectivity board and its local API | 24 | <https://github.com/kokx/duco-analysis> |
 | inkbird-ble | Parser for INKBIRD BLE sensor advertisements | 22 | <https://github.com/Bluetooth-Devices/inkbird-ble> |
 | googledevices *(archived)* | Get information from, and control various Google devices. | 21 | <https://github.com/ludeeus/googledevices> |
@@ -1363,13 +1363,13 @@
 | schellenberg-qivicon-usb | Schellenberg USB protocol | 19 | <https://github.com/Hypfer/schellenberg-qivicon-usb> |
 | aioflo | Async Python library for Flo by Moen smart water shutoffs | 18 | <https://github.com/bachya/aioflo> |
 | narwal_r | 云鲸扫地机器人 Home Assistant 本地集成 \| Narwal robot vacuum local WebSocket integration for Home Assistant (HACS) | 18 | <https://github.com/rudyll/narwal_r> |
+| lumalou | Local BLE control for Fisher-Price Lumalou via reverse-engineered MPID protocol | 17 | <https://github.com/stramanu/lumalou> |
 | tc002-customisation | Reverse-engineered docs, local API and replacement app for Ulanzi TC002 pixel clock | 17 | <https://github.com/atomicstack/tc002-customisation> |
 | AqaraPresenceSensorFP2ReverseEngineering | Reverse engineered information about the Aqara FP2 presence sensor | 16 | <https://github.com/hansihe/AqaraPresenceSensorFP2ReverseEngineering> |
-| lumalou | Local BLE control for Fisher-Price Lumalou via reverse-engineered MPID protocol | 16 | <https://github.com/stramanu/lumalou> |
 | inkbird-bw-ble | Reverse-engineered BLE protocol and ESPHome bridge for Inkbird INT-12/14-BW | 14 | <https://github.com/paul43210/inkbird-bw-ble> |
 | venuscontrol | Web-based replacement for the Marstek App allowing cloud-free use of Venus storages | 14 | <https://github.com/Hypfer/venuscontrol> |
 | LGThinQ | Research into running LG ThinQ devices without the cloud | 13 | <https://github.com/zivillian/LGThinQ> |
-| vtech-baby-pro-bridge | Native bridge and RE writeup that pulls live H.264 video from a VTech Baby Pro monitor | 11 | <https://github.com/JonGilmore/vtech-baby-pro-bridge> |
+| vtech-baby-pro-bridge | Native bridge and RE writeup that pulls live H.264 video from a VTech Baby Pro monitor | 10 | <https://github.com/JonGilmore/vtech-baby-pro-bridge> |
 | Marstek-offline-endpoint | Run a Marstek Venus battery without the cloud. Self-hosted container that answers the telemetry upload locally — stop... | 9 | <https://github.com/sphings79/Marstek-offline-endpoint> |
 | whiskerless | Un-cloud your Whisker devices — fully-local MQTT control + telemetry for the Litter-Robot 4 (Python library, CLI, and... | 8 | <https://github.com/SisyphusMD/whiskerless> |
 | asyncsleepiq | Async interface to the Sleep Number SleepIQ API | 6 | <https://github.com/kbickar/asyncsleepiq> |
@@ -1391,30 +1391,30 @@
 | esphome-jk-bms | ESPHome component to monitor and control JK-BMS via UART or BLE | 1,036 | <https://github.com/syssi/esphome-jk-bms> |
 | AhoyDTU | Tools and docs for communicating with Hoymiles microinverters over their proprietary 2.4 GHz protocol | 1,017 | <https://github.com/lumapu/ahoy> |
 | huawei_solar | Home Assistant integration for Huawei SUN2000 inverters via Modbus | 934 | <https://github.com/wlcrs/huawei_solar> |
-| hassio-ecoflow-cloud | EcoFlow cloud integration for Home Assistant using the app's MQTT channel | 907 | <https://github.com/tolwi/hassio-ecoflow-cloud> |
+| hassio-ecoflow-cloud | EcoFlow cloud integration for Home Assistant using the app's MQTT channel | 908 | <https://github.com/tolwi/hassio-ecoflow-cloud> |
 | emporia-vue-local esphome | ESPHome component for local Emporia Vue 2 energy monitor readings | 808 | <https://github.com/emporia-vue-local/esphome> |
-| ha-emporia-vue | Home Assistant integration for the Emporia Vue energy monitor | 756 | <https://github.com/magico13/ha-emporia-vue> |
+| ha-emporia-vue | Home Assistant integration for the Emporia Vue energy monitor | 757 | <https://github.com/magico13/ha-emporia-vue> |
 | home_assistant_solarman | Home Assistant component for Solarman dataloggers used with Deye and other inverters | 737 | <https://github.com/StephanJoubert/home_assistant_solarman> |
-| Sungrow-SHx-Inverter-Modbus-Home-Assistant | Home Assistant Modbus configuration for Sungrow SH hybrid inverters | 704 | <https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant> |
+| Sungrow-SHx-Inverter-Modbus-Home-Assistant | Home Assistant Modbus configuration for Sungrow SH hybrid inverters | 705 | <https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant> |
 | dbus-serialbattery | Venus OS driver that reads many serial/BLE BMS protocols for Victron GX systems | 590 | <https://github.com/Louisvdw/dbus-serialbattery> |
 | Grott | Growatt inverter monitor that intercepts ShineWiFi datalogger traffic to read inverter data locally | 537 | <https://github.com/johanmeijer/grott> |
+| homeassistant-solax-modbus | Home Assistant Modbus integration for SolaX, AlphaESS, Growatt, Sofar, Solis and other inverters | 524 | <https://github.com/wills106/homeassistant-solax-modbus> |
 | batmon-ha | Home Assistant add-on for JK, JBD, Daly, ANT, SOK, Supervolt and other BLE BMS | 523 | <https://github.com/fl4p/batmon-ha> |
-| homeassistant-solax-modbus | Home Assistant Modbus integration for SolaX, AlphaESS, Growatt, Sofar, Solis and other inverters | 523 | <https://github.com/wills106/homeassistant-solax-modbus> |
 | ha-solarman | Solarman stick logger integration for Home Assistant | 522 | <https://github.com/davidrapan/ha-solarman> |
 | dsmr-reader | DSMR P1 smart meter telegram reader and visualizer | 495 | <https://github.com/dsmrreader/dsmr-reader> |
 | thc-tesla-powerwall2-hack | Security research notes on the Tesla Powerwall 2 gateway | 464 | <https://github.com/hackerschoice/thc-tesla-powerwall2-hack> |
 | mpp-solar | Python package for MPP Solar/Voltronic PIP inverters and similar | 438 | <https://github.com/jblance/mpp-solar> |
 | home-assistant-solaredge-modbus | Home Assistant component reading SolarEdge inverters locally via Modbus TCP | 417 | <https://github.com/binsentsu/home-assistant-solaredge-modbus> |
 | esphome-victron_ble | ESPHome component reading Victron devices through their BLE advertisement endpoint | 411 | <https://github.com/Fabian-Schmidt/esphome-victron_ble> |
-| ha-ef-ble | Unofficial EcoFlow BLE integration for Home Assistant | 406 | <https://github.com/rabits/ha-ef-ble> |
+| ha-ef-ble | Unofficial EcoFlow BLE integration for Home Assistant | 407 | <https://github.com/rabits/ha-ef-ble> |
 | AstraMeter | Emulates smart meters for Marstek B2500/Jupiter/Venus home batteries | 384 | <https://github.com/tomquist/AstraMeter> |
 | SBFspot | Reads SMA solar/battery inverters over Bluetooth and Speedwire | 380 | <https://github.com/SBFspot/SBFspot> |
-| BMS_BLE-HA | Home Assistant integration for many Bluetooth LE battery management systems | 368 | <https://github.com/patman15/BMS_BLE-HA> |
+| BMS_BLE-HA | Home Assistant integration for many Bluetooth LE battery management systems | 369 | <https://github.com/patman15/BMS_BLE-HA> |
 | deye-inverter-mqtt | Reads Deye solar inverter metrics and posts them over MQTT | 365 | <https://github.com/kbialek/deye-inverter-mqtt> |
 | ecoflow_exporter | Prometheus exporter for EcoFlow portable power stations | 355 | <https://github.com/berezhinskiy/ecoflow_exporter> |
-| ha-hoymiles-wifi | Home Assistant integration for Hoymiles DTUs and HMS-XXXXW-2T microinverters | 346 | <https://github.com/suaveolent/ha-hoymiles-wifi> |
+| ha-hoymiles-wifi | Home Assistant integration for Hoymiles DTUs and HMS-XXXXW-2T microinverters | 348 | <https://github.com/suaveolent/ha-hoymiles-wifi> |
 | sunsynk | Deye/Sunsynk inverter Python library and Home Assistant add-on over Modbus | 339 | <https://github.com/kellerza/sunsynk> |
-| solaredge-modbus-multi | Local Modbus/TCP SolarEdge integration for Home Assistant | 330 | <https://github.com/WillCodeForCats/solaredge-modbus-multi> |
+| solaredge-modbus-multi | Local Modbus/TCP SolarEdge integration for Home Assistant | 332 | <https://github.com/WillCodeForCats/solaredge-modbus-multi> |
 | hass-victron | Home Assistant integration for Victron GX devices over Modbus TCP | 322 | <https://github.com/sfstar/hass-victron> |
 | hassio-ecoflow *(archived)* | Local EcoFlow portable power station integration for Home Assistant | 321 | <https://github.com/vwt12eh8/hassio-ecoflow> |
 | anker-solix-api | Python library for the Anker Solix cloud API | 304 | <https://github.com/thomluther/anker-solix-api> |
@@ -1424,7 +1424,7 @@
 | powerwall2 | Documentation of the Tesla Powerwall 2 local gateway API | 290 | <https://github.com/vloschiavo/powerwall2> |
 | ha-tibber-pulse-local | Local LAN Tibber Pulse integration for Home Assistant | 289 | <https://github.com/marq24/ha-tibber-pulse-local> |
 | easee_hass | Home Assistant custom component for Easee EV chargers | 283 | <https://github.com/nordicopen/easee_hass> |
-| bms-to-inverter | Bridges many BMS brands to inverters by translating BMS and inverter protocols | 270 | <https://github.com/ai-republic/bms-to-inverter> |
+| bms-to-inverter | Bridges many BMS brands to inverters by translating BMS and inverter protocols | 271 | <https://github.com/ai-republic/bms-to-inverter> |
 | esphome-jbd-bms | ESPHome component to monitor and control JBD/Xiaoxiang BMS | 258 | <https://github.com/syssi/esphome-jbd-bms> |
 | PyEmVue | Python library for the unofficial Emporia Vue energy monitor cloud API | 244 | <https://github.com/magico13/PyEmVue> |
 | home-assistant-goodwe-inverter | Home Assistant integration for GoodWe inverters over the local network | 237 | <https://github.com/mletenay/home-assistant-goodwe-inverter> |
@@ -1432,23 +1432,23 @@
 | wbec | ESP8266 control for Heidelberg Wallbox Energy Control over Wi-Fi | 225 | <https://github.com/steff393/wbec> |
 | ha-myenergi | Home Assistant integration for myenergi devices | 216 | <https://github.com/CJNE/ha-myenergi> |
 | SunGather | Collects data from Sungrow inverters via Modbus/WiNet and exports to MQTT, PVOutput, InfluxDB | 214 | <https://github.com/bohdan-s/SunGather> |
-| vuegraf | Exports Emporia Vue energy data to InfluxDB | 208 | <https://github.com/jertel/vuegraf> |
+| vuegraf | Exports Emporia Vue energy data to InfluxDB | 209 | <https://github.com/jertel/vuegraf> |
 | homeassistant-apsystems_ecu_reader | Local query integration for APsystems ECU gateways in Home Assistant | 207 | <https://github.com/HAEdwin/homeassistant-apsystems_ecu_reader> |
 | homeassistant-apsystems_ecur | Home Assistant component for local querying of APsystems ECU-R gateways | 202 | <https://github.com/ksheumaker/homeassistant-apsystems_ecur> |
 | TWCManager | Controls Tesla Wall Charger power via its reverse engineered RS-485 protocol | 197 | <https://github.com/dracoventions/TWCManager> |
 | sense | Unofficial API client for the Sense energy monitor | 191 | <https://github.com/scottbonline/sense> |
 | bluetti_mqtt | MQTT interface for Bluetti power stations over Bluetooth | 187 | <https://github.com/warhammerkid/bluetti_mqtt> |
 | home_assistant_custom_envoy | Custom Home Assistant integration for Enphase Envoy with token-based local access | 183 | <https://github.com/briancmpbll/home_assistant_custom_envoy> |
-| goodwe | Python library that reads GoodWe inverters over their local UDP/Modbus protocol | 182 | <https://github.com/marcelblijleven/goodwe> |
+| goodwe | Python library that reads GoodWe inverters over their local UDP/Modbus protocol | 181 | <https://github.com/marcelblijleven/goodwe> |
 | pysolarmanv5 | Python module for the Solarman V5 datalogger protocol | 181 | <https://github.com/jmccrohan/pysolarmanv5> |
 | amshan-homeassistant | Home Assistant integration for AMS/HAN/P1 smart meters over serial or TCP | 179 | <https://github.com/toreamun/amshan-homeassistant> |
 | hassio-bluetti-bt | Bluetti Bluetooth integration for Home Assistant | 169 | <https://github.com/Patrick762/hassio-bluetti-bt> |
 | esphome-smg-ii | ESPHome config to monitor and control ISolar/EASUN SMG II inverters via RS232 | 167 | <https://github.com/syssi/esphome-smg-ii> |
-| ginlong-solis | Solis inverter ESP8266 logger, S3 Wi-Fi stick reverse engineering and ESPHome firmware | 166 | <https://github.com/hn/ginlong-solis> |
+| ginlong-solis | Solis inverter ESP8266 logger, S3 Wi-Fi stick reverse engineering and ESPHome firmware | 167 | <https://github.com/hn/ginlong-solis> |
 | Pylontech-Battery-Monitoring | Wi-Fi monitoring for Pylontech US2000 batteries | 164 | <https://github.com/irekzielinski/Pylontech-Battery-Monitoring> |
 | solaredge_modbus *(archived)* | Python library for SolarEdge Modbus data collection | 164 | <https://github.com/nmakel/solaredge_modbus> |
 | solis_modbus | HACS integration for Solis inverters over Modbus | 161 | <https://github.com/Pho3niX90/solis_modbus> |
-| ioBroker.ecoflow-mqtt | ioBroker adapter for EcoFlow power stations and PowerStream via MQTT | 153 | <https://github.com/foxthefox/ioBroker.ecoflow-mqtt> |
+| ioBroker.ecoflow-mqtt | ioBroker adapter for EcoFlow power stations and PowerStream via MQTT | 154 | <https://github.com/foxthefox/ioBroker.ecoflow-mqtt> |
 | solarthing | Monitors Outback MATE, Renogy Rover and EPEver charge controllers | 152 | <https://github.com/wildmountainfarms/solarthing> |
 | goodwe-sems-home-assistant | Home Assistant integration for the GoodWe SEMS portal | 147 | <https://github.com/TimSoethout/goodwe-sems-home-assistant> |
 | arduino-dsmr | Arduino library for Dutch DSMR smart meters | 145 | <https://github.com/matthijskooijman/arduino-dsmr> |
@@ -1491,22 +1491,22 @@
 | Enphase-Envoy-mqtt-json | Reads the real-time stream from an Enphase Envoy and publishes it to MQTT | 95 | <https://github.com/vk2him/Enphase-Envoy-mqtt-json> |
 | python-pylontech | Python library for Pylontech lithium batteries over RS485 | 93 | <https://github.com/Frankkkkk/python-pylontech> |
 | solarflow | Integrates Zendure SolarFlow hubs into Home Assistant | 90 | <https://github.com/z-master42/solarflow> |
-| EcoFlow-CanBus-Reverse-Engineering | Reverse engineering of the EcoFlow power station CAN bus | 88 | <https://github.com/bulldog5046/EcoFlow-CanBus-Reverse-Engineering> |
+| EcoFlow-CanBus-Reverse-Engineering | Reverse engineering of the EcoFlow power station CAN bus | 89 | <https://github.com/bulldog5046/EcoFlow-CanBus-Reverse-Engineering> |
 | bm2-battery-monitor | Python connector and ESPHome template for BM2 Bluetooth battery monitors | 86 | <https://github.com/KrystianD/bm2-battery-monitor> |
 | ha-chargepoint | Home Assistant integration for ChargePoint Home chargers | 83 | <https://github.com/mbillow/ha-chargepoint> |
 | tesla_powerwall | Python API for the Tesla Powerwall local gateway | 83 | <https://github.com/jrester/tesla_powerwall> |
+| esphome-ant-bms | ESPHome component to monitor and control ANT-BMS | 82 | <https://github.com/syssi/esphome-ant-bms> |
 | ecoflow-bt-reverse-engineering | Reverse engineering of the Bluetooth interface of EcoFlow devices | 81 | <https://github.com/nielsole/ecoflow-bt-reverse-engineering> |
-| esphome-ant-bms | ESPHome component to monitor and control ANT-BMS | 81 | <https://github.com/syssi/esphome-ant-bms> |
 | esphome-emporia-vue-utility *(archived)* | Alternative ESPHome firmware for the Emporia Vue Utility Connect | 79 | <https://github.com/jrouvier/esphome-emporia-vue-utility> |
 | jbdtool | Linux utility for JBD BMS over serial, CAN and Bluetooth | 78 | <https://github.com/sshoecraft/jbdtool> |
 | wallbox | Python module for the Wallbox EV charger cloud API | 75 | <https://github.com/cliviu74/wallbox> |
 | dtuGateway | ESP gateway giving a stable local connection to Hoymiles HMS-W DTUs | 72 | <https://github.com/ohAnd/dtuGateway> |
 | givenergy-local | Home Assistant integration for local access to GivEnergy inverters and batteries | 69 | <https://github.com/cdpuk/givenergy-local> |
 | marstek-venus-monitor | Web Bluetooth monitoring tool for Marstek Venus E batteries | 69 | <https://github.com/rweijnen/marstek-venus-monitor> |
-| Growatt_ModbusTCP | Home Assistant integration reading Growatt solar inverters over Modbus TCP | 67 | <https://github.com/0xAHA/Growatt_ModbusTCP> |
+| Growatt_ModbusTCP | Home Assistant integration reading Growatt solar inverters over Modbus TCP | 68 | <https://github.com/0xAHA/Growatt_ModbusTCP> |
 | pysma | Async library for the SMA Solar WebConnect web interface | 65 | <https://github.com/kellerza/pysma> |
+| ha-eybond-local | Local Home Assistant integration for hybrid inverters with EyeBond dataloggers | 64 | <https://github.com/groove-max/ha-eybond-local> |
 | ef-ble-reverse *(archived)* | Reverse engineering of the EcoFlow BLE protocol v2 | 62 | <https://github.com/rabits/ef-ble-reverse> |
-| ha-eybond-local | Local Home Assistant integration for hybrid inverters with EyeBond dataloggers | 62 | <https://github.com/groove-max/ha-eybond-local> |
 | solaredge-local | Information about the undocumented local API of SolarEdge inverters | 62 | <https://github.com/drobtravels/solaredge-local> |
 | esphome_huawei_sun2000 | ESPHome config reading Huawei SUN2000 inverters over Modbus RTU | 61 | <https://github.com/jesusrop/esphome_huawei_sun2000> |
 | dsmr-p1-parser | Ragel-based C parser for DSMR P1 and IEC 62056-21 telegrams | 60 | <https://github.com/lvzon/dsmr-p1-parser> |
@@ -1531,14 +1531,14 @@
 | bm6-battery-monitor | Reads BM6 BLE car battery monitors without the vendor app | 44 | <https://github.com/JeffWDH/bm6-battery-monitor> |
 | pyeasee | Python library for the Easee EV charger API | 44 | <https://github.com/nordicopen/pyeasee> |
 | renogymodbus | Python library for Renogy solar charge controllers over Modbus | 44 | <https://github.com/rosswarren/renogymodbus> |
-| local-powerstream | Knowledge hub for controlling the EcoFlow PowerStream locally without the cloud | 41 | <https://github.com/tomvd/local-powerstream> |
 | lxp-bridge | Bridge between LuxPower inverters' datalogger protocol and MQTT/InfluxDB/Postgres | 40 | <https://github.com/celsworth/lxp-bridge> |
 | pod-point-home-assistant-component | Home Assistant integration for Pod Point chargers | 40 | <https://github.com/mattrayner/pod-point-home-assistant-component> |
 | solismon3 | Utilities to interact with Solarman data logging sticks on Solis inverters | 40 | <https://github.com/NosIreland/solismon3> |
+| local-powerstream | Knowledge hub for controlling the EcoFlow PowerStream locally without the cloud | 39 | <https://github.com/tomvd/local-powerstream> |
 | envoy_reader | Python library that reads production data from Enphase Envoy gateways on the local network | 36 | <https://github.com/jesserizzo/envoy_reader> |
 | pymyenergi | Async Python library for myenergi zappi, eddi and harvi devices | 32 | <https://github.com/CJNE/pymyenergi> |
 | marstek-venus-e-firmware-notes | Reverse-engineering notes and firmware analysis for the Marstek Venus E | 31 | <https://github.com/rweijnen/marstek-venus-e-firmware-notes> |
-| Zendure-Solarflow-Local-HomeAssistant | Runs Zendure SolarFlow 800 Pro devices locally without the cloud | 30 | <https://github.com/Utini2000/Zendure-Solarflow-Local-HomeAssistant> |
+| Zendure-Solarflow-Local-HomeAssistant | Runs Zendure SolarFlow 800 Pro devices locally without the cloud | 31 | <https://github.com/Utini2000/Zendure-Solarflow-Local-HomeAssistant> |
 | givenergy-modbus | Python library to access GivEnergy inverters via Modbus TCP on the local network | 29 | <https://github.com/dewet22/givenergy-modbus> |
 | Hoymiles-DTU-Proto | Reverse-engineered protobuf definitions for the Hoymiles DTU network protocol | 28 | <https://github.com/henkwiedig/Hoymiles-DTU-Proto> |
 | mi600 | Bash script for direct data access to Bosswerk MI600/Deye microinverters | 28 | <https://github.com/dr-ni/mi600> |
@@ -1551,7 +1551,7 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | ColorControl | Controls NVIDIA display settings and LG TVs, including hidden settings | 1,752 | <https://github.com/Maassoft/ColorControl> |
-| samsung-frame-art | Script that uploads images to Samsung Frame TV art mode | 533 | <https://github.com/ow/samsung-frame-art> |
+| samsung-frame-art | Script that uploads images to Samsung Frame TV art mode | 534 | <https://github.com/ow/samsung-frame-art> |
 | onkyo-eiscp | Controls Onkyo A/V receivers over the eISCP network protocol | 508 | <https://github.com/miracle2k/onkyo-eiscp> |
 | bravia-auth-and-remote | Shell snippets to authenticate and send remote commands to Sony Bravia TVs | 252 | <https://github.com/breunigs/bravia-auth-and-remote> |
 | denonavr | Python automation library for Denon AVR receivers | 200 | <https://github.com/ol-iver/denonavr> |
@@ -1580,7 +1580,7 @@
 | braviarc | Python library for Sony Bravia TV remote control | 82 | <https://github.com/antonioparraga/braviarc> |
 | magic4pc | Uses the LG TV Magic Remote as a mouse for a PC | 82 | <https://github.com/Wouterdek/magic4pc> |
 | pvr.freebox | Kodi PVR add-on for Freebox TV | 80 | <https://github.com/aassif/pvr.freebox> |
-| python-songpal | Python library for Sony Songpal soundbars and receivers | 79 | <https://github.com/rytilahti/python-songpal> |
+| python-songpal | Python library for Sony Songpal soundbars and receivers | 80 | <https://github.com/rytilahti/python-songpal> |
 | pylgtv *(archived)* | Python library to control webOS-based LG TVs | 75 | <https://github.com/TheRealLink/pylgtv> |
 | lg-remote | Android app to control LG webOS TVs | 74 | <https://github.com/heroslender/lg-remote> |
 | TCL-TV-reverse-engineering *(archived)* | Reverse engineering of a TCL/Thomson TV firmware | 67 | <https://github.com/prototux/TCL-TV-reverse-engineering> |
@@ -1588,7 +1588,7 @@
 | sky-remote | Node.js module to send remote control commands to Sky TV boxes | 60 | <https://github.com/dalhundal/sky-remote> |
 | hass-samsung-soundbar-local | Home Assistant integration for Samsung soundbars via their local API | 59 | <https://github.com/ZtF/hass-samsung-soundbar-local> |
 | viera-control | REST API and mobile UI to control Panasonic Viera TVs | 58 | <https://github.com/samuelmatis/viera-control> |
-| panasonic-viera | Python library for Panasonic Viera TVs including encrypted 2019+ models | 56 | <https://github.com/florianholzapfel/panasonic-viera> |
+| panasonic-viera | Python library for Panasonic Viera TVs including encrypted 2019+ models | 57 | <https://github.com/florianholzapfel/panasonic-viera> |
 | bravia | Node.js module for discovering and controlling Sony Bravia Android TVs | 49 | <https://github.com/waynehaffenden/bravia> |
 | tivoremote | Network remote control for TiVo Series 3+ DVRs | 49 | <https://github.com/wmcbrine/tivoremote> |
 | horizon | Controls UPC/Liberty Global Horizon set-top boxes | 48 | <https://github.com/mrquincle/horizon> |
@@ -1650,11 +1650,11 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| teddycloud | Open-source server replacement for the Toniebox Boxine cloud | 1,069 | <https://github.com/toniebox-reverse-engineering/teddycloud> |
+| teddycloud | Open-source server replacement for the Toniebox Boxine cloud | 1,070 | <https://github.com/toniebox-reverse-engineering/teddycloud> |
 | TelloPy | Python package for the DJI/Ryze Tello using its reverse-engineered low-level protocol | 720 | <https://github.com/hanyazou/TelloPy> |
 | pylgbst | Python library for LEGO Boost and Powered Up devices | 585 | <https://github.com/undera/pylgbst> |
 | node-poweredup | JavaScript module to control LEGO Powered Up, Boost and WeDo 2.0 hubs over BLE | 524 | <https://github.com/nathankellenicki/node-poweredup> |
-| pybricks-micropython | MicroPython firmware for LEGO Powered Up, SPIKE and MINDSTORMS hubs | 350 | <https://github.com/pybricks/pybricks-micropython> |
+| pybricks-micropython | MicroPython firmware for LEGO Powered Up, SPIKE and MINDSTORMS hubs | 351 | <https://github.com/pybricks/pybricks-micropython> |
 | legoino | Arduino library for controlling LEGO Powered Up and Boost hubs | 322 | <https://github.com/corneliusmunz/legoino> |
 | toniebox | Collected reverse-engineering documentation for the Toniebox hardware, firmware and protocols | 281 | <https://github.com/toniebox-reverse-engineering/toniebox> |
 | nxt-python | Python driver for the LEGO MINDSTORMS NXT brick over USB and Bluetooth | 257 | <https://github.com/schodet/nxt-python> |
@@ -1662,7 +1662,7 @@
 | yoto_ha | Home Assistant integration for Yoto players | 226 | <https://github.com/cdnninja/yoto_ha> |
 | BOOSTreveng | Reverse engineering of the LEGO BOOST Move Hub BLE protocol | 172 | <https://github.com/JorgePe/BOOSTreveng> |
 | bricknil | Python library to control LEGO Bluetooth sensors and motors (Boost, Powered Up) | 157 | <https://github.com/virantha/bricknil> |
-| LEGO-Mario-Reveng | Reverse engineering of LEGO Mario, Luigi and Peach BLE protocol | 144 | <https://github.com/bricklife/LEGO-Mario-Reveng> |
+| LEGO-Mario-Reveng | Reverse engineering of LEGO Mario, Luigi and Peach BLE protocol | 145 | <https://github.com/bricklife/LEGO-Mario-Reveng> |
 | TelloLib | C# library for the Tello drone's reverse-engineered protocol | 139 | <https://github.com/Kragrathea/TelloLib> |
 | PyFluff | Python port of Bluefluff to control the Furby Connect | 121 | <https://github.com/martinwoodward/PyFluff> |
 | brickrail | LEGO train automation for Powered Up hubs | 115 | <https://github.com/Novakasa/brickrail> |
@@ -1670,7 +1670,7 @@
 | powered-up | .NET implementation of the LEGO Powered Up protocol | 111 | <https://github.com/sharpbrick/powered-up> |
 | lego_mario_controller | Python script that uses a LEGO Mario figure over BLE as a game controller | 110 | <https://github.com/RickP/lego_mario_controller> |
 | tonies-json | Database of Tonies figures and metadata used to identify them | 104 | <https://github.com/toniebox-reverse-engineering/tonies-json> |
-| lego-linux-drivers | Linux drivers for LEGO MINDSTORMS and WeDo hardware from the ev3dev project | 89 | <https://github.com/ev3dev/lego-linux-drivers> |
+| lego-linux-drivers | Linux drivers for LEGO MINDSTORMS and WeDo hardware from the ev3dev project | 90 | <https://github.com/ev3dev/lego-linux-drivers> |
 | spherov2.js | Unofficial Sphero V2 API for toys like Sphero Mini and Lightning McQueen | 89 | <https://github.com/igbopie/spherov2.js> |
 | tello | Unofficial Go package for the Ryze Tello drone's private protocol | 84 | <https://github.com/SMerrony/tello> |
 | spherov2.py | Unofficial Python API for all Sphero toys | 82 | <https://github.com/artificial-intelligence-class/spherov2.py> |
@@ -1693,10 +1693,10 @@
 | LEGO-WeDo-2.0-Python-SDK | Python SDK for the LEGO WeDo 2.0 smart hub | 40 | <https://github.com/jannopet/LEGO-WeDo-2.0-Python-SDK> |
 | legomario | Printable scanner codes and Python API for LEGO Mario | 40 | <https://github.com/mutesplash/legomario> |
 | MyOwnBricks | Library for building custom sensors and devices compatible with LEGO Powered Up | 40 | <https://github.com/ysard/MyOwnBricks> |
+| esp32_PoweredUp | ESP32 library to control LEGO WeDo 2.0 and Powered Up hubs over BLE | 38 | <https://github.com/lemio/esp32_PoweredUp> |
 | HA-Toniebox | Unofficial Home Assistant integration for Toniebox and the Tonie cloud | 38 | <https://github.com/git4sim/HA-Toniebox> |
 | alpha-bluetooth | Communication software for the UBTECH Alpha humanoid robot over Bluetooth | 37 | <https://github.com/alpha-hacks/alpha-bluetooth> |
-| esp32_PoweredUp | ESP32 library to control LEGO WeDo 2.0 and Powered Up hubs over BLE | 37 | <https://github.com/lemio/esp32_PoweredUp> |
-| toniebox-pcb | KiCad schematic of the Toniebox PCB with datasheets | 36 | <https://github.com/toniebox-reverse-engineering/toniebox-pcb> |
+| toniebox-pcb | KiCad schematic of the Toniebox PCB with datasheets | 37 | <https://github.com/toniebox-reverse-engineering/toniebox-pcb> |
 | furby-web-bluetooth | Interacts with a Furby Connect over Web Bluetooth | 35 | <https://github.com/pdjstone/furby-web-bluetooth> |
 | cloudpets-web-bluetooth | Demo of controlling CloudPets toys over Web Bluetooth | 33 | <https://github.com/pdjstone/cloudpets-web-bluetooth> |
 | opus2tonie | Command-line tool that creates Tonie-compatible audio files from Ogg Opus files | 33 | <https://github.com/bailli/opus2tonie> |
@@ -1760,10 +1760,10 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| ALVR | Stream VR games from a PC to a standalone headset via Wi-Fi | 7,993 | <https://github.com/alvr-org/ALVR> |
-| WiVRn | Linux OpenXR streaming to standalone headsets like Quest and Pico | 1,781 | <https://github.com/WiVRn/WiVRn> |
-| breezy-desktop | XR virtual desktop for Linux using reverse-engineered AR glasses drivers | 771 | <https://github.com/wheaney/breezy-desktop> |
-| PSVR2Toolkit | Unofficial modification of the PS VR2 PC driver to expose eye tracking and more | 771 | <https://github.com/BnuuySolutions/PSVR2Toolkit> |
+| ALVR | Stream VR games from a PC to a standalone headset via Wi-Fi | 7,994 | <https://github.com/alvr-org/ALVR> |
+| WiVRn | Linux OpenXR streaming to standalone headsets like Quest and Pico | 1,785 | <https://github.com/WiVRn/WiVRn> |
+| breezy-desktop | XR virtual desktop for Linux using reverse-engineered AR glasses drivers | 773 | <https://github.com/wheaney/breezy-desktop> |
+| PSVR2Toolkit | Unofficial modification of the PS VR2 PC driver to expose eye tracking and more | 773 | <https://github.com/BnuuySolutions/PSVR2Toolkit> |
 | PSMoveService *(archived)* | Service for PS Move controller tracking and pose data | 614 | <https://github.com/psmoveservice/PSMoveService> |
 | XRLinuxDriver | Linux service for XR glasses (Xreal, Viture, Rokid) head tracking | 470 | <https://github.com/wheaney/XRLinuxDriver> |
 | MacMorpheus | 3D 180/360 video player for macOS using the PSVR headset | 300 | <https://github.com/emoRaivis/MacMorpheus> |
@@ -1778,12 +1778,12 @@
 | lighthouse-v2-manager | Python script to power Valve Lighthouse V2 base stations on and off via BLE | 129 | <https://github.com/nouser2013/lighthouse-v2-manager> |
 | Pimax-OpenXR | Unofficial OpenXR runtime implementation for Pimax headsets | 127 | <https://github.com/mbucchia/Pimax-OpenXR> |
 | OpenPSVR | Open-source OpenVR driver for the PlayStation VR headset | 116 | <https://github.com/alatnet/OpenPSVR> |
-| faceclaw | Custom user interface for the Even Realities G2 smart glasses | 80 | <https://github.com/jimrandomh/faceclaw> |
+| faceclaw | Custom user interface for the Even Realities G2 smart glasses | 82 | <https://github.com/jimrandomh/faceclaw> |
 | xreal-webxr | WebXR support for Xreal AR glasses | 76 | <https://github.com/jakedowns/xreal-webxr> |
 | PSVRTest | Read PlayStation VR accelerometer data via USB | 74 | <https://github.com/tokkyo/PSVRTest> |
 | ViveTrackedDevice | Reverse engineered open implementation of a SteamVR tracked device | 74 | <https://github.com/fughilli/ViveTrackedDevice> |
 | One-Pro-IMU-Retriever-Demo | Head tracking demo from the Xreal One Pro IMU sensor | 55 | <https://github.com/SamiMitwalli/One-Pro-IMU-Retriever-Demo> |
-| PSVR2Toolkit.VRCFT | VRCFaceTracking module exposing PSVR2 eye tracking | 45 | <https://github.com/BnuuySolutions/PSVR2Toolkit.VRCFT> |
+| PSVR2Toolkit.VRCFT | VRCFaceTracking module exposing PSVR2 eye tracking | 46 | <https://github.com/BnuuySolutions/PSVR2Toolkit.VRCFT> |
 | eveng1_python_sdk | Python SDK for Even Realities G1 smart glasses over BLE | 42 | <https://github.com/binarythinktank/eveng1_python_sdk> |
 | PSVRTracker *(archived)* | Position and orientation tracking for the PSVR headset on PC | 40 | <https://github.com/HipsterSloth/PSVRTracker> |
 | g2-kit-unofficial | Direct BLE transport and UI libraries for Even Realities G2 glasses | 39 | <https://github.com/Commute773/g2-kit-unofficial> |
@@ -1806,23 +1806,23 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Gadgetbridge *(archived)* | Cloudless Android app for Mi Band, Amazfit, Pebble and other wearables (GitHub mirror; now on Codeberg) | 4,599 | <https://github.com/Freeyourgadget/Gadgetbridge> |
-| garmin-grafana | Fetch Garmin Connect health data into InfluxDB/Grafana | 3,490 | <https://github.com/arpanghosh8453/garmin-grafana> |
-| GarminDB | Download and parse Garmin Connect and watch data into SQLite | 3,344 | <https://github.com/tcgoetz/GarminDB> |
-| Nightscout | Remote CGM monitoring server for people with diabetes | 2,842 | <https://github.com/nightscout/cgm-remote-monitor> |
-| openScale | Open-source weight tracker supporting many reverse-engineered Bluetooth scales | 2,577 | <https://github.com/oliexdev/openScale> |
+| Gadgetbridge *(archived)* | Cloudless Android app for Mi Band, Amazfit, Pebble and other wearables (GitHub mirror; now on Codeberg) | 4,600 | <https://github.com/Freeyourgadget/Gadgetbridge> |
+| garmin-grafana | Fetch Garmin Connect health data into InfluxDB/Grafana | 3,493 | <https://github.com/arpanghosh8453/garmin-grafana> |
+| GarminDB | Download and parse Garmin Connect and watch data into SQLite | 3,345 | <https://github.com/tcgoetz/GarminDB> |
+| Nightscout | Remote CGM monitoring server for people with diabetes | 2,843 | <https://github.com/nightscout/cgm-remote-monitor> |
+| openScale | Open-source weight tracker supporting many reverse-engineered Bluetooth scales | 2,579 | <https://github.com/oliexdev/openScale> |
 | xDrip+ | Android app for continuous glucose monitors, reading Dexcom and Libre sensors directly | 1,803 | <https://github.com/NightscoutFoundation/xDrip> |
 | Loop | iOS automated insulin delivery app controlling pumps via reverse-engineered RF protocols | 1,738 | <https://github.com/LoopKit/Loop> |
-| PebbleOS | Open-sourced Pebble smartwatch operating system | 1,462 | <https://github.com/coredevices/PebbleOS> |
-| AndroidAPS | Open-source artificial pancreas system for Android with pump drivers | 1,198 | <https://github.com/nightscout/AndroidAPS> |
-| python-fitparse | Python library to parse ANT/Garmin .FIT files | 825 | <https://github.com/dtcooper/python-fitparse> |
+| PebbleOS | Open-sourced Pebble smartwatch operating system | 1,463 | <https://github.com/coredevices/PebbleOS> |
+| AndroidAPS | Open-source artificial pancreas system for Android with pump drivers | 1,200 | <https://github.com/nightscout/AndroidAPS> |
+| python-fitparse | Python library to parse ANT/Garmin .FIT files | 826 | <https://github.com/dtcooper/python-fitparse> |
 | muse-lsl | Stream EEG from Muse headsets over BLE to LSL | 780 | <https://github.com/alexandrebarachant/muse-lsl> |
+| OpenStrap Edge | Offline Whoop 4.0 app using the reverse-engineered BLE protocol | 700 | <https://github.com/OpenStrap/edge> |
 | withings-sync | Sync Withings measurements to Garmin Connect and TrainingPeaks | 694 | <https://github.com/jaroslawhartman/withings-sync> |
-| OpenStrap Edge | Offline Whoop 4.0 app using the reverse-engineered BLE protocol | 693 | <https://github.com/OpenStrap/edge> |
 | colmi_r02_client | Python client and protocol docs for the Colmi R02 smart ring | 665 | <https://github.com/tahnok/colmi_r02_client> |
-| open_oura | Rust toolkit with reverse-engineered BLE protocol for Oura Ring Gen 3/4/5 | 606 | <https://github.com/Th0rgal/open_oura> |
+| open_oura | Rust toolkit with reverse-engineered BLE protocol for Oura Ring Gen 3/4/5 | 610 | <https://github.com/Th0rgal/open_oura> |
 | RebbleOS | Open-source reimplementation of the Pebble smartwatch firmware | 592 | <https://github.com/pebble-dev/RebbleOS> |
-| home-assistant-garmin_connect | Garmin Connect health data integration for Home Assistant | 569 | <https://github.com/cyberjunky/home-assistant-garmin_connect> |
+| home-assistant-garmin_connect | Garmin Connect health data integration for Home Assistant | 570 | <https://github.com/cyberjunky/home-assistant-garmin_connect> |
 | emokit *(archived)* | Open-source driver for raw Emotiv EPOC EEG data | 562 | <https://github.com/openyou/emokit> |
 | garminexport | Garmin Connect activity backup tool | 562 | <https://github.com/petergardfjall/garminexport> |
 | MiBand2 | Python library for the Xiaomi Mi Band 2 BLE protocol | 549 | <https://github.com/creotiv/MiBand2> |
@@ -1832,12 +1832,12 @@
 | oref0 | OpenAPS reference design for artificial pancreas algorithms | 484 | <https://github.com/openaps/oref0> |
 | openaps | OpenAPS toolkit for DIY artificial pancreas systems | 480 | <https://github.com/openaps/openaps> |
 | huami-token | Get Huami/Amazfit/Mi Band auth keys for use with Gadgetbridge | 455 | <https://github.com/argrento/huami-token> |
-| xDrip4iOS | iOS CGM app reading Libre and Dexcom sensors directly | 454 | <https://github.com/JohanDegraeve/xdripswift> |
+| xDrip4iOS | iOS CGM app reading Libre and Dexcom sensors directly | 455 | <https://github.com/JohanDegraeve/xdripswift> |
 | Hitrava | Convert Huawei Health activities and import them into Strava | 434 | <https://github.com/CTHRU/Hitrava> |
 | libfitbit *(archived)* | Reverse-engineered library to sync data from early Fitbit trackers | 427 | <https://github.com/openyou/libfitbit> |
-| AmazMod *(archived)* | Replacement notification system and tweaks for Amazfit Pace/Stratos | 402 | <https://github.com/AmazMod/AmazMod> |
-| Trio | iOS automated insulin delivery system based on OpenAPS | 400 | <https://github.com/nightscout/Trio> |
-| xiaomi_mi_scale | Read Xiaomi Mi Scale body metrics over BLE to MQTT | 375 | <https://github.com/lolouk44/xiaomi_mi_scale> |
+| AmazMod *(archived)* | Replacement notification system and tweaks for Amazfit Pace/Stratos | 401 | <https://github.com/AmazMod/AmazMod> |
+| Trio | iOS automated insulin delivery system based on OpenAPS | 401 | <https://github.com/nightscout/Trio> |
+| xiaomi_mi_scale | Read Xiaomi Mi Scale body metrics over BLE to MQTT | 376 | <https://github.com/lolouk44/xiaomi_mi_scale> |
 | miband-js | Xiaomi Mi Band 2 library for Node.js and Web Bluetooth | 349 | <https://github.com/vshymanskyy/miband-js> |
 | bodymiscale | Home Assistant body metrics for Xiaomi Mi Scale 1 and 2 | 345 | <https://github.com/dckiller51/bodymiscale> |
 | garmin-connect-export (kjkjava) | Original script to download Garmin Connect data and GPX tracks | 333 | <https://github.com/kjkjava/garmin-connect-export> |
@@ -1854,15 +1854,15 @@
 | fit (Go) | Go package for decoding and encoding Garmin FIT files | 266 | <https://github.com/tormoder/fit> |
 | pydexcom | Python API to read Dexcom Share CGM data | 263 | <https://github.com/gagebenne/pydexcom> |
 | healthkit-to-sqlite | Convert an Apple HealthKit export zip to SQLite | 250 | <https://github.com/dogsheep/healthkit-to-sqlite> |
-| reverse-engineering-whoop-post | Write-up and code reverse engineering the WHOOP strap BLE protocol | 245 | <https://github.com/bWanShiTong/reverse-engineering-whoop-post> |
+| reverse-engineering-whoop-post | Write-up and code reverse engineering the WHOOP strap BLE protocol | 246 | <https://github.com/bWanShiTong/reverse-engineering-whoop-post> |
 | BlueMuse | Windows app streaming Muse EEG headset data via LSL | 241 | <https://github.com/kowalej/BlueMuse> |
 | Mi-Band | Mi Band BLE integration library for Android | 235 | <https://github.com/betomaluje/Mi-Band> |
 | fitdecode | FIT file parsing and decoding library for Python 3 | 219 | <https://github.com/polyvertex/fitdecode> |
 | ha_hatch | Home Assistant integration for Hatch Rest sleep devices | 198 | <https://github.com/dahlb/ha_hatch> |
 | garmin-connect (node) | Node.js client to get or set any Garmin Connect data point | 194 | <https://github.com/Pythe1337N/garmin-connect> |
 | watchfaceEditor | Amazfit Bip and Cor watchface viewer and editor | 185 | <https://github.com/v1ack/watchfaceEditor> |
-| ble-scale-sync | Universal BLE smart scale bridge for Renpho, Xiaomi, Eufy and other scales | 183 | <https://github.com/KristianP26/ble-scale-sync> |
-| noop | Offline WHOOP companion that pairs over BLE and keeps data local | 180 | <https://github.com/muftiarfan/noop> |
+| ble-scale-sync | Universal BLE smart scale bridge for Renpho, Xiaomi, Eufy and other scales | 184 | <https://github.com/KristianP26/ble-scale-sync> |
+| noop | Offline WHOOP companion that pairs over BLE and keeps data local | 184 | <https://github.com/muftiarfan/noop> |
 | atria | Local-first iOS companion app for WHOOP straps | 157 | <https://github.com/adidshaft/atria> |
 | RileyLink | Hardware bridge between Bluetooth and Medtronic/Omnipod pump radio protocols | 156 | <https://github.com/ps2/rileylink> |
 | CyKit | Stream raw Emotiv EEG headset data to browsers and clients | 155 | <https://github.com/CymatiCorp/CyKit> |
@@ -1880,7 +1880,7 @@
 | example-android-mi-band-2 | Android example of the Mi Band 2 BLE protocol and auth | 108 | <https://github.com/aashari/example-android-mi-band-2> |
 | vrc-osc-miband-hrm | Mi Band/Amazfit heart rate over BLE to VRChat via OSC | 107 | <https://github.com/vard88508/vrc-osc-miband-hrm> |
 | mindwave-python | Python parser for NeuroSky MindWave EEG headsets | 104 | <https://github.com/BarkleyUS/mindwave-python> |
-| OpenRayneo | Unofficial macOS Bluetooth bridge and local HTTP API for RayNeo iO glasses | 102 | <https://github.com/Tobi1chi/OpenRayneo> |
+| OpenRayneo | Unofficial macOS Bluetooth bridge and local HTTP API for RayNeo iO glasses | 104 | <https://github.com/Tobi1chi/OpenRayneo> |
 | dt78 | DT78 smartwatch BLE protocol reverse engineering | 100 | <https://github.com/fbiego/dt78> |
 | seiko | Seiko UC-2000 computer watch reverse engineering | 98 | <https://github.com/azya52/seiko> |
 | miband-5-heart-rate-monitor | Web Bluetooth heart rate monitor for Mi Band 4 and 5 | 96 | <https://github.com/Jaapp-/miband-5-heart-rate-monitor> |
@@ -1907,7 +1907,7 @@
 | pylotoncycle | Python library for Peloton workout data via its web API | 59 | <https://github.com/justmedude/pylotoncycle> |
 | etekcity_fitness_scale_ble | Home Assistant integration for Etekcity BLE fitness scales | 56 | <https://github.com/ronnnnnnnnnnnnn/etekcity_fitness_scale_ble> |
 | protocol | Reverse engineering smart ring protocols | 56 | <https://github.com/ringverse/protocol> |
-| fitface-studio | Browse, edit and install Galaxy Fit3 watch faces | 53 | <https://github.com/satvikgosai/fitface-studio> |
+| fitface-studio | Browse, edit and install Galaxy Fit3 watch faces | 54 | <https://github.com/satvikgosai/fitface-studio> |
 | BS440 | Python code to read the Medisana BS440 Bluetooth scale | 52 | <https://github.com/keptenkurk/BS440> |
 | garmin-ble | Talk to Garmin watches over their proprietary BLE protocol from Python | 48 | <https://github.com/gwerneckp/garmin-ble> |
 | GShockTimeServer | Python script to set time on Casio G-Shock watches over BLE | 48 | <https://github.com/izivkov/GShockTimeServer> |
@@ -1927,7 +1927,7 @@
 | MiBandDecompiled | Decompilation of the official Xiaomi Mi Band app | 30 | <https://github.com/vishnudevk/MiBandDecompiled> |
 | suuntool | Unofficial CLI for the Suunto cloud API | 30 | <https://github.com/tajchert/suuntool> |
 | storiesclient | Third-party Android client for Meta Ray-Ban Stories glasses via reverse-engineered protocol | 29 | <https://github.com/KonradIT/storiesclient> |
-| renpho_fitness_scale_ble | Home Assistant integration for Renpho ES-CS20M and other Renpho BLE scales | 27 | <https://github.com/ronnnnnnnnnnnnn/renpho_fitness_scale_ble> |
+| renpho_fitness_scale_ble | Home Assistant integration for Renpho ES-CS20M and other Renpho BLE scales | 28 | <https://github.com/ronnnnnnnnnnnnn/renpho_fitness_scale_ble> |
 | LivelierView | Reverse engineering the Sony Ericsson LiveView protocol | 24 | <https://github.com/BurntBrunch/LivelierView> |
 | pysnoo | Python library for the SNOO smart bassinet API | 24 | <https://github.com/rado0x54/pysnoo> |
 | MiDoze *(archived)* | Firmware fetcher for Huami/Amazfit wearables | 23 | <https://github.com/Keddnyo/MiDoze> |
@@ -1941,10 +1941,10 @@
 | GcpUploader | Python uploader for Garmin Connect | 17 | <https://github.com/dlotton/GcpUploader> |
 | alt-scount | Save Suunto Ambit moves without Moveslink and Movescount | 16 | <https://github.com/kekepins/alt-scount> |
 | coros-connect | Interact with the COROS API | 16 | <https://github.com/NYT87/coros-connect> |
+| garmin-bridge | Reverse-engineered BLE Garmin Fenix sync for Linux, no smartphone | 16 | <https://github.com/wh1le/garmin-bridge> |
 | AmbitSync | Android app reading Suunto Ambit watches and converting to GPX | 15 | <https://github.com/starryalley/AmbitSync> |
 | band10-toolkit | Source-first toolkit for custom Xiaomi Smart Band 10 watch faces: JSON layouts, validation, a React/SVG studio, anima... | 15 | <https://github.com/utsabfdahal/band10-toolkit> |
 | galileo | Python utility to sync Fitbit trackers with the Fitbit server | 15 | <https://github.com/benallard/galileo> |
-| garmin-bridge | Reverse-engineered BLE Garmin Fenix sync for Linux, no smartphone | 15 | <https://github.com/wh1le/garmin-bridge> |
 | renpho-api | Python client for fetching health data from the private Renpho API | 15 | <https://github.com/danvaneijck/renpho-api> |
 | whoop-reader | Python BLE reader documenting the Whoop 4.0 protocol | 15 | <https://github.com/christianmeurer/whoop-reader> |
 | zepp_to_influxdb | Pull Zepp/Mi Fit/Huami data into InfluxDB | 15 | <https://github.com/bentasker/zepp_to_influxdb> |
@@ -1977,15 +1977,15 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Flipper-IRDB | Large community collection of infrared remote codes for the Flipper Zero | 4,409 | <https://github.com/Lucaslhm/Flipper-IRDB> |
+| Flipper-IRDB | Large community collection of infrared remote codes for the Flipper Zero | 4,410 | <https://github.com/Lucaslhm/Flipper-IRDB> |
 | SmartIR | Home Assistant integration with a device-code database for IR/RF-controlled ACs, TVs and fans | 2,848 | <https://github.com/smartHomeHub/SmartIR> |
 | irdb | Large crowd-sourced, manufacturer-independent database of infrared remote control codes | 1,345 | <https://github.com/probonopd/irdb> |
 | zwave-js-ui | Z-Wave control panel and MQTT gateway built on zwave-js | 1,243 | <https://github.com/zwave-js/zwave-js-ui> |
-| zha-device-handlers | ZHA quirks database for Zigbee devices that deviate from the ZCL specification | 1,144 | <https://github.com/zigpy/zha-device-handlers> |
+| zha-device-handlers | ZHA quirks database for Zigbee devices that deviate from the ZCL specification | 1,145 | <https://github.com/zigpy/zha-device-handlers> |
 | zigpy | Python library implementing a Zigbee stack | 1,065 | <https://github.com/zigpy/zigpy> |
 | open-zwave | C++ library to control Z-Wave networks, with a device config database | 1,056 | <https://github.com/OpenZWave/open-zwave> |
 | zigbee-herdsman | Node.js Zigbee library used by Zigbee2MQTT | 568 | <https://github.com/Koenkk/zigbee-herdsman> |
-| zha-toolkit | Toolkit for low-level Zigbee operations in Home Assistant ZHA | 307 | <https://github.com/mdeweerd/zha-toolkit> |
+| zha-toolkit | Toolkit for low-level Zigbee operations in Home Assistant ZHA | 308 | <https://github.com/mdeweerd/zha-toolkit> |
 | broadlink-mqtt | MQTT client to control Broadlink IR/RF devices | 238 | <https://github.com/eschava/broadlink-mqtt> |
 | bellows | Python implementation of EZSP for Silicon Labs EmberZNet Zigbee radios | 221 | <https://github.com/zigpy/bellows> |
 | Theengs Gateway | BLE-to-MQTT gateway built on Theengs Decoder | 177 | <https://github.com/theengs/gateway> |

@@ -21,8 +21,8 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| inkscape-silhouette | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 680 | <https://github.com/fablabnbg/inkscape-silhouette> |
-| meerk40t | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 435 | <https://github.com/meerk40t/meerk40t> |
+| inkscape-silhouette | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 681 | <https://github.com/fablabnbg/inkscape-silhouette> |
+| meerk40t | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 436 | <https://github.com/meerk40t/meerk40t> |
 | pyLSV2 | Pure-Python implementation of Heidenhain's LSV2 CNC control protocol | 92 | <https://github.com/drunsinn/pyLSV2> |
 | cnc3018-offline-controller | Open-source firmware for the CNC3018 offline controller | 89 | <https://github.com/positron96/cnc3018-offline-controller> |
 | ruida-laser | Reverse-engineered protocol and file format of Ruida laser controllers (RDWorks, USB, Ethernet) | 64 | <https://github.com/jnweiger/ruida-laser> |
@@ -56,7 +56,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| secplus | Software implementation of the Chamberlain Security+ rolling-code garage door system | 315 | <https://github.com/argilo/secplus> |
+| secplus | Software implementation of the Chamberlain Security+ rolling-code garage door system | 316 | <https://github.com/argilo/secplus> |
 | iown-homecontrol | Documentation and implementation of the io-homecontrol radio protocol (Velux, Somfy) | 287 | <https://github.com/Velocet/iown-homecontrol> |
 | Somfy_Remote_Lib | Emulates a Somfy RTS remote with a 433.42 MHz transmitter | 158 | <https://github.com/Legion2/Somfy_Remote_Lib> |
 | HCPBridge | Emulates the Hörmann HAP 1 HCP2 bus module on ESP8266/ESP32 for garage doors | 102 | <https://github.com/hkiam/HCPBridge> |
@@ -76,7 +76,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| EMS-ESP32 | ESP32 firmware to read and control Bosch/Buderus/Nefit EMS and Heatronic boilers | 1,032 | <https://github.com/emsesp/EMS-ESP32> |
+| EMS-ESP32 | ESP32 firmware to read and control Bosch/Buderus/Nefit EMS and Heatronic boilers | 1,034 | <https://github.com/emsesp/EMS-ESP32> |
 | mitsubishi2MQTT | ESP8266 bridge from Mitsubishi heat pumps (CN105 port) to MQTT | 503 | <https://github.com/gysmo38/mitsubishi2MQTT> |
 | esphome_aux_ac_component | ESPHome component for AUX-based air conditioners via the reverse-engineered UART protocol | 376 | <https://github.com/GrKoR/esphome_aux_ac_component> |
 | BSB-LAN | Monitor and control Siemens-based Brötje/Elco/Atlantic heating over the BSB/LPB bus | 350 | <https://github.com/fredlcore/BSB-LAN> |
@@ -88,7 +88,7 @@
 | OTGW-firmware | ESP8266 firmware for the Nodoshop OpenTherm Gateway with MQTT and REST | 207 | <https://github.com/rvdbreemen/OTGW-firmware> |
 | haier-esphome | ESPHome integration for Haier air conditioners (smartAir2 and hOn protocols) | 177 | <https://github.com/paveldn/haier-esphome> |
 | lennoxs30 | Home Assistant integration for Lennox S30/S40/E30/M30 thermostats via local or cloud API | 144 | <https://github.com/PeteRager/lennoxs30> |
-| esp-arduino-ebus | ESP-based Wi-Fi firmware for eBUS adapter hardware | 133 | <https://github.com/danielkucera/esp-arduino-ebus> |
+| esp-arduino-ebus | ESP-based Wi-Fi firmware for eBUS adapter hardware | 134 | <https://github.com/danielkucera/esp-arduino-ebus> |
 | inetbox.py | Software implementation of a Truma iNet box for Truma CP Plus caravan heaters over LIN | 120 | <https://github.com/danielfett/inetbox.py> |
 | infinitive | Impersonates a SAM on the Carrier Infinity ABCD RS-485 bus for local control | 116 | <https://github.com/acd/infinitive> |
 | ESP_Buderus_KM271 | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 114 | <https://github.com/dewenni/ESP_Buderus_KM271> |
@@ -105,7 +105,7 @@
 | WPalaControl | D1 Mini replacement for the Palazzetti/Jotul/Godin stove ConnectionBox (Fumis serial protocol) | 76 | <https://github.com/Domochip/WPalaControl> |
 | Mitsubishi-CN105-Protocol-Decode | Documentation of the Mitsubishi CN105 protocol of Ecodan air-to-water heat pumps | 74 | <https://github.com/m000c400/Mitsubishi-CN105-Protocol-Decode> |
 | OneESP32ToRuleThemAll | Open-source ISG replacement for Stiebel Eltron/Tecalor heat pumps over CAN bus | 74 | <https://github.com/kr0ner/OneESP32ToRuleThemAll> |
-| taixia | Home Assistant integration for appliances using the Taiwanese TaiXia SA protocol | 73 | <https://github.com/tsunglung/taixia> |
+| taixia | Home Assistant integration for appliances using the Taiwanese TaiXia SA protocol | 74 | <https://github.com/tsunglung/taixia> |
 | AquaMQTT | Monitor and control Groupe Atlantic water heat pumps (Explorer, Calypso) via MQTT | 70 | <https://github.com/tspopp/AquaMQTT> |
 | oekofen-pellematic-compact | Home Assistant integration for ÖkoFEN Pellematic via its JSON/TCP interface | 70 | <https://github.com/dominikamann/oekofen-pellematic-compact> |
 | hass-WEM-Portal | Home Assistant component scraping the Weishaupt WEM Portal | 68 | <https://github.com/erikkastelec/hass-WEM-Portal> |

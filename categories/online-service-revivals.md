@@ -13,7 +13,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| NoLongerEvil Thermostat | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,874 | <https://github.com/codykociemba/NoLongerEvil-Thermostat> |
+| NoLongerEvil Thermostat | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,876 | <https://github.com/codykociemba/NoLongerEvil-Thermostat> |
 | Legacy Update | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,373 | <https://github.com/LegacyUpdate/LegacyUpdate> |
 | wire-pod | Free local server that replaces the cloud services of the Anki Vector robot | 829 | <https://github.com/kercre123/wire-pod> |
 | harmony-api | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | <https://github.com/maddox/harmony-api> |
@@ -41,7 +41,7 @@
 | Zurk's offline Chumby firmware | Offline firmware that keeps the classic Chumby working without its cloud service | 10 | <https://github.com/francistheodorecatte/zurks-offline-firmware-classic> |
 | webOS Community Edition | Community-maintained new release of legacy Palm/HP webOS for old devices | 9 | <https://github.com/webOSArchive/webOS-Community-Edition> |
 | JiboAutoMod | Modding software from the Jibo Revival Group to keep the Jibo robot working | 6 | <https://github.com/Jibo-Revival-Group/JiboAutoMod> |
-| Lunacy | Runtime that runs legacy webOS applications on Android | 5 | <https://github.com/webOSArchive/Lunacy> |
+| Lunacy | Runtime that runs legacy webOS applications on Android | 6 | <https://github.com/webOSArchive/Lunacy> |
 | PenumbraOS SDK *(archived)* | App SDK for PenumbraOS, which keeps the Humane Ai Pin usable after its cloud shutdown | 4 | <https://github.com/PenumbraOS/sdk> |
 | pinitd *(archived)* | Init system for PenumbraOS on the Humane Ai Pin | 3 | <https://github.com/PenumbraOS/pinitd> |
 | webOS App Catalog backend *(archived)* | PHP backend that restores the shut-down webOS App Catalog for legacy devices | 3 | <https://github.com/webOSArchive/webos-catalog-backend> |
@@ -55,13 +55,13 @@
 |---|---|--:|---|
 | OpenFusion | Server emulator for Cartoon Network's FusionFall MMO | 423 | <https://github.com/OpenFusionProject/OpenFusion> |
 | Havana | Java server that revives 2009-era Habbo Hotel v31 | 228 | <https://github.com/Quackster/Havana> |
-| qqpet_automation | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 194 | <https://github.com/xuemian168/qqpet_automation> |
+| qqpet_automation | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 203 | <https://github.com/xuemian168/qqpet_automation> |
 | Wand | Docker setup that bundles the Houdini Club Penguin private server and its services | 128 | <https://github.com/solero/wand> |
 | MQReawakened | Open source emulation of the Monkey Quest server backend | 96 | <https://github.com/FeroxFoxxo/MQReawakened> |
 | sodoff | School of Dragons server emulator | 79 | <https://github.com/SoDOff-Project/sodoff> |
 | classic-dungeon-blitz *(archived)* | Fan revival of the Dungeon Blitz Flash game | 75 | <https://github.com/db-preservation-contributors/classic-dungeon-blitz> |
 | Timeline | Club Penguin private server emulator in Python | 73 | <https://github.com/Times-0/Timeline> |
-| MoleWorld-5.5.0-touchHLE-offline | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 65 | <https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline> |
+| MoleWorld-5.5.0-touchHLE-offline | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 67 | <https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline> |
 | Yukon server | Server for Yukon, an HTML5 recreation of Club Penguin | 52 | <https://github.com/wizguin/yukon-server> |
 | Eleven Giants server | Game server that revives Tiny Speck's shut-down browser MMO Glitch | 48 | <https://github.com/ElevenGiants/eleven-server> |
 | Slippers | Club Penguin server emulator for the original 2005 client | 44 | <https://github.com/wizguin/slippers> |
@@ -91,7 +91,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| pkmn-classic-framework | Servers for Pokemon Gen IV/V online features such as the GTS | 290 | <https://github.com/mm201/pkmn-classic-framework> |
+| pkmn-classic-framework | Servers for Pokemon Gen IV/V online features such as the GTS | 291 | <https://github.com/mm201/pkmn-classic-framework> |
 | MH3SP | Server project that revives Monster Hunter Tri online play on Wii | 231 | <https://github.com/sepalani/MH3SP> |
 | WiiLink Patcher *(archived)* | Patcher that installs revived WiiConnect24 and Japanese Wii channels pointed at WiiLink | 218 | <https://github.com/WiiLink24/WiiLink24-Patcher> |
 | SatellaZone | Revival of the 3DS Nintendo Zone hotspot service | 155 | <https://github.com/Aftendo/SatellaZone> |
@@ -110,11 +110,11 @@
 | Pretendo Pokemon Gen 6 | Reimplemented game servers for Pokemon X/Y/Omega Ruby/Alpha Sapphire online features | 46 | <https://github.com/PretendoNetwork/pokemon-gen6> |
 | libmobile | Implementation of the Game Boy Mobile Adapter GB protocol for custom servers | 44 | <https://github.com/REONTeam/libmobile> |
 | WiiLink food-server | Revived backend for the Japanese Wii Demae (food delivery) Channel | 44 | <https://github.com/WiiLink24/food-server> |
-| Pretendo Mario Kart 7 | Reimplemented NEX game server for Mario Kart 7 on 3DS | 42 | <https://github.com/PretendoNetwork/mario-kart-7> |
 | Pretendo friends | Reimplemented Nintendo Network friends server for Wii U and 3DS | 41 | <https://github.com/PretendoNetwork/friends> |
+| Pretendo Mario Kart 7 | Reimplemented NEX game server for Mario Kart 7 on 3DS | 41 | <https://github.com/PretendoNetwork/mario-kart-7> |
 | RiiConnect24 Mail-Go *(archived)* | Go server the Wii uses to send and receive WiiConnect24 mail | 41 | <https://github.com/RiiConnect24/Mail-Go> |
+| Archiverse | Large archive and browser of Miiverse posts saved before shutdown | 38 | <https://github.com/PretendoNetwork/archiverse> |
 | WiiLink room-server | Revived backend for the Wii no Ma (Wii Room) Channel | 38 | <https://github.com/WiiLink24/room-server> |
-| Archiverse | Large archive and browser of Miiverse posts saved before shutdown | 37 | <https://github.com/PretendoNetwork/archiverse> |
 | nex-protocols-go | Go implementations of Nintendo NEX protocol definitions for replacement game servers | 37 | <https://github.com/PretendoNetwork/nex-protocols-go> |
 | Pretendo Super Mario Maker | Reimplemented NEX game server for Super Mario Maker on Wii U | 33 | <https://github.com/PretendoNetwork/super-mario-maker> |
 | wfc-patcher-wii | Runtime patcher that points Wii games at WiiLink WFC instead of dead Nintendo WFC | 32 | <https://github.com/WiiLink24/wfc-patcher-wii> |
@@ -123,7 +123,7 @@
 | Pretendo Grove *(archived)* | Replacement Wii U eShop UI | 30 | <https://github.com/PretendoNetwork/Grove> |
 | mitmproxy-nintendo | mitmproxy setup to intercept and inspect Nintendo console traffic | 25 | <https://github.com/PretendoNetwork/mitmproxy-nintendo> |
 | kwz-parser *(archived)* | Python parser for Flipnote Studio 3D's reverse-engineered .kwz format | 24 | <https://github.com/Flipnote-Collective/kwz-parser> |
-| Pretendo ACNL | Revival server for Animal Crossing: New Leaf online play | 23 | <https://github.com/PretendoNetwork/animal-crossing-new-leaf> |
+| Pretendo ACNL | Revival server for Animal Crossing: New Leaf online play | 24 | <https://github.com/PretendoNetwork/animal-crossing-new-leaf> |
 | ArduinoAdapterGB *(archived)* | Arduino emulation of the Mobile Adapter GB for real Game Boy hardware | 22 | <https://github.com/REONTeam/ArduinoAdapterGB> |
 | WiiLink NintendoChannel | File generator for the revived Wii Nintendo Channel | 21 | <https://github.com/WiiLink24/NintendoChannel> |
 | HokakuCafe | On-console Wii U network traffic dumper for protocol reverse engineering | 20 | <https://github.com/PretendoNetwork/HokakuCafe> |
@@ -195,7 +195,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| ProjectLighthouse | Clean-room open-source custom server for LittleBigPlanet | 258 | <https://github.com/LBPUnion/ProjectLighthouse> |
+| ProjectLighthouse | Clean-room open-source custom server for LittleBigPlanet | 259 | <https://github.com/LBPUnion/ProjectLighthouse> |
 | DreamPi | Raspberry Pi bridge between a Dreamcast dial-up modem and the internet | 142 | <https://github.com/Kazade/dreampi> |
 | PolarisServer | Phantasy Star Online 2 private server project in C# | 127 | <https://github.com/PolarisTeam/PolarisServer> |
 | MultiServer | Unified server suite for PlayStation Home, SVO, Medius and other PS2/PS3 online services | 61 | <https://github.com/GitHubProUser67/PSHome-MultiServer> |

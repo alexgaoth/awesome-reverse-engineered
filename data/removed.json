@@ -40,5 +40,29 @@
   "name": "QC-Native-Diag",
   "removed": "2026-10-12",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Chillu1/RimWorldDecompiled",
+  "name": "RimWorldDecompiled",
+  "removed": "2026-10-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/realdtn2/zalo-linux-2026",
+  "name": "zalo-linux-2026",
+  "removed": "2026-10-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://foo2zjs.rkkda.com",
+  "name": "foo2zjs",
+  "removed": "2026-10-13",
+  "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://git.ryujinx.app/ryubing/ryujinx",
+  "name": "Ryubing",
+  "removed": "2026-10-13",
+  "reason": "unreachable on 3 runs"
  }
 ]

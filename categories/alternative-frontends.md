@@ -51,22 +51,22 @@
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
 | Whoogle Search *(archived)* | Self-hosted ad-free Google search proxy that scrapes results | 11,567 | <https://github.com/benbusby/whoogle-search> |
-| Degoog | Search engine frontend that scrapes Google results | 2,376 | <https://github.com/degoog-org/degoog> |
-| Xtra | Twitch player and browser for Android using Twitch's GraphQL API | 2,300 | <https://github.com/crackededed/Xtra> |
-| Lingva Translate | Alternative frontend for Google Translate using scraped results | 1,851 | <https://github.com/thedaviddelta/lingva-translate> |
+| Degoog | Search engine frontend that scrapes Google results | 2,388 | <https://github.com/degoog-org/degoog> |
+| Xtra | Twitch player and browser for Android using Twitch's GraphQL API | 2,301 | <https://github.com/crackededed/Xtra> |
+| Lingva Translate | Alternative frontend for Google Translate using scraped results | 1,850 | <https://github.com/thedaviddelta/lingva-translate> |
 | Twire | Alternative open-source Twitch client for Android | 1,307 | <https://github.com/twireapp/Twire> |
 | pixiv-viewer | Third-party Pixiv viewer web app | 867 | <https://github.com/asadahimeka/pixiv-viewer> |
 | Freetar | Alternative frontend for Ultimate Guitar tabs | 784 | <https://github.com/kmille/freetar> |
 | Quetre | Libre frontend for Quora | 499 | <https://github.com/zyachel/quetre> |
-| libremdb | FOSS alternative frontend for IMDb | 441 | <https://github.com/zyachel/libremdb> |
+| libremdb | FOSS alternative frontend for IMDb | 438 | <https://github.com/zyachel/libremdb> |
 | Dumb | Private alternative frontend for Genius lyrics | 415 | <https://github.com/rramiachraf/dumb> |
 | AnonymousOverflow | Private Stack Overflow frontend without tracking | 380 | <https://github.com/httpjamesm/AnonymousOverflow> |
 | BiblioReads | Alternative privacy-focused Goodreads frontend | 353 | <https://github.com/nesaku/BiblioReads> |
-| LibreY | Privacy-respecting metasearch engine scraping Google and others | 323 | <https://github.com/Ahwxorg/LibreY> |
-| Binternet | Privacy-respecting Pinterest frontend | 303 | <https://github.com/Ahwxorg/Binternet> |
-| Priviblur | Lightweight privacy-respecting Tumblr frontend | 181 | <https://github.com/syeopite/priviblur> |
+| LibreY | Privacy-respecting metasearch engine scraping Google and others | 322 | <https://github.com/Ahwxorg/LibreY> |
+| Binternet | Privacy-respecting Pinterest frontend | 304 | <https://github.com/Ahwxorg/Binternet> |
+| Priviblur | Lightweight privacy-respecting Tumblr frontend | 179 | <https://github.com/syeopite/priviblur> |
 | Neuters | Lightweight alternative frontend for Reuters | 161 | <https://github.com/HookedBehemoth/neuters> |
-| Wayback Classic | Wayback Machine frontend for old browsers | 134 | <https://github.com/ticky/wayback-classic> |
+| Wayback Classic | Wayback Machine frontend for old browsers | 135 | <https://github.com/ticky/wayback-classic> |
 | LibMedium | Privacy-focused proxy frontend for Medium | 95 | <https://github.com/realaravinth/libmedium> |
 | Skyview | View Bluesky threads without an account | 88 | <https://github.com/badlogic/skyview> |
 | Intellectual | Alternative frontend for Genius focused on privacy and simplicity | 74 | <https://github.com/Insprill/intellectual> |
@@ -115,7 +115,7 @@
 |---|---|--:|---|
 | Troddit *(archived)* | Alternative web client for Reddit | 624 | <https://github.com/burhan-syed/troddit> |
 | lurker | Self-hostable, read-only Reddit client/frontend | 328 | <https://github.com/oppiliappan/lurker> |
-| Eddrit | Alternative Reddit frontend inspired by Nitter (Python, Starlette) | 191 | <https://github.com/corenting/eddrit> |
+| Eddrit | Alternative Reddit frontend inspired by Nitter (Python, Starlette) | 192 | <https://github.com/corenting/eddrit> |
 | rdx | Apollo-inspired anonymous web viewer for Reddit | 100 | <https://github.com/avadhesh18/rdx> |
 | Redmemo | Self-hosted, privacy-first Reddit frontend with a persistent archive — stealth API access keeps what it fetches, so y... | 6 | <https://github.com/Meeks233/Redmemo> |
 | Stealth | Account-free, privacy-oriented Reddit client for Android |  | <https://gitlab.com/cosmosapps/stealth> |
@@ -125,16 +125,16 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| searxng | Metasearch engine that scrapes and aggregates results from many search services | 38,270 | <https://github.com/searxng/searxng> |
+| searxng | Metasearch engine that scrapes and aggregates results from many search services | 38,333 | <https://github.com/searxng/searxng> |
 | searx | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,555 | <https://github.com/searx/searx> |
-| librex | JavaScript-free privacy meta search engine scraping Google and others (LibreX) | 847 | <https://github.com/hnhx/librex> |
+| librex | JavaScript-free privacy meta search engine scraping Google and others (LibreX) | 845 | <https://github.com/hnhx/librex> |
 | araa-search | Self-hosted privacy Google metasearch engine with API (scrapes Google results) | 333 | <https://github.com/Extravi/araa-search> |
 
 ## Tools & Instance Lists
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| sidestep | Android app that redirects social media links to alternative frontends | 126 | <https://github.com/blankdotdev/sidestep> |
+| sidestep | Android app that redirects social media links to alternative frontends | 125 | <https://github.com/blankdotdev/sidestep> |
 | frontends_manager *(archived)* | Host privacy frontends (Invidious, Redlib, Nitter, etc.) locally instead of public instances | 76 | <https://github.com/libredirect/frontends_manager> |
 | instances-list | Auto-updated list of alternative frontend instances | 51 | <https://github.com/NoPlagiarism/instances-list> |
 
@@ -155,7 +155,7 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| Squawker | Maintained fork of Fritter: account-free Twitter client for Android | 1,460 | <https://github.com/j-fbriere/squawker> |
+| Squawker | Maintained fork of Fritter: account-free Twitter client for Android | 1,457 | <https://github.com/j-fbriere/squawker> |
 | Fritter | Twitter client for Android using the guest/private web API, no account | 1,449 | <https://github.com/jonjomckay/fritter> |
 | Shitter | Alternative Twitter/X frontend |  | <https://codeberg.org/shitter/shitter> |
 
@@ -163,23 +163,23 @@
 
 | Name | What it is | ★ | Repo |
 |---|---|--:|---|
-| ytfzf | POSIX script to search and play YouTube videos without an API key | 4,156 | <https://github.com/pystardust/ytfzf> |
-| yattee | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,739 | <https://github.com/yattee/yattee> |
-| SkyTube | Open-source YouTube app for Android using NewPipeExtractor | 2,792 | <https://github.com/SkyTubeTeam/SkyTube> |
+| ytfzf | POSIX script to search and play YouTube videos without an API key | 4,157 | <https://github.com/pystardust/ytfzf> |
+| yattee | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,741 | <https://github.com/yattee/yattee> |
+| SkyTube | Open-source YouTube app for Android using NewPipeExtractor | 2,795 | <https://github.com/SkyTubeTeam/SkyTube> |
 | ViewTube | Privacy-friendly YouTube frontend that scrapes YouTube directly | 1,473 | <https://github.com/ViewTube/viewtube> |
-| youtube-viewer | Lightweight YouTube client for Linux (CLI and GTK) | 1,316 | <https://github.com/trizen/youtube-viewer> |
+| youtube-viewer | Lightweight YouTube client for Linux (CLI and GTK) | 1,315 | <https://github.com/trizen/youtube-viewer> |
 | Materialious | Material Design YouTube client built on the Invidious API | 1,214 | <https://github.com/Materialious/Materialious> |
 | Beatbump *(archived)* | Alternative YouTube Music frontend in SvelteKit using the internal API | 1,129 | <https://github.com/snuffyDev/Beatbump> |
 | my-yt | Clean, minimal self-hosted YouTube frontend | 1,073 | <https://github.com/christian-fei/my-yt> |
 | youtube-local | Browser-based YouTube client that fetches pages directly, no Google JS | 778 | <https://github.com/user234683/youtube-local> |
-| FreeTube PWA (FreeTubeCordova) | Android/PWA build of FreeTube, a private YouTube client | 775 | <https://github.com/MarmadileManteater/FreeTubeAndroid> |
+| FreeTube PWA (FreeTubeCordova) | Android/PWA build of FreeTube, a private YouTube client | 774 | <https://github.com/MarmadileManteater/FreeTubeAndroid> |
 | yt2009 | Recreation of the 2009 YouTube frontend backed by live YouTube data | 583 | <https://github.com/ftde0/yt2009> |
 | pipe-viewer | Lightweight YouTube client that scrapes YouTube without an API key | 516 | <https://github.com/trizen/pipe-viewer> |
-| ytify | Lightweight YouTube Music/YouTube audio streaming frontend | 456 | <https://github.com/n-ce/ytify> |
+| ytify | Lightweight YouTube Music/YouTube audio streaming frontend | 457 | <https://github.com/n-ce/ytify> |
 | invidious-companion | Invidious companion service handling YouTube video streams via youtube.js | 212 | <https://github.com/iv-org/invidious-companion> |
 | Piped-Material | Material Design frontend for the Piped YouTube proxy | 172 | <https://github.com/mmjee/Piped-Material> |
 | LightTube *(archived)* | Lightweight, privacy-respecting YouTube frontend using InnerTube | 141 | <https://github.com/lighttube-org/LightTube> |
-| OpenTubeX | Alternative YouTube frontend | 109 | <https://github.com/OpenTubeX/OpenTubeX> |
+| OpenTubeX | Alternative YouTube frontend | 111 | <https://github.com/OpenTubeX/OpenTubeX> |
 | Tubo | Streaming frontend for YouTube, SoundCloud and more built on NewPipeExtractor | 72 | <https://github.com/migalmoreno/tubo> |
 | invuedious | Vue.js alternative frontend for Invidious instances | 53 | <https://github.com/bocchilorenzo/invuedious> |
 | AudioTube | KDE YouTube Music client built on ytmusicapi |  | <https://invent.kde.org/multimedia/audiotube> |
