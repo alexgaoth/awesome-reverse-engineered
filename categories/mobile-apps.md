@@ -1,6 +1,8 @@
-# Mobile Apps
+# 📱 Mobile Apps
 
-[← All categories](../README.md) · 86 projects
+[← All categories](../README.md#-whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 86 projects
+
+Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Android Apps](#android-apps) (5)
 - [App Store Clients & Downloaders](#app-store-clients--downloaders) (23)
@@ -13,126 +15,126 @@
 
 ## Android Apps
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| SmartisanMusic-Revived | Revives the discontinued Smartisan Music app via reverse engineering and a modern rewrite | 420 | <https://github.com/Mangi-11/SmartisanMusic-Revived> |
-| ViPERFX_RE | Open reimplementation of the ViPER4Android FX audio effect library via reverse engineering | 334 | <https://github.com/AndroidAudioMods/ViPERFX_RE> |
-| drona | Reverse-engineered Inshorts Android app with modifications | 15 | <https://github.com/v-adhithyan/drona> |
-| nokia8-evenwell | Decompiled com.evenwell preinstalled packages on Nokia 8 phones revealing data collection | 12 | <https://github.com/julKali/nokia8-evenwell> |
-| 2022_beijing | Decompiled 2022 Beijing Olympics iOS/Android apps for privacy and security analysis | 0 | <https://github.com/jonathandata1/2022_beijing> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [SmartisanMusic-Revived](https://github.com/Mangi-11/SmartisanMusic-Revived) | Revives the discontinued Smartisan Music app via reverse engineering and a modern rewrite | 420 | 🟢 | Kotlin |
+| [ViPERFX_RE](https://github.com/AndroidAudioMods/ViPERFX_RE) | Open reimplementation of the ViPER4Android FX audio effect library via reverse engineering | 334 | 🟡 | C |
+| [drona](https://github.com/v-adhithyan/drona) | Reverse-engineered Inshorts Android app with modifications | 15 | 🔴 | Kotlin |
+| [nokia8-evenwell](https://github.com/julKali/nokia8-evenwell) | Decompiled com.evenwell preinstalled packages on Nokia 8 phones revealing data collection | 12 | 🔴 |  |
+| [2022_beijing](https://github.com/jonathandata1/2022_beijing) | Decompiled 2022 Beijing Olympics iOS/Android apps for privacy and security analysis | 0 | 🟢 | HTML |
 
 ## App Store Clients & Downloaders
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| ipatool | CLI that searches and downloads App Store IPAs using Apple's private store APIs | 11,655 | <https://github.com/majd/ipatool> |
-| YalpStore | Android app that downloads APKs directly from Google Play | 2,549 | <https://github.com/yeriomin/YalpStore> |
-| DLiPA | iOS app to download and install App Store IPAs, inspired by ipatool | 995 | <https://github.com/AhmedBafkir/DLiPA> |
-| googleplay-api *(archived)* | Unofficial Google Play Python API | 897 | <https://github.com/egirault/googleplay-api> |
-| raccoon4 | Raccoon: desktop APK downloader for Google Play | 757 | <https://github.com/onyxbits/raccoon4> |
-| ipatool-py | Python ipatool for downloading IPAs from the App Store | 730 | <https://github.com/NyaMisty/ipatool-py> |
-| ipaverse | macOS app to download, re-sign and sideload App Store apps | 674 | <https://github.com/bahattinkoc/ipaverse> |
-| gplaydl | Command-line Google Play APK downloader | 672 | <https://github.com/rehmatworks/gplaydl> |
-| IPARanger | GUI for ipatool on iOS | 442 | <https://github.com/0xkuj/IPARanger> |
-| Raccoon | Google Play desktop client (legacy Raccoon) | 346 | <https://github.com/onyxbits/Raccoon> |
-| apk-downloader | Chrome extension that downloads APKs from Google Play | 340 | <https://github.com/Lekensteyn/apk-downloader> |
-| ipatool.js | JavaScript implementation of ipatool | 311 | <https://github.com/wf021325/ipatool.js> |
-| gplay-apk-downloader | Downloads APK files directly from the Google Play Store | 300 | <https://github.com/alltechdev/gplay-apk-downloader> |
-| android-market-api-php *(archived)* | PHP implementation of the Android Market API | 235 | <https://github.com/vincentkoc/android-market-api-php> |
-| IPA_Downloader | Script to purchase and download App Store apps, including removed ones | 181 | <https://github.com/kda2495/IPA_Downloader> |
-| Google-Play-Store-API | Unofficial Google Play Store API | 159 | <https://github.com/thetutlage/Google-Play-Store-API> |
-| apkd *(archived)* | APK downloader for several stores | 137 | <https://github.com/kiber-io/apkd> |
-| ipatool-ios | On-device iOS command-line ipatool | 125 | <https://github.com/dlevi309/ipatool-ios> |
-| apkmirror-downloader | Downloads apps from APKMirror | 93 | <https://github.com/tanishqmanuja/apkmirror-downloader> |
-| ApplePackage | Swift library and CLI reimplementation of ipatool | 80 | <https://github.com/Lakr233/ApplePackage> |
-| SamsungApkDownloader | Downloads APKs from the Samsung Galaxy Store | 74 | <https://github.com/david-lev/SamsungApkDownloader> |
-| apkpure_get | APK downloader for apkpure.com | 61 | <https://github.com/0x27/apkpure_get> |
-| Aurora Store | Open-source Google Play client using the reverse-engineered Play protocol |  | <https://gitlab.com/AuroraOSS/AuroraStore> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [ipatool](https://github.com/majd/ipatool) | CLI that searches and downloads App Store IPAs using Apple's private store APIs | 11,655 | 🟢 | Go |
+| [YalpStore](https://github.com/yeriomin/YalpStore) | Android app that downloads APKs directly from Google Play | 2,549 | 🔴 | Java |
+| [DLiPA](https://github.com/AhmedBafkir/DLiPA) | iOS app to download and install App Store IPAs, inspired by ipatool | 995 | 🟢 |  |
+| [googleplay-api](https://github.com/egirault/googleplay-api) | Unofficial Google Play Python API | 897 | 🗄️ | Python |
+| [raccoon4](https://github.com/onyxbits/raccoon4) | Raccoon: desktop APK downloader for Google Play | 757 | 🟡 | Java |
+| [ipatool-py](https://github.com/NyaMisty/ipatool-py) | Python ipatool for downloading IPAs from the App Store | 730 | 🟢 | Python |
+| [ipaverse](https://github.com/bahattinkoc/ipaverse) | macOS app to download, re-sign and sideload App Store apps | 674 | 🟢 | Swift |
+| [gplaydl](https://github.com/rehmatworks/gplaydl) | Command-line Google Play APK downloader | 672 | 🟢 | Python |
+| [IPARanger](https://github.com/0xkuj/IPARanger) | GUI for ipatool on iOS | 442 | 🟢 | Objective-C |
+| [Raccoon](https://github.com/onyxbits/Raccoon) | Google Play desktop client (legacy Raccoon) | 346 | 🔴 | Java |
+| [apk-downloader](https://github.com/Lekensteyn/apk-downloader) | Chrome extension that downloads APKs from Google Play | 340 | 🟡 | JavaScript |
+| [ipatool.js](https://github.com/wf021325/ipatool.js) | JavaScript implementation of ipatool | 311 | 🟢 | JavaScript |
+| [gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) | Downloads APK files directly from the Google Play Store | 300 | 🟢 | Python |
+| [android-market-api-php](https://github.com/vincentkoc/android-market-api-php) | PHP implementation of the Android Market API | 235 | 🗄️ | PHP |
+| [IPA_Downloader](https://github.com/kda2495/IPA_Downloader) | Script to purchase and download App Store apps, including removed ones | 181 | 🟢 | PowerShell |
+| [Google-Play-Store-API](https://github.com/thetutlage/Google-Play-Store-API) | Unofficial Google Play Store API | 159 | 🔴 | PHP |
+| [apkd](https://github.com/kiber-io/apkd) | APK downloader for several stores | 137 | 🗄️ | Python |
+| [ipatool-ios](https://github.com/dlevi309/ipatool-ios) | On-device iOS command-line ipatool | 125 | 🟡 | Swift |
+| [apkmirror-downloader](https://github.com/tanishqmanuja/apkmirror-downloader) | Downloads apps from APKMirror | 93 | 🟢 | TypeScript |
+| [ApplePackage](https://github.com/Lakr233/ApplePackage) | Swift library and CLI reimplementation of ipatool | 80 | 🟢 | Swift |
+| [SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) | Downloads APKs from the Samsung Galaxy Store | 74 | 🔴 | Python |
+| [apkpure_get](https://github.com/0x27/apkpure_get) | APK downloader for apkpure.com | 61 | 🔴 | Python |
+| [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) | Open-source Google Play client using the reverse-engineered Play protocol |  | ⚪ |  |
 
 ## Banking & Finance Apps
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| TradeRepublicApi | Unofficial Trade Republic API client | 394 | <https://github.com/Zarathustra2/TradeRepublicApi> |
-| n26 | API client and CLI for N26 bank accounts | 196 | <https://github.com/guitmz/n26> |
-| Scalable-Capital-Transactions-Exporter | Userscript that exports Scalable Capital transactions to CSV | 21 | <https://github.com/matthesvoss/Scalable-Capital-Transactions-Exporter> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [TradeRepublicApi](https://github.com/Zarathustra2/TradeRepublicApi) | Unofficial Trade Republic API client | 394 | 🔴 | Python |
+| [n26](https://github.com/guitmz/n26) | API client and CLI for N26 bank accounts | 196 | 🟡 | Go |
+| [Scalable-Capital-Transactions-Exporter](https://github.com/matthesvoss/Scalable-Capital-Transactions-Exporter) | Userscript that exports Scalable Capital transactions to CSV | 21 | 🟢 | JavaScript |
 
 ## Fitness & Education Apps
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| zwift-offline | Offline server reimplementation for the Zwift cycling app | 1,390 | <https://github.com/zoffline/zwift-offline> |
-| peloton-to-garmin | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | <https://github.com/philosowaffle/peloton-to-garmin> |
-| nrc-exporter | Downloads Nike Run Club runs via its private API and converts to GPX | 164 | <https://github.com/yasoob/nrc-exporter> |
-| garmin-connect *(archived)* | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | <https://github.com/abrander/garmin-connect> |
-| yazio-mcp | Unofficial MCP server for Yazio nutrition data | 64 | <https://github.com/fliptheweb/yazio-mcp> |
-| cronometer-api-mcp | MCP server for Cronometer nutrition tracking via the mobile REST API | 62 | <https://github.com/rwestergren/cronometer-api-mcp> |
-| zwift-client | Python client for the Zwift mobile API | 62 | <https://github.com/jsmits/zwift-client> |
-| crono-vision | Photo food logging via Cronometer's undocumented mobile API (CLI and serverless) | 34 | <https://github.com/felixmelanson/crono-vision> |
-| mywhoosh-api | Unofficial API documentation for the MyWhoosh cycling app | 16 | <https://github.com/mywhoosh-community/mywhoosh-api> |
-| duobot | Duolingo automation built on the reverse-engineered Android app API | 4 | <https://github.com/mc51/duobot> |
-| pypeloton | Sync and async Python client for the Peloton API | 2 | <https://github.com/raman325/pypeloton> |
-| Duolingo | Unofficial Duolingo API in Python | 0 | <https://github.com/idefux/Duolingo> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [zwift-offline](https://github.com/zoffline/zwift-offline) | Offline server reimplementation for the Zwift cycling app | 1,390 | 🟢 | Python |
+| [peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | 🟢 | C# |
+| [nrc-exporter](https://github.com/yasoob/nrc-exporter) | Downloads Nike Run Club runs via its private API and converts to GPX | 164 | 🟢 | Python |
+| [garmin-connect](https://github.com/abrander/garmin-connect) | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | 🗄️ | Go |
+| [yazio-mcp](https://github.com/fliptheweb/yazio-mcp) | Unofficial MCP server for Yazio nutrition data | 64 | 🟢 | JavaScript |
+| [cronometer-api-mcp](https://github.com/rwestergren/cronometer-api-mcp) | MCP server for Cronometer nutrition tracking via the mobile REST API | 62 | 🟢 | Python |
+| [zwift-client](https://github.com/jsmits/zwift-client) | Python client for the Zwift mobile API | 62 | 🟢 | Python |
+| [crono-vision](https://github.com/felixmelanson/crono-vision) | Photo food logging via Cronometer's undocumented mobile API (CLI and serverless) | 34 | 🟢 | Python |
+| [mywhoosh-api](https://github.com/mywhoosh-community/mywhoosh-api) | Unofficial API documentation for the MyWhoosh cycling app | 16 | 🟢 |  |
+| [duobot](https://github.com/mc51/duobot) | Duolingo automation built on the reverse-engineered Android app API | 4 | 🟡 | Python |
+| [pypeloton](https://github.com/raman325/pypeloton) | Sync and async Python client for the Peloton API | 2 | 🟡 | Python |
+| [Duolingo](https://github.com/idefux/Duolingo) | Unofficial Duolingo API in Python | 0 | 🔴 | Python |
 
 ## Other
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| openDoJa | Clean-room reimplementation of NTT DoCoMo's DoJa 5.1 i-appli runtime | 74 | <https://github.com/GrenderG/openDoJa> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [openDoJa](https://github.com/GrenderG/openDoJa) | Clean-room reimplementation of NTT DoCoMo's DoJa 5.1 i-appli runtime | 74 | 🟢 | Java |
 
 ## Patched & Alternative Clients
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| revanced-manager | ReVanced Manager: Android app that patches apps with ReVanced patches | 29,822 | <https://github.com/ReVanced/revanced-manager> |
-| Metrolist | YouTube Music client for Android using the InnerTube API | 13,468 | <https://github.com/MetrolistGroup/Metrolist> |
-| LibreTube | Alternative YouTube frontend for Android using Piped | 12,810 | <https://github.com/libre-tube/LibreTube> |
-| morphe-manager | Morphe: Android app patcher derived from ReVanced | 8,928 | <https://github.com/MorpheApp/morphe-manager> |
-| VancedManager *(archived)* | Installer for YouTube Vanced, the patched YouTube client (archived) | 8,132 | <https://github.com/TeamVanced/VancedManager> |
-| revanced-magisk-module | Builds ReVanced APKs and Magisk modules daily | 7,679 | <https://github.com/j-hc/revanced-magisk-module> |
-| uYouPlus *(archived)* | Tweaked YouTube app for iOS with background play and no ads | 7,583 | <https://github.com/qnblackcat/uYouPlus> |
-| PipePipe | NewPipe-based client for YouTube, Bilibili and other services | 6,957 | <https://github.com/InfinityLoop1308/PipePipe> |
-| InnerTune | Material 3 YouTube Music client for Android using the InnerTube API | 6,119 | <https://github.com/z-huang/InnerTune> |
-| Infinity-For-Reddit | Infinity: third-party Reddit client for Android | 5,530 | <https://github.com/Docile-Alligator/Infinity-For-Reddit> |
-| revanced-patches-template | Template for writing ReVanced patches | 4,612 | <https://github.com/ReVanced/revanced-patches-template> |
-| morphe-patches | Patch collection for the Morphe patcher | 4,059 | <https://github.com/MorpheApp/morphe-patches> |
-| revanced-patcher | Bytecode patcher library behind ReVanced | 3,522 | <https://github.com/ReVanced/revanced-patcher> |
-| YTMusicUltimate | The best tweak for YouTube Music iOS. | 2,621 | <https://github.com/dayanch96/YTMusicUltimate> |
-| revanced-patches *(archived)* | ReVanced Extended patches for YouTube and YouTube Music (archived) | 2,272 | <https://github.com/inotia00/revanced-patches> |
-| ZerotierFix | Unofficial ZeroTier Android client patched from the official client | 2,214 | <https://github.com/kaaass/ZerotierFix> |
-| revanced-patches | Third-party ReVanced patch collection | 1,901 | <https://github.com/anddea/revanced-patches> |
-| continuum | Continuation of Infinity for Reddit using user-supplied API keys | 1,675 | <https://github.com/cygnusx-1-org/continuum> |
-| revanced-cli | Command-line tool for applying ReVanced patches to APKs | 1,600 | <https://github.com/ReVanced/revanced-cli> |
-| Apollo-Reborn | iOS tweak that revives the Apollo Reddit app with user API keys and unlocked features | 1,428 | <https://github.com/Apollo-Reborn/Apollo-Reborn> |
-| instafel | Instafel: patched Instagram alpha builds with extra features | 1,271 | <https://github.com/mamiiblt/instafel> |
-| revanced-integrations *(archived)* | Classes merged into patched apps by the ReVanced patcher (archived) | 744 | <https://github.com/ReVanced/revanced-integrations> |
-| rvx-builder *(archived)* | Node.js builder for ReVanced Extended APKs (archived) | 717 | <https://github.com/inotia00/rvx-builder> |
-| ytermusic | Terminal YouTube Music client | 699 | <https://github.com/ccgauche/ytermusic> |
-| lite *(archived)* | Modified VK Android client | 634 | <https://github.com/vtosters/lite> |
-| RedditFilter | iOS tweak that filters unwanted content from the Reddit app | 368 | <https://github.com/level3tjg/RedditFilter> |
-| WhatsAppPatcher | Decompiles the WhatsApp APK, patches smali, recompiles and signs it | 262 | <https://github.com/Schwartzblat/WhatsAppPatcher> |
-| Square | Unofficial YouTube Music / Spotify client for Android with audio effects | 151 | <https://github.com/Lelonio/Square> |
-| revanced-library | Shared utilities library for ReVanced tools | 140 | <https://github.com/ReVanced/revanced-library> |
-| GoogleDialerMod-Magisk *(archived)* | Magisk module tweaking Google Dialer hidden features | 136 | <https://github.com/jacopotediosi/GoogleDialerMod-Magisk> |
-| privacy-revanced-patches *(archived)* | ReVanced patches that disable ads, trackers and analytics in apps | 129 | <https://github.com/jkennethcarino/privacy-revanced-patches> |
-| ForPDA | Alternative Android client for the 4pda.ru forum | 116 | <https://github.com/RadiationX/ForPDA> |
-| mitch | Unofficial Android client for itch.io | 116 | <https://github.com/gardenappl/mitch> |
-| anixapp | Fast anime client built on the Anixart API | 97 | <https://github.com/Maks1mio/anixapp> |
-| arcore-patch *(archived)* | Patch to run ARCore Preview 2 on unsupported devices | 85 | <https://github.com/thestr4ng3r/arcore-patch> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [revanced-manager](https://github.com/ReVanced/revanced-manager) | ReVanced Manager: Android app that patches apps with ReVanced patches | 29,822 | 🟢 | Kotlin |
+| [Metrolist](https://github.com/MetrolistGroup/Metrolist) | YouTube Music client for Android using the InnerTube API | 13,468 | 🟢 | Kotlin |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | Alternative YouTube frontend for Android using Piped | 12,810 | 🟢 | Kotlin |
+| [morphe-manager](https://github.com/MorpheApp/morphe-manager) | Morphe: Android app patcher derived from ReVanced | 8,928 | 🟢 | Kotlin |
+| [VancedManager](https://github.com/TeamVanced/VancedManager) | Installer for YouTube Vanced, the patched YouTube client (archived) | 8,132 | 🗄️ | Kotlin |
+| [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) | Builds ReVanced APKs and Magisk modules daily | 7,679 | 🟢 | Shell |
+| [uYouPlus](https://github.com/qnblackcat/uYouPlus) | Tweaked YouTube app for iOS with background play and no ads | 7,583 | 🗄️ | Logos |
+| [PipePipe](https://github.com/InfinityLoop1308/PipePipe) | NewPipe-based client for YouTube, Bilibili and other services | 6,957 | 🟢 | Shell |
+| [InnerTune](https://github.com/z-huang/InnerTune) | Material 3 YouTube Music client for Android using the InnerTube API | 6,119 | 🟢 | Kotlin |
+| [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Infinity: third-party Reddit client for Android | 5,530 | 🟢 | Java |
+| [revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) | Template for writing ReVanced patches | 4,612 | 🟢 | Kotlin |
+| [morphe-patches](https://github.com/MorpheApp/morphe-patches) | Patch collection for the Morphe patcher | 4,059 | 🟢 | Java |
+| [revanced-patcher](https://github.com/ReVanced/revanced-patcher) | Bytecode patcher library behind ReVanced | 3,522 | 🟢 | Kotlin |
+| [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | The best tweak for YouTube Music iOS. | 2,621 | 🟢 | C |
+| [revanced-patches](https://github.com/inotia00/revanced-patches) | ReVanced Extended patches for YouTube and YouTube Music (archived) | 2,272 | 🗄️ | Java |
+| [ZerotierFix](https://github.com/kaaass/ZerotierFix) | Unofficial ZeroTier Android client patched from the official client | 2,214 | 🟡 | Java |
+| [revanced-patches](https://github.com/anddea/revanced-patches) | Third-party ReVanced patch collection | 1,901 | 🟢 | Java |
+| [continuum](https://github.com/cygnusx-1-org/continuum) | Continuation of Infinity for Reddit using user-supplied API keys | 1,675 | 🟢 | Java |
+| [revanced-cli](https://github.com/ReVanced/revanced-cli) | Command-line tool for applying ReVanced patches to APKs | 1,600 | 🟢 | Kotlin |
+| [Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) | iOS tweak that revives the Apollo Reddit app with user API keys and unlocked features | 1,428 | 🟢 | Logos |
+| [instafel](https://github.com/mamiiblt/instafel) | Instafel: patched Instagram alpha builds with extra features | 1,271 | 🟢 | Java |
+| [revanced-integrations](https://github.com/ReVanced/revanced-integrations) | Classes merged into patched apps by the ReVanced patcher (archived) | 744 | 🗄️ | Java |
+| [rvx-builder](https://github.com/inotia00/rvx-builder) | Node.js builder for ReVanced Extended APKs (archived) | 717 | 🗄️ | JavaScript |
+| [ytermusic](https://github.com/ccgauche/ytermusic) | Terminal YouTube Music client | 699 | 🟢 | Rust |
+| [lite](https://github.com/vtosters/lite) | Modified VK Android client | 634 | 🗄️ | Smali |
+| [RedditFilter](https://github.com/level3tjg/RedditFilter) | iOS tweak that filters unwanted content from the Reddit app | 368 | 🟡 | Logos |
+| [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) | Decompiles the WhatsApp APK, patches smali, recompiles and signs it | 262 | 🟢 | Java |
+| [Square](https://github.com/Lelonio/Square) | Unofficial YouTube Music / Spotify client for Android with audio effects | 151 | 🟢 | Kotlin |
+| [revanced-library](https://github.com/ReVanced/revanced-library) | Shared utilities library for ReVanced tools | 140 | 🟢 | Kotlin |
+| [GoogleDialerMod-Magisk](https://github.com/jacopotediosi/GoogleDialerMod-Magisk) | Magisk module tweaking Google Dialer hidden features | 136 | 🗄️ | Shell |
+| [privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) | ReVanced patches that disable ads, trackers and analytics in apps | 129 | 🗄️ | Kotlin |
+| [ForPDA](https://github.com/RadiationX/ForPDA) | Alternative Android client for the 4pda.ru forum | 116 | 🟢 | Kotlin |
+| [mitch](https://github.com/gardenappl/mitch) | Unofficial Android client for itch.io | 116 | 🟡 | Kotlin |
+| [anixapp](https://github.com/Maks1mio/anixapp) | Fast anime client built on the Anixart API | 97 | 🟢 | Svelte |
+| [arcore-patch](https://github.com/thestr4ng3r/arcore-patch) | Patch to run ARCore Preview 2 on unsupported devices | 85 | 🗄️ | Shell |
 
 ## Transport & Delivery Apps
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| Transportr | Free public transport app built on public-transport-enabler's reverse-engineered APIs | 1,169 | <https://github.com/grote/Transportr> |
-| WoBike | Documentation of reverse-engineered bike- and scooter-sharing app APIs | 1,016 | <https://github.com/ubahnverleih/WoBike> |
-| public-transport-enabler | Java library for public transport data from reverse-engineered transit app backends | 454 | <https://github.com/schildbach/public-transport-enabler> |
-| tripkit | Swift library querying public transport provider backends | 110 | <https://github.com/alexander-albers/tripkit> |
-| db-hafas | JavaScript client for the Deutsche Bahn HAFAS mobile API | 81 | <https://github.com/public-transport/db-hafas> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [Transportr](https://github.com/grote/Transportr) | Free public transport app built on public-transport-enabler's reverse-engineered APIs | 1,169 | 🟢 | Kotlin |
+| [WoBike](https://github.com/ubahnverleih/WoBike) | Documentation of reverse-engineered bike- and scooter-sharing app APIs | 1,016 | 🟢 |  |
+| [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) | Java library for public transport data from reverse-engineered transit app backends | 454 | 🟢 | Java |
+| [tripkit](https://github.com/alexander-albers/tripkit) | Swift library querying public transport provider backends | 110 | 🟢 | Swift |
+| [db-hafas](https://github.com/public-transport/db-hafas) | JavaScript client for the Deutsche Bahn HAFAS mobile API | 81 | 🟡 | JavaScript |
 
 ## iOS Dumping & Decryption
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| Clutch | Fast iOS executable dumper | 3,828 | <https://github.com/KJCracks/Clutch> |
-| fd-back | Single-file Frida runtime with one-click iOS app dumping | 250 | <https://github.com/aadog/fd-back> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [Clutch](https://github.com/KJCracks/Clutch) | Fast iOS executable dumper | 3,828 | 🟡 | Objective-C |
+| [fd-back](https://github.com/aadog/fd-back) | Single-file Frida runtime with one-click iOS app dumping | 250 | 🟡 | Go |

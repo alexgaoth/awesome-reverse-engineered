@@ -1,6 +1,8 @@
-# Unofficial Web/App API Clients
+# 🔌 Unofficial Web/App API Clients
 
-[← All categories](../README.md) · 653 projects
+[← All categories](../README.md#-whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 653 projects
+
+Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Books, Reading & Learning](#books-reading--learning) (22)
 - [Dating](#dating) (13)
@@ -20,728 +22,728 @@
 
 ## Books, Reading & Learning
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| coursera-dl | Downloads Coursera lecture videos and materials for enrolled courses | 9,656 | <https://github.com/coursera-dl/coursera-dl> |
-| vscode-leetcode | VS Code extension to solve LeetCode problems through its web API | 8,502 | <https://github.com/LeetCode-OpenSource/vscode-leetcode> |
-| leetcode-cli | CLI for LeetCode using its web/GraphQL endpoints | 3,869 | <https://github.com/skygragon/leetcode-cli> |
-| edx-dl | Downloads edX / Open edX lecture videos for enrolled courses | 1,962 | <https://github.com/coursera-dl/edx-dl> |
-| openaudible | Desktop audiobook manager for Audible users that downloads and converts titles | 1,847 | <https://github.com/openaudible/openaudible> |
-| obsidian-kindle-plugin | Syncs Kindle highlights into Obsidian by reading Amazon's notebook pages | 1,285 | <https://github.com/hadynz/obsidian-kindle-plugin> |
-| alfa-leetcode-api | REST API wrapping LeetCode's private GraphQL for profiles, contests and problems | 834 | <https://github.com/alfaarghya/alfa-leetcode-api> |
-| audible-cli | CLI on top of the Audible private API for downloading your library, covers and chapters | 804 | <https://github.com/mkb79/audible-cli> |
-| leetcode-cli | Rust LeetCode CLI built on LeetCode's private GraphQL API | 498 | <https://github.com/clearloop/leetcode-cli> |
-| odmpy | CLI manager for OverDrive/Libby loans using the Libby app API | 461 | <https://github.com/ping/odmpy> |
-| Audible | Sync/async Python interface to Audible's internal API with device registration | 416 | <https://github.com/mkb79/Audible> |
-| goodreads-scraper | Python scraper for Goodreads books and reviews | 309 | <https://github.com/maria-antoniak/goodreads-scraper> |
-| ao3_api | Unofficial Archive of Our Own (AO3) API for Python | 291 | <https://github.com/wendytg/ao3_api> |
-| substack_api | Unofficial Python wrapper for Substack's internal API | 229 | <https://github.com/NHagar/substack_api> |
-| piazza-api | Unofficial client for Piazza's internal API | 213 | <https://github.com/hfaran/piazza-api> |
-| libby-calibre-plugin | calibre plugin that borrows and downloads Libby/OverDrive loans | 134 | <https://github.com/ping/libby-calibre-plugin> |
-| substack-api | TypeScript client for Substack publications, posts and comments via its private API | 97 | <https://github.com/jakub-k-slys/substack-api> |
-| codersgym | Unofficial Flutter client for LeetCode | 74 | <https://github.com/GouravShDev/codersgym> |
-| gradescope-api | Unofficial Python API for Gradescope | 35 | <https://github.com/apozharski/gradescope-api> |
-| infinite-campus | Unofficial Node.js API for Infinite Campus student portal | 34 | <https://github.com/tonyzimbinski/infinite-campus> |
-| storygraph-api | Netlify functions that scrape StoryGraph profiles into an API | 15 | <https://github.com/xdesro/storygraph-api> |
-| schoolsoft-api-app | Reverse-engineered SchoolSoft API used by the Swedish school app | 14 | <https://github.com/Blatzar/schoolsoft-api-app> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [coursera-dl](https://github.com/coursera-dl/coursera-dl) | Downloads Coursera lecture videos and materials for enrolled courses | 9,656 | 🟡 | Python |
+| [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) | VS Code extension to solve LeetCode problems through its web API | 8,502 | 🟡 | TypeScript |
+| [leetcode-cli](https://github.com/skygragon/leetcode-cli) | CLI for LeetCode using its web/GraphQL endpoints | 3,869 | 🟢 | JavaScript |
+| [edx-dl](https://github.com/coursera-dl/edx-dl) | Downloads edX / Open edX lecture videos for enrolled courses | 1,962 | 🔴 | HTML |
+| [openaudible](https://github.com/openaudible/openaudible) | Desktop audiobook manager for Audible users that downloads and converts titles | 1,847 | 🟢 | Java |
+| [obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) | Syncs Kindle highlights into Obsidian by reading Amazon's notebook pages | 1,285 | 🟢 | TypeScript |
+| [alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api) | REST API wrapping LeetCode's private GraphQL for profiles, contests and problems | 834 | 🟢 | TypeScript |
+| [audible-cli](https://github.com/mkb79/audible-cli) | CLI on top of the Audible private API for downloading your library, covers and chapters | 804 | 🟢 | Python |
+| [leetcode-cli](https://github.com/clearloop/leetcode-cli) | Rust LeetCode CLI built on LeetCode's private GraphQL API | 498 | 🟢 | Rust |
+| [odmpy](https://github.com/ping/odmpy) | CLI manager for OverDrive/Libby loans using the Libby app API | 461 | 🟡 | Python |
+| [Audible](https://github.com/mkb79/Audible) | Sync/async Python interface to Audible's internal API with device registration | 416 | 🟢 | Python |
+| [goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) | Python scraper for Goodreads books and reviews | 309 | 🟡 | Jupyter Notebook |
+| [ao3_api](https://github.com/wendytg/ao3_api) | Unofficial Archive of Our Own (AO3) API for Python | 291 | 🟡 | Python |
+| [substack_api](https://github.com/NHagar/substack_api) | Unofficial Python wrapper for Substack's internal API | 229 | 🟢 | Python |
+| [piazza-api](https://github.com/hfaran/piazza-api) | Unofficial client for Piazza's internal API | 213 | 🟢 | Python |
+| [libby-calibre-plugin](https://github.com/ping/libby-calibre-plugin) | calibre plugin that borrows and downloads Libby/OverDrive loans | 134 | 🟡 | Python |
+| [substack-api](https://github.com/jakub-k-slys/substack-api) | TypeScript client for Substack publications, posts and comments via its private API | 97 | 🟢 | TypeScript |
+| [codersgym](https://github.com/GouravShDev/codersgym) | Unofficial Flutter client for LeetCode | 74 | 🟢 | Dart |
+| [gradescope-api](https://github.com/apozharski/gradescope-api) | Unofficial Python API for Gradescope | 35 | 🔴 | Python |
+| [infinite-campus](https://github.com/tonyzimbinski/infinite-campus) | Unofficial Node.js API for Infinite Campus student portal | 34 | 🟡 | JavaScript |
+| [storygraph-api](https://github.com/xdesro/storygraph-api) | Netlify functions that scrape StoryGraph profiles into an API | 15 | 🟡 | JavaScript |
+| [schoolsoft-api-app](https://github.com/Blatzar/schoolsoft-api-app) | Reverse-engineered SchoolSoft API used by the Swedish school app | 14 | 🔴 | Python |
 
 ## Dating
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| pynder | Python client for tinder api | 633 | <https://github.com/charliewolf/pynder> |
-| hinge-ts | Reverse-engineered TypeScript SDK for the Hinge dating app API | 133 | <https://github.com/wrsrsh/hinge-ts> |
-| python_TinderAPI *(archived)* | Tinder API 2019 - Python bindings | 76 | <https://github.com/MMcintire96/python_TinderAPI> |
-| tinderjs | Node package providing programmatic access to the Tinder API | 76 | <https://github.com/tinderjs/tinderjs> |
-| squeaky-hinge | Reverse-engineered Hinge API client for more reliable notifications | 44 | <https://github.com/radian-software/squeaky-hinge> |
-| open-grind | Read-only mirror of Open Grind, an unofficial Grindr client | 41 | <https://github.com/VityaSchel/open-grind> |
-| tinder-api-wrapper | Reverse engineered the private Tinder API and wrapped it in Python | 24 | <https://github.com/yoimnik/tinder-api-wrapper> |
-| bumapi | Unofficial Bumble API | 19 | <https://github.com/hpats/bumapi> |
-| bumble-api | Reverse engineering the API of bumble.com | 13 | <https://github.com/henrydatei/bumble-api> |
-| tinder-api-docs | Unoffical documentation of the Tinder API | 10 | <https://github.com/rednit-team/tinder-api-docs> |
-| hinge-client | Unofficial API client for the Hinge dating app | 9 | <https://github.com/Stupidoodle/hinge-client> |
-| pymble | Unofficial Bumble API for Python | 9 | <https://github.com/SirWyv3r/pymble> |
-| node-tinder | API Wrapper for Tinder | 0 | <https://github.com/jzarca01/node-tinder> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [pynder](https://github.com/charliewolf/pynder) | Python client for tinder api | 633 | 🔴 | Python |
+| [hinge-ts](https://github.com/wrsrsh/hinge-ts) | Reverse-engineered TypeScript SDK for the Hinge dating app API | 133 | 🟢 | TypeScript |
+| [python_TinderAPI](https://github.com/MMcintire96/python_TinderAPI) | Tinder API 2019 - Python bindings | 76 | 🗄️ | Python |
+| [tinderjs](https://github.com/tinderjs/tinderjs) | Node package providing programmatic access to the Tinder API | 76 | 🟡 | JavaScript |
+| [squeaky-hinge](https://github.com/radian-software/squeaky-hinge) | Reverse-engineered Hinge API client for more reliable notifications | 44 | 🟢 | Python |
+| [open-grind](https://github.com/VityaSchel/open-grind) | Read-only mirror of Open Grind, an unofficial Grindr client | 41 | 🟢 | TypeScript |
+| [tinder-api-wrapper](https://github.com/yoimnik/tinder-api-wrapper) | Reverse engineered the private Tinder API and wrapped it in Python | 24 | 🔴 | Python |
+| [bumapi](https://github.com/hpats/bumapi) | Unofficial Bumble API | 19 | 🔴 | JavaScript |
+| [bumble-api](https://github.com/henrydatei/bumble-api) | Reverse engineering the API of bumble.com | 13 | 🟡 | Python |
+| [tinder-api-docs](https://github.com/rednit-team/tinder-api-docs) | Unoffical documentation of the Tinder API | 10 | 🔴 |  |
+| [hinge-client](https://github.com/Stupidoodle/hinge-client) | Unofficial API client for the Hinge dating app | 9 | 🟢 | Python |
+| [pymble](https://github.com/SirWyv3r/pymble) | Unofficial Bumble API for Python | 9 | 🔴 | Python |
+| [node-tinder](https://github.com/jzarca01/node-tinder) | API Wrapper for Tinder | 0 | 🔴 | JavaScript |
 
 ## Finance & Banking
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| yfinance | Download market data from Yahoo! Finance's API | 25,506 | <https://github.com/ranaroussi/yfinance> |
-| TradingView-API | Real-time TradingView quotes and indicators via its reverse-engineered websocket protocol | 5,585 | <https://github.com/Mathieu2301/TradingView-API> |
-| robin_stocks | This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and... | 2,121 | <https://github.com/jmfernandes/robin_stocks> |
-| investpy | Financial Data Extraction from Investing.com with Python | 1,857 | <https://github.com/alvarobartt/investpy> |
-| Robinhood | Unofficial Documentation of Robinhood Trade's Private API | 1,788 | <https://github.com/sanko/Robinhood> |
-| finvizfinance | Python library pulling Finviz screener, quote and news data | 1,715 | <https://github.com/lit26/finvizfinance> |
-| finviz | Unofficial Python API for finviz.com screener and quote data | 1,341 | <https://github.com/mariostoev/finviz> |
-| python-tradingview-ta *(archived)* | Unofficial TradingView technical analysis API wrapper | 1,253 | <https://github.com/AnalyzerREST/python-tradingview-ta> |
-| mintapi | an unofficial screen-scraping "API" for Mint.com | 1,199 | <https://github.com/mintapi/mintapi> |
-| israeli-bank-scrapers | Scrapers for all major Israeli banks and credit card companies | 1,146 | <https://github.com/eshaham/israeli-bank-scrapers> |
-| yahooquery | Python wrapper for an unofficial Yahoo Finance API | 919 | <https://github.com/dpguthrie/yahooquery> |
-| pytr | Use TradeRepublic in terminal and mass download all documents | 809 | <https://github.com/pytr-org/pytr> |
-| yahoo-finance2 | Unofficial Node.js/TypeScript client for Yahoo Finance's internal API | 803 | <https://github.com/gadicc/yahoo-finance2> |
-| robinhood-node *(archived)* | Node.js client for Robinhood's private trading API | 699 | <https://github.com/aurbano/robinhood-node> |
-| robintrack *(archived)* | Scrapes Robinhood's API to track stock popularity among Robinhood users | 688 | <https://github.com/Ameobea/robintrack> |
-| webull | Unofficial APIs for Webull. | 640 | <https://github.com/tedchou12/webull> |
-| monarchmoney | Python API for Monarch Money | 537 | <https://github.com/hammem/monarchmoney> |
-| investiny | Lightweight Investing.com historical data client using its private endpoints | 434 | <https://github.com/alvarobartt/investiny> |
-| tradingview-scraper | Python tool that scrapes TradingView ideas, news and indicator data | 431 | <https://github.com/mnwato/tradingview-scraper> |
-| finance-dl | Scrapers that download personal data from Amazon, Venmo, PayPal, Mint and banks | 338 | <https://github.com/jbms/finance-dl> |
-| degiro-connector | Python library for DeGiro's private trading and quote APIs | 295 | <https://github.com/Chavithra/degiro-connector> |
-| zerro | Unofficial ZenMoney client with envelope budgeting | 281 | <https://github.com/ardov/zerro> |
-| schwab-api | Unofficial Python library for placing trades on Charles Schwab via its web API | 272 | <https://github.com/itsjafer/schwab-api> |
-| caspion | Budget tracking that pulls data from Israeli financial institutions | 269 | <https://github.com/brafdlog/caspion> |
-| avanza | JavaScript client for the unofficial Avanza API | 247 | <https://github.com/fhqvst/avanza> |
-| revolut-emergency *(archived)* | Unofficial Revolut PC app to freeze cards and list transactions | 242 | <https://github.com/Annihil/revolut-emergency> |
-| degiro-api | Unofficial Node.js DeGiro broker API for portfolio and orders | 234 | <https://github.com/icastillejogomez/degiro-api> |
-| DegiroAPI | Unofficial Python DeGiro API with real-time and historical data | 229 | <https://github.com/lolokraus/DegiroAPI> |
-| firefly-iii-fints-importer | Imports transactions from FinTS-enabled banks into Firefly III | 229 | <https://github.com/bnw/firefly-iii-fints-importer> |
-| tastyworks_api | An unofficial, reverse-engineered Python API for tastyworks. | 201 | <https://github.com/boyan-soubachov/tastyworks_api> |
-| personalcapital | Python library for Personal Capital (Empower) private API | 195 | <https://github.com/haochi/personalcapital> |
-| python-n26 *(archived)* | Unofficial Python client for n26 (Number 26) - https://n26.com/ | 194 | <https://github.com/femueller/python-n26> |
-| Venmo | Venmo API client for Python | 167 | <https://github.com/mmohades/Venmo> |
-| avanza | Python library for the unofficial Avanza (Sweden) API | 163 | <https://github.com/Qluxzz/avanza> |
-| robinhood-on-rails | Web dashboard for Robinhood using its private API | 152 | <https://github.com/bcwik9/robinhood-on-rails> |
-| MBBank | Unofficial API wrapper for Vietnam's MBBank | 141 | <https://github.com/CookieGMVN/MBBank> |
-| firstrade-api | Reverse-engineered API client for the Firstrade broker | 136 | <https://github.com/MaxxRK/firstrade-api> |
-| Colombo-Stock-Exchange-CSE-API-Documentation | Unofficial Colombo Stock Exchange API guide | 133 | <https://github.com/GH0STH4CKER/Colombo-Stock-Exchange-CSE-API-Documentation> |
-| fast_arrow *(archived)* | Python stock and options client for Robinhood's unofficial API | 127 | <https://github.com/westonplatter/fast_arrow> |
-| revolut-python *(archived)* | Unofficial Python client for the Revolut bank app | 110 | <https://github.com/tducret/revolut-python> |
-| etoro-api | REST wrapper around eToro's web trading endpoints | 107 | <https://github.com/ok24601/etoro-api> |
-| moneyman | Saves transactions from Israeli banks and credit cards via GitHub Actions | 107 | <https://github.com/daniel-hauser/moneyman> |
-| stake-python | Python client for the Stake trading platform's private API | 107 | <https://github.com/stabacco/stake-python> |
-| bourso-api | BoursoBank (Boursorama) unofficial API and CLI | 104 | <https://github.com/azerpas/bourso-api> |
-| auto-rsa | Multi-broker trading bot built on unofficial broker APIs (Schwab, Fidelity, Robinhood, etc.) | 103 | <https://github.com/NelsonDane/auto-rsa> |
-| pumpfun-apis | Unofficial specification of the entire pump.fun API | 103 | <https://github.com/BankkRoll/pumpfun-apis> |
-| wealthsimple-trade | Unofficial API documentation for Wealthsimple Trade | 103 | <https://github.com/MarkGalloway/wealthsimple-trade> |
-| VenmoApiDocumentation | Venmo API Documentation | 101 | <https://github.com/mmohades/VenmoApiDocumentation> |
-| wstrade-api *(archived)* | Unofficial API wrapper for Wealthsimple Trade | 101 | <https://github.com/ahmedsakr/wstrade-api> |
-| ws-api-python | Python access to your Wealthsimple account via its private GraphQL API | 86 | <https://github.com/gboudreau/ws-api-python> |
-| Robinhood | Python framework for the Robinhood private API | 85 | <https://github.com/rohanpai/Robinhood> |
-| Trading212API | Unofficial Trading212 API | 81 | <https://github.com/HellAmbro/Trading212API> |
-| Tradingview-ticker | Reverse engineered TradingView ticker websocket connection in Python | 81 | <https://github.com/Hattorius/Tradingview-ticker> |
-| Venmo-Unofficial-API | An unofficial API for Venmo. | 80 | <https://github.com/Integuru-AI/Venmo-Unofficial-API> |
-| node-cba-netbank | Unofficial Commonwealth Bank of Australia NetBank wrapper for Node.js | 79 | <https://github.com/twang2218/node-cba-netbank> |
-| SwedbankJson | Unofficial client for Swedbank/Sparbanken mobile app services | 77 | <https://github.com/walle89/SwedbankJson> |
-| NepseUnofficialApi | Unofficial library for the Nepal Stock Exchange website API | 76 | <https://github.com/basic-bgnr/NepseUnofficialApi> |
-| fidelity-api | Playwright-based automation API for Fidelity accounts | 72 | <https://github.com/kennyboy106/fidelity-api> |
-| go-robinhood | Go library for the Robinhood private API | 71 | <https://github.com/andrewstuart/go-robinhood> |
-| MBBank | Unofficial API wrapper for Vietnam's MBBank | 70 | <https://github.com/thedtvn/MBBank> |
-| tinkoff-api *(archived)* | Asyncio Python client for Tinkoff bank's private API | 68 | <https://github.com/Fatal1ty/tinkoff-api> |
-| NepseAPI-Unofficial | Unofficial REST/WebSocket API for Nepal Stock Exchange data | 64 | <https://github.com/surajrimal07/NepseAPI-Unofficial> |
-| hargreaves | Unofficial API for Hargreaves Lansdown accounts | 54 | <https://github.com/jamiehaywood/hargreaves> |
-| pyitau *(archived)* | Unofficial client for Itau bank data | 52 | <https://github.com/lucasrcezimbra/pyitau> |
-| Trading212API | An unofficial API for Trading212 | 52 | <https://github.com/BenTimor/Trading212API> |
-| n26-api | Unofficial N26 Bank API documentation | 51 | <https://github.com/Rots/n26-api> |
-| VCB-API | Unofficial API for Vietcombank transaction history | 42 | <https://github.com/netrotion/VCB-API> |
-| robinhood OpenAPI | Unofficial OpenAPI specification for the Robinhood API | 40 | <https://github.com/sabareeshkkanan/robinhood> |
-| stockanalysis | stockanalysis.com API crawler and reverse-engineered API docs | 39 | <https://github.com/haskaomni/stockanalysis> |
-| Trading212-API *(archived)* | Python client for Trading 212 web platform (pre-official API) | 37 | <https://github.com/federico123579/Trading212-API> |
-| PayPaython | Python wrapper for PayPay's private API (Japan) | 34 | <https://github.com/taka-4602/PayPaython> |
-| fints2ledger | Downloads FinTS bank transactions into a ledger journal | 32 | <https://github.com/MoritzR/fints2ledger> |
-| coba | Unofficial API for Chase online banking | 31 | <https://github.com/gduverger/coba> |
-| investing-com-api-v2 | Unofficial API for the Investing.com website | 29 | <https://github.com/PhamHuyThien/investing-com-api-v2> |
-| Unofficial-Robinhood-Api *(archived)* | Java wrapper for Robinhood's private investing API | 29 | <https://github.com/VibrantClouds/Unofficial-Robinhood-Api> |
-| webull-api-ts | TypeScript/Node.js client for Webull's unofficial trading API | 28 | <https://github.com/edmundpf/webull-api-ts> |
-| public-invest-api *(archived)* | Reverse-engineered Public.com Invest API in Python | 21 | <https://github.com/NelsonDane/public-invest-api> |
-| tbank-mobile-api | Python client for T-Bank (Tinkoff) mobile API, reverse-engineered from the Android app | 20 | <https://github.com/nikitaxru/tbank-mobile-api> |
-| fidelity-api | Reverse-engineered Fidelity Investments API client | 17 | <https://github.com/njfdev/fidelity-api> |
-| fennel-invest-api | Reverse-engineered Fennel.com Invest app API in Python | 15 | <https://github.com/NelsonDane/fennel-invest-api> |
-| chaseinvest-api | Unofficial API for Chase self-directed investing accounts | 12 | <https://github.com/MaxxRK/chaseinvest-api> |
-| nordnet-api | Unofficial Nordnet.dk broker API | 9 | <https://github.com/zjael/nordnet-api> |
-| unofficial-scalable-capital-api | Local REST proxy exposing Scalable Capital portfolio data | 9 | <https://github.com/ffischbach/unofficial-scalable-capital-api> |
-| vanguard-api | Unofficial API for Vanguard brokerage accounts | 8 | <https://github.com/MaxxRK/vanguard-api> |
-| eq-bank-api | Unofficial documentation of the EQ Bank mobile app API | 5 | <https://github.com/bufutda/eq-bank-api> |
-| finviz (Go) | Unofficial Finviz API for Go | 5 | <https://github.com/PranaytheSingh/finviz> |
-| ing-fr-unofficial-api | Unofficial API for ING Bank France (ing.fr) | 5 | <https://github.com/GuillaumeKergreis/ing-fr-unofficial-api> |
-| n26api | Unofficial N26 API Client for Golang | 3 | <https://github.com/nhatthm/n26api> |
-| naga-web-api *(archived)* | Unofficial Python client for the NAGA social trading web platform | 3 | <https://github.com/meister245/naga-web-api> |
-| wealthsimple-api | Unofficial documentation of the Wealthsimple API | 3 | <https://github.com/bufutda/wealthsimple-api> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance's API | 25,506 | 🟢 | Python |
+| [TradingView-API](https://github.com/Mathieu2301/TradingView-API) | Real-time TradingView quotes and indicators via its reverse-engineered websocket protocol | 5,585 | 🟢 | TypeScript |
+| [robin_stocks](https://github.com/jmfernandes/robin_stocks) | This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and... | 2,121 | 🟢 | Python |
+| [investpy](https://github.com/alvarobartt/investpy) | Financial Data Extraction from Investing.com with Python | 1,857 | 🟢 | Python |
+| [Robinhood](https://github.com/sanko/Robinhood) | Unofficial Documentation of Robinhood Trade's Private API | 1,788 | 🟡 |  |
+| [finvizfinance](https://github.com/lit26/finvizfinance) | Python library pulling Finviz screener, quote and news data | 1,715 | 🟢 | Python |
+| [finviz](https://github.com/mariostoev/finviz) | Unofficial Python API for finviz.com screener and quote data | 1,341 | 🟢 | Python |
+| [python-tradingview-ta](https://github.com/AnalyzerREST/python-tradingview-ta) | Unofficial TradingView technical analysis API wrapper | 1,253 | 🗄️ | Python |
+| [mintapi](https://github.com/mintapi/mintapi) | an unofficial screen-scraping "API" for Mint.com | 1,199 | 🟡 | Python |
+| [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) | Scrapers for all major Israeli banks and credit card companies | 1,146 | 🟢 | TypeScript |
+| [yahooquery](https://github.com/dpguthrie/yahooquery) | Python wrapper for an unofficial Yahoo Finance API | 919 | 🟡 | Python |
+| [pytr](https://github.com/pytr-org/pytr) | Use TradeRepublic in terminal and mass download all documents | 809 | 🟢 | Python |
+| [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) | Unofficial Node.js/TypeScript client for Yahoo Finance's internal API | 803 | 🟢 | HTML |
+| [robinhood-node](https://github.com/aurbano/robinhood-node) | Node.js client for Robinhood's private trading API | 699 | 🗄️ | JavaScript |
+| [robintrack](https://github.com/Ameobea/robintrack) | Scrapes Robinhood's API to track stock popularity among Robinhood users | 688 | 🗄️ | JavaScript |
+| [webull](https://github.com/tedchou12/webull) | Unofficial APIs for Webull. | 640 | 🟡 | Python |
+| [monarchmoney](https://github.com/hammem/monarchmoney) | Python API for Monarch Money | 537 | 🟢 | Python |
+| [investiny](https://github.com/alvarobartt/investiny) | Lightweight Investing.com historical data client using its private endpoints | 434 | 🟢 | Python |
+| [tradingview-scraper](https://github.com/mnwato/tradingview-scraper) | Python tool that scrapes TradingView ideas, news and indicator data | 431 | 🟢 | Python |
+| [finance-dl](https://github.com/jbms/finance-dl) | Scrapers that download personal data from Amazon, Venmo, PayPal, Mint and banks | 338 | 🟡 | Python |
+| [degiro-connector](https://github.com/Chavithra/degiro-connector) | Python library for DeGiro's private trading and quote APIs | 295 | 🟢 | Python |
+| [zerro](https://github.com/ardov/zerro) | Unofficial ZenMoney client with envelope budgeting | 281 | 🟢 | TypeScript |
+| [schwab-api](https://github.com/itsjafer/schwab-api) | Unofficial Python library for placing trades on Charles Schwab via its web API | 272 | 🟡 | Python |
+| [caspion](https://github.com/brafdlog/caspion) | Budget tracking that pulls data from Israeli financial institutions | 269 | 🟢 | TypeScript |
+| [avanza](https://github.com/fhqvst/avanza) | JavaScript client for the unofficial Avanza API | 247 | 🟡 | JavaScript |
+| [revolut-emergency](https://github.com/Annihil/revolut-emergency) | Unofficial Revolut PC app to freeze cards and list transactions | 242 | 🗄️ | TypeScript |
+| [degiro-api](https://github.com/icastillejogomez/degiro-api) | Unofficial Node.js DeGiro broker API for portfolio and orders | 234 | 🟢 | TypeScript |
+| [DegiroAPI](https://github.com/lolokraus/DegiroAPI) | Unofficial Python DeGiro API with real-time and historical data | 229 | 🔴 | Python |
+| [firefly-iii-fints-importer](https://github.com/bnw/firefly-iii-fints-importer) | Imports transactions from FinTS-enabled banks into Firefly III | 229 | 🟢 | PHP |
+| [tastyworks_api](https://github.com/boyan-soubachov/tastyworks_api) | An unofficial, reverse-engineered Python API for tastyworks. | 201 | 🔴 | Python |
+| [personalcapital](https://github.com/haochi/personalcapital) | Python library for Personal Capital (Empower) private API | 195 | 🟡 | Python |
+| [python-n26](https://github.com/femueller/python-n26) | Unofficial Python client for n26 (Number 26) - https://n26.com/ | 194 | 🗄️ | Python |
+| [Venmo](https://github.com/mmohades/Venmo) | Venmo API client for Python | 167 | 🟡 | Python |
+| [avanza](https://github.com/Qluxzz/avanza) | Python library for the unofficial Avanza (Sweden) API | 163 | 🟢 | Python |
+| [robinhood-on-rails](https://github.com/bcwik9/robinhood-on-rails) | Web dashboard for Robinhood using its private API | 152 | 🔴 | Ruby |
+| [MBBank](https://github.com/CookieGMVN/MBBank) | Unofficial API wrapper for Vietnam's MBBank | 141 | 🟢 | TypeScript |
+| [firstrade-api](https://github.com/MaxxRK/firstrade-api) | Reverse-engineered API client for the Firstrade broker | 136 | 🟢 | Python |
+| [Colombo-Stock-Exchange-CSE-API-Documentation](https://github.com/GH0STH4CKER/Colombo-Stock-Exchange-CSE-API-Documentation) | Unofficial Colombo Stock Exchange API guide | 133 | 🟢 | HTML |
+| [fast_arrow](https://github.com/westonplatter/fast_arrow) | Python stock and options client for Robinhood's unofficial API | 127 | 🗄️ | Python |
+| [revolut-python](https://github.com/tducret/revolut-python) | Unofficial Python client for the Revolut bank app | 110 | 🗄️ | Python |
+| [etoro-api](https://github.com/ok24601/etoro-api) | REST wrapper around eToro's web trading endpoints | 107 | 🔴 | Kotlin |
+| [moneyman](https://github.com/daniel-hauser/moneyman) | Saves transactions from Israeli banks and credit cards via GitHub Actions | 107 | 🟢 | TypeScript |
+| [stake-python](https://github.com/stabacco/stake-python) | Python client for the Stake trading platform's private API | 107 | 🟢 | Python |
+| [bourso-api](https://github.com/azerpas/bourso-api) | BoursoBank (Boursorama) unofficial API and CLI | 104 | 🟢 | Rust |
+| [auto-rsa](https://github.com/NelsonDane/auto-rsa) | Multi-broker trading bot built on unofficial broker APIs (Schwab, Fidelity, Robinhood, etc.) | 103 | 🟢 | Python |
+| [pumpfun-apis](https://github.com/BankkRoll/pumpfun-apis) | Unofficial specification of the entire pump.fun API | 103 | 🟢 |  |
+| [wealthsimple-trade](https://github.com/MarkGalloway/wealthsimple-trade) | Unofficial API documentation for Wealthsimple Trade | 103 | 🔴 |  |
+| [VenmoApiDocumentation](https://github.com/mmohades/VenmoApiDocumentation) | Venmo API Documentation | 101 | 🔴 |  |
+| [wstrade-api](https://github.com/ahmedsakr/wstrade-api) | Unofficial API wrapper for Wealthsimple Trade | 101 | 🗄️ | JavaScript |
+| [ws-api-python](https://github.com/gboudreau/ws-api-python) | Python access to your Wealthsimple account via its private GraphQL API | 86 | 🟢 | Python |
+| [Robinhood](https://github.com/rohanpai/Robinhood) | Python framework for the Robinhood private API | 85 | 🔴 | Python |
+| [Trading212API](https://github.com/HellAmbro/Trading212API) | Unofficial Trading212 API | 81 | 🟡 | Python |
+| [Tradingview-ticker](https://github.com/Hattorius/Tradingview-ticker) | Reverse engineered TradingView ticker websocket connection in Python | 81 | 🟡 | Python |
+| [Venmo-Unofficial-API](https://github.com/Integuru-AI/Venmo-Unofficial-API) | An unofficial API for Venmo. | 80 | 🟢 | Python |
+| [node-cba-netbank](https://github.com/twang2218/node-cba-netbank) | Unofficial Commonwealth Bank of Australia NetBank wrapper for Node.js | 79 | 🔴 | HTML |
+| [SwedbankJson](https://github.com/walle89/SwedbankJson) | Unofficial client for Swedbank/Sparbanken mobile app services | 77 | 🟢 | PHP |
+| [NepseUnofficialApi](https://github.com/basic-bgnr/NepseUnofficialApi) | Unofficial library for the Nepal Stock Exchange website API | 76 | 🟢 | Python |
+| [fidelity-api](https://github.com/kennyboy106/fidelity-api) | Playwright-based automation API for Fidelity accounts | 72 | 🟢 | Python |
+| [go-robinhood](https://github.com/andrewstuart/go-robinhood) | Go library for the Robinhood private API | 71 | 🟡 | Go |
+| [MBBank](https://github.com/thedtvn/MBBank) | Unofficial API wrapper for Vietnam's MBBank | 70 | 🟢 | Python |
+| [tinkoff-api](https://github.com/Fatal1ty/tinkoff-api) | Asyncio Python client for Tinkoff bank's private API | 68 | 🗄️ | Python |
+| [NepseAPI-Unofficial](https://github.com/surajrimal07/NepseAPI-Unofficial) | Unofficial REST/WebSocket API for Nepal Stock Exchange data | 64 | 🟢 | Python |
+| [hargreaves](https://github.com/jamiehaywood/hargreaves) | Unofficial API for Hargreaves Lansdown accounts | 54 | 🔴 | TypeScript |
+| [pyitau](https://github.com/lucasrcezimbra/pyitau) | Unofficial client for Itau bank data | 52 | 🗄️ | HTML |
+| [Trading212API](https://github.com/BenTimor/Trading212API) | An unofficial API for Trading212 | 52 | 🔴 | Python |
+| [n26-api](https://github.com/Rots/n26-api) | Unofficial N26 Bank API documentation | 51 | 🔴 |  |
+| [VCB-API](https://github.com/netrotion/VCB-API) | Unofficial API for Vietcombank transaction history | 42 | 🟢 | Python |
+| [robinhood OpenAPI](https://github.com/sabareeshkkanan/robinhood) | Unofficial OpenAPI specification for the Robinhood API | 40 | 🔴 | Java |
+| [stockanalysis](https://github.com/haskaomni/stockanalysis) | stockanalysis.com API crawler and reverse-engineered API docs | 39 | 🟢 | Python |
+| [Trading212-API](https://github.com/federico123579/Trading212-API) | Python client for Trading 212 web platform (pre-official API) | 37 | 🗄️ | Python |
+| [PayPaython](https://github.com/taka-4602/PayPaython) | Python wrapper for PayPay's private API (Japan) | 34 | 🟢 | Python |
+| [fints2ledger](https://github.com/MoritzR/fints2ledger) | Downloads FinTS bank transactions into a ledger journal | 32 | 🟢 | Haskell |
+| [coba](https://github.com/gduverger/coba) | Unofficial API for Chase online banking | 31 | 🔴 | Python |
+| [investing-com-api-v2](https://github.com/PhamHuyThien/investing-com-api-v2) | Unofficial API for the Investing.com website | 29 | 🟢 | JavaScript |
+| [Unofficial-Robinhood-Api](https://github.com/VibrantClouds/Unofficial-Robinhood-Api) | Java wrapper for Robinhood's private investing API | 29 | 🗄️ | Java |
+| [webull-api-ts](https://github.com/edmundpf/webull-api-ts) | TypeScript/Node.js client for Webull's unofficial trading API | 28 | 🔴 | TypeScript |
+| [public-invest-api](https://github.com/NelsonDane/public-invest-api) | Reverse-engineered Public.com Invest API in Python | 21 | 🗄️ | Python |
+| [tbank-mobile-api](https://github.com/nikitaxru/tbank-mobile-api) | Python client for T-Bank (Tinkoff) mobile API, reverse-engineered from the Android app | 20 | 🟢 | Python |
+| [fidelity-api](https://github.com/njfdev/fidelity-api) | Reverse-engineered Fidelity Investments API client | 17 | 🔴 |  |
+| [fennel-invest-api](https://github.com/NelsonDane/fennel-invest-api) | Reverse-engineered Fennel.com Invest app API in Python | 15 | 🟢 | Python |
+| [chaseinvest-api](https://github.com/MaxxRK/chaseinvest-api) | Unofficial API for Chase self-directed investing accounts | 12 | 🟢 | Python |
+| [nordnet-api](https://github.com/zjael/nordnet-api) | Unofficial Nordnet.dk broker API | 9 | 🟢 | JavaScript |
+| [unofficial-scalable-capital-api](https://github.com/ffischbach/unofficial-scalable-capital-api) | Local REST proxy exposing Scalable Capital portfolio data | 9 | 🟢 | TypeScript |
+| [vanguard-api](https://github.com/MaxxRK/vanguard-api) | Unofficial API for Vanguard brokerage accounts | 8 | 🟢 | Python |
+| [eq-bank-api](https://github.com/bufutda/eq-bank-api) | Unofficial documentation of the EQ Bank mobile app API | 5 | 🔴 |  |
+| [finviz (Go)](https://github.com/PranaytheSingh/finviz) | Unofficial Finviz API for Go | 5 | 🔴 | Go |
+| [ing-fr-unofficial-api](https://github.com/GuillaumeKergreis/ing-fr-unofficial-api) | Unofficial API for ING Bank France (ing.fr) | 5 | 🔴 | JavaScript |
+| [n26api](https://github.com/nhatthm/n26api) | Unofficial N26 API Client for Golang | 3 | 🟡 | Go |
+| [naga-web-api](https://github.com/meister245/naga-web-api) | Unofficial Python client for the NAGA social trading web platform | 3 | 🗄️ | Python |
+| [wealthsimple-api](https://github.com/bufutda/wealthsimple-api) | Unofficial documentation of the Wealthsimple API | 3 | 🔴 | JavaScript |
 
 ## Google Services
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| GmsCore | Free implementation of Play Services | 14,855 | <https://github.com/microg/GmsCore> |
-| google-maps-scraper | Extracts Google Maps place data (address, reviews, coordinates) without the official API | 6,404 | <https://github.com/gosom/google-maps-scraper> |
-| pytrends *(archived)* | Pseudo API for Google Trends | 3,727 | <https://github.com/GeneralMills/pytrends> |
-| AuroraStore | Open-source Google Play Store client using the reverse-engineered Play API | 3,109 | <https://github.com/whyorean/AuroraStore> |
-| gmusicapi *(archived)* | An unofficial client library for Google Music. | 2,455 | <https://github.com/simon-weber/gmusicapi> |
-| earth-reverse-engineering *(archived)* | Reverse-engineered Google Earth's 3D satellite mesh format and API; downloader/exporter | 2,325 | <https://github.com/retroplasma/earth-reverse-engineering> |
-| apkeep | A command-line tool for downloading APK files from various sources | 2,117 | <https://github.com/EFForg/apkeep> |
-| gkeepapi | An unofficial client for the Google Keep API. | 1,780 | <https://github.com/kiwiz/gkeepapi> |
-| extract_otp_secrets | Decodes Google Authenticator otpauth-migration protobuf QR exports into OTP secrets | 1,676 | <https://github.com/scito/extract_otp_secrets> |
-| gplaycli | Google Play Downloader via Command line | 1,138 | <https://github.com/matlink/gplaycli> |
-| google-trends-api | Unofficial Google Trends API for Node.js | 974 | <https://github.com/pat310/google-trends-api> |
-| otpauth | Google Authenticator migration (protobuf) QR code decoder | 965 | <https://github.com/dim13/otpauth> |
-| keep-it-markdown | Exports Google Keep notes to Markdown using the unofficial Keep API | 708 | <https://github.com/djsudduth/keep-it-markdown> |
-| gphotos-cdp | This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google... | 688 | <https://github.com/perkeep/gphotos-cdp> |
-| gotohp | Unofficial Google Photos desktop client | 675 | <https://github.com/xob0t/gotohp> |
-| google-speech-v2 | Documentation of the reverse engineered Google Speech-to-Text v2 API | 469 | <https://github.com/gillesdemey/google-speech-v2> |
-| GHLocalApi | (Unofficial) Google Home local API documentation. | 468 | <https://github.com/rithvikvibhu/GHLocalApi> |
-| googleplay-api | Google Play Unofficial Python API | 445 | <https://github.com/NoMore201/googleplay-api> |
-| nlm | Command-line interface to NotebookLM | 390 | <https://github.com/tmc/nlm> |
-| gpmc | Google Photos client based on reverse engineered mobile API. | 384 | <https://github.com/xob0t/gpmc> |
-| chrome-lens-ocr | Uses Google Lens OCR via the private API used inside Chromium | 343 | <https://github.com/dimdenGD/chrome-lens-ocr> |
-| google-keep-exporter *(archived)* | Exports Google Keep notes to Markdown files | 315 | <https://github.com/vHanda/google-keep-exporter> |
-| nest-api | Unofficial Nest Learning Thermostat API | 299 | <https://github.com/gboudreau/nest-api> |
-| upload-gphotos *(archived)* | Upload photos to Google Photos via the unofficial web API | 262 | <https://github.com/3846masa-archived/upload-gphotos> |
-| req2proto | Tool for reversing Google internal protobuf API definitions | 226 | <https://github.com/ddd/req2proto> |
-| unofficial-google-trends-api | Unofficial Python API for downloading Google Trends data | 221 | <https://github.com/suryasev/unofficial-google-trends-api> |
-| python-gsearch | Unofficial Google Search API for Python | 220 | <https://github.com/aviaryan/python-gsearch> |
-| gkeep | Command-line interface for Google Keep built on the unofficial Keep API | 200 | <https://github.com/Nekmo/gkeep> |
-| pygooglevoice *(archived)* | Python client for Google Voice's undocumented web API (SMS, calls) | 185 | <https://github.com/pettazz/pygooglevoice> |
-| google-plus-extension-jsapi | Unofficial Google+ read/write extension API | 172 | <https://github.com/mohamedmansour/google-plus-extension-jsapi> |
-| gpsoauth | A python client library for Google Play Services OAuth. | 145 | <https://github.com/simon-weber/gpsoauth> |
-| HAFamilyLink | Home Assistant control of Google Family Link devices | 125 | <https://github.com/noiwid/HAFamilyLink> |
-| easygoogletranslate | Unofficial Google Translate API client | 106 | <https://github.com/ahmeterenodaci/easygoogletranslate> |
-| gphotosuploader | Unofficial Google Photos uploader and Go library | 101 | <https://github.com/simonedegiacomi/gphotosuploader> |
-| chrome-lens-py | Uses Google Lens OCR through the private API Chromium calls | 80 | <https://github.com/bropines/chrome-lens-py> |
-| google-smart-tap | Research on the Google Smart Tap NFC protocol | 70 | <https://github.com/kormax/google-smart-tap> |
-| glocaltokens | Python 3 package to fetch google home local authentication tokens and IP using google username/password or google... | 61 | <https://github.com/leikoilja/glocaltokens> |
-| GoogleReaderAPI-iOS | Objective-C wrapper around the unofficial Google Reader API | 61 | <https://github.com/0m15/GoogleReaderAPI-iOS> |
-| playstore-api | Unofficial Google Play Store API for real-time app details | 46 | <https://github.com/rajkumaar23/playstore-api> |
-| transliteration-input-tools | Unofficial client to Google's transliteration backend | 45 | <https://github.com/KSubedi/transliteration-input-tools> |
-| google_photos_web_client | Google Photos client based on the reverse-engineered web API | 37 | <https://github.com/xob0t/google_photos_web_client> |
-| google-reminder-api-wrapper | Unofficial API wrapper for Google Reminders | 34 | <https://github.com/windmark/google-reminder-api-wrapper> |
-| notebooklm-sdk | Unofficial Node.js/Bun client for Google NotebookLM | 28 | <https://github.com/agmmnn/notebooklm-sdk> |
-| gkeepapi-java | Unofficial Java client library for the Android Google Keep API | 5 | <https://github.com/rukins/gkeepapi-java> |
-| google-passbox | Reverse-engineered Google Authenticator's internal Passbox sync API | 2 | <https://github.com/poloputoamo/google-passbox> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services | 14,855 | 🟢 | Java |
+| [google-maps-scraper](https://github.com/gosom/google-maps-scraper) | Extracts Google Maps place data (address, reviews, coordinates) without the official API | 6,404 | 🟢 | Go |
+| [pytrends](https://github.com/GeneralMills/pytrends) | Pseudo API for Google Trends | 3,727 | 🗄️ | Python |
+| [AuroraStore](https://github.com/whyorean/AuroraStore) | Open-source Google Play Store client using the reverse-engineered Play API | 3,109 | 🟢 | Kotlin |
+| [gmusicapi](https://github.com/simon-weber/gmusicapi) | An unofficial client library for Google Music. | 2,455 | 🗄️ | Python |
+| [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) | Reverse-engineered Google Earth's 3D satellite mesh format and API; downloader/exporter | 2,325 | 🗄️ | C |
+| [apkeep](https://github.com/EFForg/apkeep) | A command-line tool for downloading APK files from various sources | 2,117 | 🟢 | Rust |
+| [gkeepapi](https://github.com/kiwiz/gkeepapi) | An unofficial client for the Google Keep API. | 1,780 | 🟢 | Python |
+| [extract_otp_secrets](https://github.com/scito/extract_otp_secrets) | Decodes Google Authenticator otpauth-migration protobuf QR exports into OTP secrets | 1,676 | 🟢 | Python |
+| [gplaycli](https://github.com/matlink/gplaycli) | Google Play Downloader via Command line | 1,138 | 🔴 | Python |
+| [google-trends-api](https://github.com/pat310/google-trends-api) | Unofficial Google Trends API for Node.js | 974 | 🔴 | JavaScript |
+| [otpauth](https://github.com/dim13/otpauth) | Google Authenticator migration (protobuf) QR code decoder | 965 | 🟢 | Go |
+| [keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) | Exports Google Keep notes to Markdown using the unofficial Keep API | 708 | 🟢 | Python |
+| [gphotos-cdp](https://github.com/perkeep/gphotos-cdp) | This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google... | 688 | 🟡 | Go |
+| [gotohp](https://github.com/xob0t/gotohp) | Unofficial Google Photos desktop client | 675 | 🟢 | Go |
+| [google-speech-v2](https://github.com/gillesdemey/google-speech-v2) | Documentation of the reverse engineered Google Speech-to-Text v2 API | 469 | 🔴 |  |
+| [GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi) | (Unofficial) Google Home local API documentation. | 468 | 🟢 | Handlebars |
+| [googleplay-api](https://github.com/NoMore201/googleplay-api) | Google Play Unofficial Python API | 445 | 🔴 | Python |
+| [nlm](https://github.com/tmc/nlm) | Command-line interface to NotebookLM | 390 | 🟢 | Go |
+| [gpmc](https://github.com/xob0t/gpmc) | Google Photos client based on reverse engineered mobile API. | 384 | 🟢 | Python |
+| [chrome-lens-ocr](https://github.com/dimdenGD/chrome-lens-ocr) | Uses Google Lens OCR via the private API used inside Chromium | 343 | 🟡 | JavaScript |
+| [google-keep-exporter](https://github.com/vHanda/google-keep-exporter) | Exports Google Keep notes to Markdown files | 315 | 🗄️ | HTML |
+| [nest-api](https://github.com/gboudreau/nest-api) | Unofficial Nest Learning Thermostat API | 299 | 🟡 | PHP |
+| [upload-gphotos](https://github.com/3846masa-archived/upload-gphotos) | Upload photos to Google Photos via the unofficial web API | 262 | 🗄️ | TypeScript |
+| [req2proto](https://github.com/ddd/req2proto) | Tool for reversing Google internal protobuf API definitions | 226 | 🟢 | Go |
+| [unofficial-google-trends-api](https://github.com/suryasev/unofficial-google-trends-api) | Unofficial Python API for downloading Google Trends data | 221 | 🔴 | Python |
+| [python-gsearch](https://github.com/aviaryan/python-gsearch) | Unofficial Google Search API for Python | 220 | 🔴 | Python |
+| [gkeep](https://github.com/Nekmo/gkeep) | Command-line interface for Google Keep built on the unofficial Keep API | 200 | 🟡 | Python |
+| [pygooglevoice](https://github.com/pettazz/pygooglevoice) | Python client for Google Voice's undocumented web API (SMS, calls) | 185 | 🗄️ | Python |
+| [google-plus-extension-jsapi](https://github.com/mohamedmansour/google-plus-extension-jsapi) | Unofficial Google+ read/write extension API | 172 | 🔴 | JavaScript |
+| [gpsoauth](https://github.com/simon-weber/gpsoauth) | A python client library for Google Play Services OAuth. | 145 | 🟡 | Python |
+| [HAFamilyLink](https://github.com/noiwid/HAFamilyLink) | Home Assistant control of Google Family Link devices | 125 | 🟢 | Python |
+| [easygoogletranslate](https://github.com/ahmeterenodaci/easygoogletranslate) | Unofficial Google Translate API client | 106 | 🟡 | Python |
+| [gphotosuploader](https://github.com/simonedegiacomi/gphotosuploader) | Unofficial Google Photos uploader and Go library | 101 | 🔴 | Go |
+| [chrome-lens-py](https://github.com/bropines/chrome-lens-py) | Uses Google Lens OCR through the private API Chromium calls | 80 | 🟢 | Python |
+| [google-smart-tap](https://github.com/kormax/google-smart-tap) | Research on the Google Smart Tap NFC protocol | 70 | 🔴 |  |
+| [glocaltokens](https://github.com/leikoilja/glocaltokens) | Python 3 package to fetch google home local authentication tokens and IP using google username/password or google... | 61 | 🟢 | Python |
+| [GoogleReaderAPI-iOS](https://github.com/0m15/GoogleReaderAPI-iOS) | Objective-C wrapper around the unofficial Google Reader API | 61 | 🔴 | Objective-C |
+| [playstore-api](https://github.com/rajkumaar23/playstore-api) | Unofficial Google Play Store API for real-time app details | 46 | 🟢 | Go |
+| [transliteration-input-tools](https://github.com/KSubedi/transliteration-input-tools) | Unofficial client to Google's transliteration backend | 45 | 🔴 | TypeScript |
+| [google_photos_web_client](https://github.com/xob0t/google_photos_web_client) | Google Photos client based on the reverse-engineered web API | 37 | 🟢 | Python |
+| [google-reminder-api-wrapper](https://github.com/windmark/google-reminder-api-wrapper) | Unofficial API wrapper for Google Reminders | 34 | 🔴 | Python |
+| [notebooklm-sdk](https://github.com/agmmnn/notebooklm-sdk) | Unofficial Node.js/Bun client for Google NotebookLM | 28 | 🟢 | TypeScript |
+| [gkeepapi-java](https://github.com/rukins/gkeepapi-java) | Unofficial Java client library for the Android Google Keep API | 5 | 🟢 | Java |
+| [google-passbox](https://github.com/poloputoamo/google-passbox) | Reverse-engineered Google Authenticator's internal Passbox sync API | 2 | 🟢 |  |
 
 ## Music & Audio Streaming
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| Spotube | Cross-platform Spotify client that streams audio from other sources | 49,857 | <https://github.com/team-spotube/spotube> |
-| NeteaseCloudMusicApi *(archived)* | Node.js API service for NetEase Cloud Music's private API | 30,238 | <https://github.com/Binaryify/NeteaseCloudMusicApi> |
-| spotify-downloader | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). | 26,318 | <https://github.com/spotDL/spotify-downloader> |
-| cli | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. | 24,967 | <https://github.com/spicetify/cli> |
-| spotifyd | Spotify Connect daemon built on librespot | 10,797 | <https://github.com/Spotifyd/spotifyd> |
-| psst | Fast and multi-platform Spotify client with native GUI | 9,491 | <https://github.com/jpochyla/psst> |
-| spotify-player | Terminal Spotify player with full playback via librespot | 7,272 | <https://github.com/aome510/spotify-player> |
-| ncspot | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. | 6,794 | <https://github.com/hrkfdn/ncspot> |
-| streamrip | A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer | 5,064 | <https://github.com/nathom/streamrip> |
-| Tidal-Media-Downloader | Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#) | 4,328 | <https://github.com/yaronzz/Tidal-Media-Downloader> |
-| scdl | SoundCloud music downloader using SoundCloud's internal v2 API | 4,143 | <https://github.com/scdl-org/scdl> |
-| gamdl | A command-line app for downloading Apple Music songs, music videos and post videos. | 2,683 | <https://github.com/glomatico/gamdl> |
-| qobuz-dl | A complete Lossless and Hi-Res music downloader for Qobuz | 2,396 | <https://github.com/vitiko98/qobuz-dl> |
-| spot | Native GTK Spotify client built on librespot | 2,366 | <https://github.com/xou816/spot> |
-| apple-music-downloader | Apple Music ALAC / Dolby Atmos / AAC downloader using the private Apple Music API | 2,263 | <https://github.com/zhaarey/apple-music-downloader> |
-| SongRec | Open-source Shazam client for Linux using a reverse-engineered Shazam API | 1,991 | <https://github.com/marin-m/SongRec> |
-| pianobar *(archived)* | Console client for Pandora using its private JSON API (moved to Codeberg) | 1,762 | <https://github.com/PromyLOPh/pianobar> |
-| QQMusicApi | Node.js API service wrapping QQ Music's unofficial endpoints | 1,633 | <https://github.com/jsososo/QQMusicApi> |
-| yandex-music-api | Unofficial Python library for the Yandex Music API | 1,277 | <https://github.com/MarshalX/yandex-music-api> |
-| bandcamp-dl | Simple python script to download Bandcamp albums | 1,179 | <https://github.com/Evolution0/bandcamp-dl> |
-| OrpheusDL | Modular music archival tool with modules for multiple streaming services' private APIs | 1,034 | <https://github.com/OrfiTeam/OrpheusDL> |
-| yandex-music-downloader | Downloader for Yandex Music using its private API | 1,006 | <https://github.com/llistochek/yandex-music-downloader> |
-| ShazamIO | Async Python library for the reverse-engineered Shazam API | 978 | <https://github.com/shazamio/ShazamIO> |
-| spotify-lyrics-api | REST API fetching Spotify's Musixmatch-powered lyrics via its private endpoints | 638 | <https://github.com/akashrchandran/spotify-lyrics-api> |
-| python-tidal | Python API for TIDAL music streaming service | 563 | <https://github.com/EbbLabs/python-tidal> |
-| syncedlyrics | Fetch synchronized LRC lyrics from Musixmatch, Deezer, NetEase and other providers | 520 | <https://github.com/moehmeni/syncedlyrics> |
-| jiosaavn-api | Unofficial JioSaavn API | 492 | <https://github.com/sumitkolhe/jiosaavn-api> |
-| SpotAPI | A python wrapper for the public & private Spotify API | 484 | <https://github.com/Aran404/SpotAPI> |
-| JioSaavnAPI | Unofficial Python API for JioSaavn music streaming | 465 | <https://github.com/cyberboysumanjay/JioSaavnAPI> |
-| librespot-java | [DEPRECATED] The most up-to-date open source Spotify client | 421 | <https://github.com/librespot-org/librespot-java> |
-| go-librespot | Yet another open source Spotify client, written in Go. | 378 | <https://github.com/devgianlu/go-librespot> |
-| amazon-music | Programmatic access to Amazon Music/Prime Music streaming via its web API | 356 | <https://github.com/Jaffa/amazon-music> |
-| librespot-python | Open Source Spotify Client | 331 | <https://github.com/kokarare1212/librespot-python> |
-| Turntable-API | Unofficial turntable.fm API for building bots | 318 | <https://github.com/alaingilbert/Turntable-API> |
-| syrics *(archived)* | CLI fetching synced and unsynced lyrics from Spotify and saving LRC files | 249 | <https://github.com/akashrchandran/syrics> |
-| TidalAPI | Unofficial Node.js TIDAL API | 213 | <https://github.com/0xVasconcelos/TidalAPI> |
-| yamusic-tui | Unofficial Yandex Music terminal client | 198 | <https://github.com/DECE2183/yamusic-tui> |
-| librespot-golang | Go port of librespot, the Open Source Spotify client library | 194 | <https://github.com/librespot-org/librespot-golang> |
-| yandex-music-api | Node.js wrapper for the unofficial Yandex Music API | 192 | <https://github.com/itsmepetrov/yandex-music-api> |
-| musicxmatch-api | Reverse engineered Musixmatch API client for lyrics | 165 | <https://github.com/Strvm/musicxmatch-api> |
-| spotify-connect-resources | Resources from reversing the Spotify Connect protocol | 160 | <https://github.com/librespot-org/spotify-connect-resources> |
-| deezer-python | Deezer client for python | 153 | <https://github.com/browniebroke/deezer-python> |
-| GaanaAPI | Unofficial API for Gaana music streaming | 153 | <https://github.com/cyberboysumanjay/GaanaAPI> |
-| Pocket-Casts | Unofficial Python API for Pocket Casts | 151 | <https://github.com/furgoose/Pocket-Casts> |
-| TIDAL | Reverse engineering the TIDAL API including OAuth2 device flow | 133 | <https://github.com/hmelder/TIDAL> |
-| grooveshark | Ruby library for Grooveshark's unofficial API | 123 | <https://github.com/sosedoff/grooveshark> |
-| node-youtube-music *(archived)* | Unofficial YouTube Music API for Node.js | 120 | <https://github.com/baptisteArno/node-youtube-music> |
-| Yandex.Music.Api | Unofficial .NET Yandex Music API | 109 | <https://github.com/K1llMan/Yandex.Music.Api> |
-| tidal-api *(archived)* | Unofficial API wrapper for Tidal | 100 | <https://github.com/spencercharest/tidal-api> |
-| soundcloud.ts *(archived)* | Wrapper for the Soundcloud API with typings | 88 | <https://github.com/Moestash/soundcloud.ts> |
-| spotify-analyze | Spotify protocol reverse engineering tools and scripts | 82 | <https://github.com/plietar/spotify-analyze> |
-| pydora | Pandora API Client and Command Line Player written in Python | 70 | <https://github.com/mcrute/pydora> |
-| Spotify-Canvas-API | Unofficial API for fetching Spotify Canvas looping videos | 65 | <https://github.com/Paxsenix0/Spotify-Canvas-API> |
-| soundcloud.py | Python wrapper for v2 SoundCloud API. Does not require an API key. | 47 | <https://github.com/7x11x13/soundcloud.py> |
-| noize | Open-source YouTube Music client for Android, Windows and Linux | 46 | <https://github.com/anandssm/noize> |
-| spotilocal *(archived)* | Unofficial API for the Spotify desktop client's local web helper | 38 | <https://github.com/ShyykoSerhiy/spotilocal> |
-| go-yamusic | Unofficial Go client for the Yandex Music API | 35 | <https://github.com/ndrewnee/go-yamusic> |
-| WiMP-api | Unofficial API for Tidal/WiMP based on the web player | 35 | <https://github.com/datagutt/WiMP-api> |
-| google-music-protocol | Reverse-engineered Google Music protocol | 23 | <https://github.com/antimatter15/google-music-protocol> |
-| spotify-local | Local control of the Spotify desktop client in Python | 21 | <https://github.com/erinxocon/spotify-local> |
-| applemusic-api | Unofficial Apple Music API client with typed helpers around their endpoints with shared configuration, logging, and... | 9 | <https://github.com/sync-fm/applemusic-api> |
-| SpotifyPrivateAPI | Simple Wrapper for Front-end Private Spotify API, allowing you to get play counts and monthly listeners | 7 | <https://github.com/caiocinel/SpotifyPrivateAPI> |
-| deezer-python-gql | Unofficial python library for the Deezer GraphQL based API | 4 | <https://github.com/music-assistant/deezer-python-gql> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [Spotube](https://github.com/team-spotube/spotube) | Cross-platform Spotify client that streams audio from other sources | 49,857 | 🟢 | Dart |
+| [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | Node.js API service for NetEase Cloud Music's private API | 30,238 | 🗄️ |  |
+| [spotify-downloader](https://github.com/spotDL/spotify-downloader) | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). | 26,318 | 🟢 | Python |
+| [cli](https://github.com/spicetify/cli) | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. | 24,967 | 🟢 | JavaScript |
+| [spotifyd](https://github.com/Spotifyd/spotifyd) | Spotify Connect daemon built on librespot | 10,797 | 🟢 | Rust |
+| [psst](https://github.com/jpochyla/psst) | Fast and multi-platform Spotify client with native GUI | 9,491 | 🟢 | Rust |
+| [spotify-player](https://github.com/aome510/spotify-player) | Terminal Spotify player with full playback via librespot | 7,272 | 🟢 | Rust |
+| [ncspot](https://github.com/hrkfdn/ncspot) | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. | 6,794 | 🟢 | Rust |
+| [streamrip](https://github.com/nathom/streamrip) | A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer | 5,064 | 🟢 | Python |
+| [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) | Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#) | 4,328 | 🟢 | Python |
+| [scdl](https://github.com/scdl-org/scdl) | SoundCloud music downloader using SoundCloud's internal v2 API | 4,143 | 🟢 | Python |
+| [gamdl](https://github.com/glomatico/gamdl) | A command-line app for downloading Apple Music songs, music videos and post videos. | 2,683 | 🟢 | Python |
+| [qobuz-dl](https://github.com/vitiko98/qobuz-dl) | A complete Lossless and Hi-Res music downloader for Qobuz | 2,396 | 🟡 | Python |
+| [spot](https://github.com/xou816/spot) | Native GTK Spotify client built on librespot | 2,366 | 🟢 | Rust |
+| [apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) | Apple Music ALAC / Dolby Atmos / AAC downloader using the private Apple Music API | 2,263 | 🟢 | Go |
+| [SongRec](https://github.com/marin-m/SongRec) | Open-source Shazam client for Linux using a reverse-engineered Shazam API | 1,991 | 🟢 | Rust |
+| [pianobar](https://github.com/PromyLOPh/pianobar) | Console client for Pandora using its private JSON API (moved to Codeberg) | 1,762 | 🗄️ | C |
+| [QQMusicApi](https://github.com/jsososo/QQMusicApi) | Node.js API service wrapping QQ Music's unofficial endpoints | 1,633 | 🟡 | JavaScript |
+| [yandex-music-api](https://github.com/MarshalX/yandex-music-api) | Unofficial Python library for the Yandex Music API | 1,277 | 🟢 | Python |
+| [bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) | Simple python script to download Bandcamp albums | 1,179 | 🟢 | Python |
+| [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) | Modular music archival tool with modules for multiple streaming services' private APIs | 1,034 | 🟡 | Python |
+| [yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) | Downloader for Yandex Music using its private API | 1,006 | 🟢 | Python |
+| [ShazamIO](https://github.com/shazamio/ShazamIO) | Async Python library for the reverse-engineered Shazam API | 978 | 🟢 | Python |
+| [spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api) | REST API fetching Spotify's Musixmatch-powered lyrics via its private endpoints | 638 | 🟢 | PHP |
+| [python-tidal](https://github.com/EbbLabs/python-tidal) | Python API for TIDAL music streaming service | 563 | 🟢 | Python |
+| [syncedlyrics](https://github.com/moehmeni/syncedlyrics) | Fetch synchronized LRC lyrics from Musixmatch, Deezer, NetEase and other providers | 520 | 🟡 | Python |
+| [jiosaavn-api](https://github.com/sumitkolhe/jiosaavn-api) | Unofficial JioSaavn API | 492 | 🟢 | TypeScript |
+| [SpotAPI](https://github.com/Aran404/SpotAPI) | A python wrapper for the public & private Spotify API | 484 | 🟢 | Python |
+| [JioSaavnAPI](https://github.com/cyberboysumanjay/JioSaavnAPI) | Unofficial Python API for JioSaavn music streaming | 465 | 🟡 | Python |
+| [librespot-java](https://github.com/librespot-org/librespot-java) | [DEPRECATED] The most up-to-date open source Spotify client | 421 | 🟢 | Java |
+| [go-librespot](https://github.com/devgianlu/go-librespot) | Yet another open source Spotify client, written in Go. | 378 | 🟢 | Go |
+| [amazon-music](https://github.com/Jaffa/amazon-music) | Programmatic access to Amazon Music/Prime Music streaming via its web API | 356 | 🔴 | Python |
+| [librespot-python](https://github.com/kokarare1212/librespot-python) | Open Source Spotify Client | 331 | 🟢 | Python |
+| [Turntable-API](https://github.com/alaingilbert/Turntable-API) | Unofficial turntable.fm API for building bots | 318 | 🟡 | JavaScript |
+| [syrics](https://github.com/akashrchandran/syrics) | CLI fetching synced and unsynced lyrics from Spotify and saving LRC files | 249 | 🗄️ | Python |
+| [TidalAPI](https://github.com/0xVasconcelos/TidalAPI) | Unofficial Node.js TIDAL API | 213 | 🔴 | JavaScript |
+| [yamusic-tui](https://github.com/DECE2183/yamusic-tui) | Unofficial Yandex Music terminal client | 198 | 🟢 | Go |
+| [librespot-golang](https://github.com/librespot-org/librespot-golang) | Go port of librespot, the Open Source Spotify client library | 194 | 🔴 | Go |
+| [yandex-music-api](https://github.com/itsmepetrov/yandex-music-api) | Node.js wrapper for the unofficial Yandex Music API | 192 | 🔴 | JavaScript |
+| [musicxmatch-api](https://github.com/Strvm/musicxmatch-api) | Reverse engineered Musixmatch API client for lyrics | 165 | 🟡 | Python |
+| [spotify-connect-resources](https://github.com/librespot-org/spotify-connect-resources) | Resources from reversing the Spotify Connect protocol | 160 | 🔴 | Perl |
+| [deezer-python](https://github.com/browniebroke/deezer-python) | Deezer client for python | 153 | 🟢 | Python |
+| [GaanaAPI](https://github.com/cyberboysumanjay/GaanaAPI) | Unofficial API for Gaana music streaming | 153 | 🔴 | Python |
+| [Pocket-Casts](https://github.com/furgoose/Pocket-Casts) | Unofficial Python API for Pocket Casts | 151 | 🟢 | Python |
+| [TIDAL](https://github.com/hmelder/TIDAL) | Reverse engineering the TIDAL API including OAuth2 device flow | 133 | 🔴 |  |
+| [grooveshark](https://github.com/sosedoff/grooveshark) | Ruby library for Grooveshark's unofficial API | 123 | 🔴 | Ruby |
+| [node-youtube-music](https://github.com/baptisteArno/node-youtube-music) | Unofficial YouTube Music API for Node.js | 120 | 🗄️ | TypeScript |
+| [Yandex.Music.Api](https://github.com/K1llMan/Yandex.Music.Api) | Unofficial .NET Yandex Music API | 109 | 🟢 | C# |
+| [tidal-api](https://github.com/spencercharest/tidal-api) | Unofficial API wrapper for Tidal | 100 | 🗄️ | JavaScript |
+| [soundcloud.ts](https://github.com/Moestash/soundcloud.ts) | Wrapper for the Soundcloud API with typings | 88 | 🗄️ | TypeScript |
+| [spotify-analyze](https://github.com/plietar/spotify-analyze) | Spotify protocol reverse engineering tools and scripts | 82 | 🔴 | Lua |
+| [pydora](https://github.com/mcrute/pydora) | Pandora API Client and Command Line Player written in Python | 70 | 🟢 | Python |
+| [Spotify-Canvas-API](https://github.com/Paxsenix0/Spotify-Canvas-API) | Unofficial API for fetching Spotify Canvas looping videos | 65 | 🟢 | JavaScript |
+| [soundcloud.py](https://github.com/7x11x13/soundcloud.py) | Python wrapper for v2 SoundCloud API. Does not require an API key. | 47 | 🟢 | Python |
+| [noize](https://github.com/anandssm/noize) | Open-source YouTube Music client for Android, Windows and Linux | 46 | 🟢 | Dart |
+| [spotilocal](https://github.com/ShyykoSerhiy/spotilocal) | Unofficial API for the Spotify desktop client's local web helper | 38 | 🗄️ | TypeScript |
+| [go-yamusic](https://github.com/ndrewnee/go-yamusic) | Unofficial Go client for the Yandex Music API | 35 | 🔴 | Go |
+| [WiMP-api](https://github.com/datagutt/WiMP-api) | Unofficial API for Tidal/WiMP based on the web player | 35 | 🔴 | JavaScript |
+| [google-music-protocol](https://github.com/antimatter15/google-music-protocol) | Reverse-engineered Google Music protocol | 23 | 🔴 | Python |
+| [spotify-local](https://github.com/erinxocon/spotify-local) | Local control of the Spotify desktop client in Python | 21 | 🔴 | Python |
+| [applemusic-api](https://github.com/sync-fm/applemusic-api) | Unofficial Apple Music API client with typed helpers around their endpoints with shared configuration, logging, and... | 9 | 🟢 | TypeScript |
+| [SpotifyPrivateAPI](https://github.com/caiocinel/SpotifyPrivateAPI) | Simple Wrapper for Front-end Private Spotify API, allowing you to get play counts and monthly listeners | 7 | 🟡 | C# |
+| [deezer-python-gql](https://github.com/music-assistant/deezer-python-gql) | Unofficial python library for the Deezer GraphQL based API | 4 | 🟢 | Python |
 
 ## Other
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| notion-py | Unofficial Python API client for Notion.so | 4,372 | <https://github.com/jamalex/notion-py> |
-| tesla-api | Unofficial documentation and Ruby gem for Tesla's JSON API | 2,067 | <https://github.com/timdorr/tesla-api> |
-| notionapi | Unofficial Go API for Notion.so | 1,840 | <https://github.com/kjk/notionapi> |
-| pyrh | Python framework for the unofficial Robinhood API | 1,785 | <https://github.com/robinhood-unofficial/pyrh> |
-| python-myfitnesspal | Access MyFitnessPal meal tracking data programmatically | 876 | <https://github.com/coddingtonbear/python-myfitnesspal> |
-| pgoapi *(archived)* | Unofficial Pokemon GO API in Python (archived) | 842 | <https://github.com/pogodevorg/pgoapi> |
-| NintendoSwitchRESTAPI | Reverse engineered REST API of the Nintendo Switch iOS app | 658 | <https://github.com/ZekeSnider/NintendoSwitchRESTAPI> |
-| node-dominos-pizza-api | Node.js wrapper for the Domino's pizza APIs | 577 | <https://github.com/RIAEvangelist/node-dominos-pizza-api> |
-| peloton-client-library | Python client for parts of the Peloton API | 231 | <https://github.com/geudrik/peloton-client-library> |
-| pytr | Unofficial Python interface for the Trade Republic API | 14 | <https://github.com/nborrmann/pytr> |
-| node-ubereats | Work-in-progress Uber Eats API client | 12 | <https://github.com/jzarca01/node-ubereats> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | 4,372 | 🟢 | Python |
+| [tesla-api](https://github.com/timdorr/tesla-api) | Unofficial documentation and Ruby gem for Tesla's JSON API | 2,067 | 🟢 | Ruby |
+| [notionapi](https://github.com/kjk/notionapi) | Unofficial Go API for Notion.so | 1,840 | 🟢 | Go |
+| [pyrh](https://github.com/robinhood-unofficial/pyrh) | Python framework for the unofficial Robinhood API | 1,785 | 🟡 | Python |
+| [python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) | Access MyFitnessPal meal tracking data programmatically | 876 | 🟡 | Python |
+| [pgoapi](https://github.com/pogodevorg/pgoapi) | Unofficial Pokemon GO API in Python (archived) | 842 | 🗄️ | Python |
+| [NintendoSwitchRESTAPI](https://github.com/ZekeSnider/NintendoSwitchRESTAPI) | Reverse engineered REST API of the Nintendo Switch iOS app | 658 | 🔴 |  |
+| [node-dominos-pizza-api](https://github.com/RIAEvangelist/node-dominos-pizza-api) | Node.js wrapper for the Domino's pizza APIs | 577 | 🟡 | JavaScript |
+| [peloton-client-library](https://github.com/geudrik/peloton-client-library) | Python client for parts of the Peloton API | 231 | 🔴 | Python |
+| [pytr](https://github.com/nborrmann/pytr) | Unofficial Python interface for the Trade Republic API | 14 | 🟡 | Python |
+| [node-ubereats](https://github.com/jzarca01/node-ubereats) | Work-in-progress Uber Eats API client | 12 | 🔴 | JavaScript |
 
 ## Other APIs
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| Xiaomi-cloud-tokens-extractor | This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices. | 4,851 | <https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor> |
-| python-miio | Python library & console tool for controlling Xiaomi smart appliances | 4,317 | <https://github.com/rytilahti/python-miio> |
-| Greenlight | Open-source client for Xbox Cloud Gaming (xCloud) and Xbox home streaming | 2,889 | <https://github.com/unknownskl/greenlight> |
-| tuyapi | Node.js API for Tuya smart devices using the reverse-engineered local protocol | 2,326 | <https://github.com/codetheweb/tuyapi> |
-| tinytuya | Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or... | 1,765 | <https://github.com/jasonacox/tinytuya> |
-| python-kasa | Python API for TP-Link Kasa/Tapo devices using their local protocol | 1,763 | <https://github.com/python-kasa/python-kasa> |
-| SoCo | SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers. | 1,611 | <https://github.com/SoCo/SoCo> |
-| ring | Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting | 1,526 | <https://github.com/dgreif/ring> |
-| gopro-py-api *(archived)* | Unofficial GoPro API Library for Python - connect to GoPro via WiFi. | 1,443 | <https://github.com/KonradIT/gopro-py-api> |
-| cinemagoer | Python package (formerly IMDbPY) that retrieves IMDb data from its web pages | 1,324 | <https://github.com/cinemagoer/cinemagoer> |
-| PokeGOAPI-Java | Pokemon Go API | 1,045 | <https://github.com/Grover-c13/PokeGOAPI-Java> |
-| Public-ESPN-API | Unofficial ESPN endpoint documentation and reference code | 753 | <https://github.com/pseudo-r/Public-ESPN-API> |
-| python-ring-doorbell | Python Ring Door Bell is a library written in Python 3 that exposes the Ring.com devices as Python objects. | 700 | <https://github.com/python-ring-doorbell/python-ring-doorbell> |
-| contact-congress | Sends messages to members of Congress by reverse engineering their web contact forms | 658 | <https://github.com/unitedstates/contact-congress> |
-| nxapi | Nintendo Switch Online/Parental Controls app APIs. Show your Nintendo Switch presence in Discord, get friend... | 628 | <https://github.com/samuelthomas2774/nxapi> |
-| NHL-API-Reference | Unofficial reference for the NHL API endpoints | 609 | <https://github.com/Zmalski/NHL-API-Reference> |
-| s3s | Successor to splatnet2statink. Takes battle data from the SplatNet 3 app and uploads it to stat.ink! | 464 | <https://github.com/frozenpandaman/s3s> |
-| JustWatchAPI *(archived)* | Python client for JustWatch's undocumented API | 345 | <https://github.com/dawoudt/JustWatchAPI> |
-| SynologyPhotosAPI | Unofficial documentation of the Synology Photos API | 328 | <https://github.com/zeichensatz/SynologyPhotosAPI> |
-| korb | Haskell CLI ordering groceries through the reverse-engineered REWE delivery API | 259 | <https://github.com/yannick-cw/korb> |
-| xbox-webapi-python | A python library to authenticate with Xbox Live via your Microsoft Account and provides Xbox related Web-API. | 208 | <https://github.com/OpenXbox/xbox-webapi-python> |
-| psnawp | [Mirror] PlayStation Network API Python | 196 | <https://github.com/isFakeAccount/psnawp> |
-| Premier-League-API | Unofficial client for Premier League stats, fixtures and results | 192 | <https://github.com/tarun7r/Premier-League-API> |
-| letterboxdpy | Letterboxd scraper/unofficial API for users, films and lists | 184 | <https://github.com/nmcassa/letterboxdpy> |
-| library-loader | Unofficial cross-platform SamacSys component library loader | 145 | <https://github.com/olback/library-loader> |
-| opentable *(archived)* | Unofficial OpenTable API | 142 | <https://github.com/sosedoff/opentable> |
-| ultimate-guitar-scraper | Go client for Ultimate-Guitar's mobile API | 132 | <https://github.com/Pilfer/ultimate-guitar-scraper> |
-| pikud-haoref-api | Node.js wrapper for Israel's Pikud Haoref unofficial rocket alert API | 125 | <https://github.com/eladnava/pikud-haoref-api> |
-| undocumented-aws-api-hunter | Tool that discovers undocumented APIs from the AWS Console | 123 | <https://github.com/DataDog/undocumented-aws-api-hunter> |
-| ProPresenter-API | Documentation of ProPresenter's undocumented remote control protocol | 111 | <https://github.com/jeffmikels/ProPresenter-API> |
-| amzSear | Unofficial Amazon search CLI and Python API | 110 | <https://github.com/asherAgs/amzSear> |
-| codepen-awesomepi | Unofficial API for CodePen | 108 | <https://github.com/TimPietrusky/codepen-awesomepi> |
-| luogu-api-docs | Unofficial documentation of the Luogu API | 102 | <https://github.com/0f-0b/luogu-api-docs> |
-| unofficial-documentation | Community documentation of the solved.ac API | 98 | <https://github.com/solvedac/unofficial-documentation> |
-| python-aternos *(archived)* | Unofficial Aternos API in Python | 89 | <https://github.com/DarkCat09/python-aternos> |
-| MariOver | Makes almost all of the data exposed by Mario Maker 2 servers public through an API | 87 | <https://github.com/TheGreatRambler/MariOver> |
-| jottalib | Library to access files stored at jottacloud.com | 86 | <https://github.com/havardgulldahl/jottalib> |
-| APIs-by-Integuru | Collection of unofficial APIs built by reverse engineering web apps | 84 | <https://github.com/Integuru-AI/APIs-by-Integuru> |
-| jomato-mobile | Unofficial API wrapper for Zomato's mobile API | 80 | <https://github.com/jatin-dot-py/jomato-mobile> |
-| Kasumi | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 75 | <https://github.com/p0mpurin/Kasumi> |
-| undocumented-s3-apis | Catalog of undocumented Amazon S3 APIs and third-party extensions | 71 | <https://github.com/gaul/undocumented-s3-apis> |
-| uf_api | Documentation of the University of Florida's undocumented API | 68 | <https://github.com/Rolstenhouse/uf_api> |
-| Shopify-Private-APIs | Reverse-engineered Shopify private admin APIs | 64 | <https://github.com/martinamps/Shopify-Private-APIs> |
-| awsapilib *(archived)* | Python library for AWS services driven by undocumented APIs not in boto3 | 62 | <https://github.com/schubergphilis/awsapilib> |
-| scratch-api-unofficial-docs | Unofficial documentation for the Scratch API | 59 | <https://github.com/towerofnix/scratch-api-unofficial-docs> |
-| CasperReverse | Write-up and code for the reverse-engineered Casper private API | 57 | <https://github.com/casperreverser/CasperReverse> |
-| diveharder_api.py | FastAPI proxy exposing Helldivers 2 API data for community developers | 55 | <https://github.com/helldivers-2/diveharder_api.py> |
-| qwant-api | Unofficial API wrapper for Qwant search | 44 | <https://github.com/NullDev/qwant-api> |
-| syno-cli | Synology unofficial API CLI and library | 44 | <https://github.com/reddec/syno-cli> |
-| hover-ddns | Dynamic DNS client for Hover using its unofficial API | 41 | <https://github.com/dschanoeh/hover-ddns> |
-| whatpulse | Reverse-engineered WhatPulse client protocol | 41 | <https://github.com/sim642/whatpulse> |
-| McReverse | Reverse-engineered Java library for the German McDonald's API | 38 | <https://github.com/Louuke/McReverse> |
-| WinLight | Download Windows Spotlight lock screen images via the Content Delivery Manager API | 38 | <https://github.com/Biswa96/WinLight> |
-| archivetoday | Unofficial API and CLI for archive.today | 36 | <https://github.com/HRDepartment/archivetoday> |
-| snapp-mcp | Unofficial read-only MCP server for Snappfood and SnappMarket private APIs | 33 | <https://github.com/sepehr071/snapp-mcp> |
-| digikala-mcp | Unofficial read-only MCP server for Digikala product, seller and price-history data | 29 | <https://github.com/sepehr071/digikala-mcp> |
-| python_Meijer | Reverse-engineered API for Meijer's shopping list | 29 | <https://github.com/dapperfu/python_Meijer> |
-| SynackAPI | Python library for Synack's undocumented API endpoints | 24 | <https://github.com/bamhm182/SynackAPI> |
-| go-amizone *(archived)* | Reverse-engineered API and SDK for the Amizone student portal | 23 | <https://github.com/go-amizone/go-amizone> |
-| entry-api | Unofficial API wrapper for the Entry (playentry.org) coding platform | 21 | <https://github.com/dotcute/entry-api> |
-| lieferheld-api | Play with the unofficial lieferheld api. | 21 | <https://github.com/kenodressel/lieferheld-api> |
-| JimmyJohns | Unofficial Jimmy John's Client for Node.js | 18 | <https://github.com/mmahler2/JimmyJohns> |
-| capi | Unofficial Codepen.io API | 14 | <https://github.com/lucagez/capi> |
-| readsync | Reverse-engineered Amazon Kindle Whispersync API client in Python | 14 | <https://github.com/lolsborn/readsync> |
-| bunpro-community-api | Community reverse-engineered API reference for Bunpro | 12 | <https://github.com/cbullard-dev/bunpro-community-api> |
-| PlusPortalsAPI | An unofficial interface to PlusPortals | 9 | <https://github.com/DhruvBisla/PlusPortalsAPI> |
-| radio5 | Adapter for Radiooooo private API | 9 | <https://github.com/ocvit/radio5> |
-| maxbought-api | Wrapper for MaxSold's undocumented live auction APIs | 8 | <https://github.com/holts-shoe/maxbought-api> |
-| boltcli | Terminal client for Bolt Food orders via the reverse-engineered API | 5 | <https://github.com/Lukynnnn/boltcli> |
-| fedex-ship-manager-api | Documentation for hidden FedEx Ship Manager® API | 5 | <https://github.com/fulldecent/fedex-ship-manager-api> |
-| waitrose | Unofficial CLI and API client for Waitrose grocery shopping | 5 | <https://github.com/jonastemplestein/waitrose> |
-| anzeigenboost-open | Reverse-engineered Kleinanzeigen.de category tree (no official API) | 3 | <https://github.com/Rebaiahmed/anzeigenboost-open> |
-| PyDonalds *(archived)* | An investigation into the private API used by the McDonalds mobile ordering app | 3 | <https://github.com/4Kaylum/PyDonalds> |
-| LegoSharp | LegoSharp is an unofficial C# library for interacting with Lego's web APIs. | 1 | <https://github.com/rolledback/LegoSharp> |
-| node-msw | API wrapper for the Magic Seaweed (MSW) surf-forecast app | 1 | <https://github.com/jzarca01/node-msw> |
-| passculture-private-api | Python wrapper for PassCulture app | 1 | <https://github.com/ghrlt/passculture-private-api> |
-| node-nobodysurf | API Wrapper for NobodySurf | 0 | <https://github.com/jzarca01/node-nobodysurf> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) | This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices. | 4,851 | 🟢 | Python |
+| [python-miio](https://github.com/rytilahti/python-miio) | Python library & console tool for controlling Xiaomi smart appliances | 4,317 | 🟢 | Python |
+| [Greenlight](https://github.com/unknownskl/greenlight) | Open-source client for Xbox Cloud Gaming (xCloud) and Xbox home streaming | 2,889 | 🟢 | TypeScript |
+| [tuyapi](https://github.com/codetheweb/tuyapi) | Node.js API for Tuya smart devices using the reverse-engineered local protocol | 2,326 | 🟢 | JavaScript |
+| [tinytuya](https://github.com/jasonacox/tinytuya) | Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or... | 1,765 | 🟢 | Python |
+| [python-kasa](https://github.com/python-kasa/python-kasa) | Python API for TP-Link Kasa/Tapo devices using their local protocol | 1,763 | 🟢 | Python |
+| [SoCo](https://github.com/SoCo/SoCo) | SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers. | 1,611 | 🟢 | Python |
+| [ring](https://github.com/dgreif/ring) | Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting | 1,526 | 🟢 | TypeScript |
+| [gopro-py-api](https://github.com/KonradIT/gopro-py-api) | Unofficial GoPro API Library for Python - connect to GoPro via WiFi. | 1,443 | 🗄️ | Python |
+| [cinemagoer](https://github.com/cinemagoer/cinemagoer) | Python package (formerly IMDbPY) that retrieves IMDb data from its web pages | 1,324 | 🟢 | HTML |
+| [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) | Pokemon Go API | 1,045 | 🔴 | Java |
+| [Public-ESPN-API](https://github.com/pseudo-r/Public-ESPN-API) | Unofficial ESPN endpoint documentation and reference code | 753 | 🟢 | Python |
+| [python-ring-doorbell](https://github.com/python-ring-doorbell/python-ring-doorbell) | Python Ring Door Bell is a library written in Python 3 that exposes the Ring.com devices as Python objects. | 700 | 🟢 | Python |
+| [contact-congress](https://github.com/unitedstates/contact-congress) | Sends messages to members of Congress by reverse engineering their web contact forms | 658 | 🟢 | Python |
+| [nxapi](https://github.com/samuelthomas2774/nxapi) | Nintendo Switch Online/Parental Controls app APIs. Show your Nintendo Switch presence in Discord, get friend... | 628 | 🟢 | TypeScript |
+| [NHL-API-Reference](https://github.com/Zmalski/NHL-API-Reference) | Unofficial reference for the NHL API endpoints | 609 | 🟢 |  |
+| [s3s](https://github.com/frozenpandaman/s3s) | Successor to splatnet2statink. Takes battle data from the SplatNet 3 app and uploads it to stat.ink! | 464 | 🟡 | Python |
+| [JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) | Python client for JustWatch's undocumented API | 345 | 🗄️ | Python |
+| [SynologyPhotosAPI](https://github.com/zeichensatz/SynologyPhotosAPI) | Unofficial documentation of the Synology Photos API | 328 | 🟢 |  |
+| [korb](https://github.com/yannick-cw/korb) | Haskell CLI ordering groceries through the reverse-engineered REWE delivery API | 259 | 🟢 | Haskell |
+| [xbox-webapi-python](https://github.com/OpenXbox/xbox-webapi-python) | A python library to authenticate with Xbox Live via your Microsoft Account and provides Xbox related Web-API. | 208 | 🟢 | Python |
+| [psnawp](https://github.com/isFakeAccount/psnawp) | [Mirror] PlayStation Network API Python | 196 | 🟢 | Python |
+| [Premier-League-API](https://github.com/tarun7r/Premier-League-API) | Unofficial client for Premier League stats, fixtures and results | 192 | 🟡 | Python |
+| [letterboxdpy](https://github.com/nmcassa/letterboxdpy) | Letterboxd scraper/unofficial API for users, films and lists | 184 | 🟢 | Python |
+| [library-loader](https://github.com/olback/library-loader) | Unofficial cross-platform SamacSys component library loader | 145 | 🟡 | Rust |
+| [opentable](https://github.com/sosedoff/opentable) | Unofficial OpenTable API | 142 | 🗄️ | Ruby |
+| [ultimate-guitar-scraper](https://github.com/Pilfer/ultimate-guitar-scraper) | Go client for Ultimate-Guitar's mobile API | 132 | 🟡 | Go |
+| [pikud-haoref-api](https://github.com/eladnava/pikud-haoref-api) | Node.js wrapper for Israel's Pikud Haoref unofficial rocket alert API | 125 | 🟢 | JavaScript |
+| [undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) | Tool that discovers undocumented APIs from the AWS Console | 123 | 🟢 | Python |
+| [ProPresenter-API](https://github.com/jeffmikels/ProPresenter-API) | Documentation of ProPresenter's undocumented remote control protocol | 111 | 🔴 | Python |
+| [amzSear](https://github.com/asherAgs/amzSear) | Unofficial Amazon search CLI and Python API | 110 | 🔴 | Python |
+| [codepen-awesomepi](https://github.com/TimPietrusky/codepen-awesomepi) | Unofficial API for CodePen | 108 | 🔴 | PHP |
+| [luogu-api-docs](https://github.com/0f-0b/luogu-api-docs) | Unofficial documentation of the Luogu API | 102 | 🟢 |  |
+| [unofficial-documentation](https://github.com/solvedac/unofficial-documentation) | Community documentation of the solved.ac API | 98 | 🟡 | HTML |
+| [python-aternos](https://github.com/DarkCat09/python-aternos) | Unofficial Aternos API in Python | 89 | 🗄️ | Python |
+| [MariOver](https://github.com/TheGreatRambler/MariOver) | Makes almost all of the data exposed by Mario Maker 2 servers public through an API | 87 | 🟢 | Python |
+| [jottalib](https://github.com/havardgulldahl/jottalib) | Library to access files stored at jottacloud.com | 86 | 🔴 | Python |
+| [APIs-by-Integuru](https://github.com/Integuru-AI/APIs-by-Integuru) | Collection of unofficial APIs built by reverse engineering web apps | 84 | 🟢 | Python |
+| [jomato-mobile](https://github.com/jatin-dot-py/jomato-mobile) | Unofficial API wrapper for Zomato's mobile API | 80 | 🟢 | Kotlin |
+| [Kasumi](https://github.com/p0mpurin/Kasumi) | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 75 | 🟢 | C |
+| [undocumented-s3-apis](https://github.com/gaul/undocumented-s3-apis) | Catalog of undocumented Amazon S3 APIs and third-party extensions | 71 | 🟢 |  |
+| [uf_api](https://github.com/Rolstenhouse/uf_api) | Documentation of the University of Florida's undocumented API | 68 | 🔴 | PHP |
+| [Shopify-Private-APIs](https://github.com/martinamps/Shopify-Private-APIs) | Reverse-engineered Shopify private admin APIs | 64 | 🔴 | PHP |
+| [awsapilib](https://github.com/schubergphilis/awsapilib) | Python library for AWS services driven by undocumented APIs not in boto3 | 62 | 🗄️ | Python |
+| [scratch-api-unofficial-docs](https://github.com/towerofnix/scratch-api-unofficial-docs) | Unofficial documentation for the Scratch API | 59 | 🟡 |  |
+| [CasperReverse](https://github.com/casperreverser/CasperReverse) | Write-up and code for the reverse-engineered Casper private API | 57 | 🔴 | Assembly |
+| [diveharder_api.py](https://github.com/helldivers-2/diveharder_api.py) | FastAPI proxy exposing Helldivers 2 API data for community developers | 55 | 🟡 | Python |
+| [qwant-api](https://github.com/NullDev/qwant-api) | Unofficial API wrapper for Qwant search | 44 | 🔴 | JavaScript |
+| [syno-cli](https://github.com/reddec/syno-cli) | Synology unofficial API CLI and library | 44 | 🟡 | Go |
+| [hover-ddns](https://github.com/dschanoeh/hover-ddns) | Dynamic DNS client for Hover using its unofficial API | 41 | 🔴 | Go |
+| [whatpulse](https://github.com/sim642/whatpulse) | Reverse-engineered WhatPulse client protocol | 41 | 🔴 | Python |
+| [McReverse](https://github.com/Louuke/McReverse) | Reverse-engineered Java library for the German McDonald's API | 38 | 🔴 | Java |
+| [WinLight](https://github.com/Biswa96/WinLight) | Download Windows Spotlight lock screen images via the Content Delivery Manager API | 38 | 🔴 | Python |
+| [archivetoday](https://github.com/HRDepartment/archivetoday) | Unofficial API and CLI for archive.today | 36 | 🔴 | JavaScript |
+| [snapp-mcp](https://github.com/sepehr071/snapp-mcp) | Unofficial read-only MCP server for Snappfood and SnappMarket private APIs | 33 | 🟢 | Python |
+| [digikala-mcp](https://github.com/sepehr071/digikala-mcp) | Unofficial read-only MCP server for Digikala product, seller and price-history data | 29 | 🟢 | Python |
+| [python_Meijer](https://github.com/dapperfu/python_Meijer) | Reverse-engineered API for Meijer's shopping list | 29 | 🟢 | Python |
+| [SynackAPI](https://github.com/bamhm182/SynackAPI) | Python library for Synack's undocumented API endpoints | 24 | 🟢 | Python |
+| [go-amizone](https://github.com/go-amizone/go-amizone) | Reverse-engineered API and SDK for the Amizone student portal | 23 | 🗄️ | Go |
+| [entry-api](https://github.com/dotcute/entry-api) | Unofficial API wrapper for the Entry (playentry.org) coding platform | 21 | 🔴 | TypeScript |
+| [lieferheld-api](https://github.com/kenodressel/lieferheld-api) | Play with the unofficial lieferheld api. | 21 | 🔴 | JavaScript |
+| [JimmyJohns](https://github.com/mmahler2/JimmyJohns) | Unofficial Jimmy John's Client for Node.js | 18 | 🔴 | JavaScript |
+| [capi](https://github.com/lucagez/capi) | Unofficial Codepen.io API | 14 | 🔴 | JavaScript |
+| [readsync](https://github.com/lolsborn/readsync) | Reverse-engineered Amazon Kindle Whispersync API client in Python | 14 | 🔴 | Python |
+| [bunpro-community-api](https://github.com/cbullard-dev/bunpro-community-api) | Community reverse-engineered API reference for Bunpro | 12 | 🟢 |  |
+| [PlusPortalsAPI](https://github.com/DhruvBisla/PlusPortalsAPI) | An unofficial interface to PlusPortals | 9 | 🔴 | Python |
+| [radio5](https://github.com/ocvit/radio5) | Adapter for Radiooooo private API | 9 | 🟡 | Ruby |
+| [maxbought-api](https://github.com/holts-shoe/maxbought-api) | Wrapper for MaxSold's undocumented live auction APIs | 8 | 🔴 | Python |
+| [boltcli](https://github.com/Lukynnnn/boltcli) | Terminal client for Bolt Food orders via the reverse-engineered API | 5 | 🟢 | Go |
+| [fedex-ship-manager-api](https://github.com/fulldecent/fedex-ship-manager-api) | Documentation for hidden FedEx Ship Manager® API | 5 | 🔴 | HTML |
+| [waitrose](https://github.com/jonastemplestein/waitrose) | Unofficial CLI and API client for Waitrose grocery shopping | 5 | 🟢 | TypeScript |
+| [anzeigenboost-open](https://github.com/Rebaiahmed/anzeigenboost-open) | Reverse-engineered Kleinanzeigen.de category tree (no official API) | 3 | 🟢 |  |
+| [PyDonalds](https://github.com/4Kaylum/PyDonalds) | An investigation into the private API used by the McDonalds mobile ordering app | 3 | 🗄️ | Python |
+| [LegoSharp](https://github.com/rolledback/LegoSharp) | LegoSharp is an unofficial C# library for interacting with Lego's web APIs. | 1 | 🟡 | C# |
+| [node-msw](https://github.com/jzarca01/node-msw) | API wrapper for the Magic Seaweed (MSW) surf-forecast app | 1 | 🔴 | JavaScript |
+| [passculture-private-api](https://github.com/ghrlt/passculture-private-api) | Python wrapper for PassCulture app | 1 | 🔴 | Python |
+| [node-nobodysurf](https://github.com/jzarca01/node-nobodysurf) | API Wrapper for NobodySurf | 0 | 🔴 | JavaScript |
 
 ## Productivity
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| react-notion-x | Fast and accurate React renderer for Notion. TS batteries included. | 5,437 | <https://github.com/NotionX/react-notion-x> |
-| Integuru | The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs. | 4,777 | <https://github.com/Integuru-AI/Integuru> |
-| notion-blog | Next.js blog that reads content from Notion through its private loadPageChunk API | 3,856 | <https://github.com/ijjk/notion-blog> |
-| react-notion | React renderer for Notion pages fed by the unofficial Notion API worker | 3,002 | <https://github.com/splitbee/react-notion> |
-| reverse-linear-sync-engine | Reverse engineering of Linear's proprietary real-time sync engine | 2,862 | <https://github.com/wzhudev/reverse-linear-sync-engine> |
-| pyicloud | A Python + iCloud wrapper to access iPhone and Calendar data. | 2,853 | <https://github.com/picklepete/pyicloud> |
-| alexa_media_player | This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API. | 1,988 | <https://github.com/alandtse/alexa_media_player> |
-| notion-api-worker | Serverless worker exposing Notion pages and tables as JSON via Notion's private v3 API | 1,665 | <https://github.com/splitbee/notion-api-worker> |
-| iCloud-API | Node API for Apple's iCloud services | 1,317 | <https://github.com/ElyaConrad/iCloud-API> |
-| python-plexapi | Python bindings for the Plex API. | 1,296 | <https://github.com/pushingkarmaorg/python-plexapi> |
-| obi-sync *(archived)* | Reverse-engineered, self-hostable Obsidian Sync and Publish server | 1,041 | <https://github.com/acheong08/obi-sync> |
-| Duolingo | Unofficial Duolingo API Written in Python | 908 | <https://github.com/KartikTalwar/Duolingo> |
-| loconotion | Turns public Notion pages into static sites by driving Notion's web app | 854 | <https://github.com/leoncvlt/loconotion> |
-| authy *(archived)* | Go program to export your Authy TOTP secrets via Authy's private API | 805 | <https://github.com/alexzorin/authy> |
-| notablog | Static blog generator built on Notion's unofficial internal API | 682 | <https://github.com/dragonman225/notablog> |
-| md2notion *(archived)* | Markdown importer for Notion built on the unofficial notion-py client | 679 | <https://github.com/Cobertos/md2notion> |
-| rubywarden *(archived)* | Unofficial Bitwarden-compatible API server in Ruby | 587 | <https://github.com/jcs/rubywarden> |
-| enex2notion | Imports Evernote ENEX exports into Notion using the private Notion API | 476 | <https://github.com/vzhd1701/enex2notion> |
-| alexa-remote-control | control Amazon Alexa from command Line (set volume, select station from tunein or pandora) | 462 | <https://github.com/thorsten-gehrig/alexa-remote-control> |
-| potion | Reverse engineered Notion API | 335 | <https://github.com/benborgers/potion> |
-| notion-api | Unofficial Notion.so API | 279 | <https://github.com/cstrnt/notion-api> |
-| ticktick-py | Unofficial Python client for the TickTick task manager API | 272 | <https://github.com/lazeroffmichael/ticktick-py> |
-| kindle-api | Access Kindle's private API in Node.js without a headless browser | 229 | <https://github.com/Xetera/kindle-api> |
-| things.py | Python library that reads Things 3 data from its reverse-engineered SQLite schema | 229 | <https://github.com/thingsapi/things.py> |
-| grammarly-api | Unofficial TypeScript client for Grammarly's internal websocket API | 211 | <https://github.com/stewartmcgown/grammarly-api> |
-| unofficial-claude-api | Unofficial Claude API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file... | 204 | <https://github.com/st1vms/unofficial-claude-api> |
-| TimeTree-Exporter | Exports TimeTree calendars to iCal | 185 | <https://github.com/eoleedi/TimeTree-Exporter> |
-| lastpass-python | Python client for LastPass's private vault API | 184 | <https://github.com/konomae/lastpass-python> |
-| pyicloud | A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud... | 172 | <https://github.com/timlaing/pyicloud> |
-| roam-research-private-api | Private API access for Roam Research via its web app | 171 | <https://github.com/artpi/roam-research-private-api> |
-| Proton-API-Bridge *(archived)* | Third-party Proton Drive API bridge used by rclone | 166 | <https://github.com/henrybear327/Proton-API-Bridge> |
-| firefox-sync-client | CLI client for Firefox Sync | 155 | <https://github.com/Mikescher/firefox-sync-client> |
-| protonmail-api *(archived)* | Node.js API for ProtonMail | 151 | <https://github.com/justinkalland/protonmail-api> |
-| anylist | Reverse-engineered client for AnyList's protobuf API | 148 | <https://github.com/kevdliu/anylist> |
-| O365Essentials | PowerShell module managing Office 365/Azure tasks via undocumented APIs | 144 | <https://github.com/EvotecIT/O365Essentials> |
-| ticktick-sdk | Async Python library for TickTick with MCP support | 142 | <https://github.com/dev-mirzabicer/ticktick-sdk> |
-| workflowy-php | Unofficial WorkFlowy API in PHP | 138 | <https://github.com/johansatge/workflowy-php> |
-| notionapi-agent | Unofficial Node.js API client for Notion | 112 | <https://github.com/dragonman225/notionapi-agent> |
-| things-cloud-sdk | Go client for the Things Cloud sync API | 110 | <https://github.com/nicolai86/things-cloud-sdk> |
-| alexa-remote | Node.js library to control Amazon Alexa devices through the unofficial Alexa web/app API | 102 | <https://github.com/Apollon77/alexa-remote> |
-| reclaim-sdk | Unofficial Python API for Reclaim.ai | 98 | <https://github.com/labiso-gmbh/reclaim-sdk> |
-| otterai-api | Unofficial Python API for Otter.ai transcripts | 91 | <https://github.com/gmchad/otterai-api> |
-| bring-api | Unofficial async Python package for the Bring! shopping list API | 75 | <https://github.com/miaucl/bring-api> |
-| reverse-engineering-granola-api *(archived)* | Reverse-engineered Granola meeting notes API docs and client | 59 | <https://github.com/getprobo/reverse-engineering-granola-api> |
-| things-cloud-sdk | Go client for the Cultured Code Things Cloud | 58 | <https://github.com/arthursoares/things-cloud-sdk> |
-| password-manager-access | C# library accessing 1Password, Bitwarden, Dashlane, LastPass and other vaults via private APIs | 51 | <https://github.com/detunized/password-manager-access> |
-| reverse-engineered-grammarly-api *(archived)* | Reverse engineered Grammarly API | 51 | <https://github.com/c0nn3r/reverse-engineered-grammarly-api> |
-| figma-kiwi-protocol | Reverse-engineered Figma's binary Kiwi WebSocket protocol; decoders, CLI and MCP | 50 | <https://github.com/allan-simon/figma-kiwi-protocol> |
-| things-cloud-api | Unofficial Python client for Things Cloud | 49 | <https://github.com/disrupted/things-cloud-api> |
-| otter.ai-api | Unofficial API for Otter.ai transcription | 44 | <https://github.com/omerdn1/otter.ai-api> |
-| business-central-mcp | MCP server for Microsoft Dynamics 365 Business Central via its reverse-engineered WebUI protocol | 42 | <https://github.com/SShadowS/business-central-mcp> |
-| liftapp-client | Client library for the unofficial Lift.do habit tracker API | 34 | <https://github.com/jmaddi/liftapp-client> |
-| TimeTree-MCP | Unofficial MCP server for the TimeTree calendar | 24 | <https://github.com/ehs208/TimeTree-MCP> |
-| duolingo-api | Duolingo Unofficial OpenAPI Definition | 17 | <https://github.com/igorskh/duolingo-api> |
-| python-bring-api *(archived)* | Unofficial Python package for the Bring! shopping list API | 16 | <https://github.com/eliasball/python-bring-api> |
-| proton-drive-linux-fs | Unofficial FUSE filesystem for Proton Drive on Linux with on-demand file fetch | 15 | <https://github.com/khaosdoctor/proton-drive-linux-fs> |
-| py-our-groceries | Unofficial Python wrapper for OurGroceries | 14 | <https://github.com/ljmerza/py-our-groceries> |
-| n8n-nodes-plaud-unofficial | n8n node for Plaud AI voice recorders using the unofficial API | 12 | <https://github.com/leonardsellem/n8n-nodes-plaud-unofficial> |
-| node-karma | An API wrapper for the anti-waste app Karma | 1 | <https://github.com/jzarca01/node-karma> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [react-notion-x](https://github.com/NotionX/react-notion-x) | Fast and accurate React renderer for Notion. TS batteries included. | 5,437 | 🟢 | TypeScript |
+| [Integuru](https://github.com/Integuru-AI/Integuru) | The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs. | 4,777 | 🟢 | Python |
+| [notion-blog](https://github.com/ijjk/notion-blog) | Next.js blog that reads content from Notion through its private loadPageChunk API | 3,856 | 🟡 | TypeScript |
+| [react-notion](https://github.com/splitbee/react-notion) | React renderer for Notion pages fed by the unofficial Notion API worker | 3,002 | 🟡 | TypeScript |
+| [reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) | Reverse engineering of Linear's proprietary real-time sync engine | 2,862 | 🟡 | JavaScript |
+| [pyicloud](https://github.com/picklepete/pyicloud) | A Python + iCloud wrapper to access iPhone and Calendar data. | 2,853 | 🟡 | Python |
+| [alexa_media_player](https://github.com/alandtse/alexa_media_player) | This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API. | 1,988 | 🟢 | Python |
+| [notion-api-worker](https://github.com/splitbee/notion-api-worker) | Serverless worker exposing Notion pages and tables as JSON via Notion's private v3 API | 1,665 | 🟢 | TypeScript |
+| [iCloud-API](https://github.com/ElyaConrad/iCloud-API) | Node API for Apple's iCloud services | 1,317 | 🔴 | JavaScript |
+| [python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) | Python bindings for the Plex API. | 1,296 | 🟢 | Python |
+| [obi-sync](https://github.com/acheong08/obi-sync) | Reverse-engineered, self-hostable Obsidian Sync and Publish server | 1,041 | 🗄️ | Go |
+| [Duolingo](https://github.com/KartikTalwar/Duolingo) | Unofficial Duolingo API Written in Python | 908 | 🟡 | Python |
+| [loconotion](https://github.com/leoncvlt/loconotion) | Turns public Notion pages into static sites by driving Notion's web app | 854 | 🟡 | Python |
+| [authy](https://github.com/alexzorin/authy) | Go program to export your Authy TOTP secrets via Authy's private API | 805 | 🗄️ | Go |
+| [notablog](https://github.com/dragonman225/notablog) | Static blog generator built on Notion's unofficial internal API | 682 | 🔴 | TypeScript |
+| [md2notion](https://github.com/Cobertos/md2notion) | Markdown importer for Notion built on the unofficial notion-py client | 679 | 🗄️ | Python |
+| [rubywarden](https://github.com/jcs/rubywarden) | Unofficial Bitwarden-compatible API server in Ruby | 587 | 🗄️ | Ruby |
+| [enex2notion](https://github.com/vzhd1701/enex2notion) | Imports Evernote ENEX exports into Notion using the private Notion API | 476 | 🟡 | Python |
+| [alexa-remote-control](https://github.com/thorsten-gehrig/alexa-remote-control) | control Amazon Alexa from command Line (set volume, select station from tunein or pandora) | 462 | 🟢 | Shell |
+| [potion](https://github.com/benborgers/potion) | Reverse engineered Notion API | 335 | 🟡 | JavaScript |
+| [notion-api](https://github.com/cstrnt/notion-api) | Unofficial Notion.so API | 279 | 🔴 | TypeScript |
+| [ticktick-py](https://github.com/lazeroffmichael/ticktick-py) | Unofficial Python client for the TickTick task manager API | 272 | 🟡 | Python |
+| [kindle-api](https://github.com/Xetera/kindle-api) | Access Kindle's private API in Node.js without a headless browser | 229 | 🟡 | TypeScript |
+| [things.py](https://github.com/thingsapi/things.py) | Python library that reads Things 3 data from its reverse-engineered SQLite schema | 229 | 🟢 | Python |
+| [grammarly-api](https://github.com/stewartmcgown/grammarly-api) | Unofficial TypeScript client for Grammarly's internal websocket API | 211 | 🔴 | TypeScript |
+| [unofficial-claude-api](https://github.com/st1vms/unofficial-claude-api) | Unofficial Claude API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file... | 204 | 🟢 | Python |
+| [TimeTree-Exporter](https://github.com/eoleedi/TimeTree-Exporter) | Exports TimeTree calendars to iCal | 185 | 🟢 | Python |
+| [lastpass-python](https://github.com/konomae/lastpass-python) | Python client for LastPass's private vault API | 184 | 🟡 | Python |
+| [pyicloud](https://github.com/timlaing/pyicloud) | A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud... | 172 | 🟢 | Python |
+| [roam-research-private-api](https://github.com/artpi/roam-research-private-api) | Private API access for Roam Research via its web app | 171 | 🔴 | JavaScript |
+| [Proton-API-Bridge](https://github.com/henrybear327/Proton-API-Bridge) | Third-party Proton Drive API bridge used by rclone | 166 | 🗄️ | Go |
+| [firefox-sync-client](https://github.com/Mikescher/firefox-sync-client) | CLI client for Firefox Sync | 155 | 🟢 | Go |
+| [protonmail-api](https://github.com/justinkalland/protonmail-api) | Node.js API for ProtonMail | 151 | 🗄️ | JavaScript |
+| [anylist](https://github.com/kevdliu/anylist) | Reverse-engineered client for AnyList's protobuf API | 148 | 🟢 | JavaScript |
+| [O365Essentials](https://github.com/EvotecIT/O365Essentials) | PowerShell module managing Office 365/Azure tasks via undocumented APIs | 144 | 🟢 | PowerShell |
+| [ticktick-sdk](https://github.com/dev-mirzabicer/ticktick-sdk) | Async Python library for TickTick with MCP support | 142 | 🟢 | Python |
+| [workflowy-php](https://github.com/johansatge/workflowy-php) | Unofficial WorkFlowy API in PHP | 138 | 🔴 | PHP |
+| [notionapi-agent](https://github.com/dragonman225/notionapi-agent) | Unofficial Node.js API client for Notion | 112 | 🔴 | TypeScript |
+| [things-cloud-sdk](https://github.com/nicolai86/things-cloud-sdk) | Go client for the Things Cloud sync API | 110 | 🔴 | Go |
+| [alexa-remote](https://github.com/Apollon77/alexa-remote) | Node.js library to control Amazon Alexa devices through the unofficial Alexa web/app API | 102 | 🟢 | JavaScript |
+| [reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) | Unofficial Python API for Reclaim.ai | 98 | 🟢 | Python |
+| [otterai-api](https://github.com/gmchad/otterai-api) | Unofficial Python API for Otter.ai transcripts | 91 | 🟢 | Python |
+| [bring-api](https://github.com/miaucl/bring-api) | Unofficial async Python package for the Bring! shopping list API | 75 | 🟢 | Python |
+| [reverse-engineering-granola-api](https://github.com/getprobo/reverse-engineering-granola-api) | Reverse-engineered Granola meeting notes API docs and client | 59 | 🗄️ | Python |
+| [things-cloud-sdk](https://github.com/arthursoares/things-cloud-sdk) | Go client for the Cultured Code Things Cloud | 58 | 🟢 | Go |
+| [password-manager-access](https://github.com/detunized/password-manager-access) | C# library accessing 1Password, Bitwarden, Dashlane, LastPass and other vaults via private APIs | 51 | 🟢 | C# |
+| [reverse-engineered-grammarly-api](https://github.com/c0nn3r/reverse-engineered-grammarly-api) | Reverse engineered Grammarly API | 51 | 🗄️ |  |
+| [figma-kiwi-protocol](https://github.com/allan-simon/figma-kiwi-protocol) | Reverse-engineered Figma's binary Kiwi WebSocket protocol; decoders, CLI and MCP | 50 | 🟢 | JavaScript |
+| [things-cloud-api](https://github.com/disrupted/things-cloud-api) | Unofficial Python client for Things Cloud | 49 | 🟡 | Python |
+| [otter.ai-api](https://github.com/omerdn1/otter.ai-api) | Unofficial API for Otter.ai transcription | 44 | 🔴 | JavaScript |
+| [business-central-mcp](https://github.com/SShadowS/business-central-mcp) | MCP server for Microsoft Dynamics 365 Business Central via its reverse-engineered WebUI protocol | 42 | 🟢 | TypeScript |
+| [liftapp-client](https://github.com/jmaddi/liftapp-client) | Client library for the unofficial Lift.do habit tracker API | 34 | 🔴 | Ruby |
+| [TimeTree-MCP](https://github.com/ehs208/TimeTree-MCP) | Unofficial MCP server for the TimeTree calendar | 24 | 🟢 | TypeScript |
+| [duolingo-api](https://github.com/igorskh/duolingo-api) | Duolingo Unofficial OpenAPI Definition | 17 | 🟢 | HTML |
+| [python-bring-api](https://github.com/eliasball/python-bring-api) | Unofficial Python package for the Bring! shopping list API | 16 | 🗄️ | Python |
+| [proton-drive-linux-fs](https://github.com/khaosdoctor/proton-drive-linux-fs) | Unofficial FUSE filesystem for Proton Drive on Linux with on-demand file fetch | 15 | 🟢 | Go |
+| [py-our-groceries](https://github.com/ljmerza/py-our-groceries) | Unofficial Python wrapper for OurGroceries | 14 | 🟢 | Python |
+| [n8n-nodes-plaud-unofficial](https://github.com/leonardsellem/n8n-nodes-plaud-unofficial) | n8n node for Plaud AI voice recorders using the unofficial API | 12 | 🟢 | TypeScript |
+| [node-karma](https://github.com/jzarca01/node-karma) | An API wrapper for the anti-waste app Karma | 1 | 🔴 | JavaScript |
 
 ## Real Estate
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| fredy | Self-hosted watcher for new flats on ImmoScout24, Immowelt, Kleinanzeigen and others | 1,572 | <https://github.com/orangecoding/fredy> |
-| rightmove_webscraper.py | Scrapes Rightmove listings into a pandas DataFrame | 282 | <https://github.com/toby-p/rightmove_webscraper.py> |
-| pyfunda | Python wrapper for Funda.nl using its mobile app API | 199 | <https://github.com/0xMH/pyfunda> |
-| daftlistings | Python library for querying Daft.ie property listings | 194 | <https://github.com/AnthonyBloomer/daftlistings> |
-| funda-scraper | Scrapes listings and historical data from Funda (Netherlands) | 160 | <https://github.com/whchien/funda-scraper> |
-| redfin | Python wrapper around Redfin's unofficial API | 149 | <https://github.com/reteps/redfin> |
-| pylbc *(archived)* | Unofficial Python wrapper for Leboncoin real-estate listings | 15 | <https://github.com/razaborg/pylbc> |
-| ImmoScout | Unofficial Python wrapper for ImmobilienScout24's app API | 6 | <https://github.com/wiestju/ImmoScout> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [fredy](https://github.com/orangecoding/fredy) | Self-hosted watcher for new flats on ImmoScout24, Immowelt, Kleinanzeigen and others | 1,572 | 🟢 | JavaScript |
+| [rightmove_webscraper.py](https://github.com/toby-p/rightmove_webscraper.py) | Scrapes Rightmove listings into a pandas DataFrame | 282 | 🟡 | Python |
+| [pyfunda](https://github.com/0xMH/pyfunda) | Python wrapper for Funda.nl using its mobile app API | 199 | 🟢 | Python |
+| [daftlistings](https://github.com/AnthonyBloomer/daftlistings) | Python library for querying Daft.ie property listings | 194 | 🟢 | Python |
+| [funda-scraper](https://github.com/whchien/funda-scraper) | Scrapes listings and historical data from Funda (Netherlands) | 160 | 🟡 | Python |
+| [redfin](https://github.com/reteps/redfin) | Python wrapper around Redfin's unofficial API | 149 | 🟢 | Python |
+| [pylbc](https://github.com/razaborg/pylbc) | Unofficial Python wrapper for Leboncoin real-estate listings | 15 | 🗄️ | Python |
+| [ImmoScout](https://github.com/wiestju/ImmoScout) | Unofficial Python wrapper for ImmobilienScout24's app API | 6 | 🟢 | Python |
 
 ## Regional Apps (India, LatAm, Europe, Russia)
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| pynubank | Python client for Nubank's private API (statements, card, account) | 1,197 | <https://github.com/andreroggeri/pynubank> |
-| skolplattformen | Open alternative app for Stockholm's school platform via its unofficial API | 810 | <https://github.com/kolplattformen/skolplattformen> |
-| nsepy | Python library for NSE India website stock and index data | 807 | <https://github.com/swapniljariwala/nsepy> |
-| nubank-api | Node.js client for Nubank's private API | 680 | <https://github.com/Astrocoders/nubank-api> |
-| jugaad-data | Downloads live and historical Indian market data from NSE/RBI websites | 585 | <https://github.com/jugaad-py/jugaad-data> |
-| nsepython | Unofficial Python wrapper for NSE India's website API | 370 | <https://github.com/aeron7/nsepython> |
-| swiggy-analytics | Analyses your Swiggy order history fetched from Swiggy's private API | 292 | <https://github.com/mr-karan/swiggy-analytics> |
-| Inshorts-News-API | Unofficial Inshorts news API | 289 | <https://github.com/cyberboysumanjay/Inshorts-News-API> |
-| librus-api | Unofficial client for the Polish Librus Synergia school platform | 206 | <https://github.com/Mati365/librus-api> |
-| jugaad-trader | Unofficial Python client for Zerodha's Kite web API | 168 | <https://github.com/jugaad-py/jugaad-trader> |
-| NseIndiaApi | Unofficial Python API for NSE India stock exchange | 160 | <https://github.com/BennyThadikaran/NseIndiaApi> |
-| nubank-api | High-level Nubank API client to download purchase records | 133 | <https://github.com/fmsouza/nubank-api> |
-| PDDIKTI-kemdikbud-API | Unofficial Python wrapper for Indonesia's PDDIKTI higher education data API | 128 | <https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API> |
-| vk-audio-token | Obtains VK tokens that work with VK's audio API | 122 | <https://github.com/vodka2/vk-audio-token> |
-| gopay-api | Unofficial PHP class for the Gojek GoPay API | 95 | <https://github.com/namtxs/gopay-api> |
-| lanis | Unofficial app for the Hessian school portal (Schulportal Hessen) | 95 | <https://github.com/lanis-mobile/lanis> |
-| somtoday-api-docs | Documentation for the Dutch SOMtoday school API | 88 | <https://github.com/elisaado/somtoday-api-docs> |
-| BseIndiaApi | Unofficial Python API for BSE India stock exchange | 85 | <https://github.com/BennyThadikaran/BseIndiaApi> |
-| unofficial-pddikti-api | Reverse-engineered API for Indonesia's PDDIKTI higher-education database | 74 | <https://github.com/0xtbug/unofficial-pddikti-api> |
-| gojek | Unofficial Gojek and GoPay API wrapper | 72 | <https://github.com/mychaelgo/gojek> |
-| NubankCli | Console app that exports Nubank card and NuConta transactions | 63 | <https://github.com/juniorgasparotto/NubankCli> |
-| sigaa-api *(archived)* | Unofficial API for the SIGAA Brazilian academic system via web scraping | 61 | <https://github.com/GeovaneSchmitz/sigaa-api> |
-| freenet-funk-api *(archived)* | Reverse engineered API of German mobile carrier freenet FUNK | 60 | <https://github.com/lagmoellertim/freenet-funk-api> |
-| aulalibre | Unofficial client for Denmark's Aula school platform | 54 | <https://github.com/eisbaw/aulalibre> |
-| gojek-api | API client for Gojek's private app API | 53 | <https://github.com/mathdroid/gojek-api> |
-| indian-rail-api | Unofficial Indian Railways API | 48 | <https://github.com/AniCrad/indian-rail-api> |
-| eksi_unofficial_api *(archived)* | Eksi Sozluk unofficial API docs and client | 35 | <https://github.com/e4c6/eksi_unofficial_api> |
-| bb-api | Node.js client for Banco do Brasil's mobile API | 27 | <https://github.com/arthurnobrega/bb-api> |
-| tokopedia-client | Tokopedia private API client | 24 | <https://github.com/aqualaguna/tokopedia-client> |
-| node-paytm-api *(archived)* | Paytm's internal API reverse-engineered in Node.js | 15 | <https://github.com/SwapnilSoni1999/node-paytm-api> |
-| new-ovoid-nodejs | Wrapper for the unofficial OVO e-wallet API (Indonesia) | 14 | <https://github.com/fdciabdul/new-ovoid-nodejs> |
-| CartolaJS | Unofficial Node.js API for Cartola FC fantasy football | 11 | <https://github.com/0xVasconcelos/CartolaJS> |
-| ifood-mcp | Unofficial MCP server wrapping iFood's consumer web endpoints | 11 | <https://github.com/AriOliv/ifood-mcp> |
-| QrisMerchantID | Unofficial Indonesian QRIS merchant client for GoPay/GoBiz and ShopeePay | 11 | <https://github.com/AlfinAI/QrisMerchantID> |
-| TokopediaAPI | Python library for Tokopedia's private API | 6 | <https://github.com/kevinjon27/TokopediaAPI> |
-| hdfc-bank-api | Unofficial HDFC Bank API to fetch recent transactions | 5 | <https://github.com/AshikNesin/hdfc-bank-api> |
-| dart-paytm-api | Paytm internal APIs for Dart | 4 | <https://github.com/scientifichackers/dart-paytm-api> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [pynubank](https://github.com/andreroggeri/pynubank) | Python client for Nubank's private API (statements, card, account) | 1,197 | 🟢 | Python |
+| [skolplattformen](https://github.com/kolplattformen/skolplattformen) | Open alternative app for Stockholm's school platform via its unofficial API | 810 | 🟢 | TypeScript |
+| [nsepy](https://github.com/swapniljariwala/nsepy) | Python library for NSE India website stock and index data | 807 | 🟡 | Python |
+| [nubank-api](https://github.com/Astrocoders/nubank-api) | Node.js client for Nubank's private API | 680 | 🔴 | JavaScript |
+| [jugaad-data](https://github.com/jugaad-py/jugaad-data) | Downloads live and historical Indian market data from NSE/RBI websites | 585 | 🟢 | Python |
+| [nsepython](https://github.com/aeron7/nsepython) | Unofficial Python wrapper for NSE India's website API | 370 | 🟢 | Python |
+| [swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) | Analyses your Swiggy order history fetched from Swiggy's private API | 292 | 🟢 | Python |
+| [Inshorts-News-API](https://github.com/cyberboysumanjay/Inshorts-News-API) | Unofficial Inshorts news API | 289 | 🔴 | Python |
+| [librus-api](https://github.com/Mati365/librus-api) | Unofficial client for the Polish Librus Synergia school platform | 206 | 🟢 | JavaScript |
+| [jugaad-trader](https://github.com/jugaad-py/jugaad-trader) | Unofficial Python client for Zerodha's Kite web API | 168 | 🟢 | Python |
+| [NseIndiaApi](https://github.com/BennyThadikaran/NseIndiaApi) | Unofficial Python API for NSE India stock exchange | 160 | 🟢 | Python |
+| [nubank-api](https://github.com/fmsouza/nubank-api) | High-level Nubank API client to download purchase records | 133 | 🟡 | JavaScript |
+| [PDDIKTI-kemdikbud-API](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) | Unofficial Python wrapper for Indonesia's PDDIKTI higher education data API | 128 | 🟢 | Python |
+| [vk-audio-token](https://github.com/vodka2/vk-audio-token) | Obtains VK tokens that work with VK's audio API | 122 | 🔴 | PHP |
+| [gopay-api](https://github.com/namtxs/gopay-api) | Unofficial PHP class for the Gojek GoPay API | 95 | 🟡 | PHP |
+| [lanis](https://github.com/lanis-mobile/lanis) | Unofficial app for the Hessian school portal (Schulportal Hessen) | 95 | 🟢 | Dart |
+| [somtoday-api-docs](https://github.com/elisaado/somtoday-api-docs) | Documentation for the Dutch SOMtoday school API | 88 | 🟢 |  |
+| [BseIndiaApi](https://github.com/BennyThadikaran/BseIndiaApi) | Unofficial Python API for BSE India stock exchange | 85 | 🟢 | Python |
+| [unofficial-pddikti-api](https://github.com/0xtbug/unofficial-pddikti-api) | Reverse-engineered API for Indonesia's PDDIKTI higher-education database | 74 | 🟢 | Go |
+| [gojek](https://github.com/mychaelgo/gojek) | Unofficial Gojek and GoPay API wrapper | 72 | 🟡 | TypeScript |
+| [NubankCli](https://github.com/juniorgasparotto/NubankCli) | Console app that exports Nubank card and NuConta transactions | 63 | 🟢 | C# |
+| [sigaa-api](https://github.com/GeovaneSchmitz/sigaa-api) | Unofficial API for the SIGAA Brazilian academic system via web scraping | 61 | 🗄️ | TypeScript |
+| [freenet-funk-api](https://github.com/lagmoellertim/freenet-funk-api) | Reverse engineered API of German mobile carrier freenet FUNK | 60 | 🗄️ | Python |
+| [aulalibre](https://github.com/eisbaw/aulalibre) | Unofficial client for Denmark's Aula school platform | 54 | 🟢 | Rust |
+| [gojek-api](https://github.com/mathdroid/gojek-api) | API client for Gojek's private app API | 53 | 🔴 | JavaScript |
+| [indian-rail-api](https://github.com/AniCrad/indian-rail-api) | Unofficial Indian Railways API | 48 | 🟡 | JavaScript |
+| [eksi_unofficial_api](https://github.com/e4c6/eksi_unofficial_api) | Eksi Sozluk unofficial API docs and client | 35 | 🗄️ | Python |
+| [bb-api](https://github.com/arthurnobrega/bb-api) | Node.js client for Banco do Brasil's mobile API | 27 | 🟢 | JavaScript |
+| [tokopedia-client](https://github.com/aqualaguna/tokopedia-client) | Tokopedia private API client | 24 | 🔴 | TypeScript |
+| [node-paytm-api](https://github.com/SwapnilSoni1999/node-paytm-api) | Paytm's internal API reverse-engineered in Node.js | 15 | 🗄️ | JavaScript |
+| [new-ovoid-nodejs](https://github.com/fdciabdul/new-ovoid-nodejs) | Wrapper for the unofficial OVO e-wallet API (Indonesia) | 14 | 🔴 | JavaScript |
+| [CartolaJS](https://github.com/0xVasconcelos/CartolaJS) | Unofficial Node.js API for Cartola FC fantasy football | 11 | 🔴 | JavaScript |
+| [ifood-mcp](https://github.com/AriOliv/ifood-mcp) | Unofficial MCP server wrapping iFood's consumer web endpoints | 11 | 🟢 | TypeScript |
+| [QrisMerchantID](https://github.com/AlfinAI/QrisMerchantID) | Unofficial Indonesian QRIS merchant client for GoPay/GoBiz and ShopeePay | 11 | 🟢 | Python |
+| [TokopediaAPI](https://github.com/kevinjon27/TokopediaAPI) | Python library for Tokopedia's private API | 6 | 🔴 | Python |
+| [hdfc-bank-api](https://github.com/AshikNesin/hdfc-bank-api) | Unofficial HDFC Bank API to fetch recent transactions | 5 | 🔴 | JavaScript |
+| [dart-paytm-api](https://github.com/scientifichackers/dart-paytm-api) | Paytm internal APIs for Dart | 4 | 🔴 | Dart |
 
 ## Shopping & Marketplaces
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| amazon-scraper-python | Unofficial client for Amazon product information | 878 | <https://github.com/tducret/amazon-scraper-python> |
-| Doppio | iOS app that finds nearby Starbucks stores using Starbucks' private API | 548 | <https://github.com/christianroman/Doppio> |
-| tgtg-python | Unofficial Python client for the Too Good To Go API | 483 | <https://github.com/ahivert/tgtg-python> |
-| pizzapi | Python wrapper for Domino's Pizza ordering API | 412 | <https://github.com/ggrammar/pizzapi> |
-| facebook-marketplace-scraper *(archived)* | Playwright-based Facebook Marketplace listing scraper with Streamlit UI | 403 | <https://github.com/passivebot/facebook-marketplace-scraper> |
-| python-craigslist | Simple Python wrapper for Craigslist search results | 394 | <https://github.com/juliomalegria/python-craigslist> |
-| azad | Chrome extension that extracts your Amazon order history into tables/CSV | 331 | <https://github.com/philipmulcahy/azad> |
-| ikea-availability-checker | CLI and library checking IKEA product stock per store via IKEA's API | 269 | <https://github.com/Ephigenia/ikea-availability-checker> |
-| ebay-kleinanzeigen-api | API interface for Kleinanzeigen.de listings and listing details | 244 | <https://github.com/DanielWTE/ebay-kleinanzeigen-api> |
-| lbc | Unofficial client for the Leboncoin API | 218 | <https://github.com/etienne-hd/lbc> |
-| amazon-orders | Python library and CLI that scrapes Amazon order history, line items and transactions | 186 | <https://github.com/alexdlaird/amazon-orders> |
-| stockx-api | Node client for StockX's unofficial API | 181 | <https://github.com/matthew1232/stockx-api> |
-| lidl-plus | Fetches receipts, coupons and more from the Lidl Plus app API | 156 | <https://github.com/Andre0512/lidl-plus> |
-| pcpartpicker | Unofficial Python API for PCPartPicker | 122 | <https://github.com/JonathanVusich/pcpartpicker> |
-| rohlik-mcp | MCP server for shopping on Rohlik Group grocery platforms | 121 | <https://github.com/tomaspavlin/rohlik-mcp> |
-| picnic-api | Unofficial Node.js wrapper for the Picnic supermarket API | 111 | <https://github.com/MRVDH/picnic-api> |
-| rewe-discounts | Fetches current REWE discounts from its API into Markdown | 105 | <https://github.com/foo-git/rewe-discounts> |
-| amazon_photos | Python client for Amazon Photos' private API | 101 | <https://github.com/trevorhobenshield/amazon_photos> |
-| vinted_scraper | Sync/async Python client for Vinted with session handling | 97 | <https://github.com/Giglium/vinted_scraper> |
-| divar-mcp | Read-only MCP server over Divar (Iran) classified-ads endpoints | 95 | <https://github.com/mmdju/divar-mcp> |
-| ikea-api-client *(archived)* | Client for IKEA's internal APIs: cart, orders, purchases, search, stock | 90 | <https://github.com/vrslev/ikea-api-client> |
-| rewerse-engineering | REWE app API client (Go/Python) handling its Cloudflare mTLS | 90 | <https://github.com/ByteSizedMarius/rewerse-engineering> |
-| appie-go | Albert Heijn app API CLI and Go library | 80 | <https://github.com/gwillem/appie-go> |
-| python-picnic-api | Unofficial Python wrapper for the Picnic online supermarket API | 72 | <https://github.com/MikeBrink/python-picnic-api> |
-| vinted-api-wrapper | Python module for Vinted's undocumented internal API | 69 | <https://github.com/herissondev/vinted-api-wrapper> |
-| mercari | Wrapper around Mercari Japan's search API | 64 | <https://github.com/marvinody/mercari> |
-| blocket_api | Unofficial API for Blocket.se, Sweden's classifieds site | 48 | <https://github.com/dunderrrrrr/blocket_api> |
-| dash *(archived)* | DoorDash from the command line via its internal API | 47 | <https://github.com/n0shake/dash> |
-| pysilpo | Unofficial API client for Silpo, a Ukrainian supermarket chain | 32 | <https://github.com/iYasha/pysilpo> |
-| mcdonalds-api-wrapper | Orders McDonald's from the command line via the app API | 26 | <https://github.com/reteps/mcdonalds-api-wrapper> |
-| posh | Go client for Poshmark's private API | 17 | <https://github.com/joshdk/posh> |
-| generate-mercari-jwt | Generates the DPoP JWT required to call Mercari's private API | 15 | <https://github.com/HonmaMeikodesu/generate-mercari-jwt> |
-| mercaapi | Unofficial Mercadona API with nutrition data and price history | 11 | <https://github.com/m0wer/mercaapi> |
-| phposh | Unofficial PHP SDK for the Poshmark API | 10 | <https://github.com/michaelbutler/phposh> |
-| picnic-api | Unofficial Go wrapper for the Picnic supermarket API | 10 | <https://github.com/simonmartyr/picnic-api> |
-| Adverts-API | Unofficial API for the Irish marketplace adverts.ie | 3 | <https://github.com/johnflan/Adverts-API> |
-| edekompile | Unofficial Go client for the Edeka app API: offers, digital receipts | 2 | <https://github.com/ByteSizedMarius/edekompile> |
-| aldiscount | Unofficial Go client for the ALDI SÜD API: offers, products, stores | 1 | <https://github.com/ByteSizedMarius/aldiscount> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [amazon-scraper-python](https://github.com/tducret/amazon-scraper-python) | Unofficial client for Amazon product information | 878 | 🔴 | Python |
+| [Doppio](https://github.com/christianroman/Doppio) | iOS app that finds nearby Starbucks stores using Starbucks' private API | 548 | 🔴 | Objective-C |
+| [tgtg-python](https://github.com/ahivert/tgtg-python) | Unofficial Python client for the Too Good To Go API | 483 | 🟢 | Python |
+| [pizzapi](https://github.com/ggrammar/pizzapi) | Python wrapper for Domino's Pizza ordering API | 412 | 🔴 | Python |
+| [facebook-marketplace-scraper](https://github.com/passivebot/facebook-marketplace-scraper) | Playwright-based Facebook Marketplace listing scraper with Streamlit UI | 403 | 🗄️ | Python |
+| [python-craigslist](https://github.com/juliomalegria/python-craigslist) | Simple Python wrapper for Craigslist search results | 394 | 🔴 | Python |
+| [azad](https://github.com/philipmulcahy/azad) | Chrome extension that extracts your Amazon order history into tables/CSV | 331 | 🟢 | TypeScript |
+| [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) | CLI and library checking IKEA product stock per store via IKEA's API | 269 | 🟢 | TypeScript |
+| [ebay-kleinanzeigen-api](https://github.com/DanielWTE/ebay-kleinanzeigen-api) | API interface for Kleinanzeigen.de listings and listing details | 244 | 🟢 | Python |
+| [lbc](https://github.com/etienne-hd/lbc) | Unofficial client for the Leboncoin API | 218 | 🟢 | Python |
+| [amazon-orders](https://github.com/alexdlaird/amazon-orders) | Python library and CLI that scrapes Amazon order history, line items and transactions | 186 | 🟢 | Python |
+| [stockx-api](https://github.com/matthew1232/stockx-api) | Node client for StockX's unofficial API | 181 | 🔴 | JavaScript |
+| [lidl-plus](https://github.com/Andre0512/lidl-plus) | Fetches receipts, coupons and more from the Lidl Plus app API | 156 | 🟡 | Python |
+| [pcpartpicker](https://github.com/JonathanVusich/pcpartpicker) | Unofficial Python API for PCPartPicker | 122 | 🟡 | Python |
+| [rohlik-mcp](https://github.com/tomaspavlin/rohlik-mcp) | MCP server for shopping on Rohlik Group grocery platforms | 121 | 🟢 | TypeScript |
+| [picnic-api](https://github.com/MRVDH/picnic-api) | Unofficial Node.js wrapper for the Picnic supermarket API | 111 | 🟢 | TypeScript |
+| [rewe-discounts](https://github.com/foo-git/rewe-discounts) | Fetches current REWE discounts from its API into Markdown | 105 | 🟡 | Python |
+| [amazon_photos](https://github.com/trevorhobenshield/amazon_photos) | Python client for Amazon Photos' private API | 101 | 🟡 | Python |
+| [vinted_scraper](https://github.com/Giglium/vinted_scraper) | Sync/async Python client for Vinted with session handling | 97 | 🟢 | Python |
+| [divar-mcp](https://github.com/mmdju/divar-mcp) | Read-only MCP server over Divar (Iran) classified-ads endpoints | 95 | 🟢 | JavaScript |
+| [ikea-api-client](https://github.com/vrslev/ikea-api-client) | Client for IKEA's internal APIs: cart, orders, purchases, search, stock | 90 | 🗄️ | Python |
+| [rewerse-engineering](https://github.com/ByteSizedMarius/rewerse-engineering) | REWE app API client (Go/Python) handling its Cloudflare mTLS | 90 | 🟢 | Go |
+| [appie-go](https://github.com/gwillem/appie-go) | Albert Heijn app API CLI and Go library | 80 | 🟢 | Go |
+| [python-picnic-api](https://github.com/MikeBrink/python-picnic-api) | Unofficial Python wrapper for the Picnic online supermarket API | 72 | 🟡 | Python |
+| [vinted-api-wrapper](https://github.com/herissondev/vinted-api-wrapper) | Python module for Vinted's undocumented internal API | 69 | 🟡 | Python |
+| [mercari](https://github.com/marvinody/mercari) | Wrapper around Mercari Japan's search API | 64 | 🟡 | Python |
+| [blocket_api](https://github.com/dunderrrrrr/blocket_api) | Unofficial API for Blocket.se, Sweden's classifieds site | 48 | 🟢 | Python |
+| [dash](https://github.com/n0shake/dash) | DoorDash from the command line via its internal API | 47 | 🗄️ | Python |
+| [pysilpo](https://github.com/iYasha/pysilpo) | Unofficial API client for Silpo, a Ukrainian supermarket chain | 32 | 🟡 | Python |
+| [mcdonalds-api-wrapper](https://github.com/reteps/mcdonalds-api-wrapper) | Orders McDonald's from the command line via the app API | 26 | 🔴 | Python |
+| [posh](https://github.com/joshdk/posh) | Go client for Poshmark's private API | 17 | 🔴 | Shell |
+| [generate-mercari-jwt](https://github.com/HonmaMeikodesu/generate-mercari-jwt) | Generates the DPoP JWT required to call Mercari's private API | 15 | 🔴 | TypeScript |
+| [mercaapi](https://github.com/m0wer/mercaapi) | Unofficial Mercadona API with nutrition data and price history | 11 | 🟢 | Python |
+| [phposh](https://github.com/michaelbutler/phposh) | Unofficial PHP SDK for the Poshmark API | 10 | 🔴 | PHP |
+| [picnic-api](https://github.com/simonmartyr/picnic-api) | Unofficial Go wrapper for the Picnic supermarket API | 10 | 🟡 | Go |
+| [Adverts-API](https://github.com/johnflan/Adverts-API) | Unofficial API for the Irish marketplace adverts.ie | 3 | 🔴 | Python |
+| [edekompile](https://github.com/ByteSizedMarius/edekompile) | Unofficial Go client for the Edeka app API: offers, digital receipts | 2 | 🟢 | Go |
+| [aldiscount](https://github.com/ByteSizedMarius/aldiscount) | Unofficial Go client for the ALDI SÜD API: offers, products, stores | 1 | 🟢 | Go |
 
 ## Social & Content Platforms
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| MediaCrawler | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 66,768 | <https://github.com/NanmiCoder/MediaCrawler> |
-| bilibili-API-collect *(archived)* | Community-collected documentation of Bilibili's undocumented web and app APIs | 20,170 | <https://github.com/SocialSisterYi/bilibili-API-collect> |
-| gallery-dl | Command-line program to download image galleries and collections from several image hosting sites | 20,055 | <https://github.com/mikf/gallery-dl> |
-| libreddit | Private front-end for Reddit | 5,200 | <https://github.com/libreddit/libreddit> |
-| weibo-crawler | Sina Weibo crawler for posts and images using Weibo's web API | 4,666 | <https://github.com/dataabc/weibo-crawler> |
-| linkedin_scraper | A library that scrapes Linkedin for user data | 4,589 | <https://github.com/joeyism/linkedin_scraper> |
-| JobSpy | Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork | 4,472 | <https://github.com/speedyapply/JobSpy> |
-| bilibili-api *(archived)* | Python wrapper for Bilibili's web and app APIs | 4,169 | <https://github.com/Nemo2011/bilibili-api> |
-| redlib | Private front-end for Reddit | 3,846 | <https://github.com/redlib-org/redlib> |
-| xhs | Request wrapper for the Xiaohongshu (RED) web API | 2,219 | <https://github.com/ReaJason/xhs> |
-| 9GAG | Unofficial Android client using 9GAG's REST endpoints | 2,119 | <https://github.com/stormzhang/9GAG> |
-| pixivpy | Python client for Pixiv's app API | 2,060 | <https://github.com/upbit/pixivpy> |
-| clubhouse-py *(archived)* | Reverse-engineered Clubhouse API in Python with standalone client | 1,655 | <https://github.com/stypr/clubhouse-py> |
-| vk_api | Python module for the VK (VKontakte) API including user-login flows | 1,366 | <https://github.com/python273/vk_api> |
-| steam | Python package for the Steam network protocol and web APIs | 1,287 | <https://github.com/ValvePython/steam> |
-| node-steam-user | Allows interaction with the Steam network via the Steam client protocol | 1,125 | <https://github.com/DoctorMcKay/node-steam-user> |
-| TikHub-API-Python-SDK | Async SDK for scraping Douyin, TikTok, Xiaohongshu, Kuaishou, Weibo and more | 915 | <https://github.com/TikHub/TikHub-API-Python-SDK> |
-| HomeHarvest | Python package for scraping real estate property data | 752 | <https://github.com/ZacharyHampton/HomeHarvest> |
-| tweety | Python Twitter/X scraper using the private web GraphQL API | 668 | <https://github.com/mahrtayyab/tweety> |
-| py3-pinterest | Fully fledged Python Pinterest client | 391 | <https://github.com/bstoilov/py3-pinterest> |
-| quora-api | An unofficial API for Quora. | 304 | <https://github.com/christophersu/quora-api> |
-| linkedin-private-api | LinkedIn NodeJS API, written in TypeScript. | 293 | <https://github.com/eilonmore/linkedin-private-api> |
-| teddit | Privacy Reddit front-end using Reddit's unofficial JSON API | 283 | <https://github.com/teddit-net/teddit> |
-| SteamWebAPIDocumentation | An automatically generated list of Steam Web API interfaces, methods and parameters. Allows you to craft requests in... | 252 | <https://github.com/xPaw/SteamWebAPIDocumentation> |
-| linkedin-api | Client for LinkedIn's internal Voyager API | 199 | <https://github.com/nsandman/linkedin-api> |
-| pinterest.api.php | Unofficial PHP bindings for the unreleased Pinterest API | 171 | <https://github.com/kellan/pinterest.api.php> |
-| Zillow | Zillow Scraper for Python using Selenium | 170 | <https://github.com/ChrisMuir/Zillow> |
-| PyMedium | Unofficial Medium API and Python SDK | 165 | <https://github.com/enginebai/PyMedium> |
-| pyairbnb | Airbnb scraper made in Python | 150 | <https://github.com/johnbalvin/pyairbnb> |
-| wb-private-api | Wrapper for the private API of the Wildberries marketplace | 111 | <https://github.com/glmn/wb-private-api> |
-| pyzill | Zillow scraper made in Python | 106 | <https://github.com/johnbalvin/pyzill> |
-| epicstore_api | Epic Games Store Web API Wrapper written in Python | 104 | <https://github.com/SD4RK/epicstore_api> |
-| node-snapchat | Snapchat client library in Node.js using the reverse-engineered private API | 93 | <https://github.com/lucasad/node-snapchat> |
-| Hook | Unofficial Product Hunt REST API | 90 | <https://github.com/karan/Hook> |
-| vino | JS client for Vine's undocumented API | 90 | <https://github.com/tlack/vino> |
-| actor-zillow-api-scraper | Apify actor for extracting data about homes from Zillow.com using it's internal API. | 62 | <https://github.com/cermak-petr/actor-zillow-api-scraper> |
-| linkedin-unofficial-api | Documentation and libraries for the unofficial LinkedIn API | 55 | <https://github.com/nickls/linkedin-unofficial-api> |
-| medium.rip *(archived)* | Alternative front-end for medium.com using Medium's GraphQL API | 53 | <https://github.com/SphericalKat/medium.rip> |
-| gobnb | Airbnb scraper made in Go | 39 | <https://github.com/johnbalvin/gobnb> |
-| Clubhouse-API | Clubhouse private API - Clubhouse SaaS bot - Drop-in audio chat | 26 | <https://github.com/ReverseAndCode/Clubhouse-API> |
-| reddit-api-doc-notes | Notes documenting undocumented behaviour of the Reddit API | 17 | <https://github.com/Pyprohly/reddit-api-doc-notes> |
-| mal-private-api | Documentation and implementation of the MyAnimeList (MAL) private JSON API | 2 | <https://github.com/jonbarrow/mal-private-api> |
-| bereal-api | A TypeScript library for interacting with BeReal's internal APIs. Available for Deno, Node.js, and other JavaScript... | 0 | <https://github.com/Lqm1/bereal-api> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 66,768 | 🟢 | Python |
+| [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) | Community-collected documentation of Bilibili's undocumented web and app APIs | 20,170 | 🗄️ |  |
+| [gallery-dl](https://github.com/mikf/gallery-dl) | Command-line program to download image galleries and collections from several image hosting sites | 20,055 | 🟢 | Python |
+| [libreddit](https://github.com/libreddit/libreddit) | Private front-end for Reddit | 5,200 | 🟡 | Rust |
+| [weibo-crawler](https://github.com/dataabc/weibo-crawler) | Sina Weibo crawler for posts and images using Weibo's web API | 4,666 | 🟢 | Python |
+| [linkedin_scraper](https://github.com/joeyism/linkedin_scraper) | A library that scrapes Linkedin for user data | 4,589 | 🟢 | Python |
+| [JobSpy](https://github.com/speedyapply/JobSpy) | Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork | 4,472 | 🟢 | Python |
+| [bilibili-api](https://github.com/Nemo2011/bilibili-api) | Python wrapper for Bilibili's web and app APIs | 4,169 | 🗄️ |  |
+| [redlib](https://github.com/redlib-org/redlib) | Private front-end for Reddit | 3,846 | 🟢 | Rust |
+| [xhs](https://github.com/ReaJason/xhs) | Request wrapper for the Xiaohongshu (RED) web API | 2,219 | 🟡 | Python |
+| [9GAG](https://github.com/stormzhang/9GAG) | Unofficial Android client using 9GAG's REST endpoints | 2,119 | 🟢 | Java |
+| [pixivpy](https://github.com/upbit/pixivpy) | Python client for Pixiv's app API | 2,060 | 🟡 | Python |
+| [clubhouse-py](https://github.com/stypr/clubhouse-py) | Reverse-engineered Clubhouse API in Python with standalone client | 1,655 | 🗄️ | Python |
+| [vk_api](https://github.com/python273/vk_api) | Python module for the VK (VKontakte) API including user-login flows | 1,366 | 🟢 | Python |
+| [steam](https://github.com/ValvePython/steam) | Python package for the Steam network protocol and web APIs | 1,287 | 🟢 | Python |
+| [node-steam-user](https://github.com/DoctorMcKay/node-steam-user) | Allows interaction with the Steam network via the Steam client protocol | 1,125 | 🟢 | JavaScript |
+| [TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK) | Async SDK for scraping Douyin, TikTok, Xiaohongshu, Kuaishou, Weibo and more | 915 | 🟢 | Python |
+| [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) | Python package for scraping real estate property data | 752 | 🟢 | Python |
+| [tweety](https://github.com/mahrtayyab/tweety) | Python Twitter/X scraper using the private web GraphQL API | 668 | 🟢 | Python |
+| [py3-pinterest](https://github.com/bstoilov/py3-pinterest) | Fully fledged Python Pinterest client | 391 | 🟢 | Python |
+| [quora-api](https://github.com/christophersu/quora-api) | An unofficial API for Quora. | 304 | 🔴 | Python |
+| [linkedin-private-api](https://github.com/eilonmore/linkedin-private-api) | LinkedIn NodeJS API, written in TypeScript. | 293 | 🔴 | TypeScript |
+| [teddit](https://github.com/teddit-net/teddit) | Privacy Reddit front-end using Reddit's unofficial JSON API | 283 | 🔴 | JavaScript |
+| [SteamWebAPIDocumentation](https://github.com/xPaw/SteamWebAPIDocumentation) | An automatically generated list of Steam Web API interfaces, methods and parameters. Allows you to craft requests in... | 252 | 🟢 | TypeScript |
+| [linkedin-api](https://github.com/nsandman/linkedin-api) | Client for LinkedIn's internal Voyager API | 199 | 🔴 | Python |
+| [pinterest.api.php](https://github.com/kellan/pinterest.api.php) | Unofficial PHP bindings for the unreleased Pinterest API | 171 | 🔴 | PHP |
+| [Zillow](https://github.com/ChrisMuir/Zillow) | Zillow Scraper for Python using Selenium | 170 | 🔴 | Python |
+| [PyMedium](https://github.com/enginebai/PyMedium) | Unofficial Medium API and Python SDK | 165 | 🔴 | Python |
+| [pyairbnb](https://github.com/johnbalvin/pyairbnb) | Airbnb scraper made in Python | 150 | 🟢 | Python |
+| [wb-private-api](https://github.com/glmn/wb-private-api) | Wrapper for the private API of the Wildberries marketplace | 111 | 🟢 | JavaScript |
+| [pyzill](https://github.com/johnbalvin/pyzill) | Zillow scraper made in Python | 106 | 🟡 | Python |
+| [epicstore_api](https://github.com/SD4RK/epicstore_api) | Epic Games Store Web API Wrapper written in Python | 104 | 🟢 | Python |
+| [node-snapchat](https://github.com/lucasad/node-snapchat) | Snapchat client library in Node.js using the reverse-engineered private API | 93 | 🔴 | JavaScript |
+| [Hook](https://github.com/karan/Hook) | Unofficial Product Hunt REST API | 90 | 🔴 | JavaScript |
+| [vino](https://github.com/tlack/vino) | JS client for Vine's undocumented API | 90 | 🔴 | JavaScript |
+| [actor-zillow-api-scraper](https://github.com/cermak-petr/actor-zillow-api-scraper) | Apify actor for extracting data about homes from Zillow.com using it's internal API. | 62 | 🔴 | JavaScript |
+| [linkedin-unofficial-api](https://github.com/nickls/linkedin-unofficial-api) | Documentation and libraries for the unofficial LinkedIn API | 55 | 🔴 |  |
+| [medium.rip](https://github.com/SphericalKat/medium.rip) | Alternative front-end for medium.com using Medium's GraphQL API | 53 | 🗄️ | Go |
+| [gobnb](https://github.com/johnbalvin/gobnb) | Airbnb scraper made in Go | 39 | 🟡 | Go |
+| [Clubhouse-API](https://github.com/ReverseAndCode/Clubhouse-API) | Clubhouse private API - Clubhouse SaaS bot - Drop-in audio chat | 26 | 🟡 |  |
+| [reddit-api-doc-notes](https://github.com/Pyprohly/reddit-api-doc-notes) | Notes documenting undocumented behaviour of the Reddit API | 17 | 🟡 | Python |
+| [mal-private-api](https://github.com/jonbarrow/mal-private-api) | Documentation and implementation of the MyAnimeList (MAL) private JSON API | 2 | 🔴 | JavaScript |
+| [bereal-api](https://github.com/Lqm1/bereal-api) | A TypeScript library for interacting with BeReal's internal APIs. Available for Deno, Node.js, and other JavaScript... | 0 | 🟡 | TypeScript |
 
 ## Translation
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| DLX | Self-hosted translation API server that uses DeepL's free web backend (formerly DeepLX) | 8,750 | <https://github.com/OwO-Network/DLX> |
-| translate-shell | Command-line translator using Google, Bing and Yandex web translate APIs | 7,524 | <https://github.com/soimort/translate-shell> |
-| py-googletrans | Free Google Translate client for Python using the web translate endpoint | 4,286 | <https://github.com/ssut/py-googletrans> |
-| google-translate-api | Node.js client for Google Translate's free web API | 3,153 | <https://github.com/matheuss/google-translate-api> |
-| translators | Python library calling the free web APIs of dozens of online translators | 2,694 | <https://github.com/UlionTse/translators> |
-| gTTS | Python library and CLI for Google Translate's undocumented text-to-speech endpoint | 2,636 | <https://github.com/pndurette/gTTS> |
-| deep-translator | Python translator wrapping free web endpoints of Google, DeepL, Linguee and others | 2,048 | <https://github.com/nidhaloff/deep-translator> |
-| crow-translate *(archived)* | Desktop translator using Google, Yandex and Bing web translation APIs | 1,968 | <https://github.com/crow-translate/crow-translate> |
-| dialect | GNOME translation app using Google Translate's web API and others | 678 | <https://github.com/dialect-app/dialect> |
-| translate | Python module grouping multiple undocumented translation web APIs | 559 | <https://github.com/Animenosekai/translate> |
-| deepl-cli | DeepL translator CLI that works without an API key by driving the web app | 305 | <https://github.com/eggplants/deepl-cli> |
-| deepl-translator *(archived)* | Node module for DeepL Translator via its undocumented API | 235 | <https://github.com/vsetka/deepl-translator> |
-| DeepLy | Unofficial PHP client for the DeepL.com translation API | 229 | <https://github.com/chriskonnertz/DeepLy> |
-| bing-translate-api | Free Node.js client for Bing / Microsoft Translator's web endpoint | 227 | <https://github.com/plainheart/bing-translate-api> |
-| linguee-api *(archived)* | Proxy that converts linguee.com HTML responses into a JSON API | 209 | <https://github.com/imankulov/linguee-api> |
-| deepl-translate *(archived)* | Unofficial Python package for translating text through deepl.com | 199 | <https://github.com/ptrstn/deepl-translate> |
-| deeplx | Unofficial free DeepL API client for Node.js | 195 | <https://github.com/un-ts/deeplx> |
-| googletranslate | Python Google Translate client using a reverse engineered public API | 181 | <https://github.com/ultrafunkamsterdam/googletranslate> |
-| deepl-translate-api | Reverse engineered DeepL translate API | 98 | <https://github.com/zu1k/deepl-translate-api> |
-| vot.js | Unofficial library for Yandex's voice-over video translation (VOT) API | 66 | <https://github.com/FOSWLY/vot.js> |
-| ya-ocr | Unofficial library for free Yandex OCR via the Translate API | 15 | <https://github.com/FOSWLY/ya-ocr> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [DLX](https://github.com/OwO-Network/DLX) | Self-hosted translation API server that uses DeepL's free web backend (formerly DeepLX) | 8,750 | 🟢 | Go |
+| [translate-shell](https://github.com/soimort/translate-shell) | Command-line translator using Google, Bing and Yandex web translate APIs | 7,524 | 🟡 | Awk |
+| [py-googletrans](https://github.com/ssut/py-googletrans) | Free Google Translate client for Python using the web translate endpoint | 4,286 | 🟢 | Python |
+| [google-translate-api](https://github.com/matheuss/google-translate-api) | Node.js client for Google Translate's free web API | 3,153 | 🟡 | JavaScript |
+| [translators](https://github.com/UlionTse/translators) | Python library calling the free web APIs of dozens of online translators | 2,694 | 🟢 | Python |
+| [gTTS](https://github.com/pndurette/gTTS) | Python library and CLI for Google Translate's undocumented text-to-speech endpoint | 2,636 | 🟢 | Python |
+| [deep-translator](https://github.com/nidhaloff/deep-translator) | Python translator wrapping free web endpoints of Google, DeepL, Linguee and others | 2,048 | 🟡 | Python |
+| [crow-translate](https://github.com/crow-translate/crow-translate) | Desktop translator using Google, Yandex and Bing web translation APIs | 1,968 | 🗄️ | C++ |
+| [dialect](https://github.com/dialect-app/dialect) | GNOME translation app using Google Translate's web API and others | 678 | 🟢 | Python |
+| [translate](https://github.com/Animenosekai/translate) | Python module grouping multiple undocumented translation web APIs | 559 | 🟡 | Python |
+| [deepl-cli](https://github.com/eggplants/deepl-cli) | DeepL translator CLI that works without an API key by driving the web app | 305 | 🟢 | Python |
+| [deepl-translator](https://github.com/vsetka/deepl-translator) | Node module for DeepL Translator via its undocumented API | 235 | 🗄️ | JavaScript |
+| [DeepLy](https://github.com/chriskonnertz/DeepLy) | Unofficial PHP client for the DeepL.com translation API | 229 | 🟡 | PHP |
+| [bing-translate-api](https://github.com/plainheart/bing-translate-api) | Free Node.js client for Bing / Microsoft Translator's web endpoint | 227 | 🟢 | JavaScript |
+| [linguee-api](https://github.com/imankulov/linguee-api) | Proxy that converts linguee.com HTML responses into a JSON API | 209 | 🗄️ | Python |
+| [deepl-translate](https://github.com/ptrstn/deepl-translate) | Unofficial Python package for translating text through deepl.com | 199 | 🗄️ | Python |
+| [deeplx](https://github.com/un-ts/deeplx) | Unofficial free DeepL API client for Node.js | 195 | 🟢 | TypeScript |
+| [googletranslate](https://github.com/ultrafunkamsterdam/googletranslate) | Python Google Translate client using a reverse engineered public API | 181 | 🟡 | Python |
+| [deepl-translate-api](https://github.com/zu1k/deepl-translate-api) | Reverse engineered DeepL translate API | 98 | 🔴 |  |
+| [vot.js](https://github.com/FOSWLY/vot.js) | Unofficial library for Yandex's voice-over video translation (VOT) API | 66 | 🟢 | TypeScript |
+| [ya-ocr](https://github.com/FOSWLY/ya-ocr) | Unofficial library for free Yandex OCR via the Translate API | 15 | 🟢 | TypeScript |
 
 ## Travel & Transport
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| teslamate | A self-hosted data logger for your Tesla [main maintainer=@JakobLichterfeld] | 9,115 | <https://github.com/teslamate-org/teslamate> |
-| fli | Google Flights library, CLI and MCP using the reverse-engineered Flights API | 3,225 | <https://github.com/punitarani/fli> |
-| python-garminconnect | Python 3 API wrapper for Garmin Connect to get statistics and set activities | 3,136 | <https://github.com/cyberjunky/python-garminconnect> |
-| flights | Fast, robust Google Flights scraper (API) for Python. (Probably) | 2,102 | <https://github.com/AWeirdDev/flights> |
-| garth | [DEPRECATED] Garmin SSO auth + Connect Python client | 819 | <https://github.com/matin/garth> |
-| bahn.expert | Deutsche Bahn departure monitor built on DB's internal APIs | 633 | <https://github.com/marudor/bahn.expert> |
-| auto-southwest-check-in | Automatically checks in to Southwest flights via its web API | 592 | <https://github.com/jdholtz/auto-southwest-check-in> |
-| themeparks *(archived)* | Unofficial API for ride wait times and schedules at Disney, Universal and other parks | 561 | <https://github.com/cubehouse/themeparks> |
-| bimmer_connected *(archived)* | Library to query BMW/Mini ConnectedDrive status via the app API (now deprecated) | 472 | <https://github.com/bimmerconnected/bimmer_connected> |
-| FlightRadarAPI | Unofficial FlightRadar24 SDK for Python, Node.js and Go | 430 | <https://github.com/JeanExtreme002/FlightRadarAPI> |
-| SouthwestCheckin | Python script that checks in to Southwest flights | 424 | <https://github.com/pyro2927/SouthwestCheckin> |
-| TeslaPy | A Python module to use the Tesla Motors Owner API | 416 | <https://github.com/tdorssers/TeslaPy> |
-| hyundai_kia_connect_api | This is a Kia UVO and Hyundai Bluelink written in python. It is primary consumed by home assistant. If you are... | 373 | <https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api> |
-| hafas-client | JavaScript client for HAFAS public transport APIs. | 368 | <https://github.com/public-transport/hafas-client> |
-| mbapi2020 | Custom Component to integrate Mercedes-Benz cars into Home-Assistant | 350 | <https://github.com/ReneNulschDE/mbapi2020> |
-| airbnbapi | Unofficial Airbnb REST API wrapper for Node.js | 227 | <https://github.com/zxol/airbnbapi> |
-| CarConnectivity | Python API to retrieve telemetry data from various car brands | 215 | <https://github.com/tillsteinbach/CarConnectivity> |
-| db-vendo-client | JavaScript client for Deutsche Bahn public transport APIs. | 206 | <https://github.com/public-transport/db-vendo-client> |
-| airbnb-python | Python wrapper around Airbnb's unofficial mobile API | 203 | <https://github.com/nderkach/airbnb-python> |
-| WazeRouteCalculator | Calculate actual route time and distance with Waze api | 183 | <https://github.com/kovacsbalu/WazeRouteCalculator> |
-| WeConnect-python | Python API for the Volkswagen WeConnect Services | 138 | <https://github.com/tillsteinbach/WeConnect-python> |
-| iRail | iRail API that scrapes Belgian railway (NMBS/SNCB) data | 136 | <https://github.com/iRail/iRail> |
-| vvo | Links and tools for Dresden's VVO/DVB transit API | 124 | <https://github.com/kiliankoe/vvo> |
-| db-rest | A clean REST API wrapping around the Deutsche Bahn API. | 123 | <https://github.com/derhuerst/db-rest> |
-| bg1 | Unofficial Disney Lightning Lane and boarding group client | 112 | <https://github.com/joelface/bg1> |
-| transport-apis | machine-readable list of transport API endpoints | 101 | <https://github.com/public-transport/transport-apis> |
-| swoop | Search Google Flights programmatically without an API key | 98 | <https://github.com/saraswatayu/swoop> |
-| oebb | Austrian Federal Railways (ÖBB) API client | 70 | <https://github.com/public-transport/oebb> |
-| ryanair-py | This is an open source Python module which allows you to retrieve the cheapest flights, with or without return... | 68 | <https://github.com/cohaolain/ryanair-py> |
-| clippercard | Unofficial Python API for the Bay Area Clipper transit card | 63 | <https://github.com/anthonywu/clippercard> |
-| pyhafas | Python client for HAFAS public transport APIs | 62 | <https://github.com/FahrplanDatenGarten/pyhafas> |
-| trainline-python | Non-official Python wrapper and CLI for Trainline | 61 | <https://github.com/tducret/trainline-python> |
-| dvbpy | Python client for Dresden public transport (DVB) data | 58 | <https://github.com/offenesdresden/dvbpy> |
-| airbnb-private-api | Unofficial Airbnb private API wrapper | 52 | <https://github.com/drawrowfly/airbnb-private-api> |
-| skyscanner | A Python client library for interacting with the Skyscanner flight and car rental APIs | 49 | <https://github.com/irrisolto/skyscanner> |
-| locomotive *(archived)* | Python API clients for France's railways. | 47 | <https://github.com/junekiwi/locomotive> |
-| metlink-api-maybe | Code using an undocumented API from Wellington's Metlink transit site | 47 | <https://github.com/reedwade/metlink-api-maybe> |
-| TrenitaliaAPI *(archived)* | Reverse engineering of the Trenitalia app API | 47 | <https://github.com/jacopo-j/TrenitaliaAPI> |
-| korail-mobile-api | Unofficial Python client that mirrors the Korail+ app requests | 45 | <https://github.com/yakisoba0728/korail-mobile-api> |
-| United-In-Flight-Api | Reverse-engineered United Airlines in-flight Wi-Fi API documented as a Postman collection | 45 | <https://github.com/greatjack1/United-In-Flight-Api> |
-| dominos | dominos.co.uk python library | 35 | <https://github.com/tomasbasham/dominos> |
-| pykorail | Unofficial Python SDK for Korail (Korean railway) reservations | 33 | <https://github.com/devgyurak/pykorail> |
-| vbb-hafas | JavaScript client for the Berlin-Brandenburg VBB HAFAS API | 33 | <https://github.com/public-transport/vbb-hafas> |
-| flix | JavaScript client for the FlixBus/FlixTrain API | 32 | <https://github.com/public-transport/flix> |
-| MouseTools *(archived)* | Python wrapper for Disney's parks API | 31 | <https://github.com/scaratozzolo/MouseTools> |
-| ryanair | Unofficial TypeScript client for Ryanair airports, flights and fares | 31 | <https://github.com/2BAD/ryanair> |
-| onboardapis | Python wrapper for on-board Wi-Fi portal APIs of trains and transport operators | 29 | <https://github.com/felix-zenk/onboardapis> |
-| sncf *(archived)* | SNCF API client | 28 | <https://github.com/juliuste/sncf> |
-| ICEOnboardAPI | Reverse-engineered API for the ICE Portal on German ICE trains | 26 | <https://github.com/lightsprint09/ICEOnboardAPI> |
-| hafas-rest-api | Expose a HAFAS client via an HTTP REST API. | 25 | <https://github.com/public-transport/hafas-rest-api> |
-| DVB | Swift client for Dresden public transport (DVB) data | 22 | <https://github.com/kiliankoe/DVB> |
-| 9292-nl-api-spec | Reverse-engineered API specification for 9292.nl public transport | 20 | <https://github.com/oleander/9292-nl-api-spec> |
-| node-deliveroo | API Wrapper for Deliveroo, the food delivery company | 17 | <https://github.com/jzarca01/node-deliveroo> |
-| wizzair-scraper | Scripts that fetch Wizz Air fares from its timetable API | 17 | <https://github.com/kovacskokokornel/wizzair-scraper> |
-| bvg-hafas | JavaScript client for the BVG HAFAS API | 13 | <https://github.com/public-transport/bvg-hafas> |
-| oyster-api | Unofficial TfL Oyster card API | 12 | <https://github.com/bencevans/oyster-api> |
-| golang-ubereats *(archived)* | An unofficial Golang client for Uber Eats API | 11 | <https://github.com/dan-v/golang-ubereats> |
-| node-bird-lite | The lite version of node-bird | 8 | <https://github.com/jzarca01/node-bird-lite> |
-| koleo | Unofficial API wrapper for Koleo.pl Polish railway search | 4 | <https://github.com/VEX-Systems/koleo> |
-| node-bolt | An API Wrapper for Bolt, the ride-hailing app | 4 | <https://github.com/jzarca01/node-bolt> |
-| trenitalia-italo-api | Unofficial JavaScript API for Trenitalia and Italo ticket search | 4 | <https://github.com/stefanopochet/trenitalia-italo-api> |
-| citibike | Ruby wrapper for the unofficial NYC Citibike API | 3 | <https://github.com/ejlangev/citibike> |
-| db-zugradar-client *(archived)* | Live DB train positions from the Zugradar endpoint | 3 | <https://github.com/derhuerst/db-zugradar-client> |
-| Pegasustan | Unofficial .NET client for Pegasus Airlines' API | 2 | <https://github.com/sirdx/Pegasustan> |
-| node-rome2rio | A wrapper for Rome2Rio API | 0 | <https://github.com/jzarca01/node-rome2rio> |
-| node-wind-lite | Lite version of node-wind | 0 | <https://github.com/jzarca01/node-wind-lite> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla [main maintainer=@JakobLichterfeld] | 9,115 | 🟢 | Elixir |
+| [fli](https://github.com/punitarani/fli) | Google Flights library, CLI and MCP using the reverse-engineered Flights API | 3,225 | 🟢 | Python |
+| [python-garminconnect](https://github.com/cyberjunky/python-garminconnect) | Python 3 API wrapper for Garmin Connect to get statistics and set activities | 3,136 | 🟢 | Python |
+| [flights](https://github.com/AWeirdDev/flights) | Fast, robust Google Flights scraper (API) for Python. (Probably) | 2,102 | 🟢 | Python |
+| [garth](https://github.com/matin/garth) | [DEPRECATED] Garmin SSO auth + Connect Python client | 819 | 🟢 | Python |
+| [bahn.expert](https://github.com/marudor/bahn.expert) | Deutsche Bahn departure monitor built on DB's internal APIs | 633 | 🟡 |  |
+| [auto-southwest-check-in](https://github.com/jdholtz/auto-southwest-check-in) | Automatically checks in to Southwest flights via its web API | 592 | 🟢 | Python |
+| [themeparks](https://github.com/cubehouse/themeparks) | Unofficial API for ride wait times and schedules at Disney, Universal and other parks | 561 | 🗄️ | JavaScript |
+| [bimmer_connected](https://github.com/bimmerconnected/bimmer_connected) | Library to query BMW/Mini ConnectedDrive status via the app API (now deprecated) | 472 | 🗄️ | Python |
+| [FlightRadarAPI](https://github.com/JeanExtreme002/FlightRadarAPI) | Unofficial FlightRadar24 SDK for Python, Node.js and Go | 430 | 🟢 | Go |
+| [SouthwestCheckin](https://github.com/pyro2927/SouthwestCheckin) | Python script that checks in to Southwest flights | 424 | 🟢 | Python |
+| [TeslaPy](https://github.com/tdorssers/TeslaPy) | A Python module to use the Tesla Motors Owner API | 416 | 🟢 | Python |
+| [hyundai_kia_connect_api](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api) | This is a Kia UVO and Hyundai Bluelink written in python. It is primary consumed by home assistant. If you are... | 373 | 🟢 | Python |
+| [hafas-client](https://github.com/public-transport/hafas-client) | JavaScript client for HAFAS public transport APIs. | 368 | 🟢 | JavaScript |
+| [mbapi2020](https://github.com/ReneNulschDE/mbapi2020) | Custom Component to integrate Mercedes-Benz cars into Home-Assistant | 350 | 🟢 | Python |
+| [airbnbapi](https://github.com/zxol/airbnbapi) | Unofficial Airbnb REST API wrapper for Node.js | 227 | 🔴 | JavaScript |
+| [CarConnectivity](https://github.com/tillsteinbach/CarConnectivity) | Python API to retrieve telemetry data from various car brands | 215 | 🟢 | Python |
+| [db-vendo-client](https://github.com/public-transport/db-vendo-client) | JavaScript client for Deutsche Bahn public transport APIs. | 206 | 🟢 | JavaScript |
+| [airbnb-python](https://github.com/nderkach/airbnb-python) | Python wrapper around Airbnb's unofficial mobile API | 203 | 🔴 | Python |
+| [WazeRouteCalculator](https://github.com/kovacsbalu/WazeRouteCalculator) | Calculate actual route time and distance with Waze api | 183 | 🟢 | Python |
+| [WeConnect-python](https://github.com/tillsteinbach/WeConnect-python) | Python API for the Volkswagen WeConnect Services | 138 | 🟢 | Python |
+| [iRail](https://github.com/iRail/iRail) | iRail API that scrapes Belgian railway (NMBS/SNCB) data | 136 | 🟢 | HTML |
+| [vvo](https://github.com/kiliankoe/vvo) | Links and tools for Dresden's VVO/DVB transit API | 124 | 🟢 | Python |
+| [db-rest](https://github.com/derhuerst/db-rest) | A clean REST API wrapping around the Deutsche Bahn API. | 123 | 🟢 | JavaScript |
+| [bg1](https://github.com/joelface/bg1) | Unofficial Disney Lightning Lane and boarding group client | 112 | 🟢 | TypeScript |
+| [transport-apis](https://github.com/public-transport/transport-apis) | machine-readable list of transport API endpoints | 101 | 🟢 | Python |
+| [swoop](https://github.com/saraswatayu/swoop) | Search Google Flights programmatically without an API key | 98 | 🟢 | Python |
+| [oebb](https://github.com/public-transport/oebb) | Austrian Federal Railways (ÖBB) API client | 70 | 🔴 | JavaScript |
+| [ryanair-py](https://github.com/cohaolain/ryanair-py) | This is an open source Python module which allows you to retrieve the cheapest flights, with or without return... | 68 | 🟡 | Python |
+| [clippercard](https://github.com/anthonywu/clippercard) | Unofficial Python API for the Bay Area Clipper transit card | 63 | 🟢 | HTML |
+| [pyhafas](https://github.com/FahrplanDatenGarten/pyhafas) | Python client for HAFAS public transport APIs | 62 | 🟡 | Python |
+| [trainline-python](https://github.com/tducret/trainline-python) | Non-official Python wrapper and CLI for Trainline | 61 | 🔴 | Python |
+| [dvbpy](https://github.com/offenesdresden/dvbpy) | Python client for Dresden public transport (DVB) data | 58 | 🟢 | Python |
+| [airbnb-private-api](https://github.com/drawrowfly/airbnb-private-api) | Unofficial Airbnb private API wrapper | 52 | 🔴 | TypeScript |
+| [skyscanner](https://github.com/irrisolto/skyscanner) | A Python client library for interacting with the Skyscanner flight and car rental APIs | 49 | 🟡 | Python |
+| [locomotive](https://github.com/junekiwi/locomotive) | Python API clients for France's railways. | 47 | 🗄️ | Python |
+| [metlink-api-maybe](https://github.com/reedwade/metlink-api-maybe) | Code using an undocumented API from Wellington's Metlink transit site | 47 | 🔴 | Go |
+| [TrenitaliaAPI](https://github.com/jacopo-j/TrenitaliaAPI) | Reverse engineering of the Trenitalia app API | 47 | 🗄️ | Python |
+| [korail-mobile-api](https://github.com/yakisoba0728/korail-mobile-api) | Unofficial Python client that mirrors the Korail+ app requests | 45 | 🟢 | Python |
+| [United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api) | Reverse-engineered United Airlines in-flight Wi-Fi API documented as a Postman collection | 45 | 🔴 |  |
+| [dominos](https://github.com/tomasbasham/dominos) | dominos.co.uk python library | 35 | 🔴 | Python |
+| [pykorail](https://github.com/devgyurak/pykorail) | Unofficial Python SDK for Korail (Korean railway) reservations | 33 | 🟢 | Python |
+| [vbb-hafas](https://github.com/public-transport/vbb-hafas) | JavaScript client for the Berlin-Brandenburg VBB HAFAS API | 33 | 🔴 | JavaScript |
+| [flix](https://github.com/public-transport/flix) | JavaScript client for the FlixBus/FlixTrain API | 32 | 🔴 | JavaScript |
+| [MouseTools](https://github.com/scaratozzolo/MouseTools) | Python wrapper for Disney's parks API | 31 | 🗄️ | Python |
+| [ryanair](https://github.com/2BAD/ryanair) | Unofficial TypeScript client for Ryanair airports, flights and fares | 31 | 🟢 | TypeScript |
+| [onboardapis](https://github.com/felix-zenk/onboardapis) | Python wrapper for on-board Wi-Fi portal APIs of trains and transport operators | 29 | 🟢 | Python |
+| [sncf](https://github.com/juliuste/sncf) | SNCF API client | 28 | 🗄️ | JavaScript |
+| [ICEOnboardAPI](https://github.com/lightsprint09/ICEOnboardAPI) | Reverse-engineered API for the ICE Portal on German ICE trains | 26 | 🔴 | Swift |
+| [hafas-rest-api](https://github.com/public-transport/hafas-rest-api) | Expose a HAFAS client via an HTTP REST API. | 25 | 🟡 | JavaScript |
+| [DVB](https://github.com/kiliankoe/DVB) | Swift client for Dresden public transport (DVB) data | 22 | 🔴 | Swift |
+| [9292-nl-api-spec](https://github.com/oleander/9292-nl-api-spec) | Reverse-engineered API specification for 9292.nl public transport | 20 | 🔴 |  |
+| [node-deliveroo](https://github.com/jzarca01/node-deliveroo) | API Wrapper for Deliveroo, the food delivery company | 17 | 🔴 | JavaScript |
+| [wizzair-scraper](https://github.com/kovacskokokornel/wizzair-scraper) | Scripts that fetch Wizz Air fares from its timetable API | 17 | 🔴 | Python |
+| [bvg-hafas](https://github.com/public-transport/bvg-hafas) | JavaScript client for the BVG HAFAS API | 13 | 🔴 | JavaScript |
+| [oyster-api](https://github.com/bencevans/oyster-api) | Unofficial TfL Oyster card API | 12 | 🔴 | JavaScript |
+| [golang-ubereats](https://github.com/dan-v/golang-ubereats) | An unofficial Golang client for Uber Eats API | 11 | 🗄️ | Go |
+| [node-bird-lite](https://github.com/jzarca01/node-bird-lite) | The lite version of node-bird | 8 | 🔴 | JavaScript |
+| [koleo](https://github.com/VEX-Systems/koleo) | Unofficial API wrapper for Koleo.pl Polish railway search | 4 | 🟢 | JavaScript |
+| [node-bolt](https://github.com/jzarca01/node-bolt) | An API Wrapper for Bolt, the ride-hailing app | 4 | 🔴 | JavaScript |
+| [trenitalia-italo-api](https://github.com/stefanopochet/trenitalia-italo-api) | Unofficial JavaScript API for Trenitalia and Italo ticket search | 4 | 🔴 | JavaScript |
+| [citibike](https://github.com/ejlangev/citibike) | Ruby wrapper for the unofficial NYC Citibike API | 3 | 🔴 | Ruby |
+| [db-zugradar-client](https://github.com/derhuerst/db-zugradar-client) | Live DB train positions from the Zugradar endpoint | 3 | 🗄️ | JavaScript |
+| [Pegasustan](https://github.com/sirdx/Pegasustan) | Unofficial .NET client for Pegasus Airlines' API | 2 | 🟡 | C# |
+| [node-rome2rio](https://github.com/jzarca01/node-rome2rio) | A wrapper for Rome2Rio API | 0 | 🔴 | JavaScript |
+| [node-wind-lite](https://github.com/jzarca01/node-wind-lite) | Lite version of node-wind | 0 | 🔴 | JavaScript |
 
 ## Video & YouTube
 
-| Name | What it is | ★ | Repo |
-|---|---|--:|---|
-| yt-dlp | A feature-rich command-line audio/video downloader | 197,375 | <https://github.com/yt-dlp/yt-dlp> |
-| youtube-dl | Command-line program to download videos from YouTube.com and other video sites | 141,287 | <https://github.com/ytdl-org/youtube-dl> |
-| NewPipe | A libre lightweight streaming front-end for Android. | 40,110 | <https://github.com/TeamNewPipe/NewPipe> |
-| SmartTube | Browse media content with your own rules on Android TV | 34,912 | <https://github.com/yuliskov/SmartTube> |
-| invidious | Invidious is an alternative front-end to YouTube | 25,410 | <https://github.com/iv-org/invidious> |
-| FreeTube | An Open Source YouTube app for privacy | 22,045 | <https://github.com/FreeTubeApp/FreeTube> |
-| pytube | Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions. | 13,191 | <https://github.com/pytube/pytube> |
-| streamlink | Streamlink is a CLI utility which pipes video streams from various services into a video player | 11,848 | <https://github.com/streamlink/streamlink> |
-| Piped | An alternative privacy-friendly YouTube frontend which is efficient by design. | 10,284 | <https://github.com/TeamPiped/Piped> |
-| youtube-transcript-api | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for... | 8,453 | <https://github.com/jdepoix/youtube-transcript-api> |
-| YouTube.js | A JavaScript client for YouTube's internal API, known as InnerTube. | 5,376 | <https://github.com/LuanRT/YouTube.js> |
-| node-ytdl-core | YouTube video downloader in javascript. | 4,731 | <https://github.com/fent/node-ytdl-core> |
-| youtube | Download Youtube Video in Golang | 3,936 | <https://github.com/kkdai/youtube> |
-| YoutubeExplode | Abstraction layer over YouTube's internal API | 3,739 | <https://github.com/Tyrrrz/YoutubeExplode> |
-| Tubular *(archived)* | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | 3,171 | <https://github.com/polymorphicshade/Tubular> |
-| ytmusicapi | Unofficial API for YouTube Music | 3,065 | <https://github.com/sigma67/ytmusicapi> |
-| get_iplayer | Downloads TV and radio programmes from BBC iPlayer and BBC Sounds | 2,551 | <https://github.com/get-iplayer/get_iplayer> |
-| plugin.video.netflix | InputStream based Netflix plugin for Kodi | 2,036 | <https://github.com/CastagnaIT/plugin.video.netflix> |
-| NewPipeExtractor | NewPipe's core library for extracting data from streaming sites | 2,003 | <https://github.com/TeamNewPipe/NewPipeExtractor> |
-| ytarchive | Garbage Youtube livestream downloader | 1,701 | <https://github.com/Kethsar/ytarchive> |
-| pytubefix | Python3 library for downloading YouTube Videos. | 1,643 | <https://github.com/JuanBindez/pytubefix> |
-| plugin.video.netflix | Inputstream based Netflix plugin for Kodi | 1,229 | <https://github.com/asciidisco/plugin.video.netflix> |
-| mediathekviewweb | Web interface for searching German public broadcaster media libraries | 1,196 | <https://github.com/mediathekview/mediathekviewweb> |
-| MediathekView | Searches and downloads from German public broadcasters' online media libraries | 1,018 | <https://github.com/mediathekview/MediathekView> |
-| svtplay-dl | Command-line downloader for SVT Play and other streaming sites | 903 | <https://github.com/spaam/svtplay-dl> |
-| youtube-search-python *(archived)* | Search YouTube videos, channels and playlists without the Data API | 801 | <https://github.com/alexmercerind/youtube-search-python> |
-| plex-api *(archived)* | Unofficial Plex API documentation | 630 | <https://github.com/Arcanemagus/plex-api> |
-| YouTube-Internal-Clients | A python script that discovers hidden YouTube API clients. Just a research project. | 600 | <https://github.com/zerodytrash/YouTube-Internal-Clients> |
-| ytdl-core *(archived)* | YouTube video downloader in javascript. | 511 | <https://github.com/distubejs/ytdl-core> |
-| innertube | Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more! | 507 | <https://github.com/tombulled/innertube> |
-| ejs | External JavaScript for yt-dlp supporting many runtimes | 461 | <https://github.com/yt-dlp/ejs> |
-| youtube_explode_dart | Dart library for YouTube's internal APIs | 425 | <https://github.com/Hexer10/youtube_explode_dart> |
-| MediathekArr | Integrates ARD and ZDF Mediathek into Prowlarr, Sonarr and Radarr | 377 | <https://github.com/PCJones/MediathekArr> |
-| pytchat *(archived)* | Python library for reading YouTube live chat without the official API | 370 | <https://github.com/taizan-hokuto/pytchat> |
-| plugin.video.catchuptvandmore | Kodi add-on for replay and live TV from many broadcasters' websites | 336 | <https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore> |
-| node-plex-api | Node.js package for the Plex Media Server HTTP API | 239 | <https://github.com/phillipj/node-plex-api> |
-| Piped-Backend | The core component behind Piped, and other alternative frontends! | 170 | <https://github.com/TeamPiped/Piped-Backend> |
-| netflix-force-4k | Reverse-engineered Netflix 4K playback checks; extension forces 4K on unsupported browsers | 148 | <https://github.com/Pickle-Pixel/netflix-force-4k> |
-| twitch-graphql-api | Undocumented, uncorroborated, but certainly not unPoggers. | 134 | <https://github.com/mauricew/twitch-graphql-api> |
-| youtube-studio | Unofficial YouTube Studio API | 127 | <https://github.com/adasq/youtube-studio> |
-| mtv_dl | MediathekView command-line downloader | 100 | <https://github.com/fnep/mtv_dl> |
-| plex-api | .NET Core SDK for the Plex Media Server API | 94 | <https://github.com/jensenkd/plex-api> |
-| shakti | Breakdown of Netflix's internal Shakti API | 91 | <https://github.com/oldgalileo/shakti> |
-| MServer | Crawler server behind MediathekView for German public broadcaster libraries | 86 | <https://github.com/mediathekview/MServer> |
-| plex-api-spec | Community-maintained OpenAPI specification for the Plex Media Server API | 85 | <https://github.com/LukasParke/plex-api-spec> |
-| youtube | Library for YouTube search, metadata and stream URLs via internal APIs | 78 | <https://github.com/lithdew/youtube> |
-| xbmc-svtplay | Unofficial Kodi add-on for SVT Play | 68 | <https://github.com/kodi-svtplay/xbmc-svtplay> |
-| plugin.video.mediathekview | Kodi plugin for German public broadcaster video platforms | 65 | <https://github.com/mediathekview/plugin.video.mediathekview> |
-| python-crunchyroll *(archived)* | Python interface to Crunchyroll's undocumented APIs | 65 | <https://github.com/aheadley/python-crunchyroll> |
-| twitch-graphql-api | A documentation and schema scraping of Twitch's GraphQL API. | 60 | <https://github.com/SuperSonicHub1/twitch-graphql-api> |
-| Kick4J *(archived)* | Java client for Kick.com's private API | 56 | <https://github.com/tyyzf/Kick4J> |
-| youtube-unofficial | Access parts of your YouTube account unavailable through the official API | 55 | <https://github.com/Tatsh/youtube-unofficial> |
-| plugin.video.iplayerwww | BBC iPlayer add-on for Kodi | 46 | <https://github.com/vonH/plugin.video.iplayerwww> |
-| innertube *(archived)* | Unofficial documentation of the low-level YouTube InnerTube API | 43 | <https://github.com/davidzeng0/innertube> |
-| disneyplus-client | Client for interacting with the Disney+ private API | 31 | <https://github.com/jonbarrow/disneyplus-client> |
-| pyytlounge | Python client for the reverse-engineered YouTube Lounge (TV remote) API | 27 | <https://github.com/FabioGNR/pyytlounge> |
-| bbcapis | Node.js SDK for the BBC Nitro, iBL and /programmes APIs | 23 | <https://github.com/MikeRalphson/bbcapis> |
-| plugin.video.francetv | Kodi add-on for France Televisions live and catch-up TV | 22 | <https://github.com/melmorabity/plugin.video.francetv> |
-| iplayer-cli | Browse and watch BBC iPlayer from the terminal | 10 | <https://github.com/alexnorton/iplayer-cli> |
-| YouScrape *(archived)* | Unofficial replacement for YouTube Data API v3 using internal endpoints | 6 | <https://github.com/MirazMac/YouScrape> |
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 197,375 | 🟢 | Python |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 141,287 | 🟢 | Python |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | 40,110 | 🟢 | Java |
+| [SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | 34,912 | 🟢 | Java |
+| [invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube | 25,410 | 🟢 | Crystal |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | 22,045 | 🟢 | Vue |
+| [pytube](https://github.com/pytube/pytube) | Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions. | 13,191 | 🟡 | Python |
+| [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | 11,848 | 🟢 | Python |
+| [Piped](https://github.com/TeamPiped/Piped) | An alternative privacy-friendly YouTube frontend which is efficient by design. | 10,284 | 🟢 | Vue |
+| [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for... | 8,453 | 🟢 | Python |
+| [YouTube.js](https://github.com/LuanRT/YouTube.js) | A JavaScript client for YouTube's internal API, known as InnerTube. | 5,376 | 🟢 | TypeScript |
+| [node-ytdl-core](https://github.com/fent/node-ytdl-core) | YouTube video downloader in javascript. | 4,731 | 🟢 | JavaScript |
+| [youtube](https://github.com/kkdai/youtube) | Download Youtube Video in Golang | 3,936 | 🟢 | Go |
+| [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | Abstraction layer over YouTube's internal API | 3,739 | 🟢 | C# |
+| [Tubular](https://github.com/polymorphicshade/Tubular) | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. | 3,171 | 🗄️ | Java |
+| [ytmusicapi](https://github.com/sigma67/ytmusicapi) | Unofficial API for YouTube Music | 3,065 | 🟢 | Python |
+| [get_iplayer](https://github.com/get-iplayer/get_iplayer) | Downloads TV and radio programmes from BBC iPlayer and BBC Sounds | 2,551 | 🟡 | Perl |
+| [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) | InputStream based Netflix plugin for Kodi | 2,036 | 🟢 | Python |
+| [NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | NewPipe's core library for extracting data from streaming sites | 2,003 | 🟢 | Java |
+| [ytarchive](https://github.com/Kethsar/ytarchive) | Garbage Youtube livestream downloader | 1,701 | 🟢 | Go |
+| [pytubefix](https://github.com/JuanBindez/pytubefix) | Python3 library for downloading YouTube Videos. | 1,643 | 🟢 | Python |
+| [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | Inputstream based Netflix plugin for Kodi | 1,229 | 🟡 | Python |
+| [mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) | Web interface for searching German public broadcaster media libraries | 1,196 | 🟢 | Svelte |
+| [MediathekView](https://github.com/mediathekview/MediathekView) | Searches and downloads from German public broadcasters' online media libraries | 1,018 | 🟢 | Kotlin |
+| [svtplay-dl](https://github.com/spaam/svtplay-dl) | Command-line downloader for SVT Play and other streaming sites | 903 | 🟢 | Python |
+| [youtube-search-python](https://github.com/alexmercerind/youtube-search-python) | Search YouTube videos, channels and playlists without the Data API | 801 | 🗄️ | Python |
+| [plex-api](https://github.com/Arcanemagus/plex-api) | Unofficial Plex API documentation | 630 | 🗄️ |  |
+| [YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) | A python script that discovers hidden YouTube API clients. Just a research project. | 600 | 🔴 | Python |
+| [ytdl-core](https://github.com/distubejs/ytdl-core) | YouTube video downloader in javascript. | 511 | 🗄️ | JavaScript |
+| [innertube](https://github.com/tombulled/innertube) | Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more! | 507 | 🟡 | Python |
+| [ejs](https://github.com/yt-dlp/ejs) | External JavaScript for yt-dlp supporting many runtimes | 461 | 🟢 | TypeScript |
+| [youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) | Dart library for YouTube's internal APIs | 425 | 🟢 | Dart |
+| [MediathekArr](https://github.com/PCJones/MediathekArr) | Integrates ARD and ZDF Mediathek into Prowlarr, Sonarr and Radarr | 377 | 🟢 | C# |
+| [pytchat](https://github.com/taizan-hokuto/pytchat) | Python library for reading YouTube live chat without the official API | 370 | 🗄️ | Python |
+| [plugin.video.catchuptvandmore](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore) | Kodi add-on for replay and live TV from many broadcasters' websites | 336 | 🟢 | Python |
+| [node-plex-api](https://github.com/phillipj/node-plex-api) | Node.js package for the Plex Media Server HTTP API | 239 | 🔴 | JavaScript |
+| [Piped-Backend](https://github.com/TeamPiped/Piped-Backend) | The core component behind Piped, and other alternative frontends! | 170 | 🟢 | Java |
+| [netflix-force-4k](https://github.com/Pickle-Pixel/netflix-force-4k) | Reverse-engineered Netflix 4K playback checks; extension forces 4K on unsupported browsers | 148 | 🟢 | JavaScript |
+| [twitch-graphql-api](https://github.com/mauricew/twitch-graphql-api) | Undocumented, uncorroborated, but certainly not unPoggers. | 134 | 🔴 |  |
+| [youtube-studio](https://github.com/adasq/youtube-studio) | Unofficial YouTube Studio API | 127 | 🟡 | JavaScript |
+| [mtv_dl](https://github.com/fnep/mtv_dl) | MediathekView command-line downloader | 100 | 🟢 | Python |
+| [plex-api](https://github.com/jensenkd/plex-api) | .NET Core SDK for the Plex Media Server API | 94 | 🟡 | C# |
+| [shakti](https://github.com/oldgalileo/shakti) | Breakdown of Netflix's internal Shakti API | 91 | 🔴 |  |
+| [MServer](https://github.com/mediathekview/MServer) | Crawler server behind MediathekView for German public broadcaster libraries | 86 | 🟢 | Java |
+| [plex-api-spec](https://github.com/LukasParke/plex-api-spec) | Community-maintained OpenAPI specification for the Plex Media Server API | 85 | 🟢 | JavaScript |
+| [youtube](https://github.com/lithdew/youtube) | Library for YouTube search, metadata and stream URLs via internal APIs | 78 | 🔴 | Go |
+| [xbmc-svtplay](https://github.com/kodi-svtplay/xbmc-svtplay) | Unofficial Kodi add-on for SVT Play | 68 | 🟡 | Python |
+| [plugin.video.mediathekview](https://github.com/mediathekview/plugin.video.mediathekview) | Kodi plugin for German public broadcaster video platforms | 65 | 🟢 | Python |
+| [python-crunchyroll](https://github.com/aheadley/python-crunchyroll) | Python interface to Crunchyroll's undocumented APIs | 65 | 🗄️ | Python |
+| [twitch-graphql-api](https://github.com/SuperSonicHub1/twitch-graphql-api) | A documentation and schema scraping of Twitch's GraphQL API. | 60 | 🔴 |  |
+| [Kick4J](https://github.com/tyyzf/Kick4J) | Java client for Kick.com's private API | 56 | 🗄️ | Java |
+| [youtube-unofficial](https://github.com/Tatsh/youtube-unofficial) | Access parts of your YouTube account unavailable through the official API | 55 | 🟢 | Python |
+| [plugin.video.iplayerwww](https://github.com/vonH/plugin.video.iplayerwww) | BBC iPlayer add-on for Kodi | 46 | 🟡 | Python |
+| [innertube](https://github.com/davidzeng0/innertube) | Unofficial documentation of the low-level YouTube InnerTube API | 43 | 🗄️ |  |
+| [disneyplus-client](https://github.com/jonbarrow/disneyplus-client) | Client for interacting with the Disney+ private API | 31 | 🔴 | JavaScript |
+| [pyytlounge](https://github.com/FabioGNR/pyytlounge) | Python client for the reverse-engineered YouTube Lounge (TV remote) API | 27 | 🟢 | Python |
+| [bbcapis](https://github.com/MikeRalphson/bbcapis) | Node.js SDK for the BBC Nitro, iBL and /programmes APIs | 23 | 🔴 | JavaScript |
+| [plugin.video.francetv](https://github.com/melmorabity/plugin.video.francetv) | Kodi add-on for France Televisions live and catch-up TV | 22 | 🟡 | Python |
+| [iplayer-cli](https://github.com/alexnorton/iplayer-cli) | Browse and watch BBC iPlayer from the terminal | 10 | 🔴 | JavaScript |
+| [YouScrape](https://github.com/MirazMac/YouScrape) | Unofficial replacement for YouTube Data API v3 using internal endpoints | 6 | 🗄️ | PHP |

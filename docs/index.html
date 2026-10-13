@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Awesome Reverse-Engineered: search 10,000+ open-source tools</title>
+<meta name="description" content="Search open-source clients, drivers, parsers and decompilations built by reverse engineering closed apps, APIs, devices, games and AI tools.">
+<meta property="og:title" content="Awesome Reverse-Engineered">
+<meta property="og:description" content="Search 10,000+ open-source tools built by reverse engineering closed apps, APIs, devices, games and AI tools.">
+<meta property="og:image" content="https://alexgaoth.github.io/awesome-reverse-engineered/og.png">
+<meta property="og:url" content="https://alexgaoth.github.io/awesome-reverse-engineered/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230e0f0d'/><text x='16' y='22' font-family='monospace' font-size='15' font-weight='700' fill='%23ffb000' text-anchor='middle'>0x</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<style>
+/* Design read: developer directory for engineers and agent builders. Dark-tech language with restraint,
+   native CSS, Geist + Geist Mono, one amber accent. Dials: variance 5, motion 3, density 6. */
+:root {
+  color-scheme: light;
+  --bg: #fafaf9; --surface: #ffffff; --raised: #f2f2ef; --line: #e4e4e0;
+  --ink: #18181b; --ink-2: #52525b; --ink-3: #71717a;
+  --accent: #a16207; --accent-ink: #ffffff; --accent-soft: #fdf3dc;
+  --good: #15803d; --warn: #a16207; --bad: #b91c1c; --mute: #71717a;
+  --radius: 10px;
+  --sans: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0e0f0d; --surface: #151613; --raised: #1c1d19; --line: #2a2b26;
+    --ink: #f2f0e8; --ink-2: #b4b1a4; --ink-3: #8b8878;
+    --accent: #ffb000; --accent-ink: #14120a; --accent-soft: #2a2310;
+    --good: #4ade80; --warn: #facc15; --bad: #f87171; --mute: #8b8878;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.55 var(--sans); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* nav */
+nav { height: 64px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.mark { font: 600 15px var(--mono); text-decoration: none; letter-spacing: -.2px; }
+.mark b { color: var(--accent); font-weight: 600; }
+.navlinks { display: flex; gap: 6px; align-items: center; }
+.navlinks a { display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: 999px; text-decoration: none; color: var(--ink-2); font-size: 14px; }
+.navlinks a:hover { background: var(--raised); color: var(--ink); }
+.navlinks .gh { border: 1px solid var(--line); color: var(--ink); }
+
+/* hero */
+.hero { display: grid; grid-template-columns: 1.25fr 1fr; gap: 48px; padding: 56px 0 36px; align-items: start; }
+h1 { font-size: clamp(34px, 4.6vw, 52px); line-height: 1.05; letter-spacing: -1.6px; margin: 0 0 16px; font-weight: 700; max-width: 15ch; }
+.lede { color: var(--ink-2); font-size: 17px; max-width: 46ch; margin: 0 0 28px; }
+.searchlabel { display: block; font-size: 13px; color: var(--ink-2); margin-bottom: 8px; }
+.search { position: relative; }
+.search i { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); font-size: 20px; color: var(--ink-3); pointer-events: none; }
+.search input { width: 100%; height: 56px; padding: 0 16px 0 46px; font: 500 17px var(--sans); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.search input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.tries { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; font-size: 13px; color: var(--ink-3); align-items: center; }
+.tries button { font: 500 13px var(--mono); color: var(--ink-2); background: none; border: 1px dashed var(--line); border-radius: 999px; padding: 4px 10px; cursor: pointer; }
+.tries button:hover { color: var(--ink); border-color: var(--ink-3); }
+
+/* install card */
+.install { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; }
+.install h2 { font-size: 17px; margin: 0 0 6px; letter-spacing: -.2px; }
+.install p { color: var(--ink-2); margin: 0 0 16px; font-size: 14px; }
+.tabs { display: flex; gap: 4px; margin-bottom: 10px; }
+.tabs button { font: 500 13px var(--sans); background: none; border: 0; border-radius: 999px; padding: 6px 12px; color: var(--ink-2); cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--raised); color: var(--ink); }
+.code { position: relative; background: var(--raised); border-radius: 8px; padding: 14px 48px 14px 14px; font: 13px/1.6 var(--mono); white-space: pre-wrap; word-break: break-all; min-height: 52px; }
+.copy { position: absolute; right: 8px; top: 8px; width: 32px; height: 32px; display: grid; place-items: center; border: 1px solid var(--line); background: var(--surface); color: var(--ink-2); border-radius: 8px; cursor: pointer; }
+.copy:active { transform: translateY(1px); }
+.install .more { margin-top: 14px; font-size: 13px; color: var(--ink-3); }
+.install .more a { color: var(--accent); }
+
+/* filters */
+.bar { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); padding: 12px 0; }
+.chips { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; display: inline-flex; gap: 6px; align-items: center; font: 500 13px var(--sans); padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink-2); cursor: pointer; white-space: nowrap; }
+.chip .n { font: 12px var(--mono); color: var(--ink-3); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip[aria-pressed="true"] .n { color: var(--bg); opacity: .7; }
+.selects { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; align-items: end; }
+.field { display: flex; flex-direction: column; gap: 4px; }
+.field label { font-size: 12px; color: var(--ink-3); }
+select { font: 14px var(--sans); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 30px 7px 10px; appearance: none; background-image: linear-gradient(45deg, transparent 50%, var(--ink-3) 50%), linear-gradient(135deg, var(--ink-3) 50%, transparent 50%); background-position: calc(100% - 15px) 52%, calc(100% - 10px) 52%; background-size: 5px 5px; background-repeat: no-repeat; }
+.count { margin-left: auto; font: 13px var(--mono); color: var(--ink-3); align-self: center; }
+.clear { font: 13px var(--sans); color: var(--accent); background: none; border: 0; cursor: pointer; text-decoration: underline; padding: 0; }
+
+/* results */
+#results { padding-top: 8px; padding-bottom: 40px; }
+.row { display: grid; grid-template-columns: 1fr auto; gap: 6px 28px; padding: 18px 4px; border-bottom: 1px solid var(--line); }
+.row:hover { background: color-mix(in srgb, var(--raised) 55%, transparent); }
+.row h3 { margin: 0; font: 600 16px var(--sans); letter-spacing: -.2px; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.row h3 a { text-decoration: none; }
+.row h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.where { font: 12px var(--mono); color: var(--ink-3); }
+.desc { grid-column: 1; margin: 0; color: var(--ink-2); max-width: 75ch; }
+.meta { grid-column: 2; grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; font: 13px var(--mono); color: var(--ink-3); white-space: nowrap; }
+.stars { color: var(--ink); font-weight: 600; display: inline-flex; gap: 4px; align-items: center; }
+.stars i { color: var(--accent); }
+.health { display: inline-flex; gap: 6px; align-items: center; }
+.health::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+.h-active { color: var(--good); } .h-slow { color: var(--warn); } .h-dormant, .h-archived { color: var(--bad); } .h-unknown { color: var(--mute); }
+.tags { grid-column: 1; display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+.tag { font: 12px var(--mono); color: var(--ink-3); background: var(--raised); padding: 1px 8px; border-radius: 999px; }
+.more-btn { display: block; margin: 24px auto 0; font: 500 14px var(--sans); padding: 10px 18px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+.skel { height: 74px; border-bottom: 1px solid var(--line); background: linear-gradient(90deg, transparent, var(--raised), transparent) 0 0 / 200% 100%; animation: sh 1.4s infinite; }
+@keyframes sh { to { background-position: -200% 0; } }
+.empty { padding: 56px 0; text-align: center; color: var(--ink-2); }
+.empty h3 { color: var(--ink); margin: 0 0 6px; }
+
+footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--ink-3); font-size: 13px; }
+footer .wrap { display: flex; gap: 24px; flex-wrap: wrap; justify-content: space-between; }
+footer a { color: var(--ink-2); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .row { animation: in .35s cubic-bezier(.16,1,.3,1) both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+}
+@media (prefers-reduced-motion: reduce) { .skel { animation: none; } }
+@media (max-width: 860px) {
+  .hero { grid-template-columns: 1fr; gap: 28px; padding: 32px 0 24px; }
+  .wrap { padding: 0 16px; }
+  .navlinks .hide-sm { display: none; }
+  .row { grid-template-columns: 1fr; }
+  .meta { grid-column: 1; grid-row: auto; flex-direction: row; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .count { margin-left: 0; width: 100%; }
+  .mark { font-size: 13px; white-space: nowrap; }
+  .navlinks .gh { white-space: nowrap; padding: 6px 10px; }
+  .bar { position: static; }
+  .selects { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  .selects select { width: 100%; font-size: 13px; padding-right: 24px; }
+  .count { grid-column: 1 / -1; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav aria-label="Main">
+    <a class="mark" href="./"><b>awesome-</b>reverse-engineered</a>
+    <div class="navlinks">
+      <a class="hide-sm" href="#agent">Agent skill</a>
+      <a class="hide-sm" href="https://github.com/alexgaoth/awesome-reverse-engineered#-contributing">Add a project</a>
+      <a class="gh" href="https://github.com/alexgaoth/awesome-reverse-engineered"><i class="ph ph-github-logo"></i> GitHub <span id="ghstars"></span></a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div>
+      <h1>Find the tool someone already reverse engineered.</h1>
+      <p class="lede"><span id="n">10,000+</span> open-source clients, drivers, parsers and decompilations for closed apps, devices, games and AI tools.</p>
+      <label class="searchlabel" for="q">Search by product, vendor or task</label>
+      <div class="search">
+        <i class="ph ph-magnifying-glass" aria-hidden="true"></i>
+        <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="tuya local, whatsapp, psd, n64">
+      </div>
+      <div class="tries" aria-label="Example searches">
+        <span>Try</span>
+        <button data-q="claude code">claude code</button>
+        <button data-q="tesla">tesla</button>
+        <button data-q="bambu printer">bambu printer</button>
+        <button data-q="pokemon">pokemon</button>
+        <button data-q="garmin">garmin</button>
+      </div>
+    </div>
+
+    <aside class="install" id="agent" aria-labelledby="agent-h">
+      <h2 id="agent-h">Give the index to your agent</h2>
+      <p>Your agent searches it when a task needs a closed app, device or format, then reads the README and picks a tool.</p>
+      <div class="tabs" role="tablist" aria-label="Install method">
+        <button role="tab" aria-selected="true" data-tab="0">npx skills</button>
+        <button role="tab" aria-selected="false" data-tab="1">Claude Code</button>
+        <button role="tab" aria-selected="false" data-tab="2">Any shell</button>
+      </div>
+      <div class="code" role="tabpanel"><span id="cmd"></span><button class="copy" id="copy" aria-label="Copy command"><i class="ph ph-copy"></i></button></div>
+      <div class="more">Works with Claude Code, Cursor, Codex, Gemini CLI and Copilot. <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/skills/find-reverse-engineered/SKILL.md">Read the skill</a></div>
+    </aside>
+  </section>
+</div>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="chips" id="chips" role="group" aria-label="Category"></div>
+    <div class="selects">
+      <div class="field"><label for="lang">Language</label><select id="lang"><option value="">Any</option></select></div>
+      <div class="field"><label for="health">Health</label>
+        <select id="health"><option value="">Any</option><option value="active">Active (pushed this year)</option><option value="noarch">Not archived</option></select></div>
+      <div class="field"><label for="sort">Sort</label>
+        <select id="sort"><option value="best">Best match</option><option value="stars">Most stars</option><option value="recent">Recently pushed</option><option value="name">Name</option></select></div>
+      <span class="count" id="count" aria-live="polite"></span>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="results" aria-label="Results">
+  <div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Data <span id="updated"></span>. Stars, archived state and dead links refresh nightly from the GitHub API.</span>
+    <span><a href="https://github.com/alexgaoth/awesome-reverse-engineered">Repository</a> · <a href="data.json">Raw data</a> · <a href="https://github.com/alexgaoth/awesome-reverse-engineered#%EF%B8%8F-scope">Scope</a> · CC0</span>
+  </div>
+</footer>
+
+<script>
+const REPO = "alexgaoth/awesome-reverse-engineered";
+const CMDS = [
+  "npx skills add " + REPO,
+  "/plugin install reverse-engineered --marketplace " + REPO,
+  "curl -sL https://raw.githubusercontent.com/" + REPO + "/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py\npython3 re_index.py search tuya local",
+];
+const SYN = { twitter: ["x"], x: ["twitter"], ble: ["bluetooth"], bluetooth: ["ble"], car: ["vehicle", "automotive"],
+  decomp: ["decompilation"], chatgpt: ["openai"], openai: ["chatgpt"], n64: ["nintendo 64"], ps1: ["playstation 1", "psx"],
+  ps2: ["playstation 2"], local: ["local control", "cloud-free"], vacuum: ["robot"] };
+const PAGE = 60;
+const $ = (s) => document.querySelector(s);
+let rows = [], meta = null, shown = PAGE, current = [];
+const state = { q: "", c: "", l: "", h: "", s: "best" };
+
+// Copy-to-clipboard install card.
+let tab = 0;
+function setTab(i) {
+  tab = i; $("#cmd").textContent = CMDS[i];
+  document.querySelectorAll(".tabs button").forEach((b, j) => b.setAttribute("aria-selected", String(i === j)));
+}
+document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => setTab(+b.dataset.tab)));
+$("#copy").addEventListener("click", async () => {
+  try { await navigator.clipboard.writeText(CMDS[tab]); $("#copy").innerHTML = '<i class="ph ph-check"></i>'; }
+  catch { $("#copy").innerHTML = '<i class="ph ph-x"></i>'; }
+  setTimeout(() => ($("#copy").innerHTML = '<i class="ph ph-copy"></i>'), 1400);
+});
+setTab(0);
+
+const fmt = (n) => n.toLocaleString("en-US");
+const escapeHtml = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+// Rows: [name, url, desc, cat, sub, stars, lang, license, pushed, health, topics, platform]
+function prep(r) {
+  const slugName = r[1].replace(/\/$/, "").split("/").pop().replace(/[-_]/g, " ");
+  return { r, f: [
+    [3, r[0].toLowerCase()], [3, slugName.toLowerCase()], [2, r[10].join(" ").replace(/-/g, " ").toLowerCase()],
+    [1.5, r[2].toLowerCase()], [1, (r[3] + " " + r[4] + " " + r[11]).toLowerCase()],
+  ] };
+}
+function hit(t, text) {
+  if (t.length <= 3) return new RegExp("(^|[^a-z0-9])" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "($|[^a-z0-9])").test(text);
+  return text.includes(t);
+}
+function score(item, terms) {
+  let matched = 0, total = 0;
+  for (const t of terms) {
+    let best = 0;
+    for (const alt of [t, ...(SYN[t] || [])]) for (const [w, text] of item.f) if (hit(alt, text)) best = Math.max(best, alt === t ? w : w * 0.7);
+    if (best) { matched++; total += best; }
+  }
+  if (!matched) return null;
+  const r = item.r;
+  total += 0.8 * Math.log10(r[5] + 1) - (r[9] === "archived" ? 1 : 0) - (r[9] === "dormant" ? 0.5 : 0);
+  return [matched, total];
+}
+
+function apply() {
+  const terms = state.q.toLowerCase().split(/[\s,]+/).filter(Boolean);
+  let list = rows.filter((it) => {
+    const r = it.r;
+    if (state.c && meta.slug[r[3]] !== state.c) return false;
+    if (state.l && r[6] !== state.l) return false;
+    if (state.h === "active" && r[9] !== "active") return false;
+    if (state.h === "noarch" && r[9] === "archived") return false;
+    return true;
+  });
+  if (terms.length) {
+    const scored = [];
+    for (const it of list) { const s = score(it, terms); if (s) scored.push([s, it]); }
+    const full = scored.filter(([s]) => s[0] === terms.length);
+    list = (full.length ? full : scored).sort((a, b) => b[0][0] - a[0][0] || b[0][1] - a[0][1]).map(([, it]) => it);
+  } else if (state.s === "best") {
+    list = list.slice().sort((a, b) => b.r[5] - a.r[5]);
+  }
+  if (state.s === "stars") list = list.slice().sort((a, b) => b.r[5] - a.r[5]);
+  if (state.s === "recent") list = list.slice().sort((a, b) => (b.r[8] || "").localeCompare(a.r[8] || ""));
+  if (state.s === "name") list = list.slice().sort((a, b) => a.r[0].localeCompare(b.r[0]));
+  current = list; shown = PAGE; draw();
+  document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String((c.dataset.c || "") === state.c)));
+  const h = new URLSearchParams(Object.entries(state).filter(([k, v]) => v && !(k === "s" && v === "best")));
+  history.replaceState(null, "", h.toString() ? "#" + h : location.pathname);
+}
+
+function draw() {
+  const box = $("#results");
+  const filtered = state.q || state.c || state.l || state.h;
+  $("#count").innerHTML = fmt(current.length) + " of " + fmt(rows.length) +
+    (filtered ? ' · <button class="clear" id="clear">Clear</button>' : "");
+  if (filtered) $("#clear").onclick = () => { Object.assign(state, { q: "", c: "", l: "", h: "", s: "best" }); syncInputs(); apply(); };
+  if (!current.length) {
+    box.innerHTML = '<div class="empty"><h3>No projects match</h3><p>Try fewer words, the vendor name instead of the product, or clear the filters.</p></div>';
+    return;
+  }
+  box.innerHTML = current.slice(0, shown).map(({ r }) => `
+    <article class="row">
+      <h3><a href="${escapeHtml(r[1])}" rel="noopener">${escapeHtml(r[0])}</a><span class="where">${escapeHtml(meta.icon[r[3]] || "")} ${escapeHtml(r[3])}${r[4] ? " / " + escapeHtml(r[4]) : ""}</span></h3>
+      <p class="desc">${escapeHtml(r[2])}</p>
+      <div class="meta">
+        <span class="stars"><i class="ph-fill ph-star"></i>${fmt(r[5])}</span>
+        <span class="health h-${r[9]}">${r[9]}</span>
+        <span>${escapeHtml([r[6], r[7]].filter(Boolean).join(" · ") || "no license info")}</span>
+      </div>
+      ${r[10].length ? `<div class="tags">${r[10].slice(0, 4).map((t) => `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>` : ""}
+    </article>`).join("") +
+    (current.length > shown ? `<button class="more-btn" id="more">Show ${fmt(Math.min(PAGE, current.length - shown))} more</button>` : "");
+  const more = $("#more");
+  if (more) {
+    more.onclick = () => { shown += PAGE; draw(); };
+    new IntersectionObserver((es, ob) => { if (es[0].isIntersecting) { ob.disconnect(); shown += PAGE; draw(); } }, { rootMargin: "600px" }).observe(more);
+  }
+}
+
+function readHash() {
+  const h = new URLSearchParams(location.hash.slice(1));
+  Object.assign(state, { q: "", c: "", l: "", h: "", s: "best" });
+  for (const k of Object.keys(state)) if (h.get(k)) state[k] = h.get(k);
+  syncInputs(); apply();
+}
+
+function syncInputs() { $("#q").value = state.q; $("#lang").value = state.l; $("#health").value = state.h; $("#sort").value = state.s; }
+
+let t;
+$("#q").addEventListener("input", (e) => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value.trim(); apply(); }, 120); });
+$("#lang").addEventListener("change", (e) => { state.l = e.target.value; apply(); });
+$("#health").addEventListener("change", (e) => { state.h = e.target.value; apply(); });
+$("#sort").addEventListener("change", (e) => { state.s = e.target.value; apply(); });
+document.querySelectorAll(".tries button").forEach((b) => b.addEventListener("click", () => { state.q = b.dataset.q; syncInputs(); apply(); $("#q").focus(); }));
+document.addEventListener("keydown", (e) => { if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); } });
+
+fetch("data.json").then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).then((d) => {
+  meta = { slug: {}, icon: {} };
+  d.meta.cats.forEach(([name, icon, slug]) => { meta.slug[name] = slug; meta.icon[name] = icon; });
+  rows = d.rows.map(prep);
+  $("#n").textContent = fmt(d.meta.n);
+  $("#updated").textContent = "updated " + d.meta.updated;
+  $("#chips").innerHTML = `<button class="chip" data-c="" aria-pressed="true">All <span class="n">${fmt(d.meta.n)}</span></button>` +
+    d.meta.cats.map(([name, icon, slug, n]) => `<button class="chip" data-c="${slug}" aria-pressed="false">${icon} ${escapeHtml(name)} <span class="n">${fmt(n)}</span></button>`).join("");
+  document.querySelectorAll(".chip").forEach((c) => c.addEventListener("click", () => { state.c = c.dataset.c; apply(); }));
+  const langs = {};
+  d.rows.forEach((r) => { if (r[6]) langs[r[6]] = (langs[r[6]] || 0) + 1; });
+  $("#lang").innerHTML += Object.entries(langs).sort((a, b) => b[1] - a[1]).slice(0, 30)
+    .map(([l, n]) => `<option value="${escapeHtml(l)}">${escapeHtml(l)} (${fmt(n)})</option>`).join("");
+  readHash();
+  window.addEventListener("hashchange", readHash);
+}).catch(() => {
+  $("#results").innerHTML = '<div class="empty"><h3>Could not load the index</h3><p>Reload the page, or use the <a href="https://github.com/' + REPO + '">list on GitHub</a>.</p></div>';
+});
+
+fetch("https://api.github.com/repos/" + REPO).then((r) => r.json()).then((d) => {
+  if (typeof d.stargazers_count === "number") $("#ghstars").textContent = "★ " + fmt(d.stargazers_count);
+}).catch(() => {});
+</script>
+</body>
+</html>
