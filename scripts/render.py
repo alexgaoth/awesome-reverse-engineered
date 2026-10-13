@@ -45,8 +45,9 @@ def health(e):
 HEALTH_MD = {"active": "🟢", "slow": "🟡", "dormant": "🔴", "archived": "🗄️", "unknown": "⚪"}
 
 
-def table(rows, numbered=False):
-    head = ("| # " if numbered else "") + "| Project | What it does | ★ | Health | Lang |"
+def table(rows, numbered=False, head=None):
+    h = head or ["Project", "What it does", "★", "Health", "Lang"]
+    head = ("| # " if numbered else "") + "| " + " | ".join(h) + " |"
     sep = ("|--:" if numbered else "") + "|---|---|--:|:-:|---|"
     out = [head, sep]
     for i, e in enumerate(sorted(rows, key=lambda e: (-(e.get("stars") or 0), e["name"].lower())), 1):
@@ -191,8 +192,8 @@ def main():
     for c in cats:
         f = f"categories/{slug(c)}.md"
         subs = sorted(by[c])
-        page = [f"# {ICON.get(c, '')} {c}", "",
-                f"[← All categories](../README.md#-whats-inside) · [Search this category on the website]({SITE}#c={slug(c)}) · {ccount[c]:,} projects", "",
+        page = [f"# {c}", "",
+                f"[← All categories](../README.md#whats-inside) · [Search this category on the website]({SITE}#c={slug(c)}) · {ccount[c]:,} projects", "",
                 "Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown", ""]
         if len(subs) > 1:
             page += [f"- [{s}](#{anchor(s)}) ({len(by[c][s])})" for s in subs] + [""]
@@ -211,7 +212,11 @@ def main():
     with open(os.path.join(ROOT, "docs", "data.json"), "w") as fh:
         json.dump({"meta": meta, "rows": rows}, fh, ensure_ascii=False, separators=(",", ":"))
 
-    # README.
+    # READMEs, one per language (scripts/i18n.py). Project names and descriptions stay in English.
+    import sys
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from i18n import LANGS, S, CAT
+
     def badge(label, msg, color="ffb000"):
         return f"https://img.shields.io/badge/{label}-{msg}-{color}?style=flat-square&labelColor=0e0f0d"
     hot = sorted((e for e in entries if e.get("pushed") and not e.get("archived")
@@ -222,100 +227,88 @@ def main():
     recent_cut = (TODAY - datetime.timedelta(days=7)).isoformat()
     first_day = min(e.get("added", "9999") for e in entries)
     just_added = [e for e in entries if e.get("added", "") >= recent_cut and e.get("added") != first_day]
+    issue = (f"https://github.com/{REPO}/issues/new?title=Add%3A%20&body=Repo%3A%20%0AWhat%20it%20reverse%20engineers%3A%20")
 
-    R = ['<div align="center">', "",
-         f'<a href="{SITE}"><img src="assets/banner.svg" alt="Awesome Reverse-Engineered" width="100%"></a>', "",
-         f"### {n:,} open-source tools that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.", "",
-         "[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) "
-         f"[![Projects]({badge('projects', f'{n:,}'.replace(',', '%2C'))})](#-whats-inside) "
-         f"[![Categories]({badge('categories', len(cats))})](#-whats-inside) "
-         f"[![Nightly refresh](https://img.shields.io/github/actions/workflow/status/{REPO}/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) "
-         f"[![Updated]({badge('updated', TODAY.isoformat().replace('-', '--'), '30363d')})](data/entries.json) "
-         f"[![License: CC0]({badge('license', 'CC0', '30363d')})](LICENSE)", "",
-         f"[![Agent skill]({badge('agent%20skill', 'npx%20skills%20add', '7ee787')})](#-give-your-ai-agent-the-whole-index) "
-         f"[![Claude Code plugin]({badge('Claude%20Code', 'plugin', 'd97757')})](#-give-your-ai-agent-the-whole-index) "
-         f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/{REPO}/stargazers)", "",
-         f"**[🔎 Search the index]({SITE})** · **[🤖 Agent skill](#-give-your-ai-agent-the-whole-index)** · **[📚 Categories](#-whats-inside)** · **[🔥 Hot this week](#-hot-this-week)** · **[➕ Add a project](#-contributing)**", "",
-         "</div>", "", "---", ""]
+    for code, fname, _label in LANGS:
+        t = S[code]
+        cn = lambda c: CAT.get(code, {}).get(c, c)
+        th = t["th_proj"]
+        a_agent, a_inside, a_hot, a_contrib = (anchor(t[k]) for k in ("h_agent", "h_inside", "h_hot", "h_contrib"))
+        switch = " · ".join(f"<b>{lab}</b>" if f == fname else f'<a href="{f}">{lab}</a>' for _, f, lab in LANGS)
+        R = ['<div align="center">', "",
+             f'<a href="{SITE}"><img src="assets/banner.svg" alt="Awesome Reverse-Engineered" width="100%"></a>', "",
+             f"<p>{switch}</p>", "",
+             f"### {t['tagline'].format(n=f'{n:,}')}", "",
+             "[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) "
+             f"[![Projects]({badge('projects', f'{n:,}'.replace(',', '%2C'))})](#{a_inside}) "
+             f"[![Categories]({badge('categories', len(cats))})](#{a_inside}) "
+             f"[![Nightly refresh](https://img.shields.io/github/actions/workflow/status/{REPO}/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) "
+             f"[![Updated]({badge('updated', TODAY.isoformat().replace('-', '--'), '30363d')})](data/entries.json) "
+             f"[![License: CC0]({badge('license', 'CC0', '30363d')})](LICENSE)", "",
+             f"[![Agent skill]({badge('agent%20skill', 'npx%20skills%20add', '7ee787')})](#{a_agent}) "
+             f"[![Claude Code plugin]({badge('Claude%20Code', 'plugin', 'd97757')})](#{a_agent}) "
+             f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/{REPO}/stargazers)", "",
+             f"**[{t['nav'][0]}]({SITE})** · **[{t['nav'][1]}](#{a_agent})** · **[{t['nav'][2]}](#{a_inside})** · **[{t['nav'][3]}](#{a_hot})** · **[{t['nav'][4]}](#{a_contrib})**", ""]
+        if t["note"]:
+            R += [f"<sub>{t['note']}</sub>", ""]
+        R += ["</div>", "", "---", ""]
 
-    R += ["## 🤖 Give your AI agent the whole index", "",
-          "When a task needs to talk to something with no official API (a smart plug, a car, a chat app, a file format), "
-          "your agent searches this index, ranks by stars, activity and license, reads the README, and picks the right tool.", "",
-          "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",
-          "<details><summary><b>Other ways to install</b></summary>", "",
-          "**Claude Code plugin**", "", "```", f"/plugin install reverse-engineered --marketplace {REPO}", "```", "",
-          "**Any agent or shell** (one file, Python standard library only)", "", "```bash",
-          f"curl -sL https://raw.githubusercontent.com/{REPO}/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
-          "python3 re_index.py search tuya local          # ranked matches",
-          "python3 re_index.py info make-all/tuya-local   # entry + README excerpt",
-          "python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/",
-          "```", "", "</details>", ""]
-    if demo:
-        R += ['<p align="center"><img src="assets/demo.svg" alt="An agent using the find-reverse-engineered skill" width="820"></p>',
-              '<p align="center"><sub>Real output of the skill on the current data.</sub></p>', ""]
+        R += [f"## {t['h_agent']}", "", t["agent_p"], "",
+              "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",
+              f"<details><summary><b>{t['other_ways']}</b></summary>", "",
+              f"**{t['plugin']}**", "", "```", f"/plugin install reverse-engineered --marketplace {REPO}", "```", "",
+              f"**{t['any_shell']}**", "", "```bash",
+              f"curl -sL https://raw.githubusercontent.com/{REPO}/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
+              "python3 re_index.py search tuya local          # ranked matches",
+              "python3 re_index.py info make-all/tuya-local   # entry + README excerpt",
+              "python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/",
+              "```", "", "</details>", ""]
+        if demo:
+            R += ['<p align="center"><img src="assets/demo.svg" alt="find-reverse-engineered" width="820"></p>',
+                  f'<p align="center"><sub>{t["demo_caption"]}</sub></p>', ""]
 
-    R += ["## 🔎 Search it on the web", "",
-          f"Filter {n:,} projects by category, language and health, sorted by stars or recent activity. Every search has a shareable link.", ""]
-    if os.path.exists(os.path.join(ROOT, "assets", "site.png")):
-        R += [f'<p align="center"><a href="{SITE}"><img src="assets/site.png" alt="The search website" width="820"></a></p>', ""]
-    R += [f'<p align="center"><a href="{SITE}"><b>Open the search →</b></a></p>', ""]
+        R += [f"## {t['h_web']}", "", t["web_p"].format(n=f"{n:,}"), ""]
+        if os.path.exists(os.path.join(ROOT, "assets", "site.png")):
+            R += [f'<p align="center"><a href="{SITE}"><img src="assets/site.png" alt="{t["h_web"]}" width="820"></a></p>', ""]
+        R += [f'<p align="center"><a href="{SITE}"><b>{t["open_search"]} →</b></a></p>', ""]
 
-    R += ["## 📚 What's inside", "",
-          f"**{n:,} projects** with **{total_stars / 1e6:.1f}M** GitHub stars between them. "
-          f"🟢 {hc['active']:,} active · 🟡 {hc['slow']:,} slowing down · 🔴 {hc['dormant']:,} dormant · 🗄️ {hc['archived']:,} archived. "
-          "Top languages: " + ", ".join(f"{l} ({c:,})" for l, c in langs.most_common(5)) + ".", "",
-          '<p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>', "",
-          "| | Category | Projects | Top picks |", "|:-:|---|--:|---|"]
-    for c in cats:
-        picks = sorted((e for v in by[c].values() for e in v), key=lambda e: -(e.get("stars") or 0))[:3]
-        R.append(f"| {ICON.get(c, '')} | [**{c}**](categories/{slug(c)}.md) | {ccount[c]:,} | "
-                 + ", ".join(f"[{p['name'].replace('|', '/')}]({p['url']})" for p in picks) + " |")
-    R.append("")
+        R += [f"## {t['h_inside']}", "",
+              t["inside_p"].format(n=f"{n:,}", stars=f"{total_stars / 1e6:.1f}", a=f"{hc['active']:,}", s=f"{hc['slow']:,}",
+                                   d=f"{hc['dormant']:,}", ar=f"{hc['archived']:,}",
+                                   langs=", ".join(f"{l} ({c:,})" for l, c in langs.most_common(5))), "",
+              '<p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>', "",
+              f"| {t['th_cat'][0]} | {t['th_cat'][1]} | {t['th_cat'][2]} |", "|---|--:|---|"]
+        for c in cats:
+            picks = sorted((e for v in by[c].values() for e in v), key=lambda e: -(e.get("stars") or 0))[:3]
+            R.append(f"| [**{cn(c)}**](categories/{slug(c)}.md) | {ccount[c]:,} | "
+                     + ", ".join(f"[{p['name'].replace('|', '/')}]({p['url']})" for p in picks) + " |")
+        R.append("")
 
-    if hot:
-        R += ["## 🔥 Hot this week", "", "The most-starred projects with commits in the last 7 days.", ""] + table(hot) + [""]
-    if just_added:
-        R += ["## 🆕 Just added", ""] + table(sorted(just_added, key=lambda e: -(e.get("stars") or 0))[:15]) + [""]
+        if hot:
+            R += [f"## {t['h_hot']}", "", t["hot_p"], ""] + table(hot, head=th) + [""]
+        if just_added:
+            R += [f"## {t['h_new']}", ""] + table(sorted(just_added, key=lambda e: -(e.get("stars") or 0))[:15], head=th) + [""]
+        R += [f"## {t['h_top']}", ""] + table(top, numbered=True, head=th) + [""]
 
-    R += ["## 🏆 Most starred", ""] + table(top, numbered=True) + [""]
+        lg = t["legend"]
+        R += [f"## {t['h_health']}", "", f"| | {lg[0]} |", "|:-:|---|",
+              f"| 🟢 | {lg[1]} |", f"| 🟡 | {lg[2]} |", f"| 🔴 | {lg[3]} |", f"| 🗄️ | {lg[4]} |", f"| ⚪ | {lg[5]} |", "",
+              t["health_p"], ""]
 
-    R += ["## 🩺 Health", "",
-          "| | Meaning |", "|:-:|---|",
-          "| 🟢 | Active: pushed in the last 12 months |", "| 🟡 | Slowing: last push 1 to 3 years ago |",
-          "| 🔴 | Dormant: no push for over 3 years |", "| 🗄️ | Archived by its owner |",
-          "| ⚪ | Unknown: not hosted on GitHub |", "",
-          "Unofficial APIs break when the vendor changes their side, so check health before you depend on a project.", ""]
+        R += [f"## {t['h_built']}", "", "```mermaid", "flowchart LR",
+              "  A[Research agents<br/>GitHub, HN, Reddit,<br/>awesome-lists] --> B[Scope filter<br/>interoperability only]",
+              "  B --> C[GitHub API check<br/>exists, stars, license]",
+              "  C --> D[(data/entries.json)]",
+              "  D --> E[README and<br/>category pages]", "  D --> F[Search website]", "  D --> G[Agent skill]",
+              "  H[Nightly refresh<br/>GitHub Action] -->|stars, archived,<br/>dead links| D", "```", "", t["built_p"], ""]
 
-    R += ["## 🛠️ How it's built", "", "```mermaid", "flowchart LR",
-          "  A[Research agents<br/>GitHub, HN, Reddit,<br/>awesome-lists] --> B[Scope filter<br/>interoperability only]",
-          "  B --> C[GitHub API check<br/>exists, stars, license]",
-          "  C --> D[(data/entries.json)]",
-          "  D --> E[README and<br/>category pages]", "  D --> F[Search website]", "  D --> G[Agent skill]",
-          "  H[Nightly refresh<br/>GitHub Action] -->|stars, archived,<br/>dead links| D", "```", "",
-          "Raw data: [`data/entries.json`](data/entries.json). Removed repos: [`data/removed.json`](data/removed.json). "
-          "Imported lists and searches: [SOURCES.md](SOURCES.md).", ""]
-
-    R += ["## ⚖️ Scope", "",
-          "This index lists **interoperability, preservation and research** projects: unofficial clients and SDKs, open drivers, "
-          "local-control libraries, file-format parsers, protocol documentation, reimplementations and decompilations. "
-          "Reverse engineering for interoperability is protected in many places (for example 17 U.S.C. §1201(f) and Article 6 of the EU Software Directive).", "",
-          "**Left out on purpose:** exploits and jailbreaks, security or certificate-pinning bypasses, decryption tools, cheats, "
-          "DRM or paywall removal, CAPTCHA solvers, account bots and credential tools.", "",
-          "Using an unofficial client can break a service's terms of use. Use these projects with your own accounts, devices and data.", ""]
-
-    R += ["## ➕ Contributing", "",
-          f"Know a project that belongs here? [Open an issue](https://github.com/{REPO}/issues/new?title=Add%3A%20&body=Repo%3A%20%0AWhat%20it%20reverse%20engineers%3A%20) "
-          "with the repo link and one line on what it reverse engineers, or send a PR that adds it to `data/entries.json`. "
-          "Wrong category, dead link, or out of scope? Open an issue too.", "",
-          f"Curated by [@alexgaoth](https://github.com/alexgaoth) with research agents. Every entry is checked against the GitHub API.", ""]
-
-    R += ["## ⭐ Star history", "",
-          f'<a href="https://star-history.com/#{REPO}&Date"><img src="https://api.star-history.com/svg?repos={REPO}&type=Date" alt="Star history" width="600"></a>', ""]
-
-    R += ["## License", "", "[CC0 1.0](LICENSE) for the list itself. Each linked project has its own license.", "",
-          '<div align="center">', "", f"**If this saved you from reverse engineering something yourself, [give it a ⭐](https://github.com/{REPO}).**", "", "</div>", ""]
-
-    open(os.path.join(ROOT, "README.md"), "w").write("\n".join(R))
+        R += [f"## {t['h_scope']}", ""] + [x for p in t["scope"] for x in (p, "")]
+        R += [f"## {t['h_contrib']}", "", t["contrib"].format(issue=issue), "", t["curated"], ""]
+        R += [f"## {t['h_star']}", "",
+              f'<a href="https://star-history.com/#{REPO}&Date"><img src="https://api.star-history.com/svg?repos={REPO}&type=Date" alt="Star history" width="600"></a>', ""]
+        R += [f"## {t['h_license']}", "", t["license"], "",
+              '<div align="center">', "", f"**{t['cta'].format(repo=f'https://github.com/{REPO}')}**", "", "</div>", ""]
+        open(os.path.join(ROOT, fname), "w").write("\n".join(R))
     print(f"rendered {n} entries, {len(cats)} category pages")
 
 
