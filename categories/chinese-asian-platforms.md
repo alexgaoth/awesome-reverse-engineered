@@ -1,10 +1,10 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 303 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 304 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Bilibili](#bilibili) (51)
+- [Bilibili](#bilibili) (52)
 - [Cloud Drives](#cloud-drives) (31)
 - [Douyin & Kuaishou](#douyin--kuaishou) (25)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (25)
@@ -69,6 +69,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BBDownT](https://github.com/LOVAHE/BBDownT) | Maintained continuation of BBDown, a CLI Bilibili downloader | 65 | 🟢 | C# |
 | [bilibili-danmaku-client](https://github.com/std4453/bilibili-danmaku-client) | Node.js client for the Bilibili live danmaku interface | 51 | 🔴 | JavaScript |
 | [bpi-rs](https://github.com/Yuelioi/bpi-rs) | Rust SDK covering a wide range of Bilibili private APIs | 50 | 🟢 | Rust |
+| [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) | Alternative frontend for Bilibili |  | ⚪ |  |
 
 ## Cloud Drives
 

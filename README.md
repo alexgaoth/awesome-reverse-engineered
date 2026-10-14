@@ -4,9 +4,9 @@
 
 <p><b>English</b> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a></p>
 
-### 11,255 open-source tools that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
+### 11,293 open-source tools that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-11%2C255-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Categories](https://img.shields.io/badge/categories-20-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Updated](https://img.shields.io/badge/updated-2026--10--13-30363d?style=flat-square&labelColor=0e0f0d)](data/entries.json) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-11%2C293-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Categories](https://img.shields.io/badge/categories-20-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Updated](https://img.shields.io/badge/updated-2026--10--13-30363d?style=flat-square&labelColor=0e0f0d)](data/entries.json) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
 
 [![Agent skill](https://img.shields.io/badge/agent%20skill-npx%20skills%20add-7ee787?style=flat-square&labelColor=0e0f0d)](#give-your-ai-agent-the-whole-index) [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757?style=flat-square&labelColor=0e0f0d)](#give-your-ai-agent-the-whole-index) [![Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/alexgaoth/awesome-reverse-engineered/stargazers)
 
@@ -48,7 +48,7 @@ python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/
 
 ## Search it on the web
 
-Filter 11,255 projects by category, language and health, sorted by stars or recent activity. Every search has a shareable link.
+Filter 11,293 projects by category, language and health, sorted by stars or recent activity. Every search has a shareable link.
 
 <p align="center"><a href="https://alexgaoth.github.io/awesome-reverse-engineered/"><img src="assets/site.png" alt="Search it on the web" width="820"></a></p>
 
@@ -56,32 +56,32 @@ Filter 11,255 projects by category, language and health, sorted by stars or rece
 
 ## What's inside
 
-**11,255 projects** with **10.2M** GitHub stars between them: 6,255 active, 1,696 slowing down, 2,092 dormant, 764 archived. Top languages: Python (2,908), C (1,604), C++ (1,575), JavaScript (647), C# (554).
+**11,293 projects** with **10.2M** GitHub stars between them: 6,294 active, 1,695 slowing down, 2,092 dormant, 764 archived. Top languages: Python (2,910), C (1,611), C++ (1,593), JavaScript (648), C# (554).
 
 <p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>
 
 | Category | Projects | Top picks |
 |---|--:|---|
-| [**AI Tools & LLM Clients**](categories/ai-tools-llm-clients.md) | 685 | [claw-code](https://github.com/ultraworkers/claw-code), [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) |
-| [**Game Decompilations & Reimplementations**](categories/game-decompilations-reimplementations.md) | 2,971 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
-| [**Devices, IoT & Hardware**](categories/devices-iot-hardware.md) | 2,227 | [KOReader](https://github.com/koreader/koreader), [LibrePods](https://github.com/librepods-org/librepods), [OpenLogi](https://github.com/AprilNEA/OpenLogi) |
-| [**Unofficial Web/App API Clients**](categories/unofficial-web-app-api-clients.md) | 730 | [yt-dlp](https://github.com/yt-dlp/yt-dlp), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) |
-| [**Messaging & Social Apps**](categories/messaging-social-apps.md) | 261 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
-| [**Third-party Clients**](categories/third-party-clients.md) | 163 | [spotify-tui](https://github.com/Rigellute/spotify-tui), [nuclear](https://github.com/nukeop/nuclear), [SimpMusic](https://github.com/maxrave-dev/SimpMusic) |
-| [**Chinese & Asian Platforms**](categories/chinese-asian-platforms.md) | 303 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop), [alist](https://github.com/AlistGo/alist), [12306](https://github.com/testerSunshine/12306) |
-| [**Apple Ecosystem**](categories/apple-ecosystem.md) | 331 | [fastlane](https://github.com/fastlane/fastlane), [homebridge](https://github.com/homebridge/homebridge), [OSX-KVM](https://github.com/kholia/OSX-KVM) |
-| [**Drivers & Low-level Hardware**](categories/drivers-low-level-hardware.md) | 409 | [MonitorControl](https://github.com/MonitorControl/MonitorControl), [tinygrad](https://github.com/tinygrad/tinygrad), [G-Helper](https://github.com/seerge/g-helper) |
-| [**Automotive**](categories/automotive.md) | 380 | [openpilot](https://github.com/commaai/openpilot), [evcc](https://github.com/evcc-io/evcc), [VESC firmware](https://github.com/vedderb/bldc) |
+| [**AI Tools & LLM Clients**](categories/ai-tools-llm-clients.md) | 690 | [claw-code](https://github.com/ultraworkers/claw-code), [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) |
+| [**Game Decompilations & Reimplementations**](categories/game-decompilations-reimplementations.md) | 3,012 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
+| [**Devices, IoT & Hardware**](categories/devices-iot-hardware.md) | 2,234 | [KOReader](https://github.com/koreader/koreader), [LibrePods](https://github.com/librepods-org/librepods), [OpenLogi](https://github.com/AprilNEA/OpenLogi) |
+| [**Unofficial Web/App API Clients**](categories/unofficial-web-app-api-clients.md) | 691 | [yt-dlp](https://github.com/yt-dlp/yt-dlp), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) |
+| [**Messaging & Social Apps**](categories/messaging-social-apps.md) | 260 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
+| [**Third-party Clients**](categories/third-party-clients.md) | 160 | [spotify-tui](https://github.com/Rigellute/spotify-tui), [nuclear](https://github.com/nukeop/nuclear), [SimpMusic](https://github.com/maxrave-dev/SimpMusic) |
+| [**Chinese & Asian Platforms**](categories/chinese-asian-platforms.md) | 304 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop), [alist](https://github.com/AlistGo/alist), [12306](https://github.com/testerSunshine/12306) |
+| [**Apple Ecosystem**](categories/apple-ecosystem.md) | 332 | [fastlane](https://github.com/fastlane/fastlane), [homebridge](https://github.com/homebridge/homebridge), [OSX-KVM](https://github.com/kholia/OSX-KVM) |
+| [**Drivers & Low-level Hardware**](categories/drivers-low-level-hardware.md) | 411 | [MonitorControl](https://github.com/MonitorControl/MonitorControl), [tinygrad](https://github.com/tinygrad/tinygrad), [G-Helper](https://github.com/seerge/g-helper) |
+| [**Automotive**](categories/automotive.md) | 382 | [openpilot](https://github.com/commaai/openpilot), [evcc](https://github.com/evcc-io/evcc), [VESC firmware](https://github.com/vedderb/bldc) |
 | [**Industrial & Building Automation**](categories/industrial-building-automation.md) | 198 | [HslCommunication](https://github.com/dathlin/HslCommunication), [plc4x](https://github.com/apache/plc4x), [IoTClient](https://github.com/zhaopeiym/IoTClient) |
-| [**Firmware & Embedded**](categories/firmware-embedded.md) | 383 | [LEDE (Lean)](https://github.com/coolsnowwolf/lede), [OpenWrt](https://github.com/openwrt/openwrt), [Tasmota](https://github.com/arendst/Tasmota) |
-| [**Network & Wire Protocols**](categories/network-wire-protocols.md) | 397 | [Sunshine](https://github.com/LizardByte/Sunshine), [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt), [Impacket](https://github.com/fortra/impacket) |
+| [**Firmware & Embedded**](categories/firmware-embedded.md) | 385 | [LEDE (Lean)](https://github.com/coolsnowwolf/lede), [OpenWrt](https://github.com/openwrt/openwrt), [Tasmota](https://github.com/arendst/Tasmota) |
+| [**Network & Wire Protocols**](categories/network-wire-protocols.md) | 401 | [Sunshine](https://github.com/LizardByte/Sunshine), [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt), [Impacket](https://github.com/fortra/impacket) |
 | [**File Formats**](categories/file-formats.md) | 423 | [FFmpeg](https://github.com/FFmpeg/FFmpeg), [ImHex](https://github.com/WerWolv/ImHex), [SheetJS](https://github.com/SheetJS/sheetjs) |
 | [**Online Service Revivals**](categories/online-service-revivals.md) | 169 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat), [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate), [wire-pod](https://github.com/kercre123/wire-pod) |
-| [**Desktop Software Reimplementations**](categories/desktop-software-reimplementations.md) | 199 | [vaultwarden](https://github.com/dani-garcia/vaultwarden), [PhotoCraft](https://github.com/storytold/photocraft), [Proton](https://github.com/ValveSoftware/Proton) |
-| [**Alternative Frontends**](categories/alternative-frontends.md) | 122 | [searxng](https://github.com/searxng/searxng), [searx](https://github.com/searx/searx), [Whoogle Search](https://github.com/benbusby/whoogle-search) |
-| [**Mobile Apps**](categories/mobile-apps.md) | 87 | [revanced-manager](https://github.com/ReVanced/revanced-manager), [Metrolist](https://github.com/MetrolistGroup/Metrolist), [LibreTube](https://github.com/libre-tube/LibreTube) |
-| [**RE Tooling**](categories/re-tooling.md) | 718 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
-| [**Collections & Awesome Lists**](categories/collections-awesome-lists.md) | 99 | [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome), [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) |
+| [**Desktop Software Reimplementations**](categories/desktop-software-reimplementations.md) | 201 | [vaultwarden](https://github.com/dani-garcia/vaultwarden), [PhotoCraft](https://github.com/storytold/photocraft), [Proton](https://github.com/ValveSoftware/Proton) |
+| [**Alternative Frontends**](categories/alternative-frontends.md) | 121 | [searxng](https://github.com/searxng/searxng), [searx](https://github.com/searx/searx), [Whoogle Search](https://github.com/benbusby/whoogle-search) |
+| [**Mobile Apps**](categories/mobile-apps.md) | 97 | [revanced-manager](https://github.com/ReVanced/revanced-manager), [Metrolist](https://github.com/MetrolistGroup/Metrolist), [LibreTube](https://github.com/libre-tube/LibreTube) |
+| [**RE Tooling**](categories/re-tooling.md) | 721 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
+| [**Collections & Awesome Lists**](categories/collections-awesome-lists.md) | 101 | [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome), [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) |
 
 ## Hot this week
 
@@ -110,15 +110,15 @@ The most-starred projects with commits in the last 7 days.
 | [mame](https://github.com/mamedev/mame) | MAME, the multi-system arcade and computer emulator | 10,602 | 🟢 | C++ |
 | [Cemu](https://github.com/cemu-project/Cemu) | Cemu, a Wii U emulator | 9,983 | 🟢 | C++ |
 | [mgba](https://github.com/mgba-emu/mgba) | mGBA, an accurate Game Boy Advance emulator | 7,494 | 🟢 | C |
+| [universal-modder](https://github.com/rehan-remade/universal-modder) | Skills and tools that let AI coding agents reverse engineer and mod almost any PC game | 7,420 | 🟢 | Python |
 | [WeixinBot](https://github.com/Urinx/WeixinBot) | Web WeChat API with a terminal client and bot | 7,410 | 🔴 | Python |
 | [jsnes](https://github.com/bfirsh/jsnes) | jsnes, a JavaScript NES emulator | 6,426 | 🟢 | JavaScript |
+| [capa](https://github.com/mandiant/capa) | FLARE tool that identifies capabilities in executable files | 6,232 | 🟢 | Python |
 | [wxBot](https://github.com/liuwons/wxBot) | Python WeChat personal-account bot framework on the web protocol (deprecated) | 5,311 | 🔴 | Python |
 | [PyBoy](https://github.com/Baekalfen/PyBoy) | Game Boy emulator written in Python, with an API for scripting and AI agents | 5,223 | 🟢 | Python |
 | [SimpleNES](https://github.com/amhndu/SimpleNES) | SimpleNES, an NES emulator in C++ | 5,112 | 🟡 | C++ |
 | [melonDS](https://github.com/melonDS-emu/melonDS) | melonDS, a Nintendo DS emulator with DSi and local wireless support | 5,105 | 🟢 | C++ |
 | [86Box](https://github.com/86Box/86Box) | 86Box, an emulator of x86-based machines | 4,906 | 🟢 | C |
-| [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) | Game Boy development resources, including emulators, disassemblies, hardware research and link-cable protocols | 4,529 | 🟢 |  |
-| [xemu](https://github.com/xemu-project/xemu) | xemu, an original Xbox emulator built on low-level hardware emulation | 4,179 | 🟢 | C |
 
 ## Most starred
 

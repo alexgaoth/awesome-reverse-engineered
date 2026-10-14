@@ -278,6 +278,9 @@
 - sourceforge.net
 - sr.ht
 - wiki.multimedia.cx
+- hn.algolia.com
+- api.github.com search/repositories
+- api.github.com graphql
 
 ## Searches run
 
@@ -1903,3 +1906,27 @@
 - WebSearch: site:git.sr.ht reverse engineered protocol; sr.ht reverse engineered driver/client/decompilation
 - known off-GitHub RE projects checked by URL: SourceForge (libnodave, thinkfinger, pnm2ppa, nvclock, acx100, libnjb, bitpim, pentagram, xu4...), git.libreoffice.org DLP libs, savannah gnokii, osmocom gitea
 - codeberg api: frontend, alternative frontend, privacy frontend, esphome, bluetooth, ble, decomp, disassembly, recompilation, private server, server emulator, custom firmware, openwrt, home assistant integration, innertube, scraper, reverse, re-implementation, clone of, game engine, open source engine
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=reverse engineered
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=reverse-engineered
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=reverse engineering
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=unofficial API
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=undocumented API
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=decompilation
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=recompiled
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=open source client
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=local control
+- HN Algolia search_by_date tags=story created_at_i>1791763200 query=protocol
+- HN Algolia search_by_date tags=show_hn created_at_i>1791763200
+- GitHub search: "reverse engineered" created:>=2026-10-05 stars:>5
+- GitHub search: "reverse-engineered" created:>=2026-10-05 stars:>5
+- GitHub search: "unofficial api" created:>=2026-10-05 stars:>5
+- GitHub search: "unofficial client" created:>=2026-10-05 stars:>5
+- GitHub search: "private api" created:>=2026-10-05 stars:>5
+- GitHub search: decompilation created:>=2026-10-05 stars:>5
+- GitHub search: recompilation created:>=2026-10-05 stars:>5
+- GitHub search: reimplementation created:>=2026-10-05 stars:>5
+- GitHub search: "local api" created:>=2026-10-05 stars:>5
+- GitHub search: "cloud-free" created:>=2026-10-05 stars:>5
+- GitHub search: topic:reverse-engineering pushed:>=2026-10-10 stars:>200
+- GitHub search: topic:unofficial-api pushed:>=2026-10-10 stars:>200
+- GitHub search: topic:decompilation pushed:>=2026-10-10 stars:>200

@@ -1,13 +1,12 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 261 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 260 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bridges & Multi-protocol](#bridges--multi-protocol) (44)
 - [Discord & Slack](#discord--slack) (29)
-- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (38)
-- [Other](#other) (5)
+- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (42)
 - [Other Messaging](#other-messaging) (29)
 - [Signal & Telegram](#signal--telegram) (15)
 - [Social Media Private APIs](#social-media-private-apis) (18)
@@ -105,10 +104,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [instaloader](https://github.com/instaloader/instaloader) | Download pictures (or videos) along with their captions and other metadata from Instagram. | 13,568 | 🟢 | Python |
 | [instagrapi](https://github.com/subzeroid/instagrapi) | Python library for Instagram's private mobile API | 6,948 | 🟢 | Python |
+| [instagram-private-api](https://github.com/dilame/instagram-private-api) | Node.js/TypeScript Instagram private API SDK | 6,480 | 🟡 | TypeScript |
+| [instagram_private_api](https://github.com/ping/instagram_private_api) | Python library for Instagram's private API | 3,316 | 🟡 | Python |
 | [facebook-scraper](https://github.com/kevinzg/facebook-scraper) | Scrape Facebook public pages without an API key | 3,306 | 🟡 | Python |
 | [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api) | Unofficial Facebook Chat API for Nodejs | 1,943 | 🗄️ | JavaScript |
 | [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included. | 1,617 | 🗄️ | TypeScript |
 | [fbchat](https://github.com/fbchat-dev/fbchat) | Facebook Chat (Messenger) for Python | 1,215 | 🟡 | Python |
+| [instagram4j](https://github.com/instagram4j/instagram4j) | Reverse engineered Instagram private API in Java | 1,031 | 🟢 | Java |
+| [goinsta](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API in Go (archived) | 894 | 🗄️ | Go |
 | [aiograpi-rest](https://github.com/subzeroid/aiograpi-rest) | RESTful wrapper service for the Instagram private API | 644 | 🟢 | Python |
 | [instapy-cli](https://github.com/b3nab/instapy-cli) | Python library and CLI to upload photo and video on Instagram. W/o a phone! | 607 | 🔴 | Python |
 | [instagram](https://github.com/mislav/instagram) | Early Instagram website and lightweight HTTP API client | 582 | 🗄️ | Ruby |
@@ -141,16 +144,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial) | Unofficial Facebook Chat API for Nodejs | 49 | 🟢 | JavaScript |
 | [instagram-private-api (azimgd)](https://github.com/azimgd/instagram-private-api) | Instagram private API JavaScript client | 26 | 🔴 | JavaScript |
 | [instagram-api (oktaysenkan)](https://github.com/oktaysenkan/instagram-api) | Private Instagram API library without API token or login | 17 | 🗄️ | JavaScript |
-
-## Other
-
-| Project | What it does | ★ | Health | Lang |
-|---|---|--:|:-:|---|
-| [instagram-private-api](https://github.com/dilame/instagram-private-api) | Node.js/TypeScript Instagram private API SDK | 6,480 | 🟡 | TypeScript |
-| [instagram_private_api](https://github.com/ping/instagram_private_api) | Python library for Instagram's private API | 3,316 | 🟡 | Python |
-| [instagram4j](https://github.com/instagram4j/instagram4j) | Reverse engineered Instagram private API in Java | 1,031 | 🟢 | Java |
-| [goinsta](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API in Go (archived) | 894 | 🗄️ | Go |
-| [Tinder API docs](https://github.com/fbessez/Tinder) | Documentation and Python wrapper for Tinder's private API | 865 | 🔴 | Python |
 
 ## Other Messaging
 

@@ -1,16 +1,15 @@
 # Mobile Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 87 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 97 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Android Apps](#android-apps) (5)
 - [App Store Clients & Downloaders](#app-store-clients--downloaders) (24)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (12)
-- [Other](#other) (1)
+- [Fitness & Education Apps](#fitness--education-apps) (14)
 - [Patched & Alternative Clients](#patched--alternative-clients) (35)
-- [Transport & Delivery Apps](#transport--delivery-apps) (5)
+- [Transport & Delivery Apps](#transport--delivery-apps) (14)
 - [iOS Dumping & Decryption](#ios-dumping--decryption) (2)
 
 ## Android Apps
@@ -65,7 +64,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [zwift-offline](https://github.com/zoffline/zwift-offline) | Offline server reimplementation for the Zwift cycling app | 1,390 | 🟢 | Python |
+| [python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) | Access MyFitnessPal meal tracking data programmatically | 876 | 🟡 | Python |
 | [peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) | Converts Peloton workouts via the unofficial API and uploads them to Garmin Connect | 360 | 🟢 | C# |
+| [peloton-client-library](https://github.com/geudrik/peloton-client-library) | Python client for parts of the Peloton API | 231 | 🔴 | Python |
 | [nrc-exporter](https://github.com/yasoob/nrc-exporter) | Downloads Nike Run Club runs via its private API and converts to GPX | 164 | 🟢 | Python |
 | [garmin-connect](https://github.com/abrander/garmin-connect) | Go client for the unofficial reverse-engineered Garmin Connect API | 153 | 🗄️ | Go |
 | [yazio-mcp](https://github.com/fliptheweb/yazio-mcp) | Unofficial MCP server for Yazio nutrition data | 64 | 🟢 | JavaScript |
@@ -76,12 +77,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [duobot](https://github.com/mc51/duobot) | Duolingo automation built on the reverse-engineered Android app API | 4 | 🟡 | Python |
 | [pypeloton](https://github.com/raman325/pypeloton) | Sync and async Python client for the Peloton API | 2 | 🟡 | Python |
 | [Duolingo](https://github.com/idefux/Duolingo) | Unofficial Duolingo API in Python | 0 | 🔴 | Python |
-
-## Other
-
-| Project | What it does | ★ | Health | Lang |
-|---|---|--:|:-:|---|
-| [openDoJa](https://github.com/GrenderG/openDoJa) | Clean-room reimplementation of NTT DoCoMo's DoJa 5.1 i-appli runtime | 74 | 🟢 | Java |
 
 ## Patched & Alternative Clients
 
@@ -129,9 +124,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [Transportr](https://github.com/grote/Transportr) | Free public transport app built on public-transport-enabler's reverse-engineered APIs | 1,169 | 🟢 | Kotlin |
 | [WoBike](https://github.com/ubahnverleih/WoBike) | Documentation of reverse-engineered bike- and scooter-sharing app APIs | 1,016 | 🟢 |  |
+| [node-dominos-pizza-api](https://github.com/RIAEvangelist/node-dominos-pizza-api) | Node.js wrapper for the Domino's pizza APIs | 577 | 🟡 | JavaScript |
 | [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) | Java library for public transport data from reverse-engineered transit app backends | 454 | 🟢 | Java |
 | [tripkit](https://github.com/alexander-albers/tripkit) | Swift library querying public transport provider backends | 110 | 🟢 | Swift |
 | [db-hafas](https://github.com/public-transport/db-hafas) | JavaScript client for the Deutsche Bahn HAFAS mobile API | 81 | 🟡 | JavaScript |
+| [jomato-mobile](https://github.com/jatin-dot-py/jomato-mobile) | Unofficial API wrapper for Zomato's mobile API | 80 | 🟢 | Kotlin |
+| [McReverse](https://github.com/Louuke/McReverse) | Reverse-engineered Java library for the German McDonald's API | 38 | 🔴 | Java |
+| [snapp-mcp](https://github.com/sepehr071/snapp-mcp) | Unofficial read-only MCP server for Snappfood and SnappMarket private APIs | 33 | 🟢 | Python |
+| [lieferheld-api](https://github.com/kenodressel/lieferheld-api) | Play with the unofficial lieferheld api. | 21 | 🔴 | JavaScript |
+| [JimmyJohns](https://github.com/mmahler2/JimmyJohns) | Unofficial Jimmy John's Client for Node.js | 18 | 🔴 | JavaScript |
+| [node-ubereats](https://github.com/jzarca01/node-ubereats) | Work-in-progress Uber Eats API client | 12 | 🔴 | JavaScript |
+| [boltcli](https://github.com/Lukynnnn/boltcli) | Terminal client for Bolt Food orders via the reverse-engineered API | 5 | 🟢 | Go |
+| [PyDonalds](https://github.com/4Kaylum/PyDonalds) | An investigation into the private API used by the McDonalds mobile ordering app | 3 | 🗄️ | Python |
 
 ## iOS Dumping & Decryption
 

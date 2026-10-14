@@ -1,13 +1,13 @@
 # Automotive
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 380 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 382 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
 - [CAN Bus & ECU](#can-bus--ecu) (92)
-- [Car APIs & Telematics](#car-apis--telematics) (128)
-- [EV Batteries & BMS](#ev-batteries--bms) (22)
+- [Car APIs & Telematics](#car-apis--telematics) (129)
+- [EV Batteries & BMS](#ev-batteries--bms) (23)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (31)
 - [Motorcycles](#motorcycles) (10)
 - [Scooters & E-bikes](#scooters--e-bikes) (58)
@@ -159,6 +159,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [evcc](https://github.com/evcc-io/evcc) | EV charging controller integrating many wallboxes and car APIs | 7,360 | 🟢 | Go |
 | [OpenAuto](https://github.com/f1xpl/openauto) | Android Auto head unit emulator | 2,925 | 🟡 | C++ |
+| [tesla-api](https://github.com/timdorr/tesla-api) | Unofficial documentation and Ruby gem for Tesla's JSON API | 2,067 | 🟢 | Ruby |
 | [kia_uvo](https://github.com/Hyundai-Kia-Connect/kia_uvo) | Home Assistant integration for Kia and Hyundai connected cars | 953 | 🟢 | Python |
 | [react-carplay](https://github.com/rhysmorgan134/react-carplay) | Electron/React CarPlay head unit using reverse-engineered Carlinkit USB dongle protocol | 891 | 🟢 | TypeScript |
 | [tesla (HA custom)](https://github.com/alandtse/tesla) | Home Assistant Tesla integration built on the unofficial Tesla owner API | 784 | 🟢 | Python |
@@ -309,6 +310,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [jkbms](https://github.com/jblance/jkbms) | Experiments decoding JK-BMS BLE protocol | 31 | 🔴 | Python |
 | [dbus-btbattery](https://github.com/bradcagle/dbus-btbattery) | Victron Venus OS driver for Bluetooth BMS (JBD, JK) | 27 | 🟡 | Python |
 | [overkill-xiaoxiang-jbd-bms-ble-reader](https://github.com/neilsheps/overkill-xiaoxiang-jbd-bms-ble-reader) | Read Xiaoxiang/JBD BMS data over BLE on nRF52 boards | 26 | 🔴 | C++ |
+| [BMSCtl](https://github.com/Sgw32/BMSCtl) | Control panel for ANT BMS with a reverse-engineered UART protocol | 23 | 🔴 | C# |
 | [ioBroker.bydhvs](https://github.com/christianh17/ioBroker.bydhvs) | ioBroker adapter for BYD HVS battery storage | 20 | 🟢 | JavaScript |
 | [LiTime_BMS_bluetooth](https://github.com/calledit/LiTime_BMS_bluetooth) | Read and control LiTime Bluetooth BMS from a web browser | 18 | 🟡 | HTML |
 | [esp32xiaoxiangble](https://github.com/Bangybug/esp32xiaoxiangble) | ESP32 client for the Xiaoxiang BMS Bluetooth protocol | 5 | 🔴 | C++ |

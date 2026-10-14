@@ -1,22 +1,53 @@
 # Alternative Frontends
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 122 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 121 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
+- [Articles & Reference Sites](#articles--reference-sites) (24)
 - [Bandcamp](#bandcamp) (1)
 - [GitHub](#github) (1)
+- [Image Sites](#image-sites) (18)
 - [Instagram & TikTok](#instagram--tiktok) (7)
 - [Odysee/LBRY](#odyseelbry) (2)
-- [Other](#other) (63)
+- [Other](#other) (8)
 - [Reddit](#reddit) (7)
-- [Search Engines](#search-engines) (4)
+- [Search Engines](#search-engines) (9)
 - [Tools & Instance Lists](#tools--instance-lists) (3)
-- [Translation](#translation) (3)
-- [Twitch](#twitch) (1)
+- [Translation](#translation) (6)
+- [Twitch](#twitch) (5)
 - [Twitter/X](#twitterx) (4)
 - [YouTube](#youtube) (24)
 - [YouTube Music](#youtube-music) (2)
+
+## Articles & Reference Sites
+
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [Freetar](https://github.com/kmille/freetar) | Alternative frontend for Ultimate Guitar tabs | 784 | 🟢 | HTML |
+| [Quetre](https://github.com/zyachel/quetre) | Libre frontend for Quora | 499 | 🟢 | JavaScript |
+| [libremdb](https://github.com/zyachel/libremdb) | FOSS alternative frontend for IMDb | 438 | 🟢 | TypeScript |
+| [Dumb](https://github.com/rramiachraf/dumb) | Private alternative frontend for Genius lyrics | 415 | 🟢 | Go |
+| [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) | Private Stack Overflow frontend without tracking | 380 | 🟢 | Go |
+| [BiblioReads](https://github.com/nesaku/BiblioReads) | Alternative privacy-focused Goodreads frontend | 353 | 🟢 | JavaScript |
+| [Neuters](https://github.com/HookedBehemoth/neuters) | Lightweight alternative frontend for Reuters | 161 | 🟢 | Rust |
+| [Wayback Classic](https://github.com/ticky/wayback-classic) | Wayback Machine frontend for old browsers | 135 | 🟢 | Ruby |
+| [LibMedium](https://github.com/realaravinth/libmedium) | Privacy-focused proxy frontend for Medium | 95 | 🟡 | HTML |
+| [Intellectual](https://github.com/Insprill/intellectual) | Alternative frontend for Genius focused on privacy and simplicity | 74 | 🟢 | Rust |
+| [GoCook](https://github.com/NoUmlautsAllowed/gocook) | Alternative frontend for Chefkoch recipes | 35 | 🟢 | Go |
+| [TekstoLibre](https://github.com/Davilarek/TekstoLibre) | Alternative frontend for the Tekstowo lyrics site | 13 | 🟢 | JavaScript |
+| [Structables](https://github.com/PrivateCoffee/structables) | Alternative frontend for Instructables | 2 | 🟡 | Python |
+| [BreezeWiki](https://gitdab.com/cadence/breezewiki) | Alternative frontend for Fandom wikis without ads or clutter |  | ⚪ |  |
+| [Destructables](https://codeberg.org/cobra/Destructables) | Alternative frontend for Instructables |  | ⚪ |  |
+| [Indestructables](https://codeberg.org/indestructables/indestructables) | Privacy-respecting frontend to Instructables |  | ⚪ |  |
+| [MeMe](https://codeberg.org/cobra/MeMe) | Alternative frontend for Know Your Meme |  | ⚪ |  |
+| [NerdsforNerds](https://codeberg.org/cobra/NerdsforNerds) | Alternative frontend for GeeksforGeeks |  | ⚪ |  |
+| [Phantom](https://codeberg.org/phantom-org/phantom) | Alternative frontend for Fandom wikis |  | ⚪ |  |
+| [Rural Dictionary](https://codeberg.org/cobra/rural-dict) | Alternative frontend for Urban Dictionary |  | ⚪ |  |
+| [Scribe](https://git.sr.ht/~edwardloveall/scribe) | Alternative Medium frontend using Medium's GraphQL API |  | ⚪ |  |
+| [SimpleKoch](https://codeberg.org/SimpleWeb/SimpleKoch) | Simple frontend for the German recipe site Chefkoch.de |  | ⚪ |  |
+| [Small](https://git.private.coffee/PrivateCoffee/small) | Alternative frontend for Medium |  | ⚪ |  |
+| [Suds](https://codeberg.org/cobra/Suds) | Alternative frontend for Snopes |  | ⚪ |  |
 
 ## Bandcamp
 
@@ -29,6 +60,29 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [GotHub](https://codeberg.org/gothub/gothub) | Alternative privacy front-end for GitHub written in Go |  | ⚪ |  |
+
+## Image Sites
+
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 867 | 🟢 | JavaScript |
+| [Binternet](https://github.com/Ahwxorg/Binternet) | Privacy-respecting Pinterest frontend | 304 | 🟢 | PHP |
+| [Pinless](https://github.com/bunk-im/pinless) | Alternative Pinterest frontend | 45 | 🟢 | Go |
+| [Omgur](https://github.com/geraldwuhoo/omgur) | Privacy-focused alternative Imgur frontend | 23 | 🟢 | Go |
+| [imgrs](https://github.com/geraldwuhoo/imgrs) | Rust rewrite of the Omgur Imgur frontend | 5 | 🔴 | Rust |
+| [BooruView](https://codeberg.org/jessienyan/booruview) | Alternative frontend for booru image boards |  | ⚪ |  |
+| [freexiv](https://codeberg.org/PrivacyDev/freexiv) | Alternative frontend for pixiv |  | ⚪ |  |
+| [Gelbooru-go](https://git.bloat.cat/vlnst/gelbooru-go) | Alternative frontend for Gelbooru |  | ⚪ |  |
+| [LiteXiv](https://codeberg.org/LiteXiv/LiteXiv) | Lightweight alternative Pixiv frontend |  | ⚪ |  |
+| [Painterest](https://codeberg.org/thirtysix/painterest) | Alternative Pinterest frontend |  | ⚪ |  |
+| [PixivFE](https://codeberg.org/VnPower/pixivfe) | Privacy-respecting frontend for Pixiv |  | ⚪ |  |
+| [Pomeranc](https://codeberg.org/Fjuro/Pomeranc) | Alternative frontend for the Czech photo site Rajce.net |  | ⚪ |  |
+| [rimgo](https://codeberg.org/video-prize-ranch/rimgo) | Read-only, no-JS alternative frontend for Imgur |  | ⚪ |  |
+| [Rimgu](https://codeberg.org/3np/rimgu) | Self-hosted alternative frontend and proxy for Imgur |  | ⚪ |  |
+| [SkunkyArt](https://codeberg.org/skunky/skunkyart) | Alternative frontend for DeviantArt |  | ⚪ |  |
+| [Soprano](https://codeberg.org/cobra/Soprano) | Alternative frontend for Tenor |  | ⚪ |  |
+| [UNfunny](https://codeberg.org/cobra/UNfunny) | Alternative frontend for iFunny |  | ⚪ |  |
+| [Vixipy](https://codeberg.org/vixipy/Vixipy) | Alternative Pixiv frontend |  | ⚪ |  |
 
 ## Instagram & TikTok
 
@@ -53,69 +107,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,567 | 🗄️ | Python |
-| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,388 | 🟢 | TypeScript |
-| [Xtra](https://github.com/crackededed/Xtra) | Twitch player and browser for Android using Twitch's GraphQL API | 2,301 | 🟢 | Kotlin |
-| [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) | Alternative frontend for Google Translate using scraped results | 1,850 | 🔴 | TypeScript |
-| [Twire](https://github.com/twireapp/Twire) | Alternative open-source Twitch client for Android | 1,307 | 🟢 | Kotlin |
-| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 867 | 🟢 | JavaScript |
-| [Freetar](https://github.com/kmille/freetar) | Alternative frontend for Ultimate Guitar tabs | 784 | 🟢 | HTML |
-| [Quetre](https://github.com/zyachel/quetre) | Libre frontend for Quora | 499 | 🟢 | JavaScript |
-| [libremdb](https://github.com/zyachel/libremdb) | FOSS alternative frontend for IMDb | 438 | 🟢 | TypeScript |
-| [Dumb](https://github.com/rramiachraf/dumb) | Private alternative frontend for Genius lyrics | 415 | 🟢 | Go |
-| [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) | Private Stack Overflow frontend without tracking | 380 | 🟢 | Go |
-| [BiblioReads](https://github.com/nesaku/BiblioReads) | Alternative privacy-focused Goodreads frontend | 353 | 🟢 | JavaScript |
-| [LibreY](https://github.com/Ahwxorg/LibreY) | Privacy-respecting metasearch engine scraping Google and others | 322 | 🟢 | PHP |
-| [Binternet](https://github.com/Ahwxorg/Binternet) | Privacy-respecting Pinterest frontend | 304 | 🟢 | PHP |
 | [Priviblur](https://github.com/syeopite/priviblur) | Lightweight privacy-respecting Tumblr frontend | 179 | 🟢 | Python |
-| [Neuters](https://github.com/HookedBehemoth/neuters) | Lightweight alternative frontend for Reuters | 161 | 🟢 | Rust |
-| [Wayback Classic](https://github.com/ticky/wayback-classic) | Wayback Machine frontend for old browsers | 135 | 🟢 | Ruby |
-| [LibMedium](https://github.com/realaravinth/libmedium) | Privacy-focused proxy frontend for Medium | 95 | 🟡 | HTML |
 | [Skyview](https://github.com/badlogic/skyview) | View Bluesky threads without an account | 88 | 🟡 | TypeScript |
-| [Intellectual](https://github.com/Insprill/intellectual) | Alternative frontend for Genius focused on privacy and simplicity | 74 | 🟢 | Rust |
-| [Pinless](https://github.com/bunk-im/pinless) | Alternative Pinterest frontend | 45 | 🟢 | Go |
-| [GoCook](https://github.com/NoUmlautsAllowed/gocook) | Alternative frontend for Chefkoch recipes | 35 | 🟢 | Go |
-| [Omgur](https://github.com/geraldwuhoo/omgur) | Privacy-focused alternative Imgur frontend | 23 | 🟢 | Go |
 | [Pasted](https://github.com/dragynfruit/pasted) | Alternative Pastebin frontend | 21 | 🟢 | Rust |
-| [TekstoLibre](https://github.com/Davilarek/TekstoLibre) | Alternative frontend for the Tekstowo lyrics site | 13 | 🟢 | JavaScript |
-| [imgrs](https://github.com/geraldwuhoo/imgrs) | Rust rewrite of the Omgur Imgur frontend | 5 | 🔴 | Rust |
-| [Structables](https://github.com/PrivateCoffee/structables) | Alternative frontend for Instructables | 2 | 🟡 | Python |
-| [4get](https://git.lolcat.ca/lolcat/4get) | Proxy search engine that scrapes Google, Bing, DDG and more |  | ⚪ |  |
-| [BooruView](https://codeberg.org/jessienyan/booruview) | Alternative frontend for booru image boards |  | ⚪ |  |
-| [BreezeWiki](https://gitdab.com/cadence/breezewiki) | Alternative frontend for Fandom wikis without ads or clutter |  | ⚪ |  |
-| [Destructables](https://codeberg.org/cobra/Destructables) | Alternative frontend for Instructables |  | ⚪ |  |
-| [freexiv](https://codeberg.org/PrivacyDev/freexiv) | Alternative frontend for pixiv |  | ⚪ |  |
-| [Gelbooru-go](https://git.bloat.cat/vlnst/gelbooru-go) | Alternative frontend for Gelbooru |  | ⚪ |  |
-| [Indestructables](https://codeberg.org/indestructables/indestructables) | Privacy-respecting frontend to Instructables |  | ⚪ |  |
 | [Koub](https://git.bloat.cat/gospodin/koub) | Alternative frontend for Coub |  | ⚪ |  |
-| [LiteXiv](https://codeberg.org/LiteXiv/LiteXiv) | Lightweight alternative Pixiv frontend |  | ⚪ |  |
-| [MeMe](https://codeberg.org/cobra/MeMe) | Alternative frontend for Know Your Meme |  | ⚪ |  |
-| [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) | Alternative frontend for Bilibili |  | ⚪ |  |
 | [moppet](https://codeberg.org/anabasis/moppet) | Alternative frontend for PBS Kids videos |  | ⚪ |  |
-| [Mozhi](https://codeberg.org/aryak/mozhi) | Translation frontend aggregating Google, DeepL, Yandex and others |  | ⚪ |  |
-| [NerdsforNerds](https://codeberg.org/cobra/NerdsforNerds) | Alternative frontend for GeeksforGeeks |  | ⚪ |  |
-| [Painterest](https://codeberg.org/thirtysix/painterest) | Alternative Pinterest frontend |  | ⚪ |  |
-| [Phantom](https://codeberg.org/phantom-org/phantom) | Alternative frontend for Fandom wikis |  | ⚪ |  |
-| [PixivFE](https://codeberg.org/VnPower/pixivfe) | Privacy-respecting frontend for Pixiv |  | ⚪ |  |
-| [Pomeranc](https://codeberg.org/Fjuro/Pomeranc) | Alternative frontend for the Czech photo site Rajce.net |  | ⚪ |  |
 | [Rat Aint Tieba](https://0xacab.org/johnxina/rat) | Alternative frontend for Baidu Tieba |  | ⚪ |  |
-| [rens](https://git.maid.zone/stuff/rens) | Alternative frontend for Google Lens |  | ⚪ |  |
-| [rimgo](https://codeberg.org/video-prize-ranch/rimgo) | Read-only, no-JS alternative frontend for Imgur |  | ⚪ |  |
-| [Rimgu](https://codeberg.org/3np/rimgu) | Self-hosted alternative frontend and proxy for Imgur |  | ⚪ |  |
-| [Rural Dictionary](https://codeberg.org/cobra/rural-dict) | Alternative frontend for Urban Dictionary |  | ⚪ |  |
-| [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) | Privacy-respecting Twitch frontend |  | ⚪ |  |
-| [Scribe](https://git.sr.ht/~edwardloveall/scribe) | Alternative Medium frontend using Medium's GraphQL API |  | ⚪ |  |
 | [SimpleAmazon](https://codeberg.org/SimpleWeb/SimpleAmazon) | Frontend for browsing and searching Amazon on any regional TLD |  | ⚪ |  |
-| [SimpleKoch](https://codeberg.org/SimpleWeb/SimpleKoch) | Simple frontend for the German recipe site Chefkoch.de |  | ⚪ |  |
-| [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate) | Alternative frontend for Google Translate, Reverso and others |  | ⚪ |  |
-| [SkunkyArt](https://codeberg.org/skunky/skunkyart) | Alternative frontend for DeviantArt |  | ⚪ |  |
-| [Small](https://git.private.coffee/PrivateCoffee/small) | Alternative frontend for Medium |  | ⚪ |  |
-| [Soprano](https://codeberg.org/cobra/Soprano) | Alternative frontend for Tenor |  | ⚪ |  |
 | [soundcloak](https://git.maid.zone/stuff/soundcloak) | Lightweight privacy-respecting SoundCloud frontend |  | ⚪ |  |
-| [Suds](https://codeberg.org/cobra/Suds) | Alternative frontend for Snopes |  | ⚪ |  |
-| [Twineo](https://codeberg.org/CloudyyUw/twineo) | Alternative Twitch frontend |  | ⚪ |  |
-| [UNfunny](https://codeberg.org/cobra/UNfunny) | Alternative frontend for iFunny |  | ⚪ |  |
-| [Vixipy](https://codeberg.org/vixipy/Vixipy) | Alternative Pixiv frontend |  | ⚪ |  |
 
 ## Reddit
 
@@ -135,8 +134,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [searxng](https://github.com/searxng/searxng) | Metasearch engine that scrapes and aggregates results from many search services | 38,333 | 🟢 | Python |
 | [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,555 | 🟢 | Python |
+| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,567 | 🗄️ | Python |
+| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,388 | 🟢 | TypeScript |
 | [librex](https://github.com/hnhx/librex) | JavaScript-free privacy meta search engine scraping Google and others (LibreX) | 845 | 🟡 | PHP |
 | [araa-search](https://github.com/Extravi/araa-search) | Self-hosted privacy Google metasearch engine with API (scrapes Google results) | 333 | 🟢 | Python |
+| [LibreY](https://github.com/Ahwxorg/LibreY) | Privacy-respecting metasearch engine scraping Google and others | 322 | 🟢 | PHP |
+| [4get](https://git.lolcat.ca/lolcat/4get) | Proxy search engine that scrapes Google, Bing, DDG and more |  | ⚪ |  |
+| [rens](https://git.maid.zone/stuff/rens) | Alternative frontend for Google Lens |  | ⚪ |  |
 
 ## Tools & Instance Lists
 
@@ -150,7 +154,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
+| [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) | Alternative frontend for Google Translate using scraped results | 1,850 | 🔴 | TypeScript |
 | [simplytranslate_mobile](https://github.com/ManeraKai/simplytranslate_mobile) | Android frontend to Google Translate via SimplyTranslate | 214 | 🟢 | Dart |
+| [Mozhi](https://codeberg.org/aryak/mozhi) | Translation frontend aggregating Google, DeepL, Yandex and others |  | ⚪ |  |
+| [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate) | Alternative frontend for Google Translate, Reverso and others |  | ⚪ |  |
 | [SimplyTranslate-Web](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) | Web interface for SimplyTranslate, a privacy frontend to Google Translate and others |  | ⚪ |  |
 | [translite](https://codeberg.org/gospodin/translite) | Frontend for Google Translate, Yandex, DeepL and DuckDuckGo Translate with opt-in JavaScript |  | ⚪ |  |
 
@@ -158,7 +165,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
+| [Xtra](https://github.com/crackededed/Xtra) | Twitch player and browser for Android using Twitch's GraphQL API | 2,301 | 🟢 | Kotlin |
+| [Twire](https://github.com/twireapp/Twire) | Alternative open-source Twitch client for Android | 1,307 | 🟢 | Kotlin |
+| [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) | Privacy-respecting Twitch frontend |  | ⚪ |  |
 | [safetwitch-backend](https://codeberg.org/SafeTwitch/safetwitch-backend) | SafeTwitch backend that queries Twitch's private GraphQL API |  | ⚪ |  |
+| [Twineo](https://codeberg.org/CloudyyUw/twineo) | Alternative Twitch frontend |  | ⚪ |  |
 
 ## Twitter/X
 

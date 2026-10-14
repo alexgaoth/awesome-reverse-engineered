@@ -1,6 +1,6 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 397 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 401 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -9,14 +9,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (25)
 - [Digital Voice Radio](#digital-voice-radio) (13)
 - [Email & Groupware](#email--groupware) (22)
-- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (24)
+- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (26)
 - [Legacy IM Revival](#legacy-im-revival) (2)
 - [Messaging Protocols](#messaging-protocols) (17)
 - [Other Protocols](#other-protocols) (18)
 - [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
-- [Radio & SDR Protocols](#radio--sdr-protocols) (62)
+- [Radio & SDR Protocols](#radio--sdr-protocols) (63)
 - [Satellite Downlinks](#satellite-downlinks) (32)
-- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (42)
+- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (43)
 - [VPN Clients](#vpn-clients) (22)
 
 ## Aviation & Marine
@@ -203,6 +203,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [smbprotocol](https://github.com/jborean93/smbprotocol) | Python SMBv2/v3 client implementation | 401 | 🟢 | Python |
 | [ksmbd](https://github.com/namjaejeon/ksmbd) | In-kernel Linux SMB3 server | 373 | 🟢 | C |
 | [moonlight-windows](https://github.com/moonlight-stream/moonlight-windows) | NVIDIA GameStream client for Windows Phone (discontinued) | 82 | 🗄️ | C |
+| [pippin](https://github.com/jonesy827/pippin) | Native Rust Linux client for Apple's macOS High-Performance Screen Sharing protocol (HEVC 4:4:4, audio, clipboard) | 4 | 🟢 | Rust |
+| [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | Original free and open-source PlayStation Remote Play client built from the reverse-engineered protocol |  | ⚪ |  |
 
 ## Legacy IM Revival
 
@@ -359,6 +361,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RS41_Decoding](https://github.com/bazjo/RS41_Decoding) | Reverse engineering the Vaisala RS41 radiosonde data frame format | 71 | 🔴 |  |
 | [nrsc5-gui](https://github.com/cmnybo/nrsc5-gui) | Graphical interface for the nrsc5 HD Radio receiver | 64 | 🔴 | Python |
 | [PyEOT](https://github.com/ereuter/PyEOT) | GNU Radio/Python decoder for railroad End-of-Train telemetry packets | 64 | 🟡 | Python |
+| [TH-D74-Kenwood](https://github.com/LA3QMA/TH-D74-Kenwood) | Rig control commands for the Kenwood TH-D74 radio | 58 | 🔴 |  |
 | [OpenWXSDR](https://github.com/DL2MF/OpenWXSDR) | SDR receiver and decoder for weather radiosondes | 40 | 🟢 | Python |
 | [tetra-toolkit](https://github.com/Tim---/tetra-toolkit) | Tools and documentation for decoding TETRA radio | 38 | 🟡 |  |
 | [pyinsteon](https://github.com/pyinsteon/pyinsteon) | Python library for the Insteon home automation protocol | 31 | 🟢 | Python |
@@ -416,6 +419,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
+| [rtlamr](https://github.com/bemasher/rtlamr) | RTL-SDR receiver for Itron ERT smart utility meters | 2,548 | 🟢 | Go |
 | [rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) | Send ERT/SCM utility meter readings from rtlamr to MQTT and Home Assistant | 640 | 🟢 | Python |
 | [SzczepanLeon esphome-components](https://github.com/SzczepanLeon/esphome-components) | ESPHome wM-Bus components decoding manufacturer-specific water/heat meter telegrams | 352 | 🟢 | C++ |
 | [customer-assistance-buttons-sdr](https://github.com/jimilinuxguy/customer-assistance-buttons-sdr) | Reversed encoders of retail customer assistance call buttons via SDR | 339 | 🟡 |  |

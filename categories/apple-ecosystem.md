@@ -1,18 +1,17 @@
 # Apple Ecosystem
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 331 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 332 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AirPlay & AirDrop](#airplay--airdrop) (43)
-- [Apple Data Formats & Forensics](#apple-data-formats--forensics) (49)
+- [Apple Data Formats & Forensics](#apple-data-formats--forensics) (51)
 - [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
 - [Find My & AirTag](#find-my--airtag) (9)
 - [HomeKit](#homekit) (18)
-- [Other](#other) (4)
-- [Other Apple](#other-apple) (128)
+- [Other Apple](#other-apple) (129)
 - [iCloud & Apple Services](#icloud--apple-services) (22)
-- [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (44)
+- [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (46)
 
 ## AirPlay & AirDrop
 
@@ -67,6 +66,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [osxphotos](https://github.com/RhetTbull/osxphotos) | Reads and exports Apple Photos libraries by parsing the Photos.sqlite database | 3,909 | 🟢 | Python |
+| [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS research Swiss Army knife: firmware, dyld cache, kernelcache parsing | 3,794 | 🟢 | Go |
 | [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) | App to open Apple compiled asset catalog (.car) files and extract images | 2,885 | 🟢 | Swift |
 | [shortcuts-js](https://github.com/joshfarrant/shortcuts-js) | JavaScript library to generate iOS Shortcuts files | 1,753 | 🗄️ | TypeScript |
 | [cherri](https://github.com/electrikmilk/cherri) | Programming language that compiles to Apple Shortcuts files | 1,644 | 🟢 | Go |
@@ -76,6 +76,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) | Extracts Apple Notes data from the NoteStore database to JSON/HTML | 1,018 | 🔴 | Java |
 | [osx-abi-macho-file-format-reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference) | Mirror of OS X ABI Mach-O File Format Reference | 884 | 🟡 |  |
 | [APOLLO](https://github.com/mac4n6/APOLLO) | Parses macOS/iOS pattern-of-life databases (KnowledgeC, Screen Time, etc.) into timelines | 650 | 🟡 | Python |
+| [libplist](https://github.com/libimobiledevice/libplist) | Library for Apple binary and XML property lists | 638 | 🟢 | C |
 | [dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) | A CLI for extracting libraries from Apple's dyld shared cache file | 587 | 🟡 | C |
 | [DyldExtractor](https://github.com/arandomdev/DyldExtractor) | Extract Binaries from Apple's Dyld Shared Cache | 473 | 🗄️ | Python |
 | [macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) | Cross-platform Rust parser for Apple Unified Log (tracev3) files | 380 | 🟢 | Rust |
@@ -171,15 +172,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [hap](https://github.com/mtrudel/hap) | A HomeKit Accessory Protocol (HAP) Implementation for Elixir | 109 | 🟢 | Elixir |
 | [homekit](https://github.com/fmckeogh/homekit) | HomeKit Accessory Protocol implementation for embedded Rust | 26 | 🟡 | Rust |
 | [pyhap](https://github.com/condemil/pyhap) | Python implementation of HomeKit Accessory Protocol | 19 | 🔴 | Python |
-
-## Other
-
-| Project | What it does | ★ | Health | Lang |
-|---|---|--:|:-:|---|
-| [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | Cross-platform protocol library to talk to iOS devices | 8,251 | 🟢 | C |
-| [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS research Swiss Army knife: firmware, dyld cache, kernelcache parsing | 3,794 | 🟢 | Go |
-| [usbmuxd](https://github.com/libimobiledevice/usbmuxd) | Socket daemon multiplexing connections to iOS devices over USB | 1,779 | 🟢 | C |
-| [libplist](https://github.com/libimobiledevice/libplist) | Library for Apple binary and XML property lists | 638 | 🟢 | C |
 
 ## Other Apple
 
@@ -311,6 +303,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pstream](https://github.com/mfrister/pstream) | Server implementation of Apple's reverse-engineered PhotoStream protocol | 8 | 🗄️ | Python |
 | [macvdmtool](https://github.com/rickmark/macvdmtool) | Apple Silicon to Apple Silicon VDM utility | 4 | 🟡 | C++ |
 | [macos-summarize-internals](https://github.com/fenxer/macos-summarize-internals) | Reverse-engineered macOS Summary Service / SearchKit SKSummary | 2 | 🟢 | Python |
+| [Lowlight](https://github.com/Isaac-Harper/lowlight) | Dims MacBook keyboard backlight below the macOS minimum using private CoreBrightness APIs and IORegistry | 0 | 🟢 | Swift |
 | [re-derq](https://codeberg.org/viraptor/re-derq) | Open reimplementation of Apple's derq utility |  | ⚪ |  |
 | [re-intentbuilderc](https://codeberg.org/viraptor/re-intentbuilderc) | Clean open reimplementation of Apple's intentbuilderc tool |  | ⚪ |  |
 
@@ -347,6 +340,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [fastlane](https://github.com/fastlane/fastlane) | iOS/Android release automation; its spaceship module wraps Apple's private developer portal and App Store Connect APIs | 42,242 | 🟢 | Ruby |
 | [xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement to build, sign and deploy iOS apps from Linux and Windows | 8,739 | 🟢 | Swift |
+| [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | Cross-platform protocol library to talk to iOS devices | 8,251 | 🟢 | C |
 | [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) | A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector). | 6,201 | 🟡 | C |
 | [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | 5,366 | 🟢 | Swift |
 | [xcodes](https://github.com/XcodesOrg/xcodes) | CLI to download and switch Xcode versions using Apple developer portal authentication | 4,852 | 🟢 | Swift |
@@ -356,6 +350,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tidevice](https://github.com/alibaba/tidevice) | tidevice can be used to communicate with iPhone device | 2,606 | 🟢 | Python |
 | [go-ios](https://github.com/danielpaulus/go-ios) | This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill... | 2,293 | 🟢 | Go |
 | [zsign](https://github.com/zhlynn/zsign) | Cross-platform iOS app code signing tool (reimplements codesign) | 1,890 | 🟢 | C++ |
+| [usbmuxd](https://github.com/libimobiledevice/usbmuxd) | Socket daemon multiplexing connections to iOS devices over USB | 1,779 | 🟢 | C |
 | [Jitterbug](https://github.com/osy/Jitterbug) | Launches JIT-enabled iOS apps by talking to the device debugserver via libimobiledevice | 1,564 | 🗄️ | Swift |
 | [ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) | Manage apps of iOS devices | 1,466 | 🟢 | C |
 | [AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) | AltServer for AltStore, but on-device | 1,222 | 🟡 | C |

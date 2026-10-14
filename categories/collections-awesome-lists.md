@@ -1,11 +1,11 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=collections-awesome-lists) · 99 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=collections-awesome-lists) · 101 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [AI](#ai) (1)
-- [APIs & Apps](#apis--apps) (23)
+- [AI](#ai) (2)
+- [APIs & Apps](#apis--apps) (24)
 - [Games](#games) (40)
 - [General RE](#general-re) (16)
 - [Hardware & IoT](#hardware--iot) (19)
@@ -15,6 +15,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) | AI-driven reverse engineering tools: MCP servers for IDA/Ghidra/Frida, skills, JS RE | 956 | 🟢 |  |
+| [awesome-rea](https://github.com/yibie/awesome-rea) | Curated list of AI-assisted reverse engineering: decompilation, recompilation and native ports | 10 | 🟢 | Python |
 
 ## APIs & Apps
 
@@ -33,6 +34,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [awesome-steam](https://github.com/scholtzm/awesome-steam) | Packages and resources for Steam development, including reverse-engineered Steam network and game coordinator clients | 572 | 🟢 |  |
 | [reversing-unofficial-APIs](https://github.com/ropcat/reversing-unofficial-APIs) | Resources for reverse engineering “unofficial APIs”. | 115 | 🟡 |  |
 | [awesome-alternative-frontends](https://github.com/Myzel394/awesome-alternative-frontends) | A curated list of awesome alternative, privacy-friendly frontends. | 94 | 🟡 |  |
+| [APIs-by-Integuru](https://github.com/Integuru-AI/APIs-by-Integuru) | Collection of unofficial APIs built by reverse engineering web apps | 84 | 🟢 | Python |
 | [Private-APIs](https://github.com/kolsha/Private-APIs) | List of private APIs of various platforms (Russian-language) | 47 | 🔴 |  |
 | [AwesomeTwitterUndocumentedAPI](https://github.com/fa0311/AwesomeTwitterUndocumentedAPI) | A curated list of awesome Twitter Undocumented API | 33 | 🟡 | Python |
 | [unofficial-apis (nborrmann)](https://github.com/nborrmann/unofficial-apis) | Collection of unofficial, reverse-engineered API libraries grouped by service category | 4 | 🔴 |  |

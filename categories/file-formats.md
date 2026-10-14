@@ -14,9 +14,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Format Description Tools](#format-description-tools) (21)
 - [Graphics & CAD](#graphics--cad) (52)
 - [Maps & GIS](#maps--gis) (19)
-- [Media Codecs & Containers](#media-codecs--containers) (8)
+- [Media Codecs & Containers](#media-codecs--containers) (9)
 - [Office & Documents](#office--documents) (73)
-- [Other](#other) (6)
+- [Other](#other) (5)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (68)
 
 ## Audio & Music Production
@@ -342,6 +342,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 65,091 | 🟢 | C |
+| [OpenJOC](https://github.com/chyinan/OpenJOC) | Independent clean-room E-AC-3 JOC decoder in Rust, with OAMD metadata and reconstruction-basis decoding. | 228 | 🟢 | Rust |
 | [openaptx](https://github.com/arkq/openaptx) | Reverse engineered aptX and aptX HD audio codec | 165 | 🟢 | C |
 | [MQA_identifier](https://github.com/purpl3F0x/MQA_identifier) | Tool to identify MQA encoded audio via codec reverse engineering | 139 | 🟢 | C++ |
 | [libbluray](https://code.videolan.org/videolan/libbluray) | Library for Blu-ray disc navigation, playlists and menus |  | ⚪ |  |
@@ -433,7 +434,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [capcut-cli](https://github.com/renezander030/capcut-cli) | Unofficial CLI to edit CapCut and JianYing project files | 883 | 🟢 | JavaScript |
-| [OpenJOC](https://github.com/chyinan/OpenJOC) | Independent clean-room E-AC-3 JOC decoder in Rust, with OAMD metadata and reconstruction-basis decoding. | 228 | 🟢 | Rust |
 | [pylabview](https://github.com/mefistotelis/pylabview) | Python reader of LabVIEW RSRC files (VI, CTL, LLB) | 160 | 🟢 | Python |
 | [pka2xml](https://github.com/mircodz/pka2xml) | Converts Cisco Packet Tracer .pka/.pkt files to XML | 78 | 🔴 | C++ |
 | [KItinerary](https://invent.kde.org/pim/kitinerary) | Extracts travel data from airline, rail and event tickets, including proprietary barcode formats |  | ⚪ |  |

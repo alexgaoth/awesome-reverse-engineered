@@ -1,12 +1,12 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 199 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 201 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Applications](#applications) (58)
+- [Applications](#applications) (59)
 - [Binary Translators](#binary-translators) (11)
-- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (9)
+- [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (10)
 - [OS & Compatibility Layers](#os--compatibility-layers) (60)
 - [Retro OS & Compatibility](#retro-os--compatibility) (61)
 
@@ -36,6 +36,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [reportviewercore](https://github.com/lkosson/reportviewercore) | Recompilation of Microsoft ReportViewer for .NET Core | 568 | 🟢 | C# |
 | [Pash](https://github.com/Pash-Project/Pash) | Open source reimplementation of Windows PowerShell for Mono | 515 | 🗄️ | C# |
 | [dirplayer-rs](https://github.com/igorlira/dirplayer-rs) | Reverse-engineered Adobe Shockwave player in Rust/WASM to run early-2000s web games | 417 | 🟢 | Rust |
+| [FigCraft](https://github.com/storytold/figcraft) | Clean-room reimplementation of Figma in pure Rust: frames, auto layout, components, vector networks, prototypes | 389 | 🟢 | Rust |
 | [ViperCard](https://github.com/moltenform/vipercard) | Open-source browser rewrite of HyperCard and HyperTalk | 362 | 🟡 | TypeScript |
 | [webamp-desktop](https://github.com/durasj/webamp-desktop) | Cross-platform desktop version of the Winamp 2.9 reimplementation | 289 | 🟡 | JavaScript |
 | [Plasma-Writeup](https://github.com/coremaze/Plasma-Writeup) | Restoring Picroma Plasma by reverse engineering its unknown instruction set | 269 | 🔴 |  |
@@ -99,6 +100,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Moonlight](https://github.com/mono/moon) | Mono's open-source Silverlight implementation for Linux | 164 | 🗄️ | C# |
 | [ccsr](https://github.com/mattbruv/ccsr) | Cartoon Cartoon Summer Resort Shockwave games ported to the modern web | 152 | 🟡 | TypeScript |
 | [scaleform](https://github.com/TeamSCALEFORM/scaleform) | Open reimplementation of the Scaleform in-game UI runtime | 93 | 🗄️ | C++ |
+| [openDoJa](https://github.com/GrenderG/openDoJa) | Clean-room reimplementation of NTT DoCoMo's DoJa 5.1 i-appli runtime | 74 | 🟢 | Java |
 | [AwayFL Player](https://github.com/awayfl/awayfl-player) | Flash SWF player for the web built on the Away3D/AwayJS stack | 52 | 🟢 | JavaScript |
 | [D4Player](https://github.com/renaldobf/D4Player) | Player for Macromedia Director 4 movie files | 9 | 🔴 | C |
 | [Gnash](https://savannah.gnu.org/projects/gnash) | GNU Flash movie player that reimplements the Adobe Flash Player (SWF up to v9) |  | ⚪ |  |

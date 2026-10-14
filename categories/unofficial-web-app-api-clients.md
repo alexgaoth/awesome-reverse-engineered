@@ -1,24 +1,24 @@
 # Unofficial Web/App API Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 730 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 691 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Books, Reading & Learning](#books-reading--learning) (23)
-- [Dating](#dating) (13)
-- [Finance & Banking](#finance--banking) (92)
+- [Books, Reading & Learning](#books-reading--learning) (38)
+- [Dating](#dating) (14)
+- [Finance & Banking](#finance--banking) (94)
 - [Google Services](#google-services) (46)
-- [Music & Audio Streaming](#music--audio-streaming) (67)
-- [Other](#other) (11)
-- [Other APIs](#other-apis) (121)
-- [Productivity](#productivity) (73)
+- [Music & Audio Streaming](#music--audio-streaming) (68)
+- [Other APIs](#other-apis) (33)
+- [Productivity](#productivity) (76)
 - [Real Estate](#real-estate) (8)
-- [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (37)
-- [Shopping & Marketplaces](#shopping--marketplaces) (39)
-- [Social & Content Platforms](#social--content-platforms) (43)
-- [Translation](#translation) (21)
+- [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (39)
+- [Shopping & Marketplaces](#shopping--marketplaces) (48)
+- [Social & Content Platforms](#social--content-platforms) (46)
+- [Translation](#translation) (23)
 - [Travel & Transport](#travel--transport) (73)
-- [Video & YouTube](#video--youtube) (63)
+- [Utilities & Energy Portals](#utilities--energy-portals) (20)
+- [Video & YouTube](#video--youtube) (65)
 
 ## Books, Reading & Learning
 
@@ -27,11 +27,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [coursera-dl](https://github.com/coursera-dl/coursera-dl) | Downloads Coursera lecture videos and materials for enrolled courses | 9,656 | 🟡 | Python |
 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) | VS Code extension to solve LeetCode problems through its web API | 8,502 | 🟡 | TypeScript |
 | [leetcode-cli](https://github.com/skygragon/leetcode-cli) | CLI for LeetCode using its web/GraphQL endpoints | 3,869 | 🟢 | JavaScript |
+| [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) | Script that downloads all your purchased Kindle books via Amazon's unofficial web endpoints | 2,682 | 🗄️ | Python |
 | [edx-dl](https://github.com/coursera-dl/edx-dl) | Downloads edX / Open edX lecture videos for enrolled courses | 1,962 | 🔴 | HTML |
 | [openaudible](https://github.com/openaudible/openaudible) | Desktop audiobook manager for Audible users that downloads and converts titles | 1,847 | 🟢 | Java |
 | [obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) | Syncs Kindle highlights into Obsidian by reading Amazon's notebook pages | 1,285 | 🟢 | TypeScript |
 | [alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api) | REST API wrapping LeetCode's private GraphQL for profiles, contests and problems | 834 | 🟢 | TypeScript |
 | [audible-cli](https://github.com/mkb79/audible-cli) | CLI on top of the Audible private API for downloading your library, covers and chapters | 804 | 🟢 | Python |
+| [kindle-highlights](https://github.com/speric/kindle-highlights) | Fetch your Kindle highlights from Amazon's unofficial notebook pages | 576 | 🔴 | Ruby |
 | [leetcode-cli](https://github.com/clearloop/leetcode-cli) | Rust LeetCode CLI built on LeetCode's private GraphQL API | 498 | 🟢 | Rust |
 | [odmpy](https://github.com/ping/odmpy) | CLI manager for OverDrive/Libby loans using the Libby app API | 461 | 🟡 | Python |
 | [Audible](https://github.com/mkb79/Audible) | Sync/async Python interface to Audible's internal API with device registration | 416 | 🟢 | Python |
@@ -40,18 +42,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [substack_api](https://github.com/NHagar/substack_api) | Unofficial Python wrapper for Substack's internal API | 229 | 🟢 | Python |
 | [piazza-api](https://github.com/hfaran/piazza-api) | Unofficial client for Piazza's internal API | 213 | 🟢 | Python |
 | [libby-calibre-plugin](https://github.com/ping/libby-calibre-plugin) | calibre plugin that borrows and downloads Libby/OverDrive loans | 134 | 🟡 | Python |
+| [aula](https://github.com/scaarup/aula) | Danish Aula school platform data via its unofficial API | 122 | 🟢 | Python |
+| [hass-pronote](https://github.com/delphiki/hass-pronote) | French Pronote school timetable, grades and homework via the unofficial pronotepy client | 106 | 🟢 | Python |
+| [luogu-api-docs](https://github.com/0f-0b/luogu-api-docs) | Unofficial documentation of the Luogu API | 102 | 🟢 |  |
+| [unofficial-documentation](https://github.com/solvedac/unofficial-documentation) | Community documentation of the solved.ac API | 98 | 🟡 | HTML |
 | [substack-api](https://github.com/jakub-k-slys/substack-api) | TypeScript client for Substack publications, posts and comments via its private API | 97 | 🟢 | TypeScript |
 | [codersgym](https://github.com/GouravShDev/codersgym) | Unofficial Flutter client for LeetCode | 74 | 🟢 | Dart |
+| [uf_api](https://github.com/Rolstenhouse/uf_api) | Documentation of the University of Florida's undocumented API | 68 | 🔴 | PHP |
+| [scratch-api-unofficial-docs](https://github.com/towerofnix/scratch-api-unofficial-docs) | Unofficial documentation for the Scratch API | 59 | 🟡 |  |
 | [gradescope-api](https://github.com/apozharski/gradescope-api) | Unofficial Python API for Gradescope | 35 | 🔴 | Python |
 | [infinite-campus](https://github.com/tonyzimbinski/infinite-campus) | Unofficial Node.js API for Infinite Campus student portal | 34 | 🟡 | JavaScript |
+| [homeassistant-duolingo](https://github.com/Makhuta/homeassistant-duolingo) | Duolingo streak and XP sensors via the unofficial Duolingo web API | 29 | 🟢 | Python |
+| [homeassistantedupage](https://github.com/rine77/homeassistantedupage) | Unofficial EduPage school system client for Home Assistant | 24 | 🟢 | Python |
+| [go-amizone](https://github.com/go-amizone/go-amizone) | Reverse-engineered API and SDK for the Amizone student portal | 23 | 🗄️ | Go |
+| [entry-api](https://github.com/dotcute/entry-api) | Unofficial API wrapper for the Entry (playentry.org) coding platform | 21 | 🔴 | TypeScript |
 | [storygraph-api](https://github.com/xdesro/storygraph-api) | Netlify functions that scrape StoryGraph profiles into an API | 15 | 🟡 | JavaScript |
+| [readsync](https://github.com/lolsborn/readsync) | Reverse-engineered Amazon Kindle Whispersync API client in Python | 14 | 🔴 | Python |
 | [schoolsoft-api-app](https://github.com/Blatzar/schoolsoft-api-app) | Reverse-engineered SchoolSoft API used by the Swedish school app | 14 | 🔴 | Python |
+| [bunpro-community-api](https://github.com/cbullard-dev/bunpro-community-api) | Community reverse-engineered API reference for Bunpro | 12 | 🟢 |  |
+| [PlusPortalsAPI](https://github.com/DhruvBisla/PlusPortalsAPI) | An unofficial interface to PlusPortals | 9 | 🔴 | Python |
 | [Mashov](https://gitlab.com/yoavst/Mashov) | Unofficial client for the Israeli school system Mashov |  | ⚪ |  |
 
 ## Dating
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
+| [Tinder API docs](https://github.com/fbessez/Tinder) | Documentation and Python wrapper for Tinder's private API | 865 | 🔴 | Python |
 | [pynder](https://github.com/charliewolf/pynder) | Python client for tinder api | 633 | 🔴 | Python |
 | [hinge-ts](https://github.com/wrsrsh/hinge-ts) | Reverse-engineered TypeScript SDK for the Hinge dating app API | 133 | 🟢 | TypeScript |
 | [python_TinderAPI](https://github.com/MMcintire96/python_TinderAPI) | Tinder API 2019 - Python bindings | 76 | 🗄️ | Python |
@@ -75,6 +91,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [robin_stocks](https://github.com/jmfernandes/robin_stocks) | This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and... | 2,121 | 🟢 | Python |
 | [investpy](https://github.com/alvarobartt/investpy) | Financial Data Extraction from Investing.com with Python | 1,857 | 🟢 | Python |
 | [Robinhood](https://github.com/sanko/Robinhood) | Unofficial Documentation of Robinhood Trade's Private API | 1,788 | 🟡 |  |
+| [pyrh](https://github.com/robinhood-unofficial/pyrh) | Python framework for the unofficial Robinhood API | 1,785 | 🟡 | Python |
 | [finvizfinance](https://github.com/lit26/finvizfinance) | Python library pulling Finviz screener, quote and news data | 1,715 | 🟢 | Python |
 | [finviz](https://github.com/mariostoev/finviz) | Unofficial Python API for finviz.com screener and quote data | 1,341 | 🟢 | Python |
 | [python-tradingview-ta](https://github.com/AnalyzerREST/python-tradingview-ta) | Unofficial TradingView technical analysis API wrapper | 1,253 | 🗄️ | Python |
@@ -152,6 +169,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tbank-mobile-api](https://github.com/nikitaxru/tbank-mobile-api) | Python client for T-Bank (Tinkoff) mobile API, reverse-engineered from the Android app | 20 | 🟢 | Python |
 | [fidelity-api](https://github.com/njfdev/fidelity-api) | Reverse-engineered Fidelity Investments API client | 17 | 🔴 |  |
 | [fennel-invest-api](https://github.com/NelsonDane/fennel-invest-api) | Reverse-engineered Fennel.com Invest app API in Python | 15 | 🟢 | Python |
+| [pytr](https://github.com/nborrmann/pytr) | Unofficial Python interface for the Trade Republic API | 14 | 🟡 | Python |
 | [chaseinvest-api](https://github.com/MaxxRK/chaseinvest-api) | Unofficial API for Chase self-directed investing accounts | 12 | 🟢 | Python |
 | [nordnet-api](https://github.com/zjael/nordnet-api) | Unofficial Nordnet.dk broker API | 9 | 🟢 | JavaScript |
 | [unofficial-scalable-capital-api](https://github.com/ffischbach/unofficial-scalable-capital-api) | Local REST proxy exposing Scalable Capital portfolio data | 9 | 🟢 | TypeScript |
@@ -282,148 +300,45 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [google-music-protocol](https://github.com/antimatter15/google-music-protocol) | Reverse-engineered Google Music protocol | 23 | 🔴 | Python |
 | [spotify-local](https://github.com/erinxocon/spotify-local) | Local control of the Spotify desktop client in Python | 21 | 🔴 | Python |
 | [applemusic-api](https://github.com/sync-fm/applemusic-api) | Unofficial Apple Music API client with typed helpers around their endpoints with shared configuration, logging, and... | 9 | 🟢 | TypeScript |
+| [radio5](https://github.com/ocvit/radio5) | Adapter for Radiooooo private API | 9 | 🟡 | Ruby |
 | [SpotifyPrivateAPI](https://github.com/caiocinel/SpotifyPrivateAPI) | Simple Wrapper for Front-end Private Spotify API, allowing you to get play counts and monthly listeners | 7 | 🟡 | C# |
 | [deezer-python-gql](https://github.com/music-assistant/deezer-python-gql) | Unofficial python library for the Deezer GraphQL based API | 4 | 🟢 | Python |
 | [ytm-kt](https://gitlab.com/syk.sh/ytm-kt) | Kotlin Multiplatform library for the unofficial YouTube Music API |  | ⚪ |  |
-
-## Other
-
-| Project | What it does | ★ | Health | Lang |
-|---|---|--:|:-:|---|
-| [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | 4,372 | 🟢 | Python |
-| [tesla-api](https://github.com/timdorr/tesla-api) | Unofficial documentation and Ruby gem for Tesla's JSON API | 2,067 | 🟢 | Ruby |
-| [notionapi](https://github.com/kjk/notionapi) | Unofficial Go API for Notion.so | 1,840 | 🟢 | Go |
-| [pyrh](https://github.com/robinhood-unofficial/pyrh) | Python framework for the unofficial Robinhood API | 1,785 | 🟡 | Python |
-| [python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) | Access MyFitnessPal meal tracking data programmatically | 876 | 🟡 | Python |
-| [pgoapi](https://github.com/pogodevorg/pgoapi) | Unofficial Pokemon GO API in Python (archived) | 842 | 🗄️ | Python |
-| [NintendoSwitchRESTAPI](https://github.com/ZekeSnider/NintendoSwitchRESTAPI) | Reverse engineered REST API of the Nintendo Switch iOS app | 658 | 🔴 |  |
-| [node-dominos-pizza-api](https://github.com/RIAEvangelist/node-dominos-pizza-api) | Node.js wrapper for the Domino's pizza APIs | 577 | 🟡 | JavaScript |
-| [peloton-client-library](https://github.com/geudrik/peloton-client-library) | Python client for parts of the Peloton API | 231 | 🔴 | Python |
-| [pytr](https://github.com/nborrmann/pytr) | Unofficial Python interface for the Trade Republic API | 14 | 🟡 | Python |
-| [node-ubereats](https://github.com/jzarca01/node-ubereats) | Work-in-progress Uber Eats API client | 12 | 🔴 | JavaScript |
 
 ## Other APIs
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) | This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices. | 4,851 | 🟢 | Python |
-| [python-miio](https://github.com/rytilahti/python-miio) | Python library & console tool for controlling Xiaomi smart appliances | 4,317 | 🟢 | Python |
-| [Greenlight](https://github.com/unknownskl/greenlight) | Open-source client for Xbox Cloud Gaming (xCloud) and Xbox home streaming | 2,889 | 🟢 | TypeScript |
-| [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) | Script that downloads all your purchased Kindle books via Amazon's unofficial web endpoints | 2,682 | 🗄️ | Python |
-| [tuyapi](https://github.com/codetheweb/tuyapi) | Node.js API for Tuya smart devices using the reverse-engineered local protocol | 2,326 | 🟢 | JavaScript |
-| [tinytuya](https://github.com/jasonacox/tinytuya) | Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or... | 1,765 | 🟢 | Python |
-| [python-kasa](https://github.com/python-kasa/python-kasa) | Python API for TP-Link Kasa/Tapo devices using their local protocol | 1,763 | 🟢 | Python |
-| [SoCo](https://github.com/SoCo/SoCo) | SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers. | 1,611 | 🟢 | Python |
-| [ring](https://github.com/dgreif/ring) | Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting | 1,526 | 🟢 | TypeScript |
-| [gopro-py-api](https://github.com/KonradIT/gopro-py-api) | Unofficial GoPro API Library for Python - connect to GoPro via WiFi. | 1,443 | 🗄️ | Python |
 | [cinemagoer](https://github.com/cinemagoer/cinemagoer) | Python package (formerly IMDbPY) that retrieves IMDb data from its web pages | 1,324 | 🟢 | HTML |
-| [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) | Pokemon Go API | 1,045 | 🔴 | Java |
 | [Public-ESPN-API](https://github.com/pseudo-r/Public-ESPN-API) | Unofficial ESPN endpoint documentation and reference code | 753 | 🟢 | Python |
-| [python-ring-doorbell](https://github.com/python-ring-doorbell/python-ring-doorbell) | Python Ring Door Bell is a library written in Python 3 that exposes the Ring.com devices as Python objects. | 700 | 🟢 | Python |
 | [contact-congress](https://github.com/unitedstates/contact-congress) | Sends messages to members of Congress by reverse engineering their web contact forms | 658 | 🟢 | Python |
-| [nxapi](https://github.com/samuelthomas2774/nxapi) | Nintendo Switch Online/Parental Controls app APIs. Show your Nintendo Switch presence in Discord, get friend... | 628 | 🟢 | TypeScript |
 | [NHL-API-Reference](https://github.com/Zmalski/NHL-API-Reference) | Unofficial reference for the NHL API endpoints | 609 | 🟢 |  |
-| [kindle-highlights](https://github.com/speric/kindle-highlights) | Fetch your Kindle highlights from Amazon's unofficial notebook pages | 576 | 🔴 | Ruby |
-| [s3s](https://github.com/frozenpandaman/s3s) | Successor to splatnet2statink. Takes battle data from the SplatNet 3 app and uploads it to stat.ink! | 464 | 🟡 | Python |
 | [f1_sensor](https://github.com/Nicxe/f1_sensor) | Unofficial Formula 1 schedule, results and live timing data in Home Assistant | 388 | 🟢 | Python |
-| [JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) | Python client for JustWatch's undocumented API | 345 | 🗄️ | Python |
 | [SynologyPhotosAPI](https://github.com/zeichensatz/SynologyPhotosAPI) | Unofficial documentation of the Synology Photos API | 328 | 🟢 |  |
-| [ha_epex_spot](https://github.com/mampfes/ha_epex_spot) | EPEX Spot electricity prices, including sources found by reverse engineering supplier websites | 322 | 🟢 | Python |
-| [china_southern_power_grid_stat](https://github.com/CubicPill/china_southern_power_grid_stat) | China Southern Power Grid usage statistics via the CSG mobile app API | 284 | 🟡 | Python |
-| [korb](https://github.com/yannick-cw/korb) | Haskell CLI ordering groceries through the reverse-engineered REWE delivery API | 259 | 🟢 | Haskell |
-| [WienerNetzeSmartmeter](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter) | Wiener Netze smart meter readings via the unofficial smart-meter portal API | 224 | 🟢 | Python |
-| [xbox-webapi-python](https://github.com/OpenXbox/xbox-webapi-python) | A python library to authenticate with Xbox Live via your Microsoft Account and provides Xbox related Web-API. | 208 | 🟢 | Python |
-| [psnawp](https://github.com/isFakeAccount/psnawp) | [Mirror] PlayStation Network API Python | 196 | 🟢 | Python |
 | [Premier-League-API](https://github.com/tarun7r/Premier-League-API) | Unofficial client for Premier League stats, fixtures and results | 192 | 🟡 | Python |
-| [iec-custom-component](https://github.com/GuyKh/iec-custom-component) | Israel Electric Corporation consumption and invoices via the unofficial IEC app API | 188 | 🟢 | Python |
-| [letterboxdpy](https://github.com/nmcassa/letterboxdpy) | Letterboxd scraper/unofficial API for users, films and lists | 184 | 🟢 | Python |
-| [garmin-givemydata](https://github.com/nrvim/garmin-givemydata) | Exports your Garmin Connect data into a local SQLite database via the unofficial API | 158 | 🟢 | Python |
 | [library-loader](https://github.com/olback/library-loader) | Unofficial cross-platform SamacSys component library loader | 145 | 🟡 | Rust |
 | [opentable](https://github.com/sosedoff/opentable) | Unofficial OpenTable API | 142 | 🗄️ | Ruby |
 | [ultimate-guitar-scraper](https://github.com/Pilfer/ultimate-guitar-scraper) | Go client for Ultimate-Guitar's mobile API | 132 | 🟡 | Go |
-| [pikud-haoref-api](https://github.com/eladnava/pikud-haoref-api) | Node.js wrapper for Israel's Pikud Haoref unofficial rocket alert API | 125 | 🟢 | JavaScript |
-| [garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) | Python CLI downloading Garmin Connect data to local files and SQLite | 124 | 🟢 | Python |
 | [undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) | Tool that discovers undocumented APIs from the AWS Console | 123 | 🟢 | Python |
-| [aula](https://github.com/scaarup/aula) | Danish Aula school platform data via its unofficial API | 122 | 🟢 | Python |
-| [green-vita](https://github.com/Day-OS/green-vita) | Xbox Cloud Gaming client for PlayStation Vita | 118 | 🟢 | Rust |
 | [ProPresenter-API](https://github.com/jeffmikels/ProPresenter-API) | Documentation of ProPresenter's undocumented remote control protocol | 111 | 🔴 | Python |
-| [amzSear](https://github.com/asherAgs/amzSear) | Unofficial Amazon search CLI and Python API | 110 | 🔴 | Python |
-| [codepen-awesomepi](https://github.com/TimPietrusky/codepen-awesomepi) | Unofficial API for CodePen | 108 | 🔴 | PHP |
-| [hass-pronote](https://github.com/delphiki/hass-pronote) | French Pronote school timetable, grades and homework via the unofficial pronotepy client | 106 | 🟢 | Python |
-| [luogu-api-docs](https://github.com/0f-0b/luogu-api-docs) | Unofficial documentation of the Luogu API | 102 | 🟢 |  |
-| [home_assistant_tgtg](https://github.com/Chouffy/home_assistant_tgtg) | Too Good To Go stock sensors via the unofficial TGTG app API | 100 | 🟢 | Python |
-| [unofficial-documentation](https://github.com/solvedac/unofficial-documentation) | Community documentation of the solved.ac API | 98 | 🟡 | HTML |
 | [kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar) | Unofficial client for the Kleenex/Scottex pollen radar data in Home Assistant | 95 | 🟢 | Python |
-| [hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) | Hydro-Québec consumption and peak events via the unofficial customer portal API | 92 | 🟢 | Python |
-| [python-aternos](https://github.com/DarkCat09/python-aternos) | Unofficial Aternos API in Python | 89 | 🗄️ | Python |
-| [MariOver](https://github.com/TheGreatRambler/MariOver) | Makes almost all of the data exposed by Mario Maker 2 servers public through an API | 87 | 🟢 | Python |
-| [jottalib](https://github.com/havardgulldahl/jottalib) | Library to access files stored at jottacloud.com | 86 | 🔴 | Python |
-| [APIs-by-Integuru](https://github.com/Integuru-AI/APIs-by-Integuru) | Collection of unofficial APIs built by reverse engineering web apps | 84 | 🟢 | Python |
-| [jomato-mobile](https://github.com/jatin-dot-py/jomato-mobile) | Unofficial API wrapper for Zomato's mobile API | 80 | 🟢 | Kotlin |
-| [Kasumi](https://github.com/p0mpurin/Kasumi) | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 75 | 🟢 | C |
-| [hass-lkcomu-interrao](https://github.com/alryaz/hass-lkcomu-interrao) | Inter RAO utility personal-account data (Russia) via the unofficial web API | 71 | 🟢 | Python |
 | [undocumented-s3-apis](https://github.com/gaul/undocumented-s3-apis) | Catalog of undocumented Amazon S3 APIs and third-party extensions | 71 | 🟢 |  |
-| [hass-aigues-barcelona](https://github.com/duhow/hass-aigues-barcelona) | Aigües de Barcelona water usage via the unofficial customer portal API | 70 | 🗄️ | Python |
-| [uf_api](https://github.com/Rolstenhouse/uf_api) | Documentation of the University of Florida's undocumented API | 68 | 🔴 | PHP |
 | [ha-gasbuddy](https://github.com/firstof9/ha-gasbuddy) | GasBuddy fuel prices via the unofficial GasBuddy GraphQL API | 67 | 🟢 | Python |
-| [eyeonwater](https://github.com/kdeyev/eyeonwater) | EyeOnWater water meter readings via the unofficial EyeOnWater web API | 65 | 🟢 | Python |
-| [garmy](https://github.com/bes-dev/garmy) | Python library for the unofficial Garmin Connect API | 64 | 🟡 | Python |
-| [Shopify-Private-APIs](https://github.com/martinamps/Shopify-Private-APIs) | Reverse-engineered Shopify private admin APIs | 64 | 🔴 | PHP |
 | [awsapilib](https://github.com/schubergphilis/awsapilib) | Python library for AWS services driven by undocumented APIs not in boto3 | 62 | 🗄️ | Python |
-| [oma-helen-ha-integration](https://github.com/carohauta/oma-helen-ha-integration) | Oma Helen electricity consumption (Finland) via the unofficial customer portal API | 60 | 🟢 | Python |
-| [scratch-api-unofficial-docs](https://github.com/towerofnix/scratch-api-unofficial-docs) | Unofficial documentation for the Scratch API | 59 | 🟡 |  |
 | [CasperReverse](https://github.com/casperreverser/CasperReverse) | Write-up and code for the reverse-engineered Casper private API | 57 | 🔴 | Assembly |
-| [pgnig-sensor](https://github.com/pawelhulek/pgnig-sensor) | PGNiG gas usage (Poland) scraped from the eBOK customer portal | 57 | 🟢 | Python |
-| [sensor.greenely](https://github.com/linsvensson/sensor.greenely) | Greenely energy usage and prices via the unofficial Greenely app API | 56 | 🟡 | Python |
-| [diveharder_api.py](https://github.com/helldivers-2/diveharder_api.py) | FastAPI proxy exposing Helldivers 2 API data for community developers | 55 | 🟡 | Python |
-| [Fluvius-home-assistant](https://github.com/sander110419/Fluvius-home-assistant) | Belgian Fluvius smart-meter data pulled from the Mijn Fluvius portal API | 49 | 🟢 | Python |
-| [homeassistant-greenchoice](https://github.com/barisdemirdelen/homeassistant-greenchoice) | Greenchoice energy usage (Netherlands) via the unofficial Greenchoice API | 48 | 🟢 | Python |
-| [garmin-connect-mcp](https://github.com/etweisberg/garmin-connect-mcp) | MCP server for Garmin Connect using its unofficial web API | 44 | 🟢 | TypeScript |
 | [qwant-api](https://github.com/NullDev/qwant-api) | Unofficial API wrapper for Qwant search | 44 | 🔴 | JavaScript |
 | [syno-cli](https://github.com/reddec/syno-cli) | Synology unofficial API CLI and library | 44 | 🟡 | Go |
 | [HomeAssistant-Posten](https://github.com/BobTheShoplifter/HomeAssistant-Posten) | Norwegian Posten mail-delivery days via the unofficial Posten API | 43 | 🟡 | Python |
 | [hover-ddns](https://github.com/dschanoeh/hover-ddns) | Dynamic DNS client for Hover using its unofficial API | 41 | 🔴 | Go |
-| [little_monkey](https://github.com/jmcruvellier/little_monkey) | Ecojoko energy assistant data via the unofficial Ecojoko API | 41 | 🟢 | Python |
 | [whatpulse](https://github.com/sim642/whatpulse) | Reverse-engineered WhatPulse client protocol | 41 | 🔴 | Python |
-| [ecotrend-ista](https://github.com/Ludy87/ecotrend-ista) | ista EcoTrend heating and water consumption via the unofficial ista API | 38 | 🟢 | Python |
-| [McReverse](https://github.com/Louuke/McReverse) | Reverse-engineered Java library for the German McDonald's API | 38 | 🔴 | Java |
 | [WinLight](https://github.com/Biswa96/WinLight) | Download Windows Spotlight lock screen images via the Content Delivery Manager API | 38 | 🔴 | Python |
 | [archivetoday](https://github.com/HRDepartment/archivetoday) | Unofficial API and CLI for archive.today | 36 | 🔴 | JavaScript |
-| [snapp-mcp](https://github.com/sepehr071/snapp-mcp) | Unofficial read-only MCP server for Snappfood and SnappMarket private APIs | 33 | 🟢 | Python |
-| [Garmin-Connect-Workout-and-Schedule-creator](https://github.com/sydspost/Garmin-Connect-Workout-and-Schedule-creator) | Create and schedule Garmin Connect workouts via its unofficial API with a compact language | 32 | 🔴 | Python |
-| [geo_home](https://github.com/mmillmor/geo_home) | Geo Home smart-meter display data via the unofficial Geo cloud API | 32 | 🟢 | Python |
-| [keyatome](https://github.com/jugla/keyatome) | Total Energies Key Atome Linky live consumption via the unofficial Atome API | 32 | 🟢 | Python |
-| [digikala-mcp](https://github.com/sepehr071/digikala-mcp) | Unofficial read-only MCP server for Digikala product, seller and price-history data | 29 | 🟢 | Python |
-| [hass-energa-my-meter](https://github.com/thedeemling/hass-energa-my-meter) | Energa Mój Licznik electricity data (Poland) scraped from the customer portal | 29 | 🟢 | HTML |
-| [homeassistant-duolingo](https://github.com/Makhuta/homeassistant-duolingo) | Duolingo streak and XP sensors via the unofficial Duolingo web API | 29 | 🟢 | Python |
-| [homeassistant_veolia](https://github.com/Jezza34000/homeassistant_veolia) | Veolia water consumption (France) via the unofficial customer portal API | 29 | 🟢 | Python |
-| [python_Meijer](https://github.com/dapperfu/python_Meijer) | Reverse-engineered API for Meijer's shopping list | 29 | 🟢 | Python |
-| [Garmin_Local_Archive](https://github.com/Wewoc/Garmin_Local_Archive) | Local offline archive of Garmin Connect health data via the unofficial API | 24 | 🟢 | Python |
-| [homeassistantedupage](https://github.com/rine77/homeassistantedupage) | Unofficial EduPage school system client for Home Assistant | 24 | 🟢 | Python |
 | [SynackAPI](https://github.com/bamhm182/SynackAPI) | Python library for Synack's undocumented API endpoints | 24 | 🟢 | Python |
-| [go-amizone](https://github.com/go-amizone/go-amizone) | Reverse-engineered API and SDK for the Amizone student portal | 23 | 🗄️ | Go |
-| [entry-api](https://github.com/dotcute/entry-api) | Unofficial API wrapper for the Entry (playentry.org) coding platform | 21 | 🔴 | TypeScript |
-| [Home-Assistant-Electric-Ireland](https://github.com/barreeeiroo/Home-Assistant-Electric-Ireland) | Electric Ireland Insights consumption data via the customer portal | 21 | 🟢 | Python |
-| [lieferheld-api](https://github.com/kenodressel/lieferheld-api) | Play with the unofficial lieferheld api. | 21 | 🔴 | JavaScript |
 | [homeassistant-meinvodafone](https://github.com/stickpin/homeassistant-meinvodafone) | Vodafone DE contract usage (minutes, SMS, data) via the unofficial MeinVodafone API | 20 | 🟢 | Python |
-| [JimmyJohns](https://github.com/mmahler2/JimmyJohns) | Unofficial Jimmy John's Client for Node.js | 18 | 🔴 | JavaScript |
-| [capi](https://github.com/lucagez/capi) | Unofficial Codepen.io API | 14 | 🔴 | JavaScript |
-| [readsync](https://github.com/lolsborn/readsync) | Reverse-engineered Amazon Kindle Whispersync API client in Python | 14 | 🔴 | Python |
-| [bunpro-community-api](https://github.com/cbullard-dev/bunpro-community-api) | Community reverse-engineered API reference for Bunpro | 12 | 🟢 |  |
 | [Weathercloud-HA](https://github.com/MauroDruwel/Weathercloud-HA) | Unofficial Weathercloud personal weather station client built from a reverse-engineered API | 10 | 🟢 | Python |
-| [PlusPortalsAPI](https://github.com/DhruvBisla/PlusPortalsAPI) | An unofficial interface to PlusPortals | 9 | 🔴 | Python |
-| [radio5](https://github.com/ocvit/radio5) | Adapter for Radiooooo private API | 9 | 🟡 | Ruby |
-| [garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) | Local Garmin data warehouse with an MCP server, synced from Garmin Connect's unofficial API | 8 | 🟢 | Python |
-| [maxbought-api](https://github.com/holts-shoe/maxbought-api) | Wrapper for MaxSold's undocumented live auction APIs | 8 | 🔴 | Python |
-| [boltcli](https://github.com/Lukynnnn/boltcli) | Terminal client for Bolt Food orders via the reverse-engineered API | 5 | 🟢 | Go |
 | [fedex-ship-manager-api](https://github.com/fulldecent/fedex-ship-manager-api) | Documentation for hidden FedEx Ship Manager® API | 5 | 🔴 | HTML |
-| [waitrose](https://github.com/jonastemplestein/waitrose) | Unofficial CLI and API client for Waitrose grocery shopping | 5 | 🟢 | TypeScript |
-| [anzeigenboost-open](https://github.com/Rebaiahmed/anzeigenboost-open) | Reverse-engineered Kleinanzeigen.de category tree (no official API) | 3 | 🟢 |  |
-| [PyDonalds](https://github.com/4Kaylum/PyDonalds) | An investigation into the private API used by the McDonalds mobile ordering app | 3 | 🗄️ | Python |
-| [garmin-fetch](https://github.com/nicohlr/garmin-fetch) | Desktop GUI that fetches activity data from Garmin Connect | 1 | 🔴 | Python |
 | [LegoSharp](https://github.com/rolledback/LegoSharp) | LegoSharp is an unofficial C# library for interacting with Lego's web APIs. | 1 | 🟡 | C# |
 | [node-msw](https://github.com/jzarca01/node-msw) | API wrapper for the Magic Seaweed (MSW) surf-forecast app | 1 | 🔴 | JavaScript |
-| [passculture-private-api](https://github.com/ghrlt/passculture-private-api) | Python wrapper for PassCulture app | 1 | 🔴 | Python |
 | [chmi-weather-radar-docs](https://gitlab.com/dpeukert/chmi-weather-radar-docs) | Reverse-engineered documentation of CHMI weather radar image providers |  | ⚪ |  |
 | [node-nobodysurf](https://github.com/jzarca01/node-nobodysurf) | API Wrapper for NobodySurf | 0 | 🔴 | JavaScript |
 | [unofficial-municode-api-documentation](https://sr.ht/~partytax/unofficial-municode-api-documentation/) | Documentation of the undocumented API behind Municode city ordinance websites |  | ⚪ |  |
@@ -434,11 +349,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [react-notion-x](https://github.com/NotionX/react-notion-x) | Fast and accurate React renderer for Notion. TS batteries included. | 5,437 | 🟢 | TypeScript |
 | [Integuru](https://github.com/Integuru-AI/Integuru) | The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs. | 4,777 | 🟢 | Python |
+| [notion-py](https://github.com/jamalex/notion-py) | Unofficial Python API client for Notion.so | 4,372 | 🟢 | Python |
 | [notion-blog](https://github.com/ijjk/notion-blog) | Next.js blog that reads content from Notion through its private loadPageChunk API | 3,856 | 🟡 | TypeScript |
 | [react-notion](https://github.com/splitbee/react-notion) | React renderer for Notion pages fed by the unofficial Notion API worker | 3,002 | 🟡 | TypeScript |
 | [reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) | Reverse engineering of Linear's proprietary real-time sync engine | 2,862 | 🟡 | JavaScript |
 | [pyicloud](https://github.com/picklepete/pyicloud) | A Python + iCloud wrapper to access iPhone and Calendar data. | 2,853 | 🟡 | Python |
 | [alexa_media_player](https://github.com/alandtse/alexa_media_player) | This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API. | 1,988 | 🟢 | Python |
+| [notionapi](https://github.com/kjk/notionapi) | Unofficial Go API for Notion.so | 1,840 | 🟢 | Go |
 | [notion-api-worker](https://github.com/splitbee/notion-api-worker) | Serverless worker exposing Notion pages and tables as JSON via Notion's private v3 API | 1,665 | 🟢 | TypeScript |
 | [iCloud-API](https://github.com/ElyaConrad/iCloud-API) | Node API for Apple's iCloud services | 1,317 | 🔴 | JavaScript |
 | [python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) | Python bindings for the Plex API. | 1,296 | 🟢 | Python |
@@ -478,6 +395,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [alexa-remote](https://github.com/Apollon77/alexa-remote) | Node.js library to control Amazon Alexa devices through the unofficial Alexa web/app API | 102 | 🟢 | JavaScript |
 | [reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) | Unofficial Python API for Reclaim.ai | 98 | 🟢 | Python |
 | [otterai-api](https://github.com/gmchad/otterai-api) | Unofficial Python API for Otter.ai transcripts | 91 | 🟢 | Python |
+| [jottalib](https://github.com/havardgulldahl/jottalib) | Library to access files stored at jottacloud.com | 86 | 🔴 | Python |
 | [moss-desktop](https://github.com/RedTTGMoss/moss-desktop) | Open-source desktop client for the reMarkable cloud, an alternative to the official app | 79 | 🟢 | Python |
 | [bring-api](https://github.com/miaucl/bring-api) | Unofficial async Python package for the Bring! shopping list API | 75 | 🟢 | Python |
 | [remarking](https://github.com/sabidib/remarking) | Unofficial CLI extracting highlights from reMarkable documents via the cloud API | 60 | 🔴 | Python |
@@ -536,6 +454,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [NseIndiaApi](https://github.com/BennyThadikaran/NseIndiaApi) | Unofficial Python API for NSE India stock exchange | 160 | 🟢 | Python |
 | [nubank-api](https://github.com/fmsouza/nubank-api) | High-level Nubank API client to download purchase records | 133 | 🟡 | JavaScript |
 | [PDDIKTI-kemdikbud-API](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) | Unofficial Python wrapper for Indonesia's PDDIKTI higher education data API | 128 | 🟢 | Python |
+| [pikud-haoref-api](https://github.com/eladnava/pikud-haoref-api) | Node.js wrapper for Israel's Pikud Haoref unofficial rocket alert API | 125 | 🟢 | JavaScript |
 | [vk-audio-token](https://github.com/vodka2/vk-audio-token) | Obtains VK tokens that work with VK's audio API | 122 | 🔴 | PHP |
 | [gopay-api](https://github.com/namtxs/gopay-api) | Unofficial PHP class for the Gojek GoPay API | 95 | 🟡 | PHP |
 | [lanis](https://github.com/lanis-mobile/lanis) | Unofficial app for the Hessian school portal (Schulportal Hessen) | 95 | 🟢 | Dart |
@@ -560,6 +479,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [TokopediaAPI](https://github.com/kevinjon27/TokopediaAPI) | Python library for Tokopedia's private API | 6 | 🔴 | Python |
 | [hdfc-bank-api](https://github.com/AshikNesin/hdfc-bank-api) | Unofficial HDFC Bank API to fetch recent transactions | 5 | 🔴 | JavaScript |
 | [dart-paytm-api](https://github.com/scientifichackers/dart-paytm-api) | Paytm internal APIs for Dart | 4 | 🔴 | Dart |
+| [passculture-private-api](https://github.com/ghrlt/passculture-private-api) | Python wrapper for PassCulture app | 1 | 🔴 | Python |
 
 ## Shopping & Marketplaces
 
@@ -573,6 +493,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [python-craigslist](https://github.com/juliomalegria/python-craigslist) | Simple Python wrapper for Craigslist search results | 394 | 🔴 | Python |
 | [azad](https://github.com/philipmulcahy/azad) | Chrome extension that extracts your Amazon order history into tables/CSV | 331 | 🟢 | TypeScript |
 | [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) | CLI and library checking IKEA product stock per store via IKEA's API | 269 | 🟢 | TypeScript |
+| [korb](https://github.com/yannick-cw/korb) | Haskell CLI ordering groceries through the reverse-engineered REWE delivery API | 259 | 🟢 | Haskell |
 | [ebay-kleinanzeigen-api](https://github.com/DanielWTE/ebay-kleinanzeigen-api) | API interface for Kleinanzeigen.de listings and listing details | 244 | 🟢 | Python |
 | [lbc](https://github.com/etienne-hd/lbc) | Unofficial client for the Leboncoin API | 218 | 🟢 | Python |
 | [amazon-orders](https://github.com/alexdlaird/amazon-orders) | Python library and CLI that scrapes Amazon order history, line items and transactions | 186 | 🟢 | Python |
@@ -581,8 +502,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pcpartpicker](https://github.com/JonathanVusich/pcpartpicker) | Unofficial Python API for PCPartPicker | 122 | 🟡 | Python |
 | [rohlik-mcp](https://github.com/tomaspavlin/rohlik-mcp) | MCP server for shopping on Rohlik Group grocery platforms | 121 | 🟢 | TypeScript |
 | [picnic-api](https://github.com/MRVDH/picnic-api) | Unofficial Node.js wrapper for the Picnic supermarket API | 111 | 🟢 | TypeScript |
+| [amzSear](https://github.com/asherAgs/amzSear) | Unofficial Amazon search CLI and Python API | 110 | 🔴 | Python |
 | [rewe-discounts](https://github.com/foo-git/rewe-discounts) | Fetches current REWE discounts from its API into Markdown | 105 | 🟡 | Python |
 | [amazon_photos](https://github.com/trevorhobenshield/amazon_photos) | Python client for Amazon Photos' private API | 101 | 🟡 | Python |
+| [home_assistant_tgtg](https://github.com/Chouffy/home_assistant_tgtg) | Too Good To Go stock sensors via the unofficial TGTG app API | 100 | 🟢 | Python |
 | [vinted_scraper](https://github.com/Giglium/vinted_scraper) | Sync/async Python client for Vinted with session handling | 97 | 🟢 | Python |
 | [divar-mcp](https://github.com/mmdju/divar-mcp) | Read-only MCP server over Divar (Iran) classified-ads endpoints | 95 | 🟢 | JavaScript |
 | [ikea-api-client](https://github.com/vrslev/ikea-api-client) | Client for IKEA's internal APIs: cart, orders, purchases, search, stock | 90 | 🗄️ | Python |
@@ -591,16 +514,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [python-picnic-api](https://github.com/MikeBrink/python-picnic-api) | Unofficial Python wrapper for the Picnic online supermarket API | 72 | 🟡 | Python |
 | [vinted-api-wrapper](https://github.com/herissondev/vinted-api-wrapper) | Python module for Vinted's undocumented internal API | 69 | 🟡 | Python |
 | [mercari](https://github.com/marvinody/mercari) | Wrapper around Mercari Japan's search API | 64 | 🟡 | Python |
+| [Shopify-Private-APIs](https://github.com/martinamps/Shopify-Private-APIs) | Reverse-engineered Shopify private admin APIs | 64 | 🔴 | PHP |
 | [blocket_api](https://github.com/dunderrrrrr/blocket_api) | Unofficial API for Blocket.se, Sweden's classifieds site | 48 | 🟢 | Python |
 | [dash](https://github.com/n0shake/dash) | DoorDash from the command line via its internal API | 47 | 🗄️ | Python |
 | [pysilpo](https://github.com/iYasha/pysilpo) | Unofficial API client for Silpo, a Ukrainian supermarket chain | 32 | 🟡 | Python |
+| [digikala-mcp](https://github.com/sepehr071/digikala-mcp) | Unofficial read-only MCP server for Digikala product, seller and price-history data | 29 | 🟢 | Python |
+| [python_Meijer](https://github.com/dapperfu/python_Meijer) | Reverse-engineered API for Meijer's shopping list | 29 | 🟢 | Python |
 | [mcdonalds-api-wrapper](https://github.com/reteps/mcdonalds-api-wrapper) | Orders McDonald's from the command line via the app API | 26 | 🔴 | Python |
 | [posh](https://github.com/joshdk/posh) | Go client for Poshmark's private API | 17 | 🔴 | Shell |
 | [generate-mercari-jwt](https://github.com/HonmaMeikodesu/generate-mercari-jwt) | Generates the DPoP JWT required to call Mercari's private API | 15 | 🔴 | TypeScript |
 | [mercaapi](https://github.com/m0wer/mercaapi) | Unofficial Mercadona API with nutrition data and price history | 11 | 🟢 | Python |
 | [phposh](https://github.com/michaelbutler/phposh) | Unofficial PHP SDK for the Poshmark API | 10 | 🔴 | PHP |
 | [picnic-api](https://github.com/simonmartyr/picnic-api) | Unofficial Go wrapper for the Picnic supermarket API | 10 | 🟡 | Go |
+| [maxbought-api](https://github.com/holts-shoe/maxbought-api) | Wrapper for MaxSold's undocumented live auction APIs | 8 | 🔴 | Python |
+| [waitrose](https://github.com/jonastemplestein/waitrose) | Unofficial CLI and API client for Waitrose grocery shopping | 5 | 🟢 | TypeScript |
 | [Adverts-API](https://github.com/johnflan/Adverts-API) | Unofficial API for the Irish marketplace adverts.ie | 3 | 🔴 | Python |
+| [anzeigenboost-open](https://github.com/Rebaiahmed/anzeigenboost-open) | Reverse-engineered Kleinanzeigen.de category tree (no official API) | 3 | 🟢 |  |
 | [edekompile](https://github.com/ByteSizedMarius/edekompile) | Unofficial Go client for the Edeka app API: offers, digital receipts | 2 | 🟢 | Go |
 | [aldiscount](https://github.com/ByteSizedMarius/aldiscount) | Unofficial Go client for the ALDI SÜD API: offers, products, stores | 1 | 🟢 | Go |
 | [pyventim](https://codeberg.org/openevent/pyventim) | Python module for the reverse-engineered Eventim ticketing API |  | ⚪ |  |
@@ -634,11 +563,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [teddit](https://github.com/teddit-net/teddit) | Privacy Reddit front-end using Reddit's unofficial JSON API | 283 | 🔴 | JavaScript |
 | [SteamWebAPIDocumentation](https://github.com/xPaw/SteamWebAPIDocumentation) | An automatically generated list of Steam Web API interfaces, methods and parameters. Allows you to craft requests in... | 252 | 🟢 | TypeScript |
 | [linkedin-api](https://github.com/nsandman/linkedin-api) | Client for LinkedIn's internal Voyager API | 199 | 🔴 | Python |
+| [letterboxdpy](https://github.com/nmcassa/letterboxdpy) | Letterboxd scraper/unofficial API for users, films and lists | 184 | 🟢 | Python |
 | [pinterest.api.php](https://github.com/kellan/pinterest.api.php) | Unofficial PHP bindings for the unreleased Pinterest API | 171 | 🔴 | PHP |
 | [Zillow](https://github.com/ChrisMuir/Zillow) | Zillow Scraper for Python using Selenium | 170 | 🔴 | Python |
 | [PyMedium](https://github.com/enginebai/PyMedium) | Unofficial Medium API and Python SDK | 165 | 🔴 | Python |
 | [pyairbnb](https://github.com/johnbalvin/pyairbnb) | Airbnb scraper made in Python | 150 | 🟢 | Python |
 | [wb-private-api](https://github.com/glmn/wb-private-api) | Wrapper for the private API of the Wildberries marketplace | 111 | 🟢 | JavaScript |
+| [codepen-awesomepi](https://github.com/TimPietrusky/codepen-awesomepi) | Unofficial API for CodePen | 108 | 🔴 | PHP |
 | [pyzill](https://github.com/johnbalvin/pyzill) | Zillow scraper made in Python | 106 | 🟡 | Python |
 | [epicstore_api](https://github.com/SD4RK/epicstore_api) | Epic Games Store Web API Wrapper written in Python | 104 | 🟢 | Python |
 | [node-snapchat](https://github.com/lucasad/node-snapchat) | Snapchat client library in Node.js using the reverse-engineered private API | 93 | 🔴 | JavaScript |
@@ -650,6 +581,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gobnb](https://github.com/johnbalvin/gobnb) | Airbnb scraper made in Go | 39 | 🟡 | Go |
 | [Clubhouse-API](https://github.com/ReverseAndCode/Clubhouse-API) | Clubhouse private API - Clubhouse SaaS bot - Drop-in audio chat | 26 | 🟡 |  |
 | [reddit-api-doc-notes](https://github.com/Pyprohly/reddit-api-doc-notes) | Notes documenting undocumented behaviour of the Reddit API | 17 | 🟡 | Python |
+| [capi](https://github.com/lucagez/capi) | Unofficial Codepen.io API | 14 | 🔴 | JavaScript |
 | [mal-private-api](https://github.com/jonbarrow/mal-private-api) | Documentation and implementation of the MyAnimeList (MAL) private JSON API | 2 | 🔴 | JavaScript |
 | [bereal-api](https://github.com/Lqm1/bereal-api) | A TypeScript library for interacting with BeReal's internal APIs. Available for Deno, Node.js, and other JavaScript... | 0 | 🟡 | TypeScript |
 
@@ -665,8 +597,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gTTS](https://github.com/pndurette/gTTS) | Python library and CLI for Google Translate's undocumented text-to-speech endpoint | 2,636 | 🟢 | Python |
 | [deep-translator](https://github.com/nidhaloff/deep-translator) | Python translator wrapping free web endpoints of Google, DeepL, Linguee and others | 2,048 | 🟡 | Python |
 | [crow-translate](https://github.com/crow-translate/crow-translate) | Desktop translator using Google, Yandex and Bing web translation APIs | 1,968 | 🗄️ | C++ |
+| [TranslateYou](https://github.com/you-apps/TranslateYou) | Privacy-focused Android translator using Google, DeepL and other unofficial backends | 1,555 | 🟢 | Kotlin |
 | [dialect](https://github.com/dialect-app/dialect) | GNOME translation app using Google Translate's web API and others | 678 | 🟢 | Python |
 | [translate](https://github.com/Animenosekai/translate) | Python module grouping multiple undocumented translation web APIs | 559 | 🟡 | Python |
+| [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) | Unofficial Android app for DeepL Translator | 514 | 🟢 | Kotlin |
 | [deepl-cli](https://github.com/eggplants/deepl-cli) | DeepL translator CLI that works without an API key by driving the web app | 305 | 🟢 | Python |
 | [deepl-translator](https://github.com/vsetka/deepl-translator) | Node module for DeepL Translator via its undocumented API | 235 | 🗄️ | JavaScript |
 | [DeepLy](https://github.com/chriskonnertz/DeepLy) | Unofficial PHP client for the DeepL.com translation API | 229 | 🟡 | PHP |
@@ -757,6 +691,31 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node-wind-lite](https://github.com/jzarca01/node-wind-lite) | Lite version of node-wind | 0 | 🔴 | JavaScript |
 | [Railway](https://gitlab.com/schmiddi-on-mobile/railway) | GTK app to find train journeys using HAFAS backends |  | ⚪ |  |
 
+## Utilities & Energy Portals
+
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [ha_epex_spot](https://github.com/mampfes/ha_epex_spot) | EPEX Spot electricity prices, including sources found by reverse engineering supplier websites | 322 | 🟢 | Python |
+| [china_southern_power_grid_stat](https://github.com/CubicPill/china_southern_power_grid_stat) | China Southern Power Grid usage statistics via the CSG mobile app API | 284 | 🟡 | Python |
+| [WienerNetzeSmartmeter](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter) | Wiener Netze smart meter readings via the unofficial smart-meter portal API | 224 | 🟢 | Python |
+| [iec-custom-component](https://github.com/GuyKh/iec-custom-component) | Israel Electric Corporation consumption and invoices via the unofficial IEC app API | 188 | 🟢 | Python |
+| [hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) | Hydro-Québec consumption and peak events via the unofficial customer portal API | 92 | 🟢 | Python |
+| [hass-lkcomu-interrao](https://github.com/alryaz/hass-lkcomu-interrao) | Inter RAO utility personal-account data (Russia) via the unofficial web API | 71 | 🟢 | Python |
+| [hass-aigues-barcelona](https://github.com/duhow/hass-aigues-barcelona) | Aigües de Barcelona water usage via the unofficial customer portal API | 70 | 🗄️ | Python |
+| [eyeonwater](https://github.com/kdeyev/eyeonwater) | EyeOnWater water meter readings via the unofficial EyeOnWater web API | 65 | 🟢 | Python |
+| [oma-helen-ha-integration](https://github.com/carohauta/oma-helen-ha-integration) | Oma Helen electricity consumption (Finland) via the unofficial customer portal API | 60 | 🟢 | Python |
+| [pgnig-sensor](https://github.com/pawelhulek/pgnig-sensor) | PGNiG gas usage (Poland) scraped from the eBOK customer portal | 57 | 🟢 | Python |
+| [sensor.greenely](https://github.com/linsvensson/sensor.greenely) | Greenely energy usage and prices via the unofficial Greenely app API | 56 | 🟡 | Python |
+| [Fluvius-home-assistant](https://github.com/sander110419/Fluvius-home-assistant) | Belgian Fluvius smart-meter data pulled from the Mijn Fluvius portal API | 49 | 🟢 | Python |
+| [homeassistant-greenchoice](https://github.com/barisdemirdelen/homeassistant-greenchoice) | Greenchoice energy usage (Netherlands) via the unofficial Greenchoice API | 48 | 🟢 | Python |
+| [little_monkey](https://github.com/jmcruvellier/little_monkey) | Ecojoko energy assistant data via the unofficial Ecojoko API | 41 | 🟢 | Python |
+| [ecotrend-ista](https://github.com/Ludy87/ecotrend-ista) | ista EcoTrend heating and water consumption via the unofficial ista API | 38 | 🟢 | Python |
+| [geo_home](https://github.com/mmillmor/geo_home) | Geo Home smart-meter display data via the unofficial Geo cloud API | 32 | 🟢 | Python |
+| [keyatome](https://github.com/jugla/keyatome) | Total Energies Key Atome Linky live consumption via the unofficial Atome API | 32 | 🟢 | Python |
+| [hass-energa-my-meter](https://github.com/thedeemling/hass-energa-my-meter) | Energa Mój Licznik electricity data (Poland) scraped from the customer portal | 29 | 🟢 | HTML |
+| [homeassistant_veolia](https://github.com/Jezza34000/homeassistant_veolia) | Veolia water consumption (France) via the unofficial customer portal API | 29 | 🟢 | Python |
+| [Home-Assistant-Electric-Ireland](https://github.com/barreeeiroo/Home-Assistant-Electric-Ireland) | Electric Ireland Insights consumption data via the customer portal | 21 | 🟢 | Python |
+
 ## Video & YouTube
 
 | Project | What it does | ★ | Health | Lang |
@@ -791,10 +750,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) | A python script that discovers hidden YouTube API clients. Just a research project. | 600 | 🔴 | Python |
 | [ytdl-core](https://github.com/distubejs/ytdl-core) | YouTube video downloader in javascript. | 511 | 🗄️ | JavaScript |
 | [innertube](https://github.com/tombulled/innertube) | Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more! | 507 | 🟡 | Python |
+| [NewTube](https://github.com/aleixrodriala/newtube) | Unofficial touch-first YouTube client for Android phones, built on SmartTube's private YouTube API engine | 485 | 🟢 | Java |
 | [ejs](https://github.com/yt-dlp/ejs) | External JavaScript for yt-dlp supporting many runtimes | 461 | 🟢 | TypeScript |
 | [youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) | Dart library for YouTube's internal APIs | 425 | 🟢 | Dart |
 | [MediathekArr](https://github.com/PCJones/MediathekArr) | Integrates ARD and ZDF Mediathek into Prowlarr, Sonarr and Radarr | 377 | 🟢 | C# |
 | [pytchat](https://github.com/taizan-hokuto/pytchat) | Python library for reading YouTube live chat without the official API | 370 | 🗄️ | Python |
+| [JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) | Python client for JustWatch's undocumented API | 345 | 🗄️ | Python |
 | [plugin.video.catchuptvandmore](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore) | Kodi add-on for replay and live TV from many broadcasters' websites | 336 | 🟢 | Python |
 | [node-plex-api](https://github.com/phillipj/node-plex-api) | Node.js package for the Plex Media Server HTTP API | 239 | 🔴 | JavaScript |
 | [Piped-Backend](https://github.com/TeamPiped/Piped-Backend) | The core component behind Piped, and other alternative frontends! | 170 | 🟢 | Java |

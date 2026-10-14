@@ -1,6 +1,6 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 409 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 411 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -10,7 +10,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [GPU Drivers](#gpu-drivers) (31)
 - [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (83)
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (33)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (74)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (76)
 - [Laptop EC & Peripherals](#laptop-ec--peripherals) (77)
 - [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (37)
 - [Wi-Fi & Radios](#wi-fi--radios) (20)
@@ -274,7 +274,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rd6006](https://github.com/Baldanos/rd6006) | Python module to control Riden RD6006 programmable power supplies | 118 | 🟡 | Python |
 | [flirone-v4l2](https://github.com/fnoop/flirone-v4l2) | V4L2 bridge to use the FLIR One thermal camera on Linux | 111 | 🔴 | C |
 | [sds1004x_bode](https://github.com/4x1md/sds1004x_bode) | Emulates a Siglent AWG so SDS1004X-E scopes can do Bode plots with third-party generators | 97 | 🟡 | Python |
+| [CO2Meter](https://github.com/heinemml/CO2Meter) | Python module for USB CO2 meters with reversed encryption | 89 | 🔴 | Python |
 | [ht301_hacklib](https://github.com/stawel/ht301_hacklib) | OpenCV library for the Hti HT-301 and similar USB thermal cameras with raw temperature data | 87 | 🟡 | Python |
+| [temper](https://github.com/urwen/temper) | Python tool for reading TEMPer USB thermometers | 85 | 🟡 | Python |
 | [seek-thermal-documentation](https://github.com/lod/seek-thermal-documentation) | Unofficial documentation of the Seek Thermal USB protocol | 83 | 🔴 | Python |
 | [UNI-T-Thermal-Utilities](https://github.com/Santi-hr/UNI-T-Thermal-Utilities) | Extracts raw temperature data from UNI-T thermal camera images | 80 | 🟡 | Python |
 | [libseek](https://github.com/zougloub/libseek) | libusb-based API for the Seek Thermal imager | 76 | 🔴 | C++ |

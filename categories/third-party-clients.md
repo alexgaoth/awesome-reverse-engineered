@@ -1,12 +1,11 @@
 # Third-party Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 163 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 160 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Chat & Messaging](#chat--messaging) (54)
 - [Music Streaming](#music-streaming) (59)
-- [Other](#other) (3)
 - [Social Media](#social-media) (8)
 - [Video & Streaming](#video--streaming) (39)
 
@@ -132,14 +131,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [plugin.audio.tidal2](https://github.com/arnesongit/plugin.audio.tidal2) | TIDAL music streaming add-on for Kodi | 51 | 🟡 | Python |
 | [DeezerKodi](https://github.com/kubatek94/DeezerKodi) | Deezer client add-on for Kodi | 47 | 🔴 | Python |
 | [librespot-android](https://github.com/devgianlu/librespot-android) | Demo app running librespot-java on Android | 45 | 🔴 | C |
-
-## Other
-
-| Project | What it does | ★ | Health | Lang |
-|---|---|--:|:-:|---|
-| [TranslateYou](https://github.com/you-apps/TranslateYou) | Privacy-focused Android translator using Google, DeepL and other unofficial backends | 1,555 | 🟢 | Kotlin |
-| [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) | Unofficial Android app for DeepL Translator | 514 | 🟢 | Kotlin |
-| [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | Original free and open-source PlayStation Remote Play client built from the reverse-engineered protocol |  | ⚪ |  |
 
 ## Social Media
 

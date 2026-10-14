@@ -1,6 +1,6 @@
 # Firmware & Embedded
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=firmware-embedded) · 383 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=firmware-embedded) · 385 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,7 +8,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Custom Firmware](#custom-firmware) (128)
 - [Firmware Analysis Tools](#firmware-analysis-tools) (91)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (61)
-- [Routers & Network Gear](#routers--network-gear) (85)
+- [Routers & Network Gear](#routers--network-gear) (87)
 
 ## Camera Firmware
 
@@ -379,12 +379,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [uiprotect](https://github.com/uilibs/uiprotect) | Unofficial Python API for UniFi Protect | 104 | 🟢 | Python |
 | [ha-glinet4-integration](https://github.com/HarvsG/ha-glinet4-integration) | Home Assistant integration for GL.iNet 4.x routers via their reverse-engineered web API | 100 | 🟢 | Python |
 | [hass-livebox-component](https://github.com/cyr-ius/hass-livebox-component) | Orange Livebox router integration via the box's undocumented local API | 95 | 🟢 | Python |
+| [sfpw-tool](https://github.com/vitaminmoo/sfpw-tool) | CLI/TUI for the Ubiquiti SFP Wizard device | 95 | 🟢 | Go |
 | [omada-api](https://github.com/ghaberek/omada-api) | Python wrapper for the TP-Link Omada Software Controller API | 94 | 🟡 | Python |
 | [open-u60-pro](https://github.com/jesther-ai/open-u60-pro) | ZTE U60 Pro 5G router toolkit with reverse-engineered 143-endpoint API | 91 | 🟢 | Kotlin |
 | [aiounifi](https://github.com/Kane610/aiounifi) | Async Python library for the UniFi Controller API | 90 | 🟢 | Python |
 | [python-qnapstats](https://github.com/colinodell/python-qnapstats) | Python API for obtaining QNAP NAS system stats | 89 | 🟢 | Python |
 | [huawei_mesh_router](https://github.com/vmakeev/huawei_mesh_router) | Huawei mesh routers via their undocumented local web API | 79 | 🟢 | Python |
 | [linksys_velop](https://github.com/uvjim/linksys_velop) | Home Assistant integration for Linksys Velop mesh using its local JNAP API | 77 | 🟢 | Python |
+| [SFPLiberate](https://github.com/josiah-nelson/SFPLiberate) | Community web tool to unlock the full potential of the Unifi SFP Wizard | 77 | 🟢 | TypeScript |
 | [TP-Link-Archer-C6-EU-re](https://github.com/hacefresko/TP-Link-Archer-C6-EU-re) | Reverse engineering the TP-Link Archer C6 v4 bare-metal firmware | 76 | 🟡 | Python |
 | [Winbox_Protocol_Dissector](https://github.com/Cisco-Talos/Winbox_Protocol_Dissector) | Wireshark dissector for the MikroTik Winbox protocol | 72 | 🔴 | Lua |
 | [FIOS-G1100](https://github.com/ozwaldorf/FIOS-G1100) | Reverse engineering information for the Verizon FIOS-G1100 router | 71 | 🔴 |  |

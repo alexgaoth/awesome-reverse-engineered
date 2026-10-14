@@ -1,16 +1,16 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 685 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 690 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (46)
-- [Chatbot Web APIs](#chatbot-web-apis) (174)
+- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (55)
+- [Chatbot Web APIs](#chatbot-web-apis) (177)
 - [Chinese LLM Web APIs](#chinese-llm-web-apis) (48)
 - [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (243)
-- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (62)
+- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (63)
 - [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (57)
-- [Other AI](#other-ai) (26)
+- [Other AI](#other-ai) (18)
 - [System Prompt Leaks & Extractions](#system-prompt-leaks--extractions) (29)
 
 ## AI Hardware & On-device Models
@@ -27,10 +27,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Orion](https://github.com/mechramc/Orion) | Local runtime for training and running small LLMs on the Apple Neural Engine | 130 | 🟢 | Objective-C |
 | [rk3588-npu](https://github.com/mtx512/rk3588-npu) | Reverse engineering the Rockchip RK3588 NPU | 130 | 🟡 | C |
 | [applaud](https://github.com/rsteckler/applaud) | n8n support and local sync for Plaud devices | 100 | 🟢 | TypeScript |
+| [snowman](https://github.com/Thalhammer/snowman) | Reimplementation of the Snowboy hotword detection engine | 96 | 🔴 | C++ |
 | [v831-npu](https://github.com/mtx512/v831-npu) | Reverse engineering the Allwinner V831 NPU | 95 | 🔴 | C++ |
 | [plaud-sync-for-obsidian](https://github.com/leonardsellem/plaud-sync-for-obsidian) | Obsidian plugin syncing Plaud recordings via reverse-engineered API | 89 | 🟢 | TypeScript |
 | [codex-micro-4-core2](https://github.com/imliubo/codex-micro-4-core2) | Unofficial BLE Codex Micro firmware turning M5Stack Core2 into a ChatGPT Desktop controller | 78 | 🟢 | C++ |
+| [Rabbit-R1 (Pinball3D)](https://github.com/Pinball3D/Rabbit-R1) | Rabbit R1 reverse engineering; runs the R1 launcher on any Android device | 77 | 🟡 | Smali |
+| [rabbit_r1_boot_notes](https://github.com/DavidBuchanan314/rabbit_r1_boot_notes) | Documents the boot process of the Rabbit R1 (MediaTek mt6765, Android 13) | 70 | 🟡 | Python |
 | [npunlock](https://github.com/hsfzxjy/npunlock) | Write and run custom C kernels on Intel Core Ultra NPUs | 68 | 🟢 | C |
+| [OpenPin](https://github.com/MaxMaeder/OpenPin) | Makes the discontinued Humane Ai Pin usable again with a replacement software stack | 57 | 🟡 | TypeScript |
 | [rokid-docs](https://github.com/buildwithfenna/rokid-docs) | Community docs for Rokid AR glasses incl. YodaOS internals and reverse-engineered details | 51 | 🟢 | Smali |
 | [plaud-toolkit](https://github.com/sergivalverde/plaud-toolkit) | TypeScript library, CLI and MCP server for the Plaud API | 44 | 🟢 | TypeScript |
 | [mabl](https://github.com/PenumbraOS/mabl) | Modular assistant replacing Humane's cloud assistant on the jailbroken Ai Pin | 41 | 🗄️ | Kotlin |
@@ -51,17 +55,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [luma](https://github.com/TheAndersMadsen/luma) | Self-hosted cloud and device runtime for an operator-owned Humane Ai Pin | 8 | 🟢 | Rust |
 | [mic-rs](https://github.com/dariofinardi/mic-rs) | Downloads and decodes audio from Anker Soundcore Work and Plaud | 8 | 🟢 | Rust |
 | [even-g2-patched](https://github.com/cokeeffekt/even-g2-patched) | Patched Even app + frida-gadget routing G2 voice commands to a custom AI agent | 7 | 🟢 | JavaScript |
+| [PenumbraOS docs](https://github.com/PenumbraOS/docs) | Reverse engineering findings on the Humane Ai Pin | 7 | 🟡 |  |
+| [ai-pin-apk-environment](https://github.com/agg23/ai-pin-apk-environment) | Environment for reverse engineering Humane AI Pin APKs | 6 | 🟡 |  |
 | [even-g2-protocol (ithinkthisiscool)](https://github.com/ithinkthisiscool/even-g2-protocol) | Python implementation and protocol map of Even Realities G2 glasses | 6 | 🟢 | Python |
+| [rabbitude-backend](https://github.com/KibbeWater/rabbitude-backend) | Go reimplementation of the Rabbit R1 backend and API endpoints | 6 | 🟡 | Go |
 | [unofficial-even-g2-local-assistant](https://github.com/marienbaptiste/unofficial-even-g2-local-assistant) | Local-first assistant talking to Even Realities G2 over BLE | 6 | 🟢 | Python |
 | [installer](https://github.com/PenumbraOS/installer) | Installer for the PenumbraOS platform on the Humane Ai Pin | 5 | 🗄️ | Rust |
 | [interposer](https://github.com/PenumbraOS/interposer) | USB interposer hardware for accessing the Humane Ai Pin | 5 | 🟡 |  |
 | [rabbit-r1-hooks](https://github.com/sarkarsaurabh27/rabbit-r1-hooks) | Impersonates an OpenClaw gateway so a Rabbit R1 can drive Claude Code/Codex | 5 | 🟢 | TypeScript |
 | [openrabbit](https://github.com/vcruz305/openrabbit) | Clean-room Rabbit R1 node client bridging to agents | 4 | 🟢 | TypeScript |
 | [plaud (danielgwilson)](https://github.com/danielgwilson/plaud) | Agent-first CLI to export and download Plaud recordings | 4 | 🟢 | TypeScript |
+| [RabbitKit](https://github.com/KibbeWater/RabbitKit) | Swift library for the Rabbit R1 protocol, used by an iOS app emulating the R1 | 4 | 🟡 | Swift |
 | [Even-G2-RE](https://github.com/lonelyobserver0/Even-G2-RE) | Reverse engineering the Even G2 app and BLE system | 3 | 🟢 | Java |
 | [g2-r1-re-tools-and-guide](https://github.com/Commute773/g2-r1-re-tools-and-guide) | RE tools and guides for Even G2 glasses and R1 health ring | 3 | 🟢 | TypeScript |
 | [plaude-cli](https://github.com/Sumatoshi-tech/plaude-cli) | Offline CLI for the Plaud Note voice recorder, no cloud or app | 3 | 🟢 | Rust |
 | [r1tool](https://github.com/nesdeq/r1tool) | CLI for hole.rabbit.tech: export Rabbit R1 photos and journal | 3 | 🟢 | Python |
+| [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) | API client for the Rabbit R1 RabbitHole service | 3 | 🟡 | TypeScript |
 | [rockwrap](https://gitlab.freedesktop.org/icecream95/rockwrap) | Reverse engineering tools for the Rockchip RK356x/RK3588 NPU |  | ⚪ |  |
 
 ## Chatbot Web APIs
@@ -70,6 +79,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 66,818 | 🟢 | Python |
 | [ChatGPT (revChatGPT)](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT web API client in Python (archived) | 27,913 | 🗄️ | Python |
+| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial NotebookLM Python API/CLI built on its undocumented internal RPC protocol | 19,712 | 🟢 | Python |
 | [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat (Sydney) AI | 7,831 | 🗄️ | Python |
 | [grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Web, Grok Build and Grok Console | 7,807 | 🟢 | Go |
 | [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | TypeScript replication of gpt4free reverse-engineered free GPT-4 provider API | 7,657 | 🟡 | TypeScript |
@@ -128,6 +138,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [deepseek4free](https://github.com/xtekky/deepseek4free) | DeepSeek private web chat API with reversed proof-of-work challenge | 387 | 🟡 | Python |
 | [node_characterai](https://github.com/realcoloride/node_characterai) | Unofficial Character.AI wrapper for Node.js | 376 | 🟢 | JavaScript |
 | [llm4free](https://github.com/OEvortex/llm4free) | Python toolkit for free LLM web providers and search | 371 | 🟢 | Python |
+| [MackingJAI](https://github.com/0ssamaak0/MackingJAI) | Exposes Apple Intelligence and ChatGPT desktop app through OpenAI / Ollama APIs | 355 | 🟡 | Python |
 | [FreeQwenApi](https://github.com/y13sint/FreeQwenApi) | Local API proxy for Qwen AI web chat with session management | 334 | 🟢 | JavaScript |
 | [Claude2-PyAPI](https://github.com/wwwzhouhui/Claude2-PyAPI) | Python API for Claude.ai web sessions, chat, attachments and history | 319 | 🟡 | Python |
 | [Grok-Api](https://github.com/realasfngl/Grok-Api) | Python wrapper and FastAPI server for the Grok web interface (discontinued) | 315 | 🟢 | Python |
@@ -153,6 +164,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [grok2api-rs](https://github.com/XeanYu/grok2api-rs) | Rust rewrite of Grok2API | 179 | 🟢 | Rust |
 | [python-tgpt](https://github.com/Simatwa/python-tgpt) | Terminal AI chat and REST API using free LLM web providers | 177 | 🟢 | Python |
 | [CatDesk](https://github.com/Xeift/CatDesk) | Uses ChatGPT web chat as a local coding agent | 173 | 🟢 | Rust |
+| [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) | Converts Hugging Face Spaces, ModelScope and Gradio chatbots into free APIs | 164 | 🟡 | TypeScript |
 | [bingchat-api](https://github.com/tuhinpal/bingchat-api) | Unofficial Bing Chat API | 157 | 🗄️ | TypeScript |
 | [ReEdgeGPT](https://github.com/Integration-Automation/ReEdgeGPT) | Maintained reverse-engineered Microsoft Bing Chat / Copilot API | 155 | 🗄️ | Python |
 | [claude2api-deploy](https://github.com/realnoob007/claude2api-deploy) | Claude.ai web to API proxy | 154 | 🟢 |  |
@@ -601,6 +613,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Msdesigner-api](https://github.com/imnotdev25/Msdesigner-api) | Reverse-engineered API for Microsoft Designer image generation | 25 | 🗄️ | Python |
 | [suno-ai-proxy](https://github.com/MelohubAI/suno-ai-proxy) | Unofficial Suno AI Node.js API | 23 | 🟡 | TypeScript |
 | [flow2api (HL320217)](https://github.com/HL320217/flow2api) | Multi-user platform over the Google Flow / Labs FX protocol for image and video | 20 | 🟢 |  |
+| [wisprflow-sdk](https://github.com/ThisisShashwat/wisprflow-sdk) | Python SDK over Wispr Flow's reverse-engineered audio transcription API | 16 | 🟢 | Python |
 | [suno-mcp](https://github.com/CodeKeanu/suno-mcp) | MCP server for generating songs through Suno's web API | 14 | 🟢 | Python |
 | [SunoApiManager](https://github.com/serkansmg/SunoApiManager) | Unofficial Suno backend API with websocket, FastAPI and Swagger | 12 | 🟢 | HTML |
 | [opensuno](https://github.com/paean-ai/opensuno) | Open Suno API and MCP server for AI agents | 11 | 🟢 | TypeScript |
@@ -677,30 +690,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial NotebookLM Python API/CLI built on its undocumented internal RPC protocol | 19,712 | 🟢 | Python |
 | [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | Chinese localization patch for Claude Desktop on macOS, Windows and Linux | 7,593 | 🟢 | Python |
 | [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Repackages the Windows Claude Desktop app to run on Debian/Linux | 5,451 | 🟢 | Shell |
-| [reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) | Reverse engineering Google Gemini's SynthID image watermark detection | 4,963 | 🟢 | Python |
 | [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export ChatGPT conversation history from the web app | 2,805 | 🟢 | TypeScript |
 | [convoviz](https://github.com/mohamed-chs/convoviz) | Converts ChatGPT export ZIPs into Markdown with media and usage visualizations | 889 | 🟢 | Python |
 | [cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) | Configures DeepSeek, Kimi, GLM and Bailian providers inside Claude Desktop | 799 | 🟢 | Python |
 | [claude-desktop_win-zh_cn](https://github.com/Jyy1529/claude-desktop_win-zh_cn) | Claude Desktop Windows zh-CN patch translating keys and JS chunk labels | 673 | 🟢 | Python |
 | [S3Tokenizer](https://github.com/xingchensong/S3Tokenizer) | Reverse engineered reimplementation of CosyVoice's supervised semantic speech tokenizer | 535 | 🟢 | Python |
-| [MackingJAI](https://github.com/0ssamaak0/MackingJAI) | Exposes Apple Intelligence and ChatGPT desktop app through OpenAI / Ollama APIs | 355 | 🟡 | Python |
 | [open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) | Reverse-engineered Claude in Chrome extension, open source for any Chromium browser | 247 | 🟢 | HTML |
 | [claude-desktop-rtl-patch](https://github.com/shraga100/claude-desktop-rtl-patch) | CSS patch adding RTL support to Claude Desktop on Windows | 209 | 🟢 | PowerShell |
 | [anthropic-tokenizer](https://github.com/javirandor/anthropic-tokenizer) | Approximates the Claude 3 tokenizer by inspecting the generation stream | 173 | 🟡 | Python |
 | [claude-export](https://github.com/ryanschiang/claude-export) | Browser script to export Claude.ai chats to Markdown, JSON or PNG | 164 | 🟡 | JavaScript |
-| [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) | Converts Hugging Face Spaces, ModelScope and Gradio chatbots into free APIs | 164 | 🟡 | TypeScript |
 | [ModelLink](https://github.com/Win-Hao/ModelLink) | Local proxy routing third-party models through Claude Desktop | 140 | 🟢 | Rust |
 | [Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) | Chrome extension for bulk-exporting Claude.ai conversations | 128 | 🟢 | JavaScript |
-| [reverse-SynthID-text](https://github.com/aloshdenny/reverse-SynthID-text) | Reverse engineering Google's SynthID text watermarking | 128 | 🟢 | Python |
-| [snowman](https://github.com/Thalhammer/snowman) | Reimplementation of the Snowboy hotword detection engine | 96 | 🔴 | C++ |
 | [claude-chromium-native-messaging](https://github.com/stolot0mt0m/claude-chromium-native-messaging) | Makes Claude in Chrome's native messaging work in Brave, Arc, Vivaldi, Edge | 82 | 🟢 | Shell |
-| [openai-sentinel](https://github.com/leetanshaj/openai-sentinel) | Generates ChatGPT/Sora Sentinel and proof-of-work tokens | 77 | 🟢 | Python |
 | [chatgpt-rtl](https://github.com/mmnaderi/chatgpt-rtl) | RTL and UI patcher for the ChatGPT desktop application | 58 | 🟢 | JavaScript |
 | [grokipedia-api](https://github.com/jasonniebauer/grokipedia-api) | Unofficial API for xAI's Grokipedia | 50 | 🟢 | Python |
-| [wisprflow-sdk](https://github.com/ThisisShashwat/wisprflow-sdk) | Python SDK over Wispr Flow's reverse-engineered audio transcription API | 16 | 🟢 | Python |
 | [chatgpt_desktop_ubuntu](https://github.com/johnohhh1/chatgpt_desktop_ubuntu) | Repackages the ChatGPT Windows MSIX as an Ubuntu .deb | 9 | 🟢 | Shell |
 | [Mnemos](https://github.com/foufouadi/Mnemos) | Reverse-engineered Claude Desktop's local storage to add persistent memory | 5 | 🟢 | C# |
 
