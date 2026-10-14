@@ -1,13 +1,13 @@
 # Third-party Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 160 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 177 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Chat & Messaging](#chat--messaging) (54)
-- [Music Streaming](#music-streaming) (59)
+- [Chat & Messaging](#chat--messaging) (57)
+- [Music Streaming](#music-streaming) (71)
 - [Social Media](#social-media) (8)
-- [Video & Streaming](#video--streaming) (39)
+- [Video & Streaming](#video--streaming) (41)
 
 ## Chat & Messaging
 
@@ -67,6 +67,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [lusid](https://github.com/lsd-so/lusid) | Self-hosted iMessage client | 84 | 🟡 | Python |
 | [slack-tui](https://github.com/hikalium/slack-tui) | TUI-based client for Slack | 81 | 🔴 | JavaScript |
 | [openmessage](https://github.com/MaxGhenis/openmessage) | Local-first Google Messages and WhatsApp inbox for Mac, web and MCP | 64 | 🟢 | Go |
+| [NXCord](https://github.com/Grarak/NXCord) | Unofficial Discord client for the Nintendo Switch | 37 | 🔴 | C++ |
+| [switchcord](https://github.com/vbe0201/switchcord) | Unofficial Discord client for the Nintendo Switch | 20 | 🗄️ | CMake |
+| [QQ-for-Switch](https://github.com/shuiwen879867/QQ-for-Switch) | Unofficial experimental QQ client for Nintendo Switch homebrew | 8 | 🟢 |  |
 
 ## Music Streaming
 
@@ -115,9 +118,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [hiresTI](https://github.com/yelanxin/hiresTI) | High-fidelity TIDAL client for Linux with USB passthrough and bit-perfect playback | 191 | 🟢 | Python |
 | [Outify](https://github.com/iTomKo/Outify) | Third-party Android Spotify client with Material 3 using librespot (Rust) | 191 | 🟢 | Kotlin |
 | [Spotifly](https://github.com/ralph/Spotifly) | Native Spotify client for macOS | 165 | 🟢 | Swift |
+| [Waves](https://github.com/iamprivacy/Waves) | Native desktop app for your own TIDAL account via the private API | 165 | 🟢 | Python |
 | [Saturn-PC](https://github.com/Sheathed/Saturn-PC) | Electron-based Deezer desktop client derived from Freezer | 136 | 🗄️ | Vue |
 | [hifi.rs](https://github.com/iamdb/hifi.rs) | High-resolution Qobuz streamer and TUI built in Rust | 132 | 🟡 | Rust |
 | [euphonium](https://github.com/muvox-io/euphonium) | Tiny ESP32 audio platform with Spotify Connect and other streaming receivers | 125 | 🟡 | C |
+| [deezer-enhanced](https://github.com/duzda/deezer-enhanced) | Unofficial Deezer desktop application with extra features | 123 | 🟢 | TypeScript |
 | [Viva](https://github.com/iKenndac/Viva) | libspotify-based Spotify client for Mac OS X | 121 | 🔴 | Objective-C |
 | [Saturn](https://github.com/Sheathed/Saturn) | Cross-platform Deezer client made in Flutter | 113 | 🟢 | Dart |
 | [canora](https://github.com/zortax/canora) | Native (non-Electron) Spotify client | 96 | 🟢 | Rust |
@@ -129,8 +134,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [openspotify](https://github.com/noahwilliamsson/openspotify) | Early open-source reimplementation of libspotify's Spotify protocol (abandoned 2010) | 65 | 🔴 | C |
 | [youtune](https://github.com/kvnp/youtune) | YouTube Music client for Android, iOS and web | 64 | 🟢 | TypeScript |
 | [plugin.audio.tidal2](https://github.com/arnesongit/plugin.audio.tidal2) | TIDAL music streaming add-on for Kodi | 51 | 🟡 | Python |
+| [spotify-tv](https://github.com/sregg/spotify-tv) | Unofficial Spotify app for Android TV | 48 | 🔴 | Java |
 | [DeezerKodi](https://github.com/kubatek94/DeezerKodi) | Deezer client add-on for Kodi | 47 | 🔴 | Python |
 | [librespot-android](https://github.com/devgianlu/librespot-android) | Demo app running librespot-java on Android | 45 | 🔴 | C |
+| [kodi-tidal](https://github.com/tamland/kodi-tidal) | Unofficial TIDAL/WiMP add-on for Kodi | 28 | 🔴 | Python |
+| [Tidal-Unofficial-Win10](https://github.com/simonferquel/Tidal-Unofficial-Win10) | Source of the unofficial TIDAL Windows 10 app | 27 | 🔴 | C++ |
+| [unofficial-deezer-player](https://github.com/fminetto/unofficial-deezer-player) | Unofficial Deezer client app for Linux | 27 | 🗄️ | JavaScript |
+| [Tides-WearOS](https://github.com/luchfilip/Tides-WearOS) | Unofficial TIDAL client for Wear OS | 26 | 🟢 | Kotlin |
+| [NOORwave](https://github.com/biggiesmallcap-blip/NOORwave) | TIDAL desktop player with fast local library search and music videos | 15 | 🟢 |  |
+| [Spotify-WebPlayerWrapper](https://github.com/janchaloupka/Spotify-WebPlayerWrapper) | Unofficial Spotify client for Windows Phone using the web player | 14 | 🔴 | CSS |
+| [tidalbar](https://github.com/bsilvereagle/tidalbar) | Unofficial CLI player for TIDAL | 12 | 🔴 | Python |
+| [NXpotify](https://github.com/etonedemid/NXpotify) | Unofficial Spotify Connect client for the Nintendo Switch | 11 | 🟢 | C++ |
+| [deezer-desktop](https://github.com/brunoqueiros/deezer-desktop) | Unofficial desktop app for Deezer | 6 | 🔴 | JavaScript |
 
 ## Social Media
 
@@ -183,6 +198,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Flow-Desktop](https://github.com/Flow-Tube/Flow-Desktop) | YouTube and YouTube Music client for desktop built with Rust | 106 | 🟢 | TypeScript |
 | [Pocket-Plays-for-Twitch](https://github.com/SebastianRask/Pocket-Plays-for-Twitch) | Open-source Twitch client for Android | 67 | 🔴 | Java |
 | [FlexTube](https://github.com/flexxxxer/FlexTube) | Alternative YouTube frontend for Android inspired by LibreTube | 55 | 🟢 | Shell |
+| [3Danmu](https://github.com/OakRoller/3Danmu) | Unofficial Bilibili client for the Nintendo 3DS with hardware decoding and danmaku | 43 | 🟢 | C |
+| [xcloud-cgtv](https://github.com/mistertest/xcloud-cgtv) | Unofficial Xbox Cloud Gaming client for Chromecast with Google TV | 37 | 🔴 | Java |
 | [KickTalk](https://github.com/KickTalkOrg/KickTalk) | Desktop chat client for Kick.com built with Electron | 35 | 🟢 | JavaScript |
 | [Grayjay](https://gitlab.futo.org/videostreaming/grayjay) | FUTO's multi-platform video app with plugin sources for YouTube, Twitch, Rumble and more |  | ⚪ |  |
 | [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) | GTK app to watch YouTube and PeerTube via Piped/Invidious without a Google account |  | ⚪ |  |

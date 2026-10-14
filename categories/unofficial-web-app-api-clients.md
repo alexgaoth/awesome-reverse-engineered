@@ -1,6 +1,6 @@
 # Unofficial Web/App API Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 807 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 826 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,16 +8,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Dating](#dating) (15)
 - [Finance & Banking](#finance--banking) (114)
 - [Google Services](#google-services) (53)
-- [Music & Audio Streaming](#music--audio-streaming) (75)
+- [Music & Audio Streaming](#music--audio-streaming) (91)
 - [Other APIs](#other-apis) (45)
-- [Productivity](#productivity) (86)
+- [Productivity](#productivity) (87)
 - [Real Estate](#real-estate) (8)
 - [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (55)
 - [Shopping & Marketplaces](#shopping--marketplaces) (58)
 - [Social & Content Platforms](#social--content-platforms) (54)
 - [Translation](#translation) (24)
-- [Travel & Transport](#travel--transport) (83)
-- [Utilities & Energy Portals](#utilities--energy-portals) (23)
+- [Travel & Transport](#travel--transport) (84)
+- [Utilities & Energy Portals](#utilities--energy-portals) (24)
 - [Video & YouTube](#video--youtube) (69)
 
 ## Books, Reading & Learning
@@ -306,6 +306,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-librespot](https://github.com/devgianlu/go-librespot) | Yet another open source Spotify client, written in Go. | 378 | 🟢 | Go |
 | [amazon-music](https://github.com/Jaffa/amazon-music) | Programmatic access to Amazon Music/Prime Music streaming via its web API | 355 | 🔴 | Python |
 | [librespot-python](https://github.com/kokarare1212/librespot-python) | Open Source Spotify Client | 331 | 🟢 | Python |
+| [SpotifyScraper](https://github.com/AliAkhtari78/SpotifyScraper) | Extracts public Spotify tracks, albums, playlists and lyrics without the official API | 319 | 🟢 | Python |
 | [Turntable-API](https://github.com/alaingilbert/Turntable-API) | Unofficial turntable.fm API for building bots | 318 | 🟡 | JavaScript |
 | [syrics](https://github.com/akashrchandran/syrics) | CLI fetching synced and unsynced lyrics from Spotify and saving LRC files | 249 | 🗄️ | Python |
 | [TidalAPI](https://github.com/0xVasconcelos/TidalAPI) | Unofficial Node.js TIDAL API | 213 | 🔴 | JavaScript |
@@ -327,6 +328,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pydora](https://github.com/mcrute/pydora) | Pandora API Client and Command Line Player written in Python | 70 | 🟢 | Python |
 | [cspot_vita](https://github.com/michal4132/cspot_vita) | Spotify Connect client for PS Vita based on the reverse-engineered cspot protocol library | 67 | 🔴 | C |
 | [Spotify-Canvas-API](https://github.com/Paxsenix0/Spotify-Canvas-API) | Unofficial API for fetching Spotify Canvas looping videos | 65 | 🟢 | JavaScript |
+| [fycharts](https://github.com/kelvingakuo/fycharts) | Unofficial Spotify Charts API for top 200 and viral 50 data | 57 | 🔴 | Python |
 | [soundcloud.py](https://github.com/7x11x13/soundcloud.py) | Python wrapper for v2 SoundCloud API. Does not require an API key. | 47 | 🟢 | Python |
 | [noize](https://github.com/anandssm/noize) | Open-source YouTube Music client for Android, Windows and Linux | 46 | 🟢 | Dart |
 | [radiojavanapi](https://github.com/xHossein/radiojavanapi) | Python wrapper for the RadioJavan music app API | 45 | 🟢 | Python |
@@ -334,13 +336,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-yamusic](https://github.com/ndrewnee/go-yamusic) | Unofficial Go client for the Yandex Music API | 35 | 🔴 | Go |
 | [WiMP-api](https://github.com/datagutt/WiMP-api) | Unofficial API for Tidal/WiMP based on the web player | 35 | 🔴 | JavaScript |
 | [YouTube-Music-API](https://github.com/cj-praveen/YouTube-Music-API) | Unofficial search API for YouTube Music | 33 | 🗄️ | Python |
+| [javatify](https://github.com/Ahmeth4n/javatify) | Unofficial API based on the reverse-engineered Spotify Android app | 28 | 🗄️ | Java |
+| [EasyVK-AudioAPI](https://github.com/PurpleHorrorRus/EasyVK-AudioAPI) | Unofficial VK Audio API client | 26 | 🔴 | JavaScript |
 | [google-music-protocol](https://github.com/antimatter15/google-music-protocol) | Reverse-engineered Google Music protocol | 23 | 🔴 | Python |
+| [tidal-async](https://github.com/FUMR/tidal-async) | Async unofficial Python API for the TIDAL streaming service | 23 | 🟢 | Python |
 | [spotify-local](https://github.com/erinxocon/spotify-local) | Local control of the Spotify desktop client in Python | 21 | 🔴 | Python |
+| [TidalLib](https://github.com/yaronzz/TidalLib) | Unofficial C# API for TIDAL | 21 | 🟡 | C# |
+| [spotify-api](https://github.com/itzzzme/spotify-api) | Unofficial full Spotify API | 20 | 🗄️ | JavaScript |
+| [libspotify-embedded](https://github.com/Thalhammer/libspotify-embedded) | Reverse-engineered header file for the Spotify embedded library in the Android SDK | 18 | 🔴 | C++ |
+| [dz4j](https://github.com/yvasyliev/dz4j) | Unofficial Java wrapper for the Deezer API | 16 | 🟢 | Java |
+| [spoti-bye](https://github.com/alexknowshtml/spoti-bye) | Exports a Spotify library to a local SQLite database without API quota | 15 | 🟢 | TypeScript |
+| [Spotify-Lyrics-API](https://github.com/Paxsenix0/Spotify-Lyrics-API) | Unofficial API to fetch Spotify lyrics data | 13 | 🟢 | JavaScript |
+| [php-tidal](https://github.com/yusufusta/php-tidal) | Unofficial PHP API for TIDAL | 12 | 🔴 | PHP |
+| [pyspotify2](https://github.com/pymedia/pyspotify2) | Unofficial Spotify Connect implementation in Python | 12 | 🔴 | Python |
+| [Unofficial-Spotify-SDK](https://github.com/KaustubhPatange/Unofficial-Spotify-SDK) | Unofficial Spotify SDK for Android overcoming limits of the official one | 10 | 🔴 | Kotlin |
 | [applemusic-api](https://github.com/sync-fm/applemusic-api) | Unofficial Apple Music API client with typed helpers around their endpoints with shared configuration, logging, and... | 9 | 🟢 | TypeScript |
 | [podme_api](https://github.com/bendikrb/podme_api) | Client library for the podme.com podcast web API | 9 | 🟢 | Python |
 | [radio5](https://github.com/ocvit/radio5) | Adapter for Radiooooo private API | 9 | 🟡 | Ruby |
+| [tidalapi](https://github.com/HieronimB/tidalapi) | Unofficial Java API for TIDAL | 9 | 🔴 | Java |
 | [gopiano](https://github.com/unclesp1d3r/gopiano) | Go wrapper for Pandora's unofficial, reverse-engineered legacy JSON API (v5) | 8 | 🟢 | Go |
 | [SpotifyPrivateAPI](https://github.com/caiocinel/SpotifyPrivateAPI) | Simple Wrapper for Front-end Private Spotify API, allowing you to get play counts and monthly listeners | 7 | 🟡 | C# |
+| [spotiscrape-spotify-api](https://github.com/aditya76-git/spotiscrape-spotify-api) | Unofficial Spotify API for account info, search and playlist management | 7 | 🔴 | Python |
 | [libmxm](https://github.com/Eimaen/libmxm) | Node.js library for the Musixmatch private API | 6 | 🔴 | JavaScript |
 | [deezer-python-gql](https://github.com/music-assistant/deezer-python-gql) | Unofficial python library for the Deezer GraphQL based API | 4 | 🟢 | Python |
 | [gmusic-rs](https://github.com/maxjoehnk/gmusic-rs) | Unofficial Rust client library for Google Play Music | 4 | 🗄️ | Rust |
@@ -430,6 +446,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [kindle-api](https://github.com/Xetera/kindle-api) | Access Kindle's private API in Node.js without a headless browser | 230 | 🟡 | TypeScript |
 | [things.py](https://github.com/thingsapi/things.py) | Python library that reads Things 3 data from its reverse-engineered SQLite schema | 229 | 🟢 | Python |
 | [grammarly-api](https://github.com/stewartmcgown/grammarly-api) | Unofficial TypeScript client for Grammarly's internal websocket API | 211 | 🔴 | TypeScript |
+| [xiaomi-note-exporter](https://github.com/nogiszd/xiaomi-note-exporter) | Exports notes from Mi Cloud to Markdown files | 208 | 🟢 | Vue |
 | [unofficial-claude-api](https://github.com/st1vms/unofficial-claude-api) | Unofficial Claude API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file... | 204 | 🟢 | Python |
 | [megajs](https://github.com/qgustavor/mega) | Unofficial JavaScript SDK for the MEGA cloud storage protocol, with client-side encryption | 195 | 🟢 | JavaScript |
 | [zotero-remarkable](https://github.com/michaelmior/zotero-remarkable) | Sync papers from Zotero to a reMarkable tablet via the unofficial cloud API | 192 | 🔴 | PHP |
@@ -774,6 +791,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Home-Assistant-custom-components-iMPK](https://github.com/PiotrMachowski/Home-Assistant-custom-components-iMPK) | MPK Wrocław departures via an unofficial API found by decompiling the iMPK app | 18 | 🟡 | Python |
 | [node-deliveroo](https://github.com/jzarca01/node-deliveroo) | API Wrapper for Deliveroo, the food delivery company | 17 | 🔴 | JavaScript |
 | [wizzair-scraper](https://github.com/kovacskokokornel/wizzair-scraper) | Scripts that fetch Wizz Air fares from its timetable API | 17 | 🔴 | Python |
+| [polarsteps-api](https://github.com/remuzel/polarsteps-api) | Unofficial Python wrapper around the Polarsteps APIs | 15 | 🟡 | Python |
 | [ubering](https://github.com/tamnil/ubering) | Reverse-engineered Uber web API client | 14 | 🔴 | JavaScript |
 | [bvg-hafas](https://github.com/public-transport/bvg-hafas) | JavaScript client for the BVG HAFAS API | 13 | 🔴 | JavaScript |
 | [Home-Assistant-custom-components-Rozkladzik](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Rozkladzik) | Public transport departures from rozkladzik.pl via its unofficial API | 13 | 🟡 | Python |
@@ -825,6 +843,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homeassistant_veolia](https://github.com/Jezza34000/homeassistant_veolia) | Veolia water consumption (France) via the unofficial customer portal API | 29 | 🟢 | Python |
 | [Home-Assistant-Electric-Ireland](https://github.com/barreeeiroo/Home-Assistant-Electric-Ireland) | Electric Ireland Insights consumption data via the customer portal | 21 | 🟢 | Python |
 | [portlandgeneral-api](https://github.com/piekstra/portlandgeneral-api) | Unofficial Python library for the Portland General Electric customer API | 14 | 🟡 | Python |
+| [greenmountainpower](https://github.com/sbrinkerhoff/greenmountainpower) | Unofficial Python client for the Green Mountain Power API | 10 | 🟢 | Python |
 | [edf-api](https://github.com/dallegoet/edf-api) | Reverse-engineered EDF (French electricity) customer API client for JavaScript | 9 | 🟡 | JavaScript |
 | [grdf-api](https://github.com/maelgangloff/grdf-api) | Unofficial client for the GRDF gas meter consumption API | 9 | 🟡 | TypeScript |
 

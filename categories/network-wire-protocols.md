@@ -1,12 +1,12 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 415 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 418 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Aviation & Marine](#aviation--marine) (33)
-- [Casting & TV Remotes](#casting--tv-remotes) (41)
-- [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (25)
+- [Casting & TV Remotes](#casting--tv-remotes) (42)
+- [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (26)
 - [Digital Voice Radio](#digital-voice-radio) (14)
 - [Email & Groupware](#email--groupware) (25)
 - [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (26)
@@ -16,7 +16,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
 - [Radio & SDR Protocols](#radio--sdr-protocols) (63)
 - [Satellite Downlinks](#satellite-downlinks) (32)
-- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (48)
+- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (49)
 - [VPN Clients](#vpn-clients) (23)
 
 ## Aviation & Marine
@@ -93,6 +93,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node-sonos-ts](https://github.com/svrooij/node-sonos-ts) | Sonos control library, use this library in your own appliction. | 111 | 🟢 | TypeScript |
 | [spotcontrol](https://github.com/badfortrains/spotcontrol) | Open-source Spotify Connect controller in Go | 110 | 🔴 | Go |
 | [androidtv-remote](https://github.com/louis49/androidtv-remote) | Node.js library implementing the Android TV Remote v2 pairing and remote protocol | 88 | 🔴 | JavaScript |
+| [xbox-smartglass-csharp](https://github.com/OpenXbox/xbox-smartglass-csharp) | .NET Standard client library for the Xbox One SmartGlass protocol | 73 | 🔴 | C# |
 | [sonos-api-docs](https://github.com/svrooij/sonos-api-docs) | Documentation and client generator for the Sonos local UPnP API | 59 | 🟢 | TypeScript |
 | [aiowebostv](https://github.com/home-assistant-libs/aiowebostv) | Python library to control LG webOS based TV devices | 56 | 🟢 | Python |
 | [aioharmony](https://github.com/Harmony-Libs/aioharmony) | Asyncio Python library for the Logitech Harmony Hub local protocol | 28 | 🟢 | Python |
@@ -125,6 +126,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [qhuaweiflash](https://github.com/forth32/qhuaweiflash) | GUI to flash Huawei modems/routers and edit their firmware files | 71 | 🔴 | C++ |
 | [diag-parser](https://github.com/moiji-mobile/diag-parser) | Parses Qualcomm DIAG logs and converts them to GSMTAP | 68 | 🔴 | C |
 | [shannon-dbg](https://github.com/synacktiv/shannon-dbg) | Debugger for the Samsung Shannon baseband firmware | 60 | 🔴 | C |
+| [SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) | Samsung modem AT commands over USB serial and secret dialer codes extracted from system packages | 56 | 🟡 | Python |
 | [ShannonEE](https://github.com/grant-h/ShannonEE) | Dynamic analysis environment for Samsung's Shannon baseband (predecessor of FirmWire) | 44 | 🗄️ |  |
 | [DiagLibrary](https://github.com/sanjaywave/DiagLibrary) | Library using the Qualcomm DIAG port for band and frequency locking on your own device | 26 | 🔴 | C |
 | [osmo-qcdiag](https://github.com/osmocom/osmo-qcdiag) | Osmocom tools for the Qualcomm DIAG interface | 21 | 🟡 | C |
@@ -449,6 +451,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Acuparse](https://github.com/acuparse/acuparse) | Captures AcuRite Iris/Atlas station data from the Access/smartHUB bridge's private uploads | 64 | 🟡 | PHP |
 | [LightwaveRF](https://github.com/roberttidey/LightwaveRF) | Arduino libraries for the LightwaveRF 433 MHz home automation protocol | 60 | 🔴 | C++ |
 | [esphome-rtl_433-decoder](https://github.com/juanboro/esphome-rtl_433-decoder) | Runs rtl_433 decoders for proprietary 433 MHz sensors inside ESPHome | 51 | 🟢 | C++ |
+| [Sparsnas](https://github.com/kodarn/Sparsnas) | Decoding the IKEA Sparsnäs energy monitor's 868 MHz radio protocol | 50 | 🔴 | Python |
 | [rfcontroljs](https://github.com/pimatic/rfcontroljs) | Node.js protocol decoders for many 433 MHz switches and weather stations | 48 | 🔴 | CoffeeScript |
 | [smeter](https://github.com/stef/smeter) | Read water and heat meter radio transmissions with GNU Radio | 45 | 🔴 | Python |
 | [everblu-meters](https://github.com/neutrinus/everblu-meters) | Reads Itron EverBlu Cyble water/gas meters via the RADIAN protocol with a CC1101 | 41 | 🗄️ | C |

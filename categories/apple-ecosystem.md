@@ -1,6 +1,6 @@
 # Apple Ecosystem
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 336 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 340 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,7 +8,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (51)
 - [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
 - [Find My & AirTag](#find-my--airtag) (9)
-- [HomeKit](#homekit) (20)
+- [HomeKit](#homekit) (24)
 - [Other Apple](#other-apple) (130)
 - [iCloud & Apple Services](#icloud--apple-services) (22)
 - [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (46)
@@ -171,10 +171,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ESPHap](https://github.com/Yurik72/ESPHap) | ESP32/ESP8266 Arduino library for native Apple Homekit Accessory Protocol (HAP) | 278 | 🔴 | C |
 | [hap-rs](https://github.com/ewilken/hap-rs) | Rust implementation of the Apple HomeKit Accessory Protocol (HAP) | 218 | 🟡 | Rust |
 | [homebridge-nest](https://github.com/KraigM/homebridge-nest) | Homebridge plugin for Nest thermostats and protects via the unofficial Nest API | 210 | 🔴 | JavaScript |
+| [fakegato-history](https://github.com/simont77/fakegato-history) | Module emulating Elgato Eve history for Homebridge accessories | 165 | 🟡 | JavaScript |
 | [HAP-Java](https://github.com/hap-java/HAP-Java) | Java implementation of the HomeKit Accessory Protocol | 163 | 🟢 | Java |
 | [hap](https://github.com/mtrudel/hap) | A HomeKit Accessory Protocol (HAP) Implementation for Elixir | 109 | 🟢 | Elixir |
+| [ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room](https://github.com/HomeKidd/ESP8266-HomeKit-Air-Quality-Sensor-Elgato-Eve-Room) | ESP8266 HomeKit air quality sensor emulating the Eve Room with history | 75 | 🔴 |  |
 | [homekit](https://github.com/fmckeogh/homekit) | HomeKit Accessory Protocol implementation for embedded Rust | 26 | 🟡 | Rust |
+| [ESP8266-HomeKit-New-Eve-Weather](https://github.com/HomeKidd/ESP8266-HomeKit-New-Eve-Weather) | ESP8266 HomeKit firmware emulating the Eve Weather sensor | 20 | 🔴 |  |
 | [pyhap](https://github.com/condemil/pyhap) | Python implementation of HomeKit Accessory Protocol | 19 | 🔴 | Python |
+| [ESP8266-HomeKit-Water-Leak-sensor-Elgato-Eve-Water-Guard](https://github.com/HomeKidd/ESP8266-HomeKit-Water-Leak-sensor-Elgato-Eve-Water-Guard) | ESP8266 HomeKit water leak sensor emulating the Eve Water Guard | 11 | 🔴 |  |
 
 ## Other Apple
 

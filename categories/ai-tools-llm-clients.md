@@ -1,6 +1,6 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 726 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 731 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -9,7 +9,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Chinese LLM Web APIs](#chinese-llm-web-apis) (51)
 - [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (250)
 - [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (69)
-- [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (66)
+- [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (71)
 - [Other AI](#other-ai) (18)
 - [System Prompt Leaks & Extractions](#system-prompt-leaks--extractions) (29)
 
@@ -547,7 +547,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [noclick](https://github.com/noclickapp/noclick) | Agent runtime that runs on your ChatGPT or Claude subscription | 12 | 🟢 | Python |
 | [gemini-3-github-copilot-proxy](https://github.com/Apothic-AI/gemini-3-github-copilot-proxy) | Use a Gemini plan via Gemini CLI auth inside GitHub Copilot | 11 | 🟢 | TypeScript |
 | [agy-tools-rust](https://github.com/ChrAlpha/agy-tools-rust) | Rust CLI reverse proxy exposing Antigravity Cloud Code as OpenAI/Claude/Gemini APIs | 9 | 🗄️ | Rust |
-| [antigravity-proxy (sortedcord)](https://github.com/terastal-hq/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
+| [antigravity-proxy (sortedcord)](https://github.com/sortedcord/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
 | [claude-buddy-hatchery](https://github.com/cminn10/claude-buddy-hatchery) | Reverse-engineered Claude Code /buddy companion generation algorithm | 9 | 🟢 | Python |
 | [kiro2api-rs](https://github.com/gdtiti/kiro2api-rs) | Rust Anthropic-compatible proxy over Kiro accounts with web panel | 9 | 🟢 | Rust |
 | [claude-max-api-proxy-rs](https://github.com/thhuang/claude-max-api-proxy-rs) | Rust proxy translating OpenAI/Anthropic APIs to Claude Code CLI subscription | 8 | 🟢 | Rust |
@@ -669,6 +669,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) | MCP server for macOS Messages: read chat.db and send iMessages | 332 | 🟢 | Python |
 | [WeChat-MCP](https://github.com/BiboyQG/WeChat-MCP) | Lets AI assistants read and reply to WeChat on desktop | 277 | 🟢 | Python |
 | [whatsapp-mcp (verygoodplugins)](https://github.com/verygoodplugins/whatsapp-mcp) | WhatsApp MCP server for reading and sending personal messages | 242 | 🟢 | Go |
+| [bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) | MCP server controlling Bambu Lab 3D printers with slicing and print management | 201 | 🟢 | TypeScript |
 | [perplexity-web-mcp (jacob-bd)](https://github.com/jacob-bd/perplexity-web-mcp) | MCP server and Anthropic-compatible API over the Perplexity web interface | 201 | 🟢 | Python |
 | [linkedin-mcp-server (eliasbiondo)](https://github.com/eliasbiondo/linkedin-mcp-server) | LinkedIn MCP server scraping people, companies and jobs | 195 | 🟢 | Python |
 | [bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) | Bilibili video search MCP service | 194 | 🟢 | JavaScript |
@@ -687,6 +688,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bilibili-mcp (adoresever)](https://github.com/adoresever/bilibili-mcp) | Bilibili MCP with search, comments, subtitles and danmaku | 104 | 🟢 | Python |
 | [alza-mcp-community](https://github.com/lukabudik/alza-mcp-community) | Unofficial MCP server for Alza.cz: product search, reviews, account, cart and checkout | 80 | 🟢 | TypeScript |
 | [whatsapp-mcp-ts](https://github.com/jlucaso1/whatsapp-mcp-ts) | WhatsApp MCP server in TypeScript on Baileys | 75 | 🟢 | TypeScript |
+| [miot-mcp](https://github.com/javen-yan/miot-mcp) | MCP server for Mijia devices built on the unofficial MijiaAPI | 71 | 🟢 | Python |
+| [garmin-connect-mcp](https://github.com/eddmann/garmin-connect-mcp) | MCP server for Garmin Connect activities, health metrics and sleep via the unofficial API | 64 | 🟢 | Python |
 | [stockbit-mcp](https://github.com/INo-xious/stockbit-mcp) | MCP server for Stockbit (Indonesia) market data, charts and read-only portfolios via its app API | 54 | 🟢 | TypeScript |
 | [tradingview-mcp-server](https://github.com/fiale-plus/tradingview-mcp-server) | Unofficial MCP and CLI for TradingView's internal API | 53 | 🟢 | TypeScript |
 | [Perplexity-Comet-MCP](https://github.com/RapierCraft/Perplexity-Comet-MCP) | MCP server connecting Claude Code to Perplexity Comet browser | 51 | 🟢 | TypeScript |
@@ -704,11 +707,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wamcp](https://github.com/delltrak/wamcp) | WhatsApp MCP server with 61 tools over Baileys | 24 | 🟢 | TypeScript |
 | [perplexity-web-wrapper](https://github.com/balakumardev/perplexity-web-wrapper) | Use a Perplexity subscription with MCP via a web wrapper | 23 | 🟢 | Python |
 | [yandex-lavka-mcp](https://github.com/Dudude-bit/yandex-lavka-mcp) | Unofficial MCP server for ordering Yandex Lavka groceries | 22 | 🟢 | Python |
+| [rm-mcp](https://github.com/wavyrai/rm-mcp) | MCP server for accessing reMarkable tablet data | 21 | 🟢 | Python |
 | [notebooklm-mcp (m4yk3ldev)](https://github.com/m4yk3ldev/notebooklm-mcp) | NotebookLM MCP with 32 tools for notebooks, sources and studio content | 20 | 🟢 | TypeScript |
 | [Douyin-mcp](https://github.com/Lozzi1910/Douyin-mcp) | MCP server to search Douyin users and read/send direct messages | 18 | 🟢 | Python |
 | [wechat-mcp (lw396)](https://github.com/lw396/wechat-mcp) | WeChat chat MCP tool based on WeChatFerry hooking | 18 | 🟡 | Go |
 | [twitter-mcp-server (gkydev)](https://github.com/gkydev/twitter-mcp-server) | Unofficial Twitter/X MCP server using cookie auth | 16 | 🟢 | Python |
 | [stays](https://github.com/him229/stays) | Google Hotels MCP server and library via reverse-engineered batchexecute | 14 | 🟢 | Python |
+| [garmin-mcp](https://github.com/davidmosiah/garmin-mcp) | Local-first MCP server for Garmin Body Battery, HRV, sleep and training data | 12 | 🟢 | TypeScript |
 | [instagram-dms-mcp](https://github.com/braindead-dev/instagram-dms-mcp) | MCP server for reading and sending Instagram DMs via the private API | 10 | 🟢 | Go |
 | [linkedin-mcp](https://github.com/devag7/linkedin-mcp) | Unofficial local LinkedIn MCP server for profile, job, company and inbox reads | 10 | 🟢 | TypeScript |
 | [threads-mcp-crawler](https://github.com/dkyazzentwatwa/threads-mcp-crawler) | MCP crawler extracting data from Meta Threads | 10 | 🟢 | Python |

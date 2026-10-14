@@ -291,6 +291,7 @@
 - https://pkg.go.dev/search
 - https://pypi.org/simple/
 - https://pypi.org/pypi/<name>/json
+- GitHub topic sweep by brand
 
 ## Searches run
 
@@ -2196,3 +2197,463 @@
 - npm: unofficial mcp
 - pypi: package names matching unofficial/private-api/reverse/local-api (simple index)
 - pypi: summaries of packages named *api/*client/*sdk/*wrapper (JSON API)
+- "anker" in:name,description local api stars:>10
+- "anker" in:name,description reverse engineered stars:>5
+- "anker" in:name,description unofficial stars:>5
+- "anycubic" in:name,description local api stars:>10
+- "anycubic" in:name,description reverse engineered stars:>5
+- "anycubic" in:name,description unofficial stars:>5
+- "apple music" in:name,description local api stars:>10
+- "apple music" in:name,description reverse engineered stars:>5
+- "apple music" in:name,description unofficial stars:>5
+- "aqara" in:name,description local api stars:>10
+- "aqara" in:name,description reverse engineered stars:>5
+- "aqara" in:name,description unofficial stars:>5
+- "arlo" in:name,description local api stars:>10
+- "arlo" in:name,description reverse engineered stars:>5
+- "arlo" in:name,description unofficial stars:>5
+- "audi" in:name,description local api stars:>10
+- "audi" in:name,description reverse engineered stars:>5
+- "audi" in:name,description unofficial stars:>5
+- "bambulab" in:name,description local api stars:>10
+- "bambulab" in:name,description reverse engineered stars:>5
+- "bambulab" in:name,description unofficial stars:>5
+- "bluetti" in:name,description local api stars:>10
+- "bluetti" in:name,description reverse engineered stars:>5
+- "bluetti" in:name,description unofficial stars:>5
+- "bmw" in:name,description local api stars:>10
+- "bmw" in:name,description reverse engineered stars:>5
+- "bmw" in:name,description unofficial stars:>5
+- "boox" in:name,description local api stars:>10
+- "boox" in:name,description reverse engineered stars:>5
+- "boox" in:name,description unofficial stars:>5
+- "bosch" in:name,description local api stars:>10
+- "bosch" in:name,description reverse engineered stars:>5
+- "bosch" in:name,description unofficial stars:>5
+- "bose" in:name,description local api stars:>10
+- "bose" in:name,description reverse engineered stars:>5
+- "bose" in:name,description unofficial stars:>5
+- "broadlink" in:name,description local api stars:>10
+- "broadlink" in:name,description reverse engineered stars:>5
+- "broadlink" in:name,description unofficial stars:>5
+- "byd" in:name,description local api stars:>10
+- "byd" in:name,description reverse engineered stars:>5
+- "byd" in:name,description unofficial stars:>5
+- "canon" in:name,description local api stars:>10
+- "canon" in:name,description reverse engineered stars:>5
+- "canon" in:name,description unofficial stars:>5
+- "corsair" in:name,description local api stars:>10
+- "corsair" in:name,description reverse engineered stars:>5
+- "corsair" in:name,description unofficial stars:>5
+- "creality" in:name,description local api stars:>10
+- "creality" in:name,description reverse engineered stars:>5
+- "creality" in:name,description unofficial stars:>5
+- "daikin" in:name,description local api stars:>10
+- "daikin" in:name,description reverse engineered stars:>5
+- "daikin" in:name,description unofficial stars:>5
+- "deezer" in:name,description local api stars:>10
+- "deezer" in:name,description reverse engineered stars:>5
+- "deezer" in:name,description unofficial stars:>5
+- "dji" in:name,description local api stars:>10
+- "dji" in:name,description reverse engineered stars:>5
+- "dji" in:name,description unofficial stars:>5
+- "dreame" in:name,description local api stars:>10
+- "dreame" in:name,description reverse engineered stars:>5
+- "dreame" in:name,description unofficial stars:>5
+- "dyson" in:name,description local api stars:>10
+- "dyson" in:name,description reverse engineered stars:>5
+- "dyson" in:name,description unofficial stars:>5
+- "ecobee" in:name,description local api stars:>10
+- "ecobee" in:name,description reverse engineered stars:>5
+- "ecobee" in:name,description unofficial stars:>5
+- "ecoflow" in:name,description local api stars:>10
+- "ecoflow" in:name,description reverse engineered stars:>5
+- "ecoflow" in:name,description unofficial stars:>5
+- "ecovacs" in:name,description local api stars:>10
+- "ecovacs" in:name,description reverse engineered stars:>5
+- "ecovacs" in:name,description unofficial stars:>5
+- "elegoo" in:name,description local api stars:>10
+- "elegoo" in:name,description reverse engineered stars:>5
+- "elegoo" in:name,description unofficial stars:>5
+- "elgato" in:name,description local api stars:>10
+- "elgato" in:name,description reverse engineered stars:>5
+- "elgato" in:name,description unofficial stars:>5
+- "enphase" in:name,description local api stars:>10
+- "enphase" in:name,description reverse engineered stars:>5
+- "enphase" in:name,description unofficial stars:>5
+- "eufy" in:name,description local api stars:>10
+- "eufy" in:name,description reverse engineered stars:>5
+- "eufy" in:name,description unofficial stars:>5
+- "fitbit" in:name,description local api stars:>10
+- "fitbit" in:name,description reverse engineered stars:>5
+- "fitbit" in:name,description unofficial stars:>5
+- "ford" in:name,description local api stars:>10
+- "ford" in:name,description reverse engineered stars:>5
+- "ford" in:name,description unofficial stars:>5
+- "fujifilm" in:name,description local api stars:>10
+- "fujifilm" in:name,description reverse engineered stars:>5
+- "fujifilm" in:name,description unofficial stars:>5
+- "fujitsu" in:name,description local api stars:>10
+- "fujitsu" in:name,description reverse engineered stars:>5
+- "fujitsu" in:name,description unofficial stars:>5
+- "garmin" in:name,description local api stars:>10
+- "garmin" in:name,description reverse engineered stars:>5
+- "garmin" in:name,description unofficial stars:>5
+- "goodwe" in:name,description local api stars:>10
+- "goodwe" in:name,description reverse engineered stars:>5
+- "goodwe" in:name,description unofficial stars:>5
+- "gopro" in:name,description local api stars:>10
+- "gopro" in:name,description reverse engineered stars:>5
+- "gopro" in:name,description unofficial stars:>5
+- "govee" in:name,description local api stars:>10
+- "govee" in:name,description reverse engineered stars:>5
+- "govee" in:name,description unofficial stars:>5
+- "gree" in:name,description local api stars:>10
+- "gree" in:name,description reverse engineered stars:>5
+- "gree" in:name,description unofficial stars:>5
+- "growatt" in:name,description local api stars:>10
+- "growatt" in:name,description reverse engineered stars:>5
+- "growatt" in:name,description unofficial stars:>5
+- "haier" in:name,description local api stars:>10
+- "haier" in:name,description reverse engineered stars:>5
+- "haier" in:name,description unofficial stars:>5
+- "huawei" in:name,description local api stars:>10
+- "huawei" in:name,description reverse engineered stars:>5
+- "huawei" in:name,description unofficial stars:>5
+- "hyundai" in:name,description local api stars:>10
+- "hyundai" in:name,description reverse engineered stars:>5
+- "hyundai" in:name,description unofficial stars:>5
+- "ikea" in:name,description local api stars:>10
+- "ikea" in:name,description reverse engineered stars:>5
+- "ikea" in:name,description unofficial stars:>5
+- "insta360" in:name,description local api stars:>10
+- "insta360" in:name,description reverse engineered stars:>5
+- "insta360" in:name,description unofficial stars:>5
+- "kasa" in:name,description local api stars:>10
+- "kasa" in:name,description reverse engineered stars:>5
+- "kasa" in:name,description unofficial stars:>5
+- "kia" in:name,description local api stars:>10
+- "kia" in:name,description reverse engineered stars:>5
+- "kia" in:name,description unofficial stars:>5
+- "kindle" in:name,description local api stars:>10
+- "kindle" in:name,description reverse engineered stars:>5
+- "kindle" in:name,description unofficial stars:>5
+- "kobo" in:name,description local api stars:>10
+- "kobo" in:name,description reverse engineered stars:>5
+- "kobo" in:name,description unofficial stars:>5
+- "lg" in:name,description local api stars:>10
+- "lg" in:name,description reverse engineered stars:>5
+- "lg" in:name,description unofficial stars:>5
+- "logitech" in:name,description local api stars:>10
+- "logitech" in:name,description reverse engineered stars:>5
+- "logitech" in:name,description unofficial stars:>5
+- "mercedes" in:name,description local api stars:>10
+- "mercedes" in:name,description reverse engineered stars:>5
+- "mercedes" in:name,description unofficial stars:>5
+- "meross" in:name,description local api stars:>10
+- "meross" in:name,description reverse engineered stars:>5
+- "meross" in:name,description unofficial stars:>5
+- "midea" in:name,description local api stars:>10
+- "midea" in:name,description reverse engineered stars:>5
+- "midea" in:name,description unofficial stars:>5
+- "miele" in:name,description local api stars:>10
+- "miele" in:name,description reverse engineered stars:>5
+- "miele" in:name,description unofficial stars:>5
+- "mitsubishi" in:name,description local api stars:>10
+- "mitsubishi" in:name,description reverse engineered stars:>5
+- "mitsubishi" in:name,description unofficial stars:>5
+- "nest" in:name,description local api stars:>10
+- "nest" in:name,description reverse engineered stars:>5
+- "nest" in:name,description unofficial stars:>5
+- "netatmo" in:name,description local api stars:>10
+- "netatmo" in:name,description reverse engineered stars:>5
+- "netatmo" in:name,description unofficial stars:>5
+- "nikon" in:name,description local api stars:>10
+- "nikon" in:name,description reverse engineered stars:>5
+- "nikon" in:name,description unofficial stars:>5
+- "nintendo" in:name,description local api stars:>10
+- "nintendo" in:name,description reverse engineered stars:>5
+- "nintendo" in:name,description unofficial stars:>5
+- "nissan" in:name,description local api stars:>10
+- "nissan" in:name,description reverse engineered stars:>5
+- "nissan" in:name,description unofficial stars:>5
+- "niu" in:name,description local api stars:>10
+- "niu" in:name,description reverse engineered stars:>5
+- "niu" in:name,description unofficial stars:>5
+- "oura" in:name,description local api stars:>10
+- "oura" in:name,description reverse engineered stars:>5
+- "oura" in:name,description unofficial stars:>5
+- "panasonic" in:name,description local api stars:>10
+- "panasonic" in:name,description reverse engineered stars:>5
+- "panasonic" in:name,description unofficial stars:>5
+- "peloton" in:name,description local api stars:>10
+- "peloton" in:name,description reverse engineered stars:>5
+- "peloton" in:name,description unofficial stars:>5
+- "peugeot" in:name,description local api stars:>10
+- "peugeot" in:name,description reverse engineered stars:>5
+- "peugeot" in:name,description unofficial stars:>5
+- "philips hue" in:name,description local api stars:>10
+- "philips hue" in:name,description reverse engineered stars:>5
+- "philips hue" in:name,description unofficial stars:>5
+- "playstation" in:name,description local api stars:>10
+- "playstation" in:name,description reverse engineered stars:>5
+- "playstation" in:name,description unofficial stars:>5
+- "polar" in:name,description local api stars:>10
+- "polar" in:name,description reverse engineered stars:>5
+- "polar" in:name,description unofficial stars:>5
+- "polestar" in:name,description local api stars:>10
+- "polestar" in:name,description reverse engineered stars:>5
+- "polestar" in:name,description unofficial stars:>5
+- "porsche" in:name,description local api stars:>10
+- "porsche" in:name,description reverse engineered stars:>5
+- "porsche" in:name,description unofficial stars:>5
+- "prusa" in:name,description local api stars:>10
+- "prusa" in:name,description reverse engineered stars:>5
+- "prusa" in:name,description unofficial stars:>5
+- "razer" in:name,description local api stars:>10
+- "razer" in:name,description reverse engineered stars:>5
+- "razer" in:name,description unofficial stars:>5
+- "remarkable" in:name,description local api stars:>10
+- "remarkable" in:name,description reverse engineered stars:>5
+- "remarkable" in:name,description unofficial stars:>5
+- "renault" in:name,description local api stars:>10
+- "renault" in:name,description reverse engineered stars:>5
+- "renault" in:name,description unofficial stars:>5
+- "ring" in:name,description local api stars:>10
+- "ring" in:name,description reverse engineered stars:>5
+- "ring" in:name,description unofficial stars:>5
+- "roborock" in:name,description local api stars:>10
+- "roborock" in:name,description reverse engineered stars:>5
+- "roborock" in:name,description unofficial stars:>5
+- "samsung" in:name,description local api stars:>10
+- "samsung" in:name,description reverse engineered stars:>5
+- "samsung" in:name,description unofficial stars:>5
+- "segway" in:name,description local api stars:>10
+- "segway" in:name,description reverse engineered stars:>5
+- "segway" in:name,description unofficial stars:>5
+- "shelly" in:name,description local api stars:>10
+- "shelly" in:name,description reverse engineered stars:>5
+- "shelly" in:name,description unofficial stars:>5
+- "siemens" in:name,description local api stars:>10
+- "siemens" in:name,description reverse engineered stars:>5
+- "siemens" in:name,description unofficial stars:>5
+- "skoda" in:name,description local api stars:>10
+- "skoda" in:name,description reverse engineered stars:>5
+- "skoda" in:name,description unofficial stars:>5
+- "solaredge" in:name,description local api stars:>10
+- "solaredge" in:name,description reverse engineered stars:>5
+- "solaredge" in:name,description unofficial stars:>5
+- "sonoff" in:name,description local api stars:>10
+- "sonoff" in:name,description reverse engineered stars:>5
+- "sonoff" in:name,description unofficial stars:>5
+- "sonos" in:name,description local api stars:>10
+- "sonos" in:name,description reverse engineered stars:>5
+- "sonos" in:name,description unofficial stars:>5
+- "sony" in:name,description local api stars:>10
+- "sony" in:name,description reverse engineered stars:>5
+- "sony" in:name,description unofficial stars:>5
+- "spotify" in:name,description local api stars:>10
+- "spotify" in:name,description reverse engineered stars:>5
+- "spotify" in:name,description unofficial stars:>5
+- "steam" in:name,description local api stars:>10
+- "steam" in:name,description reverse engineered stars:>5
+- "steam" in:name,description unofficial stars:>5
+- "steelseries" in:name,description local api stars:>10
+- "steelseries" in:name,description reverse engineered stars:>5
+- "steelseries" in:name,description unofficial stars:>5
+- "sungrow" in:name,description local api stars:>10
+- "sungrow" in:name,description reverse engineered stars:>5
+- "sungrow" in:name,description unofficial stars:>5
+- "suunto" in:name,description local api stars:>10
+- "suunto" in:name,description reverse engineered stars:>5
+- "suunto" in:name,description unofficial stars:>5
+- "switchbot" in:name,description local api stars:>10
+- "switchbot" in:name,description reverse engineered stars:>5
+- "switchbot" in:name,description unofficial stars:>5
+- "tado" in:name,description local api stars:>10
+- "tado" in:name,description reverse engineered stars:>5
+- "tado" in:name,description unofficial stars:>5
+- "tapo" in:name,description local api stars:>10
+- "tapo" in:name,description reverse engineered stars:>5
+- "tapo" in:name,description unofficial stars:>5
+- "tesla" in:name,description local api stars:>10
+- "tesla" in:name,description reverse engineered stars:>5
+- "tesla" in:name,description unofficial stars:>5
+- "tidal" in:name,description local api stars:>10
+- "tidal" in:name,description reverse engineered stars:>5
+- "tidal" in:name,description unofficial stars:>5
+- "toshiba" in:name,description local api stars:>10
+- "toshiba" in:name,description reverse engineered stars:>5
+- "toshiba" in:name,description unofficial stars:>5
+- "toyota" in:name,description local api stars:>10
+- "toyota" in:name,description reverse engineered stars:>5
+- "toyota" in:name,description unofficial stars:>5
+- "tplink" in:name,description local api stars:>10
+- "tplink" in:name,description reverse engineered stars:>5
+- "tplink" in:name,description unofficial stars:>5
+- "tuya" in:name,description local api stars:>10
+- "tuya" in:name,description reverse engineered stars:>5
+- "tuya" in:name,description unofficial stars:>5
+- "vaillant" in:name,description local api stars:>10
+- "vaillant" in:name,description reverse engineered stars:>5
+- "vaillant" in:name,description unofficial stars:>5
+- "victron" in:name,description local api stars:>10
+- "victron" in:name,description reverse engineered stars:>5
+- "victron" in:name,description unofficial stars:>5
+- "viessmann" in:name,description local api stars:>10
+- "viessmann" in:name,description reverse engineered stars:>5
+- "viessmann" in:name,description unofficial stars:>5
+- "volkswagen" in:name,description local api stars:>10
+- "volkswagen" in:name,description reverse engineered stars:>5
+- "volkswagen" in:name,description unofficial stars:>5
+- "volvo" in:name,description local api stars:>10
+- "volvo" in:name,description reverse engineered stars:>5
+- "volvo" in:name,description unofficial stars:>5
+- "wahoo" in:name,description local api stars:>10
+- "wahoo" in:name,description reverse engineered stars:>5
+- "wahoo" in:name,description unofficial stars:>5
+- "whatsapp" in:name,description local api stars:>10
+- "whatsapp" in:name,description reverse engineered stars:>5
+- "whatsapp" in:name,description unofficial stars:>5
+- "whoop" in:name,description local api stars:>10
+- "whoop" in:name,description reverse engineered stars:>5
+- "whoop" in:name,description unofficial stars:>5
+- "withings" in:name,description local api stars:>10
+- "withings" in:name,description reverse engineered stars:>5
+- "withings" in:name,description unofficial stars:>5
+- "wyze" in:name,description local api stars:>10
+- "wyze" in:name,description reverse engineered stars:>5
+- "wyze" in:name,description unofficial stars:>5
+- "xbox" in:name,description local api stars:>10
+- "xbox" in:name,description reverse engineered stars:>5
+- "xbox" in:name,description unofficial stars:>5
+- "xiaomi scooter" in:name,description local api stars:>10
+- "xiaomi scooter" in:name,description reverse engineered stars:>5
+- "xiaomi scooter" in:name,description unofficial stars:>5
+- "xiaomi" in:name,description local api stars:>10
+- "xiaomi" in:name,description reverse engineered stars:>5
+- "xiaomi" in:name,description unofficial stars:>5
+- "yeelight" in:name,description local api stars:>10
+- "yeelight" in:name,description reverse engineered stars:>5
+- "yeelight" in:name,description unofficial stars:>5
+- "youtube music" in:name,description local api stars:>10
+- "youtube music" in:name,description reverse engineered stars:>5
+- "youtube music" in:name,description unofficial stars:>5
+- "zwift" in:name,description local api stars:>10
+- "zwift" in:name,description reverse engineered stars:>5
+- "zwift" in:name,description unofficial stars:>5
+- topic:anker stars:>10
+- topic:anycubic stars:>10
+- topic:apple-music stars:>10
+- topic:aqara stars:>10
+- topic:arlo stars:>10
+- topic:audi stars:>10
+- topic:bambulab stars:>10
+- topic:bluetti stars:>10
+- topic:bmw stars:>10
+- topic:boox stars:>10
+- topic:bosch stars:>10
+- topic:bose stars:>10
+- topic:broadlink stars:>10
+- topic:byd stars:>10
+- topic:canon stars:>10
+- topic:corsair stars:>10
+- topic:creality stars:>10
+- topic:daikin stars:>10
+- topic:deezer stars:>10
+- topic:dji stars:>10
+- topic:dreame stars:>10
+- topic:dyson stars:>10
+- topic:ecobee stars:>10
+- topic:ecoflow stars:>10
+- topic:ecovacs stars:>10
+- topic:elegoo stars:>10
+- topic:elgato stars:>10
+- topic:enphase stars:>10
+- topic:eufy stars:>10
+- topic:fitbit stars:>10
+- topic:ford stars:>10
+- topic:fujifilm stars:>10
+- topic:fujitsu stars:>10
+- topic:garmin stars:>10
+- topic:goodwe stars:>10
+- topic:gopro stars:>10
+- topic:govee stars:>10
+- topic:gree stars:>10
+- topic:growatt stars:>10
+- topic:haier stars:>10
+- topic:huawei stars:>10
+- topic:hyundai stars:>10
+- topic:ikea stars:>10
+- topic:insta360 stars:>10
+- topic:kasa stars:>10
+- topic:kia stars:>10
+- topic:kindle stars:>10
+- topic:kobo stars:>10
+- topic:lg stars:>10
+- topic:logitech stars:>10
+- topic:mercedes stars:>10
+- topic:meross stars:>10
+- topic:midea stars:>10
+- topic:miele stars:>10
+- topic:mitsubishi stars:>10
+- topic:nest stars:>10
+- topic:netatmo stars:>10
+- topic:nikon stars:>10
+- topic:nintendo stars:>10
+- topic:nissan stars:>10
+- topic:niu stars:>10
+- topic:oura stars:>10
+- topic:panasonic stars:>10
+- topic:peloton stars:>10
+- topic:peugeot stars:>10
+- topic:philips-hue stars:>10
+- topic:playstation stars:>10
+- topic:polar stars:>10
+- topic:polestar stars:>10
+- topic:porsche stars:>10
+- topic:prusa stars:>10
+- topic:razer stars:>10
+- topic:remarkable stars:>10
+- topic:renault stars:>10
+- topic:ring stars:>10
+- topic:roborock stars:>10
+- topic:samsung stars:>10
+- topic:segway stars:>10
+- topic:shelly stars:>10
+- topic:siemens stars:>10
+- topic:skoda stars:>10
+- topic:solaredge stars:>10
+- topic:sonoff stars:>10
+- topic:sonos stars:>10
+- topic:sony stars:>10
+- topic:spotify stars:>10
+- topic:steam stars:>10
+- topic:steelseries stars:>10
+- topic:sungrow stars:>10
+- topic:suunto stars:>10
+- topic:switchbot stars:>10
+- topic:tado stars:>10
+- topic:tapo stars:>10
+- topic:tesla stars:>10
+- topic:tidal stars:>10
+- topic:toshiba stars:>10
+- topic:toyota stars:>10
+- topic:tplink stars:>10
+- topic:tuya stars:>10
+- topic:vaillant stars:>10
+- topic:victron stars:>10
+- topic:viessmann stars:>10
+- topic:volkswagen stars:>10
+- topic:volvo stars:>10
+- topic:wahoo stars:>10
+- topic:whatsapp stars:>10
+- topic:whoop stars:>10
+- topic:withings stars:>10
+- topic:wyze stars:>10
+- topic:xbox stars:>10
+- topic:xiaomi stars:>10
+- topic:xiaomi-scooter stars:>10
+- topic:yeelight stars:>10
+- topic:youtube-music stars:>10
+- topic:zwift stars:>10

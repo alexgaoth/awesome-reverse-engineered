@@ -1,10 +1,10 @@
 # Online Service Revivals
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 169 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 173 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (36)
+- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (40)
 - [Kids' MMOs & Flash Worlds](#kids-mmos--flash-worlds) (23)
 - [Messengers](#messengers) (5)
 - [Nintendo Online](#nintendo-online) (66)
@@ -18,12 +18,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,878 | 🟢 | JavaScript |
 | [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,372 | 🟢 | C++ |
 | [wire-pod](https://github.com/kercre123/wire-pod) | Free local server that replaces the cloud services of the Anki Vector robot | 829 | 🟢 | Go |
+| [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 409 | 🟢 | Rust |
 | [harmony-api](https://github.com/maddox/harmony-api) | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | 🔴 | JavaScript |
 | [PyCozmo](https://github.com/zayfod/pycozmo) | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 238 | 🔴 | Python |
 | [Slinger](https://github.com/GerryDazoo/Slinger) | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 202 | 🟡 | Python |
 | [open-pocket](https://github.com/open-pocket/open-pocket) | Clean-room open-source implementation of the discontinued Pocket service | 189 | 🟡 |  |
 | [pynab](https://github.com/nabaztag2018/pynab) | Python software that revives Nabaztag rabbits with a Raspberry Pi board | 174 | 🟡 | Python |
 | [eyefiserver2](https://github.com/dgrant/eyefiserver2) | Standalone Eye-Fi server that replaces the shut-down Eye-Fi cloud for Wi-Fi SD cards | 150 | 🔴 | Python |
+| [simple-sonoff-server](https://github.com/mdopp/simple-sonoff-server) | Emulates the Sonoff cloud servers on the local network | 144 | 🔴 | JavaScript |
 | [OpenJabNab](https://github.com/OpenJabNab/OpenJabNab) | PHP/C++ server that replaces the shut-down Nabaztag/Tag rabbit cloud | 127 | 🔴 | C++ |
 | [Vector source](https://github.com/digital-dream-labs/vector) | Released source of the Anki Vector robot firmware, published after Anki's shutdown | 119 | 🔴 | C++ |
 | [EchoRelay](https://github.com/Xenomega/EchoRelay) | Reimplementation of Echo VR web services and dedicated server | 99 | 🗄️ | C# |
@@ -38,8 +40,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [libmtp-zune](https://github.com/kbhomes/libmtp-zune) | libmtp patches that add support for Microsoft Zune players | 43 | 🔴 | C |
 | [vector-cloud](https://github.com/digital-dream-labs/vector-cloud) | Released cloud-side code for the Anki Vector robot | 36 | 🔴 | Go |
 | [Escape Pod extension](https://github.com/digital-dream-labs/escape-pod-extension) | Extension SDK for Escape Pod, the local server for the Anki Vector robot | 33 | 🔴 | C# |
+| [homeassistant-bose-soundtouch-bridge](https://github.com/sandervg/homeassistant-bose-soundtouch-bridge) | Revives physical preset buttons on Bose SoundTouch speakers after the cloud shutdown | 26 | 🟢 | Python |
 | [vector-go-sdk](https://github.com/digital-dream-labs/vector-go-sdk) | Go SDK for the Anki Vector robot released after Anki's shutdown | 20 | 🔴 | Go |
 | [Prodigy Reloaded](https://github.com/ProdigyReloaded/delivery-system) | Reimplemented server side of the 1990s Prodigy online service for its original DOS client | 15 | 🟢 | Elixir |
+| [Sonoff-Server](https://github.com/SideCodeIO/Sonoff-Server) | Private self-hosted Sonoff cloud server in Node.js | 14 | 🔴 | JavaScript |
 | [Zurk's offline Chumby firmware](https://github.com/francistheodorecatte/zurks-offline-firmware-classic) | Offline firmware that keeps the classic Chumby working without its cloud service | 10 | 🔴 | Perl |
 | [webOS Community Edition](https://github.com/webOSArchive/webOS-Community-Edition) | Community-maintained new release of legacy Palm/HP webOS for old devices | 9 | 🟢 | JavaScript |
 | [JiboAutoMod](https://github.com/Jibo-Revival-Group/JiboAutoMod) | Modding software from the Jibo Revival Group to keep the Jibo robot working | 6 | 🟢 | Python |

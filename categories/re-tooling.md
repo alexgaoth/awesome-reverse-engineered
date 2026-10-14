@@ -1,13 +1,13 @@
 # RE Tooling
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=re-tooling) · 737 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=re-tooling) · 742 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AI-assisted RE](#ai-assisted-re) (71)
 - [Binary & Format Analysis](#binary--format-analysis) (95)
 - [Decompilation Project Tooling](#decompilation-project-tooling) (68)
-- [Disassemblers & Decompilers](#disassemblers--decompilers) (265)
+- [Disassemblers & Decompilers](#disassemblers--decompilers) (270)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (73)
 - [Mobile RE](#mobile-re) (111)
 - [Other](#other) (16)
@@ -396,6 +396,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [classinformer-ida7](https://github.com/rcx/classinformer-ida7) | ClassInformer RTTI plugin backported for IDA Pro 7 | 354 | 🔴 | C++ |
 | [IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) | IDA ClassInformer plugin for MSVC RTTI and vftables | 350 | 🟢 | C++ |
 | [abyss](https://github.com/patois/abyss) | Augments Hex-Rays decompiler output | 349 | 🔴 | Python |
+| [DiztinGUIsh](https://github.com/DizTools/DiztinGUIsh) | Super NES ROM disassembler | 342 | 🟢 | C# |
 | [ida-minsc](https://github.com/arizvisa/ida-minsc) | Functional DWIM IDAPython plugin | 335 | 🟢 | Python |
 | [d810](https://github.com/joydo/d810) | IDA Pro plugin to deobfuscate code at decompilation time | 333 | 🟡 | Python |
 | [microavx](https://github.com/gaasedelen/microavx) | AVX lifter for the Hex-Rays decompiler | 331 | 🔴 | Python |
@@ -419,6 +420,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [dewolf](https://github.com/fkie-cad/dewolf) | Research decompiler implemented as a Binary Ninja plugin | 236 | 🟢 | Python |
 | [abi-decompiler](https://github.com/Decurity/abi-decompiler) | Ethereum EVM smart contract ABI recovery helper | 231 | 🔴 | C |
 | [FunctionInliner](https://github.com/cellebrite-labs/FunctionInliner) | An IDA plugin that eases reversing of binaries that have been code-size-optimized with function outlining | 230 | 🟡 | C |
+| [NTRGhidra](https://github.com/pedro-javierf/NTRGhidra) | Nintendo DS binary loader for Ghidra | 228 | 🟢 | Java |
 | [ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker) | Cross-platform IDA Pro 9 signature maker plugin | 226 | 🟢 | Python |
 | [holodec](https://github.com/Cararasu/holodec) | Decompiler for x86 and x86-64 ELF binaries | 220 | 🔴 | C++ |
 | [idaxex](https://github.com/emoose/idaxex) | XEX/XBE loader plugin for IDA supporting Xbox and Xbox 360 executables | 215 | 🟢 | C++ |
@@ -516,6 +518,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [IDR](https://github.com/tmcdos/IDR) | Interactive Delphi Reconstructor (Pascal version) | 54 | 🔴 | Pascal |
 | [gm81decompiler](https://github.com/WastedMeerkat/gm81decompiler) | GameMaker 8.1 decompiler | 51 | 🔴 | C++ |
 | [PbdViewer](https://github.com/Hucxy/PbdViewer) | Decompiler and viewer for PowerBuilder PBD/PBL libraries | 50 | 🟢 | C# |
+| [ghidra-fr60](https://github.com/desrdev/ghidra-fr60) | Ghidra processor plugin for Fujitsu FR60 CPUs, focused on the Sony PSX DVR MB91302A | 44 | 🟢 | Java |
 | [ida-swarm](https://github.com/shells-above/ida-swarm) | Multi-agent AI system for automated reverse engineering in IDA | 41 | 🟢 | C++ |
 | [binja_kc](https://github.com/skr0x1c0/binja_kc) | Plugin for loading MachO kernelcache and dSYM files to Binary Ninja | 39 | 🟡 | C++ |
 | [r2unity](https://github.com/radareorg/r2unity) | Reverse engineer Unity games with radare2 | 38 | 🟢 | C |
@@ -525,6 +528,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BinaryNinja-PSVitaLoader](https://github.com/computerman00/BinaryNinja-PSVitaLoader) | PS Vita ELF/PRX2 loader plugin with symbol resolution for Binary Ninja | 21 | 🟡 | Python |
 | [hexpyrion](https://github.com/DimaReverse/hexpyrion) | Static source recovery for Nuitka-compiled Python binaries | 19 | 🟢 | Python |
 | [jscd](https://github.com/ejfkdev/jscd) | Static Rust decompiler from bytenode .jsc (V8 code cache) back to JavaScript | 19 | 🟢 | Rust |
+| [GhidraGarminApp](https://github.com/anvilsecure/GhidraGarminApp) | Ghidra processor and loader for Garmin Connect IQ watch applications | 13 | 🟢 | HTML |
+| [f2mc8dasm](https://github.com/mnaberez/f2mc8dasm) | Disassembler for Cypress (Fujitsu) F2MC-8 microcontrollers | 12 | 🟢 | Python |
 | [tonguetwister](https://github.com/lham/tonguetwister) | Macromedia Director file disassembler, Lingo decompiler and format documentation | 12 | 🔴 | Python |
 | [visualbasic-rs](https://github.com/ATRAPSLLC/visualbasic-rs) | Rust library to parse and inspect compiled Visual Basic 6 binaries | 2 | 🟢 | Rust |
 | [dzasm](https://gitlab.com/b4works/dzasm) | Reverse engineering tool for Z80 executable binaries |  | ⚪ |  |

@@ -1,22 +1,22 @@
 # File Formats
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 425 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 435 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Audio & Music Production](#audio--music-production) (38)
-- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (22)
+- [Audio & Music Production](#audio--music-production) (40)
+- [Camera RAW & Video Metadata](#camera-raw--video-metadata) (25)
 - [Databases](#databases) (27)
 - [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (21)
 - [E-books](#e-books) (9)
 - [EDA & PCB](#eda--pcb) (13)
-- [Filesystems & Archives](#filesystems--archives) (47)
+- [Filesystems & Archives](#filesystems--archives) (48)
 - [Format Description Tools](#format-description-tools) (22)
 - [Graphics & CAD](#graphics--cad) (52)
-- [Maps & GIS](#maps--gis) (19)
-- [Media Codecs & Containers](#media-codecs--containers) (9)
+- [Maps & GIS](#maps--gis) (20)
+- [Media Codecs & Containers](#media-codecs--containers) (10)
 - [Office & Documents](#office--documents) (73)
-- [Other](#other) (5)
+- [Other](#other) (7)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (68)
 
 ## Audio & Music Production
@@ -37,6 +37,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ptformat](https://github.com/zamaudio/ptformat) | Parser for Avid Pro Tools session files, used by Ardour for import | 94 | 🟢 | C++ |
 | [serato-tags](https://github.com/Holzhaus/serato-tags) | Documentation and parsers for Serato DJ Pro GEOB metadata tags | 93 | 🔴 | Python |
 | [parse-gp5](https://github.com/juliangruber/parse-gp5) | JavaScript parser for the Guitar Pro 5 file format | 67 | 🔴 | JavaScript |
+| [BZRPlayer](https://github.com/aargirakis/BZRPlayer) | Audio player supporting many exotic multi-platform game and tracker music formats | 60 | 🟢 | C |
 | [TraktorMappingFileFormat](https://github.com/ivanz/TraktorMappingFileFormat) | Reverse engineered Traktor Pro .tsi controller mapping file format | 57 | 🔴 |  |
 | [GuitarPro-to-Midi](https://github.com/alexsteb/GuitarPro-to-Midi) | Converts Guitar Pro 3-7 files to MIDI, simulating bends and effects | 55 | 🟡 | C# |
 | [guitarpro (Rust)](https://github.com/slundi/guitarpro) | Rust library to parse and write Guitar Pro files | 50 | 🟢 | Rust |
@@ -55,6 +56,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [snd2wav](https://github.com/uliwitness/snd2wav) | Converts classic Mac OS 'snd ' resources and System 7 sound files to WAV | 8 | 🔴 | C++ |
 | [logicx-analyzer](https://github.com/geoffmyers/logicx-analyzer) | Reverse-engineering toolkit for Logic Pro .logicx project bundles | 7 | 🟢 | Python |
 | [python-serato-crates](https://github.com/stephanlensky/python-serato-crates) | Python library for reading and writing Serato DJ crates | 7 | 🟡 | Python |
+| [sexypsf](https://github.com/CoreDumpling/sexypsf) | PlayStation Sound Format (PSF) player with unofficial patches | 7 | 🔴 | C |
 | [biab-library](https://github.com/andreamust/biab-library) | Python library for opening Band-in-a-Box song files | 6 | 🟢 | C++ |
 | [musxdom](https://github.com/openmusx/musxdom) | C++17 object model for the EnigmaXML data inside Finale .musx files | 6 | 🟢 | C++ |
 | [AKAI-CD-ISO-MAKER](https://github.com/yuyoi/AKAI-CD-ISO-MAKER) | Builds, reads and exports Akai S1000/S2000/S3000 sampler CD images | 2 | 🟢 | Python |
@@ -75,13 +77,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [canon_cr3](https://github.com/lclevy/canon_cr3) | Reverse-engineered description of the Canon CR3 RAW file format | 329 | 🟢 | Python |
 | [gopro-utils](https://github.com/stilldavid/gopro-utils) | Tools to parse GPMF metadata from GoPro cameras | 255 | 🟡 | Go |
 | [dji-log-parser](https://github.com/lvauvillier/dji-log-parser) | Rust library that parses records from DJI flight log .txt files | 124 | 🟡 | Rust |
+| [thermal_parser](https://github.com/SanNianYiSi/thermal_parser) | Parser for FLIR and DJI infrared camera radiometric image data | 106 | 🟡 | Python |
 | [x3f tools](https://github.com/Kalpanika/x3f) | Tools for decoding Sigma/Foveon X3F RAW files | 103 | 🟡 | C |
 | [libcraw2](https://github.com/lclevy/libcraw2) | Minimal library that decodes Canon CR2 RAW files, with format notes | 102 | 🔴 | C |
 | [pyavb](https://github.com/markreidvfx/pyavb) | Reads and writes Avid Media Composer bin (.avb) files | 77 | 🟡 | Python |
 | [DJI_SRT_Parser](https://github.com/JuanIrache/DJI_SRT_Parser) | Parses telemetry from DJI drone SRT metadata files | 55 | 🟡 | JavaScript |
+| [xavc_rtmd2srt](https://github.com/SK-Hardwired/xavc_rtmd2srt) | Extracts real-time metadata and GPS tracks from Sony XAVC video files | 48 | 🔴 | Python |
 | [DatCon](https://github.com/BudWalkerJava/DatCon) | Converts DJI drone .DAT flight logs to CSV and KML | 32 | 🔴 | Java |
 | [blackclue](https://github.com/gandy92/blackclue) | Extracts GPS and accelerometer data from BlackVue dashcam MP4 recordings | 18 | 🟡 | Python |
 | [djiLogParser](https://github.com/shaofanqi/djiLogParser) | Python parser for DJI drone flight logs | 18 | 🔴 | Python |
+| [nikon-flexible-color-picture-control](https://github.com/ssssota/nikon-flexible-color-picture-control) | Reads and writes Nikon Flexible Color Picture Control (NP3) files | 18 | 🟢 | TypeScript |
 | [flighttrack](https://github.com/lvauvillier/flighttrack) | Simple viewer for DJI flight logs | 14 | 🔴 | JavaScript |
 | [quicklook_d411](https://github.com/sheepdoll/quicklook_d411) | QuickLook plugin that previews Sony Mavica .411 thumbnail images | 4 | 🔴 | Objective-C |
 | [insvtool](https://github.com/ke4ukz/insvtool) | Dumps metadata from Insta360 .insv video files | 1 | 🟢 | Python |
@@ -202,6 +207,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [dtformats](https://github.com/libyal/dtformats) | Collection of data formats | 201 | 🟢 | Python |
 | [libfsrefs](https://github.com/libyal/libfsrefs) | Library and tools to access Microsoft ReFS | 200 | 🟢 | C |
 | [vpk](https://github.com/ValvePython/vpk) | Open, search, extract and create Valve VPK archives in Python | 191 | 🔴 | Python |
+| [fatx](https://github.com/XboxDev/fatx) | Original Xbox FATX filesystem library with Python bindings, FUSE driver and GUI | 181 | 🟢 | C |
 | [AmiFUSE](https://github.com/reinauer/AmiFUSE) | Native Amiga filesystems on macOS, Linux and Windows via FUSE | 152 | 🟢 | Python |
 | [libregf](https://github.com/libyal/libregf) | Library and tools for the Windows NT Registry file (REGF) format | 142 | 🟢 | C |
 | [XADMaster](https://github.com/MacPaw/XADMaster) | Unarchiver engine supporting StuffIt, DiskDoubler, Compact Pro and many legacy archive formats | 135 | 🟢 | C |
@@ -328,6 +334,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gimgtools](https://github.com/wuyongzheng/gimgtools) | Tools to inspect, split, merge and unlock-free extract Garmin IMG map files | 91 | 🔴 | C |
 | [Androzic](https://github.com/andreynovikov/Androzic) | Android navigation app that reads OziExplorer ozf2/ozfx3 raster maps | 54 | 🔴 | Java |
 | [mkgmap](https://github.com/openstreetmap/mkgmap) | Compiler that writes Garmin .img maps from OpenStreetMap data (reverse-engineered format) | 48 | 🔴 | Java |
+| [qdc-converter](https://github.com/interlark/qdc-converter) | Converter for Garmin QuickDraw Contours (QDC) files to CSV tables and GRD rasters | 17 | 🔴 | Python |
 | [python-sllib](https://github.com/opensounder/python-sllib) | Python library for reading Lowrance SL2, SL3 and SLG sonar logs | 16 | 🔴 | Python |
 | [sl2decode](https://github.com/Chris78/sl2decode) | Decodes Lowrance SL2 sonar log files with Ruby | 10 | 🔴 | Ruby |
 | [imgdecode-mb](https://github.com/burto/imgdecode-mb) | Decoder for Garmin IMG map files, derived from imgdecode | 5 | 🔴 | C++ |
@@ -347,6 +354,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenJOC](https://github.com/chyinan/OpenJOC) | Independent clean-room E-AC-3 JOC decoder in Rust, with OAMD metadata and reconstruction-basis decoding. | 230 | 🟢 | Rust |
 | [openaptx](https://github.com/arkq/openaptx) | Reverse engineered aptX and aptX HD audio codec | 165 | 🟢 | C |
 | [MQA_identifier](https://github.com/purpl3F0x/MQA_identifier) | Tool to identify MQA encoded audio via codec reverse engineering | 139 | 🟢 | C++ |
+| [samsung-ssc-reversed](https://github.com/Vinchethescript/samsung-ssc-reversed) | Partial reverse engineering of the Samsung Seamless Codec (SSC) Bluetooth audio codec | 10 | 🟡 | C |
 | [libbluray](https://code.videolan.org/videolan/libbluray) | Library for Blu-ray disc navigation, playlists and menus |  | ⚪ |  |
 | [libdvdnav](https://code.videolan.org/videolan/libdvdnav) | Library for DVD-Video menu navigation |  | ⚪ |  |
 | [libdvdread](https://code.videolan.org/videolan/libdvdread) | Library for reading DVD-Video discs and IFO structures |  | ⚪ |  |
@@ -438,6 +446,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [capcut-cli](https://github.com/renezander030/capcut-cli) | Unofficial CLI to edit CapCut and JianYing project files | 889 | 🟢 | JavaScript |
 | [pylabview](https://github.com/mefistotelis/pylabview) | Python reader of LabVIEW RSRC files (VI, CTL, LLB) | 163 | 🟢 | Python |
 | [pka2xml](https://github.com/mircodz/pka2xml) | Converts Cisco Packet Tracer .pka/.pkt files to XML | 78 | 🔴 | C++ |
+| [WinCCflexLogViewer](https://github.com/yuriqdev/WinCCflexLogViewer) | Viewer and parser for WinCC Flexible and TIA Portal data log files | 31 | 🔴 | C# |
+| [SBU-Extractor](https://github.com/Luncher91/SBU-Extractor) | Exports data from Samsung KIES backup (SBU) files | 21 | 🔴 | C# |
 | [KItinerary](https://invent.kde.org/pim/kitinerary) | Extracts travel data from airline, rail and event tickets, including proprietary barcode formats |  | ⚪ |  |
 | [perception-pnrf](https://codeberg.org/Apollo3zehn/perception-pnrf) | Reverse-engineered specification and parser for HBK Perception PNRF measurement files |  | ⚪ |  |
 

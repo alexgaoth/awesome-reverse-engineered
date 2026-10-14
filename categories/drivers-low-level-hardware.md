@@ -1,19 +1,19 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 415 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 432 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Apple Silicon (Asahi)](#apple-silicon-asahi) (19)
 - [Drawing Tablets & Input](#drawing-tablets--input) (16)
-- [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (19)
+- [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (20)
 - [GPU Drivers](#gpu-drivers) (31)
-- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (83)
-- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (33)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (80)
-- [Laptop EC & Peripherals](#laptop-ec--peripherals) (77)
-- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (37)
-- [Wi-Fi & Radios](#wi-fi--radios) (20)
+- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (84)
+- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (41)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (83)
+- [Laptop EC & Peripherals](#laptop-ec--peripherals) (78)
+- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (39)
+- [Wi-Fi & Radios](#wi-fi--radios) (21)
 
 ## Apple Silicon (Asahi)
 
@@ -78,6 +78,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [coreboot-configurator](https://github.com/StarLabsLtd/coreboot-configurator) | GUI to change coreboot CBFS settings via nvramtool | 102 | 🔴 | C++ |
 | [MrChromebox firmware](https://github.com/MrChromebox/firmware) | Issue tracker for MrChromebox coreboot-based UEFI firmware for Chromebooks | 99 | 🟢 |  |
 | [x210](https://github.com/harrykipper/x210) | Patches, mods and docs for the 51nb X210 ThinkPad-derived board | 41 | 🔴 |  |
+| [isfl](https://github.com/tomreyn/isfl) | Insyde Software UEFI firmware flashing kernel driver | 37 | 🔴 | C |
 | [bootguard-status](https://github.com/felixsinger/bootguard-status) | List of mainboards and their Intel Boot Guard status for coreboot porting | 33 | 🟢 | HTML |
 | [mmga](https://github.com/gch1p/mmga) | Flash coreboot on MacBooks without an external SPI programmer | 32 | 🗄️ | Shell |
 | [intel_ma](https://github.com/seuros/intel_ma) | Inspect Intel ME/TXE/CSME management firmware images | 14 | 🟢 | Rust |
@@ -141,6 +142,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [asus-numberpad-driver](https://github.com/asus-linux-drivers/asus-numberpad-driver) | Linux driver for the illuminated NumberPad touchpad on ASUS laptops | 449 | 🟢 | Python |
 | [steam-deck-windows-usermode-driver](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver) | Windows usermode driver for the Steam Deck's built-in controller | 438 | 🗄️ | C# |
 | [OmenMon](https://github.com/OmenMon/OmenMon) | HP Omen fan, temperature and backlight control via WMI BIOS and EC, replacing Omen Gaming Hub | 407 | 🟡 | C# |
+| [razer-blade-stealth-linux](https://github.com/rolandguelle/razer-blade-stealth-linux) | Guide and fixes for running Linux on the Razer Blade Stealth and Razer Core | 404 | 🔴 | Shell |
 | [asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) | Fan control for ASUS laptops on Linux via ACPI calls | 392 | 🟢 | Shell |
 | [atrofac](https://github.com/cronosun/atrofac) | Library and CLI to control ASUS ROG power plans and fan curves without Armoury Crate | 357 | 🔴 | Rust |
 | [razer-laptop-control](https://github.com/rnd-ash/razer-laptop-control) | Driver and software to control fan and performance modes of Razer Blade laptops on Linux | 347 | 🗄️ | Rust |
@@ -227,6 +229,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [HyperHeadset](https://github.com/LennardKittner/HyperHeadset) | CLI and tray app to monitor and manage HyperX Cloud II and Stinger headsets on Linux/macOS | 128 | 🟢 | Rust |
 | [Ozzy](https://github.com/mischa85/Ozzy) | Driver for Ploytec-based USB audio interfaces | 114 | 🟢 | C++ |
 | [QuadcastRGB](https://github.com/Ors1mer/QuadcastRGB) | Set RGB lights on HyperX QuadCast S and DuoCast microphones on Linux | 108 | 🟢 | C |
+| [pseyepy](https://github.com/bensondaled/pseyepy) | Python interface to the Sony PS3 Eye camera | 97 | 🟢 | C |
 | [MixiD](https://github.com/TheOnlyJoey/MixiD) | Unofficial Linux control panel for Audient iD interfaces using a reverse engineered USB protocol | 85 | 🟢 | C++ |
 | [arctis-battery-percentage](https://github.com/atagulalan/arctis-battery-percentage) | Shows SteelSeries Arctis wireless headset battery as a notification | 69 | 🗄️ | JavaScript |
 | [Open Apollo](https://github.com/rolotrealanis98/open-apollo) | Clean-room reverse engineered Linux driver for Universal Audio Apollo Thunderbolt interfaces | 69 | 🟢 | C |
@@ -235,12 +238,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ggoled](https://github.com/JerwuQu/ggoled) | OLED integration for the SteelSeries Arctis Nova Pro base station without GG | 56 | 🟢 | Rust |
 | [HyperX-Cloud-2-Battery-Monitor](https://github.com/auto94/HyperX-Cloud-2-Battery-Monitor) | Battery monitor for HyperX Cloud II, III and Alpha wireless headsets | 54 | 🟢 | C++ |
 | [nova-chatmix-linux](https://github.com/Dymstro/nova-chatmix-linux) | ChatMix support for the SteelSeries Arctis Nova Pro Wireless on Linux | 51 | 🟡 | Python |
+| [elgato4k60sp-linux](https://github.com/Saddytech/elgato4k60sp-linux) | Unofficial Linux kernel driver for the Elgato Game Capture 4K60 S+ | 46 | 🟢 | C |
 | [hyperx-cloud-flight-wireless](https://github.com/srn/hyperx-cloud-flight-wireless) | Reverse engineered Node module for HyperX Cloud Flight Wireless battery and mute events | 46 | 🔴 | JavaScript |
 | [sonar-rev](https://github.com/wex/sonar-rev) | Reverse engineering notes and client for the SteelSeries GG Sonar local API | 46 | 🟡 | C# |
+| [steelseries-arctis-5-pulseaudio-profile](https://github.com/DemonTPx/steelseries-arctis-5-pulseaudio-profile) | PulseAudio profile for the SteelSeries Arctis 5 headset | 43 | 🔴 | Makefile |
 | [hyperx-cloud-flight](https://github.com/kondinskis/hyperx-cloud-flight) | Tray app showing battery level of the HyperX Cloud Flight Wireless headset on Linux | 42 | 🟡 | Rust |
 | [soundblaster-x-g6-cli](https://github.com/nils-skowasch/soundblaster-x-g6-cli) | Python CLI to control the Creative Sound BlasterX G6 DAC settings on Linux | 33 | 🟢 | Python |
+| [C920e](https://github.com/MavChtz/C920e) | Enables or disables the microphone on Logitech C920e/C925e webcams on Linux | 31 | 🟡 | Python |
 | [Linux-Arctis-7-Plus-ChatMix](https://github.com/awth13/Linux-Arctis-7-Plus-ChatMix) | ChatMix workaround for the SteelSeries Arctis 7+ on Linux without GG | 26 | 🟢 | Python |
+| [razer-nari-pairing](https://github.com/juanjodarko/razer-nari-pairing) | Open-source tool to pair Razer Nari headsets with USB dongles on Linux | 26 | 🟢 | Python |
+| [elgato-cam-link-4k-firmware-re](https://github.com/schlarpc/elgato-cam-link-4k-firmware-re) | Firmware reverse engineering of the Elgato Cam Link 4K: vendor HID protocol and SPI flash layout | 22 | 🟢 | Python |
 | [steelseries-wireless-battery-tray](https://github.com/mtadin/steelseries-wireless-battery-tray) | Tray app showing battery of SteelSeries wireless headsets | 21 | 🟢 | Go |
+| [arctis7_controls](https://github.com/trevarj/arctis7_controls) | Controls for the SteelSeries Arctis 7 wireless headset in Rust or Python | 19 | 🟡 | Rust |
+| [SteelSeries-NET-API](https://github.com/DataNext27/SteelSeries-NET-API) | Unofficial .NET library for the SteelSeries Sonar local API | 7 | 🟢 | C# |
 | [corsair-void-driver](https://github.com/stuarthayhurst/corsair-void-driver) | Linux kernel driver for Corsair Void headsets: battery, sidetone, mic status (upstreamed 6.13) | 6 | 🟢 | C |
 | [hyperx-cloud-II-battery](https://github.com/Agustin-Jerusalinsky/hyperx-cloud-II-battery) | Reads HyperX Cloud II wireless headset battery level over hidraw | 6 | 🔴 | Python |
 | [ps4cam-linux](https://sr.ht/~mks-h/ps4cam-linux/) | Linux driver for the PlayStation 4 Camera |  | ⚪ |  |
@@ -284,6 +294,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Dokit](https://github.com/pcolby/dokit) | Cross-platform library and apps for Pokit Bluetooth measuring devices | 75 | 🟢 | C++ |
 | [Riden](https://github.com/ShayBox/Riden) | Python library for Riden RD series power supplies | 74 | 🟡 | Python |
 | [thermal-cat](https://github.com/alufers/thermal-cat) | Cross-platform viewer app for the InfiRay P2 Pro thermal camera | 74 | 🟢 | Rust |
+| [BOSCH-GLM-rangefinder](https://github.com/philipptrenz/BOSCH-GLM-rangefinder) | Remote control of the Bosch GLM 100C rangefinder over its Bluetooth serial interface | 67 | 🗄️ | Python |
 | [lnDSO150](https://github.com/mean00/lnDSO150) | Alternative firmware for the DSO150 shell oscilloscope | 67 | 🟢 | C++ |
 | [HP34401a-OLED-FW](https://github.com/openscopeproject/HP34401a-OLED-FW) | OLED display mod firmware for the HP 34401A multimeter | 66 | 🟢 | C++ |
 | [121gw-re](https://github.com/tpwrules/121gw-re) | Reverse engineering the EEVblog 121GW multimeter | 64 | 🔴 | C |
@@ -325,9 +336,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [infiray_irg](https://github.com/jaseg/infiray_irg) | Python module to read InfiRay C200/P200 IRG thermal image files | 18 | 🟢 | Python |
 | [idso1070-protocol](https://github.com/hhornbacher/idso1070-protocol) | Reverse engineered protocol for the Hantek iDSO1070 Wi-Fi oscilloscope | 17 | 🗄️ | C++ |
 | [OpenP3](https://github.com/Phalphy/OpenP3) | Unofficial Linux driver for the Thermal Master P3 thermal camera | 17 | 🟢 | Python |
+| [QtDMM](https://github.com/qtdmm/QtDMM) | Reads, plots and logs digital multimeters over their serial protocols | 17 | 🟢 | C++ |
 | [victor70c](https://github.com/mvneves/victor70c) | Victor 70C multimeter software for Linux | 17 | 🔴 | C |
 | [owon_hds200](https://github.com/qwindelzorf/owon_hds200) | Python interface to OWON HDS200 handheld oscilloscopes | 16 | 🔴 | Python |
 | [dl24](https://github.com/tshaddack/dl24) | Python control for Atorch DL24P and other electronic loads | 14 | 🟡 | Python |
+| [nikon](https://github.com/slietar/nikon) | Python control of the Nikon Ti2-E microscope through its reverse-engineered USB protocol | 6 | 🟡 | Python |
 | [minipro-rs](https://gitlab.com/arcturus8081/minipro-rs) | Rust reimplementation of minipro for XGecu TL866/T48/T56/T76 chip programmers |  | ⚪ |  |
 | [pockethernet-protocol](https://gitlab.com/MartijnBraam/pockethernet-protocol) | Reverse engineering of the Pockethernet Bluetooth protocol so third-party apps can be written |  | ⚪ |  |
 
@@ -398,6 +411,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [qc71_laptop](https://github.com/pobrn/qc71_laptop) | Linux driver for QC71-based (Tongfang/XMG/Eluktronics) laptop EC features | 40 | 🟡 | C |
 | [MsiEcRamEditor](https://github.com/timschneeb/MsiEcRamEditor) | Edit and dump MSI laptop EC RAM via ACPI-WMI | 25 | 🔴 | C# |
 | [OpenInputBridge](https://github.com/Applet-LLC/OpenInputBridge) | Clean-room, protocol-compatible reimplementation of the Interception keyboard/mouse driver | 25 | 🟢 | C++ |
+| [samsung-galaxy-book5-linux-drivers](https://github.com/PsychoPunkSage/samsung-galaxy-book5-linux-drivers) | Linux drivers, hotkey patches and firmware fixes for the Samsung Galaxy Book5 | 20 | 🟢 | C |
 | [t2-better-audio](https://github.com/kekrby/t2-better-audio) | Audio configuration files for Apple T2 Macs running Linux | 18 | 🔴 | Shell |
 | [asus-fan-control-ec](https://github.com/Keyitdev/asus-fan-control-ec) | Fan control for ASUS devices on Linux via direct EC access | 14 | 🟢 | C |
 | [gigactl](https://github.com/smairio/gigactl) | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 7 | 🟢 | Python |
@@ -442,8 +456,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [elanpoc](https://github.com/depau/elanpoc) | Proof of concept for talking to ELAN 04f3:0c4c fingerprint readers, basis for a libfprint driver | 35 | 🟡 | Python |
 | [niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth) | Web Bluetooth driver and reverse-engineered protocol docs for Niimbot label printers | 34 | 🟢 | JavaScript |
 | [ft9201-libfprint](https://github.com/OMGrant/ft9201-libfprint) | libfprint driver for the FocalTech FT9201 (2808:93a9) USB fingerprint reader | 27 | 🟢 | C |
+| [captppd](https://github.com/darkvision77/captppd) | CUPS driver for Canon CAPT v1 printers | 20 | 🟢 | C++ |
 | [linux-fingerprint-drivers](https://github.com/jedbillyb/linux-fingerprint-drivers) | Community hub of drivers and patches for fingerprint sensors not in libfprint | 13 | 🟢 | Python |
 | [dell-controlvault2-fingerprint-linux](https://github.com/grosa787/dell-controlvault2-fingerprint-linux) | Linux driver for Dell ControlVault2 / Broadcom BCM5880 fingerprint chip | 12 | 🟢 | Shell |
+| [pi-capt](https://github.com/Limych/pi-capt) | Canon LBP CAPT printer driver for Raspberry Pi CUPS | 11 | 🔴 | C |
 | [synaTudorMiS](https://github.com/vojtapl/synaTudorMiS) | Development of the synatlsmoc libfprint driver for Synaptics sensors | 9 | 🟢 | Assembly |
 | [libfprint-egis0576](https://github.com/PHILIPPDEV5396/libfprint-egis0576) | Reverse-engineered libfprint driver for EgisTec EH576 fingerprint sensor | 7 | 🟢 | C |
 | [synaptics-00e7-fpdrv](https://github.com/HansHoogerwerf/synaptics-00e7-fpdrv) | From-scratch userspace driver for Synaptics 06cb:00e7 match-on-chip sensor | 7 | 🟢 | C |
@@ -475,6 +491,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Inside-EZRadioPRO](https://github.com/astuder/Inside-EZRadioPRO) | Reverse engineering the Silabs EZRadioPRO sub-GHz radios | 78 | 🟢 | Rebol |
 | [osmo-fl2k](https://github.com/osmocom/osmo-fl2k) | Uses FL2000 USB-to-VGA adapters as cheap SDR transmitters | 58 | 🟢 | C |
 | [b43-tools](https://github.com/mbuesch/b43-tools) | b43 firmware tools: fwcutter, assembler and disassembler for Broadcom Wi-Fi microcode | 39 | 🟢 | C |
+| [madwimax](https://github.com/ago/madwimax) | Reverse-engineered Linux driver for mobile WiMAX devices on the Samsung CMC-730 chip | 20 | 🔴 | C |
 | [acx100](https://sourceforge.net/projects/acx100/) | Linux driver for TI ACX100/ACX111 wireless chipsets |  | ⚪ |  |
 | [at76c503a](https://sourceforge.net/projects/at76c503a/) | Linux driver for Atmel at76c503/505 USB wireless adapters |  | ⚪ |  |
 | [Broadcom specs (bcm-v4)](https://bcm-v4.sipsolutions.net/) | Clean-room specifications of Broadcom 43xx wireless chips used to write the b43 driver |  | ⚪ |  |

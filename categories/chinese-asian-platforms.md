@@ -1,11 +1,11 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 313 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 315 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bilibili](#bilibili) (52)
-- [Cloud Drives](#cloud-drives) (31)
+- [Cloud Drives](#cloud-drives) (33)
 - [Douyin & Kuaishou](#douyin--kuaishou) (26)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (27)
 - [Japan & Korea](#japan--korea) (39)
@@ -97,11 +97,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [115drive-webdav](https://github.com/gaoyb7/115drive-webdav) | WebDAV server for 115 cloud drive | 634 | 🟡 | Go |
 | [cloud189](https://github.com/Aruelius/cloud189) | Tianyi Cloud (189) command-line client in Python | 575 | 🔴 | Python |
 | [123pan](https://github.com/123panNextGen/123pan) | Third-party 123pan cloud drive client | 558 | 🟢 | Python |
+| [XiaomiAlbumSyncer](https://github.com/Coooolfan/XiaomiAlbumSyncer) | Downloads photos and recordings from Xiaomi Cloud to local storage, full or incremental | 425 | 🟢 | Kotlin |
 | [fake115uploader](https://github.com/orzogc/fake115uploader) | Emulates the 115 cloud drive client upload protocol | 384 | 🟢 | Go |
 | [quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) | WebDAV server for Quark cloud drive | 367 | 🟢 | Rust |
 | [BaiduOldDriver](https://github.com/pengw0048/BaiduOldDriver) | C# library and tools for Baidu Netdisk private APIs | 262 | 🔴 | C# |
 | [189Cloud-Downloader](https://github.com/otokaze/189Cloud-Downloader) | Unthrottled Tianyi Cloud downloader including share links | 208 | 🔴 | Go |
 | [AliPCS-Py](https://github.com/PeterDing/AliPCS-Py) | Aliyun Drive API and command-line client | 174 | 🟡 | Python |
+| [go-micloud](https://github.com/wangbjun/go-micloud) | Go command-line client for Xiaomi Cloud drive | 168 | 🔴 | Go |
 | [QuarkPan](https://github.com/lich0821/QuarkPan) | Python client for Quark cloud drive | 159 | 🟢 | Python |
 | [115wangpan](https://github.com/shichao-an/115wangpan) | Unofficial Python SDK for 115.com cloud drive | 111 | 🔴 | Python |
 | [elevengo](https://github.com/deadblue/elevengo) | Go API client for 115 Cloud Storage | 102 | 🟡 | Go |
