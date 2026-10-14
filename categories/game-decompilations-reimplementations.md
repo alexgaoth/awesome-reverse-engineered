@@ -1,6 +1,6 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 3,047 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 3,049 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,7 +8,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Console Emulators](#console-emulators) (217)
 - [Engine Reimplementations](#engine-reimplementations) (670)
 - [Fan Patches & Enhancements](#fan-patches--enhancements) (22)
-- [Game Network Protocols & APIs](#game-network-protocols--apis) (117)
+- [Game Network Protocols & APIs](#game-network-protocols--apis) (118)
 - [Launchers & Store Clients](#launchers--store-clients) (47)
 - [Matching Decompilations — Arcade](#matching-decompilations--arcade) (5)
 - [Matching Decompilations — Atari](#matching-decompilations--atari) (3)
@@ -28,7 +28,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Mod Loaders & Script Extenders](#mod-loaders--script-extenders) (105)
 - [Open-source Game Clones](#open-source-game-clones) (58)
 - [Other](#other) (49)
-- [Private Servers](#private-servers) (183)
+- [Private Servers](#private-servers) (184)
 - [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (458)
 
 ## Asset & File-Format Tools
@@ -1310,6 +1310,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pyremoteplay](https://github.com/ktnrg45/pyremoteplay) | Python library implementing the PlayStation Remote Play protocol | 56 | 🗄️ | Python |
 | [diveharder_api.py](https://github.com/helldivers-2/diveharder_api.py) | FastAPI proxy exposing Helldivers 2 API data for community developers | 55 | 🟡 | Python |
 | [XiPackets](https://github.com/atom0s/XiPackets) | Reverse engineered packet documentation for Final Fantasy XI | 55 | 🟢 |  |
+| [fut-api](https://github.com/lorenzh/fut-api) | Unofficial FIFA Ultimate Team API client | 54 | 🗄️ | JavaScript |
 | [wot-api-description](https://github.com/thunder-spb/wot-api-description) | World of Tanks unofficial API description | 45 | 🗄️ | PHP |
 | [openfoxwq_client](https://github.com/openfoxwq/openfoxwq_client) | Multiplatform unofficial client for the Fox Go server | 44 | 🗄️ | Dart |
 | [xboxlive-api](https://github.com/XboxReplay/xboxlive-api) | Simple Xbox Live API wrapper for Node.js | 44 | 🔴 | TypeScript |
@@ -2737,6 +2738,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) | Open-source server reimplementation for an early version of an anime game with stars and rails | 8 | 🟢 | C# |
 | [Mystic-Nights-Online](https://github.com/jeremydecola/Mystic-Nights-Online) | Reverse-engineered multiplayer private server for the PS2 game Mystic Nights | 8 | 🟡 | Python |
 | [ew](https://github.com/ethanaobrien/ew) | A sif2 server | 7 | 🟢 | Rust |
+| [UberStrike-Reverse-Engineered](https://github.com/festivaldev/UberStrike-Reverse-Engineered) | Reverse-engineered UberStrike client and server | 7 | 🟡 | C# |
 | [garcia](https://github.com/yoncodes/garcia) | server for a random 2d game | 2 | 🟢 | Rust |
 | [dev_wow_auth_server](https://github.com/gtker/dev_wow_auth_server) | World of Warcraft authentication server for development | 1 | 🟡 | Rust |
 | [2009scape](https://gitlab.com/2009scape/2009scape) | Open-source 2009-era RuneScape server remake |  | ⚪ |  |

@@ -2013,6 +2013,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "export-chatgpt",
+  "url": "https://github.com/brianjlacy/export-chatgpt",
+  "desc": "Exports all ChatGPT conversations via the web app's internal API",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 120,
+  "archived": false,
+  "pushed": "2026-04-24",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [
+   "business",
+   "chatgpt",
+   "export",
+   "teams"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "free-one-api",
   "url": "https://github.com/RockChinQ/free-one-api",
   "desc": "Manages reverse-engineered LLM web APIs (ChatGPT, Bard, Claude, HuggingChat, Qwen) behind an OpenAI API",
@@ -3404,6 +3423,55 @@
   "added": "2026-10-11"
  },
  {
+  "name": "notion-ai",
+  "url": "https://github.com/albertcht/notion-ai",
+  "desc": "Unofficial PHP client for the Notion AI API",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 27,
+  "archived": false,
+  "pushed": "2023-04-15",
+  "lang": "PHP",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "NotionAI-go",
+  "url": "https://github.com/jyz0309/NotionAI-go",
+  "desc": "Unofficial Notion AI Go SDK",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 61,
+  "archived": false,
+  "pushed": "2023-10-11",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "golang",
+   "gpt-3",
+   "gpt3",
+   "notion",
+   "notion-api",
+   "notionai"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "notionai-py",
+  "url": "https://github.com/vaayne/notionai-py",
+  "desc": "Unofficial Python SDK for Notion AI",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 63,
+  "archived": false,
+  "pushed": "2024-01-24",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "openclaw-zero-token",
   "url": "https://github.com/linuxhsj/openclaw-zero-token",
   "desc": "OpenClaw using Claude/ChatGPT/Gemini/DeepSeek/Doubao web sessions, no API token",
@@ -3691,6 +3759,20 @@
    "gpt3"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "ppxity",
+  "url": "https://github.com/0xInception/ppxity",
+  "desc": "CLI for the unofficial Perplexity Labs API",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "Chatbot Web APIs",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2024-04-19",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "prism2api",
@@ -10881,6 +10963,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "line-desktop-mcp",
+  "url": "https://github.com/dtwang/line-desktop-mcp",
+  "desc": "MCP server integrating AI tools with LINE Desktop to read and send messages",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "MCP Servers for Private APIs",
+  "stars": 121,
+  "archived": false,
+  "pushed": "2026-05-25",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [
+   "bot",
+   "claude-desktop",
+   "line",
+   "mcp"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "linkedin-mcp",
   "url": "https://github.com/devag7/linkedin-mcp",
   "desc": "Unofficial local LinkedIn MCP server for profile, job, company and inbox reads",
@@ -11285,6 +11386,48 @@
    "mcp-server",
    "remarkable",
    "remarkable-tablet"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-cli-mcp-api",
+  "url": "https://github.com/zaydiscold/robinhood-cli-mcp-api",
+  "desc": "Unofficial Robinhood API map with CLI and MCP server",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "MCP Servers for Private APIs",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-09-15",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "api",
+   "cli",
+   "mcp",
+   "openapi",
+   "reverse-engineering",
+   "robinhood"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-mcp",
+  "url": "https://github.com/verygoodplugins/robinhood-mcp",
+  "desc": "Read-only MCP server for Robinhood portfolio research",
+  "category": "AI Tools & LLM Clients",
+  "subcategory": "MCP Servers for Private APIs",
+  "stars": 39,
+  "archived": false,
+  "pushed": "2026-07-29",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "finance",
+   "investing",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "portfolio"
   ],
   "added": "2026-10-14"
  },
@@ -28720,6 +28863,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "lime-scooter",
+  "url": "https://github.com/kenberland/lime-scooter",
+  "desc": "Reverse-engineered Lime gen3 scooter controller for an ESP8266",
+  "category": "Automotive",
+  "subcategory": "Scooters & E-bikes",
+  "stars": 23,
+  "archived": false,
+  "pushed": "2022-11-18",
+  "lang": "C++",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "M365-BLE-PROTOCOL",
   "url": "https://github.com/CamiAlfa/M365-BLE-PROTOCOL",
   "desc": "Documentation of the Xiaomi M365 scooter BLE protocol",
@@ -31755,6 +31912,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "jsline-api",
+  "url": "https://github.com/CYBAI/jsline-api",
+  "desc": "Unofficial Naver LINE API for JavaScript (deprecated)",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 14,
+  "archived": true,
+  "pushed": "2017-05-31",
+  "lang": "JavaScript",
+  "license": "",
+  "topics": [
+   "line",
+   "api",
+   "javascript"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "kakaocli",
   "url": "https://github.com/silver-flight-group/kakaocli",
   "desc": "KakaoTalk CLI for AI agents - read and send messages via database + UI automation",
@@ -31774,6 +31949,26 @@
    "kakaotalk-bot"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "kakaocli-win",
+  "url": "https://github.com/Lee-SiHyeon/kakaocli-win",
+  "desc": "Unofficial KakaoTalk CLI for Windows",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-08-24",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "cli",
+   "codex-skills",
+   "kakaotalk",
+   "python",
+   "windows"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "KiwiTalk",
@@ -31818,6 +32013,45 @@
   "added": "2026-10-11"
  },
  {
+  "name": "line-api",
+  "url": "https://github.com/2manslkh/line-api",
+  "desc": "Unofficial LINE API",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-02-27",
+  "lang": "WebAssembly",
+  "license": "",
+  "topics": [
+   "line-api",
+   "openclaw",
+   "openclaw-skills"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "line-cli",
+  "url": "https://github.com/kongesque/line-cli",
+  "desc": "Unofficial LINE CLI for personal accounts: send messages, share files, automate with JSON",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2026-10-14",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "automation",
+   "cli",
+   "command-line",
+   "go",
+   "golang",
+   "line"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "LINE-instant-messenger-protocol",
   "url": "https://github.com/ruyaoyao/LINE-instant-messenger-protocol",
   "desc": "It is work of Matti Virkkunen, link to http://altrepo.eu/git/line-protocol.git for latest update.",
@@ -31830,6 +32064,25 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "line-protocol",
+  "url": "https://github.com/fadhiilrachman/line-protocol",
+  "desc": "Documentation of LINE's private Thrift messaging protocol",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 49,
+  "archived": false,
+  "pushed": "2018-05-05",
+  "lang": "Thrift",
+  "license": "GPL-3.0",
+  "topics": [
+   "thrift",
+   "thrift-protocol",
+   "line",
+   "messenger"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "line-py",
@@ -31849,6 +32102,23 @@
    "messaging-api"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "line-rb",
+  "url": "https://github.com/TakagiChan/line-rb",
+  "desc": "Unofficial LINE API for Ruby",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2020-11-11",
+  "lang": "Ruby",
+  "license": "MIT",
+  "topics": [
+   "line",
+   "line-bot"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "LINE-Source",
@@ -31884,6 +32154,39 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "LineApiGo",
+  "url": "https://github.com/sakura-rip/LineApiGo",
+  "desc": "Unofficial LINE API in Go",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 26,
+  "archived": false,
+  "pushed": "2021-06-14",
+  "lang": "Go",
+  "license": "",
+  "topics": [
+   "line",
+   "linebot",
+   "golang",
+   "linego"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "linepy-modified",
+  "url": "https://github.com/crash-override404/linepy-modified",
+  "desc": "Python library for LINE's unofficial messaging API",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "Japan & Korea",
+  "stars": 90,
+  "archived": false,
+  "pushed": "2021-04-02",
+  "lang": "Python",
+  "license": "BSD-3-Clause",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "mercari-python-api",
@@ -33972,6 +34275,24 @@
   "added": "2026-10-13"
  },
  {
+  "name": "wechatDownload",
+  "url": "https://github.com/qiye45/wechatDownload",
+  "desc": "Batch downloader for WeChat Official Account articles with comments and collections",
+  "category": "Chinese & Asian Platforms",
+  "subcategory": "WeChat & QQ",
+  "stars": 9767,
+  "archived": false,
+  "pushed": "2026-10-07",
+  "lang": "HTML",
+  "license": "",
+  "topics": [
+   "download",
+   "downloader",
+   "wechat"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "WechatExporter",
   "url": "https://github.com/BlueMatthew/WechatExporter",
   "desc": "Exports WeChat chat history from iTunes/iOS backups",
@@ -35002,6 +35323,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Discord3rdparties",
+  "url": "https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties",
+  "desc": "Collection of third-party clients and mods for Discord",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "APIs & Apps",
+  "stars": 2615,
+  "archived": false,
+  "pushed": "2026-10-14",
+  "lang": "",
+  "license": "CC-BY-SA-4.0",
+  "topics": [
+   "discord",
+   "discord-client",
+   "discord-mod",
+   "discord-libraries",
+   "discord-library",
+   "encyclopedia"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "InternalSteamWebAPI",
   "url": "https://github.com/Revadike/InternalSteamWebAPI",
   "desc": "Documentation of Steam's unofficial, internal Web API endpoints",
@@ -35141,6 +35483,23 @@
    "undocumented-api"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "signal-soft",
+  "url": "https://github.com/exquo/signal-soft",
+  "desc": "List of third-party libraries and clients for the Signal messenger",
+  "category": "Collections & Awesome Lists",
+  "subcategory": "APIs & Apps",
+  "stars": 35,
+  "archived": false,
+  "pushed": "2021-06-03",
+  "lang": "",
+  "license": "CC-BY-SA-4.0",
+  "topics": [
+   "signal",
+   "signal-messenger"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "sperm",
@@ -53787,6 +54146,20 @@
   "added": "2026-10-14"
  },
  {
+  "name": "honeywell-tcc-api",
+  "url": "https://github.com/cjmaio/honeywell-tcc-api",
+  "desc": "Unofficial API for Honeywell Total Connect Comfort thermostats",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "HVAC & Heat Pumps",
+  "stars": 8,
+  "archived": true,
+  "pushed": "2014-12-17",
+  "lang": "PHP",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "infinitesp",
   "url": "https://github.com/nebulous/infinitesp",
   "desc": "ESP32 SAM emulator for local RS485 control of Carrier Infinity thermostats",
@@ -58410,6 +58783,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pai",
+  "url": "https://github.com/ParadoxAlarmInterface/pai",
+  "desc": "Interface to Paradox Magellan, Spectra and EVO alarm panels over their serial/IP protocol with MQTT",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Locks, Garage & Security",
+  "stars": 431,
+  "archived": false,
+  "pushed": "2026-09-28",
+  "lang": "Python",
+  "license": "EPL-2.0",
+  "topics": [
+   "security",
+   "home-security",
+   "paradox",
+   "mqtt",
+   "paradox-alarm",
+   "python"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Paradox-ESPHome",
   "url": "https://github.com/Margriko/Paradox-ESPHome",
   "desc": "Reads Paradox alarm state via the keypad COMBUS interface on an ESP32",
@@ -58428,6 +58822,20 @@
    "esp8266"
   ],
   "added": "2026-10-13"
+ },
+ {
+  "name": "php-ring-api",
+  "url": "https://github.com/jeroenmoors/php-ring-api",
+  "desc": "Unofficial PHP API client for the Ring doorbell",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Locks, Garage & Security",
+  "stars": 57,
+  "archived": false,
+  "pushed": "2017-09-29",
+  "lang": "PHP",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "pymyq",
@@ -60235,6 +60643,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wellue-o2ring-protocol",
+  "url": "https://github.com/farolone/wellue-o2ring-protocol",
+  "desc": "Reverse-engineered BLE protocol documentation for the Wellue O2Ring pulse oximeter",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Medical Devices (CGM, Pumps)",
+  "stars": 10,
+  "archived": false,
+  "pushed": "2026-01-17",
+  "lang": "",
+  "license": "MIT",
+  "topics": [
+   "ble",
+   "bluetooth-low-energy",
+   "health",
+   "oximeter",
+   "protocol",
+   "pulse-oximeter"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "wixel-xDrip",
   "url": "https://github.com/StephenBlackWasAlreadyTaken/wixel-xDrip",
   "desc": "Wixel firmware letting a DIY bridge act as a Dexcom receiver",
@@ -60843,6 +61272,20 @@
    "goxlr-on-linux"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "helix-py-api",
+  "url": "https://github.com/HackLabsGuitar/helix-py-api",
+  "desc": "Unofficial API for managing Line 6 Helix files and devices",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2024-06-03",
+  "lang": "Python",
+  "license": "BSD-3-Clause",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "launchpad.py",
@@ -61841,6 +62284,20 @@
   "license": "AGPL-3.0",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "ubersaw",
+  "url": "https://github.com/house-of-houses/ubersaw",
+  "desc": "Eurorack recreation of the Roland JP-8000 supersaw from its reverse-engineered algorithm",
+  "category": "Devices, IoT & Hardware",
+  "subcategory": "Music Gear & Synth Editors",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2026-02-08",
+  "lang": "C++",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "underbridge",
@@ -97160,6 +97617,26 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tinySA_python",
+  "url": "https://github.com/LC-Linkous/tinySA_python",
+  "desc": "Unofficial Python API for the tinySA spectrum analyzer line",
+  "category": "Drivers & Low-level Hardware",
+  "subcategory": "Lab Instruments & Thermal Cameras",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-09-20",
+  "lang": "Python",
+  "license": "GPL-2.0",
+  "topics": [
+   "tinysa",
+   "examples-python",
+   "spectrum-analyzer",
+   "pypi-package",
+   "tinysa-ultra"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "um34c",
   "url": "https://github.com/sebastianha/um34c",
   "desc": "NodeJS tool to read and control UM34C/UM24C/UM25C USB testers over Bluetooth",
@@ -105634,6 +106111,27 @@
    "fireeye-flare"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "forensicsim",
+  "url": "https://github.com/lxndrblz/forensicsim",
+  "desc": "Autopsy parser extracting Microsoft Teams messages, posts and contacts from its LevelDB stores",
+  "category": "File Formats",
+  "subcategory": "Windows & Forensic Artifacts",
+  "stars": 123,
+  "archived": false,
+  "pushed": "2026-08-04",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "autopsy",
+   "microsoft",
+   "teams",
+   "leveldb",
+   "forensic-analysis",
+   "module"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "FSEventsParser",
@@ -133767,6 +134265,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "fut-api",
+  "url": "https://github.com/lorenzh/fut-api",
+  "desc": "Unofficial FIFA Ultimate Team API client",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Game Network Protocols & APIs",
+  "stars": 54,
+  "archived": true,
+  "pushed": "2017-01-01",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "GameTracking",
   "url": "https://github.com/SteamTracking/GameTracking",
   "desc": "Automated dumps of Valve game files and protos to track changes",
@@ -157010,6 +157522,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "UberStrike-Reverse-Engineered",
+  "url": "https://github.com/festivaldev/UberStrike-Reverse-Engineered",
+  "desc": "Reverse-engineered UberStrike client and server",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Private Servers",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2025-04-05",
+  "lang": "C#",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "UniSpyServer",
   "url": "https://github.com/GameProgressive/UniSpyServer",
   "desc": "Open-source GameSpy backend emulator",
@@ -170513,6 +171039,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "antisocialcord-kt",
+  "url": "https://github.com/Nightdavisao/antisocialcord-kt",
+  "desc": "Kotlin library talking to Discord as the Android app, reverse-engineered from the official client",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 10,
+  "archived": false,
+  "pushed": "2026-10-11",
+  "lang": "Kotlin",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "arikawa",
   "url": "https://github.com/diamondburned/arikawa",
   "desc": "A Golang library and framework for the Discord API.",
@@ -170590,6 +171130,47 @@
   "added": "2026-10-11"
  },
  {
+  "name": "discord-rpc-csharp",
+  "url": "https://github.com/Lachee/discord-rpc-csharp",
+  "desc": "C# implementation of the Discord Rich Presence IPC protocol",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 694,
+  "archived": false,
+  "pushed": "2025-12-08",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [
+   "discord-rpc",
+   "discord",
+   "csharp",
+   "library",
+   "unity3d",
+   "rich-presence"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "discord-together",
+  "url": "https://github.com/apurv-r/discord-together",
+  "desc": "Unofficial module to launch Discord's beta Activities such as YouTube Together",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 49,
+  "archived": false,
+  "pushed": "2022-07-28",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "discord",
+   "youtube",
+   "discord-together",
+   "discord-py",
+   "discord-activites"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "discord-unofficial-docs",
   "url": "https://gitlab.com/luna/discord-unofficial-docs",
   "desc": "Unofficial documentation for undocumented Discord APIs",
@@ -170659,6 +171240,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "DiscordChatExporter",
+  "url": "https://github.com/Tyrrrz/DiscordChatExporter",
+  "desc": "Exports Discord chat logs to HTML, JSON, CSV or text files",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 12182,
+  "archived": false,
+  "pushed": "2026-10-09",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [
+   "discord",
+   "chat",
+   "log",
+   "export",
+   "archival",
+   "archiver"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "discordo",
   "url": "https://github.com/ayn2op/discordo",
   "desc": "A lightweight, secure, and feature-rich Discord terminal (TUI) client.",
@@ -170699,6 +171301,20 @@
    "gtk4"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "docs",
+  "url": "https://github.com/DiscordAPI/docs",
+  "desc": "Unofficial Discord API documentation",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 35,
+  "archived": true,
+  "pushed": "2016-05-15",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "mee6-levels-api",
@@ -170772,6 +171388,20 @@
   "added": "2026-10-13"
  },
  {
+  "name": "Remedy",
+  "url": "https://github.com/Naozumi520/Remedy",
+  "desc": "Unofficial Discord overlay support for macOS",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 34,
+  "archived": true,
+  "pushed": "2024-01-26",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Replugged",
   "url": "https://github.com/replugged-org/replugged",
   "desc": "Lightweight Discord client mod, continuation of Powercord",
@@ -170831,6 +171461,27 @@
    "react-native"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Reversecord",
+  "url": "https://github.com/enginestein/Reversecord",
+  "desc": "Reverse-engineered Discord client code",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 13,
+  "archived": false,
+  "pushed": "2023-08-24",
+  "lang": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+   "discord",
+   "discord-exploit",
+   "reverse-engineer",
+   "reverse-engineered",
+   "reverse-engineering",
+   "reverse-engineering-source-code"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "ripcord-api",
@@ -170960,6 +171611,27 @@
    "mattermost"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "spacebarchat",
+  "url": "https://github.com/spacebarchat/spacebarchat",
+  "desc": "Free, self-hostable reimplementation of a Discord-compatible chat platform and API",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Discord & Slack",
+  "stars": 6716,
+  "archived": false,
+  "pushed": "2026-04-09",
+  "lang": "",
+  "license": "AGPL-3.0",
+  "topics": [
+   "discord",
+   "opensource",
+   "discord-open-source",
+   "foss",
+   "open-source",
+   "spacebarchat"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "teams-api",
@@ -172815,6 +173487,46 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Signal-Windows",
+  "url": "https://github.com/signal-csharp/Signal-Windows",
+  "desc": "Unofficial Signal Private Messenger client for Windows",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Signal & Telegram",
+  "stars": 113,
+  "archived": false,
+  "pushed": "2021-05-24",
+  "lang": "C#",
+  "license": "GPL-3.0",
+  "topics": [
+   "signal-windows",
+   "signal",
+   "messaging",
+   "windows-10",
+   "windows-phone",
+   "csharp"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "signal2html",
+  "url": "https://github.com/GjjvdBurg/signal2html",
+  "desc": "Exports a Signal backup to readable HTML",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Signal & Telegram",
+  "stars": 116,
+  "archived": false,
+  "pushed": "2023-03-19",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "signal",
+   "signalapp",
+   "signal-backup",
+   "signal-messages"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "signalbackup-tools",
   "url": "https://github.com/bepaald/signalbackup-tools",
   "desc": "Tool to read, repair and export Signal backup files",
@@ -174282,6 +174994,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "python-whatsappy",
+  "url": "https://github.com/basilfx/python-whatsappy",
+  "desc": "Unofficial Python API for the WhatsApp chat protocol (deprecated)",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 8,
+  "archived": false,
+  "pushed": "2015-08-11",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "unoapi-cloud",
   "url": "https://github.com/clairton/unoapi-cloud",
   "desc": "Unofficial WhatsApp Cloud API compatible server built on WhatsApp Web",
@@ -174385,6 +175111,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wamd",
+  "url": "https://github.com/serenity-77/wamd",
+  "desc": "Unofficial WhatsApp Web multi-device client API",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 32,
+  "archived": false,
+  "pushed": "2022-10-13",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "WebWhatsapp-Wrapper",
   "url": "https://github.com/mukulhase/WebWhatsapp-Wrapper",
   "desc": "An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]",
@@ -174397,6 +175137,20 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "WhatsApi-Android-1",
+  "url": "https://github.com/madcyph3r/WhatsApi-Android-1",
+  "desc": "Unofficial WhatsApp client for Android using the reverse-engineered protocol",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2015-09-22",
+  "lang": "Java",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "WhatsApp Viewer",
@@ -174474,6 +175228,45 @@
   "added": "2026-10-11"
  },
  {
+  "name": "whatsapp-web",
+  "url": "https://github.com/zvovov/whatsapp-web",
+  "desc": "WhatsApp chat from the command line via WhatsApp Web",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 316,
+  "archived": false,
+  "pushed": "2026-05-14",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "whatsapp",
+   "chromedriver",
+   "chat"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "whatsapp-web-incognito",
+  "url": "https://github.com/tomer8007/whatsapp-web-incognito",
+  "desc": "Chrome extension that disables read receipts and presence updates on WhatsApp Web",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 406,
+  "archived": false,
+  "pushed": "2026-09-30",
+  "lang": "JavaScript",
+  "license": "GPL-2.0",
+  "topics": [
+   "whatsapp-web",
+   "whatsapp",
+   "incognito",
+   "chrome-extension",
+   "invisible",
+   "javascript"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "whatsapp-web-multi-device-reveng",
   "url": "https://github.com/sigalor/whatsapp-web-multi-device-reveng",
   "desc": "Reverse engineering of multi-device WhatsApp Web",
@@ -174529,6 +175322,48 @@
   "added": "2026-10-11"
  },
  {
+  "name": "wildcat",
+  "url": "https://github.com/NotoriousArnav/wildcat",
+  "desc": "Unofficial reverse-engineered WhatsApp integration layer for data connectivity",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-05-19",
+  "lang": "JavaScript",
+  "license": "NOASSERTION",
+  "topics": [
+   "api",
+   "baileys",
+   "expressjs",
+   "mongodb",
+   "unofficial",
+   "whatsapp"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "WPP4Delphi",
+  "url": "https://github.com/wppconnect-team/WPP4Delphi",
+  "desc": "Exports WhatsApp Web functions for Delphi applications",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 252,
+  "archived": false,
+  "pushed": "2026-10-14",
+  "lang": "Pascal",
+  "license": "Apache-2.0",
+  "topics": [
+   "delphi",
+   "lazarus",
+   "pascal",
+   "whatsapp",
+   "whatsapp-api",
+   "whatsapp-bot"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "wppconnect",
   "url": "https://github.com/wppconnect-team/wppconnect",
   "desc": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from...",
@@ -174562,6 +175397,27 @@
   "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "zapo",
+  "url": "https://github.com/vinikjkkj/zapo",
+  "desc": "Lightweight TypeScript library for the WhatsApp Web multi-device protocol",
+  "category": "Messaging & Social Apps",
+  "subcategory": "WhatsApp",
+  "stars": 251,
+  "archived": false,
+  "pushed": "2026-10-14",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "e2ee",
+   "multi-device",
+   "multi-session",
+   "nodejs",
+   "signal-protocol",
+   "typescript"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "barcelona",
@@ -178719,6 +179575,25 @@
   "added": "2026-10-13"
  },
  {
+  "name": "protonmail-cli",
+  "url": "https://github.com/dimkouv/protonmail-cli",
+  "desc": "Unofficial command-line utility for ProtonMail",
+  "category": "Network & Wire Protocols",
+  "subcategory": "Email & Groupware",
+  "stars": 97,
+  "archived": false,
+  "pushed": "2019-11-24",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "protonmail",
+   "geckodriver",
+   "automated-testing",
+   "python3"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "protonmail-rs",
   "url": "https://github.com/filippofinke/protonmail-rs",
   "desc": "Unofficial pure-Rust Proton Mail SDK with SRP auth, OpenPGP and the mail API",
@@ -179618,6 +180493,60 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Telegram-Server",
+  "url": "https://github.com/aykutalparslan/Telegram-Server",
+  "desc": "Unofficial Telegram server in C# with channels, media, secret chats and calls",
+  "category": "Network & Wire Protocols",
+  "subcategory": "Messaging Protocols",
+  "stars": 175,
+  "archived": false,
+  "pushed": "2026-09-24",
+  "lang": "C#",
+  "license": "AGPL-3.0",
+  "topics": [
+   "telegram",
+   "mtproto",
+   "server",
+   "telegram-server",
+   "instant-messaging",
+   "messaging"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Telegram-Server-Java",
+  "url": "https://github.com/aykutalparslan/Telegram-Server-Java",
+  "desc": "Unofficial Telegram MTProto server in Java",
+  "category": "Network & Wire Protocols",
+  "subcategory": "Messaging Protocols",
+  "stars": 241,
+  "archived": true,
+  "pushed": "2022-07-21",
+  "lang": "Java",
+  "license": "GPL-3.0",
+  "topics": [
+   "telegram",
+   "api",
+   "mtproto",
+   "server"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "telegramd",
+  "url": "https://github.com/bluefoxah/telegramd",
+  "desc": "Unofficial open-source Telegram server written in Go",
+  "category": "Network & Wire Protocols",
+  "subcategory": "Messaging Protocols",
+  "stars": 28,
+  "archived": false,
+  "pushed": "2018-01-03",
+  "lang": "Go",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "ts3j",
@@ -199921,6 +200850,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "bbcord",
+  "url": "https://github.com/michioxd/bbcord",
+  "desc": "Unofficial Discord client for QNX BlackBerry 10 devices",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 10,
+  "archived": true,
+  "pushed": "2026-07-09",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+   "blackberry",
+   "blackberry-10",
+   "blackberry10",
+   "cascades",
+   "qml",
+   "qnx6"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "bitlbee-discord",
   "url": "https://github.com/sm00th/bitlbee-discord",
   "desc": "BitlBee plugin that exposes Discord to IRC clients",
@@ -199980,6 +200930,38 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ChimeraCord",
+  "url": "https://github.com/RoboChimera/ChimeraCord",
+  "desc": "Unofficial Discord client for FreeBSD",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2023-04-29",
+  "lang": "JavaScript",
+  "license": "BSD-2-Clause",
+  "topics": [
+   "bsd",
+   "discord",
+   "freebsd"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "client",
+  "url": "https://github.com/oxidezap/client",
+  "desc": "Unofficial WhatsApp client in Rust built on whatsapp-rust",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 27,
+  "archived": false,
+  "pushed": "2026-10-14",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "cordless",
   "url": "https://github.com/Bios-Marcel/cordless",
   "desc": "Discord terminal client (archived)",
@@ -199999,6 +200981,20 @@
    "discordgo"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Cordless",
+  "url": "https://github.com/Brendonm17/Cordless",
+  "desc": "Unofficial Discord client for the PS Vita",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 18,
+  "archived": false,
+  "pushed": "2026-08-20",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "crocodile",
@@ -200036,6 +201032,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Discord-Client",
+  "url": "https://github.com/JKapostins/Discord-Client",
+  "desc": "Unofficial Discord client for Windows Mobile",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2017-12-05",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "discord-j2me",
   "url": "https://github.com/gtrxAC/discord-j2me",
   "desc": "Discord client for Java ME (MIDP) feature phones",
@@ -200048,6 +201058,20 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Discord-KaiOS-Unofficial",
+  "url": "https://github.com/John-Jelatis/Discord-KaiOS-Unofficial",
+  "desc": "Unofficial Discord client for KaiOS feature phones",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 7,
+  "archived": true,
+  "pushed": "2021-12-22",
+  "lang": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "discord-lite",
@@ -200083,6 +201107,20 @@
    "javascript"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Discord4KaiOS",
+  "url": "https://github.com/cyan-2048/Discord4KaiOS",
+  "desc": "Unofficial Discord client for KaiOS",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 55,
+  "archived": false,
+  "pushed": "2025-07-01",
+  "lang": "TypeScript",
+  "license": "AGPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "disrust",
@@ -200199,6 +201237,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "GoofCord",
+  "url": "https://github.com/Milkshiift/GoofCord",
+  "desc": "Configurable, privacy-minded third-party Discord client",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 1005,
+  "archived": false,
+  "pushed": "2026-10-01",
+  "lang": "TypeScript",
+  "license": "OSL-3.0",
+  "topics": [
+   "configurable",
+   "discord",
+   "open-source",
+   "privacy",
+   "goofcord",
+   "electron"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "gtkcord3",
   "url": "https://github.com/diamondburned/gtkcord3",
   "desc": "GTK3 Discord client in Go (predecessor of Dissent)",
@@ -200236,6 +201295,20 @@
    "chat-bot"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Line-GTK",
+  "url": "https://github.com/MidnightTale/Line-GTK",
+  "desc": "Unofficial native LINE client for Linux using a linejs protocol sidecar",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 36,
+  "archived": false,
+  "pushed": "2026-08-01",
+  "lang": "Rust",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "lusid",
@@ -200418,6 +201491,20 @@
   "license": "GPL-3.0",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Papo",
+  "url": "https://github.com/AmanoTeam/Papo",
+  "desc": "Unofficial GTK client for WhatsApp, built with Rust",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-10-03",
+  "lang": "Rust",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "powercord",
@@ -200682,6 +201769,20 @@
   "added": "2026-10-14"
  },
  {
+  "name": "Talk32",
+  "url": "https://github.com/DoaJCBlogger/Talk32",
+  "desc": "Lightweight unofficial Discord client",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 57,
+  "archived": false,
+  "pushed": "2026-06-08",
+  "lang": "C",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "TriCord",
   "url": "https://github.com/2b-zipper/TriCord",
   "desc": "Discord client for the Nintendo 3DS",
@@ -200773,6 +201874,20 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "whats4linux",
+  "url": "https://github.com/lugvitc/whats4linux",
+  "desc": "Unofficial native WhatsApp client for Linux",
+  "category": "Third-party Clients",
+  "subcategory": "Chat & Messaging",
+  "stars": 43,
+  "archived": false,
+  "pushed": "2026-09-25",
+  "lang": "Go",
+  "license": "AGPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "whatscli",
@@ -202106,6 +203221,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ytmdesktop2",
+  "url": "https://github.com/Venipa/ytmdesktop2",
+  "desc": "Unofficial YouTube Music desktop app with Discord RPC and Last.fm support",
+  "category": "Third-party Clients",
+  "subcategory": "Music Streaming",
+  "stars": 1103,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "TypeScript",
+  "license": "CC0-1.0",
+  "topics": [
+   "discord",
+   "youtube",
+   "youtube-music",
+   "ytm",
+   "ytmusic",
+   "youtube-player"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "YTubic",
   "url": "https://github.com/NUber-dev/YTubic",
   "desc": "YouTube Music desktop client for Windows, macOS and Linux",
@@ -203210,6 +204346,114 @@
   "added": "2026-10-11"
  },
  {
+  "name": "DuoApi",
+  "url": "https://github.com/latiif/DuoApi",
+  "desc": "Unofficial Java API for Duolingo",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "Java",
+  "license": "MIT",
+  "topics": [
+   "duolingo",
+   "api-wrapper",
+   "java"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "duolingo-api",
+  "url": "https://github.com/fosfomycin/duolingo-api",
+  "desc": "Unofficial Duolingo API for levels, achievements and other metadata",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2020-05-24",
+  "lang": "JavaScript",
+  "license": "",
+  "topics": [
+   "duolingo",
+   "duolingo-metadata",
+   "duolingo-api",
+   "duolingo-js"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "duolingo-js",
+  "url": "https://github.com/acSpock/duolingo-js",
+  "desc": "Unofficial Duolingo API for browser and Node.js",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2024-01-09",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Duolingo-Stats-Card",
+  "url": "https://github.com/KevzPeter/Duolingo-Stats-Card",
+  "desc": "Embeddable Duolingo stats widget using the unofficial Duolingo API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 66,
+  "archived": false,
+  "pushed": "2026-04-17",
+  "lang": "TypeScript",
+  "license": "",
+  "topics": [
+   "duolingo",
+   "duolingo-api",
+   "github-readme",
+   "readme-card",
+   "hacktoberfest"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "DuolingoNET",
+  "url": "https://github.com/nicktheone/DuolingoNET",
+  "desc": "Unofficial Duolingo API written in C#",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2021-09-21",
+  "lang": "C#",
+  "license": "",
+  "topics": [
+   "duolingo",
+   "duolingo-api",
+   "csharp"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Duolinguist",
+  "url": "https://github.com/sphanley/Duolinguist",
+  "desc": "Unofficial Home Assistant integration for Duolingo",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 6,
+  "archived": true,
+  "pushed": "2023-08-10",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "home-assistant",
+   "integration",
+   "duolingo",
+   "hacktoberfest"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "edapi",
   "url": "https://github.com/smartspot2/edapi",
   "desc": "Unofficial Python integration with the Ed Discussion course forum API",
@@ -203264,6 +204508,26 @@
    "deno-module"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Flashcards",
+  "url": "https://github.com/TriangleLeft/Flashcards",
+  "desc": "Unofficial mobile client for Duolingo",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 25,
+  "archived": true,
+  "pushed": "2017-05-26",
+  "lang": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+   "j2objc",
+   "android",
+   "ios",
+   "appium",
+   "mvp"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "go-amizone",
@@ -203722,6 +204986,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "tinycards-python-api",
+  "url": "https://github.com/floscha/tinycards-python-api",
+  "desc": "Unofficial Python API for Duolingo's Tinycards",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Books, Reading & Learning",
+  "stars": 42,
+  "archived": true,
+  "pushed": "2021-04-17",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "tinycards",
+   "python",
+   "api"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "uf_api",
   "url": "https://github.com/Rolstenhouse/uf_api",
   "desc": "Documentation of the University of Florida's undocumented API",
@@ -204010,6 +205292,27 @@
   "license": "",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "aiorobinhood",
+  "url": "https://github.com/omikader/aiorobinhood",
+  "desc": "Asynchronous Robinhood HTTP client built with aiohttp",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 13,
+  "archived": false,
+  "pushed": "2020-08-26",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "robinhood",
+   "asyncio",
+   "python3",
+   "stocks",
+   "aiorobinhood",
+   "python"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "auto-rsa",
@@ -204422,6 +205725,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Finance-Robinhood",
+  "url": "https://github.com/sanko/Finance-Robinhood",
+  "desc": "Perl client for the Robinhood brokerage API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 48,
+  "archived": false,
+  "pushed": "2023-02-28",
+  "lang": "Perl",
+  "license": "NOASSERTION",
+  "topics": [
+   "robinhood",
+   "finance",
+   "etf",
+   "historical-data",
+   "perl",
+   "stocks"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "finnomena-api-unofficial",
   "url": "https://github.com/pochl/finnomena-api-unofficial",
   "desc": "Unofficial API for Finnomena Thai fund data",
@@ -204564,6 +205888,20 @@
    "golang"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "go-robinhood",
+  "url": "https://github.com/timpalpant/go-robinhood",
+  "desc": "Go client for the unofficial Robinhood API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2019-01-03",
+  "lang": "Go",
+  "license": "LGPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "ha-monarchmoney",
@@ -204779,6 +206117,46 @@
   "added": "2026-10-11"
  },
  {
+  "name": "n26",
+  "url": "https://github.com/PierrickP/n26",
+  "desc": "Unofficial Node.js module for interacting with an N26 account",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 133,
+  "archived": true,
+  "pushed": "2018-07-28",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [
+   "n26",
+   "nodejs",
+   "bank",
+   "api",
+   "nodejs-modules",
+   "es6"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "n26",
+  "url": "https://github.com/njuettner/n26",
+  "desc": "Unofficial CLI for N26",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 20,
+  "archived": true,
+  "pushed": "2019-05-16",
+  "lang": "Go",
+  "license": "MIT",
+  "topics": [
+   "golang",
+   "go",
+   "n26",
+   "cli"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "n26-api",
   "url": "https://github.com/Rots/n26-api",
   "desc": "Unofficial N26 Bank API documentation",
@@ -204799,6 +206177,45 @@
   "added": "2026-10-11"
  },
  {
+  "name": "n26-api",
+  "url": "https://github.com/ckotzbauer/n26-api",
+  "desc": "API client for the N26 bank's private API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 19,
+  "archived": true,
+  "pushed": "2022-03-10",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "n26",
+   "banking",
+   "api",
+   "nodejs"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "N26-to-YNAB",
+  "url": "https://github.com/ivallesp/N26-to-YNAB",
+  "desc": "Syncs N26 transactions to YNAB via the unofficial N26 API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2022-01-09",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "ynab",
+   "automation",
+   "budget",
+   "personal-finance",
+   "n26"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "n26api",
   "url": "https://github.com/nhatthm/n26api",
   "desc": "Unofficial N26 API Client for Golang",
@@ -204817,6 +206234,27 @@
    "api-rest"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "N26Connector",
+  "url": "https://github.com/2snEM6/N26Connector",
+  "desc": "Connects an N26 account to a Google Sheets cell",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2018-10-18",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [
+   "n26",
+   "api",
+   "client",
+   "apiclient",
+   "number26",
+   "google"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "naga-web-api",
@@ -205064,6 +206502,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "pyhood",
+  "url": "https://github.com/jamestford/pyhood",
+  "desc": "Maintained Python client for the Robinhood API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 24,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "algorithmic-trading",
+   "api-client",
+   "automated-trading",
+   "finance",
+   "fintech",
+   "investing"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "pyitau",
   "url": "https://github.com/lucasrcezimbra/pyitau",
   "desc": "Unofficial client for Itau bank data",
@@ -205216,6 +206675,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "roberthood",
+  "url": "https://github.com/felipecsl/roberthood",
+  "desc": "Unofficial Robinhood web UI",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 40,
+  "archived": true,
+  "pushed": "2016-08-17",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "robin_stocks",
   "url": "https://github.com/jmfernandes/robin_stocks",
   "desc": "This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and...",
@@ -205272,6 +206745,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "RobinHood",
+  "url": "https://github.com/JestonBlu/RobinHood",
+  "desc": "R interface for the Robinhood API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 48,
+  "archived": false,
+  "pushed": "2025-09-01",
+  "lang": "R",
+  "license": "LGPL-3.0",
+  "topics": [
+   "robinhood",
+   "robinhood-api",
+   "r",
+   "algotrading",
+   "r-package",
+   "cran"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "robinhood OpenAPI",
   "url": "https://github.com/sabareeshkkanan/robinhood",
   "desc": "Unofficial OpenAPI specification for the Robinhood API",
@@ -205301,6 +206795,62 @@
    "python"
   ],
   "added": "2026-10-13"
+ },
+ {
+  "name": "robinhood-client",
+  "url": "https://github.com/Bekt/robinhood-client",
+  "desc": "Unofficial Robinhood API Python client",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2016-01-03",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-google-sheets",
+  "url": "https://github.com/rghuckins/robinhood-google-sheets",
+  "desc": "Robinhood custom functions for Google Sheets",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 148,
+  "archived": false,
+  "pushed": "2020-08-16",
+  "lang": "JavaScript",
+  "license": "",
+  "topics": [
+   "robinhood",
+   "robinhood-api",
+   "google-sheets",
+   "google-apps-script",
+   "spreadsheet",
+   "stocks"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-mint-sync-chrome",
+  "url": "https://github.com/pkmnct/robinhood-mint-sync-chrome",
+  "desc": "Browser extension syncing Robinhood holdings to Mint",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 53,
+  "archived": true,
+  "pushed": "2023-03-05",
+  "lang": "HTML",
+  "license": "MIT",
+  "topics": [
+   "mint",
+   "chrome-extension",
+   "robinhood",
+   "sync",
+   "chromium-extension",
+   "edge-extension"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "robinhood-node",
@@ -205342,6 +206892,139 @@
    "trade-stocks"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "robinhood-portfolio",
+  "url": "https://github.com/omdv/robinhood-portfolio",
+  "desc": "Portfolio analyzer for Robinhood accounts (deprecated)",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 81,
+  "archived": false,
+  "pushed": "2021-03-22",
+  "lang": "Jupyter Notebook",
+  "license": "MIT",
+  "topics": [
+   "robinhood",
+   "stock-market",
+   "python"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-python",
+  "url": "https://github.com/mstrum/robinhood-python",
+  "desc": "Python module for the unofficial Robinhood API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 101,
+  "archived": true,
+  "pushed": "2019-12-28",
+  "lang": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+   "robinhood",
+   "stock",
+   "robinhood-python",
+   "python",
+   "robinhood-api"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood-to-xlsx",
+  "url": "https://github.com/anthonyk1225/robinhood-to-xlsx",
+  "desc": "Exports Robinhood account data to Excel",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2022-12-08",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "robinhood",
+   "stocks",
+   "robinhood-api",
+   "xlsx",
+   "stock-market",
+   "python"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Robinhood-Trading-Journal",
+  "url": "https://github.com/virajkothari7/Robinhood-Trading-Journal",
+  "desc": "Trading journal built on Robinhood's private API with Plotly Dash",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 27,
+  "archived": false,
+  "pushed": "2024-10-02",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "robinhood-python",
+   "robinhood",
+   "plotly-python",
+   "plotly-dash",
+   "python",
+   "pandas"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Robinhood-Unofficial-API",
+  "url": "https://github.com/Integuru-AI/Robinhood-Unofficial-API",
+  "desc": "Unofficial API for Robinhood",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2026-06-17",
+  "lang": "Python",
+  "license": "AGPL-3.0",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood.clj",
+  "url": "https://github.com/halljson/robinhood.clj",
+  "desc": "Lightweight Clojure wrapper for the Robinhood web API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 33,
+  "archived": false,
+  "pushed": "2021-01-17",
+  "lang": "Clojure",
+  "license": "",
+  "topics": [
+   "robinhood",
+   "robinhood-api",
+   "stocks",
+   "stock-api",
+   "crypto-api",
+   "stock-news-api"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "robinhood_rs",
+  "url": "https://github.com/sanko/robinhood_rs",
+  "desc": "Rust wrapper for the Robinhood API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2023-03-25",
+  "lang": "Rust",
+  "license": "Artistic-2.0",
+  "topics": [
+   "robinhood",
+   "rust",
+   "stock-market"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "robintrack",
@@ -205556,6 +207239,24 @@
   "added": "2026-10-13"
  },
  {
+  "name": "trade-republic-api",
+  "url": "https://github.com/NightOwl07/trade-republic-api",
+  "desc": "Client for the unofficial Trade Republic API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2026-07-03",
+  "lang": "TypeScript",
+  "license": "GPL-3.0",
+  "topics": [
+   "api",
+   "trade-republic",
+   "traderepublic"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Trading212-API",
   "url": "https://github.com/federico123579/Trading212-API",
   "desc": "Python client for Trading 212 web platform (pre-official API)",
@@ -205689,6 +207390,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Tradinhood",
+  "url": "https://github.com/sshh12/Tradinhood",
+  "desc": "Python library for Robinhood stocks, crypto and options via the private API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 26,
+  "archived": false,
+  "pushed": "2023-05-22",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "robinhood",
+   "robinhood-api",
+   "stocks",
+   "cryptocurrency",
+   "crypto-trading",
+   "robinhood-python"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "tricount-api",
   "url": "https://github.com/elrandar/tricount-api",
   "desc": "Unofficial Python client for the Tricount (bunq) expense-sharing API",
@@ -205739,6 +207461,20 @@
    "scalable-capital"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "Unofficial-TR-Documents-Batch-Downloader",
+  "url": "https://github.com/Erzmaster/Unofficial-TR-Documents-Batch-Downloader",
+  "desc": "Userscript batch-downloading documents from Trade Republic",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-02-17",
+  "lang": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "vanguard-api",
@@ -206010,6 +207746,27 @@
    "market-data"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "ynab-bank-importer",
+  "url": "https://github.com/gitviola/ynab-bank-importer",
+  "desc": "Pulls bank transactions (N26, FinTS) and imports them into YNAB",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Finance & Banking",
+  "stars": 133,
+  "archived": true,
+  "pushed": "2021-09-27",
+  "lang": "Ruby",
+  "license": "MIT",
+  "topics": [
+   "ynab",
+   "importer",
+   "bank",
+   "money",
+   "bbva",
+   "n26"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "zerro",
@@ -206707,6 +208464,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "keepcli",
+  "url": "https://github.com/mgckind/keepcli",
+  "desc": "Unofficial command-line interface for Google Keep",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Google Services",
+  "stars": 25,
+  "archived": false,
+  "pushed": "2019-01-31",
+  "lang": "Python",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "nest-api",
   "url": "https://github.com/gboudreau/nest-api",
   "desc": "Unofficial Nest Learning Thermostat API",
@@ -206979,6 +208750,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "AppleMusicBackup",
+  "url": "https://github.com/krayc425/AppleMusicBackup",
+  "desc": "Backs up an Apple Music library and transfers songs between Apple ID libraries",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 21,
+  "archived": false,
+  "pushed": "2021-05-02",
+  "lang": "Swift",
+  "license": "",
+  "topics": [
+   "apple-music",
+   "apple-music-api",
+   "apple-music-downloader"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "bandcamp-dl",
   "url": "https://github.com/Evolution0/bandcamp-dl",
   "desc": "Simple python script to download Bandcamp albums",
@@ -207030,6 +208819,24 @@
    "cspot"
   ],
   "added": "2026-10-13"
+ },
+ {
+  "name": "dart_ytmusic_api",
+  "url": "https://github.com/MusilyApp/dart_ytmusic_api",
+  "desc": "Unofficial YouTube Music API in Dart",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 19,
+  "archived": false,
+  "pushed": "2026-06-02",
+  "lang": "Dart",
+  "license": "GPL-3.0",
+  "topics": [
+   "dart",
+   "youtube",
+   "youtube-music-api"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "deezer-python",
@@ -207402,6 +209209,27 @@
    "sdk",
    "android-sdk",
    "reverse-engineering"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "Manzana-Apple-Music-Tagger",
+  "url": "https://github.com/dropcreations/Manzana-Apple-Music-Tagger",
+  "desc": "Fetches credits from Apple Music and tags MP4/M4A files",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 36,
+  "archived": false,
+  "pushed": "2023-08-01",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "apple",
+   "apple-music",
+   "json",
+   "m4a",
+   "mutagen",
+   "python"
   ],
   "added": "2026-10-14"
  },
@@ -208515,6 +210343,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "yootto",
+  "url": "https://github.com/yanoshi/yootto",
+  "desc": "Tiny unofficial YouTube Music uploader",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2023-05-09",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "YouTube-Music-API",
   "url": "https://github.com/cj-praveen/YouTube-Music-API",
   "desc": "Unofficial search API for YouTube Music",
@@ -208529,12 +210371,117 @@
   "added": "2026-10-13"
  },
  {
+  "name": "youtube-music-ts-api",
+  "url": "https://github.com/nickp10/youtube-music-ts-api",
+  "desc": "Unofficial YouTube Music API written in TypeScript",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 26,
+  "archived": false,
+  "pushed": "2025-05-22",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "YoutubeMusicApi",
+  "url": "https://github.com/mitchhymel/YoutubeMusicApi",
+  "desc": "Unofficial YouTube Music API for .NET Core",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 7,
+  "archived": false,
+  "pushed": "2020-10-06",
+  "lang": "C#",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "ytm-kt",
   "url": "https://gitlab.com/syk.sh/ytm-kt",
   "desc": "Kotlin Multiplatform library for the unofficial YouTube Music API",
   "category": "Unofficial Web/App API Clients",
   "subcategory": "Music & Audio Streaming",
   "added": "2026-10-13"
+ },
+ {
+  "name": "ytmusic-api",
+  "url": "https://github.com/vladdenisov/ytmusic-api",
+  "desc": "Unofficial YouTube Music API for Node.js in TypeScript",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 51,
+  "archived": false,
+  "pushed": "2024-01-10",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "typescript",
+   "nodejs",
+   "youtube-api",
+   "youtube-music",
+   "youtube-music-api",
+   "ytmusicapi"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "ytmusicapi",
+  "url": "https://github.com/rubuano/ytmusicapi",
+  "desc": "Unofficial YouTube Music API for PHP/Laravel",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 14,
+  "archived": false,
+  "pushed": "2023-11-21",
+  "lang": "PHP",
+  "license": "MIT",
+  "topics": [
+   "youtube",
+   "youtube-music",
+   "youtube-api",
+   "youtube-music-api",
+   "laravel",
+   "php"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "ytmusicapi-php",
+  "url": "https://github.com/theyak/ytmusicapi-php",
+  "desc": "Unofficial YouTube Music API, PHP version",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 15,
+  "archived": false,
+  "pushed": "2026-08-13",
+  "lang": "PHP",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "ytmusicapiJS",
+  "url": "https://github.com/codyduong/ytmusicapiJS",
+  "desc": "Unofficial YouTube Music API for JavaScript",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Music & Audio Streaming",
+  "stars": 11,
+  "archived": true,
+  "pushed": "2023-06-10",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "ytmusicapi",
+   "api",
+   "nodejs",
+   "node",
+   "node-js",
+   "music"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "ytube_music_player",
@@ -208697,6 +210644,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "dict.cc.py",
+  "url": "https://github.com/rbaron/dict.cc.py",
+  "desc": "Unofficial command-line client for dict.cc",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 161,
+  "archived": false,
+  "pushed": "2022-02-06",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "downdetector-api",
   "url": "https://github.com/DavideViolante/downdetector-api",
   "desc": "Unofficial API for Downdetector outage reports",
@@ -208766,6 +210727,27 @@
    "shipping"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "fotmob",
+  "url": "https://github.com/bjrsti/fotmob",
+  "desc": "Unofficial Ruby wrapper for the FotMob API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2026-05-29",
+  "lang": "Ruby",
+  "license": "MIT",
+  "topics": [
+   "api",
+   "football",
+   "fotmob",
+   "gem",
+   "ruby",
+   "ruby-gem"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "fotmob-wrapper",
@@ -209091,6 +211073,27 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Redalert",
+  "url": "https://github.com/t0mer/Redalert",
+  "desc": "Unofficial Pikud HaOref red alert monitor publishing alerts to MQTT",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 23,
+  "archived": false,
+  "pushed": "2026-09-29",
+  "lang": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+   "docker",
+   "home-assistant",
+   "mqtt",
+   "python",
+   "alerts",
+   "apprise"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "rottentomatoes",
   "url": "https://github.com/chrismichaelps/rottentomatoes",
   "desc": "Unofficial library for Rotten Tomatoes movie and TV data",
@@ -209145,6 +211148,27 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-13"
+ },
+ {
+  "name": "sofascore_scraper",
+  "url": "https://github.com/tunjayoff/sofascore_scraper",
+  "desc": "Self-hosted SofaScore data platform using the private SofaScore API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Other APIs",
+  "stars": 43,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+   "football-data",
+   "sofascore",
+   "cli",
+   "data-platform",
+   "docker",
+   "fastapi"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "SynackAPI",
@@ -209493,6 +211517,26 @@
   "added": "2026-10-11"
  },
  {
+  "name": "confluence_to_notion",
+  "url": "https://github.com/hmartiro/confluence_to_notion",
+  "desc": "Improves Confluence to Notion imports using the unofficial Notion API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2020-03-19",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "confluence",
+   "notion",
+   "export",
+   "import",
+   "productivity"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Duolingo",
   "url": "https://github.com/KartikTalwar/Duolingo",
   "desc": "Unofficial Duolingo API Written in Python",
@@ -209600,6 +211644,25 @@
   "license": "MIT",
   "topics": [],
   "added": "2026-10-11"
+ },
+ {
+  "name": "homeassistant-teams",
+  "url": "https://github.com/MrRoundRobin/homeassistant-teams",
+  "desc": "Home Assistant integration for Microsoft Teams meetings via the local API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 18,
+  "archived": true,
+  "pushed": "2023-05-08",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "home-assistant",
+   "homeassistant",
+   "microsoft-teams",
+   "teams"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "iCloud-API",
@@ -209785,6 +211848,24 @@
   "added": "2026-10-13"
  },
  {
+  "name": "ms_teams_websockets",
+  "url": "https://github.com/malkstar/ms_teams_websockets",
+  "desc": "Exposes the Teams client's local websocket API data as Home Assistant sensors",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 21,
+  "archived": false,
+  "pushed": "2024-05-17",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "teams",
+   "websockets",
+   "home-assistant"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "n8n-nodes-plaud-unofficial",
   "url": "https://github.com/leonardsellem/n8n-nodes-plaud-unofficial",
   "desc": "n8n node for Plaud AI voice recorders using the unofficial API",
@@ -209872,6 +211953,26 @@
   "added": "2026-10-11"
  },
  {
+  "name": "notion-backup",
+  "url": "https://github.com/jckleiner/notion-backup",
+  "desc": "Automatic Notion workspace backup using Notion's internal export API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 136,
+  "archived": true,
+  "pushed": "2025-12-06",
+  "lang": "Java",
+  "license": "",
+  "topics": [
+   "notion-backup",
+   "notion-export",
+   "notion",
+   "notion-automation",
+   "backup"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "notion-blog",
   "url": "https://github.com/ijjk/notion-blog",
   "desc": "Next.js blog that reads content from Notion through its private loadPageChunk API",
@@ -209890,6 +211991,20 @@
    "vercel"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "notion-cli",
+  "url": "https://github.com/ekivolowitz/notion-cli",
+  "desc": "Unofficial CLI client for Notion",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 29,
+  "archived": false,
+  "pushed": "2020-04-15",
+  "lang": "Python",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "notion-node",
@@ -209940,6 +212055,20 @@
   "added": "2026-10-13"
  },
  {
+  "name": "notion-ticktick-connector",
+  "url": "https://github.com/anggelomos/notion-ticktick-connector",
+  "desc": "Syncs tasks between Notion and TickTick using the unofficial TickTick API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 15,
+  "archived": false,
+  "pushed": "2026-08-09",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "notionapi",
   "url": "https://github.com/kjk/notionapi",
   "desc": "Unofficial Go API for Notion.so",
@@ -209973,6 +212102,25 @@
    "nodejs"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "notionsnapshot",
+  "url": "https://github.com/sueszli/notionsnapshot",
+  "desc": "Notion web scraper archiving pages to HTML",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 102,
+  "archived": true,
+  "pushed": "2025-12-15",
+  "lang": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+   "notion",
+   "notion-backup",
+   "notion-export",
+   "notion2html"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "O365Essentials",
@@ -210529,6 +212677,87 @@
   "added": "2026-10-13"
  },
  {
+  "name": "teams-chat-backup",
+  "url": "https://github.com/edgraaff/teams-chat-backup",
+  "desc": "Microsoft Teams chat backup tool using the web client's API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 57,
+  "archived": true,
+  "pushed": "2022-12-24",
+  "lang": "JavaScript",
+  "license": "MIT",
+  "topics": [
+   "msteams",
+   "teams",
+   "backup",
+   "chat",
+   "export",
+   "microsoft"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "teams-web-chat-exporter",
+  "url": "https://github.com/gediz/teams-web-chat-exporter",
+  "desc": "Exports Microsoft Teams chats from the web app to JSON, CSV, HTML or PDF",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 54,
+  "archived": false,
+  "pushed": "2026-07-17",
+  "lang": "TypeScript",
+  "license": "MIT",
+  "topics": [
+   "browser-extension",
+   "chat-exporter",
+   "chrome-extension",
+   "microsoft-teams",
+   "teams",
+   "edge-extension"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "TeamsLocalApi",
+  "url": "https://github.com/MrRoundRobin/TeamsLocalApi",
+  "desc": "Client for the Microsoft Teams local third-party app API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 22,
+  "archived": true,
+  "pushed": "2026-02-05",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [
+   "api",
+   "dotnet",
+   "microsoft-teams",
+   "teams"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "TeamsMqttBridge",
+  "url": "https://github.com/MrRoundRobin/TeamsMqttBridge",
+  "desc": "Sends and receives Teams meeting events to an MQTT broker",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 13,
+  "archived": true,
+  "pushed": "2023-05-29",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [
+   "home-assistant",
+   "homeassistant",
+   "microsoft-teams",
+   "mqtt",
+   "teams"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "things-cloud-api",
   "url": "https://github.com/disrupted/things-cloud-api",
   "desc": "Unofficial Python client for Things Cloud",
@@ -210696,6 +212925,27 @@
    "unofficial-api"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "vue3-notion",
+  "url": "https://github.com/zernonia/vue3-notion",
+  "desc": "Unofficial Notion page renderer for Vue 3",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Productivity",
+  "stars": 155,
+  "archived": false,
+  "pushed": "2024-11-01",
+  "lang": "CSS",
+  "license": "MIT",
+  "topics": [
+   "notion",
+   "nuxt3",
+   "vue3",
+   "nuxt",
+   "nuxtjs",
+   "vue"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "wetransfer",
@@ -212653,6 +214903,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "py-tgtg",
+  "url": "https://github.com/HamletDuFromage/py-tgtg",
+  "desc": "Unofficial Too Good To Go API, CLI and Telegram bot",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Shopping & Marketplaces",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2026-01-19",
+  "lang": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+   "bot",
+   "telegram-bot",
+   "toogoodtogo"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "pysilpo",
   "url": "https://github.com/iYasha/pysilpo",
   "desc": "Unofficial API client for Silpo, a Ukrainian supermarket chain",
@@ -214183,6 +216451,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "kakaotrans",
+  "url": "https://github.com/monologg/kakaotrans",
+  "desc": "Unofficial Python client for the Kakao translate API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Translation",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2020-03-29",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "translation",
+   "ajax-api",
+   "kakao"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "linguee-api",
   "url": "https://github.com/imankulov/linguee-api",
   "desc": "Proxy that converts linguee.com HTML responses into a JSON API",
@@ -214425,6 +216711,24 @@
   "added": "2026-10-11"
  },
  {
+  "name": "betterbahn",
+  "url": "https://github.com/BetterBahn/betterbahn",
+  "desc": "Finds cheaper Deutsche Bahn split tickets using DB's booking APIs",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 2540,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "TypeScript",
+  "license": "AGPL-3.0",
+  "topics": [
+   "deutsche-bahn",
+   "open-source",
+   "railway"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "bg1",
   "url": "https://github.com/joelface/bg1",
   "desc": "Unofficial Disney Lightning Lane and boarding group client",
@@ -214555,6 +216859,39 @@
   "added": "2026-10-11"
  },
  {
+  "name": "db-fv-gtfs",
+  "url": "https://github.com/fredlockheed/db-fv-gtfs",
+  "desc": "Unofficial GTFS feed for Deutsche Bahn long-distance trains",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 46,
+  "archived": false,
+  "pushed": "2019-01-10",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "db-prices-cli",
+  "url": "https://github.com/derhuerst/db-prices-cli",
+  "desc": "CLI checking Deutsche Bahn ticket prices for a route",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 12,
+  "archived": false,
+  "pushed": "2021-10-21",
+  "lang": "JavaScript",
+  "license": "ISC",
+  "topics": [
+   "deutsche-bahn",
+   "api",
+   "transport",
+   "transit"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "db-rest",
   "url": "https://github.com/derhuerst/db-rest",
   "desc": "A clean REST API wrapping around the Deutsche Bahn API.",
@@ -214607,6 +216944,27 @@
    "realtime"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "DBAPI",
+  "url": "https://github.com/ArduinoHannover/DBAPI",
+  "desc": "Deutsche Bahn HAFAS API client for ESP8266/ESP32",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 21,
+  "archived": false,
+  "pushed": "2026-10-10",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+   "arduino-library",
+   "esp8266",
+   "deutsche-bahn",
+   "arduino",
+   "bahn",
+   "esp32"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "dominos",
@@ -214676,6 +217034,27 @@
    "public-transportation"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "fahrpreis-plotter",
+  "url": "https://github.com/thigg/fahrpreis-plotter",
+  "desc": "Plots Deutsche Bahn fares for a connection over time",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 17,
+  "archived": false,
+  "pushed": "2024-03-28",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "api",
+   "deutsche-bahn",
+   "plot",
+   "transit",
+   "transport",
+   "transportation"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "fli",
@@ -215333,6 +217712,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "PebbleTransilien",
+  "url": "https://github.com/CocoaBob/PebbleTransilien",
+  "desc": "Unofficial Pebble app for SNCF Transilien",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 9,
+  "archived": false,
+  "pushed": "2016-04-08",
+  "lang": "C",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Pegasustan",
   "url": "https://github.com/sirdx/Pegasustan",
   "desc": "Unofficial .NET client for Pegasus Airlines' API",
@@ -215422,6 +217815,25 @@
   "added": "2026-10-11"
  },
  {
+  "name": "railboard-api",
+  "url": "https://github.com/louboecker/railboard-api",
+  "desc": "Backend making Deutsche Bahn's internal APIs more accessible",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 16,
+  "archived": false,
+  "pushed": "2026-10-13",
+  "lang": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+   "deutsche-bahn",
+   "public-transport",
+   "rest-api",
+   "rust"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "Railway",
   "url": "https://gitlab.com/schmiddi-on-mobile/railway",
   "desc": "GTK app to find train journeys using HAFAS backends",
@@ -215506,6 +217918,44 @@
   "added": "2026-10-11"
  },
  {
+  "name": "sncf-smart-location",
+  "url": "https://github.com/divulgacheur/sncf-smart-location",
+  "desc": "Real-time onboard train locator for France using the SNCF onboard portal",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 11,
+  "archived": false,
+  "pushed": "2026-04-27",
+  "lang": "Shell",
+  "license": "MIT",
+  "topics": [
+   "tgv",
+   "railway",
+   "sncf",
+   "inoui",
+   "train",
+   "openstreetmap"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "sncf-wifi-portal-client",
+  "url": "https://github.com/derhuerst/sncf-wifi-portal-client",
+  "desc": "Queries the SNCF onboard Wi-Fi portal API on French TGV trains",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 20,
+  "archived": false,
+  "pushed": "2022-09-19",
+  "lang": "JavaScript",
+  "license": "ISC",
+  "topics": [
+   "sncf",
+   "public-transport"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "SouthwestCheckin",
   "url": "https://github.com/pyro2927/SouthwestCheckin",
   "desc": "Python script that checks in to Southwest flights",
@@ -215565,6 +218015,26 @@
   "added": "2026-10-11"
  },
  {
+  "name": "TerminalGV",
+  "url": "https://github.com/TheStaticTurtle/TerminalGV",
+  "desc": "Terminal client showing live stats of your SNCF TGV/TER train from the onboard portal",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 14,
+  "archived": false,
+  "pushed": "2022-10-17",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "sncf",
+   "tgv",
+   "ui",
+   "socket-io",
+   "monitoring-tool"
+  ],
+  "added": "2026-10-14"
+ },
+ {
   "name": "teslamate",
   "url": "https://github.com/teslamate-org/teslamate",
   "desc": "A self-hosted data logger for your Tesla [main maintainer=@JakobLichterfeld]",
@@ -215605,6 +218075,48 @@
    "teslamotors"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "TGV_Maximize",
+  "url": "https://github.com/divulgacheur/TGV_Maximize",
+  "desc": "CLI showing available MAX JEUNE (TGVmax) proposals from SNCF",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 22,
+  "archived": true,
+  "pushed": "2024-07-23",
+  "lang": "Python",
+  "license": "",
+  "topics": [
+   "sncf",
+   "tgvmax",
+   "maxjeune",
+   "train",
+   "python3",
+   "utility"
+  ],
+  "added": "2026-10-14"
+ },
+ {
+  "name": "TGVmax",
+  "url": "https://github.com/benoitdemaegdt/TGVmax",
+  "desc": "Notifies when a TGVmax seat becomes available via SNCF's API",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 31,
+  "archived": false,
+  "pushed": "2022-03-24",
+  "lang": "TypeScript",
+  "license": "",
+  "topics": [
+   "tgvmax",
+   "sncf",
+   "nodejs",
+   "typescript",
+   "vuejs",
+   "vuetify"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "themeparks",
@@ -215700,6 +218212,20 @@
    "transit"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "uber-mobile-rider-endpoints",
+  "url": "https://github.com/runexec/uber-mobile-rider-endpoints",
+  "desc": "Unofficial documentation of the Uber mobile rider app endpoints",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 6,
+  "archived": false,
+  "pushed": "2016-09-04",
+  "lang": "",
+  "license": "",
+  "topics": [],
+  "added": "2026-10-14"
  },
  {
   "name": "ubering",
@@ -215820,6 +218346,26 @@
    "telemetry"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "wifi-on-ice-portal-client",
+  "url": "https://github.com/derhuerst/wifi-on-ice-portal-client",
+  "desc": "Queries the WIFIonICE onboard portal API on German ICE trains",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Travel & Transport",
+  "stars": 48,
+  "archived": false,
+  "pushed": "2022-09-19",
+  "lang": "JavaScript",
+  "license": "ISC",
+  "topics": [
+   "ice",
+   "deutsche-bahn",
+   "db",
+   "train",
+   "wifionice"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "wizzair-scraper",
@@ -217192,6 +219738,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "ustvnow-client",
+  "url": "https://github.com/stephensolis/ustvnow-client",
+  "desc": "Unofficial command-line client for USTVnow",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Video & YouTube",
+  "stars": 9,
+  "archived": true,
+  "pushed": "2019-03-30",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [],
+  "added": "2026-10-14"
+ },
+ {
   "name": "xbmc-svtplay",
   "url": "https://github.com/kodi-svtplay/xbmc-svtplay",
   "desc": "Unofficial Kodi add-on for SVT Play",
@@ -217431,6 +219991,27 @@
    "closed-captions"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "YouTubeApiSharp",
+  "url": "https://github.com/snakx/YouTubeApiSharp",
+  "desc": "Private YouTube (InnerTube) API client for .NET",
+  "category": "Unofficial Web/App API Clients",
+  "subcategory": "Video & YouTube",
+  "stars": 44,
+  "archived": false,
+  "pushed": "2021-06-19",
+  "lang": "C#",
+  "license": "MIT",
+  "topics": [
+   "youtube",
+   "youtube-api",
+   "youtube-dl",
+   "youtube-downloader",
+   "youtube-search",
+   "android"
+  ],
+  "added": "2026-10-14"
  },
  {
   "name": "YoutubeExplode",

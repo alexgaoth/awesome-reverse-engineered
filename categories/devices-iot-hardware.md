@@ -1,6 +1,6 @@
 # Devices, IoT & Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=devices-iot-hardware) · 3,023 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=devices-iot-hardware) · 3,029 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -12,11 +12,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [E-readers & E-ink Tablets](#e-readers--e-ink-tablets) (84)
 - [Fitness Equipment](#fitness-equipment) (67)
 - [GPUs & Drivers](#gpus--drivers) (6)
-- [HVAC & Heat Pumps](#hvac--heat-pumps) (250)
+- [HVAC & Heat Pumps](#hvac--heat-pumps) (251)
 - [Lighting & Displays](#lighting--displays) (93)
-- [Locks, Garage & Security](#locks-garage--security) (93)
-- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (85)
-- [Music Gear & Synth Editors](#music-gear--synth-editors) (102)
+- [Locks, Garage & Security](#locks-garage--security) (95)
+- [Medical Devices (CGM, Pumps)](#medical-devices-cgm-pumps) (86)
+- [Music Gear & Synth Editors](#music-gear--synth-editors) (104)
 - [Other](#other) (25)
 - [Peripherals & Gaming Hardware](#peripherals--gaming-hardware) (369)
 - [Printers, Labels & E-ink](#printers-labels--e-ink) (49)
@@ -966,6 +966,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fenix_tft](https://github.com/baracudaz/fenix_tft) | FENIX TFT Wi-Fi thermostats via a reverse-engineered, not officially supported API | 10 | 🟢 | Python |
 | [LG-thermaV-control](https://github.com/djwlindenaar/LG-thermaV-control) | ESP32 ESPHome controller for the LG ThermaV monoblock heat pump | 10 | 🟢 | C |
 | [nest-rest](https://github.com/emilburzo/nest-rest) | Reverse-engineered Nest thermostat API client | 9 | 🟡 | Kotlin |
+| [honeywell-tcc-api](https://github.com/cjmaio/honeywell-tcc-api) | Unofficial API for Honeywell Total Connect Comfort thermostats | 8 | 🗄️ | PHP |
 | [homebridge-sinope](https://github.com/palourde/homebridge-sinope) | Homebridge plugin using the unofficial Sinope thermostat API | 6 | 🔴 | TypeScript |
 | [py-aosmith](https://github.com/bdr99/py-aosmith) | Python client library for A. O. Smith water heaters | 6 | 🟢 | Python |
 | [fuji-exploration](https://codeberg.org/curlews/fuji-exploration) | Hardware and firmware teardown of the Honeywell X2S smart thermostat |  | ⚪ |  |
@@ -1085,6 +1086,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homebridge-myq](https://github.com/hjdhjd/homebridge-myq) | Homebridge plugin for myQ LiftMaster and Chamberlain garage openers | 547 | 🗄️ | TypeScript |
 | [rat-ratgdo](https://github.com/Kaldek/rat-ratgdo) | Open-source schematics for the ratgdo PCB | 508 | 🟡 | HTML |
 | [hass-aarlo](https://github.com/twrecked/hass-aarlo) | Asynchronous Arlo component for Home Assistant using the web API | 481 | 🟢 | Python |
+| [pai](https://github.com/ParadoxAlarmInterface/pai) | Interface to Paradox Magellan, Spectra and EVO alarm panels over their serial/IP protocol with MQTT | 431 | 🟢 | Python |
 | [eufy-security-ws](https://github.com/bropat/eufy-security-ws) | WebSocket server wrapper around the eufy-security-client library | 292 | 🗄️ | TypeScript |
 | [homekit-ratgdo](https://github.com/ratgdo/homekit-ratgdo) | Native HomeKit implementation of the Security+ 2.0 garage door protocol on ratgdo | 260 | 🟢 | C++ |
 | [wyzecam-api](https://github.com/nblavoie/wyzecam-api) | Reverse-engineered Wyze camera API | 260 | 🔴 | Java |
@@ -1118,6 +1120,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [espkyogate](https://github.com/lorenzo-deluca/espkyogate) | Serial bridge for Bentel Kyo alarm systems using the reverse-engineered serial protocol | 62 | 🟢 | C++ |
 | [hass-pik-intercom](https://github.com/alryaz/hass-pik-intercom) | PIK intercoms and cameras (Russia) via the unofficial PIK app API | 61 | 🟡 | Python |
 | [homebridge-node-alarm-dot-com](https://github.com/node-alarm-dot-com/homebridge-node-alarm-dot-com) | Alarm.com plugin for Homebridge | 60 | 🟢 | TypeScript |
+| [php-ring-api](https://github.com/jeroenmoors/php-ring-api) | Unofficial PHP API client for the Ring doorbell | 57 | 🔴 | PHP |
 | [RaspiNukiBridge](https://github.com/dauden1184/RaspiNukiBridge) | Software Nuki Bridge implementation for Raspberry Pi | 51 | 🟢 | Python |
 | [abodepy](https://github.com/MisterWil/abodepy) | Thin Python wrapper for the Abode alarm API | 50 | 🟢 | Python |
 | [doorman](https://github.com/peteh/doorman) | ESP MQTT bridge for TCS and Koch intercom door systems using their two-wire bus | 50 | 🟡 | C++ |
@@ -1245,6 +1248,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BerryMed-Pulse-Oximeter-tool](https://github.com/ehborisov/BerryMed-Pulse-Oximeter-tool) | Tool to read BerryMed BLE pulse oximeters | 10 | 🔴 | Python |
 | [ecc1/dexcom](https://github.com/ecc1/dexcom) | Go package for talking to Dexcom CGM receivers and transmitters | 10 | 🔴 | Go |
 | [omnipod_rf](https://github.com/ps2/omnipod_rf) | Python SDR tools for decoding Omnipod RF packets | 10 | 🔴 | Jupyter Notebook |
+| [wellue-o2ring-protocol](https://github.com/farolone/wellue-o2ring-protocol) | Reverse-engineered BLE protocol documentation for the Wellue O2Ring pulse oximeter | 10 | 🟢 |  |
 | [Lookout](https://github.com/xdrip-js/Lookout) | Dexcom transmitter monitor for OpenAPS rigs | 9 | 🟢 | JavaScript |
 | [mmblelink](https://github.com/bewest/mmblelink) | Pure Python RileyLink BLE driver for Medtronic pumps | 8 | 🔴 | Python |
 | [CircuitPython BLE BerryMed](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter) | CircuitPython BLE support for BerryMed pulse oximeters | 7 | 🟢 | Python |
@@ -1360,6 +1364,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [op-1-tools](https://github.com/sowbug/op-1-tools) | Research and tools on Teenage Engineering OP-1 file formats | 11 | 🔴 |  |
 | [axefx-sysex-maps](https://github.com/BigSaurus/axefx-sysex-maps) | Reverse-engineered Fractal Axe-Fx III SysEx and parameter maps | 10 | 🟢 |  |
 | [zamphenom](https://github.com/andrezaiats/zamphenom) | DSP56720 emulator that runs Kemper Profiler firmware as a VST plugin | 10 | 🟢 | C++ |
+| [helix-py-api](https://github.com/HackLabsGuitar/helix-py-api) | Unofficial API for managing Line 6 Helix files and devices | 9 | 🟡 | Python |
+| [ubersaw](https://github.com/house-of-houses/ubersaw) | Eurorack recreation of the Roland JP-8000 supersaw from its reverse-engineered algorithm | 7 | 🟢 | C++ |
 | [TuxKatana](https://github.com/s4mdf0o1/TuxKatana) | GTK4 Linux editor for the Boss Katana Mk2 amplifier over USB MIDI SysEx | 4 | 🟢 | Python |
 | [architect-linux](https://codeberg.org/roderik333/architect-linux) | Reverse-engineered minimal Linux version of Blackstar Architect for core:id series guitar amplifiers |  | ⚪ |  |
 | [djm-t1-linux](https://gitlab.com/tek.cat/djm-t1-linux) | Makes the Pioneer DJM-T1 mixer work as a MIDI controller on Linux by replaying the vendor USB command |  | ⚪ |  |

@@ -1,6 +1,6 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 418 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 422 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,10 +8,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Casting & TV Remotes](#casting--tv-remotes) (42)
 - [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (26)
 - [Digital Voice Radio](#digital-voice-radio) (14)
-- [Email & Groupware](#email--groupware) (25)
+- [Email & Groupware](#email--groupware) (26)
 - [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (26)
 - [Legacy IM Revival](#legacy-im-revival) (2)
-- [Messaging Protocols](#messaging-protocols) (18)
+- [Messaging Protocols](#messaging-protocols) (21)
 - [Other Protocols](#other-protocols) (18)
 - [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
 - [Radio & SDR Protocols](#radio--sdr-protocols) (63)
@@ -168,6 +168,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pyexchange](https://github.com/linkedin/pyexchange) | Python wrapper for Microsoft Exchange | 154 | 🔴 | Python |
 | [node-ews](https://github.com/nmarus/node-ews) | A simple JSON wrapper for the Exchange Web Services (EWS) SOAP API. | 116 | 🔴 | JavaScript |
 | [ruby-msg](https://github.com/aquasync/ruby-msg) | Ruby library for reading Outlook .msg and .pst (MAPI message store) files | 103 | 🟢 | Ruby |
+| [protonmail-cli](https://github.com/dimkouv/protonmail-cli) | Unofficial command-line utility for ProtonMail | 97 | 🔴 | Python |
 | [akonadi-ews](https://github.com/KrissN/akonadi-ews) | Akonadi resource agent for Microsoft Exchange using Exchange Web Services (EWS) protocol | 95 | 🔴 | C++ |
 | [ews-cpp](https://github.com/otris/ews-cpp) | A C++11 header-only library for Microsoft Exchange Web Services | 77 | 🟢 | C++ |
 | [evolution-ews](https://github.com/GNOME/evolution-ews) | Read-only mirror of https://gitlab.gnome.org/GNOME/evolution-ews | 65 | 🟢 | C |
@@ -236,10 +237,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mautrix-meta](https://github.com/mautrix/meta) | Matrix bridge for Facebook Messenger and Instagram DMs | 448 | 🟢 | Go |
 | [purple-discord](https://github.com/EionRobb/purple-discord) | Discord protocol plugin for Pidgin/libpurple | 432 | 🟢 | C |
 | [purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) | WhatsApp plugin for Pidgin/libpurple built on whatsmeow | 364 | 🟢 | C |
+| [Telegram-Server-Java](https://github.com/aykutalparslan/Telegram-Server-Java) | Unofficial Telegram MTProto server in Java | 241 | 🗄️ | Java |
 | [purple-teams](https://github.com/EionRobb/purple-teams) | Third-party Microsoft Teams plugin for Pidgin/libpurple | 215 | 🟢 | C |
+| [Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) | Unofficial Telegram server in C# with channels, media, secret chats and calls | 175 | 🟢 | C# |
 | [fossteams/teams-api](https://github.com/fossteams/teams-api) | Unofficial Go library for Microsoft Teams internal APIs used by the official clients | 165 | 🔴 | Go |
 | [ts3j](https://github.com/Manevolent/ts3j) | Open-source Java TeamSpeak 3 client library using the full client protocol | 132 | 🟢 | Java |
 | [mautrix-googlechat](https://github.com/mautrix/googlechat) | Matrix-Google Chat puppeting bridge | 127 | 🟢 | Python |
+| [telegramd](https://github.com/bluefoxah/telegramd) | Unofficial open-source Telegram server written in Go | 28 | 🔴 | Go |
 | [mini-telegram](https://github.com/Yumcoder-dev/mini-telegram) | Unofficial MTProto server in Rust that works with Telegram clients | 14 | 🔴 | Rust |
 | [poggadaj](https://github.com/Oreeeee/poggadaj) | Open Source reimplementation of Gadu-Gadu backend (official mirror of https://codeberg.org/or3e/poggadaj) | 8 | 🟢 | Go |
 | [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🔴 | Go |

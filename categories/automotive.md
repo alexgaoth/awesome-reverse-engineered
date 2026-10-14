@@ -1,6 +1,6 @@
 # Automotive
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 519 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 520 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -10,7 +10,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [EV Batteries & BMS](#ev-batteries--bms) (25)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (56)
 - [Motorcycles](#motorcycles) (10)
-- [Scooters & E-bikes](#scooters--e-bikes) (61)
+- [Scooters & E-bikes](#scooters--e-bikes) (62)
 
 ## Bikes, Trainers & Bike Computers
 
@@ -538,6 +538,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ha-bosch-ebike-flow](https://github.com/marq24/ha-bosch-ebike-flow) | Bosch eBike Flow integration for Home Assistant | 27 | 🟢 | Python |
 | [stromer](https://github.com/CoMPaTech/stromer) | Home Assistant integration for Stromer speed pedelecs via their cloud API | 27 | 🟢 | Python |
 | [TSDZ2 motor firmware](https://github.com/OpenSourceEBike/TongSheng_TSDZ2_motor_controller_firmware) | Open-source firmware for the TongSheng TSDZ2 mid-drive motor | 24 | 🗄️ | C |
+| [lime-scooter](https://github.com/kenberland/lime-scooter) | Reverse-engineered Lime gen3 scooter controller for an ESP8266 | 23 | 🔴 | C++ |
 | [VanMooof-Module](https://github.com/Knight1/VanMooof-Module) | Reverse-engineered VanMoof S3/X3/S4/X4 module protocols | 21 | 🟢 | Go |
 | [decode-vanmoof-blt-packages](https://github.com/mjarkk/decode-vanmoof-blt-packages) | Inspect Bluetooth sniff captures of VanMoof bike traffic | 20 | 🔴 | Go |
 | [ebike-connect-js](https://github.com/FlorianCassayre/ebike-connect-js) | Unofficial Node API for the Bosch eBike Connect web service | 20 | 🟡 | TypeScript |

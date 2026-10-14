@@ -2657,3 +2657,99 @@
 - topic:yeelight stars:>10
 - topic:youtube-music stars:>10
 - topic:zwift stars:>10
+- "bird" in:name,description local api stars:>10
+- "bird" in:name,description reverse engineered stars:>5
+- "bird" in:name,description unofficial stars:>5
+- "deutsche bahn" in:name,description local api stars:>10
+- "deutsche bahn" in:name,description reverse engineered stars:>5
+- "deutsche bahn" in:name,description unofficial stars:>5
+- "discord" in:name,description local api stars:>10
+- "discord" in:name,description reverse engineered stars:>5
+- "discord" in:name,description unofficial stars:>5
+- "duolingo" in:name,description local api stars:>10
+- "duolingo" in:name,description reverse engineered stars:>5
+- "duolingo" in:name,description unofficial stars:>5
+- "figma" in:name,description local api stars:>10
+- "figma" in:name,description reverse engineered stars:>5
+- "figma" in:name,description unofficial stars:>5
+- "kakao" in:name,description local api stars:>10
+- "kakao" in:name,description reverse engineered stars:>5
+- "kakao" in:name,description unofficial stars:>5
+- "lime" in:name,description local api stars:>10
+- "lime" in:name,description reverse engineered stars:>5
+- "lime" in:name,description unofficial stars:>5
+- "line" in:name,description local api stars:>10
+- "line" in:name,description reverse engineered stars:>5
+- "line" in:name,description unofficial stars:>5
+- "monzo" in:name,description local api stars:>10
+- "monzo" in:name,description reverse engineered stars:>5
+- "monzo" in:name,description unofficial stars:>5
+- "n26" in:name,description local api stars:>10
+- "n26" in:name,description reverse engineered stars:>5
+- "n26" in:name,description unofficial stars:>5
+- "notion" in:name,description local api stars:>10
+- "notion" in:name,description reverse engineered stars:>5
+- "notion" in:name,description unofficial stars:>5
+- "revolut" in:name,description local api stars:>10
+- "revolut" in:name,description reverse engineered stars:>5
+- "revolut" in:name,description unofficial stars:>5
+- "robinhood" in:name,description local api stars:>10
+- "robinhood" in:name,description reverse engineered stars:>5
+- "robinhood" in:name,description unofficial stars:>5
+- "ryanair" in:name,description local api stars:>10
+- "ryanair" in:name,description reverse engineered stars:>5
+- "ryanair" in:name,description unofficial stars:>5
+- "signal" in:name,description local api stars:>10
+- "signal" in:name,description reverse engineered stars:>5
+- "signal" in:name,description unofficial stars:>5
+- "slack" in:name,description local api stars:>10
+- "slack" in:name,description reverse engineered stars:>5
+- "slack" in:name,description unofficial stars:>5
+- "sncf" in:name,description local api stars:>10
+- "sncf" in:name,description reverse engineered stars:>5
+- "sncf" in:name,description unofficial stars:>5
+- "teams" in:name,description local api stars:>10
+- "teams" in:name,description reverse engineered stars:>5
+- "teams" in:name,description unofficial stars:>5
+- "telegram" in:name,description local api stars:>10
+- "telegram" in:name,description reverse engineered stars:>5
+- "telegram" in:name,description unofficial stars:>5
+- "tier" in:name,description local api stars:>10
+- "tier" in:name,description reverse engineered stars:>5
+- "tier" in:name,description unofficial stars:>5
+- "trade republic" in:name,description local api stars:>10
+- "trade republic" in:name,description reverse engineered stars:>5
+- "trade republic" in:name,description unofficial stars:>5
+- "uber" in:name,description local api stars:>10
+- "uber" in:name,description reverse engineered stars:>5
+- "uber" in:name,description unofficial stars:>5
+- "wechat" in:name,description local api stars:>10
+- "wechat" in:name,description reverse engineered stars:>5
+- "wechat" in:name,description unofficial stars:>5
+- "zoom" in:name,description local api stars:>10
+- "zoom" in:name,description reverse engineered stars:>5
+- "zoom" in:name,description unofficial stars:>5
+- topic:bird stars:>10
+- topic:deutsche-bahn stars:>10
+- topic:discord stars:>10
+- topic:duolingo stars:>10
+- topic:figma stars:>10
+- topic:kakao stars:>10
+- topic:lime stars:>10
+- topic:line stars:>10
+- topic:monzo stars:>10
+- topic:n26 stars:>10
+- topic:notion stars:>10
+- topic:revolut stars:>10
+- topic:robinhood stars:>10
+- topic:ryanair stars:>10
+- topic:signal stars:>10
+- topic:slack stars:>10
+- topic:sncf stars:>10
+- topic:teams stars:>10
+- topic:telegram stars:>10
+- topic:tier stars:>10
+- topic:trade-republic stars:>10
+- topic:uber stars:>10
+- topic:wechat stars:>10
+- topic:zoom stars:>10

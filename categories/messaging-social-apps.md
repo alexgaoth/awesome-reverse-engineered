@@ -1,18 +1,18 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 278 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 296 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bridges & Multi-protocol](#bridges--multi-protocol) (44)
-- [Discord & Slack](#discord--slack) (31)
+- [Discord & Slack](#discord--slack) (39)
 - [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (51)
 - [Other Messaging](#other-messaging) (33)
-- [Signal & Telegram](#signal--telegram) (15)
+- [Signal & Telegram](#signal--telegram) (17)
 - [Social Media Private APIs](#social-media-private-apis) (19)
 - [TikTok & Snapchat](#tiktok--snapchat) (28)
 - [Twitter/X](#twitterx) (22)
-- [WhatsApp](#whatsapp) (22)
+- [WhatsApp](#whatsapp) (30)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (13)
 
 ## Bridges & Multi-protocol
@@ -69,8 +69,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord modification | 14,256 | 🟢 | TypeScript |
+| [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | Exports Discord chat logs to HTML, JSON, CSV or text files | 12,182 | 🟢 | C# |
 | [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. | 9,283 | 🟢 | TypeScript |
 | [Vesktop](https://github.com/Vencord/Vesktop) | Custom Discord desktop app with Vencord preinstalled | 8,496 | 🟢 | TypeScript |
+| [spacebarchat](https://github.com/spacebarchat/spacebarchat) | Free, self-hostable reimplementation of a Discord-compatible chat platform and API | 6,716 | 🟢 |  |
 | [discordo](https://github.com/ayn2op/discordo) | A lightweight, secure, and feature-rich Discord terminal (TUI) client. | 5,825 | 🟢 | Go |
 | [OpenAsar](https://github.com/GooseMod/OpenAsar) | Open-source rewrite of Discord desktop's app.asar | 3,036 | 🟢 | JavaScript |
 | [slackdump](https://github.com/rusq/slackdump) | Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. | 2,824 | 🟢 | Go |
@@ -80,6 +82,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [discord.py-self](https://github.com/dolfies/discord.py-self) | Fork of discord.py wrapping Discord's user (self-bot) API | 1,279 | 🟢 | Python |
 | [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) | An unofficial discord.js fork for creating selfbots | 1,234 | 🗄️ | JavaScript |
 | [Replugged](https://github.com/replugged-org/replugged) | Lightweight Discord client mod, continuation of Powercord | 732 | 🟢 | TypeScript |
+| [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) | C# implementation of the Discord Rich Presence IPC protocol | 694 | 🟢 | C# |
 | [arikawa](https://github.com/diamondburned/arikawa) | A Golang library and framework for the Discord API. | 600 | 🟢 | Go |
 | [discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers) | Unofficial Discord User API Documentation | 424 | 🟢 | MDX |
 | [slackApiDoc](https://github.com/ErikKalkoken/slackApiDoc) | Documentation of undocumented Slack API methods | 411 | 🟡 |  |
@@ -92,10 +95,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Oldcord](https://github.com/oldcordapp/Oldcord) | Moved to https://git.dere.net/oldcord/oldcord | 77 | 🗄️ | JavaScript |
 | [ripcord-api](https://github.com/saucecode/ripcord-api) | Reverse engineered Discord API that mimics the official web client | 58 | 🗄️ | Python |
 | [mee6-levels-api](https://github.com/rjt-rockx/mee6-levels-api) | Unofficial wrapper for the MEE6 Discord bot levels API: leaderboards, role rewards and XP | 54 | 🔴 | JavaScript |
+| [discord-together](https://github.com/apurv-r/discord-together) | Unofficial module to launch Discord's beta Activities such as YouTube Together | 49 | 🔴 | Python |
 | [unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | 49 | 🟡 | C++ |
 | [teams-api](https://github.com/nakasyou/teams-api) | Unofficial Micorosoft Teams client/cli | 39 | 🟢 | TypeScript |
+| [docs](https://github.com/DiscordAPI/docs) | Unofficial Discord API documentation | 35 | 🗄️ |  |
+| [Remedy](https://github.com/Naozumi520/Remedy) | Unofficial Discord overlay support for macOS | 34 | 🗄️ | JavaScript |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Decompilation of Discord's updater.node | 20 | 🟢 | C++ |
 | [mee6-py-api](https://github.com/hyperevo/mee6-py-api) | Unofficial Python API for the MEE6 Discord bot leaderboards | 14 | 🔴 | Python |
+| [Reversecord](https://github.com/enginestein/Reversecord) | Reverse-engineered Discord client code | 13 | 🔴 | JavaScript |
+| [antisocialcord-kt](https://github.com/Nightdavisao/antisocialcord-kt) | Kotlin library talking to Discord as the Android app, reverse-engineered from the official client | 10 | 🟢 | Kotlin |
 | [slack-openapi-generator](https://github.com/connectstrata/slack-openapi-generator) | Regenerates Slack's withdrawn OpenAPI spec by analysing the Slack Node SDK | 7 | 🟢 | JavaScript |
 | [discord-unofficial-docs](https://gitlab.com/luna/discord-unofficial-docs) | Unofficial documentation for undocumented Discord APIs |  | ⚪ |  |
 | [redrpc](https://codeberg.org/techmetx11/redrpc) | Reimplementation of Discord's local RPC server for third-party rich presence |  | ⚪ |  |
@@ -212,6 +220,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [scli](https://github.com/isamert/scli) | a simple terminal user interface for signal messenger (using signal-cli) | 538 | 🟡 | Python |
 | [presage](https://github.com/whisperfish/presage) | A high-level Rust library to help write clients for the Signal Messenger. | 271 | 🟢 | Rust |
 | [signal-backup-decode](https://github.com/pajowu/signal-backup-decode) | Decodes Signal Android backup files | 231 | 🟡 | Rust |
+| [signal2html](https://github.com/GjjvdBurg/signal2html) | Exports a Signal backup to readable HTML | 116 | 🔴 | Python |
+| [Signal-Windows](https://github.com/signal-csharp/Signal-Windows) | Unofficial Signal Private Messenger client for Windows | 113 | 🔴 | C# |
 | [Flare](https://gitlab.com/schmiddi-on-mobile/flare) | Unofficial Signal GTK client for Linux |  | ⚪ |  |
 
 ## Social Media Private APIs
@@ -320,10 +330,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) | Whatsapp client written purely in Rust | 906 | 🟢 | Rust |
 | [wa-js](https://github.com/wppconnect-team/wa-js) | WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web | 819 | 🟢 | TypeScript |
 | [neonize](https://github.com/krypton-byte/neonize) | A high-performance Python SDK for building real-time WhatsApp applications with a Go-powered core, event-driven... | 757 | 🟢 | Python |
+| [whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) | Chrome extension that disables read receipts and presence updates on WhatsApp Web | 406 | 🟢 | JavaScript |
+| [whatsapp-web](https://github.com/zvovov/whatsapp-web) | WhatsApp chat from the command line via WhatsApp Web | 316 | 🟢 | Python |
 | [unoapi-cloud](https://github.com/clairton/unoapi-cloud) | Unofficial WhatsApp Cloud API compatible server built on WhatsApp Web | 257 | 🟢 | TypeScript |
+| [WPP4Delphi](https://github.com/wppconnect-team/WPP4Delphi) | Exports WhatsApp Web functions for Delphi applications | 252 | 🟢 | Pascal |
+| [zapo](https://github.com/vinikjkkj/zapo) | Lightweight TypeScript library for the WhatsApp Web multi-device protocol | 251 | 🟢 | TypeScript |
 | [kyros](https://github.com/lc-at/kyros) | Python wrapper for WhatsApp Web API websocket communication (based on https://github.com/sigalor/whatsapp-web-reveng) | 112 | 🗄️ | HTML |
 | [whatsapp-web-multi-device-reveng](https://github.com/sigalor/whatsapp-web-multi-device-reveng) | Reverse engineering of multi-device WhatsApp Web | 90 | 🗄️ | Python |
 | [ha-whatsapp](https://github.com/FaserF/ha-whatsapp) | Send and receive WhatsApp messages from Home Assistant as a linked device over the web protocol | 53 | 🟢 | Python |
+| [wamd](https://github.com/serenity-77/wamd) | Unofficial WhatsApp Web multi-device client API | 32 | 🔴 | Python |
+| [WhatsApi-Android-1](https://github.com/madcyph3r/WhatsApi-Android-1) | Unofficial WhatsApp client for Android using the reverse-engineered protocol | 12 | 🔴 | Java |
+| [wildcat](https://github.com/NotoriousArnav/wildcat) | Unofficial reverse-engineered WhatsApp integration layer for data connectivity | 9 | 🟢 | JavaScript |
+| [python-whatsappy](https://github.com/basilfx/python-whatsappy) | Unofficial Python API for the WhatsApp chat protocol (deprecated) | 8 | 🔴 | Python |
 
 ## iMessage & Apple Messaging
 

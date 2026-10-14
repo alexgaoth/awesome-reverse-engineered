@@ -1,11 +1,11 @@
 # Collections & Awesome Lists
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=collections-awesome-lists) · 101 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=collections-awesome-lists) · 103 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AI](#ai) (2)
-- [APIs & Apps](#apis--apps) (24)
+- [APIs & Apps](#apis--apps) (26)
 - [Games](#games) (40)
 - [General RE](#general-re) (16)
 - [Hardware & IoT](#hardware--iot) (19)
@@ -26,6 +26,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LibRedirect](https://github.com/libredirect/browser_extension) | Extension whose config lists ~100 privacy frontends for popular sites | 4,079 | 🟢 | JSON |
 | [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) | Collection of reverse-engineered unofficial APIs for popular web services | 2,752 | 🟡 |  |
 | [Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) | Curated Android RE training, resources and tools | 2,735 | 🟡 |  |
+| [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) | Collection of third-party clients and mods for Discord | 2,615 | 🟢 |  |
 | [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) | 🔐🌐 Privacy-respecting web frontends for popular services | 2,325 | 🟡 |  |
 | [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) | Curated list of Android security and reverse engineering resources | 2,026 | 🟢 |  |
 | [sperm](https://github.com/darbra/sperm) | Collection of Chinese app and web reverse engineering articles | 1,422 | 🟢 |  |
@@ -36,6 +37,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [awesome-alternative-frontends](https://github.com/Myzel394/awesome-alternative-frontends) | A curated list of awesome alternative, privacy-friendly frontends. | 94 | 🟡 |  |
 | [APIs-by-Integuru](https://github.com/Integuru-AI/APIs-by-Integuru) | Collection of unofficial APIs built by reverse engineering web apps | 84 | 🟢 | Python |
 | [Private-APIs](https://github.com/kolsha/Private-APIs) | List of private APIs of various platforms (Russian-language) | 47 | 🔴 |  |
+| [signal-soft](https://github.com/exquo/signal-soft) | List of third-party libraries and clients for the Signal messenger | 35 | 🔴 |  |
 | [AwesomeTwitterUndocumentedAPI](https://github.com/fa0311/AwesomeTwitterUndocumentedAPI) | A curated list of awesome Twitter Undocumented API | 33 | 🟡 | Python |
 | [unofficial-apis (nborrmann)](https://github.com/nborrmann/unofficial-apis) | Collection of unofficial, reverse-engineered API libraries grouped by service category | 4 | 🔴 |  |
 | [private-apis](https://github.com/meaqese/private-apis) | Russian-language list of discovered private/unofficial APIs of companies without public APIs | 3 | 🔴 |  |

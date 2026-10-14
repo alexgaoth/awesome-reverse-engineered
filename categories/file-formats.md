@@ -1,6 +1,6 @@
 # File Formats
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 435 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 436 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -17,7 +17,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Media Codecs & Containers](#media-codecs--containers) (10)
 - [Office & Documents](#office--documents) (73)
 - [Other](#other) (7)
-- [Windows & Forensic Artifacts](#windows--forensic-artifacts) (68)
+- [Windows & Forensic Artifacts](#windows--forensic-artifacts) (69)
 
 ## Audio & Music Production
 
@@ -491,6 +491,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [spotlight_parser](https://github.com/ydkhatri/spotlight_parser) | Reads macOS Spotlight store.db databases | 138 | 🟢 | Python |
 | [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) | Parser for the Windows AppCompatCache (ShimCache) | 129 | 🟢 | C# |
 | [JLECmd](https://github.com/EricZimmerman/JLECmd) | Parser for Windows Automatic and Custom Destinations jump lists | 124 | 🟢 | C# |
+| [forensicsim](https://github.com/lxndrblz/forensicsim) | Autopsy parser extracting Microsoft Teams messages, posts and contacts from its LevelDB stores | 123 | 🟢 | Python |
 | [Windows-Prefetch-Parser](https://github.com/PoorBillionaire/Windows-Prefetch-Parser) | Parses Windows Prefetch files from XP to Windows 10 | 123 | 🟡 | Python |
 | [USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser) | Python script to parse the NTFS USN change journal | 119 | 🔴 | Python |
 | [Lnk](https://github.com/EricZimmerman/Lnk) | C# library for parsing Windows LNK shortcut files | 99 | 🟢 | C# |

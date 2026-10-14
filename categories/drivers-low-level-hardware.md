@@ -1,6 +1,6 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 432 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 433 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -10,7 +10,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [GPU Drivers](#gpu-drivers) (31)
 - [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (84)
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (41)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (83)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (84)
 - [Laptop EC & Peripherals](#laptop-ec--peripherals) (78)
 - [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (39)
 - [Wi-Fi & Radios](#wi-fi--radios) (21)
@@ -339,6 +339,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [QtDMM](https://github.com/qtdmm/QtDMM) | Reads, plots and logs digital multimeters over their serial protocols | 17 | 🟢 | C++ |
 | [victor70c](https://github.com/mvneves/victor70c) | Victor 70C multimeter software for Linux | 17 | 🔴 | C |
 | [owon_hds200](https://github.com/qwindelzorf/owon_hds200) | Python interface to OWON HDS200 handheld oscilloscopes | 16 | 🔴 | Python |
+| [tinySA_python](https://github.com/LC-Linkous/tinySA_python) | Unofficial Python API for the tinySA spectrum analyzer line | 16 | 🟢 | Python |
 | [dl24](https://github.com/tshaddack/dl24) | Python control for Atorch DL24P and other electronic loads | 14 | 🟡 | Python |
 | [nikon](https://github.com/slietar/nikon) | Python control of the Nikon Ti2-E microscope through its reverse-engineered USB protocol | 6 | 🟡 | Python |
 | [minipro-rs](https://gitlab.com/arcturus8081/minipro-rs) | Rust reimplementation of minipro for XGecu TL866/T48/T56/T76 chip programmers |  | ⚪ |  |

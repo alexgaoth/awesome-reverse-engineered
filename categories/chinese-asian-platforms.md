@@ -1,6 +1,6 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 315 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 324 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,10 +8,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Cloud Drives](#cloud-drives) (33)
 - [Douyin & Kuaishou](#douyin--kuaishou) (26)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (27)
-- [Japan & Korea](#japan--korea) (39)
+- [Japan & Korea](#japan--korea) (47)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
 - [Shopping & Services](#shopping--services) (21)
-- [WeChat & QQ](#wechat--qq) (63)
+- [WeChat & QQ](#wechat--qq) (64)
 - [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (26)
 
 ## Bilibili
@@ -205,14 +205,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LINE-instant-messenger-protocol](https://github.com/ruyaoyao/LINE-instant-messenger-protocol) | It is work of Matti Virkkunen, link to http://altrepo.eu/git/line-protocol.git for latest update. | 114 | 🔴 | Thrift |
 | [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) | 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS | 114 | 🟢 | Swift |
 | [mercari-python-api](https://github.com/philipperemy/mercari-python-api) | Python API for the Mercari marketplace | 94 | 🗄️ | Python |
+| [linepy-modified](https://github.com/crash-override404/linepy-modified) | Python library for LINE's unofficial messaging API | 90 | 🔴 | Python |
 | [LINE-Source](https://github.com/BroNils/LINE-Source) | Extracted and readable LINE client-side Thrift protocol definitions | 57 | 🔴 | Thrift |
 | [dcinside-python3-api](https://github.com/eunchuldev/dcinside-python3-api) | Unofficial Python API for the DCInside Korean forum | 56 | 🟡 | Python |
+| [line-protocol](https://github.com/fadhiilrachman/line-protocol) | Documentation of LINE's private Thrift messaging protocol | 49 | 🔴 | Thrift |
 | [Hanairo](https://github.com/youshen2/Hanairo) | 一款使用 SwiftUI 构建的，为 iOS 原生开发的第三方 Pixiv 客户端 | 45 | 🟢 | Swift |
 | [soop](https://github.com/reindeer002/soop) | Unofficial API library for the SOOP (AfreecaTV) live streaming platform | 38 | 🟢 | TypeScript |
 | [paypax](https://github.com/EdamAme-x/paypax) | Unofficial PayPay API wrapper library | 34 | 🗄️ | TypeScript |
+| [line-cli](https://github.com/kongesque/line-cli) | Unofficial LINE CLI for personal accounts: send messages, share files, automate with JSON | 29 | 🟢 | Go |
+| [LineApiGo](https://github.com/sakura-rip/LineApiGo) | Unofficial LINE API in Go | 26 | 🔴 | Go |
 | [pixivts](https://github.com/book000/pixivts) | Unofficial TypeScript library for the pixiv app API | 19 | 🟢 | TypeScript |
+| [jsline-api](https://github.com/CYBAI/jsline-api) | Unofficial Naver LINE API for JavaScript (deprecated) | 14 | 🗄️ | JavaScript |
+| [line-rb](https://github.com/TakagiChan/line-rb) | Unofficial LINE API for Ruby | 9 | 🔴 | Ruby |
 | [Line-Unofficial-API](https://github.com/bobwei/Line-Unofficial-API) | Line-Unofficial-API | 8 | 🔴 | Python |
 | [typeinside](https://github.com/Akachu/typeinside) | Promise-based unofficial API for the DCInside Korean forum | 8 | 🔴 | TypeScript |
+| [kakaocli-win](https://github.com/Lee-SiHyeon/kakaocli-win) | Unofficial KakaoTalk CLI for Windows | 6 | 🟢 | Python |
+| [line-api](https://github.com/2manslkh/line-api) | Unofficial LINE API | 6 | 🟢 | WebAssembly |
 | [nico](https://github.com/178inaba/nico) | Go client for the Niconico API | 2 | 🔴 | Go |
 | [niconico.py](https://github.com/Negima1072/niconico.py) | Python library to fetch Niconico video data and downloads | 0 | 🔴 |  |
 
@@ -287,6 +295,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) | Electron WeChat client for macOS and Linux wrapping web WeChat | 13,815 | 🗄️ | JavaScript |
 | [NapCatQQ](https://github.com/NapNeko/NapCatQQ) | NapCat: OneBot 11 bot framework built by hooking the NTQQ desktop client | 10,950 | 🟢 | TypeScript |
 | [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | Go implementation of the reverse-engineered QQ protocol exposing the OneBot API | 10,618 | 🟢 | Go |
+| [wechatDownload](https://github.com/qiye45/wechatDownload) | Batch downloader for WeChat Official Account articles with comments and collections | 9,767 | 🟢 | HTML |
 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Exports WeChat chat history from iTunes/iOS backups | 8,534 | 🟡 | C++ |
 | [WeixinBot](https://github.com/Urinx/WeixinBot) | Web WeChat API with a terminal client and bot | 7,410 | 🔴 | Python |
 | [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) | Plugin loader for the QQNT Electron client | 7,066 | 🗄️ | JavaScript |

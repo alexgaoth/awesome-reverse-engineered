@@ -1,11 +1,11 @@
 # Third-party Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 177 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=third-party-clients) · 190 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Chat & Messaging](#chat--messaging) (57)
-- [Music Streaming](#music-streaming) (71)
+- [Chat & Messaging](#chat--messaging) (69)
+- [Music Streaming](#music-streaming) (72)
 - [Social Media](#social-media) (8)
 - [Video & Streaming](#video--streaming) (41)
 
@@ -28,6 +28,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [powercord](https://github.com/powercord-org/powercord) | Lightweight Discord client mod focused on simplicity and performance | 1,191 | 🔴 | JavaScript |
 | [whatscli](https://github.com/normen/whatscli) | Command-line WhatsApp client built on reverse-engineered WhatsApp Web protocol | 1,064 | 🟢 | Go |
 | [endcord](https://github.com/sparklost/endcord) | Feature-rich Discord TUI client | 1,011 | 🟢 | Python |
+| [GoofCord](https://github.com/Milkshiift/GoofCord) | Configurable, privacy-minded third-party Discord client | 1,005 | 🟢 | TypeScript |
 | [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) | Console Facebook Messenger client using reverse-engineered web endpoints | 764 | 🔴 | JavaScript |
 | [shelter](https://github.com/uwu/shelter) | Discord client mod designed to survive Discord client updates | 651 | 🟢 | TypeScript |
 | [gtkcord3](https://github.com/diamondburned/gtkcord3) | GTK3 Discord client in Go (predecessor of Dissent) | 614 | 🗄️ | Go |
@@ -67,9 +68,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [lusid](https://github.com/lsd-so/lusid) | Self-hosted iMessage client | 84 | 🟡 | Python |
 | [slack-tui](https://github.com/hikalium/slack-tui) | TUI-based client for Slack | 81 | 🔴 | JavaScript |
 | [openmessage](https://github.com/MaxGhenis/openmessage) | Local-first Google Messages and WhatsApp inbox for Mac, web and MCP | 64 | 🟢 | Go |
+| [Talk32](https://github.com/DoaJCBlogger/Talk32) | Lightweight unofficial Discord client | 57 | 🟢 | C |
+| [Discord4KaiOS](https://github.com/cyan-2048/Discord4KaiOS) | Unofficial Discord client for KaiOS | 55 | 🟡 | TypeScript |
+| [whats4linux](https://github.com/lugvitc/whats4linux) | Unofficial native WhatsApp client for Linux | 43 | 🟢 | Go |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Discord client for the Nintendo Switch | 37 | 🔴 | C++ |
+| [Line-GTK](https://github.com/MidnightTale/Line-GTK) | Unofficial native LINE client for Linux using a linejs protocol sidecar | 36 | 🟢 | Rust |
+| [client](https://github.com/oxidezap/client) | Unofficial WhatsApp client in Rust built on whatsapp-rust | 27 | 🟢 | Rust |
 | [switchcord](https://github.com/vbe0201/switchcord) | Unofficial Discord client for the Nintendo Switch | 20 | 🗄️ | CMake |
+| [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | Unofficial Discord client for FreeBSD | 19 | 🔴 | JavaScript |
+| [Cordless](https://github.com/Brendonm17/Cordless) | Unofficial Discord client for the PS Vita | 18 | 🟢 | C |
+| [bbcord](https://github.com/michioxd/bbcord) | Unofficial Discord client for QNX BlackBerry 10 devices | 10 | 🗄️ | C++ |
+| [Papo](https://github.com/AmanoTeam/Papo) | Unofficial GTK client for WhatsApp, built with Rust | 9 | 🟢 | Rust |
 | [QQ-for-Switch](https://github.com/shuiwen879867/QQ-for-Switch) | Unofficial experimental QQ client for Nintendo Switch homebrew | 8 | 🟢 |  |
+| [Discord-Client](https://github.com/JKapostins/Discord-Client) | Unofficial Discord client for Windows Mobile | 7 | 🔴 | C# |
+| [Discord-KaiOS-Unofficial](https://github.com/John-Jelatis/Discord-KaiOS-Unofficial) | Unofficial Discord client for KaiOS feature phones | 7 | 🗄️ | JavaScript |
 
 ## Music Streaming
 
@@ -95,6 +107,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [spotify-qt](https://github.com/kraxarn/spotify-qt) | Lightweight Qt Spotify client using librespot/spotifyd for playback | 1,490 | 🟢 | C++ |
 | [spmp](https://github.com/sayaka-sh/spmp) | Customisable YouTube Music client in Compose Multiplatform (succeeded by Kanon) | 1,454 | 🟢 | Kotlin |
 | [Kreate](https://github.com/knighthat/Kreate) | Multilingual YouTube Music frontend for Android focused on performance | 1,152 | 🟢 | Kotlin |
+| [ytmdesktop2](https://github.com/Venipa/ytmdesktop2) | Unofficial YouTube Music desktop app with Discord RPC and Last.fm support | 1,103 | 🟢 | TypeScript |
 | [refreezer](https://github.com/DJDoubleD/refreezer) | Alternative Deezer streaming client for Android, based on Freezer | 1,065 | 🟡 | Dart |
 | [retro-ipod-spotify-client](https://github.com/dupontgu/retro-ipod-spotify-client) | Software for sPot, a 4th-gen click-wheel iPod turned into a full Spotify client | 1,045 | 🔴 | Python |
 | [limusic](https://github.com/SimoHypers/limusic) | Native desktop YouTube Music client (Tauri + Rust) with libmpv playback | 1,036 | 🟢 | Rust |
