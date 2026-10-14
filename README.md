@@ -35,7 +35,7 @@ npx skills add alexgaoth/awesome-reverse-engineered
 **Any agent or shell (one file, Python standard library only)**
 
 ```bash
-curl -sL https://raw.githubusercontent.com/alexgaoth/awesome-reverse-engineered/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py
+curl -sL https://raw.githubusercontent.com/alexgaoth/awesome-reverse-engineered/main/plugin/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py
 python3 re_index.py search tuya local          # ranked matches
 python3 re_index.py info make-all/tuya-local   # entry + README excerpt
 python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/

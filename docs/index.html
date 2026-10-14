@@ -182,7 +182,7 @@ footer a { color: var(--ink-2); }
         <button role="tab" aria-selected="false" data-tab="2">Any shell</button>
       </div>
       <div class="code" role="tabpanel"><span id="cmd"></span><button class="copy" id="copy" aria-label="Copy command"><i class="ph ph-copy"></i></button></div>
-      <div class="more">Works with Claude Code, Cursor, Codex, Gemini CLI and Copilot. <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/skills/find-reverse-engineered/SKILL.md">Read the skill</a></div>
+      <div class="more">Works with Claude Code, Cursor, Codex, Gemini CLI and Copilot. <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/plugin/skills/find-reverse-engineered/SKILL.md">Read the skill</a></div>
     </aside>
   </section>
 </div>
@@ -217,7 +217,7 @@ const REPO = "alexgaoth/awesome-reverse-engineered";
 const CMDS = [
   "npx skills add " + REPO,
   "/plugin install reverse-engineered --marketplace " + REPO,
-  "curl -sL https://raw.githubusercontent.com/" + REPO + "/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py\npython3 re_index.py search tuya local",
+  "curl -sL https://raw.githubusercontent.com/" + REPO + "/main/plugin/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py\npython3 re_index.py search tuya local",
 ];
 const SYN = { twitter: ["x"], x: ["twitter"], ble: ["bluetooth"], bluetooth: ["ble"], car: ["vehicle", "automotive"],
   decomp: ["decompilation"], chatgpt: ["openai"], openai: ["chatgpt"], n64: ["nintendo 64"], ps1: ["playstation 1", "psx"],

@@ -60,7 +60,7 @@ def table(rows, numbered=False, head=None):
 
 def load_search():
     """Reuse the skill's ranking so the README demo shows real search output."""
-    p = os.path.join(ROOT, "skills", "find-reverse-engineered", "scripts", "re_index.py")
+    p = os.path.join(ROOT, "plugin", "skills", "find-reverse-engineered", "scripts", "re_index.py")
     spec = importlib.util.spec_from_file_location("re_index", p)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
@@ -258,7 +258,7 @@ def main():
               f"<details><summary><b>{t['other_ways']}</b></summary>", "",
               f"**{t['plugin']}**", "", "```", f"/plugin install reverse-engineered --marketplace {REPO}", "```", "",
               f"**{t['any_shell']}**", "", "```bash",
-              f"curl -sL https://raw.githubusercontent.com/{REPO}/main/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
+              f"curl -sL https://raw.githubusercontent.com/{REPO}/main/plugin/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
               "python3 re_index.py search tuya local          # ranked matches",
               "python3 re_index.py info make-all/tuya-local   # entry + README excerpt",
               "python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/",

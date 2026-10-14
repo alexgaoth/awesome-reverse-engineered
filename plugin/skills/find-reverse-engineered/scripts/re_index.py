@@ -18,7 +18,7 @@ import argparse, json, math, os, re, subprocess, sys, time, urllib.request
 REPO = "alexgaoth/awesome-reverse-engineered"
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/data/entries.json"
 CACHE = os.path.expanduser("~/.cache/awesome-reverse-engineered/entries.json")
-BUNDLED = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "data", "entries.json")
+BUNDLED = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "..", "data", "entries.json")
 SYNONYMS = {
     "twitter": ["x"], "x": ["twitter"], "ble": ["bluetooth"], "bluetooth": ["ble"],
     "car": ["vehicle", "automotive"], "vehicle": ["car"], "decomp": ["decompilation"],

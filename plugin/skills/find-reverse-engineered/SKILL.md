@@ -10,7 +10,7 @@ The index is [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-r
 The tool is `scripts/re_index.py`, in the same directory as this SKILL.md. It uses only the Python standard library. The first run downloads the index and caches it for 24 hours in `~/.cache/awesome-reverse-engineered/`.
 
 If you do not have this skill's files, run the script from GitHub:
-`curl -sL https://raw.githubusercontent.com/alexgaoth/awesome-reverse-engineered/main/skills/find-reverse-engineered/scripts/re_index.py | python3 - search <words>`
+`curl -sL https://raw.githubusercontent.com/alexgaoth/awesome-reverse-engineered/main/plugin/skills/find-reverse-engineered/scripts/re_index.py | python3 - search <words>`
 
 ## Workflow
 
