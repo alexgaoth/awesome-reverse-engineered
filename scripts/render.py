@@ -244,7 +244,7 @@ def main():
              f"[![Categories]({badge('categories', len(cats))})](#{a_inside}) "
              f"[![Nightly refresh](https://img.shields.io/github/actions/workflow/status/{REPO}/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) "
              f"[![Updated]({badge('updated', TODAY.isoformat().replace('-', '--'), '30363d')})](data/entries.json) "
-             f"[![License: CC0]({badge('license', 'CC0', '30363d')})](LICENSE)", "",
+             f"[![License: MIT + CC0 data]({badge('license', 'MIT%20%2B%20CC0%20data', '30363d')})](LICENSE)", "",
              f"[![Agent skill]({badge('agent%20skill', 'npx%20skills%20add', '7ee787')})](#{a_agent}) "
              f"[![Claude Code plugin]({badge('Claude%20Code', 'plugin', 'd97757')})](#{a_agent}) "
              f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/{REPO}/stargazers)", "",

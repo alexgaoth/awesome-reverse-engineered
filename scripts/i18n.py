@@ -40,12 +40,12 @@ S = {
         "contrib": "Know a project that belongs here? [Open an issue]({issue}) with the repo link and one line on what it reverse engineers, or send a PR that adds it to `data/entries.json`. Wrong category, dead link, or out of scope? Open an issue too.",
         "curated": "Curated by [@alexgaoth](https://github.com/alexgaoth) with research agents. Every entry is checked against the GitHub API.",
         "h_star": "Star history", "h_license": "License",
-        "license": "[CC0 1.0](LICENSE) for the list itself. Each linked project has its own license.",
+        "license": "Code (scripts, website, agent skill): [MIT](LICENSE). The list and data: [CC0 1.0](LICENSE-DATA). Each linked project has its own license.",
         "cta": "If this saved you from reverse engineering something yourself, [give it a star]({repo}).",
     },
     "zh-CN": {
         "tagline": "{n} 个开源工具，它们之所以存在，是因为有人逆向了某个封闭的应用、API、设备、协议、文件格式、游戏或 AI 产品。",
-        "note": "项目名称和描述保留英文原文。",
+        "note": "项目名称和描述保留英文原文。 · 社区：<a href=\"https://linux.do\">LINUX DO</a>",
         "nav": ["搜索索引", "智能体技能", "分类", "本周热门", "提交项目"],
         "h_agent": "让你的 AI 智能体使用整个索引",
         "agent_p": "当任务需要对接没有官方 API 的东西（智能插座、汽车、聊天应用、文件格式）时，你的智能体会搜索这个索引，按星标数、活跃度和许可证排序，阅读 README，然后挑选合适的工具。",
@@ -75,7 +75,7 @@ S = {
         "contrib": "知道应该收录的项目？请[提交 issue]({issue})，附上仓库链接和一句话说明它逆向了什么，或者发 PR 把它加入 `data/entries.json`。分类错误、链接失效或超出范围，也请提交 issue。",
         "curated": "由 [@alexgaoth](https://github.com/alexgaoth) 借助研究智能体整理。每个条目都经过 GitHub API 核验。",
         "h_star": "星标历史", "h_license": "许可证",
-        "license": "列表本身采用 [CC0 1.0](LICENSE)。每个链接的项目有各自的许可证。",
+        "license": "代码（脚本、网站、智能体技能）采用 [MIT](LICENSE)，列表和数据采用 [CC0 1.0](LICENSE-DATA)。每个链接的项目有各自的许可证。",
         "cta": "如果它让你省去了亲自逆向的麻烦，[请给它一个星标]({repo})。",
     },
     "fr": {
@@ -110,7 +110,7 @@ S = {
         "contrib": "Vous connaissez un projet qui a sa place ici ? [Ouvrez une issue]({issue}) avec le lien du dépôt et une ligne sur ce qu'il rétro-conçoit, ou envoyez une PR qui l'ajoute à `data/entries.json`. Mauvaise catégorie, lien mort ou hors périmètre ? Ouvrez aussi une issue.",
         "curated": "Organisé par [@alexgaoth](https://github.com/alexgaoth) avec des agents de recherche. Chaque entrée est vérifiée avec l'API GitHub.",
         "h_star": "Historique des étoiles", "h_license": "Licence",
-        "license": "[CC0 1.0](LICENSE) pour la liste elle-même. Chaque projet référencé a sa propre licence.",
+        "license": "Code (scripts, site, skill pour agents) : [MIT](LICENSE). Liste et données : [CC0 1.0](LICENSE-DATA). Chaque projet référencé a sa propre licence.",
         "cta": "Si cet index vous a évité de faire de la rétro-ingénierie vous-même, [mettez-lui une étoile]({repo}).",
     },
     "es": {
@@ -145,7 +145,7 @@ S = {
         "contrib": "¿Conoces un proyecto que debería estar aquí? [Abre un issue]({issue}) con el enlace del repo y una línea sobre qué le hace ingeniería inversa, o envía un PR que lo añada a `data/entries.json`. ¿Categoría incorrecta, enlace roto o fuera de alcance? Abre un issue también.",
         "curated": "Curado por [@alexgaoth](https://github.com/alexgaoth) con agentes de investigación. Cada entrada se verifica con la API de GitHub.",
         "h_star": "Historial de estrellas", "h_license": "Licencia",
-        "license": "[CC0 1.0](LICENSE) para la lista en sí. Cada proyecto enlazado tiene su propia licencia.",
+        "license": "Código (scripts, web, skill para agentes): [MIT](LICENSE). Lista y datos: [CC0 1.0](LICENSE-DATA). Cada proyecto enlazado tiene su propia licencia.",
         "cta": "Si esto te ahorró hacer ingeniería inversa por tu cuenta, [dale una estrella]({repo}).",
     },
 }
