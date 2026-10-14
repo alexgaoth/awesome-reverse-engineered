@@ -64,5 +64,17 @@
   "name": "Ryubing",
   "removed": "2026-10-13",
   "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://github.com/laqieer/fireemblem8j",
+  "name": "Fire Emblem: Seima no Kouseki (JP)",
+  "removed": "2026-10-14",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/danvratil/jhgpc98decomp",
+  "name": "Johnny Herbert's Grand Prix Championship 1998",
+  "removed": "2026-10-14",
+  "reason": "not found on GitHub"
  }
 ]
