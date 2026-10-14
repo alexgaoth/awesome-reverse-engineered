@@ -1,19 +1,19 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 376 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 409 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Apple Silicon (Asahi)](#apple-silicon-asahi) (19)
 - [Drawing Tablets & Input](#drawing-tablets--input) (16)
 - [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (19)
-- [GPU Drivers](#gpu-drivers) (20)
-- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (80)
-- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (31)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (72)
-- [Laptop EC & Peripherals](#laptop-ec--peripherals) (69)
-- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (34)
-- [Wi-Fi & Radios](#wi-fi--radios) (16)
+- [GPU Drivers](#gpu-drivers) (31)
+- [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (83)
+- [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (33)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (74)
+- [Laptop EC & Peripherals](#laptop-ec--peripherals) (77)
+- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (37)
+- [Wi-Fi & Radios](#wi-fi--radios) (20)
 
 ## Apple Silicon (Asahi)
 
@@ -92,6 +92,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mesa-lima](https://github.com/yuq/mesa-lima) | Development tree of the Lima Mali-400 driver before upstream Mesa merge | 164 | 🔴 | C |
 | [gddr6](https://github.com/olealgoritme/gddr6) | Linux GDDR6/GDDR6X VRAM temperature reader for NVIDIA RTX cards | 157 | 🟢 | C |
 | [radeon-tools](https://github.com/fail0verflow/radeon-tools) | AMD Radeon reverse engineering tools | 154 | 🔴 | Python |
+| [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) | Driver-layer GPU libraries and tests for the PS Vita's PowerVR SGX | 115 | 🟡 | C |
 | [grate](https://github.com/grate-driver/grate) | Reverse-engineering tools and docs for the NVIDIA Tegra 2/3 GPU (open Tegra graphics) | 90 | 🟢 | C |
 | [linux_openpvrsgx](https://github.com/openpvrsgx-devgroup/linux_openpvrsgx) | Reshaping PowerVR SGX GPL kernel drivers for mainline Linux | 65 | 🟢 | C |
 | [linux-cedrus](https://github.com/bootlin/linux-cedrus) | Mainline kernel tree for the Allwinner VPU (Cedrus) reverse engineering effort | 61 | 🔴 | C |
@@ -103,11 +104,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [libvdpau-tegra](https://github.com/grate-driver/libvdpau-tegra) | VDPAU video decode driver for NVIDIA Tegra built from reverse-engineered hardware | 16 | 🔴 | C |
 | [etna-gpu-tools](https://github.com/etnaviv/etna-gpu-tools) | Vivante GPU debugging and reverse-engineering tools from the etnaviv project | 4 | 🔴 | C |
 | [Asahi Mesa driver](https://docs.mesa3d.org/drivers/asahi.html) | Mesa OpenGL/Vulkan driver for Apple AGX GPUs, with reverse-engineered ISA notes |  | ⚪ |  |
+| [bvhre](https://gitlab.freedesktop.org/bnieuwenhuizen/bvhre) | Reverse engineering the RDNA2 ray-tracing BVH format |  | ⚪ |  |
 | [Freedreno / Turnip](https://docs.mesa3d.org/drivers/freedreno.html) | Reverse-engineered Mesa OpenGL and Vulkan drivers for Qualcomm Adreno GPUs |  | ⚪ |  |
+| [Hercules](https://codeberg.org/btb/Hercules) | Reverse engineering of the Hercules Graphics Card |  | ⚪ |  |
 | [Lima](https://docs.mesa3d.org/drivers/lima.html) | Reverse-engineered Mesa driver for Arm Mali-400/450 (Utgard) GPUs |  | ⚪ |  |
+| [mali-syscall-tracker](https://gitlab.freedesktop.org/lima/mali-syscall-tracker) | Tool for dumping memory of the closed-source Mali driver, used to reverse engineer Mali GPUs |  | ⚪ |  |
 | [Mesa](https://gitlab.freedesktop.org/mesa/mesa) | Mesa 3D: hosts reverse-engineered GPU drivers (panfrost, lima, freedreno, etnaviv, nouveau, asahi, NVK) |  | ⚪ |  |
+| [nouveau](https://gitlab.freedesktop.org/drm/nouveau) | Nouveau kernel driver for NVIDIA GPUs, built by reverse engineering |  | ⚪ |  |
+| [nv-shader-tools](https://gitlab.freedesktop.org/nouveau/nv-shader-tools) | Tools for reverse engineering NVIDIA shader ISAs using the CUDA disassembler |  | ⚪ |  |
+| [NVClock](https://sourceforge.net/projects/nvclock/) | Overclocking, monitoring and tweaking tool for NVIDIA cards using undocumented registers |  | ⚪ |  |
 | [NVK](https://docs.mesa3d.org/drivers/nvk.html) | Open-source Mesa Vulkan driver for NVIDIA GPUs built on nouveau |  | ⚪ |  |
 | [Panfrost / PanVK](https://docs.mesa3d.org/drivers/panfrost.html) | Reverse-engineered Mesa driver for Arm Mali Midgard, Bifrost and Valhall GPUs |  | ⚪ |  |
+| [recu](https://codeberg.org/tondik/recu) | Reverse engineering NVIDIA CUDA internals |  | ⚪ |  |
+| [sgx540-reversing](https://codeberg.org/Garnet/sgx540-reversing) | Documentation and tooling from reverse engineering the PowerVR SGX540 GPU |  | ⚪ |  |
+| [sqtt-toy](https://gitlab.freedesktop.org/ishitatsuyuki/sqtt-toy) | AMD SQTT thread trace reverse engineering experiments |  | ⚪ |  |
+| [xf86-video-nouveau](https://gitlab.freedesktop.org/xorg/driver/xf86-video-nouveau) | X.Org DDX driver for NVIDIA GPUs from the nouveau project |  | ⚪ |  |
 
 ## Gaming Laptops & Handheld PCs
 
@@ -191,8 +202,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ROGueENEMY](https://github.com/NeroReflex/ROGueENEMY) | ROG Ally userspace driver that merges its gamepad, keyboard and IMU into one virtual controller | 14 | 🟡 | C |
 | [ayn-platform](https://github.com/ShadowBlip/ayn-platform) | Linux hwmon driver for AYN x86 handhelds: PWM fan control, temperatures and RGB | 9 | 🟡 | C |
 | [Adjustor](https://github.com/hhd-dev/adjustor) | TDP and power control for handheld PCs via ACPI/EC calls, part of Handheld Daemon | 7 | 🗄️ | Python |
+| [afx](https://gitlab.com/lynthium/afx) | Reverse-engineered AlienFX lighting control for the Alienware 15 R3 |  | ⚪ |  |
+| [asus-linux reverse-engineering](https://gitlab.com/asus-linux/reverse-engineering) | Data dumps and reverse engineering notes used to support ASUS ROG laptops on Linux |  | ⚪ |  |
 | [oxp-sensors](https://gitlab.com/Samsagax/oxp-sensors) | Linux platform driver for OneXPlayer/AOKZOE handheld fan control and EC sensors |  | ⚪ |  |
 | [supergfxctl](https://gitlab.com/asus-linux/supergfxctl) | GPU switching daemon for ASUS ROG and other hybrid-graphics laptops on Linux |  | ⚪ |  |
+| [tongfang-control](https://gitlab.com/siphomateke/tongfang-control) | Open-source control centre for Tongfang-based laptops (RGB lighting, fan speeds) |  | ⚪ |  |
 
 ## Headsets, Audio Interfaces & Webcams
 
@@ -229,6 +243,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [steelseries-wireless-battery-tray](https://github.com/mtadin/steelseries-wireless-battery-tray) | Tray app showing battery of SteelSeries wireless headsets | 21 | 🟢 | Go |
 | [corsair-void-driver](https://github.com/stuarthayhurst/corsair-void-driver) | Linux kernel driver for Corsair Void headsets: battery, sidetone, mic status (upstreamed 6.13) | 6 | 🟢 | C |
 | [hyperx-cloud-II-battery](https://github.com/Agustin-Jerusalinsky/hyperx-cloud-II-battery) | Reads HyperX Cloud II wireless headset battery level over hidraw | 6 | 🔴 | Python |
+| [ps4cam-linux](https://sr.ht/~mks-h/ps4cam-linux/) | Linux driver for the PlayStation 4 Camera |  | ⚪ |  |
+| [spca50x](https://sourceforge.net/projects/spca50x/) | Linux driver for Sunplus SPCA5xx webcams, predecessor of gspca |  | ⚪ |  |
 
 ## Lab Instruments & Thermal Cameras
 
@@ -306,6 +322,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenP3](https://github.com/Phalphy/OpenP3) | Unofficial Linux driver for the Thermal Master P3 thermal camera | 17 | 🟢 | Python |
 | [victor70c](https://github.com/mvneves/victor70c) | Victor 70C multimeter software for Linux | 17 | 🔴 | C |
 | [owon_hds200](https://github.com/qwindelzorf/owon_hds200) | Python interface to OWON HDS200 handheld oscilloscopes | 16 | 🔴 | Python |
+| [minipro-rs](https://gitlab.com/arcturus8081/minipro-rs) | Rust reimplementation of minipro for XGecu TL866/T48/T56/T76 chip programmers |  | ⚪ |  |
+| [pockethernet-protocol](https://gitlab.com/MartijnBraam/pockethernet-protocol) | Reverse engineering of the Pockethernet Bluetooth protocol so third-party apps can be written |  | ⚪ |  |
 
 ## Laptop EC & Peripherals
 
@@ -379,7 +397,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gigactl](https://github.com/smairio/gigactl) | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 7 | 🟢 | Python |
 | [TPFanCtrl2](https://github.com/mews-se/TPFanCtrl2) | ThinkPad fan control for Windows 10/11 | 6 | 🟢 | C++ |
 | [Mechrevo-Xingyao-14](https://github.com/YMGPwcca/Mechrevo-Xingyao-14) | Reverse-engineering reference for an Insyde BIOS and ITE EC laptop | 5 | 🟢 |  |
+| [acpi4asus](https://sourceforge.net/projects/acpi4asus/) | ASUS laptop ACPI extras driver and tools for hotkeys, LEDs and backlight |  | ⚪ |  |
 | [asusctl](https://gitlab.com/asus-linux/asusctl) | Control daemon for ASUS ROG/TUF laptops on Linux (fans, LEDs, profiles) |  | ⚪ |  |
+| [hdaps](https://sourceforge.net/projects/hdaps/) | Driver for the ThinkPad Hard Drive Active Protection System accelerometer |  | ⚪ |  |
+| [i8kutils](https://launchpad.net/i8kutils) | Fan control and monitoring utilities for Dell laptops via the SMM BIOS |  | ⚪ |  |
+| [ibm-acpi](https://sourceforge.net/projects/ibm-acpi/) | ThinkPad ACPI extras driver, predecessor of the Linux thinkpad_acpi module |  | ⚪ |  |
+| [ironkey_lp50_linux](https://codeberg.org/esavier/ironkey_lp50_linux) | Reverse-engineered Linux driver for the IronKey Locker+ LP50 USB drive |  | ⚪ |  |
+| [omnibook](https://sourceforge.net/projects/omnibook/) | Kernel module for HP OmniBook, Pavilion and Toshiba laptop hardware features |  | ⚪ |  |
+| [tpctl](https://sourceforge.net/projects/tpctl/) | ThinkPad configuration tools using the reverse-engineered SMAPI BIOS interface |  | ⚪ |  |
+| [xrite-devel](https://codeberg.org/dach/xrite-devel) | Reverse engineering the X-Rite embedded colour calibration sensor in laptops |  | ⚪ |  |
 
 ## Printers, Scanners & Fingerprint
 
@@ -418,7 +444,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [goodix-spi-protocol](https://github.com/egormanga/goodix-spi-protocol) | Goodix fingerprint scanner SPI protocol tools | 6 | 🔴 | Python |
 | [goodix51c0_spi-reversing](https://github.com/lexakimov/goodix51c0_spi-reversing) | Protocol reverse engineering of the Goodix 51C0 SPI fingerprint sensor | 6 | 🟢 | Python |
 | [libfprint](https://gitlab.freedesktop.org/libfprint/libfprint) | Open fingerprint reader library with many reverse-engineered sensor drivers |  | ⚪ |  |
+| [m2300w](https://sourceforge.net/projects/m2300w/) | Driver for Minolta magicolor 2300W/2400W/2500W host-based colour lasers |  | ⚪ |  |
+| [pnm2ppa](https://sourceforge.net/projects/pnm2ppa/) | Driver for HP PPA (Printing Performance Architecture) host-based DeskJet printers |  | ⚪ |  |
 | [SANE backends](https://gitlab.com/sane-project/backends) | SANE scanner backends, many written from reverse-engineered scanner protocols |  | ⚪ |  |
+| [ThinkFinger](https://sourceforge.net/projects/thinkfinger/) | Driver for the UPEK/SGS Thomson fingerprint reader found in ThinkPads |  | ⚪ |  |
 
 ## Wi-Fi & Radios
 
@@ -440,3 +469,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Inside-EZRadioPRO](https://github.com/astuder/Inside-EZRadioPRO) | Reverse engineering the Silabs EZRadioPRO sub-GHz radios | 78 | 🟢 | Rebol |
 | [osmo-fl2k](https://github.com/osmocom/osmo-fl2k) | Uses FL2000 USB-to-VGA adapters as cheap SDR transmitters | 58 | 🟢 | C |
 | [b43-tools](https://github.com/mbuesch/b43-tools) | b43 firmware tools: fwcutter, assembler and disassembler for Broadcom Wi-Fi microcode | 39 | 🟢 | C |
+| [acx100](https://sourceforge.net/projects/acx100/) | Linux driver for TI ACX100/ACX111 wireless chipsets |  | ⚪ |  |
+| [at76c503a](https://sourceforge.net/projects/at76c503a/) | Linux driver for Atmel at76c503/505 USB wireless adapters |  | ⚪ |  |
+| [Broadcom specs (bcm-v4)](https://bcm-v4.sipsolutions.net/) | Clean-room specifications of Broadcom 43xx wireless chips used to write the b43 driver |  | ⚪ |  |
+| [libmirisdr](https://gitea.osmocom.org/sdr/libmirisdr) | Software for the Mirics MSi2500 + MSi001 SDR chipset |  | ⚪ |  |

@@ -206,6 +206,78 @@
 - https://opensaga.dev
 - https://kvetch.io/conciliatower/
 - https://news.ycombinator.com (Show HN: PS2 games statically recompiled to WebAssembly)
+- https://github.com/reHackable/awesome-reMarkable
+- https://github.com/gbdev/awesome-gbdev
+- https://github.com/command-tab/awesome-n64-development
+- https://github.com/gbadev-org/awesome-gbadev
+- https://github.com/inchei/awesome-kindle
+- https://github.com/KindleTweaks/Awesome-Kindle
+- https://github.com/nelsonpecora/awesome-kobo
+- https://github.com/loociano/awesome-ereader-dev
+- https://github.com/emory/awesome-boox
+- https://github.com/asapelkin/awesome-eink
+- https://github.com/solarkennedy/awesome-esphome-components
+- https://github.com/fritx/awesome-wechat
+- https://github.com/dotintent/awesome-ble (reviewed; 0 imported)
+- https://github.com/scholtzm/awesome-steam
+- https://github.com/awesome-vacuum/awesome-vacuum
+- https://github.com/teslahunt/awesome-tesla
+- https://github.com/hobbyquaker/awesome-zigbee (reviewed; 0 imported)
+- https://github.com/ad-si/awesome-3d-printing (reviewed; 0 imported)
+- https://github.com/bombsimon/awesome-garmin
+- https://github.com/command-tab/awesome-xbox-development
+- https://github.com/dreamcastdevs/awesome-dreamcast
+- https://github.com/Faust13/awesome-sega-dreamcast
+- https://github.com/terremoth/awesome-ps2
+- https://github.com/sammwyy/awesome-ps2
+- https://github.com/fr3nd/awesome-msx
+- https://github.com/romh-acking/Awesome-Rom-Hacking
+- https://github.com/FeralAI/awesome-switch-homebrew
+- https://github.com/command-tab/awesome-gamecube-development (reviewed; 0 imported)
+- https://github.com/WillemRB/awesome-playstation-classic (reviewed; 0 imported)
+- https://github.com/ninjaraven/awesome-nds
+- https://github.com/balintkissdev/awesome-dos
+- https://github.com/vigo/awesome-c64 (reviewed; 0 imported)
+- https://github.com/NuSkooler/awesome-retro-computing (reviewed; 0 imported)
+- https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita (interop entries only; exploits, DRM and cheat items skipped)
+- https://github.com/airscripts/awesome-steam-deck
+- https://github.com/jeromeberg/awesome-psp
+- https://github.com/hypery11/awesome-openpilot
+- https://github.com/open-source-firmware/awesome-firmware (reviewed; 0 imported)
+- https://github.com/alnacle/awesome-emulators
+- https://github.com/mcicolella/awesome-emulators-simulators
+- https://github.com/solecolasudinoi/Awesome-List-of-Emulators
+- https://github.com/iDoka/awesome-fpga-boards
+- https://github.com/fcambus/jsemu
+- https://github.com/marethyu/awesome-emu-resources
+- https://github.com/hacs/default
+- https://github.com/Raphael-Boichot/Awesome-Game-Boy-Camera-and-Game-Boy-Printer-projects
+- https://github.com/padraigfl/awesome-arcade-coder
+- https://github.com/mcicolella/awesome-commodore-resources
+- https://github.com/skyforce77/awesome-pico8-clones (reviewed; 0 imported)
+- https://github.com/daedric7/awesome-emulators-android
+- https://github.com/pico-8/awesome-PICO-8 (reviewed; 0 imported)
+- https://github.com/KJSanchez/awesome-hearing-aid (reviewed; 0 imported)
+- bcm-v4.sipsolutions.net
+- cabextract.org.uk
+- code.videolan.org
+- codeberg.org
+- dechifro.org
+- five-ten-sg.com
+- framagit.org
+- git.libreoffice.org
+- gitea.osmocom.org
+- gitlab.com
+- gitlab.freedesktop.org
+- gitlab.gnome.org
+- invent.kde.org
+- launchpad.net
+- pidgin.im
+- salsa.debian.org
+- savannah.nongnu.org
+- sourceforge.net
+- sr.ht
+- wiki.multimedia.cx
 
 ## Searches run
 
@@ -1817,3 +1889,17 @@
 - HN Algolia tags=show_hn created_at_i>1791676800 (156 titles scanned)
 - GitHub search created:>=2026-10-04 stars:>5: "reverse engineered", "reverse-engineered", "unofficial api", "unofficial client", "private api", decompilation, recompilation, reimplementation, "local api", "cloud-free"
 - WebSearch extended: "reverse engineered" github reddit October 2026; "reverse engineered" github site:x.com; reddit "I reverse engineered" open source github this week
+- gh search repos "awesome <topic>" --sort stars (remarkable, kindle, kobo, ereader, esphome, tasmota, bluetooth, ble, gbdev, n64, 3ds, switch homebrew, psp, ps2, vita, wii)
+- gh search repos "awesome <topic>" --sort stars (retrocomputing, amiga, c64, dos, kodi, telegram, wechat, 3d printing, klipper, vacuum, tesla, xiaomi, garmin, pebble, zigbee, steam, game modding, mister, gba)
+- HACS default integration list
+- gh search repos "awesome <topic>" --sort stars (remarkable, kindle, kobo, ereader, esphome, tasmota, bluetooth, ble, gbdev, n64, 3ds, switch homebrew, psp, ps2, vita, wii, retrocomputing, amiga, c64, dos, kodi, telegram, wechat, 3d printing, klipper, vacuum, tesla, xiaomi, garmin, pebble, zigbee, steam, gba, nds, gamecube, dreamcast, playstation, xbox, msx, retro, rom hacking, emulator, fpga, openpilot, firmware, pico-8, game boy, commodore, arcade, hearing aid)
+- gh search repos "非官方 API" / "非公式API" / "awesome unofficial api" --sort stars
+- README link extraction via gh api repos/<list>/readme, verified with gh api graphql (exists, not fork, canonical URL)
+- codeberg api: reverse engineered, reverse-engineered, reverse engineering, unofficial, unofficial api, unofficial client, protocol, decompilation, decomp, driver, local control, api client, reimplementation, proprietary protocol, home assistant, bluetooth le, file format, firmware (includeDesc, topic)
+- gitlab.com api: reverse engineered, reverse-engineered, reverse engineering, unofficial, decompilation, decomp, reimplementation, re-implementation, open source driver, local control, api client, protocol, linux driver, engine recreation, disassembly, file format, unofficial client, private api, home assistant
+- gitlab.freedesktop.org / gitlab.gnome.org / invent.kde.org / salsa.debian.org / framagit.org / code.videolan.org api: reverse, reverse engineer, unofficial, decomp, driver, proprietary, protocol
+- gitea.osmocom.org api: dect, reverse, sniff, qualcomm, baseband, tetra, nokia, calypso, mediatek, sdr
+- sr.ht/projects search: reverse engineered, reverse engineering, reverse, unofficial, decompilation, driver, protocol, decomp, api client, bluetooth, firmware
+- WebSearch: site:git.sr.ht reverse engineered protocol; sr.ht reverse engineered driver/client/decompilation
+- known off-GitHub RE projects checked by URL: SourceForge (libnodave, thinkfinger, pnm2ppa, nvclock, acx100, libnjb, bitpim, pentagram, xu4...), git.libreoffice.org DLP libs, savannah gnokii, osmocom gitea
+- codeberg api: frontend, alternative frontend, privacy frontend, esphome, bluetooth, ble, decomp, disassembly, recompilation, private server, server emulator, custom firmware, openwrt, home assistant integration, innertube, scraper, reverse, re-implementation, clone of, game engine, open source engine

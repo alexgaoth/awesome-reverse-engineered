@@ -1,19 +1,19 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 255 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 261 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Bridges & Multi-protocol](#bridges--multi-protocol) (42)
-- [Discord & Slack](#discord--slack) (27)
+- [Bridges & Multi-protocol](#bridges--multi-protocol) (44)
+- [Discord & Slack](#discord--slack) (29)
 - [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (38)
 - [Other](#other) (5)
 - [Other Messaging](#other-messaging) (29)
-- [Signal & Telegram](#signal--telegram) (14)
+- [Signal & Telegram](#signal--telegram) (15)
 - [Social Media Private APIs](#social-media-private-apis) (18)
 - [TikTok & Snapchat](#tiktok--snapchat) (27)
 - [Twitter/X](#twitterx) (21)
-- [WhatsApp](#whatsapp) (21)
+- [WhatsApp](#whatsapp) (22)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (13)
 
 ## Bridges & Multi-protocol
@@ -59,8 +59,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [honpurple](https://github.com/theli-ua/honpurple) | libpurple plugin for Heroes of Newerth chat server | 7 | 🗄️ | C |
 | [purple-line](https://github.com/supersonictw/purple-line) | libpurple (Pidgin, Finch) protocol plugin for LINE | 6 | 🔴 | C++ |
 | [purple-impp](https://github.com/Hi-Angel/purple-impp) | Trillian IMPP plugin for libpurple | 5 | 🔴 | C++ |
+| [Kopete](https://invent.kde.org/network/kopete) | KDE multi-protocol instant messenger with reverse-engineered legacy protocols |  | ⚪ |  |
 | [matrix-appservice-kakaotalk](https://src.miscworks.net/fair/matrix-appservice-kakaotalk) | Matrix puppeting bridge for KakaoTalk via node-kakao |  | ⚪ |  |
 | [matrix-puppeteer-line](https://src.miscworks.net/fair/matrix-puppeteer-line) | Matrix puppeting bridge for LINE by driving its Chrome extension |  | ⚪ |  |
+| [Pidgin / libpurple](https://pidgin.im/) | Multi-protocol IM client and library implementing many reverse-engineered protocols |  | ⚪ |  |
 | [SIPE](https://sipe.sourceforge.io/) | libpurple plugin implementing Microsoft OCS/Lync/Skype for Business protocols |  | ⚪ |  |
 
 ## Discord & Slack
@@ -94,6 +96,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [teams-api](https://github.com/nakasyou/teams-api) | Unofficial Micorosoft Teams client/cli | 39 | 🟢 | TypeScript |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Decompilation of Discord's updater.node | 20 | 🟢 | C++ |
 | [slack-openapi-generator](https://github.com/connectstrata/slack-openapi-generator) | Regenerates Slack's withdrawn OpenAPI spec by analysing the Slack Node SDK | 7 | 🟢 | JavaScript |
+| [discord-unofficial-docs](https://gitlab.com/luna/discord-unofficial-docs) | Unofficial documentation for undocumented Discord APIs |  | ⚪ |  |
+| [redrpc](https://codeberg.org/techmetx11/redrpc) | Reimplementation of Discord's local RPC server for third-party rich presence |  | ⚪ |  |
 
 ## Meta (Instagram/Facebook/Threads)
 
@@ -200,6 +204,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [scli](https://github.com/isamert/scli) | a simple terminal user interface for signal messenger (using signal-cli) | 538 | 🟡 | Python |
 | [presage](https://github.com/whisperfish/presage) | A high-level Rust library to help write clients for the Signal Messenger. | 270 | 🟢 | Rust |
 | [signal-backup-decode](https://github.com/pajowu/signal-backup-decode) | Decodes Signal Android backup files | 231 | 🟡 | Rust |
+| [Flare](https://gitlab.com/schmiddi-on-mobile/flare) | Unofficial Signal GTK client for Linux |  | ⚪ |  |
 
 ## Social Media Private APIs
 
@@ -307,6 +312,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [unoapi-cloud](https://github.com/clairton/unoapi-cloud) | Unofficial WhatsApp Cloud API compatible server built on WhatsApp Web | 257 | 🟢 | TypeScript |
 | [kyros](https://github.com/lc-at/kyros) | Python wrapper for WhatsApp Web API websocket communication (based on https://github.com/sigalor/whatsapp-web-reveng) | 112 | 🗄️ | HTML |
 | [whatsapp-web-multi-device-reveng](https://github.com/sigalor/whatsapp-web-multi-device-reveng) | Reverse engineering of multi-device WhatsApp Web | 90 | 🗄️ | Python |
+| [ha-whatsapp](https://github.com/FaserF/ha-whatsapp) | Send and receive WhatsApp messages from Home Assistant as a linked device over the web protocol | 53 | 🟢 | Python |
 
 ## iMessage & Apple Messaging
 

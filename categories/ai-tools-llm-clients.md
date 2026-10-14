@@ -1,14 +1,14 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 683 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 685 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (45)
+- [AI Hardware & On-device Models](#ai-hardware--on-device-models) (46)
 - [Chatbot Web APIs](#chatbot-web-apis) (174)
 - [Chinese LLM Web APIs](#chinese-llm-web-apis) (48)
 - [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (243)
-- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (61)
+- [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (62)
 - [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (57)
 - [Other AI](#other-ai) (26)
 - [System Prompt Leaks & Extractions](#system-prompt-leaks--extractions) (29)
@@ -62,6 +62,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [g2-r1-re-tools-and-guide](https://github.com/Commute773/g2-r1-re-tools-and-guide) | RE tools and guides for Even G2 glasses and R1 health ring | 3 | 🟢 | TypeScript |
 | [plaude-cli](https://github.com/Sumatoshi-tech/plaude-cli) | Offline CLI for the Plaud Note voice recorder, no cloud or app | 3 | 🟢 | Rust |
 | [r1tool](https://github.com/nesdeq/r1tool) | CLI for hole.rabbit.tech: export Rabbit R1 photos and journal | 3 | 🟢 | Python |
+| [rockwrap](https://gitlab.freedesktop.org/icecream95/rockwrap) | Reverse engineering tools for the Rockchip RK356x/RK3588 NPU |  | ⚪ |  |
 
 ## Chatbot Web APIs
 
@@ -559,6 +560,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ttsfm](https://github.com/dbccccccc/ttsfm) | OpenAI-compatible TTS API mirroring the free openai.fm service | 738 | 🟢 | Python |
 | [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all) | Jimeng (ByteDance) image and video generation reverse API, OpenAI-compatible | 617 | 🟢 | TypeScript |
 | [midjourney-proxy-plus](https://github.com/litter-coder/midjourney-proxy-plus) | Extended Midjourney Discord proxy API | 575 | 🟡 |  |
+| [hass-edge-tts](https://github.com/hasscc/hass-edge-tts) | Microsoft Edge read-aloud TTS in Home Assistant via the unofficial Edge speech endpoint, no key | 488 | 🟢 | Python |
 | [Midjourney_api](https://github.com/George-iam/Midjourney_api) | Unofficial Midjourney API via Discord sender/receiver (research only) | 419 | 🔴 | Python |
 | [SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) | Reverse engineered Suno song generation API (Python library and CLI) | 366 | 🟡 | Python |
 | [sora-downloader](https://github.com/tibbar213/sora-downloader) | Extracts watermark-free Sora video links | 306 | 🟢 | Python |

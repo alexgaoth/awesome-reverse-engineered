@@ -1,14 +1,14 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 174 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 199 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Applications](#applications) (53)
+- [Applications](#applications) (58)
 - [Binary Translators](#binary-translators) (11)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (9)
-- [OS & Compatibility Layers](#os--compatibility-layers) (50)
-- [Retro OS & Compatibility](#retro-os--compatibility) (51)
+- [OS & Compatibility Layers](#os--compatibility-layers) (60)
+- [Retro OS & Compatibility](#retro-os--compatibility) (61)
 
 ## Applications
 
@@ -32,6 +32,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SAM](https://github.com/s-macke/SAM) | Reverse engineered C port of the Software Automatic Mouth speech synthesizer | 1,512 | 🟡 | C |
 | [OpenSilver](https://github.com/OpenSilver/OpenSilver) | Open-source plugin-free reimplementation of Microsoft Silverlight on WebAssembly | 1,278 | 🟢 | C# |
 | [Woxi](https://github.com/ad-si/Woxi) | Wolfram Language / Mathematica reimplementation in Rust | 935 | 🟢 | Rust |
+| [qcma](https://github.com/codestation/qcma) | Open-source cross-platform replacement for Sony's Content Manager Assistant for PS Vita | 671 | 🟢 | C++ |
 | [reportviewercore](https://github.com/lkosson/reportviewercore) | Recompilation of Microsoft ReportViewer for .NET Core | 568 | 🟢 | C# |
 | [Pash](https://github.com/Pash-Project/Pash) | Open source reimplementation of Windows PowerShell for Mono | 515 | 🗄️ | C# |
 | [dirplayer-rs](https://github.com/igorlira/dirplayer-rs) | Reverse-engineered Adobe Shockwave player in Rust/WASM to run early-2000s web games | 417 | 🟢 | Rust |
@@ -58,6 +59,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GlovePIEReverseEngineering](https://github.com/GlovePIEPreservation/GlovePIEReverseEngineering) | The GlovePIE decompilation effort | 39 | 🟡 | Pascal |
 | [paper-rs](https://github.com/michaelshimeles/paper-rs) | Clean-room Rust reimplementation of the Paper design app | 34 | 🟢 | Rust |
 | [ZuneShell.dll](https://github.com/ZuneDev/ZuneShell.dll) | Decompilations of the Zune desktop ZuneShell.dll, UIX.dll and UIXControls.dll | 34 | 🟢 | C# |
+| [spicy](https://github.com/trhodeos/spicy) | Clone of the N64 SDK's mild.exe ROM linker | 25 | 🔴 | Go |
 | [Mariana](https://github.com/jfd16/Mariana) | ActionScript 3 runtime for .NET | 20 | 🔴 | C# |
 | [InstallerLG](https://github.com/sodero/InstallerLG) | A reimplementation of the LISP-like 'Installer' scripting language. | 19 | 🟢 | C |
 | [WordTsar](https://github.com/sleaze/WordTsar) | Open-source clone of the WordStar word processor that edits WordStar files | 18 | 🟡 | C++ |
@@ -65,8 +67,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LightCraft Android](https://github.com/artcraft-android/lightcraft-android) | Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI | 17 | 🟢 | Rust |
 | [urna-vota-decompiled](https://github.com/igoroalonge/urna-vota-decompiled) | Readable C++ reconstruction of the WASM module behind Brazil's TSE electronic voting simulator | 16 | 🟢 | C++ |
 | [MailCraft](https://github.com/MonkeySaint/mailcraft) | Clean-room reimplementation of Microsoft Outlook (classic) in pure Rust | 14 | 🟢 | Rust |
+| [makemask](https://github.com/trhodeos/makemask) | Open-source replacement for the N64 SDK makemask.exe | 14 | 🔴 | Go |
 | [PrintCraft](https://github.com/kabaragoya-loves-you/printcraft) | Clean-room reimplementation of Adobe Acrobat in pure Rust | 9 | 🟢 | Rust |
 | [libfreehand](https://github.com/LibreOffice/libfreehand) | Import library for Aldus/Macromedia FreeHand documents | 8 | 🟢 | C |
+| [makeromOpen](https://github.com/fraser125/makeromOpen) | Open-source replacement for the N64 SDK makerom tool | 3 | 🔴 | Assembly |
+| [urit](https://codeberg.org/handfly/urit) | Reverse-engineered reimplementation of the T.A.G. BBS software |  | ⚪ |  |
 
 ## Binary Translators
 
@@ -115,21 +120,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [winevdm (otvdm)](https://github.com/otya128/winevdm) | Runs 16-bit Windows 3.x programs on 64-bit Windows using Wine code | 3,435 | 🟢 | C |
 | [FNA](https://github.com/FNA-XNA/FNA) | Accuracy-focused reimplementation of Microsoft XNA 4.0 | 3,053 | 🟢 | C# |
 | [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) | Direct3D 12 implementation on Vulkan used by Proton | 3,001 | 🟢 | C |
+| [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) | J2ME Loader, a J2ME emulator for Android | 2,691 | 🟢 | Java |
 | [Haiku](https://github.com/haiku/haiku) | Open source reimplementation of BeOS | 2,361 | 🟢 | C++ |
 | [dxwrapper](https://github.com/elishacloud/dxwrapper) | Wrapper fixing compatibility of old DirectX/DirectDraw games on modern Windows | 2,031 | 🟢 | C |
+| [vita2hos](https://github.com/xerpi/vita2hos) | PlayStation Vita to Horizon OS (Nintendo Switch) translation layer | 1,255 | 🟡 | C |
 | [FreeDOS kernel](https://github.com/FDOS/kernel) | MS-DOS compatible operating system kernel | 1,055 | 🟢 | C |
 | [GNUstep Base](https://github.com/gnustep/libs-base) | Free implementation of the OpenStep/Cocoa Foundation API | 998 | 🟢 | Objective-C |
 | [NTVDMx64](https://github.com/leecher1337/ntvdmx64) | Runs Microsoft NTVDM (16-bit DOS subsystem) on 64-bit Windows | 958 | 🟢 | C |
 | [ipasim](https://github.com/ipasimulator/ipasim) | iOS emulator for Windows that runs iOS apps via translated binaries | 934 | 🔴 | C++ |
 | [PumpkinOS](https://github.com/migueletto/PumpkinOS) | Re-implementation of PalmOS that runs Palm m68k apps on modern systems | 822 | 🟢 | C |
+| [SBEMU](https://github.com/crazii/SBEMU) | Sound Blaster emulation for DOS on modern HDA and AC97 sound hardware | 793 | 🟢 | C |
+| [freej2me](https://github.com/hex007/freej2me) | FreeJ2ME, a free J2ME emulator with libretro, AWT and SDL2 frontends | 680 | 🟢 | Java |
 | [FAudio](https://github.com/FNA-XNA/FAudio) | Accuracy-focused XAudio reimplementation for open platforms | 641 | 🟢 | C++ |
 | [AROS](https://github.com/aros-development-team/AROS) | Open source reimplementation of the AmigaOS 3.1 APIs | 516 | 🟢 | C |
 | [GEOS 2.0 source](https://github.com/mist64/geos) | Reverse-engineered source code of GEOS 2.0 for the Commodore 64/128 | 485 | 🟢 | Assembly |
 | [Advanced Mac Substitute (metamage)](https://github.com/jjuran/metamage_1) | Repo hosting Advanced Mac Substitute, a reimplementation of classic Mac OS APIs | 373 | 🟢 | C++ |
 | [Hercules Hyperion](https://github.com/SDL-Hercules-390/hyperion) | Emulator of IBM System/370, ESA/390 and z/Architecture mainframes | 350 | 🟢 | C |
+| [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME) | SquirrelJME, a clean-room Java ME 8 virtual machine | 323 | 🟢 | Java |
 | [mpw](https://github.com/ksherlock/mpw) | Compatibility layer that runs Macintosh Programmer's Workshop tools on modern systems | 277 | 🟢 | C |
 | [SunriseOS](https://github.com/sunriseos/SunriseOS) | Nintendo Switch Horizon/NX kernel reimplementation | 247 | 🔴 | Rust |
 | [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X) | Z80 emulator plus CP/M-80 BDOS reimplementation to run CP/M software on macOS | 240 | 🟢 | Objective-C |
+| [VSBHDA](https://github.com/Baron-von-Riedesel/VSBHDA) | Sound Blaster emulation for DOS on HDA hardware | 170 | 🟢 | C |
 | [Executor](https://github.com/autc04/executor) | Modern fork of Executor, a classic Mac OS reimplementation | 169 | 🟢 | C++ |
 | [Brovan](https://github.com/AdvDebug/Brovan) | User-mode NT and Linux emulator to run Windows and Linux programs across platforms | 165 | 🟢 | C# |
 | [MBBSEmu](https://github.com/mbbsemu/MBBSEmu) | Emulator that reimplements The MajorBBS/Worldgroup APIs to run its BBS modules | 154 | 🟢 | C# |
@@ -138,10 +149,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AuthUX](https://github.com/world-windows-federation/AuthUX) | Windows 7 AuthUI recreated via ConsoleLogon reimplementation | 131 | 🟢 | C++ |
 | [libxpc](https://github.com/jceel/libxpc) | Open-source reimplementation of Apple's XPC library | 121 | 🔴 | C |
 | [berrry-wine](https://github.com/vgrichina/berrry-wine) | Runs Windows 98 apps and games in the browser via x86 and Win32 emulation | 120 | 🟢 | JavaScript |
+| [spinhawk](https://github.com/rbowler/spinhawk) | Hercules (spinhawk), an IBM System/370, ESA/390 and z/Architecture mainframe emulator | 112 | 🟢 | C |
 | [InputFusion](https://github.com/xan105/InputFusion) | Reimplementation of XInput and other gamepad APIs over SDL3 | 101 | 🟢 | C++ |
 | [cmd](https://github.com/ChenPi11/cmd) | Faithful reimplementation of the Windows cmd.exe interpreter | 93 | 🟢 | C |
 | [dmusic](https://github.com/GothicKit/dmusic) | Partial re-implementation of Microsoft's DirectMusic adaptive soundtrack API | 62 | 🟢 | C |
 | [Mirage](https://github.com/mirage-rs/Mirage) | Reimplementation of the Nintendo Switch firmware | 60 | 🔴 | Rust |
+| [microemu](https://github.com/barteo/microemu) | MicroEmu, a pure Java implementation of Java ME | 58 | 🗄️ | Java |
 | [dui70](https://github.com/seven-mile/dui70) | Reverse engineering the undocumented Windows UI library dui70.dll | 57 | 🟢 | C++ |
 | [2ine](https://github.com/icculus/2ine) | OS/2 compatibility layer for running OS/2 binaries on Linux | 52 | 🟡 | C |
 | [Saturnus](https://github.com/vbe0201/Saturnus) | Open-source reimplementation of the Nintendo Switch Horizon microkernel | 48 | 🔴 | Rust |
@@ -149,6 +162,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenWebView2Loader](https://github.com/jchv/OpenWebView2Loader) | Open-source reimplementation of the Microsoft WebView2Loader | 37 | 🔴 | C++ |
 | [DWM](https://github.com/Adrikikicp2/DWM) | Decompilation of Windows 7's Desktop Window Manager (dwm.exe and uDWM.dll) | 23 | 🟡 | C++ |
 | [re-a3d-api](https://github.com/oxiKKK/re-a3d-api) | Reverse-engineered C++ Aureal 3D audio API interface from 1999 | 4 | 🟢 | C++ |
+| [Android Translation Layer](https://gitlab.com/android_translation_layer/android_translation_layer) | Translation layer to run Android apps natively on Linux by reimplementing Android APIs |  | ⚪ |  |
+| [grintime](https://codeberg.org/Cloos/grintime) | Generic reimplementation of the INtime RTOS APIs |  | ⚪ |  |
 | [ndiswrapper](https://sourceforge.net/projects/ndiswrapper) | Loads Windows NDIS Wi-Fi drivers in the Linux kernel |  | ⚪ |  |
 | [vkd3d](https://gitlab.winehq.org/wine/vkd3d) | WineHQ Direct3D 12 to Vulkan translation library |  | ⚪ |  |
 | [wine-staging](https://gitlab.winehq.org/wine/wine-staging) | Experimental patch set on top of Wine |  | ⚪ |  |
@@ -208,3 +223,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [plptools](https://github.com/plptools/plptools) | Tools for connecting to Psion EPOC devices over the PLP link protocol | 33 | 🟢 | C++ |
 | [DirectPlay Lite](https://github.com/solemnwarning/directplay-lite) | Reimplementation of Microsoft's DirectPlay API for old multiplayer games | 29 | 🟡 | C++ |
 | [OpenGlide](https://github.com/fcbarros/openglide) | Wrapper that runs 3dfx Glide games on OpenGL | 22 | 🔴 | C++ |
+| [altair-680-basic](https://gitlab.com/retroabandon/altair-680-basic) | Disassembly of Altair (Microsoft) 680 BASIC for the Motorola 6800 |  | ⚪ |  |
+| [cpm-re](https://gitlab.com/retroabandon/cpm-re) | CP/M system and software reverse engineering |  | ⚪ |  |
+| [DOSBox](https://sourceforge.net/projects/dosbox/) | x86 emulator with a DOS reimplementation for running old PC games |  | ⚪ |  |
+| [MS-DOS-disassembly-etc](https://codeberg.org/tkchia/MS-DOS-disassembly-etc) | Disassembly of MS-DOS 1.25 programs released only as binaries, with rebuildable sources |  | ⚪ |  |
+| [msx-re](https://gitlab.com/retroabandon/msx-re) | Disassemblies and reverse engineering of MSX code |  | ⚪ |  |
+| [pc8001-re](https://gitlab.com/retroabandon/pc8001-re) | NEC PC-8001 and PC-8801 ROM reverse engineering |  | ⚪ |  |
+| [pipedream](https://codeberg.org/elpekos/pipedream) | Reverse engineering of the PipeDream application for the Cambridge Z88 |  | ⚪ |  |
+| [sharp-mz-re](https://gitlab.com/retroabandon/sharp-mz-re) | Reverse engineering of 8-bit Sharp MZ-series software |  | ⚪ |  |
+| [sord-re](https://gitlab.com/retroabandon/sord-re) | Reverse engineering of Sord computers |  | ⚪ |  |
+| [v2src](https://gitlab.com/segaloco/v2src) | Disassembly of files from the s2-bits archive of early UNIX at The UNIX Heritage Society |  | ⚪ |  |

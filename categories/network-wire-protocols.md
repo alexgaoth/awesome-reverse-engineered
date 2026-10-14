@@ -1,20 +1,20 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 376 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 397 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Aviation & Marine](#aviation--marine) (29)
+- [Aviation & Marine](#aviation--marine) (31)
 - [Casting & TV Remotes](#casting--tv-remotes) (40)
-- [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (21)
+- [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (25)
 - [Digital Voice Radio](#digital-voice-radio) (13)
 - [Email & Groupware](#email--groupware) (22)
 - [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (24)
 - [Legacy IM Revival](#legacy-im-revival) (2)
-- [Messaging Protocols](#messaging-protocols) (16)
-- [Other Protocols](#other-protocols) (17)
-- [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (36)
-- [Radio & SDR Protocols](#radio--sdr-protocols) (60)
+- [Messaging Protocols](#messaging-protocols) (17)
+- [Other Protocols](#other-protocols) (18)
+- [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
+- [Radio & SDR Protocols](#radio--sdr-protocols) (62)
 - [Satellite Downlinks](#satellite-downlinks) (32)
 - [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (42)
 - [VPN Clients](#vpn-clients) (22)
@@ -52,6 +52,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RMRadar_pi](https://github.com/ab2nkovs/RMRadar_pi) | OpenCPN plugin for Raymarine digital radar via its undocumented network protocol | 11 | 🔴 | C |
 | [parsefsh](https://github.com/rahra/parsefsh) | Decodes Raymarine ARCHIVE.FSH files and Garmin IMG/ADM archives | 10 | 🔴 | C |
 | [dragonsdr_dji_droneid](https://github.com/alphafox02/dragonsdr_dji_droneid) | Detects DJI DroneID with DragonSDR and publishes it over ZMQ | 9 | 🟢 | Python |
+| [metars_cgi](https://codeberg.org/PurpleJillybeans/metars_cgi) | Reverse-engineered data server for the NCAR Java METAR viewer |  | ⚪ |  |
+| [trimpack](https://codeberg.org/jbnd/trimpack) | Utilities for Trimble Trimpack GPS receivers using their proprietary binary protocol |  | ⚪ |  |
 
 ## Casting & TV Remotes
 
@@ -123,6 +125,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ShannonEE](https://github.com/grant-h/ShannonEE) | Dynamic analysis environment for Samsung's Shannon baseband (predecessor of FirmWire) | 44 | 🗄️ |  |
 | [DiagLibrary](https://github.com/sanjaywave/DiagLibrary) | Library using the Qualcomm DIAG port for band and frequency locking on your own device | 26 | 🔴 | C |
 | [osmo-qcdiag](https://github.com/osmocom/osmo-qcdiag) | Osmocom tools for the Qualcomm DIAG interface | 21 | 🟡 | C |
+| [dct3-gsmtap](https://gitea.osmocom.org/phone-side/dct3-gsmtap) | Obtains GSMTAP SIM and GSM messages from Nokia DCT3 phones |  | ⚪ |  |
+| [imsd](https://codeberg.org/DylanVanAssche/imsd) | Reverse-engineered FOSS implementation of IMS (VoLTE) services for Linux phones |  | ⚪ |  |
+| [libqmi](https://gitlab.freedesktop.org/mobile-broadband/libqmi) | Library for the Qualcomm MSM Interface (QMI) modem protocol |  | ⚪ |  |
+| [libqrtr-glib](https://gitlab.freedesktop.org/mobile-broadband/libqrtr-glib) | Library for the Qualcomm IPC Router (QRTR) protocol |  | ⚪ |  |
 
 ## Digital Voice Radio
 
@@ -225,6 +231,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mautrix-googlechat](https://github.com/mautrix/googlechat) | Matrix-Google Chat puppeting bridge | 127 | 🟢 | Python |
 | [poggadaj](https://github.com/Oreeeee/poggadaj) | Open Source reimplementation of Gadu-Gadu backend (official mirror of https://codeberg.org/or3e/poggadaj) | 8 | 🟢 | Go |
 | [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🔴 | Go |
+| [aMSN](https://sourceforge.net/projects/amsn/) | Multiplatform client for the MSN Messenger protocol |  | ⚪ |  |
 
 ## Other Protocols
 
@@ -247,6 +254,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Wow-wireshark-dissector](https://github.com/chaodhib/Wow-wireshark-dissector) | World of Warcraft Wireshark dissector | 40 | 🔴 | C |
 | [wow_srp](https://github.com/gtker/wow_srp) | Library for World of Warcraft flavor of SRP6 authentication. | 19 | 🟡 | Rust |
 | [project-mayhem](https://github.com/giannitedesco/project-mayhem) | Reverse-engineered Streamate webcam protocol; native client | 7 | 🔴 | C |
+| [libmms](https://sourceforge.net/projects/libmms/) | Library for the Microsoft Media Server (MMS) streaming protocol |  | ⚪ |  |
 
 ## Proprietary Enterprise Protocols
 
@@ -261,32 +269,43 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [DavMail](https://github.com/mguessan/davmail) | POP/IMAP/SMTP/CalDAV/LDAP gateway to Exchange and Office 365 (EWS/WebDAV) | 766 | 🟢 | Java |
 | [libnfs](https://github.com/sahlberg/libnfs) | NFS client library | 604 | 🟢 | C |
 | [Kerberos.NET](https://github.com/dotnet/Kerberos.NET) | A Kerberos implementation built entirely in managed code. | 567 | 🟢 | C# |
+| [node-dota2](https://github.com/Arcana/node-dota2) | node-steam plugin for the Dota 2 game coordinator | 555 | 🗄️ | JavaScript |
 | [FreeTDS](https://github.com/FreeTDS/freetds) | Reimplementation of Sybase/Microsoft SQL Server TDS wire protocol | 504 | 🟢 | C |
 | [winrm](https://github.com/masterzen/winrm) | Command-line tool and library for Windows remote command execution in Go | 478 | 🟢 | Go |
+| [node-csgo](https://github.com/joshuaferrara/node-csgo) | node-steam plugin for the Counter-Strike: Global Offensive game coordinator | 464 | 🔴 | JavaScript |
 | [python-fints](https://github.com/raphaelm/python-fints) | Pure-Python FinTS/HBCI banking protocol client | 424 | 🟢 | Python |
 | [pypsrp](https://github.com/jborean93/pypsrp) | PowerShell Remoting Protocol for Python | 391 | 🟢 | Python |
 | [network-audio-controller](https://github.com/chris-ritsen/network-audio-controller) | Unofficial Dante Controller alternative for multiple platforms | 371 | 🟢 | Python |
 | [inferno](https://github.com/teodly/inferno) | Unofficial implementation of the Dante audio-over-IP protocol | 349 | 🟢 | Rust |
 | [hibiscus](https://github.com/willuhn/hibiscus) | Free home-banking app for Linux, Windows and macOS built on HBCI4Java | 344 | 🟢 | Java |
 | [jcifs-ng](https://github.com/AgNO3/jcifs-ng) | A cleaned-up and improved version of the jCIFS library | 344 | 🟢 | Java |
+| [dota2](https://github.com/ValvePython/dota2) | Python package for interacting with the Dota 2 game coordinator | 224 | 🔴 | Python |
 | [go-ntlmssp](https://github.com/Azure/go-ntlmssp) | NTLM/Negotiate authentication over HTTP | 203 | 🟢 | Go |
 | [hbci4java](https://github.com/hbci4j/hbci4java) | Java FinTS/HBCI implementation with chipTAN, pushTAN and SEPA support | 193 | 🟢 | Java |
 | [OpenChange](https://github.com/openchange/openchange) | Open implementation of Microsoft Exchange MAPI/RPC protocols | 174 | 🔴 | C |
 | [eoip](https://github.com/bbonev/eoip) | Linux kernel EoIP tunnel compatible with MikroTik | 163 | 🟢 | C |
 | [phpFinTS](https://github.com/nemiah/phpFinTS) | PHP library to communicate with FinTS/HBCI bank servers | 162 | 🟢 | PHP |
 | [Z-Push](https://github.com/Z-Hub/Z-Push) | Open source Exchange ActiveSync implementation for syncing mobile devices | 156 | 🟢 | PHP |
+| [JavaSteam](https://github.com/Longi94/JavaSteam) | Java library for interacting directly with Valve's Steam servers, based on SteamKit | 145 | 🟢 | Kotlin |
 | [open_fints_js_client](https://github.com/jschyma/open_fints_js_client) | JavaScript FinTS/HBCI client | 135 | 🟡 | JavaScript |
 | [SIPE](https://github.com/tieto/sipe) | Third-party Pidgin plugin for the Microsoft Lync/OCS protocol | 130 | 🔴 | C |
 | [wycliffe](https://github.com/jsharkey/wycliffe) | Clean-room implementation of the Dante audio protocol | 128 | 🔴 | Python |
 | [unifi-inform-protocol](https://github.com/jeffreykog/unifi-inform-protocol) | Documentation of the reverse engineered Ubiquiti UniFi inform protocol | 119 | 🔴 |  |
 | [SAP Wireshark dissectors](https://github.com/SecureAuthCorp/SAP-Dissection-plug-in-for-Wireshark) | Wireshark dissectors for proprietary SAP NI, Diag, RFC, Router, Enqueue protocols | 114 | 🔴 | C |
+| [vapor](https://github.com/scholtzm/vapor) | Lightweight Steam client framework for Node.js on the Steam CM protocol | 111 | 🔴 | JavaScript |
 | [smb-rs](https://github.com/afiffon/smb-rs) | Pure Rust SMB2/3 client | 85 | 🟢 | Rust |
 | [OpenURMA](https://github.com/bojieli/OpenURMA) | Clean-room open implementation of the Unified Bus protocol | 80 | 🟢 | C++ |
 | [snxvpn](https://github.com/schlatterbeck/snxvpn) | Command-line client for Check Point SSL VPN | 72 | 🟡 | Python |
+| [node-steamstore](https://github.com/DoctorMcKay/node-steamstore) | Node.js module for interacting with the Steam store's undocumented web endpoints | 69 | 🟡 | JavaScript |
 | [pyspnego](https://github.com/jborean93/pyspnego) | Python SPNEGO authentication library | 66 | 🟢 | Python |
 | [libfintx](https://github.com/libfintx/libfintx) | .NET client library for HBCI, FinTS and EBICS banking protocols | 65 | 🟢 | C# |
+| [node-tf2](https://github.com/DoctorMcKay/node-tf2) | Node.js module for talking to the Team Fortress 2 game coordinator | 63 | 🟡 | JavaScript |
 | [unifi-protocol-reverse-engineering](https://github.com/fxkr/unifi-protocol-reverse-engineering) | Reverse engineered docs for the protocol between UniFi APs and controller | 60 | 🔴 |  |
+| [node-steam-client](https://github.com/DoctorMcKay/node-steam-client) | Node.js SteamClient implementing Valve's reverse-engineered Steam network protocol | 55 | 🗄️ | JavaScript |
+| [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) | Java port of SteamKit for Steam network protocol access | 50 | 🔴 | Java |
 | [gss-ntlmssp](https://github.com/gssapi/gss-ntlmssp) | GSSAPI implementation of Microsoft NTLM (MS-NLMP) | 42 | 🟢 | C |
+| [node-steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) | Steam client for game servers on the Steam CM protocol | 20 | 🟢 | JavaScript |
+| [node-steam-crypto](https://github.com/seishun/node-steam-crypto) | Node.js implementation of Steam's session crypto | 15 | 🗄️ | JavaScript |
 | [outlook-dndprotocol](https://github.com/yasoonOfficial/outlook-dndprotocol) | Reverse-engineered Outlook drag-and-drop OLE clipboard protocol | 4 | 🔴 | C# |
 
 ## Radio & SDR Protocols
@@ -352,6 +371,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [EOTDecode](https://github.com/russinnes/EOTDecode) | Python decoder for railroad End-of-Train device radio telemetry | 13 | 🟡 | Python |
 | [ft991a-interoperability-tools](https://github.com/j0ju/ft991a-interoperability-tools) | Tools for the Yaesu FT-991A's undocumented memory and menu formats | 5 | 🟢 | Python |
 | [sirf](https://github.com/tryan/sirf) | Interpreter for the SiRF binary GPS protocol | 1 | 🔴 | C |
+| [dedected](https://gitea.osmocom.org/dect/dedected) | deDECTed.org DECT sniffing tools: Com-on-Air driver, Kismet and Wireshark support |  | ⚪ |  |
+| [libdect](https://gitea.osmocom.org/dect/libdect) | DECT protocol stack library from the Osmocom DECT project |  | ⚪ |  |
 | [SmallStep](https://github.com/nuruposan/SmallStep) | Download and configure classic MTK GPS loggers over their binary protocol on M5Stack | 0 | 🟢 | C++ |
 
 ## Satellite Downlinks

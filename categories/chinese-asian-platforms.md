@@ -1,6 +1,6 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 293 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 303 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -11,7 +11,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Japan & Korea](#japan--korea) (36)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
 - [Shopping & Services](#shopping--services) (19)
-- [WeChat & QQ](#wechat--qq) (53)
+- [WeChat & QQ](#wechat--qq) (63)
 - [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (25)
 
 ## Bilibili
@@ -273,11 +273,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mirai](https://github.com/mamoe/mirai) | Mirai: Kotlin QQ bot library implementing the Android QQ protocol | 14,797 | 🟡 | Kotlin |
 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | macOS WeChat assistant plugin injected into the client | 14,276 | 🟡 | Objective-C |
 | [WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | macOS WeChat tweak: anti-recall and multiple instances via binary injection | 13,827 | 🟢 | Swift |
+| [electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) | Electron WeChat client for macOS and Linux wrapping web WeChat | 13,816 | 🗄️ | JavaScript |
 | [NapCatQQ](https://github.com/NapNeko/NapCatQQ) | NapCat: OneBot 11 bot framework built by hooking the NTQQ desktop client | 10,937 | 🟢 | TypeScript |
 | [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | Go implementation of the reverse-engineered QQ protocol exposing the OneBot API | 10,621 | 🟢 | Go |
 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Exports WeChat chat history from iTunes/iOS backups | 8,532 | 🟡 | C++ |
+| [WeixinBot](https://github.com/Urinx/WeixinBot) | Web WeChat API with a terminal client and bot | 7,410 | 🔴 | Python |
 | [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) | Plugin loader for the QQNT Electron client | 7,068 | 🗄️ | JavaScript |
 | [weweChat](https://github.com/trazyn/weweChat) | Unofficial WeChat desktop client built on the web WeChat protocol | 5,699 | 🗄️ | JavaScript |
+| [wxBot](https://github.com/liuwons/wxBot) | Python WeChat personal-account bot framework on the web protocol (deprecated) | 5,311 | 🔴 | Python |
 | [echotrace](https://github.com/ycccccccy/echotrace) | Local WeChat chat history export and analysis tool | 3,839 | 🟢 |  |
 | [LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,661 | 🟢 | TypeScript |
 | [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | Third-party QQ desktop client built on reverse-engineered protocol libraries | 3,380 | 🟢 | TypeScript |
@@ -293,6 +296,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [FishChat](https://github.com/yulingtianxia/FishChat) | Hooks WeChat on non-jailbroken iOS devices | 1,102 | 🗄️ |  |
 | [wxbot](https://github.com/jwping/wxbot) | PC WeChat hook module and bot | 1,100 | 🟡 | Go |
 | [qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) | Reverse-engineered TypeScript client for QClaw's WeChat Access API | 797 | 🗄️ | TypeScript |
+| [wxbot](https://github.com/fritx/wxbot) | Personal-account WeChat bot using the web WeChat interface (outdated) | 796 | 🔴 | JavaScript |
 | [puppet-padlocal](https://github.com/wechaty/puppet-padlocal) | Wechaty puppet using the WeChat iPad protocol | 769 | 🔴 | TypeScript |
 | [ItChat-UOS](https://github.com/why2lyj/ItChat-UOS) | Revived ItChat WeChat web-protocol client using the UOS login path | 742 | 🔴 | Python |
 | [vscode-qq](https://github.com/takayama-lily/vscode-qq) | VS Code QQ extension based on the Android QQ protocol | 731 | 🔴 | TypeScript |
@@ -301,6 +305,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) | ChatGPT WeChat bot built on a WeChat hook interface | 645 | 🟡 | Python |
 | [puppet-xp](https://github.com/wechaty/puppet-xp) | Wechaty puppet for the Windows WeChat client via hooking | 552 | 🟡 | JavaScript |
 | [wechat-explorer](https://github.com/humiaozuzu/wechat-explorer) | WeChat chat history export and analysis tool | 540 | 🗄️ | Python |
+| [jeeves](https://github.com/kanjielu/jeeves) | WeChat personal-account bot built on the web WeChat protocol | 499 | 🗄️ | Java |
+| [wechatircd](https://github.com/MaskRay/wechatircd) | Control web WeChat from an IRC client | 408 | 🔴 | Python |
+| [wechatBot](https://github.com/stonexer/wechatBot) | Personal WeChat bot platform built on the wechat4u web-protocol library | 403 | 🔴 | Vue |
 | [wxhook](https://github.com/miloira/wxhook) | Python WeChat bot framework hooking multiple PC WeChat versions | 398 | 🟢 | Python |
 | [WechatHook](https://github.com/duqian291902259/WechatHook) | Android WeChat hooking with Xposed and accessibility services | 385 | 🔴 | Java |
 | [weread-exporter (lbq110)](https://github.com/lbq110/weread-exporter) | Exports full WeRead books to Markdown via Playwright + Canvas hook | 321 | 🟢 | Python |
@@ -308,12 +315,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) | MCP server that unpacks WeChat mini programs and recovers API signing logic | 232 | 🟢 | JavaScript |
 | [wxappUnpacker](https://github.com/threecha/wxappUnpacker) | Node.js unpacker restoring WeChat mini program .wxapkg resources | 225 | 🟢 | JavaScript |
 | [miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp) | MCP server for WeChat mini program reverse engineering through Chrome DevTools | 215 | 🟢 | Python |
+| [wechat-user-bot](https://github.com/HalfdogStudio/wechat-user-bot) | Personal WeChat bot using the web WeChat protocol | 211 | 🗄️ | JavaScript |
 | [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) | Second-generation Lagrange NTQQ protocol implementation | 208 | 🗄️ | C# |
 | [gtk-qq](https://github.com/lomirus/gtk-qq) | Unofficial GTK4 Linux QQ client in Rust | 200 | 🗄️ | Rust |
+| [wechat_robot](https://github.com/lyyyuna/wechat_robot) | Personal-account WeChat chat robot on the web protocol | 180 | 🗄️ | Python |
 | [protocol-versions](https://github.com/RomiChan/protocol-versions) | Tracks the latest QQ client protocol versions and parameters | 143 | 🔴 |  |
 | [Go-Mirai-Client](https://github.com/ProtobufBot/Go-Mirai-Client) | MiraiGo-based QQ client exposing bot messages over reverse WebSocket | 138 | 🟡 | Go |
 | [lagrange-python](https://github.com/LagrangeDev/lagrange-python) | Python implementation of the NTQQ PC protocol | 135 | 🟢 | Python |
 | [puppet-wechat4u](https://github.com/wechaty/puppet-wechat4u) | Wechaty puppet based on the wechat4u web protocol | 129 | 🟡 | TypeScript |
+| [WeChat](https://github.com/smokingrain/WeChat) | Java WeChat desktop client built on the web WeChat protocol | 121 | 🟡 | Java |
 | [seeWxapkg](https://github.com/Leslie-SSS/seeWxapkg) | Web tool to decompile WeChat mini programs | 113 | 🟢 | Go |
 | [WeiXin-Private-API](https://github.com/lealife/WeiXin-Private-API) | WeChat Official Account platform private API wrapper | 112 | 🗄️ | PHP |
 | [pc-wechat-hook-http-api](https://github.com/daenmax/pc-wechat-hook-http-api) | PC WeChat hook service exposing HTTP and WebSocket APIs | 101 | 🟡 |  |

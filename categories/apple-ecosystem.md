@@ -1,18 +1,18 @@
 # Apple Ecosystem
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 326 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 331 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AirPlay & AirDrop](#airplay--airdrop) (43)
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (49)
 - [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
-- [Find My & AirTag](#find-my--airtag) (8)
+- [Find My & AirTag](#find-my--airtag) (9)
 - [HomeKit](#homekit) (18)
 - [Other](#other) (4)
-- [Other Apple](#other-apple) (126)
-- [iCloud & Apple Services](#icloud--apple-services) (21)
-- [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (43)
+- [Other Apple](#other-apple) (128)
+- [iCloud & Apple Services](#icloud--apple-services) (22)
+- [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (44)
 
 ## AirPlay & AirDrop
 
@@ -143,6 +143,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AirGuard](https://github.com/seemoo-lab/AirGuard) | Android app that detects AirTags and Find My trackers following you | 2,541 | 🟢 | Kotlin |
 | [macless-haystack](https://github.com/dchristl/macless-haystack) | Use OpenHaystack Find My trackers without owning a Mac | 2,209 | 🟢 | Dart |
 | [Send My](https://github.com/positive-security/send-my) | Upload arbitrary data via Apple's Find My network | 1,888 | 🟡 | C |
+| [icloud3](https://github.com/gcobb321/icloud3) | Apple device tracker for Home Assistant using the unofficial iCloud Find My web API | 918 | 🟢 | Python |
 | [FindMy (biemster)](https://github.com/biemster/FindMy) | Query Apple Find My network for custom tags without a Mac | 726 | 🟡 | Python |
 | [OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) | Track AirTags and other Find My devices on Android | 427 | 🟢 | Java |
 | [airtag](https://github.com/seemoo-lab/airtag) | AirTag instrumentation including firmware downgrades | 196 | 🟡 | JavaScript |
@@ -310,6 +311,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pstream](https://github.com/mfrister/pstream) | Server implementation of Apple's reverse-engineered PhotoStream protocol | 8 | 🗄️ | Python |
 | [macvdmtool](https://github.com/rickmark/macvdmtool) | Apple Silicon to Apple Silicon VDM utility | 4 | 🟡 | C++ |
 | [macos-summarize-internals](https://github.com/fenxer/macos-summarize-internals) | Reverse-engineered macOS Summary Service / SearchKit SKSummary | 2 | 🟢 | Python |
+| [re-derq](https://codeberg.org/viraptor/re-derq) | Open reimplementation of Apple's derq utility |  | ⚪ |  |
+| [re-intentbuilderc](https://codeberg.org/viraptor/re-intentbuilderc) | Clean open reimplementation of Apple's intentbuilderc tool |  | ⚪ |  |
 
 ## iCloud & Apple Services
 
@@ -336,6 +339,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Go-iClient](https://github.com/Johnw7789/Go-iClient) | Go package for iCloud authentication and icloud.com's unofficial API | 41 | 🟢 | Go |
 | [LiquidDonkey](https://github.com/horrorho/LiquidDonkey) | Java tool to download iCloud backups using reverse-engineered protocol | 40 | 🔴 | Java |
 | [icloud_drive_sync](https://github.com/gordonaspin/icloud_drive_sync) | Python based iCloud Drive synchronization application | 34 | 🟢 | Python |
+| [geoservices-re](https://gitlab.com/nicolas17/geoservices-re) | Reverse engineering Apple's geoservices (Maps) network requests |  | ⚪ |  |
 
 ## iOS Device Tooling (libimobiledevice etc.)
 
@@ -384,3 +388,4 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [demuxusb](https://github.com/hack-different/demuxusb) | A program and toolset to analyze iDevice USB sessions | 35 | 🟢 | C++ |
 | [java-usbmuxd](https://github.com/mogaleaf/java-usbmuxd) | access ios devices with java api | 20 | 🔴 | Java |
 | [MobileDevices](https://github.com/rearguard-hu/MobileDevices) | A library to communicate with services on iOS devices using native protocols. | 17 | 🔴 | C# |
+| [gtkpod / libgpod](https://sourceforge.net/projects/gtkpod/) | iPod manager and library for the reverse-engineered iTunesDB format |  | ⚪ |  |

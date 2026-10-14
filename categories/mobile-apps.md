@@ -1,11 +1,11 @@
 # Mobile Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 86 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 87 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Android Apps](#android-apps) (5)
-- [App Store Clients & Downloaders](#app-store-clients--downloaders) (23)
+- [App Store Clients & Downloaders](#app-store-clients--downloaders) (24)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
 - [Fitness & Education Apps](#fitness--education-apps) (12)
 - [Other](#other) (1)
@@ -50,6 +50,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) | Downloads APKs from the Samsung Galaxy Store | 74 | 🔴 | Python |
 | [apkpure_get](https://github.com/0x27/apkpure_get) | APK downloader for apkpure.com | 61 | 🔴 | Python |
 | [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) | Open-source Google Play client using the reverse-engineered Play protocol |  | ⚪ |  |
+| [fuuchan](https://codeberg.org/kita/fuuchan) | Downloader for apps from the QooApp store |  | ⚪ |  |
 
 ## Banking & Finance Apps
 

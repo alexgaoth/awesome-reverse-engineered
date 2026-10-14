@@ -1,10 +1,10 @@
 # Online Service Revivals
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 168 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 169 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (35)
+- [Dead Devices & Cloud Services](#dead-devices--cloud-services) (36)
 - [Kids' MMOs & Flash Worlds](#kids-mmos--flash-worlds) (23)
 - [Messengers](#messengers) (5)
 - [Nintendo Online](#nintendo-online) (66)
@@ -50,6 +50,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [webOS App Museum service](https://github.com/webOSArchive/webos-catalog-service) | Reimplemented backend for the webOS App Museum on legacy Palm devices | 2 | 🟢 | PHP |
 | [webOS sharing-service](https://github.com/webOSArchive/sharing-service) | Simple sharing service that replaces dead cloud sharing for retro webOS devices | 2 | 🟢 | PHP |
 | [btx-re](https://github.com/sarnau/btx-re) | Reverse engineering of the Commodore Bildschirmtext Decoder II cartridge ROM | 0 | 🟢 | Assembly |
+| [mini-mopera-wgate](https://codeberg.org/asie/mini-mopera-wgate) | Minimal server reimplementation of the WonderSwan Mobile OPErator RAdio web gateway |  | ⚪ |  |
 
 ## Kids' MMOs & Flash Worlds
 

@@ -1,21 +1,21 @@
 # Alternative Frontends
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 113 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 122 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bandcamp](#bandcamp) (1)
 - [GitHub](#github) (1)
 - [Instagram & TikTok](#instagram--tiktok) (7)
-- [Odysee/LBRY](#odyseelbry) (1)
-- [Other](#other) (58)
+- [Odysee/LBRY](#odyseelbry) (2)
+- [Other](#other) (63)
 - [Reddit](#reddit) (7)
 - [Search Engines](#search-engines) (4)
 - [Tools & Instance Lists](#tools--instance-lists) (3)
-- [Translation](#translation) (2)
+- [Translation](#translation) (3)
 - [Twitch](#twitch) (1)
-- [Twitter/X](#twitterx) (3)
-- [YouTube](#youtube) (23)
+- [Twitter/X](#twitterx) (4)
+- [YouTube](#youtube) (24)
 - [YouTube Music](#youtube-music) (2)
 
 ## Bandcamp
@@ -47,6 +47,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [Librarian](https://codeberg.org/librarian/librarian) | Alternative frontend for LBRY/Odysee (archived) |  | ⚪ |  |
+| [librarian-documentation](https://codeberg.org/librarian/documentation) | Documentation for Librarian including reverse-engineered Odysee/LBRY API docs |  | ⚪ |  |
 
 ## Other
 
@@ -83,17 +84,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BooruView](https://codeberg.org/jessienyan/booruview) | Alternative frontend for booru image boards |  | ⚪ |  |
 | [BreezeWiki](https://gitdab.com/cadence/breezewiki) | Alternative frontend for Fandom wikis without ads or clutter |  | ⚪ |  |
 | [Destructables](https://codeberg.org/cobra/Destructables) | Alternative frontend for Instructables |  | ⚪ |  |
+| [freexiv](https://codeberg.org/PrivacyDev/freexiv) | Alternative frontend for pixiv |  | ⚪ |  |
 | [Gelbooru-go](https://git.bloat.cat/vlnst/gelbooru-go) | Alternative frontend for Gelbooru |  | ⚪ |  |
 | [Indestructables](https://codeberg.org/indestructables/indestructables) | Privacy-respecting frontend to Instructables |  | ⚪ |  |
 | [Koub](https://git.bloat.cat/gospodin/koub) | Alternative frontend for Coub |  | ⚪ |  |
 | [LiteXiv](https://codeberg.org/LiteXiv/LiteXiv) | Lightweight alternative Pixiv frontend |  | ⚪ |  |
 | [MeMe](https://codeberg.org/cobra/MeMe) | Alternative frontend for Know Your Meme |  | ⚪ |  |
 | [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) | Alternative frontend for Bilibili |  | ⚪ |  |
+| [moppet](https://codeberg.org/anabasis/moppet) | Alternative frontend for PBS Kids videos |  | ⚪ |  |
 | [Mozhi](https://codeberg.org/aryak/mozhi) | Translation frontend aggregating Google, DeepL, Yandex and others |  | ⚪ |  |
 | [NerdsforNerds](https://codeberg.org/cobra/NerdsforNerds) | Alternative frontend for GeeksforGeeks |  | ⚪ |  |
 | [Painterest](https://codeberg.org/thirtysix/painterest) | Alternative Pinterest frontend |  | ⚪ |  |
 | [Phantom](https://codeberg.org/phantom-org/phantom) | Alternative frontend for Fandom wikis |  | ⚪ |  |
 | [PixivFE](https://codeberg.org/VnPower/pixivfe) | Privacy-respecting frontend for Pixiv |  | ⚪ |  |
+| [Pomeranc](https://codeberg.org/Fjuro/Pomeranc) | Alternative frontend for the Czech photo site Rajce.net |  | ⚪ |  |
 | [Rat Aint Tieba](https://0xacab.org/johnxina/rat) | Alternative frontend for Baidu Tieba |  | ⚪ |  |
 | [rens](https://git.maid.zone/stuff/rens) | Alternative frontend for Google Lens |  | ⚪ |  |
 | [rimgo](https://codeberg.org/video-prize-ranch/rimgo) | Read-only, no-JS alternative frontend for Imgur |  | ⚪ |  |
@@ -101,6 +105,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Rural Dictionary](https://codeberg.org/cobra/rural-dict) | Alternative frontend for Urban Dictionary |  | ⚪ |  |
 | [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) | Privacy-respecting Twitch frontend |  | ⚪ |  |
 | [Scribe](https://git.sr.ht/~edwardloveall/scribe) | Alternative Medium frontend using Medium's GraphQL API |  | ⚪ |  |
+| [SimpleAmazon](https://codeberg.org/SimpleWeb/SimpleAmazon) | Frontend for browsing and searching Amazon on any regional TLD |  | ⚪ |  |
+| [SimpleKoch](https://codeberg.org/SimpleWeb/SimpleKoch) | Simple frontend for the German recipe site Chefkoch.de |  | ⚪ |  |
 | [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate) | Alternative frontend for Google Translate, Reverso and others |  | ⚪ |  |
 | [SkunkyArt](https://codeberg.org/skunky/skunkyart) | Alternative frontend for DeviantArt |  | ⚪ |  |
 | [Small](https://git.private.coffee/PrivateCoffee/small) | Alternative frontend for Medium |  | ⚪ |  |
@@ -146,6 +152,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [simplytranslate_mobile](https://github.com/ManeraKai/simplytranslate_mobile) | Android frontend to Google Translate via SimplyTranslate | 214 | 🟢 | Dart |
 | [SimplyTranslate-Web](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) | Web interface for SimplyTranslate, a privacy frontend to Google Translate and others |  | ⚪ |  |
+| [translite](https://codeberg.org/gospodin/translite) | Frontend for Google Translate, Yandex, DeepL and DuckDuckGo Translate with opt-in JavaScript |  | ⚪ |  |
 
 ## Twitch
 
@@ -160,6 +167,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Squawker](https://github.com/j-fbriere/squawker) | Maintained fork of Fritter: account-free Twitter client for Android | 1,457 | 🟢 | Dart |
 | [Fritter](https://github.com/jonjomckay/fritter) | Twitter client for Android using the guest/private web API, no account | 1,449 | 🟢 | Dart |
 | [Shitter](https://codeberg.org/shitter/shitter) | Alternative Twitter/X frontend |  | ⚪ |  |
+| [yitter](https://codeberg.org/PrivacyDev/yitter) | Alternative frontend for Twitter/X |  | ⚪ |  |
 
 ## YouTube
 
@@ -187,6 +195,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AudioTube](https://invent.kde.org/multimedia/audiotube) | KDE YouTube Music client built on ytmusicapi |  | ⚪ |  |
 | [CloudTube](https://git.sr.ht/~cadence/cloudtube) | Alternative YouTube front-end using Invidious as a backend |  | ⚪ |  |
 | [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe) | Privacy-respecting YouTube Music frontend backed by Piped |  | ⚪ |  |
+| [Poke](https://codeberg.org/ashleyirispuppy/poke) | Privacy-respecting YouTube frontend that also proxies weather and translation services |  | ⚪ |  |
 | [yt-local](https://git.sr.ht/~heckyel/yt-local) | Fork of youtube-local: anonymous YouTube client without JavaScript |  | ⚪ |  |
 
 ## YouTube Music

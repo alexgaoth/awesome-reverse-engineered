@@ -1,6 +1,6 @@
 # Industrial & Building Automation
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=industrial-building-automation) · 196 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=industrial-building-automation) · 198 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,9 +8,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [CNC & Machine Tools](#cnc--machine-tools) (10)
 - [Energy Meters](#energy-meters) (15)
 - [Gates, Blinds & Garage](#gates-blinds--garage) (15)
-- [Heating & Heat Pump Buses](#heating--heat-pump-buses) (88)
+- [Heating & Heat Pump Buses](#heating--heat-pump-buses) (89)
 - [Industrial Robots](#industrial-robots) (1)
-- [PLC Protocols](#plc-protocols) (44)
+- [PLC Protocols](#plc-protocols) (45)
 - [Ventilation, Pool & Water](#ventilation-pool--water) (22)
 
 ## Building Automation
@@ -166,6 +166,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [weishaupt_modbus_rtu](https://github.com/backuprestore/weishaupt_modbus_rtu) | Reverse engineering of the Weishaupt heat pump Modbus RTU RS485 interface | 1 | 🟡 |  |
 | [ParadigmaHeatingReader](https://github.com/kayr7/ParadigmaHeatingReader) | Reverse-engineered reader for Paradigma SystaComfort 2 heating controllers | 0 | 🔴 | Python |
 | [Retro-Fujitsu-ESPHome](https://github.com/endofthewurst/Retro-Fujitsu-ESPHome) | ESPHome integration for a Fujitsu heat pump over its LIN bus | 0 | 🟢 | C++ |
+| [xye](https://codeberg.org/xye/xye) | Reverse-engineered documentation of the XYE bus used by indoor units of split/VRF air conditioners |  | ⚪ |  |
 
 ## Industrial Robots
 
@@ -221,6 +222,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node-red-contrib-pccc](https://github.com/st-one-io/node-red-contrib-pccc) | Node-RED node for Allen-Bradley PLCs using the PCCC protocol | 11 | 🟡 | HTML |
 | [rs-snap7](https://github.com/cool0looc/rs-snap7) | Pure-Rust async Siemens S7 library with S7comm and S7comm-plus support | 9 | 🟢 | Rust |
 | [FinsToToolbusGateway](https://github.com/Vladimirek/FinsToToolbusGateway) | Gateway from Omron FINS to the undocumented Sysmac Toolbus programming protocol | 0 | 🔴 | C++ |
+| [libnodave](https://sourceforge.net/projects/libnodave/) | Free library for communicating with Siemens S7 PLCs over MPI, PPI and ISO-on-TCP |  | ⚪ |  |
 
 ## Ventilation, Pool & Water
 
