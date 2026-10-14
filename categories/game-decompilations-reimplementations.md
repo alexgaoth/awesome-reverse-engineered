@@ -1,15 +1,15 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 3,012 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 3,022 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Asset & File-Format Tools](#asset--file-format-tools) (243)
+- [Asset & File-Format Tools](#asset--file-format-tools) (244)
 - [Console Emulators](#console-emulators) (215)
 - [Engine Reimplementations](#engine-reimplementations) (667)
 - [Fan Patches & Enhancements](#fan-patches--enhancements) (22)
-- [Game Network Protocols & APIs](#game-network-protocols--apis) (104)
-- [Launchers & Store Clients](#launchers--store-clients) (45)
+- [Game Network Protocols & APIs](#game-network-protocols--apis) (111)
+- [Launchers & Store Clients](#launchers--store-clients) (47)
 - [Matching Decompilations — Arcade](#matching-decompilations--arcade) (5)
 - [Matching Decompilations — Atari](#matching-decompilations--atari) (3)
 - [Matching Decompilations — Game Boy / GBA / DS](#matching-decompilations--game-boy--gba--ds) (121)
@@ -234,6 +234,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Fmod5Sharp](https://github.com/SamboyCoding/Fmod5Sharp) | Managed decoder for FMOD 5 sound banks (FSB files) | 48 | 🟢 | C# |
 | [StudioSB](https://github.com/Ploaj/StudioSB) | Model application for Super Smash Bros. Ultimate formats | 46 | 🔴 | C# |
 | [JFortniteParse](https://github.com/FabianFG/JFortniteParse) | Kotlin/Java library to parse Unreal Engine pak/asset files from Fortnite | 45 | 🟢 | Kotlin |
+| [ltd-save-editor](https://github.com/alexislours/ltd-save-editor) | Reader, writer and reverse-engineered field schema for Tomodachi Life .sav save files | 45 | 🟢 | TypeScript |
 | [Medal-Of-Honor-PSX-File-Viewer](https://github.com/AdrianoDiDio/Medal-Of-Honor-PSX-File-Viewer) | Tools to open and view files from the PSX Medal of Honor games | 45 | 🟢 | C |
 | [NDS_Banner_Editor](https://github.com/TheGameratorT/NDS_Banner_Editor) | Tool to make animated Nintendo DS banners | 43 | 🟡 | C++ |
 | [DRV3-Sharp](https://github.com/CaptainSwag101/DRV3-Sharp) | Tools for working with Danganronpa V3 PC files | 39 | 🟡 | C# |
@@ -1290,6 +1291,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [xbox-smartglass-core-python](https://github.com/OpenXbox/xbox-smartglass-core-python) | Python implementation of the Xbox One SmartGlass core protocol | 75 | 🗄️ | Python |
 | [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard) | Automated Final Fantasy XIV network opcode discovery | 68 | 🔴 | C# |
 | [MoeXCOM](https://github.com/hdk5/MoeXCOM) | Reverse engineering Blue Archive | 67 | 🔴 | C# |
+| [node-epicgames-fortnite-client](https://github.com/SzymonLisowiec/node-epicgames-fortnite-client) | Unofficial Fortnite client in JavaScript built on the Epic Games launcher protocol | 64 | 🔴 | JavaScript |
 | [node-haxball](https://github.com/wxyz-abcd/node-haxball) | API to build Haxball clients and bots via its reversed protocol | 63 | 🟢 | JavaScript |
 | [Haruki-Sekai-API](https://github.com/Team-Haruki/Haruki-Sekai-API) | Unofficial API proxy for Project Sekai game data | 62 | 🟢 | Rust |
 | [rlapi](https://github.com/dank/rlapi) | Reverse engineered Rocket League internal HTTP and WebSocket API | 59 | 🟢 | Go |
@@ -1302,9 +1304,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [trackmania2020apidocumentation](https://github.com/The-Firexx/trackmania2020apidocumentation) | Trackmania 2020 unofficial API documentation | 43 | 🗄️ |  |
 | [Useful-ValorantAPI-Info](https://github.com/Soneliem/Useful-ValorantAPI-Info) | Resources and code for Valorant's unofficial API | 40 | 🔴 | Python |
 | [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) | Documentation website for Blizzard's Battle.net classic protocols | 36 | 🟢 | JavaScript |
+| [fc27-clubs-api](https://github.com/1erkandogan/fc27-clubs-api) | Unofficial Python client for the EA Sports FC 27 Pro Clubs API | 22 | 🟢 | Python |
 | [pyps4-2ndscreen](https://github.com/ktnrg45/pyps4-2ndscreen) | Python library to control a PS4 via the PS4 Second Screen protocol | 20 | 🗄️ | Python |
 | [OpenSpartan Workshop](https://github.com/OpenSpartan/openspartan-workshop) | Desktop app to track Halo Infinite stats and progression via the unofficial Halo API | 19 | 🟢 | C# |
+| [krunker.io](https://github.com/fasetto/krunker.io) | Unofficial API for the krunker.io game social page | 13 | 🔴 | JavaScript |
+| [node-mojang](https://github.com/astra137/node-mojang) | Unofficial Node.js library for Mojang's HTTP APIs (auth, profiles, skins) | 12 | 🔴 | JavaScript |
+| [growtopia-api](https://github.com/H-pun/growtopia-api) | Unofficial Growtopia API for item data and sprites | 7 | 🟡 | Python |
+| [ffxiv](https://github.com/ffxiv/ffxiv) | Unofficial Final Fantasy XIV toolkit for Ruby with a Lodestone scraper | 4 | 🔴 | Ruby |
 | [valorant-xmpp-watcher](https://github.com/techchrism/valorant-xmpp-watcher) | Connects to and logs VALORANT XMPP presence and roster events | 4 | 🟡 | TypeScript |
+| [halo_api](https://github.com/nuzzles/halo_api) | Unofficial Halo Infinite REST API client for Rust: service record and match history | 3 | 🟢 | Rust |
 | [Grunt](https://github.com/dend/grunt) | Unofficial API wrapper and documentation for the Halo Infinite web services | 0 | 🟢 | C# |
 
 ## Launchers & Store Clients
@@ -1355,7 +1363,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [libnxbox](https://github.com/ursusworks/libnxbox) | Xbox Cloud Gaming streaming client for Nintendo Switch homebrew | 131 | 🟢 |  |
 | [RA3Bar-RA3Launcher](https://github.com/lanyizi/RA3Bar-RA3Launcher) | Reimplementation of the Red Alert 3 game launcher | 130 | 🔴 | C++ |
 | [jetisteam](https://github.com/iTaysonLab/jetisteam) | Unofficial Steam mobile client | 125 | 🟢 | Kotlin |
+| [node-epicgames-client](https://github.com/SzymonLisowiec/node-epicgames-client) | Unofficial Epic Games Launcher client in JavaScript (login, friends, party, chat) | 112 | 🔴 | JavaScript |
 | [wyvern](https://github.com/nicohman/wyvern) | Simple CLI client for installing and maintaining Linux GOG games | 100 | 🔴 | Rust |
+| [steam-store](https://github.com/autarc/steam-store) | Client for the unofficial Steam storefront and Big Picture web API | 35 | 🔴 | JavaScript |
 
 ## Matching Decompilations — Arcade
 

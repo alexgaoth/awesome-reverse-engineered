@@ -1,23 +1,23 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 401 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 415 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Aviation & Marine](#aviation--marine) (31)
-- [Casting & TV Remotes](#casting--tv-remotes) (40)
+- [Aviation & Marine](#aviation--marine) (33)
+- [Casting & TV Remotes](#casting--tv-remotes) (41)
 - [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (25)
-- [Digital Voice Radio](#digital-voice-radio) (13)
-- [Email & Groupware](#email--groupware) (22)
+- [Digital Voice Radio](#digital-voice-radio) (14)
+- [Email & Groupware](#email--groupware) (25)
 - [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (26)
 - [Legacy IM Revival](#legacy-im-revival) (2)
-- [Messaging Protocols](#messaging-protocols) (17)
+- [Messaging Protocols](#messaging-protocols) (18)
 - [Other Protocols](#other-protocols) (18)
 - [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
 - [Radio & SDR Protocols](#radio--sdr-protocols) (63)
 - [Satellite Downlinks](#satellite-downlinks) (32)
-- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (43)
-- [VPN Clients](#vpn-clients) (22)
+- [Sub-GHz Sensors & Meters](#sub-ghz-sensors--meters) (48)
+- [VPN Clients](#vpn-clients) (23)
 
 ## Aviation & Marine
 
@@ -44,9 +44,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RaymarineAPtoFakeNavicoAutoPilot](https://github.com/htool/RaymarineAPtoFakeNavicoAutoPilot) | Emulates a Navico AC12 autopilot over NMEA 2000 to drive a Raymarine pilot from B&G displays | 28 | 🔴 | JavaScript |
 | [acars-decoder-typescript](https://github.com/airframesio/acars-decoder-typescript) | Decoder for airline-specific ACARS message labels and formats in TypeScript | 22 | 🟢 | TypeScript |
 | [ogn-rf](https://github.com/glidernet/ogn-rf) | Open Glider Network receiver that listens to glider tracker radio messages | 22 | 🔴 | C++ |
+| [bt-sensors-plugin-sk](https://github.com/naugehyde/bt-sensors-plugin-sk) | Signal K plugin decoding many proprietary Bluetooth sensors (Victron, Renogy, BMS, tank sensors) | 21 | 🟢 | JavaScript |
 | [OGN Tracker](https://github.com/pjalocha/ogn-tracker) | Open Glider Network tracker firmware with OGN/FLARM-compatible radio protocol | 20 | 🟢 | C++ |
 | [sonaR](https://github.com/KennethTM/sonaR) | R package for reading Lowrance proprietary sonar log files | 17 | 🟡 | C++ |
 | [seatalk (jamesroscoe)](https://github.com/jamesroscoe/seatalk) | Open-source library for the proprietary Raymarine SeaTalk protocol | 14 | 🔴 | C |
+| [ClipperDuet2N2k](https://github.com/speters/ClipperDuet2N2k) | NASAmarine Clipper Duet echo sounder to NMEA2000 converter | 12 | 🟢 | C |
 | [seatalk_wifi](https://github.com/atonizzo/seatalk_wifi) | Bridge from Raymarine SeaTalk to NMEA 0183 over Wi-Fi | 12 | 🔴 | C |
 | [signalk-raymarine-autopilot](https://github.com/sbender9/signalk-raymarine-autopilot) | Signal K plugin controlling Raymarine autopilots with proprietary NMEA 2000 PGNs | 12 | 🗄️ | JavaScript |
 | [RMRadar_pi](https://github.com/ab2nkovs/RMRadar_pi) | OpenCPN plugin for Raymarine digital radar via its undocumented network protocol | 11 | 🔴 | C |
@@ -78,6 +80,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SharpCaster](https://github.com/Tapanila/SharpCaster) | Chromecast C# CLI and SDK | 336 | 🟡 | C# |
 | [chromecast-java-api-v2](https://github.com/vitalidze/chromecast-java-api-v2) | Java implementation of ChromeCast V2 protocol client | 276 | 🟡 | Java |
 | [lgtv.js](https://github.com/msloth/lgtv.js) | Control LG WebOS TV using node.js | 261 | 🔴 | JavaScript |
+| [homebridge-harmony](https://github.com/nicoduj/homebridge-harmony) | Homebridge plugin for Logitech Harmony hubs over their undocumented websocket API | 224 | 🟢 | JavaScript |
 | [samsung-tv-control](https://github.com/Toxblh/samsung-tv-control) | Remote control your TV via JS! | 197 | 🟡 | TypeScript |
 | [python-androidtv](https://github.com/JeffLIrion/python-androidtv) | Communicate with an Android TV or Fire TV device via ADB over a network. | 196 | 🟡 | Python |
 | [homebridge-lgwebos-tv](https://github.com/grzegorz914/homebridge-lgwebos-tv) | Homebridge plugin for LG WebOS TV, publish as independent external platform accessory. | 169 | 🟢 | JavaScript |
@@ -147,6 +150,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gr-smartnet](https://github.com/bistromath/gr-smartnet) | GNU Radio logging scanner for Motorola SmartNet II trunking | 48 | 🔴 | Shell |
 | [tetra-rtlsdr](https://github.com/alphafox02/tetra-rtlsdr) | Single C binary RTL-SDR front-end for TETRA decoding with telive | 45 | 🟢 | C |
 | [edacs-fm](https://github.com/lwvmobile/edacs-fm) | EDACS trunked radio tracking with an RTL-SDR | 13 | 🗄️ | C |
+| [blip25-vocoder](https://github.com/OpenBLIP25/blip25-vocoder) | P25 Phase 1 and Phase 2 IMBE/AMBE+2 voice codec encode and decode in Rust | 10 | 🟢 | Rust |
 
 ## Email & Groupware
 
@@ -174,6 +178,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node-asclient](https://github.com/clncln1/node-asclient) | Node.js client for Exchange ActiveSync synchronization | 21 | 🔴 | JavaScript |
 | [activesync-go](https://github.com/magicmonty/activesync-go) | ActiveSync implementation for Google Go | 19 | 🔴 | Go |
 | [PyWBXMLDecoder](https://github.com/davidpshaw/PyWBXMLDecoder) | Decoder for Exchange ActiveSync WAP Binary XML (WBXML) | 19 | 🔴 | Python |
+| [proton-api](https://github.com/gitladen7/proton-api) | Unofficial ProtonMail API client for browser and Node.js | 9 | 🟡 | TypeScript |
+| [proton-api-rs](https://github.com/LeanderBB/proton-api-rs) | Unofficial implementation of the Proton REST API in Rust | 4 | 🗄️ | Rust |
+| [protonmail-rs](https://github.com/filippofinke/protonmail-rs) | Unofficial pure-Rust Proton Mail SDK with SRP auth, OpenPGP and the mail API | 3 | 🟢 | Rust |
 
 ## File Sharing & Remote Desktop
 
@@ -231,6 +238,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fossteams/teams-api](https://github.com/fossteams/teams-api) | Unofficial Go library for Microsoft Teams internal APIs used by the official clients | 165 | 🔴 | Go |
 | [ts3j](https://github.com/Manevolent/ts3j) | Open-source Java TeamSpeak 3 client library using the full client protocol | 132 | 🟢 | Java |
 | [mautrix-googlechat](https://github.com/mautrix/googlechat) | Matrix-Google Chat puppeting bridge | 127 | 🟢 | Python |
+| [mini-telegram](https://github.com/Yumcoder-dev/mini-telegram) | Unofficial MTProto server in Rust that works with Telegram clients | 14 | 🔴 | Rust |
 | [poggadaj](https://github.com/Oreeeee/poggadaj) | Open Source reimplementation of Gadu-Gadu backend (official mirror of https://codeberg.org/or3e/poggadaj) | 8 | 🟢 | Go |
 | [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🔴 | Go |
 | [aMSN](https://sourceforge.net/projects/amsn/) | Multiplatform client for the MSN Messenger protocol |  | ⚪ |  |
@@ -436,23 +444,28 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [openmili](https://github.com/henryk/openmili) | Open implementation of the Mi-Light 2.4 GHz LED control protocol | 111 | 🔴 | C++ |
 | [AskSinPP](https://github.com/pa-pa/AskSinPP) | Arduino implementation of the HomeMatic BidCoS radio protocol | 110 | 🟡 | C++ |
 | [DavisRFM69](https://github.com/dekay/DavisRFM69) | RFM69 library that receives the Davis Instruments weather station radio protocol | 96 | 🔴 | C |
+| [RFLink32-For-Sonoff-RF-Bridge](https://github.com/schmurtzm/RFLink32-For-Sonoff-RF-Bridge) | RFLink32 port for the Sonoff RF Bridge decoding many proprietary 433 MHz protocols | 90 | 🔴 | C |
 | [everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) | ESP8266/ESP32 reader for Itron EverBlu Cyble meters with MQTT and ESPHome | 78 | 🟢 | C++ |
 | [Acuparse](https://github.com/acuparse/acuparse) | Captures AcuRite Iris/Atlas station data from the Access/smartHUB bridge's private uploads | 64 | 🟡 | PHP |
 | [LightwaveRF](https://github.com/roberttidey/LightwaveRF) | Arduino libraries for the LightwaveRF 433 MHz home automation protocol | 60 | 🔴 | C++ |
+| [esphome-rtl_433-decoder](https://github.com/juanboro/esphome-rtl_433-decoder) | Runs rtl_433 decoders for proprietary 433 MHz sensors inside ESPHome | 51 | 🟢 | C++ |
 | [rfcontroljs](https://github.com/pimatic/rfcontroljs) | Node.js protocol decoders for many 433 MHz switches and weather stations | 48 | 🔴 | CoffeeScript |
 | [smeter](https://github.com/stef/smeter) | Read water and heat meter radio transmissions with GNU Radio | 45 | 🔴 | Python |
 | [everblu-meters](https://github.com/neutrinus/everblu-meters) | Reads Itron EverBlu Cyble water/gas meters via the RADIAN protocol with a CC1101 | 41 | 🗄️ | C |
+| [tuya_rf](https://github.com/olivluca/tuya_rf) | ESPHome component for the Tuya RF and IR bridge radio | 40 | 🟢 | C |
 | [acurite-esphome](https://github.com/swoboda1337/acurite-esphome) | ESPHome decoder for AcuRite 433 MHz weather sensor OOK signals | 34 | 🟢 | C++ |
 | [rtldavis](https://github.com/bemasher/rtldavis) | RTL-SDR receiver for the Davis Instruments weather station radio protocol | 29 | 🗄️ | Go |
 | [A-OK](https://github.com/akirjavainen/A-OK) | Protocol for A-OK 433.92 MHz window shade and projector screen remotes | 28 | 🔴 | C++ |
 | [markisol](https://github.com/akirjavainen/markisol) | Arduino control for Markisol 433.92 MHz window shades and BF-series remotes protocol | 24 | 🔴 | C++ |
 | [Acurite_00592TX_sniffer](https://github.com/bhunting/Acurite_00592TX_sniffer) | Arduino sniffer and decoder for the AcuRite 00592TX wireless temperature probe | 23 | 🔴 | C++ |
 | [acurite5n1arduino](https://github.com/zerog2k/acurite5n1arduino) | Arduino receiver and decoder for AcuRite 5-in-1 weather station radio messages | 21 | 🔴 | Arduino |
+| [openhab-binding-wmbus](https://github.com/KuguHome/openhab-binding-wmbus) | openHAB binding that receives and decodes wM-Bus messages including Techem meters | 21 | 🟢 | Java |
 | [weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis) | WeeWX driver capturing Davis weather station radio data with rtldavis | 21 | 🔴 | Python |
 | [VPTools](https://github.com/kobuki/VPTools) | Transceiver library for Davis Vantage weather station radio packets | 20 | 🟡 | C++ |
 | [weather-sdr-decode](https://github.com/skaringa/weather-sdr-decode) | RTL-SDR decoders for ELV and Mebus wireless weather sensors | 18 | 🟡 | Python |
 | [HoneywellSecurity](https://github.com/jhaines0/HoneywellSecurity) | Decode Honeywell/Ademco 345 MHz wireless security sensors with an SDR | 17 | 🔴 | C++ |
 | [Acurite-00592TX-Decoder-ESP32a](https://github.com/trlafleur/Acurite-00592TX-Decoder-ESP32a) | ESP32/ESP8266 decoder for AcuRite 00592TX, 06044TX and 06002M sensors with MQTT | 16 | 🔴 | C++ |
+| [bresser-esphome](https://github.com/charlyschulte/bresser-esphome) | ESPHome component for Bresser 7-in-1 weather stations using an SX1276 radio | 13 | 🟢 | Python |
 | [acurite_decoder](https://github.com/JorjBauer/acurite_decoder) | RFM12B/RFM69 demodulator and parser for AcuRite temperature sensor data | 12 | 🔴 | C++ |
 | [yngvi](https://github.com/deebloo/yngvi) | Reads, decodes and displays AcuRite weather station radio data | 10 | 🟢 | Rust |
 | [Homegear-HomeMaticBidCoS](https://github.com/Homegear/Homegear-HomeMaticBidCoS) | Homegear module implementing the HomeMatic BidCoS radio protocol | 9 | 🟢 | C++ |
@@ -484,6 +497,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [juniper-vpn-py](https://github.com/russdill/juniper-vpn-py) | Python Juniper VPN Authenticator | 112 | 🔴 | Python |
 | [pan-globalprotect-okta](https://github.com/arthepsy/pan-globalprotect-okta) | PaloAlto Networks GlobalProtect VPN (integrated with OKTA) command-line client | 102 | 🟡 | Python |
 | [opensnell](https://github.com/missuo/opensnell) | Go implementation of the Snell v4/v5 proxy protocol | 91 | 🟢 | Go |
+| [openaws-vpn-client](https://github.com/jhrldev/openaws-vpn-client) | Unofficial open-source AWS Client VPN client written in Rust (SAML auth) | 82 | 🟡 | Rust |
 | [openconnect-gp-okta](https://github.com/zdave/openconnect-gp-okta) | OpenConnect wrapper which logs into a GlobalProtect gateway, authenticating with Okta | 38 | 🗄️ | Python |
 | [f5vpn-login](https://github.com/hackedd/f5vpn-login) | F5 VPN Command-line client | 21 | 🔴 | Python |
 | [gp-okta-linux](https://github.com/jeffchannell/gp-okta-linux) | Connect Linux to a GlobalProtect VPN using Okta Push 2FA. | 15 | 🔴 | Shell |

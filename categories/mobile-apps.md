@@ -1,13 +1,13 @@
 # Mobile Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 97 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 102 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Android Apps](#android-apps) (5)
-- [App Store Clients & Downloaders](#app-store-clients--downloaders) (24)
+- [App Store Clients & Downloaders](#app-store-clients--downloaders) (27)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
-- [Fitness & Education Apps](#fitness--education-apps) (14)
+- [Fitness & Education Apps](#fitness--education-apps) (16)
 - [Patched & Alternative Clients](#patched--alternative-clients) (35)
 - [Transport & Delivery Apps](#transport--delivery-apps) (14)
 - [iOS Dumping & Decryption](#ios-dumping--decryption) (2)
@@ -45,9 +45,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [apkd](https://github.com/kiber-io/apkd) | APK downloader for several stores | 137 | 🗄️ | Python |
 | [ipatool-ios](https://github.com/dlevi309/ipatool-ios) | On-device iOS command-line ipatool | 125 | 🟡 | Swift |
 | [apkmirror-downloader](https://github.com/tanishqmanuja/apkmirror-downloader) | Downloads apps from APKMirror | 93 | 🟢 | TypeScript |
+| [supermarket](https://github.com/jberkel/supermarket) | Ruby client for the reverse-engineered Android Market (Google Play) API | 89 | 🗄️ | Ruby |
 | [ApplePackage](https://github.com/Lakr233/ApplePackage) | Swift library and CLI reimplementation of ipatool | 80 | 🟢 | Swift |
 | [SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) | Downloads APKs from the Samsung Galaxy Store | 74 | 🔴 | Python |
 | [apkpure_get](https://github.com/0x27/apkpure_get) | APK downloader for apkpure.com | 61 | 🔴 | Python |
+| [parse-tunes](https://github.com/tweaselORG/parse-tunes) | Fetches iOS app data from the App Store through undocumented internal iTunes APIs | 33 | 🟡 | TypeScript |
+| [google-play-api-unofficial](https://github.com/tejmagar/google-play-api-unofficial) | Unofficial Python library and CLI for public Google Play Store search and app details | 3 | 🟢 | Python |
 | [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) | Open-source Google Play client using the reverse-engineered Play protocol |  | ⚪ |  |
 | [fuuchan](https://codeberg.org/kita/fuuchan) | Downloader for apps from the QooApp store |  | ⚪ |  |
 
@@ -74,6 +77,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [zwift-client](https://github.com/jsmits/zwift-client) | Python client for the Zwift mobile API | 62 | 🟢 | Python |
 | [crono-vision](https://github.com/felixmelanson/crono-vision) | Photo food logging via Cronometer's undocumented mobile API (CLI and serverless) | 34 | 🟢 | Python |
 | [mywhoosh-api](https://github.com/mywhoosh-community/mywhoosh-api) | Unofficial API documentation for the MyWhoosh cycling app | 16 | 🟢 |  |
+| [endomondo-unofficial-api](https://github.com/archivealvarolorentedev/endomondo-unofficial-api) | Unofficial Endomondo API access for workouts and profile data | 12 | 🗄️ | JavaScript |
+| [runtastic-unofficial-api](https://github.com/archivealvarolorentedev/runtastic-unofficial-api) | Unofficial Runtastic API access for activities and profile data | 10 | 🗄️ | JavaScript |
 | [duobot](https://github.com/mc51/duobot) | Duolingo automation built on the reverse-engineered Android app API | 4 | 🟡 | Python |
 | [pypeloton](https://github.com/raman325/pypeloton) | Sync and async Python client for the Peloton API | 2 | 🟡 | Python |
 | [Duolingo](https://github.com/idefux/Duolingo) | Unofficial Duolingo API in Python | 0 | 🔴 | Python |

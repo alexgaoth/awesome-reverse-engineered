@@ -1,18 +1,18 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 304 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 313 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bilibili](#bilibili) (52)
 - [Cloud Drives](#cloud-drives) (31)
-- [Douyin & Kuaishou](#douyin--kuaishou) (25)
-- [Games (miHoYo etc.)](#games-mihoyo-etc) (25)
-- [Japan & Korea](#japan--korea) (36)
+- [Douyin & Kuaishou](#douyin--kuaishou) (26)
+- [Games (miHoYo etc.)](#games-mihoyo-etc) (27)
+- [Japan & Korea](#japan--korea) (39)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
-- [Shopping & Services](#shopping--services) (19)
+- [Shopping & Services](#shopping--services) (21)
 - [WeChat & QQ](#wechat--qq) (63)
-- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (25)
+- [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (26)
 
 ## Bilibili
 
@@ -136,6 +136,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 166 | 🟢 | JavaScript |
 | [douyin_sign](https://github.com/ylcangel/douyin_sign) | Implementations of Douyin web a_bogus, X-Bogus and msToken algorithms | 77 | 🟢 | JavaScript |
 | [KuaiShou-Spider](https://github.com/cv-cat/KuaiShou-Spider) | Kuaishou reverse engineering: full API and live-room listener | 65 | 🟢 | Python |
+| [acfunsdk](https://github.com/dolacmeo/acfunsdk) | Unofficial Python SDK for the AcFun video site | 14 | 🟢 | Python |
 
 ## Games (miHoYo etc.)
 
@@ -166,6 +167,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [HollowPS](https://github.com/reversedrooms/HollowPS) | Zenless Zone Zero server emulator | 95 | 🟡 | Rust |
 | [hoyoapi](https://github.com/vermaysha/hoyoapi) | Unofficial HoYoLAB API wrapper library | 71 | 🔴 | TypeScript |
 | [Grasscutter](https://github.com/seiKiMo-Inc/Grasscutter) | Anime game (Genshin Impact) server software reimplementation | 51 | 🗄️ | Java |
+| [node-hoyolab](https://github.com/iseizuu/node-hoyolab) | Unofficial API wrapper for HoYoLAB: daily check-in, game records and redeem codes | 22 | 🟡 | TypeScript |
+| [genshin-kit.js](https://github.com/TIMMLOPK/genshin-kit.js) | Unofficial HoYoLAB API library for Genshin Impact data | 8 | 🟢 | TypeScript |
 
 ## Japan & Korea
 
@@ -201,10 +204,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) | 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS | 113 | 🟢 | Swift |
 | [mercari-python-api](https://github.com/philipperemy/mercari-python-api) | Python API for the Mercari marketplace | 94 | 🗄️ | Python |
 | [LINE-Source](https://github.com/BroNils/LINE-Source) | Extracted and readable LINE client-side Thrift protocol definitions | 57 | 🔴 | Thrift |
+| [dcinside-python3-api](https://github.com/eunchuldev/dcinside-python3-api) | Unofficial Python API for the DCInside Korean forum | 56 | 🟡 | Python |
 | [Hanairo](https://github.com/youshen2/Hanairo) | 一款使用 SwiftUI 构建的，为 iOS 原生开发的第三方 Pixiv 客户端 | 45 | 🟢 | Swift |
 | [soop](https://github.com/reindeer002/soop) | Unofficial API library for the SOOP (AfreecaTV) live streaming platform | 38 | 🟢 | TypeScript |
 | [paypax](https://github.com/EdamAme-x/paypax) | Unofficial PayPay API wrapper library | 34 | 🗄️ | TypeScript |
+| [pixivts](https://github.com/book000/pixivts) | Unofficial TypeScript library for the pixiv app API | 19 | 🟢 | TypeScript |
 | [Line-Unofficial-API](https://github.com/bobwei/Line-Unofficial-API) | Line-Unofficial-API | 8 | 🔴 | Python |
+| [typeinside](https://github.com/Akachu/typeinside) | Promise-based unofficial API for the DCInside Korean forum | 8 | 🔴 | TypeScript |
 | [nico](https://github.com/178inaba/nico) | Go client for the Niconico API | 2 | 🔴 | Go |
 | [niconico.py](https://github.com/Negima1072/niconico.py) | Python library to fetch Niconico video data and downloads | 0 | 🔴 |  |
 
@@ -263,7 +269,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [12306_Ticket](https://github.com/Henryhaohao/12306_Ticket) | 12306 ticket purchase, cancel and refund program | 156 | 🔴 | Python |
 | [unidbg-jd-sign](https://github.com/yongjiu8/unidbg-jd-sign) | JD app API signature generation by emulating the native library with unidbg | 153 | 🔴 | Java |
 | [DoubanMApp](https://github.com/TouchFriend/DoubanMApp) | Ad-free Douban iOS client built from iOS reverse analysis | 94 | 🟢 | Objective-C |
+| [goofish-client](https://github.com/11273/goofish-client) | Unofficial client for the Goofish (Xianyu) second-hand marketplace web API | 69 | 🟢 | TypeScript |
 | [douban-openapi-server](https://github.com/caryyu/douban-openapi-server) | Douban API server providing unofficial media information APIs | 68 | 🗄️ | Python |
+| [buff163-unofficial-api](https://github.com/markzhdan/buff163-unofficial-api) | Unofficial API wrapper for Buff163, the Chinese CS2 skin marketplace | 26 | 🟡 | Python |
 
 ## WeChat & QQ
 
@@ -352,6 +360,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [xhshow](https://github.com/Cloxl/xhshow) | Pure-algorithm reimplementation of Xiaohongshu x-s, x-s-common and related signatures | 1,090 | 🟢 | Python |
 | [zhihu-py3](https://github.com/7sDream/zhihu-py3) | Unofficial Zhihu Python API (archived; successor zhihu-oauth was DMCA'd) | 1,032 | 🗄️ | Python |
 | [zhihu-api](https://github.com/lzjun567/zhihu-api) | Zhihu API for Humans: unofficial Python client | 989 | 🔴 | Python |
+| [redbook](https://github.com/lucasygu/redbook) | CLI that reads and posts on Xiaohongshu (RedNote) through its private API | 515 | 🟢 | TypeScript |
 | [xhs_spider](https://github.com/xhs996/xhs_spider) | Xiaohongshu crawler with web and app shield algorithm reimplementation | 370 | 🟢 | Python |
 | [zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus) | 知乎-- ｜zhihu-- ｜ zhihu-minus-minus｜一款轻量、简洁的第三方知乎客户端 | 282 | 🟢 | TypeScript |
 | [zhihu-api](https://github.com/syaning/zhihu-api) | Unofficial Node.js Zhihu API | 266 | 🗄️ | JavaScript |

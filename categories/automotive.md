@@ -1,12 +1,12 @@
 # Automotive
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 382 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 391 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (39)
-- [CAN Bus & ECU](#can-bus--ecu) (92)
-- [Car APIs & Telematics](#car-apis--telematics) (129)
+- [CAN Bus & ECU](#can-bus--ecu) (93)
+- [Car APIs & Telematics](#car-apis--telematics) (137)
 - [EV Batteries & BMS](#ev-batteries--bms) (23)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (31)
 - [Motorcycles](#motorcycles) (10)
@@ -150,6 +150,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [strym](https://github.com/jmscslgroup/strym) | Real-time CAN logging, decoding and visualization for vehicles | 39 | 🟢 | Python |
 | [rx8-ecu-dump](https://github.com/ConnorRigby/rx8-ecu-dump) | Utility to dump the Mazda RX8 ECU firmware | 38 | 🔴 | C |
 | [BrakeModule](https://github.com/killinen/BrakeModule) | Controls braking on a BMW E39 through the Bosch ABS 5.7 module over CAN | 36 | 🟡 | Python |
+| [esp32-canbox-nissan](https://github.com/aerodomigue/esp32-canbox-nissan) | ESP32-C3 CAN gateway translating Nissan Juke CAN frames for aftermarket head units | 14 | 🟢 | C++ |
 | [audi-mlb-evo-lin](https://github.com/wiskiw/audi-mlb-evo-lin) | Reverse-engineered LIN protocol of Audi MLB evo center console switch panel | 12 | 🟢 |  |
 | [LowBatteryReverse](https://codeberg.org/KumaTec/LowBatteryReverse) | Reverse engineering of a low-battery CAN bus sensor |  | ⚪ |  |
 
@@ -185,6 +186,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pyPLC](https://github.com/uhi22/pyPLC) | CCS EV charging protocol (PLC/V2G) implementation by reverse engineering | 238 | 🟢 | Python |
 | [OpenAuto (opencardev)](https://github.com/opencardev/openauto) | Maintained Android Auto head unit emulator | 235 | 🟢 | C++ |
 | [homeassistant-skodaconnect](https://github.com/skodaconnect/homeassistant-skodaconnect) | Home Assistant integration for Skoda Connect vehicles | 233 | 🗄️ | Python |
+| [esphome-tesla-ble](https://github.com/PedroKTFC/esphome-tesla-ble) | Talks to Tesla vehicles over the BLE vehicle command protocol from ESPHome | 229 | 🟢 | C++ |
 | [renault-api](https://github.com/hacf-fr/renault-api) | Python library for the Renault and Dacia connected services API | 204 | 🟢 | Python |
 | [home-assistant-rivian](https://github.com/bretterer/home-assistant-rivian) | Unofficial Rivian integration for Home Assistant | 203 | 🟢 | Python |
 | [ic1101](https://github.com/librick/ic1101) | Reverse engineering and hacking 10th-gen Honda Civic infotainment head units | 186 | 🟢 | Python |
@@ -233,6 +235,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homebridge-fordpass](https://github.com/Brandawg93/homebridge-fordpass) | Control Ford vehicles in HomeKit via Homebridge | 62 | 🟢 | TypeScript |
 | [myskoda](https://github.com/skodaconnect/myskoda) | Python library for the MySkoda connected-car APIs | 62 | 🟢 | Python |
 | [byd-dolphin-hacking](https://github.com/wheregoes/byd-dolphin-hacking) | Reverse engineering the BYD Dolphin head unit: CAN bus, AVAS, NFC keys and OTA | 61 | 🟢 | Java |
+| [tesla-ble](https://github.com/yoziru/tesla-ble) | C++ library to communicate with Tesla vehicles over the BLE command API | 60 | 🟢 | C++ |
 | [hass-pandora-cas](https://github.com/alryaz/hass-pandora-cas) | Pandora and PanDECT car alarm/telematics via the unofficial Pandora API | 59 | 🟡 | Python |
 | [homeassistant-pycupra](https://github.com/WulfgarW/homeassistant-pycupra) | Cupra and Seat cars via the unofficial pycupra library for the My Cupra app API | 59 | 🟢 | Python |
 | [teslajsonpy](https://github.com/zabuldon/teslajsonpy) | Async Python library for Tesla API used by Home Assistant | 58 | 🟢 | Python |
@@ -245,6 +248,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [retropilot-server](https://github.com/florianbrede-ayet/retropilot-server) | Replacement for the comma.ai backend and user dashboard for self-hosted openpilot devices | 49 | 🔴 | JavaScript |
 | [SMEG_PLUS](https://github.com/bousqi/SMEG_PLUS) | Reverse engineering of the PSA SMEG+ head unit | 47 | 🔴 | Python |
 | [connect-killer](https://github.com/MoreTore/connect-killer) | Self-hosted backend server replacing comma's connectivity services for openpilot | 46 | 🟢 | Rust |
+| [homebridge-mercedesme](https://github.com/seydx/homebridge-mercedesme) | Mercedes me car plugin for Homebridge | 46 | 🔴 | JavaScript |
 | [leaf2mqtt](https://github.com/yp87/leaf2mqtt) | Nissan Connect LEAF data to MQTT | 44 | 🟡 | Dart |
 | [mymazda-relay](https://github.com/alanzchen/mymazda-relay) | Flask relay for the MyMazda Connected Services API (pymazda-based) | 43 | 🔴 | Python |
 | [OpenRemoteStart](https://github.com/jmaxxz/OpenRemoteStart) | Open-source remote for the Fortin EVO-One remote starter | 43 | 🔴 | C++ |
@@ -252,6 +256,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [inventory](https://github.com/teslahunt/inventory) | Retrieve real-time data from Tesla's unofficial inventory API | 42 | 🟢 | JavaScript |
 | [nissan-connect-php](https://github.com/gboudreau/nissan-connect-php) | PHP class for the Nissan Connect (Carwings) API | 42 | 🟡 | PHP |
 | [CarConnectivity-connector-volkswagen](https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen) | Volkswagen connector for the CarConnectivity framework | 41 | 🟢 | Python |
+| [homebridge-onstar](https://github.com/samrum/homebridge-onstar) | Homebridge plugin for managing GM cars via OnStar | 39 | 🗄️ | TypeScript |
 | [geely-connect](https://github.com/YossiKon/geely-connect) | Unofficial Home Assistant integration for Geely vehicles via app API | 36 | 🟢 | Python |
 | [python-lucidmotors](https://github.com/nshp/python-lucidmotors) | Unofficial Python bindings to the Lucid Motors API | 35 | 🟢 | Python |
 | [xpeng (guide)](https://github.com/OldSmurf56/xpeng) | Guide to retrieving data from Xpeng cars into Home Assistant | 34 | 🟡 |  |
@@ -260,16 +265,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pycarwings2](https://github.com/filcole/pycarwings2) | Python library for Nissan Leaf Carwings API | 32 | 🟡 | Python |
 | [rivian-python-client](https://github.com/bretterer/rivian-python-client) | Unofficial Python client for the Rivian API | 32 | 🟢 | Python |
 | [fordpass_china](https://github.com/georgezhao2010/fordpass_china) | Home Assistant integration for FordPass China (Ford/Lincoln) | 30 | 🔴 | Python |
+| [leapmotor-api](https://github.com/markoceri/leapmotor-api) | Unofficial Python client for the Leapmotor vehicle cloud API | 30 | 🟢 | Python |
 | [python-chargepoint](https://github.com/mbillow/python-chargepoint) | Unofficial Python client for the ChargePoint EV charging network API | 30 | 🟢 | Python |
 | [ffpass-module](https://github.com/d4v3y0rk/ffpass-module) | Node module for the FordPass API | 28 | 🔴 | JavaScript |
 | [j5-ev-dashboard](https://github.com/GodrezJr2/j5-ev-dashboard) | Self-hosted dashboard for CarLinko-app cars (Jaecoo, Omoda, Chery, Exeed) | 28 | 🟢 | HTML |
 | [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) | Extract Nissan Leaf API data and post to MQTT | 27 | 🔴 | Python |
 | [seatconnect](https://github.com/Farfar/seatconnect) | Python library to communicate with Seat Connect | 25 | 🟡 | Python |
 | [kamereon-python](https://github.com/mitchellrj/kamereon-python) | Python library for Nissan/Renault/Mitsubishi Kamereon APIs | 24 | 🔴 | Python |
+| [tesla-api](https://github.com/gutenye/tesla-api) | Unofficial API wrapper for Tesla Model S and X owner API | 23 | 🔴 | JavaScript |
 | [ha_lynkco_2025](https://github.com/b12e/ha_lynkco_2025) | Lynk & Co (2025+ EU models) via the API used by the Lynk & Co mobile app | 21 | 🟢 | Python |
 | [omoda9-ha](https://github.com/chery-connect-ha/omoda9-ha) | Unofficial reverse-engineered Home Assistant integration for Omoda 9 / Jaecoo | 21 | 🟢 | Python |
 | [ioBroker.fiat](https://github.com/TA2k/ioBroker.fiat) | ioBroker adapter for Fiat and Jeep Uconnect vehicle APIs | 20 | 🟢 | JavaScript |
 | [myhondaplus-homeassistant](https://github.com/enricobattocchi/myhondaplus-homeassistant) | Unofficial Home Assistant integration for My Honda+ | 16 | 🟢 | Python |
+| [esphome-tesla-ble-scheduler](https://github.com/zygimantas/esphome-tesla-ble-scheduler) | ESP32 that schedules Tesla charging over BLE based on day-ahead prices | 15 | 🟢 | C++ |
 | [saic-python-client](https://github.com/SAIC-iSmart-API/saic-python-client) | Python client for the SAIC/MG iSMART connected-car API | 14 | 🟡 | Python |
 | [xpeng-homeassistant](https://github.com/mnordseth/xpeng-homeassistant) | Xpeng integration for Home Assistant | 14 | 🟢 | Python |
 | [pySmartHashtag](https://github.com/DasBasti/pySmartHashtag) | API wrapper for Smart #1 and #3 connected cars | 13 | 🟢 | Python |
@@ -284,6 +292,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homey-com.volvocars](https://github.com/ricott/homey-com.volvocars) | Volvo On Call app for Homey | 8 | 🟢 | JavaScript |
 | [nissan-connect (node)](https://github.com/beejjacobs/nissan-connect) | Node.js Nissan Connect API wrapper | 8 | 🔴 | JavaScript |
 | [ioBroker.nissan](https://github.com/TA2k/ioBroker.nissan) | ioBroker adapter for Nissan Connect | 7 | 🟢 | JavaScript |
+| [polestar.js](https://github.com/andysmithfal/polestar.js) | Node.js client for the Polestar API, reverse engineered from the web app | 6 | 🟢 | JavaScript |
 | [voc](https://github.com/matthiasbergneels/voc) | Exploration of the Volvo On Call API | 5 | 🔴 |  |
 | [xpeng-mac-bridge](https://github.com/stevelea/xpeng-mac-bridge) | Publish Xpeng car live state to MQTT by reading the official Mac app | 5 | 🟢 | Python |
 

@@ -1,17 +1,17 @@
 # File Formats
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 423 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 425 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Audio & Music Production](#audio--music-production) (38)
 - [Camera RAW & Video Metadata](#camera-raw--video-metadata) (22)
-- [Databases](#databases) (26)
+- [Databases](#databases) (27)
 - [Design Tools (PSD, Sketch, Figma, Affinity)](#design-tools-psd-sketch-figma-affinity) (21)
 - [E-books](#e-books) (9)
 - [EDA & PCB](#eda--pcb) (13)
 - [Filesystems & Archives](#filesystems--archives) (47)
-- [Format Description Tools](#format-description-tools) (21)
+- [Format Description Tools](#format-description-tools) (22)
 - [Graphics & CAD](#graphics--cad) (52)
 - [Maps & GIS](#maps--gis) (19)
 - [Media Codecs & Containers](#media-codecs--containers) (9)
@@ -116,6 +116,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MBBSEmu.Btrieve](https://github.com/mbbsemu/MBBSEmu.Btrieve) | Reads and recovers data from Btrieve .DAT files into SQLite | 10 | 🟡 | C# |
 | [OpenQBW](https://github.com/Sigilweaver/OpenQBW) | Pure Rust reader for QuickBooks QBW company files, with Python bindings | 9 | 🟢 | Rust |
 | [wbtrv32](https://github.com/mbbsemu/wbtrv32) | Drop-in Btrieve v5/v6 driver replacement that stores data in SQLite | 9 | 🟢 | C |
+| [sbdf](https://github.com/pod2co/sbdf) | Unofficial reader and writer for the Spotfire Binary Data Format (SBDF) | 3 | 🟡 | Rust |
 | [unraveling_sql_server_bak](https://github.com/klandermans/unraveling_sql_server_bak) | Research and tooling for reading SQL Server .bak backup files without SQL Server | 2 | 🟡 |  |
 | [JMPReader](https://github.com/BreakOnExecute/JMPReader) | Reads SAS JMP data files directly in Python | 1 | 🔴 | Python |
 | [pxlib](https://sourceforge.net/projects/pxlib/) | Library for reading Borland Paradox database files |  | ⚪ |  |
@@ -239,6 +240,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) | Declarative language to describe binary formats and generate parsers | 4,702 | 🟢 | Shell |
 | [ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) | Pattern files describing many binary file formats for ImHex | 1,033 | 🟢 | ImHex Pattern Language |
 | [Kaitai Struct Formats](https://github.com/kaitai-io/kaitai_struct_formats) | Library of .ksy descriptions of hundreds of binary file formats | 797 | 🟢 | Kaitai Struct |
+| [kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) | Compiler that turns Kaitai Struct .ksy format descriptions into parsers for many languages | 665 | 🟢 | Scala |
 | [Deark](https://github.com/jsummers/deark) | Extracts and decodes hundreds of legacy file, archive and image formats | 230 | 🟢 | C |
 | [kbdasm](https://github.com/grompe/kbdasm) | Assembler/disassembler for Windows keyboard layout DLLs | 95 | 🔴 | Assembly |
 | [serum-preset-packager](https://github.com/KennethWussmann/serum-preset-packager) | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 67 | 🟢 | Python |

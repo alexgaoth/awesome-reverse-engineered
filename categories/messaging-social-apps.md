@@ -1,17 +1,17 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 260 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 278 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bridges & Multi-protocol](#bridges--multi-protocol) (44)
-- [Discord & Slack](#discord--slack) (29)
-- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (42)
-- [Other Messaging](#other-messaging) (29)
+- [Discord & Slack](#discord--slack) (31)
+- [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (51)
+- [Other Messaging](#other-messaging) (33)
 - [Signal & Telegram](#signal--telegram) (15)
-- [Social Media Private APIs](#social-media-private-apis) (18)
-- [TikTok & Snapchat](#tiktok--snapchat) (27)
-- [Twitter/X](#twitterx) (21)
+- [Social Media Private APIs](#social-media-private-apis) (19)
+- [TikTok & Snapchat](#tiktok--snapchat) (28)
+- [Twitter/X](#twitterx) (22)
 - [WhatsApp](#whatsapp) (22)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (13)
 
@@ -91,9 +91,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Unofficial-Discord-3DS-Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | Unofficial Discord client for the Nintendo 3DS | 94 | 🔴 | C++ |
 | [Oldcord](https://github.com/oldcordapp/Oldcord) | Moved to https://git.dere.net/oldcord/oldcord | 77 | 🗄️ | JavaScript |
 | [ripcord-api](https://github.com/saucecode/ripcord-api) | Reverse engineered Discord API that mimics the official web client | 58 | 🗄️ | Python |
+| [mee6-levels-api](https://github.com/rjt-rockx/mee6-levels-api) | Unofficial wrapper for the MEE6 Discord bot levels API: leaderboards, role rewards and XP | 54 | 🔴 | JavaScript |
 | [unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | 49 | 🟡 | C++ |
 | [teams-api](https://github.com/nakasyou/teams-api) | Unofficial Micorosoft Teams client/cli | 39 | 🟢 | TypeScript |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Decompilation of Discord's updater.node | 20 | 🟢 | C++ |
+| [mee6-py-api](https://github.com/hyperevo/mee6-py-api) | Unofficial Python API for the MEE6 Discord bot leaderboards | 14 | 🔴 | Python |
 | [slack-openapi-generator](https://github.com/connectstrata/slack-openapi-generator) | Regenerates Slack's withdrawn OpenAPI spec by analysing the Slack Node SDK | 7 | 🟢 | JavaScript |
 | [discord-unofficial-docs](https://gitlab.com/luna/discord-unofficial-docs) | Unofficial documentation for undocumented Discord APIs |  | ⚪ |  |
 | [redrpc](https://codeberg.org/techmetx11/redrpc) | Reimplementation of Discord's local RPC server for third-party rich presence |  | ⚪ |  |
@@ -110,6 +112,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api) | Unofficial Facebook Chat API for Nodejs | 1,943 | 🗄️ | JavaScript |
 | [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included. | 1,617 | 🗄️ | TypeScript |
 | [fbchat](https://github.com/fbchat-dev/fbchat) | Facebook Chat (Messenger) for Python | 1,215 | 🟡 | Python |
+| [instagram-web-api](https://github.com/jlobos/instagram-web-api) | Node.js client for the private Instagram web API | 1,154 | 🟡 | JavaScript |
 | [instagram4j](https://github.com/instagram4j/instagram4j) | Reverse engineered Instagram private API in Java | 1,031 | 🟢 | Java |
 | [goinsta](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API in Go (archived) | 894 | 🗄️ | Go |
 | [aiograpi-rest](https://github.com/subzeroid/aiograpi-rest) | RESTful wrapper service for the Instagram private API | 644 | 🟢 | Python |
@@ -128,6 +131,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [instagram-api](https://github.com/NicklasWallgren/instagram-api) | Instagram private API client | 147 | 🟡 | PHP |
 | [instagram_private_api_extensions](https://github.com/ping/instagram_private_api_extensions) | Extensions for the instagram_private_api Python client | 123 | 🔴 | Python |
 | [Instagram-API](https://github.com/danleyb2/Instagram-API) | Instagram private API library (PHP/Python) | 120 | 🗄️ | Python |
+| [instago](https://github.com/siongui/instago) | Go package for the private Instagram API | 115 | 🔴 | Go |
 | [Facebot](https://github.com/davidyen1124/Facebot) | Unofficial Facebook API | 112 | 🗄️ | Python |
 | [fbmsgr](https://github.com/unixpickle/fbmsgr) | Reverse engineered Facebook Messenger API in Go | 95 | 🔴 | Go |
 | [MetaAdsCollector](https://github.com/promisingcoder/MetaAdsCollector) | Collects Meta Ad Library ads via the reverse-engineered internal GraphQL API | 93 | 🟢 | Python |
@@ -142,8 +146,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ts-messenger-api](https://github.com/makara-filip/ts-messenger-api) | Unofficial TypeScript API for Facebook Messenger | 57 | 🔴 | TypeScript |
 | [fca-unofficial](https://github.com/Tinkprocodes/fca-unofficial) | Unofficial Facebook Messenger chat API for Node.js | 51 | 🔴 | JavaScript |
 | [fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial) | Unofficial Facebook Chat API for Nodejs | 49 | 🟢 | JavaScript |
+| [instagram-private-api](https://github.com/VicoErv/instagram-private-api) | Ruby client for the Instagram private mobile API | 41 | 🗄️ | Ruby |
+| [fca-unofficial](https://github.com/donyst/fca-unofficial) | Unofficial Facebook Messenger chat API for Node.js | 28 | 🗄️ | TypeScript |
 | [instagram-private-api (azimgd)](https://github.com/azimgd/instagram-private-api) | Instagram private API JavaScript client | 26 | 🔴 | JavaScript |
 | [instagram-api (oktaysenkan)](https://github.com/oktaysenkan/instagram-api) | Private Instagram API library without API token or login | 17 | 🗄️ | JavaScript |
+| [messenger_api](https://github.com/JuniorJPDJ/messenger_api) | Unofficial Facebook Messenger library for Python | 15 | 🔴 | Python |
+| [meta-api](https://github.com/hoahenry/meta-api) | Unofficial API for Facebook and Messenger accounts | 14 | 🟡 | JavaScript |
+| [instagranode](https://github.com/felipeinf/instagranode) | TypeScript SDK for the Instagram internal web API | 13 | 🟢 | TypeScript |
+| [threads.py](https://github.com/yash-dk/threads.py) | Unofficial typed Python API for Threads by Instagram | 12 | 🗄️ | Python |
+| [threads_client_ruby](https://github.com/dereknguyen269/threads_client_ruby) | Reverse-engineered Ruby client for Meta's Threads, read and write | 4 | 🔴 | Ruby |
 
 ## Other Messaging
 
@@ -169,11 +180,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [beReal-api](https://github.com/chemokita13/beReal-api) | An unofficial BeReal REST API in which you can get all posts info, comment, upload a post... | 85 | 🟡 | TypeScript |
 | [linkedin-messaging-api](https://github.com/beeper/linkedin-messaging-api) | Unofficial API for LinkedIn Messaging used by Beeper's bridge | 62 | 🗄️ | Python |
 | [line](https://github.com/beeper/line) | A bridgev2 project for bridging Matrix and LINE - Intended for use with Beeper | 49 | 🟢 | Go |
+| [rype](https://github.com/nfelger/rype) | Unofficial Ruby wrapper for the Skype desktop API | 48 | 🔴 | Ruby |
 | [Extract-Protocol-From-LINE-Write-up](https://github.com/lutwidse/Extract-Protocol-From-LINE-Write-up) | Reverse Engineering of LINE. This article is from my 2018 analysis. Be aware of that some of the protocol has been... | 30 | 🔴 |  |
 | [OkLine](https://github.com/NiceDayZc/OkLine) | Unofficial LINE API Python SDK — automate your personal LINE Messenger account: QR code login in your terminal,... | 18 | 🟢 | Python |
 | [KakaoBot](https://github.com/ksaidev/KakaoBot) | A Kakao Bot based on KakaoPy and KakaoLink-Python | 16 | 🗄️ | Python |
 | [linego](https://github.com/go-line/linego) | Unofficial Go client for LINE messenger | 13 | 🔴 |  |
 | [max-api-docs](https://github.com/pr0bel1230/max-api-docs) | Reverse-engineered protocol docs for Russia's MAX messenger | 13 | 🟢 | Python |
+| [couple-api](https://github.com/bitjson/couple-api) | Unofficial client for the Couple app messaging API | 10 | 🔴 | JavaScript |
+| [max-account-api](https://github.com/maxsos1/max-account-api) | Client for personal MAX messenger accounts via its reverse-engineered WebSocket and mobile protocol | 10 | 🟢 | TypeScript |
+| [skype-web-api](https://github.com/PatriceVignola/skype-web-api) | Unofficial Skype web API for JavaScript | 7 | 🔴 | JavaScript |
 | [Tellonym.js](https://github.com/47PADO47/Tellonym.js) | Tellonym private api wrapper made in typescript | 3 | 🔴 | TypeScript |
 | [line-messenger-protocol](https://github.com/Shivelight/line-messenger-protocol) | Unofficial LINE Messenger protocol documentation | 1 | 🔴 | Thrift |
 | [kawaii](https://github.com/antigravities/kawaii) | Very in-development LINE client, using the unofficial Thrift-based API. | 0 | 🔴 | JavaScript |
@@ -217,6 +232,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BitClout-Awesome](https://github.com/HPaulson/BitClout-Awesome) | Reverse engineered BitClout API documentation and tools | 80 | 🗄️ |  |
 | [offsides](https://github.com/micahlt/offsides) | Android client for Sidechat and YikYak | 79 | 🟢 | JavaScript |
 | [SnapWrap](https://github.com/Rob--/SnapWrap) | Wrapper for the unofficial, undocumented Snapchat API | 62 | 🔴 | Python |
+| [linkedin-api](https://github.com/transitive-bullshit/linkedin-api) | TypeScript client for LinkedIn's unofficial Voyager API | 51 | 🟡 | TypeScript |
 | [AminoREAPI](https://github.com/MrPowerGamerBR/AminoREAPI) | Unofficial reverse-engineered client library for Amino Apps | 41 | 🗄️ | Kotlin |
 | [snapy](https://github.com/rxw/snapy) | Python library for the Snapchat private API | 41 | 🔴 | Python |
 | [WhatsJava](https://github.com/Louuke/WhatsJava) | Java implementation of the WhatsApp Web API | 41 | 🔴 | Java |
@@ -233,6 +249,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [TikTokLive](https://github.com/isaackogan/TikTokLive) | TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in... | 1,600 | 🟢 | Python |
 | [tiktok-api](https://github.com/szdc/tiktok-api) | Unofficial API wrapper for TikTok | 1,292 | 🗄️ | TypeScript |
 | [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Generate tiktok signature token using node | 1,039 | 🟢 | JavaScript |
+| [TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) | Unofficial Python wrapper for the TikTok web API | 506 | 🔴 | Python |
 | [SC-API](https://github.com/mgp25/SC-API) | Snapchat’s private API | 341 | 🗄️ | PHP |
 | [snapchat-fs](https://github.com/hausdorff/snapchat-fs) | Reverse-engineered Snapchat API used to store arbitrary files as snaps | 330 | 🔴 | Python |
 | [snapchat](https://github.com/transitive-bullshit/snapchat) | NodeJS client for the unofficial Snapchat API | 274 | 🗄️ | JavaScript |
@@ -279,6 +296,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [reX](https://github.com/parasyte-x/reX) | Reverse engineered Twitter API client | 79 | 🔴 | Go |
 | [tweet_scrapper](https://github.com/5hirish/tweet_scrapper) | Scrape the Twitter frontend API without authentication | 61 | 🗄️ | Python |
 | [TwitterFrontendFlow](https://github.com/fa0311/TwitterFrontendFlow) | Unofficial client for Twitter's internal login flow API | 58 | 🔴 | Python |
+| [ReverseEngineeredTwitterAPI](https://github.com/parasyte-x/ReverseEngineeredTwitterAPI) | Python client for the reverse-engineered Twitter web API | 12 | 🟡 | Rust |
 
 ## WhatsApp
 

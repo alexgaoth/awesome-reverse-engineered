@@ -281,6 +281,16 @@
 - hn.algolia.com
 - api.github.com search/repositories
 - api.github.com graphql
+- GitHub repository search API
+- GitHub topics esphome-component, esphome-external-component
+- GitHub user repo listings of ESPHome/Tasmota/Zigbee/Homebridge component authors
+- npm registry search (homebridge-* plugins)
+- https://registry.npmjs.org/-/v1/search
+- https://crates.io/api/v1/crates
+- https://rubygems.org/api/v1/search.json
+- https://pkg.go.dev/search
+- https://pypi.org/simple/
+- https://pypi.org/pypi/<name>/json
 
 ## Searches run
 
@@ -1930,3 +1940,259 @@
 - GitHub search: topic:reverse-engineering pushed:>=2026-10-10 stars:>200
 - GitHub search: topic:unofficial-api pushed:>=2026-10-10 stars:>200
 - GitHub search: topic:decompilation pushed:>=2026-10-10 stars:>200
+- topic:esphome-component stars:>=10
+- topic:esphome-external-component stars:>=5
+- topic:esphome-components stars:>=5
+- topic:esphome-custom-component stars:>=5
+- esphome reverse engineered stars:>=10
+- esphome uart protocol stars:>=15
+- esphome ble protocol stars:>=15
+- esphome heat pump stars:>=15
+- esphome external component stars:>=15
+- esphome air conditioner stars:>=15
+- esphome desk stars:>=10
+- esphome bms stars:>=15
+- esphome inverter stars:>=15
+- esphome protocol in:readme stars:>=20
+- esphome "reverse engineered" in:readme stars:>=10
+- esphome "reverse engineering" in:readme stars:>=10
+- esphome uart in:readme stars:>=20
+- esphome ble in:readme stars:>=25
+- esphome rs485 stars:>=10
+- esphome modbus stars:>=20
+- esphome mitsubishi stars:>=10
+- esphome daikin stars:>=10
+- esphome midea stars:>=10
+- esphome haier stars:>=10
+- esphome fujitsu stars:>=5
+- esphome toshiba stars:>=5
+- esphome panasonic stars:>=5
+- esphome lg stars:>=10
+- esphome samsung stars:>=10
+- esphome gree stars:>=5
+- esphome hisense stars:>=5
+- esphome tcl stars:>=5
+- esphome climate stars:>=20
+- esphome mower stars:>=5
+- esphome vacuum stars:>=10
+- esphome bed stars:>=5
+- esphome sofa stars:>=3
+- esphome recliner stars:>=3
+- esphome boiler stars:>=10
+- esphome opentherm stars:>=10
+- esphome ebus stars:>=5
+- esphome meter stars:>=20
+- esphome smart meter stars:>=10
+- esphome water heater stars:>=5
+- esphome dehumidifier stars:>=5
+- esphome humidifier stars:>=5
+- esphome fireplace stars:>=3
+- esphome pellet stove stars:>=3
+- esphome pool stars:>=10
+- esphome spa stars:>=5
+- esphome hot tub stars:>=5
+- esphome balboa stars:>=3
+- esphome ventilation stars:>=10
+- esphome zehnder stars:>=3
+- esphome itho stars:>=3
+- esphome solar stars:>=20
+- esphome battery stars:>=20
+- esphome jk bms stars:>=5
+- esphome daly stars:>=5
+- esphome victron stars:>=10
+- esphome growatt stars:>=5
+- esphome deye stars:>=5
+- esphome pylontech stars:>=5
+- esphome epever stars:>=3
+- esphome intercom stars:>=10
+- esphome doorbell stars:>=15
+- esphome alarm panel stars:>=10
+- esphome paradox stars:>=3
+- esphome dsc stars:>=5
+- esphome garage stars:>=15
+- esphome blinds stars:>=10
+- esphome somfy stars:>=10
+- esphome cover stars:>=15
+- esphome fan stars:>=20
+- esphome kitchen stars:>=5
+- esphome coffee stars:>=5
+- esphome washing machine stars:>=5
+- esphome dishwasher stars:>=3
+- esphome oven stars:>=3
+- esphome fridge stars:>=3
+- esphome ev charger stars:>=10
+- esphome wallbox stars:>=5
+- esphome car stars:>=15
+- esphome can bus stars:>=10
+- esphome thermostat stars:>=15
+- esphome radiator stars:>=5
+- esphome underfloor stars:>=3
+- esphome led controller stars:>=15
+- esphome tuya mcu stars:>=5
+- esphome lock stars:>=10
+- esphome cc1101 stars:>=10
+- esphome 433 stars:>=10
+- esphome 868 stars:>=5
+- esphome wmbus stars:>=5
+- esphome mbus stars:>=5
+- esphome p1 stars:>=10
+- esphome dsmr stars:>=10
+- esphome gas meter stars:>=5
+- esphome water meter stars:>=10
+- esphome heat meter stars:>=3
+- esphome ir stars:>=20
+- esphome remote stars:>=20
+- esphome projector stars:>=3
+- esphome tv stars:>=10
+- esphome amplifier stars:>=5
+- esphome audio stars:>=30
+- esphome display stars:>=40
+- esphome hoverboard stars:>=3
+- esphome treadmill stars:>=3
+- esphome bike stars:>=5
+- esphome aquarium stars:>=5
+- esphome irrigation stars:>=10
+- esphome sprinkler stars:>=10
+- esphome weather station stars:>=10
+- esphome air quality stars:>=20
+- esphome co2 stars:>=15
+- esphome radar stars:>=15
+- esphome mmwave stars:>=15
+- esphome scale stars:>=5
+- esphome xiaomi stars:>=10
+- esphome ikea stars:>=10
+- esphome philips stars:>=10
+- esphome nespresso stars:>=1
+- esphome sonoff stars:>=15
+- esphome shelly stars:>=10
+- esphome heishamon stars:>=1
+- esphome stiebel stars:>=3
+- esphome vaillant stars:>=3
+- esphome viessmann stars:>=3
+- esphome buderus stars:>=3
+- esphome nibe stars:>=3
+- esphome wolf stars:>=3
+- esphome atlantic stars:>=3
+- esphome ariston stars:>=3
+- esphome bosch stars:>=5
+- esphome electrolux stars:>=3
+- esphome whirlpool stars:>=3
+- esphome miele stars:>=3
+- esphome dyson stars:>=3
+- esphome roomba stars:>=5
+- esphome ecovacs stars:>=1
+- esphome husqvarna stars:>=1
+- esphome worx stars:>=1
+- esphome loxone stars:>=3
+- esphome knx stars:>=5
+- esphome dali stars:>=5
+- esphome lin bus stars:>=3
+- esphome truma stars:>=1
+- esphome rv stars:>=5
+- esphome camper stars:>=5
+- esphome boat stars:>=3
+- esphome nmea stars:>=3
+- tasmota berry driver stars:>=5
+- tasmota driver protocol stars:>=10
+- tasmota berry stars:>=15
+- tasmota reverse engineered in:readme stars:>=10
+- tasmota custom firmware stars:>=20
+- tasmota tuya mcu stars:>=5
+- zigbee2mqtt external converter stars:>=5
+- zigbee2mqtt converter stars:>=10
+- zigbee2mqtt external converters stars:>=3
+- zha quirks stars:>=10
+- zha quirk tuya stars:>=5
+- zha custom quirks stars:>=5
+- zigbee tuya reverse engineered stars:>=10
+- zigbee xiaomi reverse engineered stars:>=10
+- zigbee custom firmware stars:>=30
+- zigbee ptvo stars:>=5
+- openbeken stars:>=5
+- openbk7231 stars:>=5
+- libretiny stars:>=10
+- bk7231 stars:>=10
+- bk7231 flasher stars:>=5
+- rtl8710 tuya stars:>=5
+- ln882h stars:>=5
+- beken tuya stars:>=5
+- tuya cloudcutter stars:>=5
+- tuya local protocol stars:>=20
+- tuya wbr3 stars:>=3
+- tuya cb3s stars:>=3
+- tuya flash stars:>=20
+- homebridge unofficial stars:>=30
+- homebridge reverse engineered in:readme stars:>=10
+- homebridge "unofficial api" in:readme stars:>=10
+- homebridge plugin local protocol stars:>=30
+- homebridge ble stars:>=20
+- hubitat driver stars:>=15
+- hubitat reverse engineered in:readme stars:>=5
+- hubitat unofficial stars:>=5
+- openhab binding stars:>=20
+- openhab binding protocol stars:>=10
+- openhab reverse engineered in:readme stars:>=5
+- matter bridge stars:>=40
+- matter bridge proprietary stars:>=5
+- thread bridge stars:>=20
+- smartthings edge driver stars:>=15
+- fhem module reverse stars:>=5
+- iobroker adapter reverse in:readme stars:>=10
+- iobroker adapter unofficial in:readme stars:>=10
+- domoticz plugin reverse engineered in:readme stars:>=5
+- node-red reverse engineered in:readme stars:>=10
+- npm: unofficial api
+- npm: unofficial client
+- npm: reverse engineered
+- npm: reverse-engineered
+- npm: private api
+- npm: undocumented api
+- npm: local control
+- npm: keywords:unofficial-api
+- npm: keywords:reverse-engineered
+- npm: keywords:reverse-engineering
+- npm: keywords:unofficial
+- npm: unofficial wrapper
+- npm: unofficial sdk
+- npm: undocumented
+- npm: internal api
+- npm: keywords:private-api
+- npm: keywords:undocumented
+- npm: local api
+- npm: keywords:local-control
+- npm: unofficial node
+- npm: unofficial library
+- crates.io: unofficial
+- crates.io: reverse engineered
+- crates.io: reverse-engineered
+- crates.io: reverse engineering
+- crates.io: undocumented
+- crates.io: private api
+- crates.io: local control
+- crates.io: unofficial api
+- crates.io: unofficial client
+- crates.io: internal api
+- rubygems: unofficial
+- rubygems: reverse engineered
+- rubygems: undocumented
+- rubygems: private api
+- rubygems: unofficial api
+- rubygems: local control
+- rubygems: internal api
+- pkg.go.dev: unofficial api
+- pkg.go.dev: unofficial client
+- pkg.go.dev: reverse engineered
+- pkg.go.dev: private api
+- pkg.go.dev: undocumented api
+- pkg.go.dev: local control
+- pkg.go.dev: unofficial
+- pkg.go.dev: undocumented
+- npm: homebridge local
+- npm: reverse engineered protocol
+- npm: reverse engineered bluetooth
+- npm: reverse engineered api
+- npm: private api client
+- npm: unofficial api for
+- npm: unofficial mcp
+- pypi: package names matching unofficial/private-api/reverse/local-api (simple index)
+- pypi: summaries of packages named *api/*client/*sdk/*wrapper (JSON API)

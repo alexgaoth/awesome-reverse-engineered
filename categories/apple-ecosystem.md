@@ -1,15 +1,15 @@
 # Apple Ecosystem
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 332 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 336 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [AirPlay & AirDrop](#airplay--airdrop) (43)
+- [AirPlay & AirDrop](#airplay--airdrop) (44)
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (51)
 - [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
 - [Find My & AirTag](#find-my--airtag) (9)
-- [HomeKit](#homekit) (18)
-- [Other Apple](#other-apple) (129)
+- [HomeKit](#homekit) (20)
+- [Other Apple](#other-apple) (130)
 - [iCloud & Apple Services](#icloud--apple-services) (22)
 - [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (46)
 
@@ -54,6 +54,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AirplayMirroringGo](https://github.com/openairplay/AirplayMirroringGo) | A cross platform AirPlay mirroring client by Go | 53 | 🔴 | Go |
 | [Airmac](https://github.com/jrtc27/Airmac) | Transforms your Mac into an AirPlay receiver | 52 | 🔴 | Objective-C |
 | [ap2-sender](https://github.com/openairplay/ap2-sender) | AirPlay 2 Sender | 39 | 🔴 | Objective-C |
+| [esphome-airplay2](https://github.com/henriklied/esphome-airplay2) | ESPHome external component that turns an ESP32 into an AirPlay 2 audio receiver | 35 | 🟢 | C++ |
 | [rust-raop-player](https://github.com/LinusU/rust-raop-player) | AirPlay player for the RAOP v2 protocol with synchronization | 32 | 🟢 | Rust |
 | [raop](https://github.com/tenderlove/raop) | RAOP Client is an Airport Express client written in ruby. It allows you to stream music to an Airport Express from Ruby. | 24 | 🔴 | Ruby |
 | [raop-rtsp-server](https://github.com/watson/raop-rtsp-server) | A RAOP server in Node.js | 20 | 🔴 | JavaScript |
@@ -162,12 +163,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esp-homekit](https://github.com/maximkulkin/esp-homekit) | Apple HomeKit accessory server library for ESP-OPEN-RTOS | 1,168 | 🟡 | C |
 | [HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) | ESP32 HomeKit lock with reverse engineered Apple Home Key NFC support | 1,092 | 🟢 | C++ |
 | [apple-home-key-reader](https://github.com/kormax/apple-home-key-reader) | Reader-side implementation of Apple Home Key NFC protocol in Python | 978 | 🟢 | Python |
+| [homebridge-nest](https://github.com/chrisjshull/homebridge-nest) | Homebridge plugin for Nest thermostats and Protects using the unofficial Nest API | 769 | 🟢 | JavaScript |
 | [esp32-homekit](https://github.com/younghyunjo/esp32-homekit) | ESP-32 implementation of Apple Homekit Accessory Protocol(HAP) | 446 | 🔴 | C |
 | [hap](https://github.com/brutella/hap) | The HomeKit Accessory Protocol (hap) implemented in Go | 422 | 🟡 | Go |
 | [HAP](https://github.com/Bouke/HAP) | Swift implementation of the Homekit Accessory Protocol | 373 | 🟡 | Swift |
 | [apple-home-key](https://github.com/kormax/apple-home-key) | Reverse-engineering notes on Apple Home Key (NFC smart-lock credential) protocol | 356 | 🟡 |  |
 | [ESPHap](https://github.com/Yurik72/ESPHap) | ESP32/ESP8266 Arduino library for native Apple Homekit Accessory Protocol (HAP) | 278 | 🔴 | C |
 | [hap-rs](https://github.com/ewilken/hap-rs) | Rust implementation of the Apple HomeKit Accessory Protocol (HAP) | 218 | 🟡 | Rust |
+| [homebridge-nest](https://github.com/KraigM/homebridge-nest) | Homebridge plugin for Nest thermostats and protects via the unofficial Nest API | 210 | 🔴 | JavaScript |
 | [HAP-Java](https://github.com/hap-java/HAP-Java) | Java implementation of the HomeKit Accessory Protocol | 163 | 🟢 | Java |
 | [hap](https://github.com/mtrudel/hap) | A HomeKit Accessory Protocol (HAP) Implementation for Elixir | 109 | 🟢 | Elixir |
 | [homekit](https://github.com/fmckeogh/homekit) | HomeKit Accessory Protocol implementation for embedded Rust | 26 | 🟡 | Rust |
@@ -283,6 +286,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ios-charging-monitor](https://github.com/gregsramblings/ios-charging-monitor) | Live iPhone charging watts read through private APIs | 35 | 🟢 | Swift |
 | [Notes-Of-Fruit](https://github.com/ericmigi/Notes-Of-Fruit) | Android client for iCloud Notes with reverse-engineered CRDT write path | 33 | 🟢 | Kotlin |
 | [QCPatchXcodeTemplate](https://github.com/kineme/QCPatchXcodeTemplate) | Xcode template for custom Quartz Composer patches via the unofficial API | 33 | 🔴 | Objective-C |
+| [apple](https://github.com/tmc/apple) | Go bindings for Apple frameworks, including a package for undocumented private APIs | 31 | 🟢 | Go |
 | [Peepo](https://github.com/datalocaltmp/Peepo) | Apple Watch watchOS kernel read/write and live process memory dumping | 30 | 🟢 | Objective-C |
 | [Airpods-Windows-Service](https://github.com/ohanedan/Airpods-Windows-Service) | A Windows Service for reading Airpods Battery and some other informations. | 28 | 🔴 | Python |
 | [WinPods](https://github.com/tzyuan15/WinPods) | airpods battery viewer for Windows | 28 | 🔴 | Python |

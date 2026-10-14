@@ -1,6 +1,6 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 411 projects
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 415 projects
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -10,7 +10,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [GPU Drivers](#gpu-drivers) (31)
 - [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (83)
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (33)
-- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (76)
+- [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (80)
 - [Laptop EC & Peripherals](#laptop-ec--peripherals) (77)
 - [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (37)
 - [Wi-Fi & Radios](#wi-fi--radios) (20)
@@ -273,6 +273,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenScope-2C53T](https://github.com/DavidClawson/OpenScope-2C53T) | Reverse engineering and open firmware for the FNIRSI 2C53T scope/multimeter | 118 | 🟢 | C |
 | [rd6006](https://github.com/Baldanos/rd6006) | Python module to control Riden RD6006 programmable power supplies | 118 | 🟡 | Python |
 | [flirone-v4l2](https://github.com/fnoop/flirone-v4l2) | V4L2 bridge to use the FLIR One thermal camera on Linux | 111 | 🔴 | C |
+| [esphome-atorch-dl24](https://github.com/syssi/esphome-atorch-dl24) | ESPHome component for Atorch DL24 and other Atorch meters over their proprietary Bluetooth protocol | 110 | 🟢 | C++ |
 | [sds1004x_bode](https://github.com/4x1md/sds1004x_bode) | Emulates a Siglent AWG so SDS1004X-E scopes can do Bode plots with third-party generators | 97 | 🟡 | Python |
 | [CO2Meter](https://github.com/heinemml/CO2Meter) | Python module for USB CO2 meters with reversed encryption | 89 | 🔴 | Python |
 | [ht301_hacklib](https://github.com/stawel/ht301_hacklib) | OpenCV library for the Hti HT-301 and similar USB thermal cameras with raw temperature data | 87 | 🟡 | Python |
@@ -312,7 +313,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [hantek1008py](https://github.com/mfg92/hantek1008py) | Python driver for the Hantek 1008 USB oscilloscope | 22 | 🟡 | Python |
 | [FlirOneControlForLinux](https://github.com/da-nie/FlirOneControlForLinux) | Qt5 libusb app to use the FLIR One thermal camera on Linux | 21 | 🔴 | C |
 | [fx2adc](https://github.com/steve-m/fx2adc) | Use Cypress FX2-based USB oscilloscopes (Hantek) as general purpose ADCs | 21 | 🟡 | C |
+| [ha-radiacode](https://github.com/303Bryan/ha-radiacode) | Home Assistant integration for RadiaCode radiation detectors over BLE | 21 | 🟢 | Python |
 | [Hantek 2D72 tool](https://github.com/lucaoli/Hantek) | Linux tool for the Hantek 2D72 handheld oscilloscope | 20 | 🟢 | C |
+| [J7-C_UC96_BLE_Logger](https://github.com/adlerweb/J7-C_UC96_BLE_Logger) | BLE data logging for J7-C and UC96 USB power testers | 20 | 🟡 | Python |
 | [pyseek](https://github.com/Fry-kun/pyseek) | Python interface for the Seek Thermal camera | 20 | 🔴 | Python |
 | [dmm_util](https://github.com/N0ury/dmm_util) | Utility for Fluke 287/289 multimeters: readings, memory and settings | 19 | 🔴 | Python |
 | [hantek-365](https://github.com/mp035/hantek-365) | Open GUI and CLI for the Hantek 365 data logger | 19 | 🟢 | JavaScript |
@@ -324,6 +327,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenP3](https://github.com/Phalphy/OpenP3) | Unofficial Linux driver for the Thermal Master P3 thermal camera | 17 | 🟢 | Python |
 | [victor70c](https://github.com/mvneves/victor70c) | Victor 70C multimeter software for Linux | 17 | 🔴 | C |
 | [owon_hds200](https://github.com/qwindelzorf/owon_hds200) | Python interface to OWON HDS200 handheld oscilloscopes | 16 | 🔴 | Python |
+| [dl24](https://github.com/tshaddack/dl24) | Python control for Atorch DL24P and other electronic loads | 14 | 🟡 | Python |
 | [minipro-rs](https://gitlab.com/arcturus8081/minipro-rs) | Rust reimplementation of minipro for XGecu TL866/T48/T56/T76 chip programmers |  | ⚪ |  |
 | [pockethernet-protocol](https://gitlab.com/MartijnBraam/pockethernet-protocol) | Reverse engineering of the Pockethernet Bluetooth protocol so third-party apps can be written |  | ⚪ |  |
 
