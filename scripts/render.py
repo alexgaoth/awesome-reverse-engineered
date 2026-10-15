@@ -8,6 +8,9 @@ import collections, datetime, html, importlib.util, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO = "alexgaoth/awesome-reverse-engineered"
 SITE = "https://alexgaoth.github.io/awesome-reverse-engineered/"
+# Files that state the index size as a rounded "12,000+". render.py keeps them in step with the data.
+COUNT_FILES = ["docs/index.html", "plugin/.claude-plugin/plugin.json",
+               "plugin/skills/find-reverse-engineered/SKILL.md", ".claude-plugin/marketplace.json"]
 TODAY = datetime.date.today()
 
 # Category order and icon. Categories not listed here go last, sorted by name.
@@ -112,6 +115,38 @@ def banner_svg(n, ncat):
 '''
 
 
+def social_svg(n):
+    """1280x640 share card (site og:image and GitHub social preview). Convert to docs/og.png with scripts/og.sh."""
+    data = b"don't reverse engineer it twice. " * 30
+    rows = []
+    for r in range(24):
+        chunk = data[r * 16:(r + 1) * 16]
+        hexs = " ".join(f"{b:02x}" for b in chunk)
+        asc = "".join(chr(b) if 32 <= b < 127 else "." for b in chunk)
+        rows.append(f'<text x="790" y="{36 + r * 26}" class="hex">{r * 16:08x}  {esc(hexs)}  {esc(asc)}</text>')
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<style>
+.hex{{font:13px {MONO};fill:#ffb000;white-space:pre}}
+.k{{font:600 30px {MONO};fill:#ffb000}}
+.t{{font:700 78px {SANS};fill:#f2f0e8;letter-spacing:-2px}}
+.s{{font:400 30px {SANS};fill:#a8a597}}
+.u{{font:600 26px {MONO};fill:#f2f0e8;white-space:pre}}
+</style>
+<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".4" stop-color="#fff" stop-opacity=".13"/><stop offset="1" stop-color="#fff" stop-opacity=".18"/></linearGradient>
+<mask id="m"><rect x="760" width="520" height="640" fill="url(#fade)"/></mask></defs>
+<rect width="1280" height="640" fill="#0e0f0d"/>
+<g mask="url(#m)">{"".join(rows)}</g>
+<text x="80" y="140" class="k">awesome-reverse-engineered</text>
+<text x="76" y="260" class="t">Don't reverse engineer</text>
+<text x="76" y="350" class="t">it twice.</text>
+<text x="80" y="420" class="s">{n // 1000 * 1000:,}+ open-source tools for closed apps, APIs,</text>
+<text x="80" y="460" class="s">devices, file formats, games and AI tools.</text>
+<rect x="80" y="520" width="5" height="40" fill="#ffb000"/>
+<text x="104" y="550" class="u">awesome.alexgaoth.com   ·   agent skill   ·   nightly refresh</text>
+</svg>
+'''
+
+
 def bars_svg(counts):
     """Single-series horizontal bar chart with direct value labels; theme-aware via prefers-color-scheme."""
     W, rowh, left, right = 900, 30, 330, 80
@@ -162,6 +197,17 @@ text{{font:15px {MONO};fill:#c9c6b8;white-space:pre}}
 '''
 
 
+def sync_counts(n):
+    """Replace every "10,000+"-style count in COUNT_FILES with the current rounded-down size."""
+    rounded = f"{n // 1000 * 1000:,}+"
+    for f in COUNT_FILES:
+        p = os.path.join(ROOT, f)
+        old = open(p).read()
+        new = re.sub(r"\b\d{1,3}(?:,\d{3})+\+", rounded, old)
+        if new != old:
+            open(p, "w").write(new)
+
+
 # ---------- main ----------
 
 def main():
@@ -176,8 +222,10 @@ def main():
     langs = collections.Counter(e.get("lang") for e in entries if e.get("lang"))
     total_stars = sum(e.get("stars") or 0 for e in entries)
 
+    sync_counts(n)
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
     open(os.path.join(ROOT, "assets", "banner.svg"), "w").write(banner_svg(n, len(cats)))
+    open(os.path.join(ROOT, "assets", "social.svg"), "w").write(social_svg(n))
     open(os.path.join(ROOT, "assets", "categories.svg"), "w").write(bars_svg(sorted(ccount.items(), key=lambda x: -x[1])))
     demo = search(load_search(), entries, "tuya local")
     if demo:
