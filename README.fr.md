@@ -214,6 +214,16 @@ Vous connaissez un projet qui a sa place ici ? [Ouvrez une issue](https://github
 
 Organisé par [@alexgaoth](https://github.com/alexgaoth) avec des agents de recherche. Chaque entrée est vérifiée avec l'API GitHub.
 
+## Votre projet est référencé ?
+
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+
+Ajoutez ce badge à votre README. Sur le [site](https://alexgaoth.github.io/awesome-reverse-engineered/), chaque projet a un bouton **badge** qui copie une version pointant vers sa propre fiche.
+
+```markdown
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+```
+
 ## Historique des étoiles
 
 <a href="https://star-history.com/#alexgaoth/awesome-reverse-engineered&Date"><img src="https://api.star-history.com/svg?repos=alexgaoth/awesome-reverse-engineered&type=Date" alt="Star history" width="600"></a>

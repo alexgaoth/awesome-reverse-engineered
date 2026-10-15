@@ -117,6 +117,8 @@ select { font: 14px var(--sans); color: var(--ink); background: var(--surface); 
 .health { display: inline-flex; gap: 6px; align-items: center; }
 .health::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
 .h-active { color: var(--good); } .h-slow { color: var(--warn); } .h-dormant, .h-archived { color: var(--bad); } .h-unknown { color: var(--mute); }
+.badge-btn { font: 12px var(--mono); color: var(--ink-3); background: none; border: 1px solid var(--line); border-radius: 6px; padding: 1px 7px; cursor: pointer; }
+.badge-btn:hover { color: var(--accent); border-color: var(--accent); }
 .tags { grid-column: 1; display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
 .tag { font: 12px var(--mono); color: var(--ink-3); background: var(--raised); padding: 1px 8px; border-radius: 999px; }
 .more-btn { display: block; margin: 24px auto 0; font: 500 14px var(--sans); padding: 10px 18px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
@@ -321,15 +323,27 @@ function draw() {
         <span class="stars"><i class="ph-fill ph-star"></i>${fmt(r[5])}</span>
         <span class="health h-${r[9]}">${r[9]}</span>
         <span>${escapeHtml([r[6], r[7]].filter(Boolean).join(" · ") || "no license info")}</span>
+        <button class="badge-btn" data-name="${escapeHtml(r[0])}" title="Copy a 'Listed in' badge for this project's README">badge</button>
       </div>
       ${r[10].length ? `<div class="tags">${r[10].slice(0, 4).map((t) => `<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>` : ""}
     </article>`).join("") +
     (current.length > shown ? `<button class="more-btn" id="more">Show ${fmt(Math.min(PAGE, current.length - shown))} more</button>` : "");
+  box.querySelectorAll(".badge-btn").forEach((b) => b.onclick = () => copyBadge(b));
   const more = $("#more");
   if (more) {
     more.onclick = () => { shown += PAGE; draw(); };
     new IntersectionObserver((es, ob) => { if (es[0].isIntersecting) { ob.disconnect(); shown += PAGE; draw(); } }, { rootMargin: "600px" }).observe(more);
   }
+}
+
+// "Listed in" badge for a project's README, linking back to its entry here.
+const BADGE_IMG = "https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d";
+function copyBadge(b) {
+  const url = "https://awesome.alexgaoth.com/#q=" + encodeURIComponent(b.dataset.name.toLowerCase());
+  const md = `[![Listed in Awesome Reverse-Engineered](${BADGE_IMG})](${url})`;
+  const done = (ok) => { b.textContent = ok ? "copied" : "copy failed"; setTimeout(() => { b.textContent = "badge"; }, 1600); };
+  if (navigator.clipboard) navigator.clipboard.writeText(md).then(() => done(true), () => { prompt("Badge Markdown:", md); });
+  else prompt("Badge Markdown:", md);
 }
 
 function readHash() {

@@ -8,6 +8,9 @@ import collections, datetime, html, importlib.util, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO = "alexgaoth/awesome-reverse-engineered"
 SITE = "https://alexgaoth.github.io/awesome-reverse-engineered/"
+# "Listed in" badge for projects in the index. The site's per-project button links it to the project's entry.
+BADGE_IMG = "https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d"
+BADGE_MD = f"[![Listed in Awesome Reverse-Engineered]({BADGE_IMG})](https://github.com/{REPO})"
 # Files that state the index size as a rounded "12,000+". render.py keeps them in step with the data.
 COUNT_FILES = ["docs/index.html", "plugin/.claude-plugin/plugin.json",
                "plugin/skills/find-reverse-engineered/SKILL.md", ".claude-plugin/marketplace.json"]
@@ -246,7 +249,7 @@ def main():
         f = f"categories/{slug(c)}.md"
         subs = sorted(by[c])
         page = [f"# {c}", "",
-                f"[← All categories](../README.md#whats-inside) · [Search this category on the website]({SITE}#c={slug(c)}) · {ccount[c]:,} projects", "",
+                f"[← All categories](../README.md#whats-inside) · [Search this category on the website]({SITE}#c={slug(c)}) · {ccount[c]:,} projects · [Listed here? Get the badge](../README.md#is-your-project-listed)", "",
                 "Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown", ""]
         if len(subs) > 1:
             page += [f"- [{s}](#{anchor(s)}) ({len(by[c][s])})" for s in subs] + [""]
@@ -362,6 +365,7 @@ def main():
 
         R += [f"## {t['h_scope']}", ""] + [x for p in t["scope"] for x in (p, "")]
         R += [f"## {t['h_contrib']}", "", t["contrib"].format(issue=issue), "", t["curated"], ""]
+        R += [f"## {t['h_badge']}", "", BADGE_MD, "", t["badge_p"].format(site=SITE), "", "```markdown", BADGE_MD, "```", ""]
         R += [f"## {t['h_star']}", "",
               f'<a href="https://star-history.com/#{REPO}&Date"><img src="https://api.star-history.com/svg?repos={REPO}&type=Date" alt="Star history" width="600"></a>', ""]
         R += [f"## {t['h_license']}", "", t["license"], "",

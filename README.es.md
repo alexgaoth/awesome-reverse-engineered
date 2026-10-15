@@ -214,6 +214,16 @@ Usar un cliente no oficial puede incumplir los términos de uso de un servicio. 
 
 Curado por [@alexgaoth](https://github.com/alexgaoth) con agentes de investigación. Cada entrada se verifica con la API de GitHub.
 
+## ¿Tu proyecto está en la lista?
+
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+
+Añade esta insignia a tu README. En la [web](https://alexgaoth.github.io/awesome-reverse-engineered/), cada proyecto tiene un botón **badge** que copia una versión que enlaza a su propia ficha.
+
+```markdown
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+```
+
 ## Historial de estrellas
 
 <a href="https://star-history.com/#alexgaoth/awesome-reverse-engineered&Date"><img src="https://api.star-history.com/svg?repos=alexgaoth/awesome-reverse-engineered&type=Date" alt="Star history" width="600"></a>

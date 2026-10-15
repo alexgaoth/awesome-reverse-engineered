@@ -214,6 +214,16 @@ flowchart LR
 
 由 [@alexgaoth](https://github.com/alexgaoth) 借助研究智能体整理。每个条目都经过 GitHub API 核验。
 
+## 你的项目被收录了吗？
+
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+
+可以把这个徽章加到你的 README 里。在[网站](https://alexgaoth.github.io/awesome-reverse-engineered/)上，每个项目都有一个 **badge** 按钮，可以复制指向该项目条目的版本。
+
+```markdown
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+```
+
 ## 星标历史
 
 <a href="https://star-history.com/#alexgaoth/awesome-reverse-engineered&Date"><img src="https://api.star-history.com/svg?repos=alexgaoth/awesome-reverse-engineered&type=Date" alt="Star history" width="600"></a>

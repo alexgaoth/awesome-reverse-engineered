@@ -212,6 +212,16 @@ Know a project that belongs here? [Open an issue](https://github.com/alexgaoth/a
 
 Curated by [@alexgaoth](https://github.com/alexgaoth) with research agents. Every entry is checked against the GitHub API.
 
+## Is your project listed?
+
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+
+Add this badge to your README. On the [website](https://alexgaoth.github.io/awesome-reverse-engineered/), each project has a **badge** button that copies a version linking to its own entry.
+
+```markdown
+[![Listed in Awesome Reverse-Engineered](https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d)](https://github.com/alexgaoth/awesome-reverse-engineered)
+```
+
 ## Star history
 
 <a href="https://star-history.com/#alexgaoth/awesome-reverse-engineered&Date"><img src="https://api.star-history.com/svg?repos=alexgaoth/awesome-reverse-engineered&type=Date" alt="Star history" width="600"></a>
