@@ -221,6 +221,11 @@ def main():
     hc = collections.Counter(health(e) for e in entries)
     langs = collections.Counter(e.get("lang") for e in entries if e.get("lang"))
     total_stars = sum(e.get("stars") or 0 for e in entries)
+    # Research counters written by the pipeline (searches, imported lists, scope-filter drops).
+    sp = os.path.join(ROOT, "data", "stats.json")
+    stats = json.load(open(sp)) if os.path.exists(sp) else {}
+    rp = os.path.join(ROOT, "data", "removed.json")
+    removed = json.load(open(rp)) if os.path.exists(rp) else []
 
     sync_counts(n)
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
@@ -286,20 +291,32 @@ def main():
         R = ['<div align="center">', "",
              f'<a href="{SITE}"><img src="assets/banner.svg" alt="Awesome Reverse-Engineered" width="100%"></a>', "",
              f"<p>{switch}</p>", "",
-             f"### {t['tagline'].format(n=f'{n:,}')}", "",
+             f"## {t['pitch']}", "",
+             t["tagline"].format(n=f"{n:,}"), "",
+             t["quick"].format(site=SITE), "",
              "[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) "
              f"[![Projects]({badge('projects', f'{n:,}'.replace(',', '%2C'))})](#{a_inside}) "
-             f"[![Categories]({badge('categories', len(cats))})](#{a_inside}) "
              f"[![Nightly refresh](https://img.shields.io/github/actions/workflow/status/{REPO}/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) "
-             f"[![Updated]({badge('updated', TODAY.isoformat().replace('-', '--'), '30363d')})](data/entries.json) "
+             f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/{REPO}/stargazers) "
              f"[![License: MIT + CC0 data]({badge('license', 'MIT%20%2B%20CC0%20data', '30363d')})](LICENSE)", "",
-             f"[![Agent skill]({badge('agent%20skill', 'npx%20skills%20add', '7ee787')})](#{a_agent}) "
-             f"[![Claude Code plugin]({badge('Claude%20Code', 'plugin', 'd97757')})](#{a_agent}) "
-             f"[![Stars](https://img.shields.io/github/stars/{REPO}?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/{REPO}/stargazers)", "",
-             f"**[{t['nav'][0]}]({SITE})** · **[{t['nav'][1]}](#{a_agent})** · **[{t['nav'][2]}](#{a_inside})** · **[{t['nav'][3]}](#{a_hot})** · **[{t['nav'][4]}](#{a_contrib})**", ""]
+             f"**[{t['nav'][1]}](#{a_agent})** · **[{t['nav'][2]}](#{a_inside})** · **[{t['nav'][3]}](#{a_hot})** · **[{t['nav'][4]}](#{a_contrib})**", ""]
         if t["note"]:
             R += [f"<sub>{t['note']}</sub>", ""]
         R += ["</div>", "", "---", ""]
+
+        R += [f"## {t['h_before']}", "", t["before_p"], ""]
+        R += [f"{i}. " + x.format(site=SITE, a_agent=a_agent, a_contrib=a_contrib) for i, x in enumerate(t["before_steps"], 1)] + [""]
+
+        R += [f"## {t['h_inside']}", "",
+              t["inside_p"].format(n=f"{n:,}", stars=f"{total_stars / 1e6:.1f}", a=f"{hc['active']:,}", s=f"{hc['slow']:,}",
+                                   d=f"{hc['dormant']:,}", ar=f"{hc['archived']:,}",
+                                   langs=", ".join(f"{l} ({c:,})" for l, c in langs.most_common(5))), "",
+              f"| {t['th_cat'][0]} | {t['th_cat'][1]} | {t['th_cat'][2]} |", "|---|--:|---|"]
+        for c in cats:
+            picks = sorted((e for v in by[c].values() for e in v), key=lambda e: -(e.get("stars") or 0))[:3]
+            R.append(f"| [**{cn(c)}**](categories/{slug(c)}.md) | {ccount[c]:,} | "
+                     + ", ".join(f"[{p['name'].replace('|', '/')}]({p['url']})" for p in picks) + " |")
+        R.append("")
 
         R += [f"## {t['h_agent']}", "", t["agent_p"], "",
               "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",
@@ -320,18 +337,6 @@ def main():
             R += [f'<p align="center"><a href="{SITE}"><img src="assets/site.png" alt="{t["h_web"]}" width="820"></a></p>', ""]
         R += [f'<p align="center"><a href="{SITE}"><b>{t["open_search"]} →</b></a></p>', ""]
 
-        R += [f"## {t['h_inside']}", "",
-              t["inside_p"].format(n=f"{n:,}", stars=f"{total_stars / 1e6:.1f}", a=f"{hc['active']:,}", s=f"{hc['slow']:,}",
-                                   d=f"{hc['dormant']:,}", ar=f"{hc['archived']:,}",
-                                   langs=", ".join(f"{l} ({c:,})" for l, c in langs.most_common(5))), "",
-              '<p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>', "",
-              f"| {t['th_cat'][0]} | {t['th_cat'][1]} | {t['th_cat'][2]} |", "|---|--:|---|"]
-        for c in cats:
-            picks = sorted((e for v in by[c].values() for e in v), key=lambda e: -(e.get("stars") or 0))[:3]
-            R.append(f"| [**{cn(c)}**](categories/{slug(c)}.md) | {ccount[c]:,} | "
-                     + ", ".join(f"[{p['name'].replace('|', '/')}]({p['url']})" for p in picks) + " |")
-        R.append("")
-
         if hot:
             R += [f"## {t['h_hot']}", "", t["hot_p"], ""] + table(hot, head=th) + [""]
         if just_added:
@@ -349,6 +354,11 @@ def main():
               "  C --> D[(data/entries.json)]",
               "  D --> E[README and<br/>category pages]", "  D --> F[Search website]", "  D --> G[Agent skill]",
               "  H[Nightly refresh<br/>GitHub Action] -->|stars, archived,<br/>dead links| D", "```", "", t["built_p"], ""]
+        fl = t["filter"]
+        R += [f"### {t['h_filter']}", "", "| | |", "|--:|---|"]
+        R += [f"| {v:,} | {lab} |" for v, lab in zip(
+            (stats.get("searches", 0), stats.get("sources", 0), stats.get("scope_dropped", 0), n, hc["archived"], len(removed)), fl) if v]
+        R += ["", '<p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>', ""]
 
         R += [f"## {t['h_scope']}", ""] + [x for p in t["scope"] for x in (p, "")]
         R += [f"## {t['h_contrib']}", "", t["contrib"].format(issue=issue), "", t["curated"], ""]
