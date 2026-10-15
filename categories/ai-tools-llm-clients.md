@@ -20,9 +20,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) | Messenger browser extension acting as an unofficial API for Meta Ray-Ban glasses | 693 | 🟡 | TypeScript |
 | [riffado](https://github.com/riffado/riffado) | Self-hosted transcription interface for Plaud Note recordings | 411 | 🟢 | TypeScript |
 | [reverse-engineering-gemma-3n](https://github.com/antimatter15/reverse-engineering-gemma-3n) | Reverse engineering of Google's Gemma 3n edge-optimized model architecture | 278 | 🟡 | Python |
-| [dot2api](https://github.com/Pluviobyte/dot2api) | Turns the OpenAI Dot device into an OpenAI- and Claude-compatible API | 204 | 🟢 | Python |
+| [dot2api](https://github.com/Pluviobyte/dot2api) | Turns the OpenAI Dot device into an OpenAI- and Claude-compatible API | 205 | 🟢 | Python |
 | [even-g2-protocol (i-soxi)](https://github.com/i-soxi/even-g2-protocol) | Reverse-engineered BLE protocol of Even Realities G2 smart glasses | 189 | 🟢 |  |
-| [TotalRecall](https://github.com/xaitax/TotalRecall) | Extracts and displays data from Windows 11 Copilot+ Recall snapshots database | 168 | 🟢 | C++ |
+| [TotalRecall](https://github.com/xaitax/TotalRecall) | Extracts and displays data from Windows 11 Copilot+ Recall snapshots database | 169 | 🟢 | C++ |
 | [ANE-LM](https://github.com/johnmai-dev/ANE-LM) | LLM inference on the Apple Neural Engine | 144 | 🟢 | C++ |
 | [Orion](https://github.com/mechramc/Orion) | Local runtime for training and running small LLMs on the Apple Neural Engine | 130 | 🟢 | Objective-C |
 | [rk3588-npu](https://github.com/mtx512/rk3588-npu) | Reverse engineering the Rockchip RK3588 NPU | 130 | 🟡 | C |
@@ -33,7 +33,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [codex-micro-4-core2](https://github.com/imliubo/codex-micro-4-core2) | Unofficial BLE Codex Micro firmware turning M5Stack Core2 into a ChatGPT Desktop controller | 78 | 🟢 | C++ |
 | [Rabbit-R1 (Pinball3D)](https://github.com/Pinball3D/Rabbit-R1) | Rabbit R1 reverse engineering; runs the R1 launcher on any Android device | 77 | 🟡 | Smali |
 | [rabbit_r1_boot_notes](https://github.com/DavidBuchanan314/rabbit_r1_boot_notes) | Documents the boot process of the Rabbit R1 (MediaTek mt6765, Android 13) | 70 | 🟡 | Python |
-| [npunlock](https://github.com/hsfzxjy/npunlock) | Write and run custom C kernels on Intel Core Ultra NPUs | 68 | 🟢 | C |
+| [npunlock](https://github.com/hsfzxjy/npunlock) | Write and run custom C kernels on Intel Core Ultra NPUs | 69 | 🟢 | C |
 | [OpenPin](https://github.com/MaxMaeder/OpenPin) | Makes the discontinued Humane Ai Pin usable again with a replacement software stack | 57 | 🟡 | TypeScript |
 | [rokid-docs](https://github.com/buildwithfenna/rokid-docs) | Community docs for Rokid AR glasses incl. YodaOS internals and reverse-engineered details | 51 | 🟢 | Smali |
 | [plaud-toolkit](https://github.com/sergivalverde/plaud-toolkit) | TypeScript library, CLI and MCP server for the Plaud API | 45 | 🟢 | TypeScript |
@@ -44,18 +44,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [locus-tether](https://github.com/thecloudcowboy/locus-tether) | Self-hosted replacement for the Omi wearable's cloud pipeline | 17 | 🟢 | Python |
 | [tinycoral](https://github.com/FrederikRogalski/tinycoral) | tinygrad on Coral Edge TPU with reverse-engineered ISA and USB driver | 17 | 🟢 | Python |
 | [OpenPlod](https://github.com/RemiPelloux/OpenPlod) | Local-first Plaud Note Pro vault with direct Bluetooth import | 16 | 🟢 | TypeScript |
+| [plaud-direct-pc-research](https://github.com/Shawn-TKD/plaud-direct-pc-research) | Direct-to-PC BLE interoperability research for PLAUD Note Pro/NotePin S | 15 | 🟢 | Kotlin |
 | [cppRecall](https://github.com/otterpwn/cppRecall) | C++ dumper for Microsoft Recall database and screenshots | 14 | 🟡 | C |
 | [evenRealities-webflasher](https://github.com/AM-Guru/evenRealities-webflasher) | Browser flasher and recovery console for Even Realities G2 and R1 | 14 | 🟢 | JavaScript |
-| [plaud-direct-pc-research](https://github.com/Shawn-TKD/plaud-direct-pc-research) | Direct-to-PC BLE interoperability research for PLAUD Note Pro/NotePin S | 14 | 🟢 | Kotlin |
 | [plaud-api](https://github.com/arbuzmell/plaud-api) | Unofficial Python client for Plaud AI recorders | 12 | 🟢 | Python |
 | [openplaudit](https://github.com/mar-maradnus/openplaudit) | macOS app/CLI for PLAUD Note: BLE sync, Opus decode, Whisper | 11 | 🟢 | Swift |
 | [rabbit-r1-firmware](https://github.com/TurboTheTurtle/rabbit-r1-firmware) | Rabbit R1 flashing guides, scripts and hardware docs (CipherOS, LK analysis) | 10 | 🟢 | Shell |
+| [even-g2-protocol (ithinkthisiscool)](https://github.com/ithinkthisiscool/even-g2-protocol) | Python implementation and protocol map of Even Realities G2 glasses | 9 | 🟢 | Python |
 | [ai-pin-interposer](https://github.com/agg23/ai-pin-interposer) | Hardware interposer for Humane AI Pin debug access | 8 | 🟡 |  |
 | [humane-system-hook](https://github.com/PenumbraOS/humane-system-hook) | Hooks Humane's Ai Pin software so it functions after the cloud shutdown | 8 | 🟢 | Rust |
 | [luma](https://github.com/TheAndersMadsen/luma) | Self-hosted cloud and device runtime for an operator-owned Humane Ai Pin | 8 | 🟢 | Rust |
 | [mic-rs](https://github.com/dariofinardi/mic-rs) | Downloads and decodes audio from Anker Soundcore Work and Plaud | 8 | 🟢 | Rust |
 | [even-g2-patched](https://github.com/cokeeffekt/even-g2-patched) | Patched Even app + frida-gadget routing G2 voice commands to a custom AI agent | 7 | 🟢 | JavaScript |
-| [even-g2-protocol (ithinkthisiscool)](https://github.com/ithinkthisiscool/even-g2-protocol) | Python implementation and protocol map of Even Realities G2 glasses | 7 | 🟢 | Python |
 | [PenumbraOS docs](https://github.com/PenumbraOS/docs) | Reverse engineering findings on the Humane Ai Pin | 7 | 🟡 |  |
 | [ai-pin-apk-environment](https://github.com/agg23/ai-pin-apk-environment) | Environment for reverse engineering Humane AI Pin APKs | 6 | 🟡 |  |
 | [rabbitude-backend](https://github.com/KibbeWater/rabbitude-backend) | Go reimplementation of the Rabbit R1 backend and API endpoints | 6 | 🟡 | Go |
@@ -77,68 +77,68 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 66,843 | 🟢 | Python |
-| [ChatGPT (revChatGPT)](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT web API client in Python (archived) | 27,918 | 🗄️ | Python |
-| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial NotebookLM Python API/CLI built on its undocumented internal RPC protocol | 19,727 | 🟢 | Python |
-| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat (Sydney) AI | 7,831 | 🗄️ | Python |
-| [grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Web, Grok Build and Grok Console | 7,810 | 🟢 | Go |
-| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | TypeScript replication of gpt4free reverse-engineered free GPT-4 provider API | 7,657 | 🟡 | TypeScript |
-| [chatgpt2api (basketikun)](https://github.com/basketikun/chatgpt2api) | Pure-protocol reverse implementation of ChatGPT web incl. GPT-Image-2, OpenAI-compatible | 6,619 | 🟢 | Python |
-| [openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) | OpenClaw using Claude/ChatGPT/Gemini/DeepSeek/Doubao web sessions, no API token | 5,204 | 🟢 | TypeScript |
+| [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 66,865 | 🟢 | Python |
+| [ChatGPT (revChatGPT)](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT web API client in Python (archived) | 27,925 | 🗄️ | Python |
+| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial NotebookLM Python API/CLI built on its undocumented internal RPC protocol | 19,744 | 🟢 | Python |
+| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat (Sydney) AI | 7,832 | 🗄️ | Python |
+| [grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Web, Grok Build and Grok Console | 7,817 | 🟢 | Go |
+| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | TypeScript replication of gpt4free reverse-engineered free GPT-4 provider API | 7,655 | 🟡 | TypeScript |
+| [chatgpt2api (basketikun)](https://github.com/basketikun/chatgpt2api) | Pure-protocol reverse implementation of ChatGPT web incl. GPT-Image-2, OpenAI-compatible | 6,629 | 🟢 | Python |
+| [openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) | OpenClaw using Claude/ChatGPT/Gemini/DeepSeek/Doubao web sessions, no API token | 5,203 | 🟢 | TypeScript |
 | [Bard-API](https://github.com/dsdanielpark/Bard-API) | Unofficial Python package returning Google Bard responses via cookie value | 5,163 | 🗄️ | Python |
 | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | Python client for the unofficial ChatGPT web API | 4,185 | 🟢 | Python |
-| [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | Node.js client for ChatGPT and Bing AI with reverse-engineered endpoints | 4,149 | 🟡 | JavaScript |
+| [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | Node.js client for ChatGPT and Bing AI with reverse-engineered endpoints | 4,150 | 🟡 | JavaScript |
 | [chat2api](https://github.com/lanqian528/chat2api) | Converts ChatGPT web into OpenAI API format | 3,836 | 🟡 | Python |
-| [Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | Reverse-engineered async Python API for the Google Gemini web app | 3,587 | 🟢 | Python |
-| [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) | Converts Google Gemini web into an OpenAI-compatible API | 3,436 | 🟢 | Python |
-| [FreeGPT35](https://github.com/missuo/FreeGPT35) | Free GPT-3.5 API from the login-free ChatGPT web | 3,214 | 🗄️ | JavaScript |
-| [aurora](https://github.com/aurora-develop/aurora) | Free ChatGPT API from the login-free ChatGPT web | 2,568 | 🟢 | Go |
-| [poe-api](https://github.com/ading2210/poe-api) | Reverse engineered Python API wrapper for Quora's Poe (unmaintained) | 2,461 | 🗄️ | Python |
-| [perplexity-ai](https://github.com/helallao/perplexity-ai) | Unofficial API wrapper for the Perplexity.ai web interface | 1,973 | 🟢 | Python |
-| [grok2api](https://github.com/jiujiu532/grok2api) | Grok web to OpenAI-compatible API proxy | 1,874 | 🟢 | Python |
+| [Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | Reverse-engineered async Python API for the Google Gemini web app | 3,592 | 🟢 | Python |
+| [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) | Converts Google Gemini web into an OpenAI-compatible API | 3,446 | 🟢 | Python |
+| [FreeGPT35](https://github.com/missuo/FreeGPT35) | Free GPT-3.5 API from the login-free ChatGPT web | 3,213 | 🗄️ | JavaScript |
+| [aurora](https://github.com/aurora-develop/aurora) | Free ChatGPT API from the login-free ChatGPT web | 2,567 | 🟢 | Go |
+| [poe-api](https://github.com/ading2210/poe-api) | Reverse engineered Python API wrapper for Quora's Poe (unmaintained) | 2,460 | 🗄️ | Python |
+| [perplexity-ai](https://github.com/helallao/perplexity-ai) | Unofficial API wrapper for the Perplexity.ai web interface | 1,975 | 🟢 | Python |
+| [grok2api](https://github.com/jiujiu532/grok2api) | Grok web to OpenAI-compatible API proxy | 1,872 | 🟢 | Python |
 | [ninja](https://github.com/0x676e67/ninja) | Reverse engineered ChatGPT web proxy (Rust) | 1,673 | 🗄️ | Rust |
-| [ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) | Self-hosted ChatGPT web mirror site | 1,405 | 🟢 | Vue |
+| [ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) | Self-hosted ChatGPT web mirror site | 1,404 | 🟢 | Vue |
 | [WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) | Exposes web chat UIs (Gemini, etc.) as an API | 1,392 | 🟢 | Python |
 | [Bard](https://github.com/acheong08/Bard) | Python SDK for reverse engineered Google Bard | 1,390 | 🗄️ | Python |
 | [pyChatGPT](https://github.com/terry3041/pyChatGPT) | Unofficial Python wrapper for ChatGPT web via browser session | 1,336 | 🗄️ | Python |
 | [clewdr](https://github.com/Xerxes-2/clewdr) | High-performance Claude.ai web and Claude Code reverse proxy (Rust) | 1,282 | 🟢 | Rust |
 | [PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) | Manages and refreshes PandoraNext ChatGPT web tokens to run a free OpenAI-style relay | 1,276 | 🗄️ | Java |
-| [Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | Reverse engineered Windows (Microsoft) Copilot into an OpenAI-compatible REST API | 1,253 | 🟢 | Python |
+| [Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | Reverse engineered Windows (Microsoft) Copilot into an OpenAI-compatible REST API | 1,254 | 🟢 | Python |
 | [bing-chat](https://github.com/transitive-bullshit/bing-chat) | Reverse-engineered Bing AI Chat Node.js client | 1,205 | 🗄️ | TypeScript |
-| [Proxima](https://github.com/Zen4-bit/Proxima) | MCP server driving ChatGPT, Claude, Gemini and Perplexity web sessions without API keys | 1,195 | 🟢 | JavaScript |
+| [Proxima](https://github.com/Zen4-bit/Proxima) | MCP server driving ChatGPT, Claude, Gemini and Perplexity web sessions without API keys | 1,196 | 🟢 | JavaScript |
 | [ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) | Go proxy turning the ChatGPT website into an OpenAI-compatible API | 1,138 | 🗄️ | Go |
-| [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) | Python API wrapper for Poe.com web giving access to GPT-4, Claude, Gemini and more | 1,091 | 🗄️ | Python |
+| [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) | Python API wrapper for Poe.com web giving access to GPT-4, Claude, Gemini and more | 1,090 | 🗄️ | Python |
 | [hugging-chat-api](https://github.com/Soulter/hugging-chat-api) | Unofficial Python API for HuggingChat web | 938 | 🗄️ | Python |
 | [free-one-api](https://github.com/RockChinQ/free-one-api) | Manages reverse-engineered LLM web APIs (ChatGPT, Bard, Claude, HuggingChat, Qwen) behind an OpenAI API | 921 | 🟢 | Rust |
-| [Claude-API](https://github.com/KoushikNavuluri/Claude-API) | Unofficial Python API for claude.ai web using session cookie | 914 | 🟡 | Python |
 | [Grok-Mirror](https://github.com/dairoot/Grok-Mirror) | Self-hosted Grok web mirror via reverse proxy | 914 | 🟢 | Shell |
-| [SydneyQt](https://github.com/juzeon/SydneyQt) | Desktop client for jailbroken Bing AI / Copilot (Sydney) via its reverse engineered API | 874 | 🟡 | Go |
-| [ds-free-api](https://github.com/NIyueeE/ds-free-api) | DeepSeek web API proxy with OpenAI and Anthropic compatible interfaces | 810 | 🟢 | Rust |
+| [Claude-API](https://github.com/KoushikNavuluri/Claude-API) | Unofficial Python API for claude.ai web using session cookie | 913 | 🟡 | Python |
+| [SydneyQt](https://github.com/juzeon/SydneyQt) | Desktop client for jailbroken Bing AI / Copilot (Sydney) via its reverse engineered API | 873 | 🟡 | Go |
+| [ds-free-api](https://github.com/NIyueeE/ds-free-api) | DeepSeek web API proxy with OpenAI and Anthropic compatible interfaces | 811 | 🟢 | Rust |
 | [claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) | Unofficial API client and CLI for Claude via the claude.ai web interface | 742 | 🔴 | JavaScript |
-| [chat2api](https://github.com/aurorax-neo/chat2api) | ChatGPT web to API converter | 717 | 🟢 | Go |
+| [chat2api](https://github.com/aurorax-neo/chat2api) | ChatGPT web to API converter | 718 | 🟢 | Go |
 | [Gemini-FastAPI](https://github.com/Nativu5/Gemini-FastAPI) | Web-based Gemini wrapped into an OpenAI-compatible API | 716 | 🟢 | Python |
 | [grok2api](https://github.com/TQZHR/grok2api) | Grok2API on Cloudflare Workers | 708 | 🟢 | Python |
 | [unofficial-chatgpt-api](https://github.com/taranjeet/unofficial-chatgpt-api) | Unofficial ChatGPT API via browser automation | 701 | 🔴 | Python |
-| [web2api](https://github.com/caiwuu/web2api) | Turns web AI chat interfaces (e.g. Claude) into APIs | 652 | 🟢 | Python |
-| [claude2api](https://github.com/yushangxiao/claude2api) | Turns Claude.ai web into an API with image recognition and file upload | 642 | 🟡 | Go |
+| [web2api](https://github.com/caiwuu/web2api) | Turns web AI chat interfaces (e.g. Claude) into APIs | 653 | 🟢 | Python |
+| [claude2api](https://github.com/yushangxiao/claude2api) | Turns Claude.ai web into an API with image recognition and file upload | 643 | 🟡 | Go |
+| [gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) | Self-hosted OpenAI-compatible API proxying Gemini web | 593 | 🟢 | Go |
 | [everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) | Documents the ChatGPT web app internals and its backend-api calls | 592 | 🔴 |  |
 | [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) | Reverse-engineered ChatGPT web to provide a React Native wrapper | 584 | 🔴 | TypeScript |
+| [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) | Reverse-engineered Gemini web app API usable as an OpenAI/Gemini/Claude API key | 581 | 🟢 | Go |
 | [grok2api_python](https://github.com/xLmiler/grok2api_python) | Python Grok web to OpenAI API proxy | 572 | 🟡 | HTML |
-| [M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) | Microsoft 365 Copilot exposed as an OpenAI/Anthropic-compatible API gateway | 565 | 🟢 | Go |
-| [gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) | Self-hosted OpenAI-compatible API proxying Gemini web | 559 | 🟢 | Go |
-| [gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) | Reverse-engineered Gemini web app API usable as an OpenAI/Gemini/Claude API key | 553 | 🟢 | Go |
-| [grok3-api](https://github.com/mem0ai/grok3-api) | Unofficial Python client for Grok 3 reverse-engineering grok.com browser requests | 543 | 🗄️ | Python |
+| [M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) | Microsoft 365 Copilot exposed as an OpenAI/Anthropic-compatible API gateway | 568 | 🟢 | Go |
 | [CharacterAI (kramcat)](https://github.com/kramcat/CharacterAI) | Unofficial Python API for character.ai using direct HTTP requests | 542 | 🟡 | Python |
+| [grok3-api](https://github.com/mem0ai/grok3-api) | Unofficial Python client for Grok 3 reverse-engineering grok.com browser requests | 541 | 🗄️ | Python |
 | [business2api](https://github.com/XxxXTeam/business2api) | OpenAI/Gemini-compatible proxy for the Gemini Business web API | 497 | 🟢 | Go |
 | [poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) | Exposes the reverse-engineered poe-api library as an OpenAI-compatible API | 455 | 🟡 | Go |
 | [GoogleBard](https://github.com/PawanOsman/GoogleBard) | Reverse engineered Google Bard API for Node.js | 418 | 🟡 | TypeScript |
 | [meta-ai-api](https://github.com/Strvm/meta-ai-api) | Reverse engineered Meta AI (Llama 3) web chat API | 408 | 🟡 | Python |
 | [codex-chatgpt-control](https://github.com/adamallcock/codex-chatgpt-control) | Unofficial SDK that lets agents drive logged-in ChatGPT web sessions | 405 | 🟢 | JavaScript |
 | [Gemi2Api-Server](https://github.com/zhiyu1998/Gemi2Api-Server) | Server built on the reverse-engineered Gemini-API web client | 405 | 🟢 | HTML |
-| [webchat2api](https://github.com/zqbxdev/webchat2api) | Self-hosted proxy unifying ChatGPT, Grok and Gemini web sessions into OpenAI API | 393 | 🟢 | Python |
+| [webchat2api](https://github.com/zqbxdev/webchat2api) | Self-hosted proxy unifying ChatGPT, Grok and Gemini web sessions into OpenAI API | 392 | 🟢 | Python |
 | [deepseek4free](https://github.com/xtekky/deepseek4free) | DeepSeek private web chat API with reversed proof-of-work challenge | 388 | 🟡 | Python |
 | [node_characterai](https://github.com/realcoloride/node_characterai) | Unofficial Character.AI wrapper for Node.js | 376 | 🟢 | JavaScript |
-| [llm4free](https://github.com/OEvortex/llm4free) | Python toolkit for free LLM web providers and search | 372 | 🟢 | Python |
+| [llm4free](https://github.com/OEvortex/llm4free) | Python toolkit for free LLM web providers and search | 375 | 🟢 | Python |
 | [MackingJAI](https://github.com/0ssamaak0/MackingJAI) | Exposes Apple Intelligence and ChatGPT desktop app through OpenAI / Ollama APIs | 355 | 🟡 | Python |
 | [FreeQwenApi](https://github.com/y13sint/FreeQwenApi) | Local API proxy for Qwen AI web chat with session management | 334 | 🟢 | JavaScript |
 | [Claude2-PyAPI](https://github.com/wwwzhouhui/Claude2-PyAPI) | Python API for Claude.ai web sessions, chat, attachments and history | 319 | 🟡 | Python |
@@ -146,13 +146,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Deepseek-API](https://github.com/sums001/Deepseek-API) | Reverse engineered DeepSeek chat into an OpenAI-compatible REST API | 311 | 🟢 | Python |
 | [Poe](https://github.com/vaibhavk97/Poe) | Reverse engineered API for Quora's Poe chatbot service | 304 | 🔴 | Python |
 | [reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt) | Unofficial reverse-engineered ChatGPT web API in Python | 293 | 🗄️ | Python |
-| [sydney.py](https://github.com/vsakkas/sydney.py) | Python client for Microsoft Copilot (Bing Chat / Sydney) web | 292 | 🗄️ | Python |
+| [sydney.py](https://github.com/vsakkas/sydney.py) | Python client for Microsoft Copilot (Bing Chat / Sydney) web | 291 | 🗄️ | Python |
 | [perplexityai](https://github.com/nathanrchn/perplexityai) | Python API for perplexity.ai web | 288 | 🟡 | Python |
-| [doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) | Reverse-engineered Doubao API as OpenAI-compatible REST service incl. image/video generation | 276 | 🟢 | Python |
-| [yuanbao-free-api](https://github.com/chenwr727/yuanbao-free-api) | Access Tencent Yuanbao web chat through an OpenAI-compatible interface | 275 | 🟢 | Python |
+| [doubao2api](https://github.com/wangchuxiaoji-oss/doubao2api) | Reverse-engineered Doubao API as OpenAI-compatible REST service incl. image/video generation | 278 | 🟢 | Python |
+| [yuanbao-free-api](https://github.com/chenwr727/yuanbao-free-api) | Access Tencent Yuanbao web chat through an OpenAI-compatible interface | 277 | 🟢 | Python |
 | [refresh-gpt-chat](https://github.com/Yanyutin753/refresh-gpt-chat) | Relay for ChatGPT web v1 APIs using refresh tokens as keys | 244 | 🟡 | Java |
 | [cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui) | C++ web UI and server using free reverse-engineered GPT providers | 236 | 🗄️ | C++ |
-| [notebooklm-client](https://github.com/icebear0828/notebooklm-client) | NotebookLM CLI/library via reverse-engineered Boq RPC, incl. audio podcasts | 227 | 🟢 | TypeScript |
+| [notebooklm-client](https://github.com/icebear0828/notebooklm-client) | NotebookLM CLI/library via reverse-engineered Boq RPC, incl. audio podcasts | 228 | 🟢 | TypeScript |
 | [doubao-free-api](https://github.com/Bitsea1/doubao-free-api) | Reverse-engineered ByteDance Doubao chat API with search and image generation | 222 | 🟢 | TypeScript |
 | [chat2api](https://github.com/xyhelper/chat2api) | ChatGPT web interface to API conversion gateway | 218 | 🗄️ | Go |
 | [bing-chat-sidebar-for-chrome](https://github.com/wong2/bing-chat-sidebar-for-chrome) | Edge's Bing AI sidebar reverse engineered for Chrome | 213 | 🟢 | JavaScript |
@@ -174,12 +174,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GPT_scraper](https://github.com/rodolflying/GPT_scraper) | Scrapes full ChatGPT user history through the hidden frontend backend API | 139 | 🔴 | Python |
 | [llm-web-api](https://github.com/adryfish/llm-web-api) | Converts the ChatGPT web page into an API | 137 | 🟡 |  |
 | [perplexity-webui-scraper](https://github.com/henrique-coder/perplexity-webui-scraper) | Python client, MCP server and REST API for Perplexity web UI | 136 | 🟢 | Python |
+| [claude2api](https://github.com/basketikun/claude2api) | Go Claude.ai web to API gateway with account pool and web mirror | 135 | 🟢 | Go |
 | [grok2api_new](https://github.com/Tomiya233/grok2api_new) | Grok web reverse proxy to OpenAI API with multi-account pooling | 135 | 🟢 | Python |
-| [claude2api](https://github.com/basketikun/claude2api) | Go Claude.ai web to API gateway with account pool and web mirror | 133 | 🟢 | Go |
 | [WebChatGPT](https://github.com/Simatwa/WebChatGPT) | Python SDK for the ChatGPT web version | 124 | 🟡 | Python |
 | [grok2api](https://github.com/VeroFess/grok2api) | Rewrite of Grok2API reverse proxy | 122 | 🟡 | Python |
+| [export-chatgpt](https://github.com/brianjlacy/export-chatgpt) | Exports all ChatGPT conversations via the web app's internal API | 121 | 🟢 | JavaScript |
 | [Claude_api](https://github.com/Nipun1212/Claude_api) | Unofficial Python API for the claude.ai web chat | 120 | 🟡 | Python |
-| [export-chatgpt](https://github.com/brianjlacy/export-chatgpt) | Exports all ChatGPT conversations via the web app's internal API | 120 | 🟢 | JavaScript |
 | [bard-ai](https://github.com/EvanZhouDev/bard-ai) | Reverse-engineered JavaScript client for the Google Bard web chat | 116 | 🔴 | JavaScript |
 | [gpt4free.js](https://github.com/zachey01/gpt4free.js) | JavaScript port of gpt4free reverse-engineered providers | 115 | 🟡 | JavaScript |
 | [poe](https://github.com/muharamdani/poe) | Reverse engineered API for Quora Poe | 115 | 🗄️ | TypeScript |
@@ -221,7 +221,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [cto](https://github.com/Luotianyi-0712/cto) | Proxies cto.new chat into OpenAI ChatCompletion format | 57 | 🟢 | TypeScript |
 | [Gemini-1.5-Pro AI Studio Reverse Engineered API](https://github.com/SreejanPersonal/Gemini-1.5-Pro-Google-AI-Studio-Reverse-Engineered-API) | Reverse engineered Google AI Studio endpoint for Gemini 1.5 Pro | 57 | 🟡 | Jupyter Notebook |
 | [geminiweb2api](https://github.com/XxxXTeam/geminiweb2api) | OpenAI-compatible proxy for the Gemini web app | 55 | 🟢 | HTML |
-| [LlM-Api-Open](https://github.com/F33RNI/LlM-Api-Open) | Unofficial open APIs for ChatGPT and Microsoft Copilot with self-hosting | 44 | 🟡 | Python |
+| [LlM-Api-Open](https://github.com/F33RNI/LlM-Api-Open) | Unofficial open APIs for ChatGPT and Microsoft Copilot with self-hosting | 43 | 🟡 | Python |
 | [pi-oracle](https://github.com/fitchmultz/pi-oracle) | ChatGPT and Grok web-session oracle extension for the Pi agent | 40 | 🟢 | TypeScript |
 | [claude-ai-re-client](https://github.com/Adithyan-Defender/claude-ai-re-client) | CLI client built on Claude.ai's reverse-engineered HTTPS completion API | 39 | 🟢 | Python |
 | [Gemini-Chat-API](https://github.com/OEvortex/Gemini-Chat-API) | Unofficial API for interacting with Google Gemini web chat | 38 | 🟢 | Python |
@@ -275,15 +275,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Chat2API](https://github.com/xiaoY233/Chat2API) | Zero-cost access to GLM, Kimi, Qwen and other models via their official web UIs | 1,703 | 🟢 | TypeScript |
-| [qwen2API](https://github.com/YuJunZhiXue/qwen2API) | Converts the Qwen web chat into an API | 965 | 🟢 | Go |
-| [Qwen2API](https://github.com/Rfym21/Qwen2API) | QwenLM web chat to OpenAI-compatible API | 836 | 🟢 | JavaScript |
-| [deepseek2api](https://github.com/iidamie/deepseek2api) | DeepSeek web reverse API | 633 | 🗄️ | Python |
+| [Chat2API](https://github.com/xiaoY233/Chat2API) | Zero-cost access to GLM, Kimi, Qwen and other models via their official web UIs | 1,706 | 🟢 | TypeScript |
+| [qwen2API](https://github.com/YuJunZhiXue/qwen2API) | Converts the Qwen web chat into an API | 967 | 🟢 | Go |
+| [Qwen2API](https://github.com/Rfym21/Qwen2API) | QwenLM web chat to OpenAI-compatible API | 838 | 🟢 | JavaScript |
+| [deepseek2api](https://github.com/iidamie/deepseek2api) | DeepSeek web reverse API | 635 | 🗄️ | Python |
 | [DeeperSeek](https://github.com/theAbdoSabbagh/DeeperSeek) | Unofficial Python wrapper for the DeepSeek web chat | 312 | 🟡 | Python |
 | [deepseek-free-api](https://github.com/Fly143/deepseek-free-api) | Converts chat.deepseek.com web chat into OpenAI and Anthropic compatible APIs | 311 | 🟢 | Python |
-| [doubao-2api](https://github.com/lza6/doubao-2api) | Doubao web to API with Playwright a_bogus signature reversing | 288 | 🟢 | Python |
-| [kimi2api](https://github.com/chopper1026/kimi2api) | Kimi web chat reverse proxy with OpenAI-compatible interface | 247 | 🟢 | Python |
-| [deepseek-web2api-free](https://github.com/snake-aabb-wtf/deepseek-web2api-free) | FastAPI reverse proxy turning DeepSeek web chat into OpenAI-compatible API | 176 | 🟢 | Python |
+| [doubao-2api](https://github.com/lza6/doubao-2api) | Doubao web to API with Playwright a_bogus signature reversing | 289 | 🟢 | Python |
+| [kimi2api](https://github.com/chopper1026/kimi2api) | Kimi web chat reverse proxy with OpenAI-compatible interface | 248 | 🟢 | Python |
+| [deepseek-web2api-free](https://github.com/snake-aabb-wtf/deepseek-web2api-free) | FastAPI reverse proxy turning DeepSeek web chat into OpenAI-compatible API | 178 | 🟢 | Python |
 | [2025doubao-free-api](https://github.com/1994qrq/2025doubao-free-api) | Doubao web reverse API | 170 | 🟢 | TypeScript |
 | [qwen2api](https://github.com/smanx/qwen2api) | Proxy converting Qwen Chat to an OpenAI-compatible API | 168 | 🟢 | JavaScript |
 | [Z.ai2api](https://github.com/hmjz100/Z.ai2api) | Proxies Z.ai (GLM) chat into OpenAI/Anthropic-compatible format without tokens | 153 | 🗄️ | Python |
@@ -297,7 +297,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [DoubaoFreeApi](https://github.com/XilyFeAAAA/DoubaoFreeApi) | Lightweight Doubao web API proxy | 90 | 🗄️ | Python |
 | [qwen-api](https://github.com/encryptarun/qwen-api) | Qwen web API proxy with OpenAI-compatible chat, image and video endpoints | 89 | 🟢 |  |
 | [deepseek-api](https://github.com/rabilrbl/deepseek-api) | Unofficial API wrapper for chat.deepseek.com | 81 | 🗄️ | Python |
-| [revTongYi](https://github.com/leeeduke/revTongYi) | Reverse engineered Python API for Alibaba Tongyi Qianwen and Wanxiang | 72 | 🟢 | Python |
+| [revTongYi](https://github.com/leeeduke/revTongYi) | Reverse engineered Python API for Alibaba Tongyi Qianwen and Wanxiang | 73 | 🟢 | Python |
 | [kimi2api](https://github.com/XxxXTeam/kimi2api) | Kimi web to API proxy | 63 | 🟢 | Python |
 | [Kimi-Free-API](https://github.com/xiaoY233/Kimi-Free-API) | Kimi web reverse API (successor to LLM-Red-Team kimi-free-api) | 61 | 🟢 | TypeScript |
 | [Qwen-Free-API](https://github.com/xiaoY233/Qwen-Free-API) | Qwen web reverse API (successor to LLM-Red-Team qwen-free-api) | 53 | 🟢 | TypeScript |
@@ -312,8 +312,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [qwen-free-api-worker](https://github.com/aigem/qwen-free-api-worker) | Cloudflare Worker exposing chat.qwenlm.ai as an OpenAI-compatible API | 28 | 🟡 | JavaScript |
 | [zai-openai-proxy](https://github.com/xaoLiu1222/zai-openai-proxy) | chat.z.ai reverse-engineered OpenAI-compatible proxy with thinking and tools | 27 | 🟢 | JavaScript |
 | [qwen-api](https://github.com/arosyihuddin/qwen-api) | Unofficial Python client for the Qwen chat web API | 25 | 🟡 | Python |
+| [doubao2api (SeiShonagon520)](https://github.com/SeiShonagon520/doubao2api) | OpenAI-compatible service rebuilt on the latest Doubao web client | 22 | 🟢 | Python |
 | [deepseek-free-api](https://github.com/Ametist298/deepseek-free-api) | OpenAI-compatible free API via DeepSeek web | 21 | 🟢 | JavaScript |
-| [doubao2api (SeiShonagon520)](https://github.com/SeiShonagon520/doubao2api) | OpenAI-compatible service rebuilt on the latest Doubao web client | 21 | 🟢 | Python |
 | [minimax2api (juangchuank-ops)](https://github.com/juangchuank-ops/minimax2api) | MiniMax Agent reverse gateway with OpenAI-compatible API | 21 | 🟢 | Go |
 | [qwen_free_api](https://github.com/Staks-sor/qwen_free_api) | Python client for Qwen web through an OpenAI-compatible API | 20 | 🟢 | Python |
 | [deepseek-api (smkttl)](https://github.com/smkttl/deepseek-api) | Unofficial DeepSeek API by reverse-engineering its web interface | 17 | 🟢 | Shell |
@@ -331,48 +331,48 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [claw-code](https://github.com/ultraworkers/claw-code) | Clean-room Rust/Python rewrite of the Claude Code agent harness after the source leak | 194,890 | 🟢 | Rust |
-| [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wraps Codex, Claude Code, Antigravity, Grok and Gemini CLI OAuth backends as OpenAI/Claude-compatible APIs | 55,181 | 🟢 | Go |
-| [sub2api](https://github.com/Wei-Shaw/sub2api) | Relay that exposes Claude, OpenAI, Gemini and Grok subscriptions as unified APIs | 43,986 | 🟢 | Go |
-| [claude-code-router](https://github.com/musistudio/claude-code-router) | Proxy that routes Claude Code's Anthropic API traffic to other model providers | 37,669 | 🟢 | TypeScript |
-| [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Antigravity account manager with local OpenAI/Anthropic/Gemini proxy | 32,203 | 🟢 | Rust |
-| [claude-code-best](https://github.com/claude-code-best/claude-code) | Reverse-engineered rebuild of the Anthropic Claude Code CLI as an open terminal coding assistant | 22,905 | 🟢 | TypeScript |
-| [opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | OpenCode plugin authenticating against Antigravity to use its Gemini/Claude quota | 10,938 | 🗄️ | TypeScript |
-| [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) | Claude Code 2.1.88 TypeScript source restored from sourcesContent in the leaked cli.js.map | 9,704 | 🟢 | TypeScript |
-| [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Multi-protocol proxy for Antigravity, Codex, Grok, Kiro and Claude client backends | 8,877 | 🟢 | JavaScript |
-| [gcli2api](https://github.com/su-kaka/gcli2api) | Converts Gemini CLI and Antigravity credentials into OpenAI, Gemini and Claude APIs | 5,250 | 🟢 | Python |
-| [antigravity-proxy (yuaotian)](https://github.com/yuaotian/antigravity-proxy) | DLL-injection proxy forcer for Google Antigravity IDE without TUN mode | 4,479 | 🟢 | C++ |
+| [claw-code](https://github.com/ultraworkers/claw-code) | Clean-room Rust/Python rewrite of the Claude Code agent harness after the source leak | 194,910 | 🟢 | Rust |
+| [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wraps Codex, Claude Code, Antigravity, Grok and Gemini CLI OAuth backends as OpenAI/Claude-compatible APIs | 55,306 | 🟢 | Go |
+| [sub2api](https://github.com/Wei-Shaw/sub2api) | Relay that exposes Claude, OpenAI, Gemini and Grok subscriptions as unified APIs | 44,090 | 🟢 | Go |
+| [claude-code-router](https://github.com/musistudio/claude-code-router) | Proxy that routes Claude Code's Anthropic API traffic to other model providers | 37,687 | 🟢 | TypeScript |
+| [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Antigravity account manager with local OpenAI/Anthropic/Gemini proxy | 32,242 | 🟢 | Rust |
+| [claude-code-best](https://github.com/claude-code-best/claude-code) | Reverse-engineered rebuild of the Anthropic Claude Code CLI as an open terminal coding assistant | 22,916 | 🟢 | TypeScript |
+| [opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) | OpenCode plugin authenticating against Antigravity to use its Gemini/Claude quota | 10,939 | 🗄️ | TypeScript |
+| [claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) | Claude Code 2.1.88 TypeScript source restored from sourcesContent in the leaked cli.js.map | 9,708 | 🟢 | TypeScript |
+| [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Multi-protocol proxy for Antigravity, Codex, Grok, Kiro and Claude client backends | 8,882 | 🟢 | JavaScript |
+| [gcli2api](https://github.com/su-kaka/gcli2api) | Converts Gemini CLI and Antigravity credentials into OpenAI, Gemini and Claude APIs | 5,252 | 🟢 | Python |
+| [antigravity-proxy (yuaotian)](https://github.com/yuaotian/antigravity-proxy) | DLL-injection proxy forcer for Google Antigravity IDE without TUN mode | 4,490 | 🟢 | C++ |
 | [copilot-api](https://github.com/ericc-ch/copilot-api) | Reverse-engineered GitHub Copilot API exposed as OpenAI- and Anthropic-compatible proxy (works with Claude Code) | 4,147 | 🟢 | TypeScript |
-| [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) | Anthropic-compatible proxy for Claude/Gemini models through Antigravity's Cloud Code | 4,006 | 🟢 | JavaScript |
-| [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) | Unofficial Linux build of OpenAI's Codex/ChatGPT desktop app from the macOS bundle | 3,895 | 🟢 | JavaScript |
-| [claude-code-proxy](https://github.com/1rgs/claude-code-proxy) | Run Claude Code on OpenAI models by translating its API traffic | 3,756 | 🟢 | Python |
-| [how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | Deep dive into Claude Code internals: agent loop, context engineering, tools | 3,732 | 🟢 |  |
-| [vibeproxy](https://github.com/automazeio/vibeproxy) | macOS menu bar proxy reusing Claude Code and ChatGPT subscription OAuth for other AI tools | 3,385 | 🟢 | Swift |
-| [claude-tap](https://github.com/liaohch3/claude-tap) | Intercepts and inspects API traffic of Claude Code, Codex CLI, Gemini CLI, Cursor CLI and other agents | 3,283 | 🟢 | Python |
-| [WindsurfAPI](https://github.com/dwgx/WindsurfAPI) | Reverse-engineered Windsurf/Devin Desktop model access exposed as OpenAI/Anthropic/Gemini-compatible API | 3,082 | 🟢 | JavaScript |
-| [claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) | Architecture, patterns and internals of Claude Code reverse engineered from source maps | 2,958 | 🟢 | TypeScript |
+| [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) | Anthropic-compatible proxy for Claude/Gemini models through Antigravity's Cloud Code | 4,007 | 🟢 | JavaScript |
+| [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) | Unofficial Linux build of OpenAI's Codex/ChatGPT desktop app from the macOS bundle | 3,893 | 🟢 | JavaScript |
+| [claude-code-proxy](https://github.com/1rgs/claude-code-proxy) | Run Claude Code on OpenAI models by translating its API traffic | 3,758 | 🟢 | Python |
+| [how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | Deep dive into Claude Code internals: agent loop, context engineering, tools | 3,738 | 🟢 |  |
+| [vibeproxy](https://github.com/automazeio/vibeproxy) | macOS menu bar proxy reusing Claude Code and ChatGPT subscription OAuth for other AI tools | 3,384 | 🟢 | Swift |
+| [claude-tap](https://github.com/liaohch3/claude-tap) | Intercepts and inspects API traffic of Claude Code, Codex CLI, Gemini CLI, Cursor CLI and other agents | 3,284 | 🟢 | Python |
+| [WindsurfAPI](https://github.com/dwgx/WindsurfAPI) | Reverse-engineered Windsurf/Devin Desktop model access exposed as OpenAI/Anthropic/Gemini-compatible API | 3,088 | 🟢 | JavaScript |
+| [claude-code-from-source](https://github.com/alejandrobalderas/claude-code-from-source) | Architecture, patterns and internals of Claude Code reverse engineered from source maps | 2,960 | 🟢 | TypeScript |
 | [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | Claude Code to OpenAI API translation proxy | 2,799 | 🟢 | Python |
-| [tweakcc](https://github.com/Piebald-AI/tweakcc) | Patches Claude Code's minified cli.js to customize system prompts, toolsets, themes and UI | 2,544 | 🟢 | TypeScript |
+| [tweakcc](https://github.com/Piebald-AI/tweakcc) | Patches Claude Code's minified cli.js to customize system prompts, toolsets, themes and UI | 2,546 | 🟢 | TypeScript |
 | [claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) | Uses LLMs to analyze minified Claude Code and visualize its LLM interactions and prompts | 2,439 | 🟡 | JavaScript |
-| [AntigravityManager](https://github.com/Draculabo/AntigravityManager) | Electron app managing accounts and processes for Google Antigravity | 2,378 | 🟢 | TypeScript |
-| [claude_code_src](https://github.com/ponponon/claude_code_src) | Claude Code source restored from the sourcesContent of the leaked 2.1.88 source map | 2,334 | 🟢 | TypeScript |
+| [AntigravityManager](https://github.com/Draculabo/AntigravityManager) | Electron app managing accounts and processes for Google Antigravity | 2,381 | 🟢 | TypeScript |
+| [claude_code_src](https://github.com/ponponon/claude_code_src) | Claude Code source restored from the sourcesContent of the leaked 2.1.88 source map | 2,333 | 🟢 | TypeScript |
 | [copilot.el](https://github.com/copilot-emacs/copilot.el) | Unofficial GitHub Copilot plugin for Emacs | 2,332 | 🟢 | Emacs Lisp |
-| [kiro-gateway](https://github.com/jwadow/kiro-gateway) | Proxy gateway for Kiro IDE & CLI (Amazon Q Developer) exposing OpenAI/Anthropic-compatible APIs | 2,318 | 🟢 | Python |
-| [codex2api (james-6-23)](https://github.com/james-6-23/codex2api) | Go Codex reverse proxy with admin dashboard | 2,282 | 🟢 | Go |
+| [kiro-gateway](https://github.com/jwadow/kiro-gateway) | Proxy gateway for Kiro IDE & CLI (Amazon Q Developer) exposing OpenAI/Anthropic-compatible APIs | 2,323 | 🟢 | Python |
+| [codex2api (james-6-23)](https://github.com/james-6-23/codex2api) | Go Codex reverse proxy with admin dashboard | 2,286 | 🟢 | Go |
 | [opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) | OpenCode plugin using ChatGPT Plus/Pro OAuth via Codex backend | 2,213 | 🟢 | TypeScript |
-| [meridian](https://github.com/rynfar/meridian) | Local API bridge that lets Pi, OpenCode and other clients use Claude and Antigravity subscriptions | 2,118 | 🟢 | TypeScript |
-| [kiro.rs](https://github.com/hank9999/kiro.rs) | Rust service translating the Kiro backend API to Anthropic format with token refresh | 1,944 | 🟢 | Rust |
+| [meridian](https://github.com/rynfar/meridian) | Local API bridge that lets Pi, OpenCode and other clients use Claude and Antigravity subscriptions | 2,120 | 🟢 | TypeScript |
+| [kiro.rs](https://github.com/hank9999/kiro.rs) | Rust service translating the Kiro backend API to Anthropic format with token refresh | 1,946 | 🟢 | Rust |
 | [cursor2api (7836246)](https://github.com/7836246/cursor2api) | Proxy converting Cursor's web docs API into OpenAI/Anthropic-compatible format | 1,891 | 🗄️ | TypeScript |
-| [ChatMock](https://github.com/RayBytes/ChatMock) | OpenAI-compatible API served from a ChatGPT subscription via Codex auth | 1,557 | 🟢 | Python |
-| [cursor-reset](https://github.com/ultrasev/cursor-reset) | Resets Cursor's device identification to work around trial restrictions | 1,513 | 🟡 | Python |
-| [openai-oauth](https://github.com/EvanZhouDev/openai-oauth) | Local proxy that reuses Codex CLI ChatGPT OAuth tokens as an OpenAI-compatible API | 1,401 | 🟢 | TypeScript |
-| [Kiro-Go](https://github.com/Quorinex/Kiro-Go) | Converts Kiro accounts into OpenAI/Anthropic APIs with pooling and streaming | 1,177 | 🟢 | Go |
+| [ChatMock](https://github.com/RayBytes/ChatMock) | OpenAI-compatible API served from a ChatGPT subscription via Codex auth | 1,558 | 🟢 | Python |
+| [cursor-reset](https://github.com/ultrasev/cursor-reset) | Resets Cursor's device identification to work around trial restrictions | 1,514 | 🟡 | Python |
+| [openai-oauth](https://github.com/EvanZhouDev/openai-oauth) | Local proxy that reuses Codex CLI ChatGPT OAuth tokens as an OpenAI-compatible API | 1,403 | 🟢 | TypeScript |
+| [Kiro-Go](https://github.com/Quorinex/Kiro-Go) | Converts Kiro accounts into OpenAI/Anthropic APIs with pooling and streaming | 1,178 | 🟢 | Go |
 | [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) | Claude.ai's generative UI widgets reverse engineered and rebuilt for the pi agent | 1,163 | 🟢 | TypeScript |
-| [copilot-api](https://github.com/caozhiyuan/copilot-api) | GitHub Copilot and Codex gateway exposing OpenAI/Anthropic-compatible APIs | 1,081 | 🟢 | TypeScript |
-| [cursor2api-go](https://github.com/Xchat1/cursor2api-go) | Go proxy that converts Cursor's internal chat API into an OpenAI-compatible endpoint | 1,052 | 🟢 | JavaScript |
+| [copilot-api](https://github.com/caozhiyuan/copilot-api) | GitHub Copilot and Codex gateway exposing OpenAI/Anthropic-compatible APIs | 1,082 | 🟢 | TypeScript |
+| [cursor2api-go](https://github.com/Xchat1/cursor2api-go) | Go proxy that converts Cursor's internal chat API into an OpenAI-compatible endpoint | 1,051 | 🟢 | JavaScript |
 | [claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) | Cleanroom deobfuscation of the Claude Code npm package cli.js into readable source | 991 | 🗄️ | TypeScript |
+| [agent2api](https://github.com/aimod-cc/agent2api) | Local gateway reusing desktop AI coding clients' login state (WorkBuddy, CatPaw…) | 964 | 🟢 | Rust |
 | [gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) | Cloudflare Worker exposing Gemini CLI endpoints as an OpenAI API | 895 | 🟢 | TypeScript |
-| [agent2api](https://github.com/aimod-cc/agent2api) | Local gateway reusing desktop AI coding clients' login state (WorkBuddy, CatPaw…) | 870 | 🟢 | Rust |
 | [antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) | Node.js proxy translating Google Antigravity's API into OpenAI format | 815 | 🟢 | JavaScript |
 | [claude-code-source](https://github.com/hangsman/claude-code-source) | Claude Code v2.1.88 TypeScript source recovered from the leaked npm source map | 797 | 🟢 | TypeScript |
 | [HitCC](https://github.com/hitmux/HitCC) | Reverse-engineering documentation of the full logic of the Claude Code CLI Node.js version | 747 | 🟢 | Python |
@@ -380,86 +380,86 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) | Reverse engineers the Copilot VS Code extension JS bundle: module graph, prompt building, inline completion | 705 | 🔴 | JavaScript |
 | [cursor-api (wisdgod)](https://github.com/wisdgod/cursor-api) | Reverse-engineered Cursor API turned into an OpenAI-compatible service | 692 | 🗄️ | Rust |
 | [claude-desktop-extra](https://github.com/patrickjaja/claude-desktop-extra) | Patched Claude Desktop builds for Arch/Fedora/NixOS/AppImage with Computer Use and extras | 674 | 🟢 | JavaScript |
-| [zerogravity](https://github.com/NikkeTryHard/zerogravity) | Proxy disguising requests as Antigravity traffic for OpenAI/Anthropic/Gemini APIs | 652 | 🟢 | Dockerfile |
+| [zerogravity](https://github.com/NikkeTryHard/zerogravity) | Proxy disguising requests as Antigravity traffic for OpenAI/Anthropic/Gemini APIs | 651 | 🟢 | Dockerfile |
 | [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) | HTTP/2 proxy that lets Cursor Composer talk to DeepSeek and other OpenAI-style backends | 647 | 🟢 | Go |
-| [kiro2api](https://github.com/caidaoli/kiro2api) | Go gateway converting Kiro (CodeWhisperer) auth into Anthropic/OpenAI APIs | 636 | 🟢 | Go |
-| [CometixCode](https://github.com/Haleclipse/CometixCode) | Unofficial Rust reimplementation of the Claude Code terminal UI | 614 | 🟢 | Rust |
-| [geminicli2api](https://github.com/gzzhongqi/geminicli2api) | FastAPI proxy turning Gemini CLI OAuth into OpenAI and Gemini API endpoints | 589 | 🟢 | Python |
-| [open-claude-code](https://github.com/ruvnet/open-claude-code) | Nightly Claude Code CLI decompile, reverse engineered and rebuilt as an open clean-room implementation | 531 | 🟢 | JavaScript |
-| [anti-api](https://github.com/silasxbt/anti-api) | Turns Antigravity, Codex and Copilot into Anthropic/OpenAI-compatible servers | 520 | 🟢 | TypeScript |
-| [openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) | Proxy that makes third-party requests look like Claude Code to use subscription billing | 518 | 🟢 | JavaScript |
+| [kiro2api](https://github.com/caidaoli/kiro2api) | Go gateway converting Kiro (CodeWhisperer) auth into Anthropic/OpenAI APIs | 637 | 🟢 | Go |
+| [CometixCode](https://github.com/Haleclipse/CometixCode) | Unofficial Rust reimplementation of the Claude Code terminal UI | 622 | 🟢 | Rust |
+| [geminicli2api](https://github.com/gzzhongqi/geminicli2api) | FastAPI proxy turning Gemini CLI OAuth into OpenAI and Gemini API endpoints | 590 | 🟢 | Python |
+| [open-claude-code](https://github.com/ruvnet/open-claude-code) | Nightly Claude Code CLI decompile, reverse engineered and rebuilt as an open clean-room implementation | 535 | 🟢 | JavaScript |
+| [openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) | Proxy that makes third-party requests look like Claude Code to use subscription billing | 519 | 🟢 | JavaScript |
+| [anti-api](https://github.com/silasxbt/anti-api) | Turns Antigravity, Codex and Copilot into Anthropic/OpenAI-compatible servers | 518 | 🟢 | TypeScript |
 | [claude-code-proxy](https://github.com/seifghazi/claude-code-proxy) | Proxy that captures and visualizes in-flight Claude Code requests | 510 | 🟢 | TypeScript |
-| [Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) | Local proxy bridge for the Antigravity IDE language server | 430 | 🟢 | Rust |
+| [Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) | Local proxy bridge for the Antigravity IDE language server | 431 | 🟢 | Rust |
 | [claude-cowork-linux](https://github.com/johnzfitch/claude-cowork-linux) | Runs Claude Desktop's Cowork mode natively on Linux | 423 | 🟢 | JavaScript |
-| [KiroGate](https://github.com/aliom-v/KiroGate) | OpenAI and Anthropic compatible Kiro IDE API proxy gateway | 421 | 🗄️ | Python |
-| [anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) | Converts Claude Code's Anthropic requests to OpenAI format for OpenRouter | 413 | 🗄️ | JavaScript |
+| [KiroGate](https://github.com/aliom-v/KiroGate) | OpenAI and Anthropic compatible Kiro IDE API proxy gateway | 422 | 🗄️ | Python |
+| [anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) | Converts Claude Code's Anthropic requests to OpenAI format for OpenRouter | 414 | 🗄️ | JavaScript |
 | [KiroProxy](https://github.com/xu-yuanhao/KiroProxy) | Compatibility and routing layer exposing Kiro IDE models as standard APIs | 393 | 🟢 | Python |
 | [kiro2cc](https://github.com/bestK/kiro2cc) | Kiro token manager and proxy that lets Claude Code use the Kiro backend | 367 | 🟡 | Go |
 | [fast-context-mcp](https://github.com/SammySnake-d/fast-context-mcp) | Semantic code search MCP tool powered by Windsurf's reverse-engineered SWE-grep protocol | 362 | 🟢 | JavaScript |
 | [ccproxy](https://github.com/starbaser/ccproxy) | Intercepting proxy to hook and rewrite Claude Code requests and responses | 354 | 🟢 | Python |
-| [composer-api](https://github.com/standardagents/composer-api) | OpenAI-compatible API proxy for Cursor's Composer model | 345 | 🟢 | Swift |
+| [composer-api](https://github.com/standardagents/composer-api) | OpenAI-compatible API proxy for Cursor's Composer model | 346 | 🟢 | Swift |
 | [claude-code (T-Lab-CUHKSZ)](https://github.com/T-Lab-CUHKSZ/claude-code) | Buildable research fork of leaked Claude Code source with a reverse-engineered Bun build system | 329 | 🟢 | TypeScript |
 | [copilot-api](https://github.com/B00TK1D/copilot-api) | Reverse-engineered GitHub Copilot API client and server | 322 | 🟡 | Python |
-| [api2cursor](https://github.com/h88782481/api2cursor) | Adapter that lets Cursor Pro use third-party relay APIs by rewriting its requests | 300 | 🟢 | Python |
+| [api2cursor](https://github.com/h88782481/api2cursor) | Adapter that lets Cursor Pro use third-party relay APIs by rewriting its requests | 299 | 🟢 | Python |
 | [claude-code-reverse](https://github.com/ghboke/claude-code-reverse) | Source analysis report of Claude Code from its bundled CLI | 288 | 🟢 | TypeScript |
-| [cursor-api-proxy](https://github.com/anyrobert/cursor-api-proxy) | OpenAI-style API proxy that drives Cursor's `agent` CLI | 278 | 🟢 | TypeScript |
+| [cursor-api-proxy](https://github.com/anyrobert/cursor-api-proxy) | OpenAI-style API proxy that drives Cursor's `agent` CLI | 280 | 🟢 | TypeScript |
 | [claude-worker-proxy](https://github.com/glidea/claude-worker-proxy) | Cloudflare Worker proxy translating Claude Code's Anthropic requests to other providers | 276 | 🟢 | TypeScript |
 | [ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) | Local reverse proxy reusing Claude Code and Codex subscriptions as APIs | 275 | 🟢 | Python |
 | [cursor-api](https://github.com/zhx47/cursor-api) | Reverse-engineered Cursor API converted to an OpenAI-compatible service | 269 | 🟡 | JavaScript |
 | [cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) | Reverse engineered Cursor Tab completion API brought to Neovim | 268 | 🗄️ | Go |
 | [ProxyPilot](https://github.com/Finesssee/ProxyPilot) | Local API proxy that routes AI coding tools through existing subscriptions, with CLI control | 260 | 🟢 | Go |
+| [cli2api](https://github.com/caigee-cmd/cli2api) | OpenAI-compatible API from Qoder CLI and WorkBuddy logins | 255 | 🟢 | Go |
 | [background-computer-use](https://github.com/actuallyepic/background-computer-use) | Reverse-engineered OpenAI Codex background computer-use feature | 251 | 🟢 | Swift |
-| [cli2api](https://github.com/caigee-cmd/cli2api) | OpenAI-compatible API from Qoder CLI and WorkBuddy logins | 251 | 🟢 | Go |
 | [cocopilot2gpt](https://github.com/ljnchn/cocopilot2gpt) | Converts a GitHub Copilot subscription into a ChatGPT-style API | 247 | 🟡 |  |
-| [openusage](https://github.com/janekbaraniewski/openusage) | Usage tracker for AI coding tools, with a probe that reverse engineers Cursor IDE data sources | 224 | 🟢 | Go |
+| [openusage](https://github.com/janekbaraniewski/openusage) | Usage tracker for AI coding tools, with a probe that reverse engineers Cursor IDE data sources | 225 | 🟢 | Go |
 | [claude-code-source-analysis (catyans)](https://github.com/catyans/claude-code-source-analysis) | Module-by-module analysis of the leaked Claude Code TypeScript source | 218 | 🟢 |  |
-| [qoder-proxy](https://github.com/avaritiachaos/qoder-proxy) | Local OpenAI-compatible proxy for Qoder CN CLI | 211 | 🟢 | JavaScript |
+| [qoder-proxy](https://github.com/avaritiachaos/qoder-proxy) | Local OpenAI-compatible proxy for Qoder CN CLI | 212 | 🟢 | JavaScript |
 | [Antigravity2Api](https://github.com/znlsl/Antigravity2Api) | Proxies Antigravity into Claude and Gemini APIs with thought-signature handling | 209 | 🟢 | JavaScript |
 | [ungate](https://github.com/orchidfiles/ungate) | Use Claude and ChatGPT subscriptions inside Cursor instead of paid API tokens | 208 | 🟢 | TypeScript |
 | [open-claude-code (xtherk)](https://github.com/xtherk/open-claude-code) | Claude Code 2.1.88 source recovered from sourcemaps and build-fixed as a research reference | 207 | 🟢 | TypeScript |
+| [kiro2cc-proxy](https://github.com/TsinHzl/kiro2cc-proxy) | Kiro reverse proxy for Claude Code and Codex with SSE streaming | 196 | 🟢 | Rust |
+| [pi-black](https://github.com/paoloanzn/pi-black) | Use a Claude Max/Pro subscription inside the Pi coding agent | 193 | 🟢 | TypeScript |
 | [augment2api](https://github.com/linqiu919/augment2api) | Middle layer that exposes Augment Code's API as OpenAI-compatible | 192 | 🟡 | Go |
-| [kiro2cc-proxy](https://github.com/TsinHzl/kiro2cc-proxy) | Kiro reverse proxy for Claude Code and Codex with SSE streaming | 192 | 🟢 | Rust |
-| [pi-black](https://github.com/paoloanzn/pi-black) | Use a Claude Max/Pro subscription inside the Pi coding agent | 192 | 🟢 | TypeScript |
 | [claude-code-analysis](https://github.com/ComeOnOliver/claude-code-analysis) | Reverse engineering analysis of Claude Code's internal architecture | 188 | 🟢 | TypeScript |
 | [cursor-unchained](https://github.com/dcrebbin/cursor-unchained) | Reverse-engineered Cursor's AI tab completion to use in other editors | 179 | 🟢 | TypeScript |
 | [CAS](https://github.com/codingagentsystem/cas) | Orchestrator built by reverse engineering Claude Code internals | 176 | 🟢 | Rust |
 | [trae-api](https://github.com/A-23187/trae-api) | Exposes Trae IDE's builtin models through an OpenAI-compatible API | 175 | 🟢 | Python |
-| [claude-code-research](https://github.com/cablate/claude-code-research) | Independent research on Claude Code and Claude Agent SDK internals | 173 | 🟢 | HTML |
+| [claude-code-research](https://github.com/cablate/claude-code-research) | Independent research on Claude Code and Claude Agent SDK internals | 174 | 🟢 | HTML |
+| [qoder2api-hub](https://github.com/shuishuipingan/qoder2api-hub) | Qoder gateway reimplementing COSY request signing and device fingerprint | 171 | 🟢 | Python |
 | [claude-cowork-service](https://github.com/patrickjaja/claude-cowork-service) | Linux daemon reimplementing Claude Desktop Cowork's reverse-engineered vsock RPC protocol | 167 | 🟢 | Go |
 | [claude-code-sourcemap-learning-notebook](https://github.com/dadiaomengmeimei/claude-code-sourcemap-learning-notebook) | Reverse-engineering notes on Claude Code's 512K lines of TypeScript: architecture and design decisions | 166 | 🟢 |  |
-| [qoder2api-hub](https://github.com/shuishuipingan/qoder2api-hub) | Qoder gateway reimplementing COSY request signing and device fingerprint | 159 | 🟢 | Python |
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wraps Gemini CLI as an OpenAI-compatible API to use its free Gemini Pro quota | 152 | 🟢 | Python |
 | [github-copilot](https://github.com/saschaschramm/github-copilot) | Analysis of the GitHub Copilot extension internals | 148 | 🔴 | Python |
 | [KiroaaS](https://github.com/hnewcity/KiroaaS) | Desktop app exposing Kiro's models through local OpenAI/Anthropic-compatible API | 148 | 🟢 | Python |
 | [QoderGateway](https://github.com/bzym2/QoderGateway) | Turns Alibaba Qoder accounts into one OpenAI-compatible API | 148 | 🟢 | Python |
-| [m365-copilot-proxy](https://github.com/cramt/m365-copilot-proxy) | OpenAI-compatible proxy using a Microsoft 365 Copilot licence as a model backend | 145 | 🟢 | TypeScript |
+| [m365-copilot-proxy](https://github.com/cramt/m365-copilot-proxy) | OpenAI-compatible proxy using a Microsoft 365 Copilot licence as a model backend | 147 | 🟢 | TypeScript |
+| [copilot2api-go](https://github.com/StarryKira/copilot2api-go) | Turns GitHub Copilot into OpenAI/Anthropic-compatible server for Claude Code, Codex, OpenCode | 142 | 🟢 | Go |
 | [cursorweb2api](https://github.com/jhhgiyv/cursorweb2api) | Converts Cursor's web chat into an OpenAI-compatible API | 142 | 🟢 | JavaScript |
 | [opencode-antigravity-quota](https://github.com/frieser/opencode-antigravity-quota) | OpenCode plugin reading Antigravity/Gemini CLI quota endpoints across accounts | 142 | 🟢 | TypeScript |
-| [copilot2api-go](https://github.com/StarryKira/copilot2api-go) | Turns GitHub Copilot into OpenAI/Anthropic-compatible server for Claude Code, Codex, OpenCode | 141 | 🟢 | Go |
 | [pi-gpt-search](https://github.com/mateusdcc/pi-gpt-search) | Reverse-engineered Codex's web search to use with Claude and local models | 140 | 🟢 | TypeScript |
 | [BYOKEY](https://github.com/AprilNEA/BYOKEY) | Unofficial Rust client and proxy for the Ampcode (ampcode.com) coding agent API | 137 | 🟢 | Rust |
 | [claude-source-leaked](https://github.com/noya21th/claude-source-leaked) | Claude Code v2.1.88 source analysis: system prompts, hidden feature flags and architecture | 133 | 🟢 | TypeScript |
 | [github-copilot-api-vscode](https://github.com/suhaibbinyounis/github-copilot-api-vscode) | Exposes GitHub Copilot as a local OpenAI-compatible API gateway from VS Code | 129 | 🟢 | TypeScript |
 | [claude-code-working](https://github.com/777genius/claude-code-working) | Working Claude Code CLI rebuilt from reverse-engineered source analysis | 122 | 🟢 | TypeScript |
 | [Kiro2api-Node](https://github.com/lulistart/Kiro2api-Node) | Node.js Kiro-to-API proxy | 118 | 🟢 | JavaScript |
-| [subrouter](https://github.com/manaflow-ai/subrouter) | Routes Codex/Claude Code traffic across multiple ChatGPT Pro and Claude Max subscriptions | 118 | 🟢 | Go |
 | [cursor-api](https://github.com/waitkafuka/cursor-api) | Relay that converts Cursor's chat API into OpenAI format | 117 | 🟡 | JavaScript |
-| [cloclo (claude-code-sdk)](https://github.com/SeifBenayed/cloclo) | Reverse-engineered Claude Code to build single-file SDK CLIs in Node, Python, Go, Rust | 114 | 🟢 | JavaScript |
+| [subrouter](https://github.com/manaflow-ai/subrouter) | Routes Codex/Claude Code traffic across multiple ChatGPT Pro and Claude Max subscriptions | 117 | 🟢 | Go |
+| [cloclo (claude-code-sdk)](https://github.com/SeifBenayed/cloclo) | Reverse-engineered Claude Code to build single-file SDK CLIs in Node, Python, Go, Rust | 115 | 🟢 | JavaScript |
 | [eclipse-github-copilot-integration](https://github.com/masecla22/eclipse-github-copilot-integration) | Open source GitHub Copilot integration for Eclipse | 114 | 🔴 | Java |
 | [llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex) | Reverse-engineered Codex CLI auth to call OpenAI models via a Codex subscription | 114 | 🟢 | Python |
-| [AntigravityProxyLauncher](https://github.com/OpsinTech/AntigravityProxyLauncher) | DYLD-injection transparent proxy for Antigravity/Gemini with MITM of AI traffic | 106 | 🟢 | C++ |
+| [AntigravityProxyLauncher](https://github.com/OpsinTech/AntigravityProxyLauncher) | DYLD-injection transparent proxy for Antigravity/Gemini with MITM of AI traffic | 107 | 🟢 | C++ |
 | [xcode-copilot-server](https://github.com/theblixguy/xcode-copilot-server) | GitHub Copilot proxy for Xcode with Claude Agent and Codex Agent support | 105 | 🟢 | TypeScript |
-| [zcode-cli](https://github.com/kingsword09/zcode-cli) | Unofficial terminal client for the agent runtime shipped with ZCode Desktop | 103 | 🟢 | TypeScript |
-| [claude-codex](https://github.com/fuergaosi233/claude-codex) | Adapter letting the Codex desktop app drive Claude Code via the Codex app-server protocol | 99 | 🟢 | TypeScript |
+| [zcode-cli](https://github.com/kingsword09/zcode-cli) | Unofficial terminal client for the agent runtime shipped with ZCode Desktop | 104 | 🟢 | TypeScript |
+| [claude-codex](https://github.com/fuergaosi233/claude-codex) | Adapter letting the Codex desktop app drive Claude Code via the Codex app-server protocol | 101 | 🟢 | TypeScript |
 | [clodex](https://github.com/bman654/clodex) | Bridges Claude Code to OpenAI models via API key or ChatGPT/Codex-plan OAuth | 98 | 🟢 | TypeScript |
 | [cpa-multi-plugins](https://github.com/mmqz/cpa-multi-plugins) | CLIProxyAPI OAuth provider plugins for CodeBuddy, Trae and Qoder | 97 | 🟢 | Go |
-| [zemote](https://github.com/HumanAILoop/zemote) | Remote control client for ZCode Desktop on phones and tablets, built by replicating its protocol | 97 | 🟢 | Dart |
+| [zemote](https://github.com/HumanAILoop/zemote) | Remote control client for ZCode Desktop on phones and tablets, built by replicating its protocol | 96 | 🟢 | Dart |
 | [cursoride2api](https://github.com/7836246/cursoride2api) | Tutorial on reverse engineering the Cursor IDE API | 95 | 🟢 | JavaScript |
-| [claude-code-source-analysis (xiaonancs)](https://github.com/xiaonancs/claude-code-source-analysis) | Architecture breakdown of 23 Claude Code subsystems from source study | 91 | 🟢 | JavaScript |
+| [antigravity-add-model](https://github.com/vahapogut/antigravity-add-model) | Patch for Google Antigravity that intercepts its internal Cloud Code API to add other LLM providers | 93 | 🟢 | TypeScript |
+| [claude-code-source-analysis (xiaonancs)](https://github.com/xiaonancs/claude-code-source-analysis) | Architecture breakdown of 23 Claude Code subsystems from source study | 92 | 🟢 | JavaScript |
 | [claude-meter](https://github.com/abhishekray07/claude-meter) | Reverse engineering Claude Code usage limits to track remaining quota | 90 | 🟢 | Python |
 | [qoder2api](https://github.com/cubk1/qoder2api) | Qoder reverse engineering and Qoder-to-API demo | 90 | 🟢 | Java |
 | [cursorcli2api](https://github.com/Azhi-ss/cursorcli2api) | OpenAI- and Anthropic-compatible HTTP API in front of the Cursor Agent CLI | 89 | 🟢 | TypeScript |
-| [antigravity-add-model](https://github.com/vahapogut/antigravity-add-model) | Patch for Google Antigravity that intercepts its internal Cloud Code API to add other LLM providers | 87 | 🟢 | TypeScript |
 | [kiro2api](https://github.com/nineyuanz/kiro2api) | Kiro to Anthropic/OpenAI API proxy | 83 | 🟢 | Go |
 | [cursor-grpc](https://github.com/Jordan-Jarvis/cursor-grpc) | Reverse engineered Cursor IDE gRPC / protobuf definitions | 81 | 🟡 |  |
 | [antigravity-proxy](https://github.com/frieser/antigravity-proxy) | Gateway exposing Google Antigravity's internal Gemini and Claude APIs | 80 | 🗄️ | TypeScript |
@@ -470,10 +470,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [kiro-reverse-api](https://github.com/dangweilinshinidie/kiro-reverse-api) | Reverse-engineered Kiro API with a provider management console | 72 | 🟢 | JavaScript |
 | [copilot-api](https://github.com/QLHazyCoder/copilot-api) | GitHub Copilot to OpenAI/Responses/Anthropic API server | 71 | 🟢 | TypeScript |
 | [cursor-account-api](https://github.com/Elawen-Carl/cursor-account-api) | API for obtaining free Cursor trial accounts | 69 | 🟡 | Python |
-| [qoder2api](https://github.com/Zhengyuuuui/qoder2api) | Converts Qoder AI service to OpenAI/Claude/Codex-format API | 66 | 🟢 | Go |
+| [AgentHub](https://github.com/HUIdada1/AgentHub) | Reverse proxy turning local Trae, WorkBuddy and Zcode into OpenAI API | 67 | 🟢 | JavaScript |
+| [qoder2api](https://github.com/Zhengyuuuui/qoder2api) | Converts Qoder AI service to OpenAI/Claude/Codex-format API | 67 | 🟢 | Go |
+| [kirocc](https://github.com/d-kuro/kirocc) | Local proxy forwarding Anthropic Messages API calls to Kiro's backend using Kiro CLI credentials | 66 | 🟢 | Go |
 | [codex-app-linux](https://github.com/better-slop/codex-app-linux) | Unofficial Codex App for Linux with npm, AUR and Nix packaging | 65 | 🟢 | JavaScript |
-| [kirocc](https://github.com/d-kuro/kirocc) | Local proxy forwarding Anthropic Messages API calls to Kiro's backend using Kiro CLI credentials | 65 | 🟢 | Go |
-| [AgentHub](https://github.com/HUIdada1/AgentHub) | Reverse proxy turning local Trae, WorkBuddy and Zcode into OpenAI API | 64 | 🟢 | JavaScript |
 | [cursor-agent-api-proxy](https://github.com/tageecc/cursor-agent-api-proxy) | Wraps Cursor CLI as an OpenAI-compatible API for any client | 64 | 🟢 | TypeScript |
 | [cursor-opencode-auth](https://github.com/Infiland/cursor-opencode-auth) | Use a Cursor account inside the OpenCode TUI | 63 | 🟢 | TypeScript |
 | [copilot-api (prassaaa)](https://github.com/prassaaa/copilot-api) | Exposes GitHub Copilot as OpenAI/Anthropic-compatible API for Claude Code | 62 | 🟢 | TypeScript |
@@ -496,19 +496,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [copilot-api-plus](https://github.com/imbuxiangnan-cyber/copilot-api-plus) | GitHub Copilot proxy with OpenAI Responses and Anthropic Messages APIs | 53 | 🟢 | TypeScript |
 | [copilot-proxy-api](https://github.com/voidsteed/copilot-proxy-api) | Self-hosted GitHub Copilot bridge for Claude Code and Codex CLI | 51 | 🟢 | TypeScript |
 | [lingma-proxy](https://github.com/Lutiancheng1/lingma-proxy) | OpenAI/Anthropic-compatible proxy for Alibaba Lingma and QoderCN | 48 | 🟢 | Go |
-| [claude-max-api-proxy (sethschnrt)](https://github.com/sethschnrt/claude-max-api-proxy) | Exposes a Claude Max subscription as an OpenAI-compatible API | 45 | 🟢 | TypeScript |
+| [claude-max-api-proxy (sethschnrt)](https://github.com/sethschnrt/claude-max-api-proxy) | Exposes a Claude Max subscription as an OpenAI-compatible API | 46 | 🟢 | TypeScript |
 | [kiro2api-deno](https://github.com/AAEE86/kiro2api-deno) | Deno Kiro-to-API proxy | 45 | 🟢 | TypeScript |
 | [claude-code-reverse](https://github.com/V1ki/claude-code-reverse) | Claude Code reverse engineering notes on prompts, tool design and flow | 43 | 🟢 |  |
 | [copilot-proxy (Jer-y)](https://github.com/Jer-y/copilot-proxy) | Turns GitHub Copilot into an OpenAI/Anthropic-compatible server | 43 | 🟢 | TypeScript |
-| [antigravity-proxy](https://github.com/12errh/antigravity-proxy) | Proxy intercepting Antigravity's Gemini API and rerouting to other providers | 39 | 🟢 | TypeScript |
+| [antigravity-proxy](https://github.com/12errh/antigravity-proxy) | Proxy intercepting Antigravity's Gemini API and rerouting to other providers | 40 | 🟢 | TypeScript |
 | [ampcode-connector](https://github.com/nghyane/ampcode-connector) | Routes AmpCode requests through local Claude Code, Codex CLI and Gemini OAuth credentials | 38 | 🟢 | TypeScript |
 | [expose-github-copilot-http-api](https://github.com/purocean/expose-github-copilot-http-api) | Exposes VS Code's GitHub Copilot as an HTTP API | 38 | 🟡 | JavaScript |
 | [kiro2Api](https://github.com/Lavender3533/kiro2Api) | Kiro to API proxy | 38 | 🟢 | JavaScript |
 | [claude-code-copilot](https://github.com/samarth777/claude-code-copilot) | Local proxy translating Claude Code's Anthropic API to GitHub Copilot | 37 | 🟢 | JavaScript |
+| [agent-hop](https://github.com/hetpatel-11/agent-hop) | Reverse-engineered coding agents' session formats to resume sessions across agents | 36 | 🟢 | Rust |
 | [gemini-cli-proxy](https://github.com/ubaltaci/gemini-cli-proxy) | Uses Gemini CodeAssist (Gemini CLI) through OpenAI/Anthropic API interfaces | 36 | 🟡 | TypeScript |
 | [copilot2api](https://github.com/whtsky/copilot2api) | Go proxy exposing GitHub Copilot as OpenAI and Anthropic endpoints | 35 | 🟢 | Go |
 | [kiro2api-rs](https://github.com/vagmr/kiro2api-rs) | Rust Kiro-to-Anthropic API proxy with account pool | 35 | 🟢 | Rust |
-| [agent-hop](https://github.com/hetpatel-11/agent-hop) | Reverse-engineered coding agents' session formats to resume sessions across agents | 34 | 🟢 | Rust |
 | [cliproxy-rs](https://github.com/vayungodara/cliproxy-rs) | Rust port of CLIProxyAPI, the LLM-subscription-to-API proxy | 34 | 🟢 | Rust |
 | [Kiro-Go](https://github.com/hj01857655/Kiro-Go) | Go/Gin Kiro API proxy with OpenAI and Anthropic compatibility | 34 | 🟢 | Go |
 | [claude-code-reverse-engineering](https://github.com/jung-wan-kim/claude-code-reverse-engineering) | Reverse-engineered design documents and specs of the Claude Code CLI | 33 | 🟢 | HCL |
@@ -524,20 +524,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [cursor-api](https://github.com/zeke-chin/cursor-api) | Cursor chat API reverse proxy | 24 | 🟡 | Rust |
 | [kiro-proxy](https://github.com/Colin3191/kiro-proxy) | Kiro API proxy with OpenAI and Anthropic compatible endpoints | 24 | 🟢 | JavaScript |
 | [claude-agent-sdk-go (schlunsen)](https://github.com/schlunsen/claude-agent-sdk-go) | Go port of the Claude Agent SDK driving the Claude Code CLI protocol | 23 | 🟢 | Go |
-| [codex2claudecode](https://github.com/alvin0/codex2claudecode) | Bun local API that exposes Codex, Kiro and Copilot subscriptions as a Claude-compatible endpoint | 22 | 🟢 | TypeScript |
+| [codex2claudecode](https://github.com/alvin0/codex2claudecode) | Bun local API that exposes Codex, Kiro and Copilot subscriptions as a Claude-compatible endpoint | 23 | 🟢 | TypeScript |
 | [minimax-agent-linux](https://github.com/unn-Known1/minimax-agent-linux) | Unofficial Linux port of the MiniMax Agent desktop app | 22 | 🟢 | JavaScript |
 | [trae-api-proxy](https://github.com/muskke/trae-api-proxy) | Go proxy bridging the Trae IDE API to the OpenAI standard API | 22 | 🟢 | Go |
+| [claude-agent-sdk-go (Roasbeef)](https://github.com/Roasbeef/claude-agent-sdk-go) | Go SDK for Claude Code with tool use, MCP and streaming | 21 | 🟢 | JavaScript |
+| [codex-browser-bridge](https://github.com/DeliciousBuding/codex-browser-bridge) | Exposes ChatGPT desktop app's internal browser bridge as an MCP server | 21 | 🟢 | Rust |
 | [copilot-proxy-go](https://github.com/tonghaoch/copilot-proxy-go) | Go server turning GitHub Copilot into OpenAI/Anthropic-compatible API | 21 | 🟢 | Go |
-| [claude-agent-sdk-go (Roasbeef)](https://github.com/Roasbeef/claude-agent-sdk-go) | Go SDK for Claude Code with tool use, MCP and streaming | 20 | 🟢 | JavaScript |
-| [codex-browser-bridge](https://github.com/DeliciousBuding/codex-browser-bridge) | Exposes ChatGPT desktop app's internal browser bridge as an MCP server | 20 | 🟢 | Rust |
 | [cursor2api-go](https://github.com/yourChainGod/cursor2api-go) | Go Cursor-to-OpenAI API bridge with Messages/Responses/Tools support | 20 | 🟢 | Go |
-| [Antigravity2Api](https://github.com/anshulrules/Antigravity2Api) | Transforms Antigravity into standard Claude and Gemini APIs | 18 | 🟢 | JavaScript |
+| [Antigravity2Api](https://github.com/anshulrules/Antigravity2Api) | Transforms Antigravity into standard Claude and Gemini APIs | 19 | 🟢 | JavaScript |
 | [Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) | Deno port of Augment2Api | 18 | 🟡 | TypeScript |
 | [qodercli-reverse](https://github.com/alingse/qodercli-reverse) | Reverse engineering of the Qoder CLI | 18 | 🟢 | Go |
+| [codexfast-current-launcher](https://github.com/qiaojiangwink/codexfast-current-launcher) | Runtime launcher enabling hidden client flags (Fast mode) in Codex/ChatGPT Desktop | 17 | 🟢 | JavaScript |
 | [copilot-api](https://github.com/patchescamerababy/copilot-api) | GitHub Copilot to OpenAI API | 17 | 🟢 | Java |
 | [dsh-trae-api](https://github.com/Wang-JQ77/dsh-trae-api) | Exposes Trae Work CN credits as local OpenAI/Anthropic API | 17 | 🟢 | JavaScript |
 | [claude-code-leaked-source](https://github.com/sleeplessai/claude-code-leaked-source) | Mirror of the leaked Claude Code source | 16 | 🗄️ | TypeScript |
-| [codexfast-current-launcher](https://github.com/qiaojiangwink/codexfast-current-launcher) | Runtime launcher enabling hidden client flags (Fast mode) in Codex/ChatGPT Desktop | 16 | 🟢 | JavaScript |
 | [copilot-RE](https://github.com/rohitaryal/copilot-RE) | Reverse engineered GitHub Copilot API plus CLI | 16 | 🟡 | TypeScript |
 | [cursor2api (AstroQore)](https://github.com/AstroQore/cursor2api) | Cursor subscription as OpenAI API via direct agent.v1 protocol | 16 | 🟢 | TypeScript |
 | [kiro-reverse-api](https://github.com/tanu360/kiro-reverse-api) | Self-hosted Kiro API proxy with OpenAI/Anthropic endpoints and admin dashboard | 16 | 🟢 | Go |
@@ -552,7 +552,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [noclick](https://github.com/noclickapp/noclick) | Agent runtime that runs on your ChatGPT or Claude subscription | 12 | 🟢 | Python |
 | [gemini-3-github-copilot-proxy](https://github.com/Apothic-AI/gemini-3-github-copilot-proxy) | Use a Gemini plan via Gemini CLI auth inside GitHub Copilot | 11 | 🟢 | TypeScript |
 | [agy-tools-rust](https://github.com/ChrAlpha/agy-tools-rust) | Rust CLI reverse proxy exposing Antigravity Cloud Code as OpenAI/Claude/Gemini APIs | 9 | 🗄️ | Rust |
-| [antigravity-proxy (sortedcord)](https://github.com/sortedcord/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
+| [antigravity-proxy (sortedcord)](https://github.com/terastal-hq/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
 | [claude-buddy-hatchery](https://github.com/cminn10/claude-buddy-hatchery) | Reverse-engineered Claude Code /buddy companion generation algorithm | 9 | 🟢 | Python |
 | [kiro2api-rs](https://github.com/gdtiti/kiro2api-rs) | Rust Anthropic-compatible proxy over Kiro accounts with web panel | 9 | 🟢 | Rust |
 | [claude-max-api-proxy-rs](https://github.com/thhuang/claude-max-api-proxy-rs) | Rust proxy translating OpenAI/Anthropic APIs to Claude Code CLI subscription | 8 | 🟢 | Rust |
@@ -587,24 +587,24 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | Proxies Midjourney's Discord channel to provide an HTTP API for image generation | 5,367 | 🟡 | Java |
-| [suno-api](https://github.com/gcui-art/suno-api) | Unofficial self-hostable REST API for Suno music generation via its internal endpoints | 3,258 | 🟢 | TypeScript |
-| [flow2api](https://github.com/TheSmallHanCat/flow2api) | Reverse-engineered Google Flow API for Nano Banana Pro and Veo generation | 3,043 | 🟢 | Python |
+| [suno-api](https://github.com/gcui-art/suno-api) | Unofficial self-hostable REST API for Suno music generation via its internal endpoints | 3,260 | 🟢 | TypeScript |
+| [flow2api](https://github.com/TheSmallHanCat/flow2api) | Reverse-engineered Google Flow API for Nano Banana Pro and Veo generation | 3,045 | 🟢 | Python |
 | [midjourney-api (zcpua)](https://github.com/zcpua/midjourney-api) | Unofficial Node.js Midjourney client over Discord | 1,867 | 🟢 | TypeScript |
-| [Suno-API](https://github.com/SunoAI-API/Suno-API) | Unofficial Suno music generation API | 1,813 | 🟡 | Python |
+| [Suno-API](https://github.com/SunoAI-API/Suno-API) | Unofficial Suno music generation API | 1,814 | 🟡 | Python |
 | [sora2api](https://github.com/TheSmallHanCat/sora2api) | Reverse-engineered Sora web API with account pool | 1,236 | 🗄️ | Python |
-| [jimeng-api](https://github.com/iptag/jimeng-api) | Reverse-engineered Jimeng/Dreamina text-to-image, image-to-image and video API | 1,040 | 🗄️ | TypeScript |
+| [jimeng-api](https://github.com/iptag/jimeng-api) | Reverse-engineered Jimeng/Dreamina text-to-image, image-to-image and video API | 1,041 | 🗄️ | TypeScript |
 | [midjourney-api (yokonsan)](https://github.com/yokonsan/midjourney-api) | Midjourney Discord API wrapper as REST service: imagine, upscale, variation, describe | 891 | 🟡 | Python |
 | [midjourney-proxy](https://github.com/trueai-org/midjourney-proxy) | Midjourney Discord proxy exposing an image generation API | 821 | 🟢 | C# |
 | [ttsfm](https://github.com/dbccccccc/ttsfm) | OpenAI-compatible TTS API mirroring the free openai.fm service | 738 | 🟢 | Python |
-| [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all) | Jimeng (ByteDance) image and video generation reverse API, OpenAI-compatible | 620 | 🟢 | TypeScript |
+| [jimeng-free-api-all](https://github.com/zhizinan1997/jimeng-free-api-all) | Jimeng (ByteDance) image and video generation reverse API, OpenAI-compatible | 625 | 🟢 | TypeScript |
 | [midjourney-proxy-plus](https://github.com/litter-coder/midjourney-proxy-plus) | Extended Midjourney Discord proxy API | 575 | 🟡 |  |
 | [hass-edge-tts](https://github.com/hasscc/hass-edge-tts) | Microsoft Edge read-aloud TTS in Home Assistant via the unofficial Edge speech endpoint, no key | 488 | 🟢 | Python |
 | [Midjourney_api](https://github.com/George-iam/Midjourney_api) | Unofficial Midjourney API via Discord sender/receiver (research only) | 419 | 🔴 | Python |
 | [SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) | Reverse engineered Suno song generation API (Python library and CLI) | 366 | 🟡 | Python |
-| [sora-downloader](https://github.com/tibbar213/sora-downloader) | Extracts watermark-free Sora video links | 306 | 🟢 | Python |
+| [sora-downloader](https://github.com/tibbar213/sora-downloader) | Extracts watermark-free Sora video links | 305 | 🟢 | Python |
 | [BingImageCreator](https://github.com/acheong08/BingImageCreator) | Reverse engineered API for Microsoft Bing Image Creator (DALL-E) | 300 | 🗄️ | Python |
-| [capcut-tts-api](https://github.com/K07VN/capcut-tts-api) | Reverse-engineered CapCut TTS and STT API | 297 | 🟢 | Python |
-| [gflow-cli](https://github.com/ffroliva/gflow-cli) | Unofficial reverse-engineered CLI for Google Flow (Veo video, Imagen) | 288 | 🟢 | Python |
+| [capcut-tts-api](https://github.com/K07VN/capcut-tts-api) | Reverse-engineered CapCut TTS and STT API | 299 | 🟢 | Python |
+| [gflow-cli](https://github.com/ffroliva/gflow-cli) | Unofficial reverse-engineered CLI for Google Flow (Veo video, Imagen) | 294 | 🟢 | Python |
 | [Suno2openai](https://github.com/wlhtea/Suno2openai) | Calls the Suno web API in OpenAI format with a cookie pool | 275 | 🟡 | Python |
 | [imagineapi](https://github.com/imagineapi/imagineapi) | Unofficial Midjourney API | 227 | 🟡 | TypeScript |
 | [klingCreator](https://github.com/yihong0618/klingCreator) | Reverse engineered API for Kling AI image and video generation | 222 | 🟡 | Python |
@@ -618,7 +618,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Midjourney-Web-API](https://github.com/CelestialRipple/Midjourney-Web-API) | Unofficial Midjourney web API using captured browser request headers | 115 | 🔴 | Python |
 | [CapCut-TTS](https://github.com/kuwacom/CapCut-TTS) | CapCut text-to-speech wrapper API | 112 | 🟢 | TypeScript |
 | [midjourney-proxy](https://github.com/webman-php/midjourney-proxy) | Full-featured Midjourney Discord proxy (PHP/webman) | 105 | 🟢 | PHP |
-| [whisk-api](https://github.com/rohitaryal/whisk-api) | Unofficial reverse-engineered API for Google Labs Whisk | 102 | 🟢 | TypeScript |
+| [whisk-api](https://github.com/rohitaryal/whisk-api) | Unofficial reverse-engineered API for Google Labs Whisk | 101 | 🟢 | TypeScript |
 | [vidai](https://github.com/igolaizola/vidai) | Unofficial RunwayML Gen-2/Gen-3 video generation client | 97 | 🟡 | Go |
 | [suno-api](https://github.com/gochendong/suno-api) | Suno music generation API wrapper | 88 | 🟢 | Python |
 | [midjourney-python-api](https://github.com/ezioruan/midjourney-python-api) | Python client for the unofficial Midjourney API through Discord | 87 | 🔴 | Python |
@@ -627,11 +627,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [IdeogramWrapper](https://github.com/flowese/IdeogramWrapper) | Python wrapper for Ideogram image generation | 76 | 🔴 | Python |
 | [craiyon.py](https://github.com/FireHead90544/craiyon.py) | Unofficial API wrapper for Craiyon image generation | 70 | 🟡 | Python |
 | [suno-api-private](https://github.com/joeseesun/suno-api-private) | Suno API with JWT token authentication support | 69 | 🟢 | TypeScript |
+| [suno-cli](https://github.com/paperfoot/suno-cli) | Terminal client for Suno music generation | 59 | 🟢 | Rust |
 | [bingart](https://github.com/DedInc/bingart) | Unofficial async API wrapper for Bing Image and Video Creator | 58 | 🟢 | Python |
-| [suno-cli](https://github.com/paperfoot/suno-cli) | Terminal client for Suno music generation | 58 | 🟢 | Rust |
 | [Comfyui-GeminiWeb](https://github.com/Koko-boya/Comfyui-GeminiWeb) | ComfyUI node using the Gemini web API for image generation and chat | 52 | 🟢 | Python |
+| [Suno-API](https://github.com/imyizhang/Suno-API) | Unofficial Suno AI API | 50 | 🟡 | Python |
 | [dreamina-api](https://github.com/LiJunYi2/dreamina-api) | Dreamina (CapCut AI) image generation API on Cloudflare Workers | 49 | 🟢 | TypeScript |
-| [Suno-API](https://github.com/imyizhang/Suno-API) | Unofficial Suno AI API | 48 | 🟡 | Python |
 | [Lexica.art](https://github.com/NotCookey/Lexica.art) | Reverse-engineered Python API wrapper for Lexica.art image generation | 41 | 🔴 | Python |
 | [py-midjourney-proxy](https://github.com/Anychnn/py-midjourney-proxy) | Python Midjourney Discord proxy | 41 | 🟡 | Python |
 | [stable-diffusion-xl-api](https://github.com/KoushikNavuluri/stable-diffusion-xl-api) | Reverse-engineered API for Stable Diffusion XL 1.0 text-to-image | 41 | 🔴 | Python |
@@ -640,7 +640,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [suno-ai](https://github.com/hissincn/suno-ai) | JavaScript API for generating songs on suno.ai | 26 | 🟡 | JavaScript |
 | [Msdesigner-api](https://github.com/imnotdev25/Msdesigner-api) | Reverse-engineered API for Microsoft Designer image generation | 25 | 🗄️ | Python |
 | [suno-ai-proxy](https://github.com/MelohubAI/suno-ai-proxy) | Unofficial Suno AI Node.js API | 23 | 🟡 | TypeScript |
-| [flow2api (HL320217)](https://github.com/HL320217/flow2api) | Multi-user platform over the Google Flow / Labs FX protocol for image and video | 21 | 🟢 |  |
+| [flow2api (HL320217)](https://github.com/HL320217/flow2api) | Multi-user platform over the Google Flow / Labs FX protocol for image and video | 22 | 🟢 |  |
 | [wombo-dream-api](https://github.com/leopoldhub/wombo-dream-api) | Unofficial API for the Wombo Dream image generator | 19 | 🗄️ | TypeScript |
 | [wisprflow-sdk](https://github.com/ThisisShashwat/wisprflow-sdk) | Python SDK over Wispr Flow's reverse-engineered audio transcription API | 17 | 🟢 | Python |
 | [suno-api](https://github.com/worthable/suno-api) | Unofficial API for Suno AI music generation | 15 | 🟡 | TypeScript |
@@ -660,58 +660,58 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP server for Xiaohongshu (RedNote): login, publish, search, comment | 16,270 | 🟢 | Go |
-| [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server built on whatsmeow web multidevice protocol | 6,605 | 🟡 | Go |
-| [gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | CLI and MCP server for Gemini Notebook (NotebookLM) via its internal RPC API | 6,306 | 🟢 | Python |
-| [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn MCP server for profiles, companies, jobs and messages via browser session | 3,868 | 🟢 | Python |
-| [notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) | MCP server letting agents query Google NotebookLM with citations | 3,437 | 🗄️ | TypeScript |
-| [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) | Slack MCP server that can use browser session tokens and the undocumented Slack Edge API | 1,864 | 🟢 | Go |
-| [garmin_mcp](https://github.com/Taxuspt/garmin_mcp) | MCP server for Garmin Connect data via unofficial API | 1,336 | 🟢 | Python |
+| [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP server for Xiaohongshu (RedNote): login, publish, search, comment | 16,294 | 🟢 | Go |
+| [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server built on whatsmeow web multidevice protocol | 6,617 | 🟡 | Go |
+| [gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | CLI and MCP server for Gemini Notebook (NotebookLM) via its internal RPC API | 6,314 | 🟢 | Python |
+| [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn MCP server for profiles, companies, jobs and messages via browser session | 3,877 | 🟢 | Python |
+| [notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) | MCP server letting agents query Google NotebookLM with citations | 3,436 | 🗄️ | TypeScript |
+| [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) | Slack MCP server that can use browser session tokens and the undocumented Slack Edge API | 1,866 | 🟢 | Go |
+| [garmin_mcp](https://github.com/Taxuspt/garmin_mcp) | MCP server for Garmin Connect data via unofficial API | 1,344 | 🟢 | Python |
 | [douyin-mcp-server](https://github.com/yzfly/douyin-mcp-server) | Douyin MCP extracting watermark-free video links and transcripts | 1,276 | 🗄️ | HTML |
-| [mcp-server-weread (freestylefly)](https://github.com/freestylefly/mcp-server-weread) | MCP server for WeChat Read (WeRead) shelf and notes | 577 | 🟡 | JavaScript |
+| [mcp-server-weread (freestylefly)](https://github.com/freestylefly/mcp-server-weread) | MCP server for WeChat Read (WeRead) shelf and notes | 578 | 🟡 | JavaScript |
 | [Agentify Desktop](https://github.com/agentify-sh/desktop) | Lets coding agents drive logged-in ChatGPT, Claude, Gemini, Grok, Perplexity web sessions via MCP | 567 | 🟢 | JavaScript |
 | [mcp-server-12306](https://github.com/drfccv/mcp-server-12306) | MCP server for China Railway 12306 ticket and station queries | 409 | 🟢 | Python |
 | [mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) | MCP server for macOS Messages: read chat.db and send iMessages | 332 | 🟢 | Python |
 | [WeChat-MCP](https://github.com/BiboyQG/WeChat-MCP) | Lets AI assistants read and reply to WeChat on desktop | 277 | 🟢 | Python |
 | [whatsapp-mcp (verygoodplugins)](https://github.com/verygoodplugins/whatsapp-mcp) | WhatsApp MCP server for reading and sending personal messages | 242 | 🟢 | Go |
-| [bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) | MCP server controlling Bambu Lab 3D printers with slicing and print management | 201 | 🟢 | TypeScript |
-| [perplexity-web-mcp (jacob-bd)](https://github.com/jacob-bd/perplexity-web-mcp) | MCP server and Anthropic-compatible API over the Perplexity web interface | 201 | 🟢 | Python |
+| [bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) | MCP server controlling Bambu Lab 3D printers with slicing and print management | 204 | 🟢 | TypeScript |
+| [perplexity-web-mcp (jacob-bd)](https://github.com/jacob-bd/perplexity-web-mcp) | MCP server and Anthropic-compatible API over the Perplexity web interface | 202 | 🟢 | Python |
 | [linkedin-mcp-server (eliasbiondo)](https://github.com/eliasbiondo/linkedin-mcp-server) | LinkedIn MCP server scraping people, companies and jobs | 195 | 🟢 | Python |
 | [bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) | Bilibili video search MCP service | 194 | 🟢 | JavaScript |
+| [netease-music-mcp (Vael-KY)](https://github.com/Vael-KY/netease-music-mcp) | MCP server reading and managing a NetEase Cloud Music account | 194 | 🟢 | Python |
 | [notebooklm-mcp (roomi-fields)](https://github.com/roomi-fields/notebooklm-mcp) | NotebookLM over MCP plus local REST API, audio/video generation | 194 | 🟢 | TypeScript |
-| [netease-music-mcp (Vael-KY)](https://github.com/Vael-KY/netease-music-mcp) | MCP server reading and managing a NetEase Cloud Music account | 191 | 🟢 | Python |
 | [bilibili-mcp-server](https://github.com/huccihuang/bilibili-mcp-server) | MCP server for Bilibili web API operations | 190 | 🟡 | Python |
 | [comet-mcp](https://github.com/hanzili/comet-mcp) | MCP server driving Perplexity Comet browser over CDP | 182 | 🟢 | TypeScript |
 | [trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp) | TrainingPeaks MCP server using the private web API, no API approval needed | 181 | 🟢 | Python |
 | [mcp-server-weread (ChenyqThu)](https://github.com/ChenyqThu/mcp-server-weread) | MCP server exposing WeRead books, highlights and notes | 171 | 🟡 | JavaScript |
-| [apple-notes-mcp (sweetrb)](https://github.com/sweetrb/apple-notes-mcp) | MCP server to read, search, edit and export Apple Notes on macOS | 155 | 🟢 | TypeScript |
+| [apple-notes-mcp (sweetrb)](https://github.com/sweetrb/apple-notes-mcp) | MCP server to read, search, edit and export Apple Notes on macOS | 157 | 🟢 | TypeScript |
 | [xiaohongshu-mcp-python](https://github.com/luyike221/xiaohongshu-mcp-python) | Python Xiaohongshu MCP for automated posting of notes and videos | 146 | 🟢 | TypeScript |
 | [apple-notes-mcp (sirmews)](https://github.com/sirmews/apple-notes-mcp) | MCP server reading the Apple Notes SQLite store | 131 | 🗄️ | Python |
-| [totem](https://github.com/thebriangao/totem) | MCP server with read/write access to Whoop data via the private reverse-engineered API | 128 | 🟢 | TypeScript |
+| [totem](https://github.com/thebriangao/totem) | MCP server with read/write access to Whoop data via the private reverse-engineered API | 130 | 🟢 | TypeScript |
 | [line-desktop-mcp](https://github.com/dtwang/line-desktop-mcp) | MCP server integrating AI tools with LINE Desktop to read and send messages | 121 | 🟢 | JavaScript |
 | [netease-music-mcp (Cheiineeey)](https://github.com/Cheiineeey/netease-music-mcp) | NetEase Cloud Music MCP for song requests, lyrics and playlists | 113 | 🟢 | HTML |
 | [perplexity-web-api-mcp](https://github.com/mishamyrt/perplexity-web-api-mcp) | Perplexity AI MCP using the web API, no API key | 106 | 🗄️ | Rust |
 | [bilibili-mcp (adoresever)](https://github.com/adoresever/bilibili-mcp) | Bilibili MCP with search, comments, subtitles and danmaku | 104 | 🟢 | Python |
-| [alza-mcp-community](https://github.com/lukabudik/alza-mcp-community) | Unofficial MCP server for Alza.cz: product search, reviews, account, cart and checkout | 80 | 🟢 | TypeScript |
-| [whatsapp-mcp-ts](https://github.com/jlucaso1/whatsapp-mcp-ts) | WhatsApp MCP server in TypeScript on Baileys | 75 | 🟢 | TypeScript |
+| [alza-mcp-community](https://github.com/lukabudik/alza-mcp-community) | Unofficial MCP server for Alza.cz: product search, reviews, account, cart and checkout | 82 | 🟢 | TypeScript |
+| [whatsapp-mcp-ts](https://github.com/jlucaso1/whatsapp-mcp-ts) | WhatsApp MCP server in TypeScript on Baileys | 74 | 🟢 | TypeScript |
 | [miot-mcp](https://github.com/javen-yan/miot-mcp) | MCP server for Mijia devices built on the unofficial MijiaAPI | 71 | 🟢 | Python |
 | [garmin-connect-mcp](https://github.com/eddmann/garmin-connect-mcp) | MCP server for Garmin Connect activities, health metrics and sleep via the unofficial API | 64 | 🟢 | Python |
-| [stockbit-mcp](https://github.com/INo-xious/stockbit-mcp) | MCP server for Stockbit (Indonesia) market data, charts and read-only portfolios via its app API | 54 | 🟢 | TypeScript |
+| [stockbit-mcp](https://github.com/INo-xious/stockbit-mcp) | MCP server for Stockbit (Indonesia) market data, charts and read-only portfolios via its app API | 53 | 🟢 | TypeScript |
 | [tradingview-mcp-server](https://github.com/fiale-plus/tradingview-mcp-server) | Unofficial MCP and CLI for TradingView's internal API | 53 | 🟢 | TypeScript |
 | [Perplexity-Comet-MCP](https://github.com/RapierCraft/Perplexity-Comet-MCP) | MCP server connecting Claude Code to Perplexity Comet browser | 51 | 🟢 | TypeScript |
 | [blinkit-mcp](https://github.com/hereisSwapnil/blinkit-mcp) | Unofficial MCP server to search, cart and order on Blinkit | 50 | 🟢 | Python |
 | [wechat-mcp](https://github.com/JettChenT/wechat-mcp) | MCP server for the WeChat desktop client | 47 | 🟡 | Python |
-| [mobbin-mcp](https://github.com/pdcolandrea/mobbin-mcp) | Unofficial MCP for Mobbin's design library, no public API required | 46 | 🗄️ | TypeScript |
+| [mobbin-mcp](https://github.com/pdcolandrea/mobbin-mcp) | Unofficial MCP for Mobbin's design library, no public API required | 45 | 🗄️ | TypeScript |
 | [openevidence-mcp](https://github.com/bakhtiersizhaev/openevidence-mcp) | Unofficial MCP server for OpenEvidence medical search through the user's browser session | 45 | 🟢 | TypeScript |
 | [robinhood-mcp](https://github.com/verygoodplugins/robinhood-mcp) | Read-only MCP server for Robinhood portfolio research | 39 | 🟢 | Python |
-| [whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended) | Maintained WhatsApp MCP with 26 tools, webhooks and Docker | 38 | 🟢 | Go |
+| [whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended) | Maintained WhatsApp MCP with 26 tools, webhooks and Docker | 39 | 🟢 | Go |
 | [tbank-mcp](https://github.com/icyberdeveloper/tbank-mcp) | Unofficial MCP server for T-Bank (Tinkoff) mobile banking private API | 36 | 🟢 | Python |
 | [apple-photos-mcp](https://github.com/sweetrb/apple-photos-mcp) | MCP server querying and exporting the macOS Photos library database | 30 | 🟢 | JavaScript |
 | [imessage-mcp (wyattjoh)](https://github.com/wyattjoh/imessage-mcp) | MCP server reading macOS iMessage chat.db | 29 | 🟢 | TypeScript |
 | [imessage-mcp (anipotts)](https://github.com/anipotts/imessage-mcp) | Search and read Messages history from MCP clients | 27 | 🟢 | TypeScript |
 | [signal-mcp](https://github.com/rymurr/signal-mcp) | MCP server for Signal messaging via signal-cli | 26 | 🟡 | Python |
 | [substack-mcp-plus](https://github.com/ty13r/substack-mcp-plus) | Unofficial Substack MCP server that posts and edits through the browser session | 25 | 🟢 | Python |
-| [wamcp](https://github.com/delltrak/wamcp) | WhatsApp MCP server with 61 tools over Baileys | 24 | 🟢 | TypeScript |
+| [wamcp](https://github.com/delltrak/wamcp) | WhatsApp MCP server with 61 tools over Baileys | 25 | 🟢 | TypeScript |
 | [perplexity-web-wrapper](https://github.com/balakumardev/perplexity-web-wrapper) | Use a Perplexity subscription with MCP via a web wrapper | 23 | 🟢 | Python |
 | [yandex-lavka-mcp](https://github.com/Dudude-bit/yandex-lavka-mcp) | Unofficial MCP server for ordering Yandex Lavka groceries | 22 | 🟢 | Python |
 | [rm-mcp](https://github.com/wavyrai/rm-mcp) | MCP server for accessing reMarkable tablet data | 21 | 🟢 | Python |
@@ -720,7 +720,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wechat-mcp (lw396)](https://github.com/lw396/wechat-mcp) | WeChat chat MCP tool based on WeChatFerry hooking | 18 | 🟡 | Go |
 | [twitter-mcp-server (gkydev)](https://github.com/gkydev/twitter-mcp-server) | Unofficial Twitter/X MCP server using cookie auth | 16 | 🟢 | Python |
 | [stays](https://github.com/him229/stays) | Google Hotels MCP server and library via reverse-engineered batchexecute | 14 | 🟢 | Python |
-| [garmin-mcp](https://github.com/davidmosiah/garmin-mcp) | Local-first MCP server for Garmin Body Battery, HRV, sleep and training data | 12 | 🟢 | TypeScript |
+| [garmin-mcp](https://github.com/davidmosiah/garmin-mcp) | Local-first MCP server for Garmin Body Battery, HRV, sleep and training data | 13 | 🟢 | TypeScript |
 | [robinhood-cli-mcp-api](https://github.com/zaydiscold/robinhood-cli-mcp-api) | Unofficial Robinhood API map with CLI and MCP server | 11 | 🟢 | TypeScript |
 | [instagram-dms-mcp](https://github.com/braindead-dev/instagram-dms-mcp) | MCP server for reading and sending Instagram DMs via the private API | 10 | 🟢 | Go |
 | [linkedin-mcp](https://github.com/devag7/linkedin-mcp) | Unofficial local LinkedIn MCP server for profile, job, company and inbox reads | 10 | 🟢 | TypeScript |
@@ -739,15 +739,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | Chinese localization patch for Claude Desktop on macOS, Windows and Linux | 7,621 | 🟢 | Python |
-| [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Repackages the Windows Claude Desktop app to run on Debian/Linux | 5,452 | 🟢 | Shell |
-| [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export ChatGPT conversation history from the web app | 2,806 | 🟢 | TypeScript |
+| [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | Chinese localization patch for Claude Desktop on macOS, Windows and Linux | 7,657 | 🟢 | Python |
+| [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Repackages the Windows Claude Desktop app to run on Debian/Linux | 5,453 | 🟢 | Shell |
+| [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export ChatGPT conversation history from the web app | 2,809 | 🟢 | TypeScript |
 | [convoviz](https://github.com/mohamed-chs/convoviz) | Converts ChatGPT export ZIPs into Markdown with media and usage visualizations | 888 | 🟢 | Python |
-| [cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) | Configures DeepSeek, Kimi, GLM and Bailian providers inside Claude Desktop | 799 | 🟢 | Python |
-| [claude-desktop_win-zh_cn](https://github.com/Jyy1529/claude-desktop_win-zh_cn) | Claude Desktop Windows zh-CN patch translating keys and JS chunk labels | 673 | 🟢 | Python |
+| [cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) | Configures DeepSeek, Kimi, GLM and Bailian providers inside Claude Desktop | 798 | 🟢 | Python |
+| [claude-desktop_win-zh_cn](https://github.com/Jyy1529/claude-desktop_win-zh_cn) | Claude Desktop Windows zh-CN patch translating keys and JS chunk labels | 674 | 🟢 | Python |
 | [S3Tokenizer](https://github.com/xingchensong/S3Tokenizer) | Reverse engineered reimplementation of CosyVoice's supervised semantic speech tokenizer | 535 | 🟢 | Python |
 | [open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) | Reverse-engineered Claude in Chrome extension, open source for any Chromium browser | 248 | 🟢 | HTML |
-| [claude-desktop-rtl-patch](https://github.com/shraga100/claude-desktop-rtl-patch) | CSS patch adding RTL support to Claude Desktop on Windows | 209 | 🟢 | PowerShell |
+| [claude-desktop-rtl-patch](https://github.com/shraga100/claude-desktop-rtl-patch) | CSS patch adding RTL support to Claude Desktop on Windows | 208 | 🟢 | PowerShell |
 | [anthropic-tokenizer](https://github.com/javirandor/anthropic-tokenizer) | Approximates the Claude 3 tokenizer by inspecting the generation stream | 173 | 🟡 | Python |
 | [claude-export](https://github.com/ryanschiang/claude-export) | Browser script to export Claude.ai chats to Markdown, JSON or PNG | 164 | 🟡 | JavaScript |
 | [ModelLink](https://github.com/Win-Hao/ModelLink) | Local proxy routing third-party models through Claude Desktop | 140 | 🟢 | Rust |
@@ -762,27 +762,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Extracted system prompts and tool definitions for Cursor, Claude Code, Devin, Windsurf, Kiro, v0, Lovable and more | 144,019 | 🟢 |  |
-| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 69,601 | 🟢 | Python |
-| [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Leaked system prompts and tool specs for ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit and others | 51,224 | 🟢 |  |
-| [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | Collection of leaked system prompts from LLM-based services, with verifiable sources | 14,961 | 🟢 |  |
-| [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | Claude Code system prompt, builtin tool descriptions and sub-agent prompts extracted per release | 12,909 | 🟢 | JavaScript |
+| [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Extracted system prompts and tool definitions for Cursor, Claude Code, Devin, Windsurf, Kiro, v0, Lovable and more | 144,036 | 🟢 |  |
+| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 69,676 | 🟢 | Python |
+| [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Leaked system prompts and tool specs for ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit and others | 51,266 | 🟢 |  |
+| [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | Collection of leaked system prompts from LLM-based services, with verifiable sources | 14,964 | 🟢 |  |
+| [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | Claude Code system prompt, builtin tool descriptions and sub-agent prompts extracted per release | 12,919 | 🟢 | JavaScript |
 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | Collection of extracted GPT system prompts plus prompt injection / prompt leaking techniques | 10,809 | 🟢 | HTML |
 | [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | Curated collection of system prompts for top AI tools (v0, Manus, Claude Code, ChatGPT, Perplexity) | 6,250 | 🟢 | TypeScript |
 | [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | Chinese translation of extracted prompts from Cursor, Devin, VSCode Agent and other AI coding tools | 1,246 | 🟢 |  |
-| [cc](https://github.com/kn1026/cc) | Extracted Claude Code system prompt | 714 | 🟡 |  |
-| [CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT) | Living document of the extracted Claude Code system prompt | 388 | 🟢 |  |
+| [cc](https://github.com/kn1026/cc) | Extracted Claude Code system prompt | 715 | 🟡 |  |
+| [CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT) | Living document of the extracted Claude Code system prompt | 389 | 🟢 |  |
 | [v0prompt](https://github.com/sharkqwy/v0prompt) | Extracted full system prompt of Vercel v0 | 305 | 🟡 |  |
-| [Google-Gemini-System-Prompt](https://github.com/elder-plinius/Google-Gemini-System-Prompt) | Prompt leak of Google Gemini Pro (Bard version) system prompts, instructions and guidelines | 289 | 🟡 |  |
+| [Google-Gemini-System-Prompt](https://github.com/elder-plinius/Google-Gemini-System-Prompt) | Prompt leak of Google Gemini Pro (Bard version) system prompts, instructions and guidelines | 290 | 🟡 |  |
 | [awesome-system-prompts (EliFuzz)](https://github.com/EliFuzz/awesome-system-prompts) | System prompts and tool definitions extracted from AI coding agents (Augment, Claude Code, Cursor, Devin, Kiro) | 278 | 🟢 | JavaScript |
-| [awesome-system-prompts (langgptai)](https://github.com/langgptai/awesome-system-prompts) | System prompts of LLMs and AI products: DeepSeek, ChatGPT, Gemini, Grok, Qwen | 230 | 🟢 |  |
+| [awesome-system-prompts (langgptai)](https://github.com/langgptai/awesome-system-prompts) | System prompts of LLMs and AI products: DeepSeek, ChatGPT, Gemini, Grok, Qwen | 231 | 🟢 |  |
 | [apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts) | Apple Intelligence system prompts extracted from macOS Sequoia | 221 | 🟡 | JavaScript |
-| [claude-fable-5-system-prompt](https://github.com/KalarisLabs/claude-fable-5-system-prompt) | Extracted system prompt of Claude Fable 5 | 219 | 🟢 | Python |
-| [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) | Leaderboard and community hub for system prompt leaks | 179 | 🟢 | TypeScript |
+| [claude-fable-5-system-prompt](https://github.com/KalarisLabs/claude-fable-5-system-prompt) | Extracted system prompt of Claude Fable 5 | 220 | 🟢 | Python |
+| [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) | Leaderboard and community hub for system prompt leaks | 181 | 🟢 | TypeScript |
 | [leaked-system-prompts (YeeKal)](https://github.com/YeeKal/leaked-system-prompts) | Leaked system prompts for ChatGPT, Claude, Grok, Gemini, DeepSeek, Manus, v0, Lovable, Cursor | 175 | 🟢 | TypeScript |
 | [claude-hidden-toolkit](https://github.com/N1-AI/claude-hidden-toolkit) | Reverse engineering of Claude.ai's internal tool definitions | 171 | 🟢 |  |
+| [claude-code-system-prompts](https://github.com/lucas-flatwhite/claude-code-system-prompts) | Analysis and documentation of Claude Code's internal prompt architecture | 156 | 🟢 |  |
 | [claude-code-system-prompt](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) | Dump of the Claude Code system prompt | 155 | 🟡 |  |
-| [claude-code-system-prompts](https://github.com/lucas-flatwhite/claude-code-system-prompts) | Analysis and documentation of Claude Code's internal prompt architecture | 155 | 🟢 |  |
 | [GPTsSystemPrompts](https://github.com/0xAb1d/GPTsSystemPrompts) | Database of leaked system instructions for popular custom GPTs in the ChatGPT GPT store | 85 | 🟡 |  |
 | [Grok-System-Prompt-Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) | Extracted system prompt of xAI's Grok on X (Twitter) | 72 | 🟡 |  |
 | [awesome-llm-system-prompts](https://github.com/ManuelSLemos/awesome-llm-system-prompts) | System prompts from major LLMs: official releases, leaks and reverse-engineered discoveries | 34 | 🟡 |  |
