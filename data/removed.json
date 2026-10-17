@@ -136,5 +136,11 @@
   "name": "Snapshot",
   "removed": "2026-10-16",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/aimod-cc/agent2api",
+  "name": "agent2api",
+  "removed": "2026-10-17",
+  "reason": "not found on GitHub"
  }
 ]
