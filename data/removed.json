@@ -142,5 +142,23 @@
   "name": "agent2api",
   "removed": "2026-10-17",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/imjustprism/grok-web-api",
+  "name": "grok-web-api",
+  "removed": "2026-10-18",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/armoox/Legion-Linux-Tookit",
+  "name": "Legion Linux Toolkit",
+  "removed": "2026-10-18",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/weirdbeardgame/Mulberry",
+  "name": "Kuon",
+  "removed": "2026-10-18",
+  "reason": "not found on GitHub"
  }
 ]

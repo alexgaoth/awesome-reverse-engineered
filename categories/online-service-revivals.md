@@ -16,9 +16,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,881 | 🟢 | JavaScript |
-| [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,372 | 🟢 | C++ |
+| [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,374 | 🟢 | C++ |
 | [wire-pod](https://github.com/kercre123/wire-pod) | Free local server that replaces the cloud services of the Anki Vector robot | 829 | 🟢 | Go |
-| [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 409 | 🟢 | Rust |
+| [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 410 | 🟢 | Rust |
 | [harmony-api](https://github.com/maddox/harmony-api) | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | 🔴 | JavaScript |
 | [PyCozmo](https://github.com/zayfod/pycozmo) | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 239 | 🔴 | Python |
 | [Slinger](https://github.com/GerryDazoo/Slinger) | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 202 | 🟡 | Python |
@@ -61,14 +61,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) | Server emulator for Cartoon Network's FusionFall MMO | 420 | 🟢 | C++ |
-| [Havana](https://github.com/Quackster/Havana) | Java server that revives 2009-era Habbo Hotel v31 | 228 | 🟢 | Java |
-| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 217 | 🟢 | JavaScript |
+| [Havana](https://github.com/Quackster/Havana) | Java server that revives 2009-era Habbo Hotel v31 | 229 | 🟢 | Java |
+| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 220 | 🟢 | JavaScript |
 | [Wand](https://github.com/solero/wand) | Docker setup that bundles the Houdini Club Penguin private server and its services | 128 | 🟢 | Shell |
 | [MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) | Open source emulation of the Monkey Quest server backend | 95 | 🟢 | C# |
-| [sodoff](https://github.com/SoDOff-Project/sodoff) | School of Dragons server emulator | 79 | 🟢 | C# |
-| [classic-dungeon-blitz](https://github.com/db-preservation-contributors/classic-dungeon-blitz) | Fan revival of the Dungeon Blitz Flash game | 74 | 🗄️ | TypeScript |
+| [sodoff](https://github.com/SoDOff-Project/sodoff) | School of Dragons server emulator | 81 | 🟢 | C# |
+| [classic-dungeon-blitz](https://github.com/db-preservation-contributors/classic-dungeon-blitz) | Fan revival of the Dungeon Blitz Flash game | 73 | 🗄️ | TypeScript |
 | [Timeline](https://github.com/Times-0/Timeline) | Club Penguin private server emulator in Python | 73 | 🔴 | Python |
-| [MoleWorld-5.5.0-touchHLE-offline](https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline) | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 70 | 🟢 | Rust |
+| [MoleWorld-5.5.0-touchHLE-offline](https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline) | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 71 | 🟢 | Rust |
 | [Yukon server](https://github.com/wizguin/yukon-server) | Server for Yukon, an HTML5 recreation of Club Penguin | 52 | 🟢 | JavaScript |
 | [Eleven Giants server](https://github.com/ElevenGiants/eleven-server) | Game server that revives Tiny Speck's shut-down browser MMO Glitch | 48 | 🔴 | JavaScript |
 | [Slippers](https://github.com/wizguin/slippers) | Club Penguin server emulator for the original 2005 client | 44 | 🟡 | Python |
@@ -124,9 +124,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [WiiLink room-server](https://github.com/WiiLink24/room-server) | Revived backend for the Wii no Ma (Wii Room) Channel | 38 | 🟢 | Python |
 | [nex-protocols-go](https://github.com/PretendoNetwork/nex-protocols-go) | Go implementations of Nintendo NEX protocol definitions for replacement game servers | 37 | 🟢 | Go |
 | [Pretendo Super Mario Maker](https://github.com/PretendoNetwork/super-mario-maker) | Reimplemented NEX game server for Super Mario Maker on Wii U | 33 | 🟢 | Go |
+| [REON](https://github.com/REONTeam/reon) | Server that revives the Japanese Mobile Adapter GB online services | 32 | 🟢 | PHP |
 | [wfc-patcher-wii](https://github.com/WiiLink24/wfc-patcher-wii) | Runtime patcher that points Wii games at WiiLink WFC instead of dead Nintendo WFC | 32 | 🟢 | C++ |
 | [WiiLink ForecastChannel](https://github.com/WiiLink24/ForecastChannel) | File generator that recreates Wii Forecast Channel data feeds | 32 | 🟢 | Go |
-| [REON](https://github.com/REONTeam/reon) | Server that revives the Japanese Mobile Adapter GB online services | 31 | 🟢 | PHP |
 | [Pretendo Grove](https://github.com/PretendoNetwork/Grove) | Replacement Wii U eShop UI | 30 | 🗄️ | JavaScript |
 | [mitmproxy-nintendo](https://github.com/PretendoNetwork/mitmproxy-nintendo) | mitmproxy setup to intercept and inspect Nintendo console traffic | 25 | 🟡 | Dockerfile |
 | [kwz-parser](https://github.com/Flipnote-Collective/kwz-parser) | Python parser for Flipnote Studio 3D's reverse-engineered .kwz format | 24 | 🗄️ | Python |
@@ -171,8 +171,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [Kyber](https://github.com/ArmchairDevelopers/Kyber) | Launcher adding community-hosted servers to Star Wars Battlefront II (2017) | 375 | 🟢 | Dart |
 | [Downlord's FAF client](https://github.com/FAForever/downlords-faf-client) | Client for Forged Alliance Forever, the community online service for Supreme Commander | 218 | 🟢 | Java |
-| [Project Cartographer](https://github.com/pnill/cartographer) | Restores Halo 2 PC (Vista) online multiplayer after Games for Windows Live shutdown | 193 | 🟢 | C |
-| [ZoneInternetGamesServer](https://github.com/provigz/ZoneInternetGamesServer) | Server reviving the Windows 7 and XP Internet Games | 162 | 🟢 | C++ |
+| [Project Cartographer](https://github.com/pnill/cartographer) | Restores Halo 2 PC (Vista) online multiplayer after Games for Windows Live shutdown | 194 | 🟢 | C |
+| [ZoneInternetGamesServer](https://github.com/provigz/ZoneInternetGamesServer) | Server reviving the Windows 7 and XP Internet Games | 163 | 🟢 | C++ |
 | [stmsrvemu](https://github.com/real-pmein1/stmsrvemu) | Emulator for early Steam servers | 135 | 🟢 | Python |
 | [ggposrv](https://github.com/poliva/ggposrv) | Unofficial GGPO matchmaking server reimplementation | 128 | 🔴 | Python |
 | [nfsuserver](https://github.com/HarpyWar/nfsuserver) | Server emulator for Need for Speed: Underground online play | 125 | 🟢 | C++ |

@@ -17,43 +17,43 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 297,982 | 🟢 | TypeScript |
-| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | MCP bridge between IDA Pro and LLM clients | 12,973 | 🟢 | Python |
-| [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP server exposing Ghidra to LLM clients | 11,334 | 🟢 | Java |
-| [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill for reverse engineering Android apps | 8,171 | 🟢 | Shell |
-| [universal-modder](https://github.com/rehan-remade/universal-modder) | Skills and tools that let AI coding agents reverse engineer and mod almost any PC game | 8,134 | 🟢 | Python |
-| [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA Pro plugin using LLMs to explain and rename decompiled functions | 3,488 | 🟢 | Python |
-| [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | JADX plugin exposing an MCP server for AI-assisted Android RE | 2,908 | 🟢 | Java |
-| [reagent](https://github.com/Dryxio/reagent) | Reconstruct and validate C/C++ code from compiled programs with AI | 2,109 | 🟢 | Python |
-| [WPeGPT](https://github.com/WPeace-HcH/WPeGPT) | IDA plugin for AI-assisted binary analysis with OpenAI and DeepSeek models | 1,425 | 🟢 | Python |
-| [open-reverselab](https://github.com/LING71671/open-reverselab) | AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg, Rizin | 1,272 | 🟢 | Python |
-| [ida-mcp](https://github.com/HexRaysSA/ida-mcp) | Official Hex-Rays MCP extension that exposes IDA Pro to AI assistants | 1,240 | 🟢 | Python |
-| [Kong](https://github.com/amruth-sn/kong) | Agentic, fully automated binary reverse engineering | 1,228 | 🟢 | Python |
-| [reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | MCP server exposing Ghidra reverse engineering tasks to LLM agents | 876 | 🟢 | Java |
-| [GhidraGPT](https://github.com/weirdmachine64/GhidraGPT) | Integrates LLMs into Ghidra for AI-assisted reverse engineering | 828 | 🟢 | Java |
-| [jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) | MCP server for the JADX-AI plugin for Android RE | 803 | 🟢 | Python |
-| [unbrowse](https://github.com/unbrowse-ai/unbrowse) | Reverse engineers websites' internal APIs so agents can call them directly | 799 | 🟢 | TypeScript |
-| [GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) | MCP server extension for Ghidra | 775 | 🟢 | Java |
+| [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 314,523 | 🟢 | TypeScript |
+| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | MCP bridge between IDA Pro and LLM clients | 12,992 | 🟢 | Python |
+| [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP server exposing Ghidra to LLM clients | 11,371 | 🟢 | Java |
+| [universal-modder](https://github.com/rehan-remade/universal-modder) | Skills and tools that let AI coding agents reverse engineer and mod almost any PC game | 8,286 | 🟢 | Python |
+| [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill for reverse engineering Android apps | 8,189 | 🟢 | Shell |
+| [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA Pro plugin using LLMs to explain and rename decompiled functions | 3,487 | 🟢 | Python |
+| [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | JADX plugin exposing an MCP server for AI-assisted Android RE | 2,912 | 🟢 | Java |
+| [reagent](https://github.com/Dryxio/reagent) | Reconstruct and validate C/C++ code from compiled programs with AI | 2,117 | 🟢 | Python |
+| [WPeGPT](https://github.com/WPeace-HcH/WPeGPT) | IDA plugin for AI-assisted binary analysis with OpenAI and DeepSeek models | 1,424 | 🟢 | Python |
+| [open-reverselab](https://github.com/LING71671/open-reverselab) | AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg, Rizin | 1,276 | 🟢 | Python |
+| [ida-mcp](https://github.com/HexRaysSA/ida-mcp) | Official Hex-Rays MCP extension that exposes IDA Pro to AI assistants | 1,263 | 🟢 | Python |
+| [Kong](https://github.com/amruth-sn/kong) | Agentic, fully automated binary reverse engineering | 1,232 | 🟢 | Python |
+| [reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | MCP server exposing Ghidra reverse engineering tasks to LLM agents | 877 | 🟢 | Java |
+| [GhidraGPT](https://github.com/weirdmachine64/GhidraGPT) | Integrates LLMs into Ghidra for AI-assisted reverse engineering | 827 | 🟢 | Java |
+| [jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) | MCP server for the JADX-AI plugin for Android RE | 805 | 🟢 | Python |
+| [unbrowse](https://github.com/unbrowse-ai/unbrowse) | Reverse engineers websites' internal APIs so agents can call them directly | 801 | 🟢 | TypeScript |
+| [GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) | MCP server extension for Ghidra | 776 | 🟢 | Java |
 | [GhidrAssist](https://github.com/symgraph/GhidrAssist) | LLM assistant plugin for Ghidra | 764 | 🟢 | Java |
 | [x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) | MCP server for x64dbg | 735 | 🟢 | C# |
 | [DAILA](https://github.com/mahaloz/DAILA) | Decompiler-agnostic AI assistant plugin for IDA, Ghidra, Binja and angr | 711 | 🟢 | Python |
-| [Rikugan](https://github.com/buzzer-re/Rikugan) | Reverse engineering agent for IDA Pro and Binary Ninja | 690 | 🟢 | Python |
+| [Rikugan](https://github.com/buzzer-re/Rikugan) | Reverse engineering agent for IDA Pro and Binary Ninja | 691 | 🟢 | Python |
 | [re-shell](https://github.com/schlarpc/re-shell) | Nix-powered agentic reverse engineering environment | 535 | 🟢 | Nix |
-| [r2ai](https://github.com/radareorg/r2ai) | LLM integration for radare2 | 490 | 🟢 | C |
-| [binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja plugin with MCP server for LLM clients | 454 | 🟢 | Python |
-| [ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp) | Multi-instance IDA Pro MCP server | 454 | 🟢 | Python |
+| [r2ai](https://github.com/radareorg/r2ai) | LLM integration for radare2 | 489 | 🟢 | C |
+| [ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp) | Multi-instance IDA Pro MCP server | 458 | 🟢 | Python |
+| [binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja plugin with MCP server for LLM clients | 455 | 🟢 | Python |
 | [pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp) | Command-line Python Ghidra MCP server | 446 | 🟢 | Python |
-| [idasql](https://github.com/allthingsida/idasql) | SQL interface over IDA Pro databases via live virtual tables for agent-driven RE | 428 | 🟢 | C++ |
+| [idasql](https://github.com/allthingsida/idasql) | SQL interface over IDA Pro databases via live virtual tables for agent-driven RE | 429 | 🟢 | C++ |
 | [GptHidra](https://github.com/evyatar9/GptHidra) | Ghidra plugin using ChatGPT to explain functions | 405 | 🔴 | Python |
 | [jebmcp](https://github.com/flankerhqd/jebmcp) | MCP server for the JEB decompiler | 262 | 🟢 | Python |
-| [binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) | Headless Binary Ninja MCP server for AI agents | 257 | 🟢 | Python |
-| [ghidra-cli](https://github.com/akiselev/ghidra-cli) | CLI for headless Ghidra analysis and decompilation with JSON output for AI agents | 246 | 🟢 | Rust |
+| [binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) | Headless Binary Ninja MCP server for AI agents | 258 | 🟢 | Python |
+| [ghidra-cli](https://github.com/akiselev/ghidra-cli) | CLI for headless Ghidra analysis and decompilation with JSON output for AI agents | 248 | 🟢 | Rust |
 | [rikune](https://github.com/Last-emo-boy/rikune) | MCP server for Windows binary RE: PE triage, Ghidra analysis and reconstruction | 240 | 🗄️ | TypeScript |
 | [ida_copilot](https://github.com/DearVa/ida_copilot) | ChatGPT agent analysing IDA pseudocode | 234 | 🟡 | Python |
 | [bn](https://github.com/banteg/bn) | Binary Ninja CLI for coding agents | 219 | 🟢 | Python |
 | [Reversecore_MCP](https://github.com/sjkim1127/Reversecore_MCP) | MCP server that lets AI agents run reverse engineering and binary analysis tools | 211 | 🟢 | Python |
-| [ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp) | Headless Ghidra MCP server for AI agents | 193 | 🟢 | Python |
-| [re-skill](https://github.com/vgrichina/re-skill) | Claude Code skill for reverse engineering retro games | 171 | 🟢 | Shell |
+| [ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp) | Headless Ghidra MCP server for AI agents | 194 | 🟢 | Python |
+| [re-skill](https://github.com/vgrichina/re-skill) | Claude Code skill for reverse engineering retro games | 172 | 🟢 | Shell |
 | [HopperMCP](https://github.com/MxIris-Reverse-Engineering/HopperMCP) | MCP server for Hopper Disassembler | 162 | 🗄️ | Objective-C |
 | [GhidrOllama](https://github.com/lr-m/GhidrOllama) | Ghidra script analysing functions with local Ollama LLMs | 155 | 🟡 | Python |
 | [GhidraChatGPT](https://github.com/likvidera/GhidraChatGPT) | Brings ChatGPT into Ghidra | 152 | 🗄️ | Java |
@@ -61,7 +61,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [decyx](https://github.com/philsajdak/decyx) | AI-powered Ghidra extension | 139 | 🟢 | Python |
 | [polar](https://github.com/ant4g0nist/polar) | LLDB plugin bringing LLMs to LLDB | 132 | 🟡 | Python |
 | [x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) | MCP server for the x64dbg debugger for AI-assisted reverse engineering | 132 | 🟢 | C++ |
-| [DecompilerServer](https://github.com/pardeike/DecompilerServer) | MCP server for decompiling and analysing .NET assemblies | 121 | 🟢 | C# |
+| [DecompilerServer](https://github.com/pardeike/DecompilerServer) | MCP server for decompiling and analysing .NET assemblies | 122 | 🟢 | C# |
 | [windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext) | WinDbg extension that disassembles live functions and decompiles with an LLM | 111 | 🟢 | C++ |
 | [iOS-reverse-engineering-claude-skill](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill) | Claude Code skill to extract and reverse engineer iOS apps | 107 | 🟢 | Shell |
 | [kernagent](https://github.com/Karib0u/kernagent) | Headless AI agent for deterministic reverse engineering | 103 | 🟢 | Python |
@@ -71,15 +71,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [r0idamcp](https://github.com/r0ysue/r0idamcp) | SSE MCP server plugin for IDA Pro | 82 | 🟡 | Python |
 | [Ryuumonbuchi](https://github.com/elliottophellia/Ryuumonbuchi) | Headless Ghidra MCP server | 79 | 🟢 | Python |
 | [binaryninja-openai](https://github.com/WhatTheFuzz/binaryninja-openai) | Integrates OpenAI with Binary Ninja | 77 | 🟡 | Python |
-| [ILSpy-Mcp](https://github.com/bivex/ILSpy-Mcp) | MCP server exposing ILSpy .NET decompilation to AI assistants | 73 | 🟢 | C# |
+| [ILSpy-Mcp](https://github.com/bivex/ILSpy-Mcp) | MCP server exposing ILSpy .NET decompilation to AI assistants | 74 | 🟢 | C# |
 | [BinAssist](https://github.com/symgraph/BinAssist) | Binary Ninja plugin providing LLM assistance | 67 | 🟢 | Python |
 | [recopilot](https://github.com/XingTuLab/recopilot) | ReCopilot reverse engineering copilot for binary analysis | 66 | 🟢 | Python |
 | [x64dbg-rippy](https://github.com/dariushoule/x64dbg-rippy) | AI reverse engineering assistant chat panel for x64dbg | 62 | 🟢 | C++ |
+| [super-trouper](https://github.com/crissyfield/super-trouper) | MCP server exposing Frida dynamic instrumentation to AI agents | 59 | 🟢 | Go |
 | [Vibe-Reverse-Engineering](https://github.com/Ekozmaster/Vibe-Reverse-Engineering) | LLM-friendly tools for Cursor to reverse engineer binaries, especially games | 59 | 🟢 | C++ |
-| [super-trouper](https://github.com/crissyfield/super-trouper) | MCP server exposing Frida dynamic instrumentation to AI agents | 54 | 🟢 | Go |
 | [grokathon (Nova)](https://github.com/theodorechapman/grokathon) | Grok Build harness that reverse engineers old binaries; Grokathon winner | 37 | 🟢 | Python |
 | [Reverse-engineering-agent](https://github.com/The-Arabi/Reverse-engineering-agent) | MCP server giving AI agents 46 RE tools (Ghidra, GDB, Binwalk) | 35 | 🟢 | Python |
-| [romdev](https://github.com/monteslu/romdev) | Tool server for agents doing homebrew ROM development and romhacking on 18 retro platforms | 22 | 🟢 | JavaScript |
+| [romdev](https://github.com/monteslu/romdev) | Tool server for agents doing homebrew ROM development and romhacking on 18 retro platforms | 23 | 🟢 | JavaScript |
 | [deobfuscate-mcp-server](https://github.com/MadeByTokens/deobfuscate-mcp-server) | MCP server helping LLMs reverse-engineer minified JavaScript | 18 | 🟢 | TypeScript |
 | [asmsense](https://github.com/krxi/asmsense) | Small model that names and describes functions in stripped x86-64 binaries, with open dataset | 16 | 🟢 | Python |
 | [2api-skill](https://github.com/69gg/2api-skill) | Agent skill to reverse-engineer any webchat into an OpenAI/Anthropic API | 14 | 🟢 | Python |
@@ -93,27 +93,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Program for determining file types, compilers and packers | 11,746 | 🟢 | JavaScript |
-| [capa](https://github.com/mandiant/capa) | FLARE tool that identifies capabilities in executable files | 6,249 | 🟢 | Python |
+| [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) | Program for determining file types, compilers and packers | 11,751 | 🟢 | JavaScript |
+| [capa](https://github.com/mandiant/capa) | FLARE tool that identifies capabilities in executable files | 6,251 | 🟢 | Python |
 | [LIEF](https://github.com/lief-project/LIEF) | Library to parse and modify ELF, PE and Mach-O binaries | 5,596 | 🟢 | C++ |
-| [binsider](https://github.com/orhun/binsider) | Terminal UI to analyze ELF binaries | 4,483 | 🟢 | Rust |
-| [PE-bear](https://github.com/hasherezade/pe-bear) | Multiplatform PE file reversing tool | 3,851 | 🟢 | C++ |
-| [DIE-engine](https://github.com/horsicq/DIE-engine) | Detect It Easy engine for identifying file types, packers and compilers | 3,318 | 🟢 | C++ |
+| [binsider](https://github.com/orhun/binsider) | Terminal UI to analyze ELF binaries | 4,484 | 🟢 | Rust |
+| [PE-bear](https://github.com/hasherezade/pe-bear) | Multiplatform PE file reversing tool | 3,854 | 🟢 | C++ |
+| [DIE-engine](https://github.com/horsicq/DIE-engine) | Detect It Easy engine for identifying file types, packers and compilers | 3,322 | 🟢 | C++ |
 | [rehex](https://github.com/solemnwarning/rehex) | Reverse-engineers' hex editor with structure annotation | 2,482 | 🟢 | C++ |
-| [pefile](https://github.com/erocarrera/pefile) | Python module to read and work with PE files | 2,076 | 🟢 | Python |
+| [pefile](https://github.com/erocarrera/pefile) | Python module to read and work with PE files | 2,077 | 🟢 | Python |
 | [bincat](https://github.com/airbus-seclab/bincat) | Static binary analyser with value/taint analysis and type reconstruction for IDA | 1,880 | 🟡 | OCaml |
 | [pharos](https://github.com/cmu-sei/pharos) | Automated static analysis tools for binary programs | 1,739 | 🟢 | C++ |
-| [pbtk](https://github.com/marin-m/pbtk) | Toolset to extract .proto definitions from apps and fuzz Protobuf-based endpoints | 1,690 | 🟢 | Python |
+| [pbtk](https://github.com/marin-m/pbtk) | Toolset to extract .proto definitions from apps and fuzz Protobuf-based endpoints | 1,692 | 🟢 | Python |
 | [XELFViewer](https://github.com/horsicq/XELFViewer) | ELF file viewer and editor | 1,587 | 🟢 | C++ |
 | [binocle](https://github.com/sharkdp/binocle) | Graphical tool to visualize binary data | 1,326 | 🟡 | Rust |
 | [XPEViewer](https://github.com/horsicq/XPEViewer) | PE file viewer and editor | 1,241 | 🟢 | QMake |
 | [Veles](https://github.com/codilime/veles) | Binary data visualization and analysis tool | 1,239 | 🗄️ | C++ |
-| [e9patch](https://github.com/GJDuck/e9patch) | Static binary rewriting tool for x86-64 ELF binaries | 1,157 | 🟢 | C |
-| [AsmResolver](https://github.com/Washi1337/AsmResolver) | Library for reading, editing and writing PE files and .NET modules | 1,129 | 🟢 | C# |
+| [e9patch](https://github.com/GJDuck/e9patch) | Static binary rewriting tool for x86-64 ELF binaries | 1,158 | 🟢 | C |
+| [AsmResolver](https://github.com/Washi1337/AsmResolver) | Library for reading, editing and writing PE files and .NET modules | 1,130 | 🟢 | C# |
 | [protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) | Tool to reverse engineer Protocol Buffers messages with unknown definitions | 1,128 | 🔴 | Python |
 | [HexWalk](https://github.com/gcarmix/HexWalk) | Hex viewer, editor and analyzer with binwalk integration | 1,027 | 🟢 | C++ |
 | [XMachOViewer](https://github.com/horsicq/XMachOViewer) | Mach-O file viewer for Windows, Linux and macOS | 969 | 🟢 | C++ |
-| [PDBRipper](https://github.com/horsicq/PDBRipper) | Extracts type and symbol information from PDB files | 908 | 🟢 | C++ |
+| [PDBRipper](https://github.com/horsicq/PDBRipper) | Extracts type and symbol information from PDB files | 907 | 🟢 | C++ |
 | [biodiff](https://github.com/8051Enthusiast/biodiff) | Hex diff viewer using sequence alignment algorithms | 894 | 🟡 | Rust |
 | [hal](https://github.com/emsec/hal) | Hardware netlist reverse engineering and analysis framework | 837 | 🟢 | C++ |
 | [readpe](https://github.com/mentebinaria/readpe) | PE file analysis toolkit | 790 | 🟢 | C |
@@ -136,9 +136,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [idenLib](https://github.com/secrary/idenLib) | Library function identification for stripped binaries | 395 | 🔴 | C++ |
 | [windiff](https://github.com/ergrelet/windiff) | Compare symbols, types and syscalls across Windows builds | 392 | 🟢 | Rust |
 | [gtirb](https://github.com/GrammaTech/gtirb) | Intermediate representation for binary analysis and rewriting | 383 | 🟢 | C++ |
-| [knife](https://github.com/bl4ckr0ss3/knife) | Terminal-first Rust RE toolkit for PE/ELF/Mach-O analysis via CLI, TUI and MCP | 381 | 🟢 | Rust |
+| [knife](https://github.com/bl4ckr0ss3/knife) | Terminal-first Rust RE toolkit for PE/ELF/Mach-O analysis via CLI, TUI and MCP | 383 | 🟢 | Rust |
 | [resym](https://github.com/ergrelet/resym) | Browse and extract C/C++ type declarations from PDB files | 373 | 🟡 | Rust |
-| [hexerator](https://github.com/crumblingstatue/hexerator) | GUI hex editor focused on binary file exploration and pattern recognition | 371 | 🟢 | Rust |
+| [hexerator](https://github.com/crumblingstatue/hexerator) | GUI hex editor focused on binary file exploration and pattern recognition | 372 | 🟢 | Rust |
 | [CoBRA](https://github.com/trailofbits/CoBRA) | Mixed Boolean-Arithmetic expression deobfuscation via coefficient reconstruction | 354 | 🟢 | C++ |
 | [sass-king](https://github.com/florianmattana/sass-king) | Reverse engineered NVIDIA SASS instruction dictionary and kernel audit patterns across GPU architectures | 346 | 🟢 | Cuda |
 | [evbunpack](https://github.com/mos9527/evbunpack) | Enigma Virtual Box unpacker | 334 | 🗄️ | Python |
@@ -156,7 +156,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fugue-core](https://github.com/fugue-re/fugue-core) | Binary analysis framework written in Rust | 186 | 🟢 | Rust |
 | [degate](https://github.com/nitram2342/degate) | Open source software for chip reverse engineering from die images | 175 | 🗄️ | C++ |
 | [qiew](https://github.com/mtivadar/qiew) | Hex/file format viewer for reverse engineering | 174 | 🔴 | Python |
-| [delsum](https://github.com/8051Enthusiast/delsum) | Checksum reverse engineering toolbox that finds checksum parameters from samples | 169 | 🟡 | Rust |
+| [delsum](https://github.com/8051Enthusiast/delsum) | Checksum reverse engineering toolbox that finds checksum parameters from samples | 168 | 🟡 | Rust |
 | [idbutil](https://github.com/nlitsme/idbutil) | Library and tool for reading IDA Pro databases | 165 | 🟡 | C++ |
 | [pyidbutil](https://github.com/nlitsme/pyidbutil) | Python library for reading IDA Pro databases | 161 | 🟡 | Python |
 | [resource_dasm](https://github.com/fuzziqersoftware/resource_dasm) | Classic Mac OS resource fork decoder and 68K/PPC disassembler with format-specific RE tools | 158 | 🟢 | C++ |
@@ -167,7 +167,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pdb-decompiler](https://github.com/camden-smallwood/pdb-decompiler) | Decompiles MSVC PDB files into C++ source declarations | 139 | 🟢 | Rust |
 | [ProtobufDecoder](https://github.com/sandermvanvliet/ProtobufDecoder) | Protobuf payload decoder and analyzer without schema | 104 | 🟡 | C# |
 | [crcbeagle](https://github.com/colinoflynn/crcbeagle) | CRC reverse engineering tool in Python | 97 | 🔴 | Python |
-| [rustbinsign](https://github.com/N0fix/rustbinsign) | Rust symbol recovery tool | 92 | 🟢 | Python |
+| [rustbinsign](https://github.com/N0fix/rustbinsign) | Rust symbol recovery tool | 93 | 🟢 | Python |
 | [patchestry](https://github.com/lifting-bits/patchestry) | Binary patching framework built with MLIR and Ghidra | 88 | 🟢 | C++ |
 | [retools](https://github.com/agustingianni/retools) | Reverse engineering toolkit including ARM emulator and spec-derived disassembler | 88 | 🔴 | C++ |
 | [pbd](https://github.com/rsc-dev/pbd) | Disassembles serialized protobuf descriptors back to .proto | 86 | 🔴 | Python |
@@ -193,52 +193,52 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Diaphora](https://github.com/joxeankoret/diaphora) | Program diffing plugin for IDA, Ghidra-compatible exports | 4,430 | 🟢 | Python |
-| [PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | 3,550 | 🟢 | C++ |
-| [BinDiff](https://github.com/google/bindiff) | Binary diffing tool for comparing disassembled code | 3,209 | 🟢 | Java |
-| [ghidriff](https://github.com/clearbluejar/ghidriff) | Ghidra-based command-line binary diffing engine | 813 | 🟢 | Python |
-| [BinSync](https://github.com/binsync/binsync) | Reverse-engineering collaboration and sync across decompilers | 753 | 🟢 | Python |
+| [Diaphora](https://github.com/joxeankoret/diaphora) | Program diffing plugin for IDA, Ghidra-compatible exports | 4,431 | 🟢 | Python |
+| [PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | 3,570 | 🟢 | C++ |
+| [BinDiff](https://github.com/google/bindiff) | Binary diffing tool for comparing disassembled code | 3,210 | 🟢 | Java |
+| [ghidriff](https://github.com/clearbluejar/ghidriff) | Ghidra-based command-line binary diffing engine | 814 | 🟢 | Python |
+| [BinSync](https://github.com/binsync/binsync) | Reverse-engineering collaboration and sync across decompilers | 754 | 🟢 | Python |
 | [DecompilerMC](https://github.com/hube12/DecompilerMC) | Decompiles any Minecraft version using official mappings | 720 | 🗄️ | Python |
-| [m2c](https://github.com/matt-kempster/m2c) | MIPS/PowerPC/ARM assembly to C decompiler aimed at matching output | 661 | 🟢 | Python |
+| [m2c](https://github.com/matt-kempster/m2c) | MIPS/PowerPC/ARM assembly to C decompiler aimed at matching output | 662 | 🟢 | Python |
 | [ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) | Ghidra extension exporting relocatable object files for delinking | 608 | 🟢 | Assembly |
-| [objdiff](https://github.com/encounter/objdiff) | Local object-file diffing tool for matching decompilation projects | 596 | 🟢 | Rust |
-| [RecompOne](https://github.com/BlackLabelHQ/RecompOne) | PSX Static Recompiler and Runtime, Not Affiliated With Sony or PlayStation | 570 | 🟢 | C# |
+| [objdiff](https://github.com/encounter/objdiff) | Local object-file diffing tool for matching decompilation projects | 599 | 🟢 | Rust |
+| [RecompOne](https://github.com/BlackLabelHQ/RecompOne) | PSX Static Recompiler and Runtime, Not Affiliated With Sony or PlayStation | 577 | 🟢 | C# |
 | [XenosRecomp](https://github.com/hedge-dev/XenosRecomp) | A tool for converting Xbox 360 shaders to HLSL. | 502 | 🟢 | C++ |
-| [splat](https://github.com/ethteck/splat) | Binary splitting tool for N64, PS1, PS2 and PSP decompilation projects | 368 | 🟢 | Python |
+| [splat](https://github.com/ethteck/splat) | Binary splitting tool for N64, PS1, PS2 and PSP decompilation projects | 370 | 🟢 | Python |
 | [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) | Tools for building and disassembling Pokemon Red and Crystal | 352 | 🗄️ | Python |
 | [mgbdis](https://github.com/mattcurrie/mgbdis) | Game Boy ROM disassembler with RGBDS-compatible output | 327 | 🟢 | Assembly |
-| [decomp-toolkit](https://github.com/encounter/decomp-toolkit) | GameCube/Wii decompilation toolkit: splits binaries and generates build configs | 312 | 🟢 | Rust |
-| [poryscript](https://github.com/huderlem/poryscript) | High-level scripting language for Gen 3 Pokemon decompilation projects | 306 | 🟢 | Go |
-| [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) | Randomly permutes C code to find a match with target assembly | 233 | 🟢 | Python |
-| [xboxrecomp](https://github.com/sp00nznet/xboxrecomp) | Static recompiler turning original Xbox game binaries into native Windows executables | 233 | 🟢 | C |
+| [decomp-toolkit](https://github.com/encounter/decomp-toolkit) | GameCube/Wii decompilation toolkit: splits binaries and generates build configs | 313 | 🟢 | Rust |
+| [poryscript](https://github.com/huderlem/poryscript) | High-level scripting language for Gen 3 Pokemon decompilation projects | 307 | 🟢 | Go |
+| [xboxrecomp](https://github.com/sp00nznet/xboxrecomp) | Static recompiler turning original Xbox game binaries into native Windows executables | 249 | 🟢 | C |
+| [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) | Randomly permutes C code to find a match with target assembly | 234 | 🟢 | Python |
 | [psx-modding-toolchain](https://github.com/mateusfavarin/psx-modding-toolchain) | Tools to mod and reverse engineer PlayStation 1 games | 194 | 🟢 | C |
-| [wibo](https://github.com/decompals/wibo) | Minimal Windows binary loader to run old Win32 compilers on Linux | 183 | 🟢 | C++ |
+| [wibo](https://github.com/decompals/wibo) | Minimal Windows binary loader to run old Win32 compilers on Linux | 184 | 🟢 | C++ |
 | [rabbitizer](https://github.com/Decompollaborate/rabbitizer) | MIPS instruction decoder library used by decomp tooling | 182 | 🟢 | C |
-| [asm-differ](https://github.com/simonlindholm/asm-differ) | Assembly differ for matching decompilation work | 177 | 🟢 | Python |
+| [asm-differ](https://github.com/simonlindholm/asm-differ) | Assembly differ for matching decompilation work | 178 | 🟢 | Python |
 | [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) | Ghidra loader module for Nintendo 64 ROMs | 172 | 🟢 | Java |
 | [reccmp](https://github.com/isledecomp/reccmp) | Tools for comparing recompiled code against original binaries | 159 | 🟢 | Python |
 | [ccc](https://github.com/chaoticgd/ccc) | Library and tools for parsing PS2 debugging symbols | 109 | 🟢 | C++ |
 | [llvm8](https://github.com/ioncodes/llvm8) | Statically recompiling CHIP8 to Windows and macOS using LLVM | 99 | 🔴 | C++ |
 | [ds-decomp](https://github.com/AetiasHax/ds-decomp) | Toolkit for decompiling Nintendo DS games | 96 | 🟢 | Rust |
-| [dtk-template](https://github.com/encounter/dtk-template) | Project template for decomp-toolkit GameCube/Wii decompilations | 85 | 🟢 | Python |
+| [dtk-template](https://github.com/encounter/dtk-template) | Project template for decomp-toolkit GameCube/Wii decompilations | 86 | 🟢 | Python |
 | [ido-static-recomp](https://github.com/decompals/ido-static-recomp) | Static recompilation of the IDO 5.3 and 7.1 compilers for modern platforms | 83 | 🟡 | C++ |
 | [spimdisasm](https://github.com/Decompollaborate/spimdisasm) | MIPS disassembler that produces matching-ready assembly for decomp projects | 83 | 🟢 | Python |
+| [SwitchRecomp](https://github.com/bgyss/SwitchRecomp) | Preservation-focused static recompilation research for Nintendo Switch. | 83 | 🟢 | Rust |
 | [porytiles](https://github.com/grunt-lucas/porytiles) | Overworld tileset compiler for Gen III Pokemon decompilation projects | 80 | 🟢 | C++ |
-| [SwitchRecomp](https://github.com/bgyss/SwitchRecomp) | Preservation-focused static recompilation research for Nintendo Switch. | 79 | 🟢 | Rust |
-| [Mizuchi](https://github.com/macabeus/mizuchi) | Pipeline that combines m2c, permuter, objdiff and AI to auto-decompile functions | 77 | 🟢 | TypeScript |
+| [Mizuchi](https://github.com/macabeus/mizuchi) | Pipeline that combines m2c, permuter, objdiff and AI to auto-decompile functions | 78 | 🟢 | TypeScript |
 | [mzretools](https://github.com/neuviemeporte/mzretools) | Tools for reversing DOS games via MZ executable inspection | 72 | 🟢 | C++ |
 | [ZomboidDecompiler](https://github.com/demiurgeQuantified/ZomboidDecompiler) | Decompilation tool specialised for Project Zomboid using Vineflower | 67 | 🟢 | Java |
 | [Ghidra-SegaSaturn-Loader](https://github.com/VGKintsugi/Ghidra-SegaSaturn-Loader) | Sega Saturn loader for Ghidra | 60 | 🟢 | Java |
 | [ds_disassembly_tools](https://github.com/pret/ds_disassembly_tools) | Scripts to set up a Nintendo DS disassembly project | 57 | 🔴 | Python |
-| [pmdsky-debug](https://github.com/UsernameFodder/pmdsky-debug) | Debug info for reverse engineering Pokemon Mystery Dungeon: Explorers of Sky | 54 | 🟢 | C |
+| [pmdsky-debug](https://github.com/UsernameFodder/pmdsky-debug) | Debug info for reverse engineering Pokemon Mystery Dungeon: Explorers of Sky | 55 | 🟢 | C |
 | [NESgen](https://github.com/Xenomega/NESgen) | Static Recompilation of NES ROMs to C code | 53 | 🗄️ | C |
 | [Kappa](https://github.com/macabeus/kappa) | VS Code extension assisting matching decompilation work | 52 | 🟢 | TypeScript |
-| [psretrox](https://github.com/cualquiercosa327/psretrox) | PlayStation 2 decompilation and recompilation tool | 51 | 🟡 | C++ |
+| [psretrox](https://github.com/cualquiercosa327/psretrox) | PlayStation 2 decompilation and recompilation tool | 52 | 🟡 | C++ |
 | [PSP-recompilation-project](https://github.com/sal063/PSP-recompilation-project) | Static recompiler for PSP games with native rendering | 47 | 🟢 | C |
 | [n64sym](https://github.com/shygoo/n64sym) | Symbol identification tool for N64 ROMs | 46 | 🔴 | Standard ML |
-| [gba-recomp](https://github.com/JRickey/gba-recomp) | Static recompilation tool and runtime for the GBA | 41 | 🟢 | Rust |
+| [gba-recomp](https://github.com/JRickey/gba-recomp) | Static recompilation tool and runtime for the GBA | 45 | 🟢 | Rust |
+| [3dsrecomp](https://github.com/fearkov/3dsrecomp) | Static recompiler for Nintendo 3DS games, from ARM to C | 41 | 🟢 | Rust |
 | [sega2asm](https://github.com/hansbonini/sega2asm) | Sega Genesis / Mega Drive disassembler and splitter in Go | 40 | 🟢 | Go |
-| [3dsrecomp](https://github.com/fearkov/3dsrecomp) | Static recompiler for Nintendo 3DS games, from ARM to C | 38 | 🟢 | Rust |
 | [gilgamesh](https://github.com/AndreaOrru/gilgamesh) | SNES reverse engineering toolkit with static recompilation support | 37 | 🔴 | C++ |
 | [mapfile_parser](https://github.com/Decompollaborate/mapfile_parser) | Parses linker map files for decomp progress tracking | 31 | 🟢 | Rust |
 | [NWiiRecomp](https://github.com/BlackLineInteractive/NWiiRecomp) | Static recompilation and runtime toolkit for Nintendo GameCube and Wii to make native PC ports (and not only) | 31 | 🟢 | C++ |
@@ -246,13 +246,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [delink](https://github.com/HaydnTrigg/delink) | Splitting tool for decompilation projects | 26 | 🟢 | Rust |
 | [RecompCore](https://github.com/aharonahdoot/RecompCore) | A static-recompilation CPU core for Dolphin — run GameCube games as native code, with transparent interpreter fallback | 21 | 🟢 | C++ |
 | [n64-decomp-workbench](https://github.com/akratch/n64-decomp-workbench) | Relocation-aware diffs to find late-stage MIPS decompilation mismatches | 20 | 🟢 | Python |
+| [nWiiURecomp](https://github.com/BlackLineInteractive/nWiiURecomp) | Static recompilation and runtime toolkit for Nintendo Wii U (based on NWiiRecomp) to make native PC ports (and not only) | 18 | 🟢 | C++ |
 | [SaturnRecomp](https://github.com/sonsegajp/SaturnRecomp) | Experimental clean-room Sega Saturn runtime and static recompilation toolkit | 18 | 🟢 | C |
-| [nWiiURecomp](https://github.com/BlackLineInteractive/nWiiURecomp) | Static recompilation and runtime toolkit for Nintendo Wii U (based on NWiiRecomp) to make native PC ports (and not only) | 17 | 🟢 | C++ |
 | [gba-matching-decomp-skill](https://github.com/FacundoMainere/gba-matching-decomp-skill) | Claude Code skill for matching decompilation of GBA ROMs with agbcc, from splitting to decomp.dev | 15 | 🟢 | Python |
 | [model3recomp](https://github.com/sp00nznet/model3recomp) | Sega Model 3 hardware runtime and PowerPC 603e static recompiler. Link a recompiled Model 3 game against native C har... | 15 | 🟢 | C |
+| [PS4Recomp](https://github.com/wie-project/PS4Recomp) | Experimental macOS Apple Silicon first recompiler of PS4 programs | 14 | 🟢 | C |
 | [m3c](https://github.com/ethteck/m3c) | Assists N64 decompilation by running m2c and decomp-permuter to find matches | 13 | 🟡 | Python |
 | [NDS-Decompilation-Project-Maker](https://github.com/Ed-1T/NDS-Decompilation-Project-Maker) | Creates an XML decompilation project from a Nintendo DS ROM | 12 | 🔴 | C# |
-| [PS4Recomp](https://github.com/wie-project/PS4Recomp) | Experimental macOS Apple Silicon first recompiler of PS4 programs | 12 | 🟢 | C |
 | [GXRuntime](https://github.com/aharonahdoot/GXRuntime) | Game-agnostic GameCube static-recompilation runtime: CPU semantics, devices, GX renderer (work in progress) | 8 | 🟢 | C++ |
 | [model2recomp](https://github.com/sp00nznet/model2recomp) | A Sega Model 2 hardware runtime for statically recompiled games: geometry engine, rasterizer, tilemaps and TGP coproc... | 8 | 🟢 | C |
 | [nakagawa-recomp](https://github.com/Jstar269/nakagawa-recomp) | Experimental PSP static recompiler and native runtime using user-supplied lawful inputs. | 8 | 🟢 | Python |
@@ -265,41 +265,41 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 89,894 | 🟢 | Java |
-| [x64dbg](https://github.com/x64dbg/x64dbg) | Open source user-mode debugger for Windows | 49,909 | 🟢 | C++ |
-| [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger, decompiler and assembly editor | 29,662 | 🗄️ | C# |
-| [ILSpy](https://github.com/icsharpcode/ILSpy) | Cross-platform .NET decompiler | 26,681 | 🟢 | C# |
-| [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and toolset | 25,065 | 🟢 | C |
-| [Cutter](https://github.com/rizinorg/cutter) | Free RE platform/GUI powered by rizin | 20,043 | 🟢 | C++ |
-| [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | Java JAR and Android APK reverse engineering suite with multiple decompilers, editor and debugger | 15,675 | 🟢 | Java |
-| [JD-GUI](https://github.com/java-decompiler/jd-gui) | Standalone GUI Java decompiler | 15,210 | 🟡 | Java |
-| [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | Revival of dnSpy .NET debugger and assembly editor | 11,281 | 🟢 | C# |
-| [angr](https://github.com/angr/angr) | Python binary analysis framework with symbolic execution and decompiler | 9,203 | 🟢 | Python |
-| [Capstone](https://github.com/capstone-engine/capstone) | Multi-architecture disassembly framework | 9,111 | 🟢 | C |
+| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 90,510 | 🟢 | Java |
+| [x64dbg](https://github.com/x64dbg/x64dbg) | Open source user-mode debugger for Windows | 49,930 | 🟢 | C++ |
+| [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger, decompiler and assembly editor | 29,660 | 🗄️ | C# |
+| [ILSpy](https://github.com/icsharpcode/ILSpy) | Cross-platform .NET decompiler | 26,698 | 🟢 | C# |
+| [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and toolset | 25,074 | 🟢 | C |
+| [Cutter](https://github.com/rizinorg/cutter) | Free RE platform/GUI powered by rizin | 20,048 | 🟢 | C++ |
+| [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | Java JAR and Android APK reverse engineering suite with multiple decompilers, editor and debugger | 15,677 | 🟢 | Java |
+| [JD-GUI](https://github.com/java-decompiler/jd-gui) | Standalone GUI Java decompiler | 15,208 | 🟡 | Java |
+| [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | Revival of dnSpy .NET debugger and assembly editor | 11,292 | 🟢 | C# |
+| [angr](https://github.com/angr/angr) | Python binary analysis framework with symbolic execution and decompiler | 9,211 | 🟢 | Python |
+| [Capstone](https://github.com/capstone-engine/capstone) | Multi-architecture disassembly framework | 9,112 | 🟢 | C |
 | [RetDec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM | 8,649 | 🟢 | C++ |
 | [Recaf](https://github.com/Col-E/Recaf) | Java bytecode editor and decompiler front end | 7,437 | 🟢 | Java |
-| [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) | LLMs that decompile binary code to C | 7,135 | 🟢 | Python |
-| [JPEXS FFDec](https://github.com/jindrapetrik/jpexs-decompiler) | Open-source Flash SWF decompiler and editor | 5,947 | 🟢 | Java |
-| [GhidraMCP (bethington)](https://github.com/bethington/ghidra-mcp) | Ghidra MCP server exposing 200+ tools for AI-assisted reverse engineering | 5,710 | 🟢 | Java |
-| [pycdc](https://github.com/zrax/pycdc) | C++ Python bytecode disassembler and decompiler | 4,651 | 🟢 | C++ |
-| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | Extractor for PyInstaller-generated executables | 4,506 | 🟢 | Python |
-| [Fernflower](https://github.com/JetBrains/fernflower) | Analytical Java bytecode decompiler used in IntelliJ IDEA | 4,422 | 🟢 | Java |
+| [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) | LLMs that decompile binary code to C | 7,139 | 🟢 | Python |
+| [JPEXS FFDec](https://github.com/jindrapetrik/jpexs-decompiler) | Open-source Flash SWF decompiler and editor | 5,949 | 🟢 | Java |
+| [GhidraMCP (bethington)](https://github.com/bethington/ghidra-mcp) | Ghidra MCP server exposing 200+ tools for AI-assisted reverse engineering | 5,744 | 🟢 | Java |
+| [pycdc](https://github.com/zrax/pycdc) | C++ Python bytecode disassembler and decompiler | 4,653 | 🟢 | C++ |
+| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | Extractor for PyInstaller-generated executables | 4,507 | 🟢 | Python |
+| [Fernflower](https://github.com/JetBrains/fernflower) | Analytical Java bytecode decompiler used in IntelliJ IDEA | 4,424 | 🟢 | Java |
 | [uncompyle6](https://github.com/rocky/python-uncompyle6) | Cross-version Python bytecode decompiler | 4,331 | 🟢 | Python |
-| [Miasm](https://github.com/cea-sec/miasm) | Python reverse engineering framework: disassembly, IR, symbolic execution, emulation | 3,993 | 🟢 | Python |
-| [rizin](https://github.com/rizinorg/rizin) | UNIX-like reverse engineering framework (radare2 fork) | 3,991 | 🟢 | C |
+| [rizin](https://github.com/rizinorg/rizin) | UNIX-like reverse engineering framework (radare2 fork) | 3,996 | 🟢 | C |
+| [Miasm](https://github.com/cea-sec/miasm) | Python reverse engineering framework: disassembly, IR, symbolic execution, emulation | 3,994 | 🟢 | Python |
 | [Plasma](https://github.com/plasma-disassembler/plasma) | Interactive disassembler for x86/ARM/MIPS with pseudo-C output | 3,071 | 🔴 | Python |
 | [Mono.Cecil](https://github.com/jbevain/cecil) | Library to inspect and modify .NET CIL assemblies | 3,005 | 🟡 | C# |
-| [webcrack](https://github.com/j4k0xb/webcrack) | Deobfuscates obfuscator.io output and unpacks bundled JavaScript | 2,963 | 🟢 | TypeScript |
+| [webcrack](https://github.com/j4k0xb/webcrack) | Deobfuscates obfuscator.io output and unpacks bundled JavaScript | 2,964 | 🟢 | TypeScript |
 | [binnavi](https://github.com/google/binnavi) | Binary analysis IDE for inspecting and annotating control flow graphs | 2,886 | 🗄️ | Java |
-| [CFR](https://github.com/leibnitz27/cfr) | Java decompiler supporting modern Java features | 2,722 | 🟢 | Java |
-| [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) | Dogbolt: compare output of many decompilers in the browser | 2,714 | 🟢 | Python |
-| [Keystone](https://github.com/keystone-engine/keystone) | Multi-architecture assembler framework | 2,650 | 🟢 | C++ |
+| [CFR](https://github.com/leibnitz27/cfr) | Java decompiler supporting modern Java features | 2,724 | 🟢 | Java |
+| [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) | Dogbolt: compare output of many decompilers in the browser | 2,716 | 🟢 | Python |
+| [Keystone](https://github.com/keystone-engine/keystone) | Multi-architecture assembler framework | 2,649 | 🟢 | C++ |
 | [Reko](https://github.com/uxmal/reko) | General-purpose binary decompiler supporting many CPU architectures | 2,618 | 🟢 | C# |
 | [dnlib](https://github.com/0xd4d/dnlib) | Library to read and write .NET assemblies and modules | 2,487 | 🟢 | C# |
-| [flare-ida](https://github.com/mandiant/flare-ida) | IDA Pro utilities from the FLARE team | 2,449 | 🗄️ | Python |
-| [Vineflower](https://github.com/Vineflower/vineflower) | Modern Java decompiler (Fernflower fork, formerly Quiltflower) | 2,411 | 🟢 | Java |
+| [flare-ida](https://github.com/mandiant/flare-ida) | IDA Pro utilities from the FLARE team | 2,448 | 🗄️ | Python |
+| [Vineflower](https://github.com/Vineflower/vineflower) | Modern Java decompiler (Fernflower fork, formerly Quiltflower) | 2,413 | 🟢 | Java |
 | [ret-sync](https://github.com/bootleg/ret-sync) | Synchronizes debugger sessions with IDA, Ghidra and Binary Ninja | 2,401 | 🟢 | C |
-| [BAP](https://github.com/BinaryAnalysisPlatform/bap) | Binary Analysis Platform for lifting and analysing binaries | 2,262 | 🟢 | OCaml |
+| [BAP](https://github.com/BinaryAnalysisPlatform/bap) | Binary Analysis Platform for lifting and analysing binaries | 2,263 | 🟢 | OCaml |
 | [Snowman](https://github.com/yegord/snowman) | Native code to C/C++ decompiler for x86, x86-64 and ARM | 2,244 | 🗄️ |  |
 | [keypatch](https://github.com/keystone-engine/keypatch) | Multi-architecture assembler plugin for IDA Pro | 1,882 | 🟡 | Python |
 | [remill](https://github.com/lifting-bits/remill) | Library lifting machine code to LLVM bitcode | 1,865 | 🟢 | C++ |
@@ -310,7 +310,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ponce](https://github.com/illera88/Ponce) | IDA plugin for one-click symbolic execution | 1,634 | 🟡 | C++ |
 | [BARF](https://github.com/programa-stic/barf-project) | Binary Analysis and Reverse engineering Framework for x86/ARM | 1,456 | 🔴 | Python |
 | [panopticon](https://github.com/das-labor/panopticon) | Libre cross-platform disassembler | 1,446 | 🗄️ | Rust |
-| [pylingual](https://github.com/syssec-utd/pylingual) | Python decompiler for modern Python bytecode versions | 1,419 | 🟢 | Python |
+| [pylingual](https://github.com/syssec-utd/pylingual) | Python decompiler for modern Python bytecode versions | 1,420 | 🟢 | Python |
 | [Virtuailor](https://github.com/0xgalz/Virtuailor) | IDAPython tool reconstructing C++ virtual tables in IDA Pro | 1,404 | 🔴 | Python |
 | [FLIRTDB](https://github.com/Maktm/FLIRTDB) | Community collection of IDA FLIRT library signature files | 1,366 | 🔴 | Max |
 | [binaryninja-api](https://github.com/Vector35/binaryninja-api) | Public API, examples and docs for the Binary Ninja reverse-engineering platform | 1,329 | 🟢 | C++ |
@@ -318,16 +318,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) | Deobfuscator and unpacker for Eziriz .NET Reactor | 1,275 | 🟢 | C# |
 | [decompile3](https://github.com/rocky/python-decompile3) | Python 3.7+ bytecode decompiler | 1,274 | 🟢 | Python |
 | [shuji](https://github.com/paazmaya/shuji) | Recovers original JavaScript and CSS sources from source maps | 1,246 | 🟢 | JavaScript |
-| [xAnalyzer](https://github.com/ThunderCls/xAnalyzer) | x64dbg plugin for automatic API call and function analysis | 1,241 | 🟡 | C |
+| [xAnalyzer](https://github.com/ThunderCls/xAnalyzer) | x64dbg plugin for automatic API call and function analysis | 1,240 | 🟡 | C |
 | [Procyon](https://github.com/mstrobel/procyon) | Java metaprogramming suite and decompiler | 1,224 | 🔴 | Java |
-| [binexport](https://github.com/google/binexport) | Exports disassemblies from IDA, Ghidra and Binary Ninja into Protocol Buffers | 1,214 | 🟢 | C++ |
-| [angr-management](https://github.com/angr/angr-management) | GUI for the angr binary analysis framework | 1,191 | 🟢 | Python |
-| [lumen](https://github.com/naim94a/lumen) | Private reimplementation of IDA Pro's Lumina server | 1,169 | 🟢 | Rust |
+| [binexport](https://github.com/google/binexport) | Exports disassemblies from IDA, Ghidra and Binary Ninja into Protocol Buffers | 1,213 | 🟢 | C++ |
+| [angr-management](https://github.com/angr/angr-management) | GUI for the angr binary analysis framework | 1,193 | 🟢 | Python |
+| [lumen](https://github.com/naim94a/lumen) | Private reimplementation of IDA Pro's Lumina server | 1,170 | 🟢 | Rust |
 | [IDR](https://github.com/crypto2011/IDR) | Interactive Delphi Reconstructor: decompiler for Delphi executables | 1,168 | 🔴 | C++ |
 | [javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) | General purpose JavaScript deobfuscator | 1,153 | 🟡 | TypeScript |
 | [ViperMonkey](https://github.com/decalage2/ViperMonkey) | VBA parser and emulation engine for analysing Office macros | 1,132 | 🟡 | Python |
 | [medusa](https://github.com/wisk/medusa) | Open source interactive disassembler | 1,089 | 🟢 | C++ |
-| [wakaru](https://github.com/pionxzh/wakaru) | JavaScript decompiler and unpacker for modern frontend bundles | 1,024 | 🟢 | Rust |
+| [wakaru](https://github.com/pionxzh/wakaru) | JavaScript decompiler and unpacker for modern frontend bundles | 1,027 | 🟢 | Rust |
 | [vivisect](https://github.com/vivisect/vivisect) | Python binary analysis framework, disassembler and debugger | 1,002 | 🟢 | Python |
 | [rz-ghidra](https://github.com/rizinorg/rz-ghidra) | Ghidra decompiler and Sleigh disassembler integration for Rizin and Cutter | 995 | 🟢 | C++ |
 | [idacode](https://github.com/ioncodes/idacode) | VS Code integration for running and debugging IDAPython scripts | 994 | 🟡 | Python |
@@ -335,7 +335,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Karta](https://github.com/CheckPointSW/Karta) | Source-code-assisted binary matching plugin for IDA | 912 | 🟢 | Python |
 | [VMAttack](https://github.com/anatolikalysch/VMAttack) | IDA Pro plugin for analysing virtualization-based obfuscation | 891 | 🔴 | Python |
 | [IDAssist](https://github.com/symgraph/IDAssist) | AI-augmented reverse engineering plugin for IDA Pro | 883 | 🟢 | Python |
-| [ddisasm](https://github.com/GrammaTech/ddisasm) | Fast reassembleable disassembler | 876 | 🟢 | C++ |
+| [ddisasm](https://github.com/GrammaTech/ddisasm) | Fast reassembleable disassembler | 877 | 🟢 | C++ |
 | [JByteMod-Beta](https://github.com/loerting/JByteMod-Beta) | Java bytecode editor | 858 | 🔴 | Java |
 | [BiTE](https://github.com/WINSDK/bite) | Cross-platform executable viewer and disassembler with strong Rust support | 825 | 🟢 | Rust |
 | [decomp2dbg](https://github.com/mahaloz/decomp2dbg) | Syncs decompiler symbols and types into GDB | 825 | 🟢 | Python |
@@ -345,7 +345,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ghidrathon](https://github.com/mandiant/Ghidrathon) | Python 3 scripting support for Ghidra | 790 | 🗄️ | Java |
 | [fcd](https://github.com/fay59/fcd) | LLVM-based optimizing native-code decompiler | 773 | 🔴 | C++ |
 | [rzweb](https://github.com/IndAlok/rzweb) | Browser-based reverse engineering platform built on Rizin compiled to WebAssembly | 762 | 🟢 | TypeScript |
-| [pyinstxtractor-ng](https://github.com/pyinstxtractor/pyinstxtractor-ng) | PyInstaller extractor next generation | 743 | 🟢 | Python |
+| [pyinstxtractor-ng](https://github.com/pyinstxtractor/pyinstxtractor-ng) | PyInstaller extractor next generation | 742 | 🟢 | Python |
 | [debundle](https://github.com/1egoman/debundle) | Debundler that recreates source trees from Browserify or Webpack bundles | 738 | 🔴 | JavaScript |
 | [NtRays](https://github.com/can1357/NtRays) | Hex-Rays microcode plugin simplifying Windows kernel decompilation | 682 | 🟡 | C++ |
 | [lucid](https://github.com/gaasedelen/lucid) | Interactive Hex-Rays microcode explorer | 680 | 🟡 | Python |
@@ -354,32 +354,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [IDArling](https://github.com/IDArlingTeam/IDArling) | Collaborative reverse engineering plugin for IDA Pro and Hex-Rays | 670 | 🗄️ | Python |
 | [golang_loader_assist](https://github.com/strazzere/golang_loader_assist) | IDA Pro script making Go binary reversing easier | 662 | 🔴 | Python |
 | [Ghidra-Cpp-Class-Analyzer](https://github.com/astrelsky/Ghidra-Cpp-Class-Analyzer) | Ghidra C++ class and RTTI analyzer | 650 | 🗄️ | Java |
-| [Kuna](https://github.com/Noelo-Lab/kuna) | Agent-first decompiler written in Rust | 623 | 🟢 | Rust |
+| [Kuna](https://github.com/Noelo-Lab/kuna) | Agent-first decompiler written in Rust | 633 | 🟢 | Rust |
 | [Rellic](https://github.com/lifting-bits/rellic) | Produces goto-free C output from LLVM bitcode for decompilation | 621 | 🟢 | C++ |
 | [r2dec-js](https://github.com/wargio/r2dec-js) | Pseudo-C decompiler plugin for radare2 and rizin | 611 | 🟢 | JavaScript |
 | [XLMMacroDeobfuscator](https://github.com/DissectMalware/XLMMacroDeobfuscator) | Extracts and emulates Excel 4.0 (XLM) macros from XLS, XLSM and XLSB files | 590 | 🟡 | Python |
-| [r2ghidra](https://github.com/radareorg/r2ghidra) | Native Ghidra decompiler integration for radare2 | 566 | 🟢 | C++ |
+| [r2ghidra](https://github.com/radareorg/r2ghidra) | Native Ghidra decompiler integration for radare2 | 567 | 🟢 | C++ |
 | [B2R2](https://github.com/B2R2-org/B2R2) | Binary analysis framework in F# with disassembly, lifting and analysis for many ISAs | 552 | 🟢 | F# |
 | [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) | FindCrypt port for Ghidra with updated crypto signatures | 550 | 🔴 | C++ |
 | [beaengine](https://github.com/BeaEngine/beaengine) | BeaEngine x86/x64 disassembler library | 549 | 🔴 | Python |
 | [unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap) | Extracts uncompiled SPA source code from Webpack source maps | 545 | 🗄️ | Python |
-| [E-Decompiler](https://github.com/fjqisba/E-Decompiler) | IDA plugin to analyse programs written in E-language (Yi Yuyan) | 539 | 🟢 | C++ |
+| [E-Decompiler](https://github.com/fjqisba/E-Decompiler) | IDA plugin to analyse programs written in E-language (Yi Yuyan) | 540 | 🟢 | C++ |
 | [decompiler](https://github.com/EiNSTeiN-/decompiler) | Python decompiler with multiple backends for IDA and Capstone | 535 | 🔴 | Python |
 | [Yagi](https://github.com/airbus-cert/Yagi) | Ghidra decompiler integration for IDA | 511 | 🟡 | C++ |
 | [decomp](https://github.com/decomp/decomp) | Components of a decompilation pipeline (LLVM IR to Go) | 493 | 🔴 | Go |
 | [pcodedmp](https://github.com/bontchev/pcodedmp) | Disassembler for undocumented VBA p-code in Office macro documents | 492 | 🔴 | Python |
-| [Unreal-Library](https://github.com/EliotVU/Unreal-Library) | Decompiler and parser for Unreal Engine package files | 490 | 🟢 | C# |
+| [Unreal-Library](https://github.com/EliotVU/Unreal-Library) | Decompiler and parser for Unreal Engine package files | 492 | 🟢 | C# |
 | [luajit-decompiler-v2](https://github.com/marsinator358/luajit-decompiler-v2) | LuaJIT bytecode decompiler | 487 | 🟢 | C++ |
-| [HexraysToolbox](https://github.com/patois/HexraysToolbox) | Finds code patterns in the Hex-Rays ctree | 483 | 🔴 | Python |
 | [sigmakerex](https://github.com/kweatherman/sigmakerex) | Enhanced IDA Pro signature generator plugin | 483 | 🟢 | C++ |
+| [HexraysToolbox](https://github.com/patois/HexraysToolbox) | Finds code patterns in the Hex-Rays ctree | 482 | 🔴 | Python |
 | [mdec](https://github.com/mborgerson/mdec) | Compare output of multiple decompilers side by side | 460 | 🗄️ | Python |
 | [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) | ActionScript 3 bytecode (ABC) assembler and disassembler | 457 | 🔴 | D |
-| [wasmdec](https://github.com/wwwg/wasmdec) | WebAssembly to C decompiler | 428 | 🟡 | C++ |
+| [wasmdec](https://github.com/wwwg/wasmdec) | WebAssembly to C decompiler | 429 | 🟡 | C++ |
 | [nyxstone](https://github.com/emproof-com/nyxstone) | LLVM-based assembly and disassembly library with Rust and Python bindings | 425 | 🟢 | Rust |
 | [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) | Type and function definitions for analysing iOS/macOS binaries in IDA | 421 | 🟢 | Objective-C |
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Retargetable interactive disassembler with IDAPython-compatible plugin API | 413 | 🔴 | Python |
+| [ddc](https://github.com/ejfkdev/ddc) | Fast Android DEX to Java decompiler in Rust | 408 | 🟢 | Rust |
 | [Boomerang](https://github.com/BoomerangDecompiler/boomerang) | General open-source machine-code decompiler | 405 | 🔴 | C++ |
-| [ddc](https://github.com/ejfkdev/ddc) | Fast Android DEX to Java decompiler in Rust | 404 | 🟢 | Rust |
 | [CodemerxDecompile](https://github.com/codemerx/CodemerxDecompile) | Standalone cross-platform .NET decompiler | 401 | 🟡 | C# |
 | [radeco](https://github.com/radareorg/radeco) | radare2-based decompiler and symbolic executor in Rust | 399 | 🟢 | Rust |
 | [aiDAPal](https://github.com/atredispartners/aidapal) | IDA Pro plugin with fine-tuned local LLM for Hex-Rays pseudocode | 394 | 🟡 | Python |
@@ -394,7 +394,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [seninja](https://github.com/borzacchiello/seninja) | Symbolic execution plugin for Binary Ninja | 358 | 🟢 | Python |
 | [classinformer-ida7](https://github.com/rcx/classinformer-ida7) | ClassInformer RTTI plugin backported for IDA Pro 7 | 354 | 🔴 | C++ |
 | [abyss](https://github.com/patois/abyss) | Augments Hex-Rays decompiler output | 349 | 🔴 | Python |
-| [IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) | IDA ClassInformer plugin for MSVC RTTI and vftables | 349 | 🟢 | C++ |
+| [IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) | IDA ClassInformer plugin for MSVC RTTI and vftables | 348 | 🟢 | C++ |
 | [DiztinGUIsh](https://github.com/DizTools/DiztinGUIsh) | Super NES ROM disassembler | 343 | 🟢 | C# |
 | [ida-minsc](https://github.com/arizvisa/ida-minsc) | Functional DWIM IDAPython plugin | 336 | 🟢 | Python |
 | [d810](https://github.com/joydo/d810) | IDA Pro plugin to deobfuscate code at decompilation time | 334 | 🟡 | Python |
@@ -402,7 +402,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [replica](https://github.com/reb311ion/replica) | Ghidra analysis enhancer | 316 | 🔴 | Python |
 | [ida_medigate](https://github.com/medigateio/ida_medigate) | IDA plugin for C++ class and vtable reverse engineering | 311 | 🔴 | Python |
 | [super-jadx](https://github.com/pkilller/super-jadx) | Fork-style JADX extension adding renaming, reference graphs and other RE features | 311 | 🔴 | Java |
-| [GhydraMCP](https://github.com/starsong-consulting/GhydraMCP) | Ghidra plugin with REST API and MCP bridge for agentic multi-binary reverse engineering | 305 | 🟢 | Python |
+| [GhydraMCP](https://github.com/starsong-consulting/GhydraMCP) | Ghidra plugin with REST API and MCP bridge for agentic multi-binary reverse engineering | 304 | 🟢 | Python |
 | [ProjectorRays](https://github.com/ProjectorRays/ProjectorRays) | Decompiler for Macromedia/Adobe Director and Shockwave Lingo | 301 | 🟢 | C++ |
 | [ida-batch_decompile](https://github.com/tintinweb/ida-batch_decompile) | IDA batch decompile plugin for Hex-Rays | 299 | 🔴 | Python |
 | [GhidraBoy](https://github.com/Gekkio/GhidraBoy) | Sharp SM83 / Game Boy extension for Ghidra | 286 | 🗄️ | Kotlin |
@@ -413,7 +413,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [iBoot64helper](https://github.com/argp/iBoot64helper) | IDAPython loader for AArch64 iBoot, iBEC and SecureROM reverse engineering | 266 | 🔴 | Python |
 | [jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) | Multi-decompiler Java GUI supporting JD-Core, CFR, Procyon and Fernflower | 266 | 🟢 | Java |
 | [Ghidra_GolangAnalyzerExtension](https://github.com/mooncat-greenpy/Ghidra_GolangAnalyzerExtension) | Ghidra extension to analyze Go binaries | 263 | 🟢 | Java |
-| [ghidra-emotionengine-reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) | Ghidra extension adding PlayStation 2 Emotion Engine support | 253 | 🟢 | Java |
+| [ghidra-emotionengine-reloaded](https://github.com/chaoticgd/ghidra-emotionengine-reloaded) | Ghidra extension adding PlayStation 2 Emotion Engine support | 254 | 🟢 | Java |
 | [hexagon](https://github.com/gsmk/hexagon) | IDA processor module for the hexagon (QDSP6) processor | 241 | 🟡 | C |
 | [eBPF-for-Ghidra](https://github.com/Nalen98/eBPF-for-Ghidra) | eBPF processor module for Ghidra | 237 | 🟡 | Java |
 | [dewolf](https://github.com/fkie-cad/dewolf) | Research decompiler implemented as a Binary Ninja plugin | 236 | 🟢 | Python |
@@ -424,19 +424,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [holodec](https://github.com/Cararasu/holodec) | Decompiler for x86 and x86-64 ELF binaries | 220 | 🔴 | C++ |
 | [idaxex](https://github.com/emoose/idaxex) | XEX/XBE loader plugin for IDA supporting Xbox and Xbox 360 executables | 215 | 🟢 | C++ |
 | [rePy2exe](https://github.com/4w4k3/rePy2exe) | Reverse engineering tool for py2exe applications | 209 | 🔴 | Python |
-| [ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering) | AI-assisted binary reverse engineering with Ghidra and LLMs | 206 | 🟢 | Python |
+| [ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering) | AI-assisted binary reverse engineering with Ghidra and LLMs | 207 | 🟢 | Python |
 | [AMIE](https://github.com/NeatMonster/AMIE) | Minimalist ARM instruction extender for IDA Pro | 204 | 🟡 | Python |
 | [BTD DNN decompiler](https://github.com/monkbai/DNN-decompiler) | Decompiles x86 deep neural network executables back to model structure and weights | 199 | 🟢 | Python |
-| [Dhrake](https://github.com/huettenhain/dhrake) | Ghidra scripts for reverse engineering Delphi binaries | 194 | 🟢 | Java |
-| [standalone-app](https://github.com/helios-decompiler/standalone-app) | All-in-one Java reverse engineering tool | 194 | 🔴 | Java |
+| [standalone-app](https://github.com/helios-decompiler/standalone-app) | All-in-one Java reverse engineering tool | 195 | 🔴 | Java |
+| [Dhrake](https://github.com/huettenhain/dhrake) | Ghidra scripts for reverse engineering Delphi binaries | 194 | 🟡 | Java |
 | [ghidralib](https://github.com/msm-code/ghidralib) | Pythonic Ghidra standard library | 191 | 🟢 | Python |
 | [capstone.js](https://github.com/AlexAltea/capstone.js) | JavaScript port of the Capstone disassembler framework | 190 | 🟢 | JavaScript |
 | [jsc-decompile-mozjs-34](https://github.com/irelance/jsc-decompile-mozjs-34) | SpiderMonkey 34 JavaScript bytecode decoder and decompiler | 189 | 🔴 | PHP |
-| [ida-iboot-loader](https://github.com/matteyeux/ida-iboot-loader) | IDA loader for Apple's 64 bits iBoot, SecureROM and AVPBooter | 179 | 🟡 | Python |
+| [ida-iboot-loader](https://github.com/matteyeux/ida-iboot-loader) | IDA loader for Apple's 64 bits iBoot, SecureROM and AVPBooter | 180 | 🟡 | Python |
 | [vscode-decompiler](https://github.com/tintinweb/vscode-decompiler) | Decompile binaries and bytecode directly from VS Code | 179 | 🟢 | Python |
 | [DelphiHelper](https://github.com/eset/DelphiHelper) | IDA Pro plugin for analysing Delphi binaries | 174 | 🟢 | Python |
 | [ceasta](https://github.com/ngwg/ceasta) | Disassembler, decompiler and debugger with built-in MCP server | 170 | 🟢 | C++ |
-| [IDA-For-Delphi](https://github.com/Coldzer0/IDA-For-Delphi) | IDAPython script recovering Delphi VCL event function names | 170 | 🟡 | Python |
+| [IDA-For-Delphi](https://github.com/Coldzer0/IDA-For-Delphi) | IDAPython script recovering Delphi VCL event function names | 169 | 🟡 | Python |
 | [CrowdDetox](https://github.com/CrowdStrike/CrowdDetox) | Hex-Rays plugin removing junk code and variables | 166 | 🗄️ | C++ |
 | [binja-retdec](https://github.com/hugsy/binja-retdec) | Binary Ninja plugin using RetDec to decompile | 165 | 🗄️ | Python |
 | [Py2ExeDecompiler](https://github.com/endgameinc/Py2ExeDecompiler) | Decompiler for py2exe executables | 165 | 🔴 | C# |
@@ -447,7 +447,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ida_missinglink](https://github.com/kweatherman/ida_missinglink) | IDA plugin filling in missing indirect CALL and JMP targets | 153 | 🟢 | C++ |
 | [IDA-VTableExplorer](https://github.com/K4ryuu/IDA-VTableExplorer) | IDA plugin for automatic vtable detection and inheritance analysis | 149 | 🟢 | C++ |
 | [kaiju](https://github.com/cmu-sei/kaiju) | CERT Kaiju binary analysis extension for Ghidra | 147 | 🟢 | Java |
-| [LabSync](https://github.com/cellebrite-labs/LabSync) | IDA plugin to partially synchronize IDBs between researchers | 145 | 🟡 | Python |
+| [LabSync](https://github.com/cellebrite-labs/LabSync) | IDA plugin to partially synchronize IDBs between researchers | 146 | 🟡 | Python |
 | [CollaRE](https://github.com/Martyx00/CollaRE) | Multi-tool reverse engineering collaboration solution | 143 | 🟡 | Python |
 | [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) | Python bytecode disassembler for analysing compiled Python binaries | 143 | 🔴 | Python |
 | [ghostrings](https://github.com/nccgroup/ghostrings) | Ghidra scripts recovering string definitions in Go binaries | 141 | 🟢 | Java |
@@ -485,7 +485,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [revsync](https://github.com/lunixbochs/revsync) | Realtime cross-tool collaborative reverse engineering | 100 | 🔴 | Python |
 | [GhidraFindcrypt](https://github.com/antoniovazquezblanco/GhidraFindcrypt) | Ghidra plugin locating cryptographic constants | 99 | 🟢 | Java |
 | [collabREate](https://github.com/cseagle/collabREate) | Collaborative reverse engineering plugin for IDA Pro | 98 | 🔴 | C++ |
-| [HlslDecompiler](https://github.com/AndresTraks/HlslDecompiler) | Decompiles Shader Model 1-5 shader bytecode into HLSL | 94 | 🟢 | C# |
+| [HlslDecompiler](https://github.com/AndresTraks/HlslDecompiler) | Decompiles Shader Model 1-5 shader bytecode into HLSL | 95 | 🟢 | C# |
 | [NotDec](https://github.com/NotDec/NotDec) | WebAssembly decompiler and static analysis framework on LLVM IR | 94 | 🟢 | C++ |
 | [NeverD](https://github.com/NeverSight/NeverD) | AI-friendly binary analysis and decompilation engine | 93 | 🟢 | C++ |
 | [bn-dyldsharedcache](https://github.com/0cyn/bn-dyldsharedcache) | this was a single-image DSC parser predating official support for DSC support in binaryninja. | 92 | 🟢 | Python |
@@ -497,7 +497,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ObjectiveNinja](https://github.com/jonpalmisc/ObjectiveNinja) | Binary Ninja plugin & workflow to help analyze Objective-C code | 84 | 🗄️ | C++ |
 | [DnD](https://github.com/purseclab/DnD) | Decompiler that recovers DNN model semantics from compiled binaries | 83 | 🟡 | Python |
 | [RET](https://github.com/futo-org/ret) | FUTO's reverse-engineering tool | 82 | 🟢 | C |
-| [webpackTools](https://github.com/moonlight-mod/webpackTools) | Userscript for reverse engineering and modifying production webpack apps | 77 | 🟢 | JavaScript |
+| [webpackTools](https://github.com/moonlight-mod/webpackTools) | Userscript for reverse engineering and modifying production webpack apps | 78 | 🟢 | JavaScript |
 | [herast](https://github.com/Mizari/herast) | Framework to automate Hex-Rays AST work in IDA Pro | 76 | 🟡 | Python |
 | [awake](https://github.com/devdri/awake) | Decompiler for Game Boy ROMs | 75 | 🔴 | Python |
 | [QtRE](https://github.com/OSUSecLab/QtRE) | Ghidra headless analyzer for Qt binaries | 75 | 🟡 | Java |
@@ -524,9 +524,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [sephelper](https://github.com/haiyuidesu/sephelper) | IDA loader to help with SEPROM reverse engineering. | 36 | 🟡 | Python |
 | [iBoot-Binja-Loader](https://github.com/EliseZeroTwo/iBoot-Binja-Loader) | iBoot/SecureROM Loader | 35 | 🔴 | Python |
 | [jscd](https://github.com/ejfkdev/jscd) | Static Rust decompiler from bytenode .jsc (V8 code cache) back to JavaScript | 24 | 🟢 | Rust |
+| [hexpyrion](https://github.com/DimaReverse/hexpyrion) | Static source recovery for Nuitka-compiled Python binaries | 22 | 🟢 | Python |
 | [jsd](https://github.com/jar-analyzer/jsd) | Pure TypeScript Java class file decompiler with no native dependencies | 22 | 🟢 | TypeScript |
 | [BinaryNinja-PSVitaLoader](https://github.com/computerman00/BinaryNinja-PSVitaLoader) | PS Vita ELF/PRX2 loader plugin with symbol resolution for Binary Ninja | 21 | 🟡 | Python |
-| [hexpyrion](https://github.com/DimaReverse/hexpyrion) | Static source recovery for Nuitka-compiled Python binaries | 21 | 🟢 | Python |
 | [GhidraGarminApp](https://github.com/anvilsecure/GhidraGarminApp) | Ghidra processor and loader for Garmin Connect IQ watch applications | 13 | 🟢 | HTML |
 | [f2mc8dasm](https://github.com/mnaberez/f2mc8dasm) | Disassembler for Cypress (Fujitsu) F2MC-8 microcontrollers | 12 | 🟢 | Python |
 | [tonguetwister](https://github.com/lham/tonguetwister) | Macromedia Director file disassembler, Lingo decompiler and format documentation | 12 | 🔴 | Python |
@@ -540,21 +540,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Frida](https://github.com/frida/frida) | Dynamic instrumentation toolkit for native apps | 22,338 | 🟢 | Meson |
-| [rr](https://github.com/rr-debugger/rr) | Record and replay debugger for Linux | 10,706 | 🟢 | C++ |
-| [Unicorn](https://github.com/unicorn-engine/unicorn) | Lightweight multi-architecture CPU emulator framework | 9,459 | 🟢 | C |
-| [Triton](https://github.com/JonathanSalwan/Triton) | Dynamic binary analysis library with symbolic execution | 4,330 | 🟢 | C++ |
+| [Frida](https://github.com/frida/frida) | Dynamic instrumentation toolkit for native apps | 22,352 | 🟢 | Meson |
+| [rr](https://github.com/rr-debugger/rr) | Record and replay debugger for Linux | 10,707 | 🟢 | C++ |
+| [Unicorn](https://github.com/unicorn-engine/unicorn) | Lightweight multi-architecture CPU emulator framework | 9,464 | 🟢 | C |
+| [Triton](https://github.com/JonathanSalwan/Triton) | Dynamic binary analysis library with symbolic execution | 4,335 | 🟢 | C++ |
 | [HyperDbg](https://github.com/HyperDbg/HyperDbg) | Hypervisor-based native debugger for reverse engineering | 4,138 | 🟢 | C |
 | [QIRA](https://github.com/geohot/qira) | Timeless debugger that records and lets you browse full program execution | 4,071 | 🔴 | C |
-| [sogen](https://github.com/momo5502/sogen) | Windows and Linux userspace emulator for analysis | 3,732 | 🟢 | C++ |
-| [DynamoRIO](https://github.com/DynamoRIO/dynamorio) | Dynamic binary instrumentation tool platform | 3,182 | 🟢 | C |
-| [PINCE](https://github.com/korcankaraokcu/PINCE) | GDB front-end and memory scanner for reverse engineering games on Linux | 3,128 | 🟢 | Python |
-| [edb](https://github.com/eteran/edb-debugger) | Cross-platform x86/x86-64 GUI debugger | 2,976 | 🟢 | C++ |
+| [sogen](https://github.com/momo5502/sogen) | Windows and Linux userspace emulator for analysis | 3,735 | 🟢 | C++ |
+| [DynamoRIO](https://github.com/DynamoRIO/dynamorio) | Dynamic binary instrumentation tool platform | 3,183 | 🟢 | C |
+| [PINCE](https://github.com/korcankaraokcu/PINCE) | GDB front-end and memory scanner for reverse engineering games on Linux | 3,129 | 🟢 | Python |
+| [edb](https://github.com/eteran/edb-debugger) | Cross-platform x86/x86-64 GUI debugger | 2,977 | 🟢 | C++ |
 | [panda](https://github.com/panda-re/panda) | Platform for architecture-neutral dynamic analysis built on QEMU | 2,788 | 🟢 | C |
 | [lighthouse](https://github.com/gaasedelen/lighthouse) | Code coverage explorer plugin for IDA and Binary Ninja | 2,609 | 🟢 | Python |
-| [frida-snippets](https://github.com/iddoeldor/frida-snippets) | Hand-crafted Frida examples | 2,539 | 🟡 | JavaScript |
+| [frida-snippets](https://github.com/iddoeldor/frida-snippets) | Hand-crafted Frida examples | 2,538 | 🟡 | JavaScript |
 | [QBDI](https://github.com/QBDI/QBDI) | LLVM-based dynamic binary instrumentation framework | 1,829 | 🟢 | C++ |
-| [tiny_tracer](https://github.com/hasherezade/tiny_tracer) | Intel Pin tool for tracing API calls | 1,710 | 🟢 | C++ |
+| [tiny_tracer](https://github.com/hasherezade/tiny_tracer) | Intel Pin tool for tracing API calls | 1,711 | 🟢 | C++ |
 | [tenet](https://github.com/gaasedelen/tenet) | Execution trace explorer plugin for IDA Pro | 1,546 | 🟡 | Python |
 | [r2frida](https://github.com/nowsecure/r2frida) | Radare2 and Frida integration | 1,450 | 🟢 | TypeScript |
 | [TinyInst](https://github.com/googleprojectzero/TinyInst) | Lightweight dynamic instrumentation library for Windows, macOS, Linux | 1,360 | 🟢 | C++ |
@@ -576,10 +576,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [udbserver](https://github.com/bet4it/udbserver) | GDB debug server for the Unicorn emulator | 435 | 🟢 | Rust |
 | [drltrace](https://github.com/mxmssh/drltrace) | DynamoRIO-based library call tracer for Windows and Linux | 419 | 🔴 | HTML |
 | [Simpleator](https://github.com/ionescu007/Simpleator) | Windows x64 user-mode application emulator using Hyper-V | 404 | 🔴 | C++ |
-| [Frida-Script-Runner](https://github.com/z3n70/Frida-Script-Runner) | Web-based Frida toolkit for Android and iOS | 381 | 🟢 | JavaScript |
+| [Frida-Script-Runner](https://github.com/z3n70/Frida-Script-Runner) | Web-based Frida toolkit for Android and iOS | 382 | 🟢 | JavaScript |
 | [STrace](https://github.com/mandiant/STrace) | DTrace on Windows reimplementation for syscall tracing | 379 | 🟢 | C++ |
 | [rgat](https://github.com/ncatlin/rgat) | Instruction trace visualisation tool for dynamic analysis | 371 | 🔴 | C# |
-| [Binary Ninja debugger](https://github.com/Vector35/debugger) | Open-source debugger plugin for Binary Ninja | 336 | 🟢 | C++ |
+| [Binary Ninja debugger](https://github.com/Vector35/debugger) | Open-source debugger plugin for Binary Ninja | 337 | 🟢 | C++ |
 | [JDBG](https://github.com/roger1337/JDBG) | Java dynamic reverse engineering and debugging tool via injected DLL | 331 | 🟡 | C++ |
 | [bread](https://github.com/Theldus/bread) | BIOS reverse engineering and debugging over serial with GDB support | 329 | 🟢 | C |
 | [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer) | Tool for viewing and analyzing execution traces | 324 | 🔴 | Python |
@@ -588,7 +588,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fripack](https://github.com/std-microblock/fripack) | Packages Frida scripts into standalone executables | 233 | 🟢 | Rust |
 | [goauld](https://github.com/androguard/goauld) | Dynamic injection tool for Linux and Android | 228 | 🟡 | Rust |
 | [ntoseye](https://github.com/dmaivel/ntoseye) | WinDbg-like Windows kernel debugger that runs from Linux and macOS | 218 | 🟢 | Rust |
-| [Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace) | Unicorn-based ARM64 dynamic tracing tool with IDA integration | 210 | 🟢 | Python |
+| [Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace) | Unicorn-based ARM64 dynamic tracing tool with IDA integration | 211 | 🟢 | Python |
 | [RESim](https://github.com/mfthomps/RESim) | Reverse engineering software using a full-system Simics simulator | 195 | 🟢 | Python |
 | [uDdbg](https://github.com/iGio90/uDdbg) | GDB-like debugger for the Unicorn emulator | 195 | 🔴 | Python |
 | [FridaHooker](https://github.com/wrlu/FridaHooker) | Android Frida GUI manager | 183 | 🗄️ | Java |
@@ -618,59 +618,59 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler for Android apps | 51,030 | 🟢 | Java |
-| [Apktool](https://github.com/iBotPeaches/Apktool) | Tool for reverse engineering Android APK files | 25,966 | 🟢 | Java |
+| [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler for Android apps | 51,049 | 🟢 | Java |
+| [Apktool](https://github.com/iBotPeaches/Apktool) | Tool for reverse engineering Android APK files | 25,995 | 🟢 | Java |
 | [dex2jar](https://github.com/pxb1988/dex2jar) | Tools to convert Android .dex to Java .class files | 13,147 | 🟡 | Java |
-| [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) | Unity il2cpp metadata dumper for reverse engineering | 9,524 | 🟡 | C# |
+| [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) | Unity il2cpp metadata dumper for reverse engineering | 9,527 | 🟡 | C# |
 | [objection](https://github.com/sensepost/objection) | Runtime mobile exploration toolkit powered by Frida | 9,448 | 🟢 | Python |
-| [AssetRipper](https://github.com/AssetRipper/AssetRipper) | Extracts Unity serialized assets and projects | 8,652 | 🟢 | C# |
-| [Androguard](https://github.com/androguard/androguard) | Python toolkit for Android app analysis | 6,358 | 🟢 | Python |
-| [unidbg](https://github.com/zhkl0228/unidbg) | Emulates Android native libraries (and experimentally iOS) to run app signing code | 5,275 | 🟢 | Java |
-| [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) | Cross-platform Qt IDE for reverse engineering and rebuilding Android APKs | 4,685 | 🟢 | C++ |
-| [simplify](https://github.com/CalebFenton/simplify) | Android virtual machine and generic Dalvik deobfuscator | 4,672 | 🔴 | Java |
+| [AssetRipper](https://github.com/AssetRipper/AssetRipper) | Extracts Unity serialized assets and projects | 8,666 | 🟢 | C# |
+| [Androguard](https://github.com/androguard/androguard) | Python toolkit for Android app analysis | 6,359 | 🟢 | Python |
+| [unidbg](https://github.com/zhkl0228/unidbg) | Emulates Android native libraries (and experimentally iOS) to run app signing code | 5,279 | 🟢 | Java |
+| [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) | Cross-platform Qt IDE for reverse engineering and rebuilding Android APKs | 4,687 | 🟢 | C++ |
+| [simplify](https://github.com/CalebFenton/simplify) | Android virtual machine and generic Dalvik deobfuscator | 4,673 | 🔴 | Java |
 | [APKLab](https://github.com/APKLab/APKLab) | Android reverse-engineering workbench for VS Code (apktool, jadx, smali) | 4,011 | 🟢 | TypeScript |
-| [apk.sh](https://github.com/ax/apk.sh) | Bash script automating pull, decode, rebuild and Frida-gadget patching of Android APKs | 3,843 | 🟢 | Shell |
+| [apk.sh](https://github.com/ax/apk.sh) | Bash script automating pull, decode, rebuild and Frida-gadget patching of Android APKs | 3,845 | 🟢 | Shell |
 | [android-hidden-api](https://github.com/anggrayudi/android-hidden-api) | Library providing access to Android hidden APIs and internal resources | 3,624 | 🟢 | Java |
 | [class-dump](https://github.com/nygard/class-dump) | Generates Objective-C headers from Mach-O files | 3,586 | 🔴 | Objective-C |
 | [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) | Dumps IL2CPP metadata at runtime on Android via Zygisk | 3,345 | 🟡 | C |
 | [Malimite](https://github.com/LaurieWired/Malimite) | Decompiler for iOS and macOS apps (IPA/Mach-O) built on Ghidra | 3,224 | 🟡 | Java |
-| [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Frida-based web UI to manipulate Android and iOS apps at runtime | 3,119 | 🟢 | JavaScript |
-| [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) | Automated reverse-engineering tool for Unity IL2CPP binaries | 3,058 | 🔴 | C |
-| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | Recovers managed .NET assemblies from Unity IL2CPP builds | 3,034 | 🟢 | C# |
-| [reFlutter](https://github.com/Impact-I/reFlutter) | Flutter reverse engineering framework that patches libflutter to expose Dart snapshot info | 2,776 | 🟢 | Python |
-| [blutter](https://github.com/worawit/blutter) | Flutter app reverse engineering tool that recovers Dart objects and functions from libapp.so | 2,754 | 🟢 | C++ |
-| [UABEA](https://github.com/nesrak1/UABEA) | Unity Asset Bundle Extractor Avalonia: view and edit Unity assets | 2,459 | 🟢 | C# |
-| [ASC](https://github.com/MG1937/ASC) | On-demand Android decompiler front-end, much faster than JADX | 2,458 | 🟢 | Python |
-| [jnitrace](https://github.com/chame1eon/jnitrace) | Frida-based tracer for JNI API usage in Android apps | 1,864 | 🔴 | TypeScript |
+| [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Frida-based web UI to manipulate Android and iOS apps at runtime | 3,123 | 🟢 | JavaScript |
+| [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) | Automated reverse-engineering tool for Unity IL2CPP binaries | 3,057 | 🔴 | C |
+| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | Recovers managed .NET assemblies from Unity IL2CPP builds | 3,036 | 🟢 | C# |
+| [reFlutter](https://github.com/Impact-I/reFlutter) | Flutter reverse engineering framework that patches libflutter to expose Dart snapshot info | 2,779 | 🟢 | Python |
+| [blutter](https://github.com/worawit/blutter) | Flutter app reverse engineering tool that recovers Dart objects and functions from libapp.so | 2,758 | 🟢 | C++ |
+| [ASC](https://github.com/MG1937/ASC) | On-demand Android decompiler front-end, much faster than JADX | 2,468 | 🟢 | Python |
+| [UABEA](https://github.com/nesrak1/UABEA) | Unity Asset Bundle Extractor Avalonia: view and edit Unity assets | 2,458 | 🟢 | C# |
+| [jnitrace](https://github.com/chame1eon/jnitrace) | Frida-based tracer for JNI API usage in Android apps | 1,865 | 🔴 | TypeScript |
 | [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge) | Frida module to dump and trace IL2CPP Unity apps at runtime | 1,763 | 🟢 | TypeScript |
 | [AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) | Android app reverse engineering workshop | 1,568 | 🟡 |  |
 | [magisk-frida](https://github.com/ViRb3/magisk-frida) | Magisk module running frida-server on boot | 1,474 | 🟢 | Shell |
 | [Grapefruit](https://github.com/ChiChou/grapefruit) | Runtime iOS application analysis tool built on Frida | 1,400 | 🟢 | TypeScript |
 | [restore-symbol](https://github.com/tobefuturer/restore-symbol) | Restores the stripped symbol table of iOS app binaries | 1,338 | 🔴 | Objective-C |
 | [hermes-dec](https://github.com/P1sec/hermes-dec) | Disassembler and decompiler for React Native Hermes bytecode | 1,215 | 🟢 | Python |
-| [android-unpacker](https://github.com/strazzere/android-unpacker) | Android unpacker presented at DEF CON 22 | 1,183 | 🔴 | C |
+| [android-unpacker](https://github.com/strazzere/android-unpacker) | Android unpacker presented at DEF CON 22 | 1,184 | 🔴 | C |
 | [ZygiskFrida](https://github.com/lico-n/ZygiskFrida) | Zygisk module that injects Frida gadget into Android apps | 1,096 | 🟢 | C++ |
-| [garlic](https://github.com/neocanable/garlic) | Fast Java/Android APK and DEX decompiler written in pure C | 866 | 🟢 | C |
+| [garlic](https://github.com/neocanable/garlic) | Fast Java/Android APK and DEX decompiler written in pure C | 867 | 🟢 | C |
 | [eDBG](https://github.com/ShinoLeah/eDBG) | eBPF-based lightweight Android debugger with MCP support | 851 | 🟢 | C |
 | [decompile-apk](https://github.com/venshine/decompile-apk) | Scripts to decompile APKs | 823 | 🟡 | Shell |
 | [onekey-decompile-apk](https://github.com/ufologist/onekey-decompile-apk) | One-step APK decompilation tool | 800 | 🔴 | Batchfile |
 | [binder-trace](https://github.com/foundryzero/binder-trace) | Intercepts and parses Android Binder messages, like Wireshark for Binder | 771 | 🟡 | Python |
 | [JADXecute](https://github.com/LaurieWired/JADXecute) | JADX-gui plugin for dynamic scripting of the decompiler | 751 | 🟡 | Java |
-| [Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) | Maintained continuation of Il2CppInspector supporting newer metadata | 735 | 🟢 | C# |
+| [Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux) | Maintained continuation of Il2CppInspector supporting newer metadata | 736 | 🟢 | C# |
 | [apk2gold](https://github.com/lxdvs/apk2gold) | CLI tool that decompiles Android APKs to Java source and resources | 700 | 🟡 | Shell |
 | [XAPKDetector](https://github.com/horsicq/XAPKDetector) | APK/DEX packer and compiler detector | 696 | 🟢 | C++ |
-| [ReArk](https://github.com/lkimuk/ReArk) | AI-assisted reverse engineering tool for HarmonyOS NEXT (HAP/ABC), Android and iOS packages | 682 | 🟢 | C++ |
+| [ReArk](https://github.com/lkimuk/ReArk) | AI-assisted reverse engineering tool for HarmonyOS NEXT (HAP/ABC), Android and iOS packages | 688 | 🟢 | C++ |
 | [jni_helper](https://github.com/evilpan/jni_helper) | Finds JNI function signatures in APKs and applies them to RE tools | 675 | 🟡 | C++ |
-| [hbctool](https://github.com/bongtrop/hbctool) | Assembler/disassembler for React Native Hermes bytecode | 643 | 🟡 | Python |
+| [hbctool](https://github.com/bongtrop/hbctool) | Assembler/disassembler for React Native Hermes bytecode | 644 | 🟡 | Python |
 | [chomper](https://github.com/sledgeh4w/chomper) | Lightweight framework for emulating crypto algorithms in iOS executables | 632 | 🟢 | Python |
 | [AndBug](https://github.com/swdunlop/AndBug) | Scriptable Android debugger for reverse engineering | 599 | 🔴 | Python |
 | [abc-decompiler](https://github.com/ohos-decompiler/abc-decompiler) | Decompiler for HarmonyOS ABC bytecode | 588 | 🟡 | Java |
-| [android-reverse-engineering-skill](https://github.com/CreditTone/android-reverse-engineering-skill) | Agent skill that decompiles APKs and extracts endpoints, auth headers and signing logic | 549 | 🟢 | JavaScript |
+| [android-reverse-engineering-skill](https://github.com/CreditTone/android-reverse-engineering-skill) | Agent skill that decompiles APKs and extracts endpoints, auth headers and signing logic | 548 | 🟢 | JavaScript |
 | [dex-oracle](https://github.com/CalebFenton/dex-oracle) | Pattern-based Dalvik deobfuscator using limited execution | 503 | 🔴 | Ruby |
 | [elf-dump-fix](https://github.com/maiyao1988/elf-dump-fix) | Dumps Android ELF libraries from memory and rebuilds section headers | 487 | 🔴 | C |
 | [MagiskHluda](https://github.com/Exo1i/MagiskHluda) | Magisk module running a less detectable Frida server on boot | 433 | 🟢 | Shell |
-| [ARSCLib](https://github.com/REAndroid/ARSCLib) | Android binary resources (ARSC/AXML) read and write library | 418 | 🟢 | Java |
-| [theos-jailed](https://github.com/kabiroberai/theos-jailed) | Theos module for developing jailed iOS tweaks | 409 | 🟡 | Shell |
+| [ARSCLib](https://github.com/REAndroid/ARSCLib) | Android binary resources (ARSC/AXML) read and write library | 419 | 🟢 | Java |
+| [theos-jailed](https://github.com/kabiroberai/theos-jailed) | Theos module for developing jailed iOS tweaks | 408 | 🟡 | Shell |
 | [Il2CppInterop](https://github.com/BepInEx/Il2CppInterop) | Interop between CoreCLR and IL2CPP at runtime for modding | 399 | 🟢 | C# |
 | [phantom-frida](https://github.com/TheQmaks/phantom-frida) | Builds a Frida server from source with anti-detection patches | 395 | 🟢 | Python |
 | [ApkToolBoxGUI](https://github.com/AloysHF/ApkToolBoxGUI) | GUI toolbox around apktool and related APK tools | 373 | 🟢 | Java |
@@ -687,15 +687,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [appdbg](https://github.com/asmjmp0/appdbg) | Runs Android app methods on a standard JVM for analysis | 262 | 🟡 | Kotlin |
 | [renef](https://github.com/Byterialab/renef) | Mobile reverse engineering framework | 255 | 🟢 | C++ |
 | [apk-utilities](https://github.com/ViRb3/apk-utilities) | Tools and scripts to manipulate Android APKs | 252 | 🟡 | Python |
-| [resymbol](https://github.com/paradiseduo/resymbol) | Restores stripped Mach-O symbols and dumps Objective-C/Swift types | 229 | 🟢 | Swift |
+| [resymbol](https://github.com/paradiseduo/resymbol) | Restores stripped Mach-O symbols and dumps Objective-C/Swift types | 228 | 🟢 | Swift |
 | [android-lkms](https://github.com/strazzere/android-lkms) | Android loadable kernel modules for reversing and debugging | 226 | 🔴 | C |
 | [unidbg-server](https://github.com/cxapython/unidbg-server) | Spring Boot service wrapping unidbg to run Android native code | 222 | 🟡 | Java |
-| [Dex-Editor-Android](https://github.com/developer-krushna/Dex-Editor-Android) | Android Dalvik bytecode (DEX) editor | 214 | 🟢 | Java |
+| [Dex-Editor-Android](https://github.com/developer-krushna/Dex-Editor-Android) | Android Dalvik bytecode (DEX) editor | 215 | 🟢 | Java |
 | [legu_unpacker_2019](https://github.com/quarkslab/legu_unpacker_2019) | Scripts to unpack APKs protected by Tencent Legu | 214 | 🔴 | Python |
 | [arkdecompiler](https://github.com/jd-opensource/arkdecompiler) | HarmonyOS NEXT ArkTS bytecode decompiler | 204 | 🟢 | C++ |
 | [revengi-app](https://github.com/RevEngiSquad/revengi-app) | Toolkit app for smali grammar, DEX repair and Flutter analysis | 202 | 🟢 | Dart |
 | [hermes-decomp](https://github.com/SymbioticSec/hermes-decomp) | Decompiler for React Native Hermes bytecode (.hbc) | 191 | 🟢 | Rust |
-| [Termux-Apktool](https://github.com/Lexiie/Termux-Apktool) | Decompile and recompile Android apps in Termux without OpenJDK | 189 | 🔴 |  |
+| [Termux-Apktool](https://github.com/Lexiie/Termux-Apktool) | Decompile and recompile Android apps in Termux without OpenJDK | 190 | 🔴 |  |
 | [native-shim](https://github.com/rednaga/native-shim) | Shim for loading native JNI libraries for Android active debugging | 181 | 🔴 | C |
 | [flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo) | Experiments on reverse engineering Flutter applications | 178 | 🔴 | Python |
 | [iCDump](https://github.com/romainthomas/iCDump) | Modern Objective-C class dump based on LIEF and LLVM | 171 | 🗄️ | C++ |
@@ -705,12 +705,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LeguDecompile](https://github.com/dzx1994/LeguDecompile) | Static unpacker for Tencent Legu-protected .so libraries | 142 | 🔴 | Python |
 | [androidReverse](https://github.com/UltraSina/androidReverse) | On-device Android reverse engineering with radare2 and Java decompilers | 129 | 🟢 |  |
 | [noia](https://github.com/0x742/noia) | Frida-powered mobile app sandbox file browser | 129 | 🔴 | JavaScript |
-| [Jarida](https://github.com/BitTheByte/Jarida) | Jadx GUI plugin to trace and hook methods with Frida | 127 | 🟢 | Java |
+| [Jarida](https://github.com/BitTheByte/Jarida) | Jadx GUI plugin to trace and hook methods with Frida | 128 | 🟢 | Java |
 | [PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core) | Cross-platform APK decompilation and rebuilding tool | 126 | 🟢 | C# |
 | [Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader) | Zygisk module hot-swapping native libraries into Android apps | 119 | 🟢 | C |
 | [binder-trace](https://github.com/fuqiuluo/binder-trace) | Kernel-based Android Binder transaction observer | 117 | 🟢 | Rust |
 | [dexdec](https://github.com/asLody/dexdec) | Fast Android decompiler for humans and AI agents | 117 | 🟢 | Rust |
-| [PulseAPK](https://github.com/deemoun/PulseAPK) | WPF frontend for apktool and signing | 115 | 🟢 | C# |
+| [PulseAPK](https://github.com/deemoun/PulseAPK) | WPF frontend for apktool and signing | 116 | 🟢 | C# |
 | [r0dump](https://github.com/tiwe0/r0dump) | ART-integrated DEX dumper and repair toolkit for Android 16 | 108 | 🟢 | JavaScript |
 | [react-native-decompiler](https://github.com/richardfuca/react-native-decompiler) | Decompile React Native JavaScript bundles | 107 | 🗄️ | TypeScript |
 | [reverse_flutter](https://github.com/Neoxs/reverse_flutter) | Tools and guidelines for reverse engineering Flutter apps | 106 | 🟡 | Smali |
@@ -734,12 +734,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | ESP32 hardware hacking tool that speaks I2C, SPI, UART, IR, RF and more protocols | 6,144 | 🟢 | C++ |
-| [FISSURE](https://github.com/ainfosec/FISSURE) | RF and reverse engineering framework for signal detection, protocol discovery and attacks | 2,069 | 🟢 | Python |
+| [ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | ESP32 hardware hacking tool that speaks I2C, SPI, UART, IR, RF and more protocols | 6,154 | 🟢 | C++ |
+| [FISSURE](https://github.com/ainfosec/FISSURE) | RF and reverse engineering framework for signal detection, protocol discovery and attacks | 2,072 | 🟢 | Python |
 | [avscript](https://github.com/taviso/avscript) | Interactive shell for Avast's JavaScript engine extracted via reverse engineering | 673 | 🗄️ | C |
-| [win32-darkmode](https://github.com/ysc3839/win32-darkmode) | Example using the undocumented Windows dark mode API in Win32 apps | 523 | 🔴 | C++ |
+| [win32-darkmode](https://github.com/ysc3839/win32-darkmode) | Example using the undocumented Windows dark mode API in Win32 apps | 524 | 🔴 | C++ |
 | [Twonkie](https://github.com/dojoe/Twonkie) | USB-PD sniffer/injector/sink based on Google's Twinkie for protocol analysis | 415 | 🟡 | C |
-| [PSVita-RE-tools](https://github.com/TeamFAPS/PSVita-RE-tools) | Bundle of RE tools for analyzing and modding the PS Vita OS | 390 | 🔴 | C |
+| [PSVita-RE-tools](https://github.com/TeamFAPS/PSVita-RE-tools) | Bundle of RE tools for analyzing and modding the PS Vita OS | 391 | 🔴 | C |
 | [Musa.Veil](https://github.com/MiroKaku/Musa.Veil) | Collection of undocumented Windows API declarations | 370 | 🟢 | C |
 | [etw-providers-docs](https://github.com/repnz/etw-providers-docs) | Documentation of undocumented Windows ETW providers | 307 | 🔴 | C |
 | [cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | Toolkit for analysing and reverse engineering legacy COBOL code (flowcharts, CFGs) | 167 | 🟢 | COBOL |
@@ -755,20 +755,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy | 45,682 | 🟢 | Python |
-| [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | Reverse-engineers REST APIs into OpenAPI specs from captured mitmproxy/HAR traffic | 9,656 | 🟢 | HTML |
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy | 45,708 | 🟢 | Python |
+| [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | Reverse-engineers REST APIs into OpenAPI specs from captured mitmproxy/HAR traffic | 9,657 | 🟢 | HTML |
 | [apk-mitm](https://github.com/niklashigi/apk-mitm) | CLI that prepares Android APKs for HTTPS inspection by removing pinning | 5,130 | 🟡 | TypeScript |
 | [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Disables SSL certificate validation and pinning in iOS and macOS apps | 3,322 | 🔴 | Objective-C |
-| [reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) | Agent that captures website traffic and turns it into API clients | 1,387 | 🟢 | Python |
+| [reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) | Agent that captures website traffic and turns it into API clients | 1,396 | 🟢 | Python |
 | [USBPcap](https://github.com/desowin/usbpcap) | USB packet capture for Windows, used for driver protocol analysis | 1,145 | 🟡 | C |
-| [Proxelar](https://github.com/emanuele-em/proxelar) | MitM proxy in Rust with TUI, terminal and web interfaces | 1,080 | 🟢 | Rust |
-| [android-unpinner](https://github.com/mitmproxy/android-unpinner) | Removes certificate pinning from Android APKs | 1,053 | 🟢 | Python |
+| [Proxelar](https://github.com/emanuele-em/proxelar) | MitM proxy in Rust with TUI, terminal and web interfaces | 1,081 | 🟢 | Rust |
+| [android-unpinner](https://github.com/mitmproxy/android-unpinner) | Removes certificate pinning from Android APKs | 1,052 | 🟢 | Python |
 | [Netzob](https://github.com/netzob/netzob) | Protocol reverse engineering, modeling and fuzzing tool | 838 | 🟡 | Python |
 | [tokentap (Sherlock)](https://github.com/jmuncor/tokentap) | MitM proxy that intercepts LLM tool API traffic to show what coding agents send | 811 | 🟢 | Python |
 | [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) | Desktop app for intercepting and debugging HTTP(S) traffic | 736 | 🟢 | TypeScript |
-| [USB Sniffer Lite](https://github.com/ataradov/usb-sniffer-lite) | Simple USB sniffer based on the Raspberry Pi RP2040 | 703 | 🟢 | C |
+| [USB Sniffer Lite](https://github.com/ataradov/usb-sniffer-lite) | Simple USB sniffer based on the Raspberry Pi RP2040 | 702 | 🟢 | C |
 | [esp32_bluetooth_classic_sniffer](https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer) | Active Bluetooth BR/EDR sniffer and injector on ESP32 | 611 | 🔴 | C |
-| [httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) | Backend of HTTP Toolkit HTTP(S) interception and debugging tool | 567 | 🟢 | JavaScript |
+| [httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) | Backend of HTTP Toolkit HTTP(S) interception and debugging tool | 568 | 🟢 | JavaScript |
 | [USBProxy-legacy](https://github.com/usb-tools/USBProxy-legacy) | Proxy for USB devices using libUSB and gadgetFS to sniff and modify traffic | 471 | 🔴 | C++ |
 | [frida-flutterproxy](https://github.com/hackcatml/frida-flutterproxy) | Frida script to proxy Flutter app traffic through Burp | 362 | 🟡 | JavaScript |
 | [usbrply](https://github.com/JohnDMcMaster/usbrply) | Converts USB pcaps into Python/C replay scripts for driver reverse engineering | 339 | 🟡 | Python |
@@ -782,12 +782,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Android-Request-Inspector-WebView](https://github.com/acsbendi/Android-Request-Inspector-WebView) | Inspect and intercept full HTTP requests from Android WebViews | 117 | 🟢 | Kotlin |
 | [usbsnoop](https://github.com/yeet-src/usbsnoop) | Live system-wide USB transfer sniffer in eBPF with inline protocol decoding | 89 | 🟢 | JavaScript |
 | [Android-BLE-Monitor](https://github.com/mx0c/Android-BLE-Monitor) | BLE reverse engineering tool for Android | 79 | 🔴 | C++ |
-| [BLE-Analyzer-pro-linux-capture](https://github.com/xecaz/BLE-Analyzer-pro-linux-capture) | Linux capture tool for the reverse-engineered BLE Analyzer Pro USB sniffer | 77 | 🟢 | C |
+| [BLE-Analyzer-pro-linux-capture](https://github.com/xecaz/BLE-Analyzer-pro-linux-capture) | Linux capture tool for the reverse-engineered BLE Analyzer Pro USB sniffer | 78 | 🟢 | C |
 | [NetPlier](https://github.com/yapengye/NetPlier) | Probabilistic network protocol reverse engineering from message traces | 75 | 🟡 | Python |
 | [mitmcloak](https://github.com/sardanioss/mitmcloak) | mitmproxy addon mirroring real browser TLS/H2/H3 fingerprints upstream | 64 | 🟢 | Python |
 | [http-breakout-proxy](https://github.com/jbsouthe/http-breakout-proxy) | HTTP proxy for reverse engineering protocol communication | 61 | 🟢 | Go |
+| [rever-browser](https://github.com/greekr4/rever-browser) | AI-agent browser for web API reverse engineering | 42 | 🟢 | TypeScript |
 | [impersonate-proxy](https://github.com/ytkoka/impersonate-proxy) | Local MitM proxy to control TLS (JA3/JA4) and HTTP/2 fingerprints | 41 | 🟢 | Go |
-| [rever-browser](https://github.com/greekr4/rever-browser) | AI-agent browser for web API reverse engineering | 41 | 🟢 | TypeScript |
 | [api-reverse-engineer](https://github.com/ctala/api-reverse-engineer) | Chrome extension capturing fetch/XHR calls to reverse engineer site APIs | 33 | 🟢 | JavaScript |
 | [fritm](https://github.com/louisabraham/fritm) | Cross-platform network reverse engineering framework hooking processes with Frida | 26 | 🔴 | Python |
 | [SniffUSB / usbsnoop](https://sourceforge.net/projects/usbsnoop/) | Windows USB traffic sniffer used to reverse engineer USB device protocols for Linux drivers |  | ⚪ |  |
