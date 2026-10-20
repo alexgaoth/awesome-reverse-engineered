@@ -172,5 +172,17 @@
   "name": "Super Mario 3D World + Bowser's Fury",
   "removed": "2026-10-19",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/grantnedwards/eight-sleep",
+  "name": "eight-sleep (HA)",
+  "removed": "2026-10-20",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/official-kryo-to/ctw-native",
+  "name": "CTW-Native",
+  "removed": "2026-10-20",
+  "reason": "not found on GitHub"
  }
 ]
