@@ -184,5 +184,23 @@
   "name": "CTW-Native",
   "removed": "2026-10-20",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/north-road/slyr",
+  "name": "SLYR",
+  "removed": "2026-10-21",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/AxioDL/metaforce",
+  "name": "metaforce",
+  "removed": "2026-10-21",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/PrimeDecomp/prime",
+  "name": "Metroid Prime",
+  "removed": "2026-10-21",
+  "reason": "not found on GitHub"
  }
 ]
