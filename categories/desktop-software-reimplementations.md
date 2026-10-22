@@ -14,26 +14,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 70,159 | 🟢 | Rust |
-| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 69,392 | 🟢 | Rust |
-| [ruffle](https://github.com/ruffle-rs/ruffle) | A Flash Player emulator written in Rust | 18,718 | 🟢 | Rust |
-| [wordcraft](https://github.com/storytold/wordcraft) | Open-source clean-room reimplementation of Microsoft Word in Rust | 15,216 | 🟢 | Rust |
-| [Webamp](https://github.com/captbaritone/webamp) | Winamp 2.9 reimplemented in HTML5/JS, including skin and playlist format support | 11,306 | 🟢 | TypeScript |
-| [CADCraft](https://github.com/storytold/cadcraft) | Clean-room AutoCAD-style CAD and drafting application written in pure Rust | 6,249 | 🟢 | Rust |
-| [gridcraft](https://github.com/storytold/gridcraft) | Open-source clean-room Excel-style spreadsheet in Rust | 6,097 | 🟢 | Rust |
-| [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) | Patches the Notion desktop/Electron app to add themes and extensions | 5,030 | 🟢 | JavaScript |
-| [deckcraft](https://github.com/storytold/deckcraft) | Open-source clean-room reimplementation of Microsoft PowerPoint in Rust | 4,030 | 🟢 | Rust |
-| [SoundCraft](https://github.com/storytold/soundcraft) | Clean-room reimplementation of Avid Pro Tools in pure Rust | 3,491 | 🟢 | Rust |
+| [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 70,984 | 🟢 | Rust |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 69,455 | 🟢 | Rust |
+| [ruffle](https://github.com/ruffle-rs/ruffle) | A Flash Player emulator written in Rust | 18,726 | 🟢 | Rust |
+| [wordcraft](https://github.com/storytold/wordcraft) | Open-source clean-room reimplementation of Microsoft Word in Rust | 15,445 | 🟢 | Rust |
+| [Webamp](https://github.com/captbaritone/webamp) | Winamp 2.9 reimplemented in HTML5/JS, including skin and playlist format support | 11,308 | 🟢 | TypeScript |
+| [CADCraft](https://github.com/storytold/cadcraft) | Clean-room AutoCAD-style CAD and drafting application written in pure Rust | 6,389 | 🟢 | Rust |
+| [gridcraft](https://github.com/storytold/gridcraft) | Open-source clean-room Excel-style spreadsheet in Rust | 6,207 | 🟢 | Rust |
+| [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) | Patches the Notion desktop/Electron app to add themes and extensions | 5,028 | 🟢 | JavaScript |
+| [deckcraft](https://github.com/storytold/deckcraft) | Open-source clean-room reimplementation of Microsoft PowerPoint in Rust | 4,101 | 🟢 | Rust |
+| [SoundCraft](https://github.com/storytold/soundcraft) | Clean-room reimplementation of Avid Pro Tools in pure Rust | 3,545 | 🟢 | Rust |
 | [figma-linux](https://github.com/Figma-Linux/figma-linux) | Unofficial Figma desktop client for Linux built around the web app | 3,286 | 🟢 | Svelte |
-| [FigCraft](https://github.com/storytold/figcraft) | Clean-room reimplementation of Figma in pure Rust: frames, auto layout, components, vector networks, prototypes | 2,998 | 🟢 | Rust |
-| [lotion](https://github.com/puneetsl/lotion) | Unofficial Notion.so desktop app for Linux | 2,246 | 🟢 | JavaScript |
-| [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) | Open source reimplementation of EA's SAGE RTS engine (C&C Generals) | 1,653 | 🟢 | C# |
-| [Schism Tracker](https://github.com/schismtracker/schismtracker) | Open-source reimplementation of Impulse Tracker | 1,572 | 🟢 | C |
-| [ignis](https://github.com/Nystik-gh/ignis) | Obsidian reverse engineered to run as a self-hosted web app | 1,556 | 🟢 | JavaScript |
-| [SAM](https://github.com/s-macke/SAM) | Reverse engineered C port of the Software Automatic Mouth speech synthesizer | 1,518 | 🟡 | C |
+| [FigCraft](https://github.com/storytold/figcraft) | Clean-room reimplementation of Figma in pure Rust: frames, auto layout, components, vector networks, prototypes | 3,107 | 🟢 | Rust |
+| [lotion](https://github.com/puneetsl/lotion) | Unofficial Notion.so desktop app for Linux | 2,252 | 🟢 | JavaScript |
+| [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) | Open source reimplementation of EA's SAGE RTS engine (C&C Generals) | 1,656 | 🟢 | C# |
+| [Schism Tracker](https://github.com/schismtracker/schismtracker) | Open-source reimplementation of Impulse Tracker | 1,573 | 🟢 | C |
+| [ignis](https://github.com/Nystik-gh/ignis) | Obsidian reverse engineered to run as a self-hosted web app | 1,558 | 🟢 | JavaScript |
+| [SAM](https://github.com/s-macke/SAM) | Reverse engineered C port of the Software Automatic Mouth speech synthesizer | 1,520 | 🟡 | C |
 | [OpenSilver](https://github.com/OpenSilver/OpenSilver) | Open-source plugin-free reimplementation of Microsoft Silverlight on WebAssembly | 1,280 | 🟢 | C# |
 | [Woxi](https://github.com/ad-si/Woxi) | Wolfram Language / Mathematica reimplementation in Rust | 941 | 🟢 | Rust |
-| [qcma](https://github.com/codestation/qcma) | Open-source cross-platform replacement for Sony's Content Manager Assistant for PS Vita | 672 | 🟢 | C++ |
+| [qcma](https://github.com/codestation/qcma) | Open-source cross-platform replacement for Sony's Content Manager Assistant for PS Vita | 673 | 🟢 | C++ |
 | [reportviewercore](https://github.com/lkosson/reportviewercore) | Recompilation of Microsoft ReportViewer for .NET Core | 568 | 🟢 | C# |
 | [Pash](https://github.com/Pash-Project/Pash) | Open source reimplementation of Windows PowerShell for Mono | 515 | 🗄️ | C# |
 | [dirplayer-rs](https://github.com/igorlira/dirplayer-rs) | Reverse-engineered Adobe Shockwave player in Rust/WASM to run early-2000s web games | 417 | 🟢 | Rust |
@@ -46,19 +46,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [vst2sdk](https://github.com/Xaymar/vst2sdk) | Clean-room reverse engineered VST 2.x interface headers | 140 | 🟢 | C++ |
 | [electroportis](https://github.com/drvink/electroportis) | SGI ElectroPaint screensaver ported to Windows via decompilation | 132 | 🔴 | C |
 | [figma-linux-font-helper](https://github.com/tryvin/figma-linux-font-helper) | Linux implementation of the Figma local font helper service | 127 | 🟢 | Python |
-| [SQ8L](https://github.com/sq8l-revival/SQ8L) | Faithful 64-bit port of the SQ8L Ensoniq SQ-80 emulation plugin | 117 | 🟢 | C++ |
-| [LightCraft Android](https://github.com/artcraft-android/lightcraft-android) | Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI | 94 | 🟢 | Rust |
+| [SQ8L](https://github.com/sq8l-revival/SQ8L) | Faithful 64-bit port of the SQ8L Ensoniq SQ-80 emulation plugin | 118 | 🟢 | C++ |
+| [LightCraft Android](https://github.com/artcraft-android/lightcraft-android) | Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI | 97 | 🟢 | Rust |
 | [LibreShockwave](https://github.com/LibreShockwave/LibreShockwave) | Open-source SDK, decompiler and web player for Adobe Shockwave | 88 | 🟢 | C++ |
 | [geowrite](https://github.com/mist64/geowrite) | Reconstructed source code of geoWrite 2.1 for the Commodore 64 | 69 | 🔴 | Assembly |
 | [gnupoc-package](https://github.com/mstorsjo/gnupoc-package) | Patches and native Unix reimplementations of tools to use Symbian SDKs on Unix | 62 | 🔴 | Shell |
+| [paper-rs](https://github.com/michaelshimeles/sketch) | Clean-room Rust reimplementation of the Paper design app | 62 | 🟢 | Rust |
 | [bottle-fever](https://github.com/rcarmo/bottle-fever) | Clean-room clone of the Fever RSS aggregator API | 60 | 🔴 | Python |
 | [intel80tools](https://github.com/ogdenpm/intel80tools) | Reconstruction of the Intel 8080 toolchain including PLM80, ASM80, LINK80 and ISIS 4.1 | 60 | 🟢 | Assembly |
 | [OpenShockwave](https://github.com/Brian151/OpenShockwave) | Reverse engineering and re-implementation of Macromedia Shockwave | 60 | 🔴 | JavaScript |
 | [Scmpoo](https://github.com/lwu309/Scmpoo) | Reverse engineering of STRAY SHEEP The Screen Mate, a 16-bit Windows application | 60 | 🔴 | C |
-| [paper-rs](https://github.com/michaelshimeles/paper-rs) | Clean-room Rust reimplementation of the Paper design app | 58 | 🟢 | Rust |
 | [xcode-tools](https://github.com/b-man/xcode-tools) | Open-source reimplementation of Apple's Xcode command-line tools | 48 | 🟡 | C |
+| [openevv](https://github.com/Mudb0y/openevv) | Reimplementation of IBM Embedded ViaVoice / ETI Eloquence TTS in portable C | 47 | 🟢 | C |
 | [digital-fauxice](https://github.com/rohanpandula/digital-fauxice) | Independent RGBI dust-and-scratch repair for the Nikon LS-5000 scanner (Digital ICE replacement) | 46 | 🟢 | Python |
-| [openevv](https://github.com/Mudb0y/openevv) | Reimplementation of IBM Embedded ViaVoice / ETI Eloquence TTS in portable C | 45 | 🟢 | C |
 | [MailCraft](https://github.com/MonkeySaint/mailcraft) | Clean-room reimplementation of Microsoft Outlook (classic) in pure Rust | 41 | 🟢 | Rust |
 | [GlovePIEReverseEngineering](https://github.com/GlovePIEPreservation/GlovePIEReverseEngineering) | The GlovePIE decompilation effort | 40 | 🔴 | Pascal |
 | [ZuneShell.dll](https://github.com/ZuneDev/ZuneShell.dll) | Decompilations of the Zune desktop ZuneShell.dll, UIX.dll and UIXControls.dll | 34 | 🟢 | C# |
@@ -80,11 +80,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [FEX-Emu](https://github.com/FEX-Emu/FEX) | Fast usermode x86/x86-64 emulator for ARM64 Linux | 8,322 | 🟢 | C++ |
 | [Blink](https://github.com/jart/blink) | Tiny x86-64 Linux emulator that runs on many platforms | 7,600 | 🟢 | C |
-| [Box64](https://github.com/ptitSeb/box64) | Linux userspace x86_64 emulator for ARM64, RISC-V and LoongArch with native lib wrapping | 5,681 | 🟢 | C |
+| [Box64](https://github.com/ptitSeb/box64) | Linux userspace x86_64 emulator for ARM64, RISC-V and LoongArch with native lib wrapping | 5,684 | 🟢 | C |
 | [Box86](https://github.com/ptitSeb/box86) | Linux userspace x86 emulator for ARM with native library wrapping | 3,815 | 🟢 | C |
-| [mobox](https://github.com/olegos2/mobox) | Runs Windows x86 apps in Termux on Android with Box64 and Wine | 3,750 | 🗄️ | Shell |
-| [Hangover](https://github.com/AndreRH/hangover) | Runs Win32/Win64 x86 apps on ARM64 and other hosts using Wine with FEX/Box64 | 2,052 | 🟢 | Dockerfile |
-| [recompiler](https://github.com/rexdex/recompiler) | Xbox 360 executable to Windows executable static recompiler | 1,757 | 🔴 | C++ |
+| [mobox](https://github.com/olegos2/mobox) | Runs Windows x86 apps in Termux on Android with Box64 and Wine | 3,753 | 🗄️ | Shell |
+| [Hangover](https://github.com/AndreRH/hangover) | Runs Win32/Win64 x86 apps on ARM64 and other hosts using Wine with FEX/Box64 | 2,053 | 🟢 | Dockerfile |
+| [recompiler](https://github.com/rexdex/recompiler) | Xbox 360 executable to Windows executable static recompiler | 1,758 | 🔴 | C++ |
 | [felix86](https://github.com/OFFTKP/felix86) | x86-64 userspace emulator for RISC-V Linux | 702 | 🟢 | C++ |
 | [bin2llvm](https://github.com/cojocar/bin2llvm) | Binary to LLVM IR translator | 159 | 🔴 | C++ |
 | [binrec-tob](https://github.com/trailofbits/binrec-tob) | Dynamic binary lifting and recompilation | 153 | 🔴 | C++ |
@@ -94,8 +94,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Shumway](https://github.com/mozilla/shumway) | Flash VM and runtime written in JavaScript (archived Mozilla project) | 3,667 | 🗄️ | TypeScript |
-| [OpenFL](https://github.com/openfl/openfl) | Open-source reimplementation of the Flash Player API for web, desktop and mobile | 2,170 | 🟢 | Haxe |
+| [Shumway](https://github.com/mozilla/shumway) | Flash VM and runtime written in JavaScript (archived Mozilla project) | 3,665 | 🗄️ | TypeScript |
+| [OpenFL](https://github.com/openfl/openfl) | Open-source reimplementation of the Flash Player API for web, desktop and mobile | 2,171 | 🟢 | Haxe |
 | [Lightspark](https://github.com/lightspark/lightspark) | Open-source Flash Player implementation with ActionScript 3 support | 1,909 | 🟢 | C++ |
 | [Moonlight](https://github.com/mono/moon) | Mono's open-source Silverlight implementation for Linux | 164 | 🗄️ | C# |
 | [ccsr](https://github.com/mattbruv/ccsr) | Cartoon Cartoon Summer Resort Shockwave games ported to the modern web | 152 | 🟡 | TypeScript |
@@ -109,46 +109,46 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Proton](https://github.com/ValveSoftware/Proton) | Valve's Wine-based compatibility tool for Steam Play | 33,109 | 🟢 | C++ |
-| [Winlator](https://github.com/brunodev85/winlator) | Android app running Windows x86 apps via Wine and Box86/Box64 | 19,562 | 🟢 | C |
-| [DXVK](https://github.com/doitsujin/dxvk) | Vulkan-based implementation of Direct3D 8/9/10/11 for Wine and Linux | 18,336 | 🟢 | C++ |
-| [ReactOS](https://github.com/reactos/reactos) | Free Windows-compatible operating system reimplementing NT | 18,306 | 🟢 | C |
-| [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) | Community Proton build with extra Wine/media patches | 15,211 | 🟢 | C++ |
-| [Whisky](https://github.com/Whisky-App/Whisky) | macOS GUI wrapper for running Windows apps with Wine | 15,090 | 🗄️ | Swift |
-| [Darling](https://github.com/darlinghq/darling) | Darwin/macOS translation layer for Linux | 13,603 | 🟢 | Objective-C |
-| [Wine](https://github.com/wine-mirror/wine) | Compatibility layer that runs Windows applications on Unix by reimplementing Win32 | 4,262 | 🟢 | C |
-| [touchHLE](https://github.com/touchHLE/touchHLE) | High-level emulator for early iPhone OS apps | 4,027 | 🟢 | Rust |
-| [Sikarugir (formerly Kegworks)](https://github.com/Sikarugir-App/Sikarugir) | Wrapper tool to port Windows software to macOS using Wine | 3,901 | 🟢 |  |
-| [winevdm (otvdm)](https://github.com/otya128/winevdm) | Runs 16-bit Windows 3.x programs on 64-bit Windows using Wine code | 3,452 | 🟢 | C |
+| [Proton](https://github.com/ValveSoftware/Proton) | Valve's Wine-based compatibility tool for Steam Play | 33,118 | 🟢 | C++ |
+| [Winlator](https://github.com/brunodev85/winlator) | Android app running Windows x86 apps via Wine and Box86/Box64 | 19,572 | 🟢 | C |
+| [DXVK](https://github.com/doitsujin/dxvk) | Vulkan-based implementation of Direct3D 8/9/10/11 for Wine and Linux | 18,342 | 🟢 | C++ |
+| [ReactOS](https://github.com/reactos/reactos) | Free Windows-compatible operating system reimplementing NT | 18,323 | 🟢 | C |
+| [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) | Community Proton build with extra Wine/media patches | 15,215 | 🟢 | C++ |
+| [Whisky](https://github.com/Whisky-App/Whisky) | macOS GUI wrapper for running Windows apps with Wine | 15,088 | 🗄️ | Swift |
+| [Darling](https://github.com/darlinghq/darling) | Darwin/macOS translation layer for Linux | 13,608 | 🟢 | Objective-C |
+| [Wine](https://github.com/wine-mirror/wine) | Compatibility layer that runs Windows applications on Unix by reimplementing Win32 | 4,263 | 🟢 | C |
+| [touchHLE](https://github.com/touchHLE/touchHLE) | High-level emulator for early iPhone OS apps | 4,031 | 🟢 | Rust |
+| [Sikarugir (formerly Kegworks)](https://github.com/Sikarugir-App/Sikarugir) | Wrapper tool to port Windows software to macOS using Wine | 3,908 | 🟢 |  |
+| [winevdm (otvdm)](https://github.com/otya128/winevdm) | Runs 16-bit Windows 3.x programs on 64-bit Windows using Wine code | 3,454 | 🟢 | C |
 | [FNA](https://github.com/FNA-XNA/FNA) | Accuracy-focused reimplementation of Microsoft XNA 4.0 | 3,060 | 🟢 | C# |
-| [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) | Direct3D 12 implementation on Vulkan used by Proton | 3,008 | 🟢 | C |
-| [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) | J2ME Loader, a J2ME emulator for Android | 2,710 | 🟢 | C |
+| [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) | Direct3D 12 implementation on Vulkan used by Proton | 3,005 | 🟢 | C |
+| [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) | J2ME Loader, a J2ME emulator for Android | 2,711 | 🟢 | C |
 | [Haiku](https://github.com/haiku/haiku) | Open source reimplementation of BeOS | 2,365 | 🟢 | C++ |
-| [dxwrapper](https://github.com/elishacloud/dxwrapper) | Wrapper fixing compatibility of old DirectX/DirectDraw games on modern Windows | 2,044 | 🟢 | C |
+| [dxwrapper](https://github.com/elishacloud/dxwrapper) | Wrapper fixing compatibility of old DirectX/DirectDraw games on modern Windows | 2,047 | 🟢 | C |
 | [vita2hos](https://github.com/xerpi/vita2hos) | PlayStation Vita to Horizon OS (Nintendo Switch) translation layer | 1,256 | 🟡 | C |
 | [FreeDOS kernel](https://github.com/FDOS/kernel) | MS-DOS compatible operating system kernel | 1,059 | 🟢 | C |
 | [GNUstep Base](https://github.com/gnustep/libs-base) | Free implementation of the OpenStep/Cocoa Foundation API | 999 | 🟢 | Objective-C |
 | [NTVDMx64](https://github.com/leecher1337/ntvdmx64) | Runs Microsoft NTVDM (16-bit DOS subsystem) on 64-bit Windows | 958 | 🟢 | C |
 | [ipasim](https://github.com/ipasimulator/ipasim) | iOS emulator for Windows that runs iOS apps via translated binaries | 938 | 🔴 | C++ |
 | [PumpkinOS](https://github.com/migueletto/PumpkinOS) | Re-implementation of PalmOS that runs Palm m68k apps on modern systems | 826 | 🟢 | C |
-| [SBEMU](https://github.com/crazii/SBEMU) | Sound Blaster emulation for DOS on modern HDA and AC97 sound hardware | 796 | 🟢 | C |
-| [freej2me](https://github.com/hex007/freej2me) | FreeJ2ME, a free J2ME emulator with libretro, AWT and SDL2 frontends | 682 | 🟢 | Java |
+| [SBEMU](https://github.com/crazii/SBEMU) | Sound Blaster emulation for DOS on modern HDA and AC97 sound hardware | 797 | 🟢 | C |
+| [freej2me](https://github.com/hex007/freej2me) | FreeJ2ME, a free J2ME emulator with libretro, AWT and SDL2 frontends | 683 | 🟢 | Java |
 | [FAudio](https://github.com/FNA-XNA/FAudio) | Accuracy-focused XAudio reimplementation for open platforms | 642 | 🟢 | C++ |
 | [AROS](https://github.com/aros-development-team/AROS) | Open source reimplementation of the AmigaOS 3.1 APIs | 516 | 🟢 | C |
 | [GEOS 2.0 source](https://github.com/mist64/geos) | Reverse-engineered source code of GEOS 2.0 for the Commodore 64/128 | 487 | 🟢 | Assembly |
 | [Advanced Mac Substitute (metamage)](https://github.com/jjuran/metamage_1) | Repo hosting Advanced Mac Substitute, a reimplementation of classic Mac OS APIs | 375 | 🟢 | C++ |
-| [Hercules Hyperion](https://github.com/SDL-Hercules-390/hyperion) | Emulator of IBM System/370, ESA/390 and z/Architecture mainframes | 354 | 🟢 | C |
+| [Hercules Hyperion](https://github.com/SDL-Hercules-390/hyperion) | Emulator of IBM System/370, ESA/390 and z/Architecture mainframes | 355 | 🟢 | C |
 | [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME) | SquirrelJME, a clean-room Java ME 8 virtual machine | 324 | 🟢 | Java |
 | [mpw](https://github.com/ksherlock/mpw) | Compatibility layer that runs Macintosh Programmer's Workshop tools on modern systems | 277 | 🟢 | C |
 | [SunriseOS](https://github.com/sunriseos/SunriseOS) | Nintendo Switch Horizon/NX kernel reimplementation | 247 | 🔴 | Rust |
 | [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X) | Z80 emulator plus CP/M-80 BDOS reimplementation to run CP/M software on macOS | 240 | 🟢 | Objective-C |
 | [VSBHDA](https://github.com/Baron-von-Riedesel/VSBHDA) | Sound Blaster emulation for DOS on HDA hardware | 171 | 🟢 | C |
 | [Executor](https://github.com/autc04/executor) | Modern fork of Executor, a classic Mac OS reimplementation | 170 | 🟢 | C++ |
-| [Brovan](https://github.com/AdvDebug/Brovan) | User-mode NT and Linux emulator to run Windows and Linux programs across platforms | 166 | 🟢 | C# |
+| [Brovan](https://github.com/AdvDebug/Brovan) | User-mode NT and Linux emulator to run Windows and Linux programs across platforms | 167 | 🟢 | C# |
 | [MBBSEmu](https://github.com/mbbsemu/MBBSEmu) | Emulator that reimplements The MajorBBS/Worldgroup APIs to run its BBS modules | 154 | 🟢 | C# |
 | [osFree](https://github.com/osfree-project/osfree) | Open source OS/2 clone (user-mode parts) | 151 | 🟢 | C |
 | [dumbxinputemu](https://github.com/kozec/dumbxinputemu) | XInput reimplementation compatible with DirectInput controllers | 145 | 🔴 | C |
-| [berrry-wine](https://github.com/vgrichina/berrry-wine) | Runs Windows 98 apps and games in the browser via x86 and Win32 emulation | 133 | 🟢 | JavaScript |
+| [berrry-wine](https://github.com/vgrichina/berrry-wine) | Runs Windows 98 apps and games in the browser via x86 and Win32 emulation | 134 | 🟢 | JavaScript |
 | [AuthUX](https://github.com/world-windows-federation/AuthUX) | Windows 7 AuthUI recreated via ConsoleLogon reimplementation | 132 | 🟢 | C++ |
 | [libxpc](https://github.com/jceel/libxpc) | Open-source reimplementation of Apple's XPC library | 121 | 🔴 | C |
 | [spinhawk](https://github.com/rbowler/spinhawk) | Hercules (spinhawk), an IBM System/370, ESA/390 and z/Architecture mainframe emulator | 112 | 🟢 | C |
@@ -174,17 +174,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [One-Core-API](https://github.com/shorthorn-project/One-Core-API-Binaries) | Compatibility layer that reimplements newer Windows APIs on Windows XP/2003 | 2,281 | 🟢 | Batchfile |
-| [DDrawCompat](https://github.com/narzoul/DDrawCompat) | DirectDraw and Direct3D 1-7 compatibility layer for modern Windows | 1,434 | 🟢 | C++ |
-| [WRP](https://github.com/tenox7/wrp) | Web rendering proxy that lets vintage browsers view modern websites | 1,302 | 🟢 | Go |
-| [d3d8to9](https://github.com/crosire/d3d8to9) | Pseudo-driver that converts Direct3D 8 calls and shaders to Direct3D 9 | 1,269 | 🟢 | C++ |
+| [One-Core-API](https://github.com/shorthorn-project/One-Core-API-Binaries) | Compatibility layer that reimplements newer Windows APIs on Windows XP/2003 | 2,284 | 🟢 | Batchfile |
+| [DDrawCompat](https://github.com/narzoul/DDrawCompat) | DirectDraw and Direct3D 1-7 compatibility layer for modern Windows | 1,435 | 🟢 | C++ |
+| [WRP](https://github.com/tenox7/wrp) | Web rendering proxy that lets vintage browsers view modern websites | 1,303 | 🟢 | Go |
+| [d3d8to9](https://github.com/crosire/d3d8to9) | Pseudo-driver that converts Direct3D 8 calls and shaders to Direct3D 9 | 1,270 | 🟢 | C++ |
 | [Boxedwine](https://github.com/danoon2/Boxedwine) | Emulator that runs 32-bit Windows programs on other platforms via Wine | 1,102 | 🟢 | C++ |
-| [YY-Thunks](https://github.com/Chuyu-Team/YY-Thunks) | Thunks that provide missing newer Win32 APIs so programs run on Windows XP/Vista | 1,032 | 🟢 | C++ |
+| [YY-Thunks](https://github.com/Chuyu-Team/YY-Thunks) | Thunks that provide missing newer Win32 APIs so programs run on Windows XP/Vista | 1,035 | 🟢 | C++ |
 | [Munt](https://github.com/munt/munt) | Software emulation of the Roland MT-32 and related MIDI synths, from reverse-engineered ROMs | 821 | 🟢 | C++ |
 | [Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) | Emulation of the Roland SC-55 sound module from decapped chip and firmware RE | 757 | 🗄️ | C++ |
 | [WebOne](https://github.com/atauenis/webone) | HTTP 1.x proxy that makes old web browsers usable on the modern web | 748 | 🟢 | C# |
 | [DSOAL](https://github.com/kcat/dsoal) | DirectSound DLL replacement that restores EAX and 3D audio via OpenAL Soft | 746 | 🟢 | C++ |
-| [dosemu2](https://github.com/dosemu2/dosemu2) | Runs DOS programs under Linux with a DOS environment emulator | 738 | 🟢 | C |
+| [dosemu2](https://github.com/dosemu2/dosemu2) | Runs DOS programs under Linux with a DOS environment emulator | 740 | 🟢 | C |
 | [Zimodem](https://github.com/bozimmerman/Zimodem) | ESP8266/ESP32 modem-to-internet emulator for retro computers | 541 | 🟢 | C |
 | [Einstein](https://github.com/pguyot/Einstein) | Emulator that runs Apple's NewtonOS on modern operating systems | 532 | 🟢 | C++ |
 | [RunCPM](https://github.com/MockbaTheBorg/RunCPM) | Portable Z80 CP/M 2.2 emulator that reimplements the BDOS on modern hosts | 510 | 🟢 | C |
@@ -207,10 +207,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenGEM](https://github.com/shanecoughlan/OpenGEM) | Extended free distribution of the Digital Research GEM GUI for DOS | 188 | 🔴 | C |
 | [dinputto8](https://github.com/elishacloud/dinputto8) | Converts DirectInput 1-7 calls to DirectInput 8 for old game compatibility | 179 | 🟢 | C++ |
 | [tcpser](https://github.com/FozzTexx/tcpser) | Hayes modem emulator that connects retro computers to telnet BBSes | 157 | 🟢 | C |
-| [freebee](https://github.com/philpem/freebee) | AT&T 3B1 / 7300 UNIX PC emulator | 145 | 🟢 | C |
+| [freebee](https://github.com/philpem/freebee) | AT&T 3B1 / 7300 UNIX PC emulator | 146 | 🟢 | C |
 | [Apple-II-Source](https://github.com/cmosher01/Apple-II-Source) | Source code for Apple II system software and DOS | 138 | 🟡 | M4 |
 | [cdg5](https://github.com/elliotnunn/cdg5) | Project to reverse engineer the Classic Mac OS | 136 | 🟡 |  |
-| [CERF](https://github.com/gweslab/cerf) | Universal Windows CE emulator (CE Runtime Foundation) | 112 | 🟢 | C++ |
+| [CERF](https://github.com/gweslab/cerf) | Universal Windows CE emulator (CE Runtime Foundation) | 113 | 🟢 | C++ |
 | [68k.news](https://github.com/ActionRetro/68k-news) | News site served in simple HTML for vintage computers | 105 | 🟢 | PHP |
 | [ipxbox](https://github.com/fragglet/ipxbox) | DOSBox IPX-over-UDP server with TAP bridge and Quake proxying for retro LAN play | 104 | 🟢 | Go |
 | [MS-DOS Player](https://github.com/cracyc/msdos-player) | Runs MS-DOS command-line programs on Win32/x64 by emulating DOS | 96 | 🟢 | C |

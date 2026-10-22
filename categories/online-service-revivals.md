@@ -15,10 +15,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,892 | 🟢 | JavaScript |
+| [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,894 | 🟢 | JavaScript |
 | [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,376 | 🟢 | C++ |
-| [wire-pod](https://github.com/kercre123/wire-pod) | Free local server that replaces the cloud services of the Anki Vector robot | 830 | 🟢 | Go |
-| [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 411 | 🟢 | Rust |
+| [wire-pod](https://github.com/kercre123/wire-pod) | Free local server that replaces the cloud services of the Anki Vector robot | 832 | 🟢 | Go |
+| [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 412 | 🟢 | Rust |
 | [harmony-api](https://github.com/maddox/harmony-api) | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | 🔴 | JavaScript |
 | [PyCozmo](https://github.com/zayfod/pycozmo) | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 239 | 🔴 | Python |
 | [Slinger](https://github.com/GerryDazoo/Slinger) | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 202 | 🟡 | Python |
@@ -62,11 +62,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) | Server emulator for Cartoon Network's FusionFall MMO | 420 | 🟢 | C++ |
 | [Havana](https://github.com/Quackster/Havana) | Java server that revives 2009-era Habbo Hotel v31 | 228 | 🟢 | Java |
-| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 223 | 🟢 | JavaScript |
+| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 224 | 🟢 | JavaScript |
 | [Wand](https://github.com/solero/wand) | Docker setup that bundles the Houdini Club Penguin private server and its services | 128 | 🟢 | Shell |
 | [MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) | Open source emulation of the Monkey Quest server backend | 95 | 🟢 | C# |
 | [sodoff](https://github.com/SoDOff-Project/sodoff) | School of Dragons server emulator | 81 | 🟢 | C# |
-| [classic-dungeon-blitz](https://github.com/db-preservation-contributors/classic-dungeon-blitz) | Fan revival of the Dungeon Blitz Flash game | 74 | 🟢 | TypeScript |
+| [classic-dungeon-blitz](https://github.com/db-preservation-contributors/classic-dungeon-blitz) | Fan revival of the Dungeon Blitz Flash game | 75 | 🟢 | TypeScript |
 | [MoleWorld-5.5.0-touchHLE-offline](https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline) | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 73 | 🟢 | Rust |
 | [Timeline](https://github.com/Times-0/Timeline) | Club Penguin private server emulator in Python | 73 | 🔴 | Python |
 | [Yukon server](https://github.com/wizguin/yukon-server) | Server for Yukon, an HTML5 recreation of Club Penguin | 52 | 🟢 | JavaScript |
@@ -153,9 +153,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [WiiSOAP](https://github.com/OpenShopChannel/WiiSOAP) | SOAP server that handles Wii Shop Channel requests for the Open Shop Channel | 11 | 🟡 | Go |
 | [RubyGTS](https://github.com/jshield/RubyGTS) | Ruby emulator of the Pokemon Global Trade Station server for DS games | 9 | 🔴 | JavaScript |
 | [SaveMii](https://github.com/Aftendo/SaveMii) | Archiver service for Nintendo Network ID data before shutdown | 9 | 🟡 | Python |
+| [WiiLink cam-server](https://github.com/WiiLink24/cam-server) | Revived backend for the Wii Digicam Print Channel | 8 | 🟢 | Python |
 | [Disconnect24 channel](https://github.com/Disconnect24/dc24-channel) | Wii channel for Disconnect24, a WiiConnect24 mail replacement service | 7 | 🗄️ | C |
 | [RiiConnect24 CMOC-Server](https://github.com/RiiConnect24/CMOC-Server) | Revived server for the Wii Mii Contest Channel | 7 | 🗄️ | Python |
-| [WiiLink cam-server](https://github.com/WiiLink24/cam-server) | Revived backend for the Wii Digicam Print Channel | 7 | 🟢 | Python |
 | [RiiConnect24 WUS-Go](https://github.com/RiiConnect24/WUS-Go) | Revived WiiConnect24 server that checks whether a Wii friend owns a game | 5 | 🗄️ | Go |
 | [aftendoNNAS](https://github.com/Aftendo/aftendoNNAS) | Replacement for Nintendo's account.nintendo.net (NNAS) account server | 4 | 🟡 | JavaScript |
 | [NWC24-Manager](https://github.com/noahpistilli/NWC24-Manager) | Wii app to manage and analyze WiiConnect24 functions | 4 | 🟢 | C++ |
@@ -169,13 +169,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Kyber](https://github.com/ArmchairDevelopers/Kyber) | Launcher adding community-hosted servers to Star Wars Battlefront II (2017) | 376 | 🟢 | Dart |
+| [Kyber](https://github.com/ArmchairDevelopers/Kyber) | Launcher adding community-hosted servers to Star Wars Battlefront II (2017) | 377 | 🟢 | Dart |
 | [Downlord's FAF client](https://github.com/FAForever/downlords-faf-client) | Client for Forged Alliance Forever, the community online service for Supreme Commander | 218 | 🟢 | Java |
-| [Project Cartographer](https://github.com/pnill/cartographer) | Restores Halo 2 PC (Vista) online multiplayer after Games for Windows Live shutdown | 195 | 🟢 | C |
+| [Project Cartographer](https://github.com/pnill/cartographer) | Restores Halo 2 PC (Vista) online multiplayer after Games for Windows Live shutdown | 196 | 🟢 | C |
 | [ZoneInternetGamesServer](https://github.com/provigz/ZoneInternetGamesServer) | Server reviving the Windows 7 and XP Internet Games | 164 | 🟢 | C++ |
 | [stmsrvemu](https://github.com/real-pmein1/stmsrvemu) | Emulator for early Steam servers | 135 | 🟢 | Python |
 | [ggposrv](https://github.com/poliva/ggposrv) | Unofficial GGPO matchmaking server reimplementation | 128 | 🔴 | Python |
-| [nfsuserver](https://github.com/HarpyWar/nfsuserver) | Server emulator for Need for Speed: Underground online play | 125 | 🟢 | C++ |
+| [nfsuserver](https://github.com/HarpyWar/nfsuserver) | Server emulator for Need for Speed: Underground online play | 126 | 🟢 | C++ |
 | [ME3PSE](https://github.com/PrivateServerEmulator/ME3PSE) | Mass Effect 3 private server emulator | 91 | 🔴 | C# |
 | [UT4MasterServer](https://github.com/timiimit/UT4MasterServer) | Reimplementation of Epic's master server for Unreal Tournament pre-alpha | 78 | 🟢 | C# |
 | [FAF lobby server](https://github.com/FAForever/server) | Lobby server of Forged Alliance Forever, which replaced GPGnet for Supreme Commander: FA | 72 | 🟢 | Python |
@@ -190,8 +190,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GFWL-Server](https://github.com/zzVertigo/GFWL-Server) | Mini emulator of the Games for Windows Live Marketplace server | 9 | 🔴 | JavaScript |
 | [CnCNet ladder API](https://github.com/CnCNet/cncnet-ladder-api) | Ranked ladder backend for CnCNet Command & Conquer online play | 8 | 🟢 | PHP |
 | [OpenSpy Saints Row 2 patch](https://github.com/openspy/sr2_proxy) | Restores Saints Row 2 PC multiplayer via OpenSpy after GameSpy's shutdown | 7 | 🔴 | C++ |
+| [Pocket Ark](https://github.com/PocketRelay/PocketArk) | Private server for Mass Effect Andromeda multiplayer after EA servers shut down | 7 | 🟢 | Rust |
 | [kr4uzi gamespy-emulator](https://github.com/kr4uzi/gamespy-emulator) | Reverse-engineered GameSpy emulator for Battlefield 2 and similar games | 6 | 🟢 | C++ |
-| [Pocket Ark](https://github.com/PocketRelay/PocketArk) | Private server for Mass Effect Andromeda multiplayer after EA servers shut down | 6 | 🟢 | Rust |
 | [GameSpy Wireshark dissectors](https://github.com/openspy/wireshark-dissectors) | Wireshark dissector plugins for reverse-engineered GameSpy protocols | 5 | 🟡 | C |
 | [Pocket Relay client plugin](https://github.com/PocketRelay/PocketRelayClientPlugin) | ASI plugin that points Mass Effect 3 at Pocket Relay Blaze replacement servers | 4 | 🟢 | Rust |
 | [XLiveServices](https://github.com/davispuh/XLiveServices) | Library to talk to Xbox LIVE and Games for Windows LIVE services | 4 | 🔴 | Ruby |
