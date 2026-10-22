@@ -1,6 +1,6 @@
 # Unofficial Web/App API Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 904 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=unofficial-web-app-api-clients) · 908 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,8 +8,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Dating](#dating) (15)
 - [Finance & Banking](#finance--banking) (139)
 - [Google Services](#google-services) (54)
-- [Music & Audio Streaming](#music--audio-streaming) (101)
-- [Other APIs](#other-apis) (49)
+- [Music & Audio Streaming](#music--audio-streaming) (102)
+- [Other APIs](#other-apis) (51)
 - [Productivity](#productivity) (99)
 - [Real Estate](#real-estate) (8)
 - [Regional Apps (India, LatAm, Europe, Russia)](#regional-apps-india-latam-europe-russia) (55)
@@ -18,7 +18,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Translation](#translation) (25)
 - [Travel & Transport](#travel--transport) (98)
 - [Utilities & Energy Portals](#utilities--energy-portals) (24)
-- [Video & YouTube](#video--youtube) (71)
+- [Video & YouTube](#video--youtube) (72)
 
 ## Books, Reading & Learning
 
@@ -399,6 +399,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gopiano](https://github.com/unclesp1d3r/gopiano) | Go wrapper for Pandora's unofficial, reverse-engineered legacy JSON API (v5) | 8 | 🟢 | Go |
 | [SpotifyPrivateAPI](https://github.com/caiocinel/SpotifyPrivateAPI) | Simple Wrapper for Front-end Private Spotify API, allowing you to get play counts and monthly listeners | 7 | 🟡 | C# |
 | [spotiscrape-spotify-api](https://github.com/aditya76-git/spotiscrape-spotify-api) | Unofficial Spotify API for account info, search and playlist management | 7 | 🔴 | Python |
+| [Stopify](https://github.com/Anattana-Labs/Stopify) | Native Android Spotify client built on the Web Player protocols and Dealer WebSocket | 7 | 🟢 | Kotlin |
 | [YoutubeMusicApi](https://github.com/mitchhymel/YoutubeMusicApi) | Unofficial YouTube Music API for .NET Core | 7 | 🔴 | C# |
 | [libmxm](https://github.com/Eimaen/libmxm) | Node.js library for the Musixmatch private API | 6 | 🔴 | JavaScript |
 | [yootto](https://github.com/yanoshi/yootto) | Tiny unofficial YouTube Music uploader | 6 | 🔴 | Python |
@@ -455,6 +456,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node_akinator](https://github.com/realcoloride/node_akinator) | Unofficial Akinator API wrapper | 7 | 🟡 | TypeScript |
 | [rottentomatoes](https://github.com/chrismichaelps/rottentomatoes) | Unofficial library for Rotten Tomatoes movie and TV data | 6 | 🟡 | TypeScript |
 | [fedex-ship-manager-api](https://github.com/fulldecent/fedex-ship-manager-api) | Documentation for hidden FedEx Ship Manager® API | 5 | 🔴 | HTML |
+| [librus-synergia](https://github.com/MichalZaniewicz/librus-synergia) | Unofficial async Python client and API notes for the Librus Synergia school e-gradebook | 5 | 🟢 | Python |
+| [mi-health-exporter](https://github.com/LilZeeCN/mi-health-exporter) | Exports Xiaomi Mi Fitness health data to SQLite and CSV | 2 | 🟢 | Python |
 | [LegoSharp](https://github.com/rolledback/LegoSharp) | LegoSharp is an unofficial C# library for interacting with Lego's web APIs. | 1 | 🟡 | C# |
 | [node-msw](https://github.com/jzarca01/node-msw) | API wrapper for the Magic Seaweed (MSW) surf-forecast app | 1 | 🔴 | JavaScript |
 | [chmi-weather-radar-docs](https://gitlab.com/dpeukert/chmi-weather-radar-docs) | Reverse-engineered documentation of CHMI weather radar image providers |  | ⚪ |  |
@@ -933,6 +936,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | 35,330 | 🟢 | Java |
 | [invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube | 25,588 | 🟢 | Crystal |
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | 22,113 | 🟢 | Vue |
+| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Desktop app that downloads YouTube videos and playlists via YouTube's internal API | 16,507 | 🟢 | C# |
 | [pytube](https://github.com/pytube/pytube) | Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions. | 13,196 | 🟡 | Python |
 | [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | 11,861 | 🟢 | Python |
 | [Piped](https://github.com/TeamPiped/Piped) | An alternative privacy-friendly YouTube frontend which is efficient by design. | 10,287 | 🟢 | Vue |

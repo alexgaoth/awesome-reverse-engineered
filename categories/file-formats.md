@@ -1,6 +1,6 @@
 # File Formats
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 435 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=file-formats) · 440 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -11,11 +11,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [E-books](#e-books) (9)
 - [EDA & PCB](#eda--pcb) (13)
 - [Filesystems & Archives](#filesystems--archives) (48)
-- [Format Description Tools](#format-description-tools) (22)
+- [Format Description Tools](#format-description-tools) (24)
 - [Graphics & CAD](#graphics--cad) (52)
 - [Maps & GIS](#maps--gis) (19)
 - [Media Codecs & Containers](#media-codecs--containers) (10)
-- [Office & Documents](#office--documents) (73)
+- [Office & Documents](#office--documents) (76)
 - [Other](#other) (7)
 - [Windows & Forensic Artifacts](#windows--forensic-artifacts) (69)
 
@@ -37,7 +37,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ptformat](https://github.com/zamaudio/ptformat) | Parser for Avid Pro Tools session files, used by Ardour for import | 94 | 🟢 | C++ |
 | [serato-tags](https://github.com/Holzhaus/serato-tags) | Documentation and parsers for Serato DJ Pro GEOB metadata tags | 93 | 🔴 | Python |
 | [parse-gp5](https://github.com/juliangruber/parse-gp5) | JavaScript parser for the Guitar Pro 5 file format | 65 | 🔴 | JavaScript |
-| [BZRPlayer](https://github.com/bzr-player/bzr-player) | Audio player supporting many exotic multi-platform game and tracker music formats | 60 | 🟢 | C |
+| [BZRPlayer](https://github.com/aargirakis/BZRPlayer) | Audio player supporting many exotic multi-platform game and tracker music formats | 60 | 🟢 | C |
 | [TraktorMappingFileFormat](https://github.com/ivanz/TraktorMappingFileFormat) | Reverse engineered Traktor Pro .tsi controller mapping file format | 57 | 🔴 |  |
 | [GuitarPro-to-Midi](https://github.com/alexsteb/GuitarPro-to-Midi) | Converts Guitar Pro 3-7 files to MIDI, simulating bends and effects | 55 | 🟡 | C# |
 | [guitarpro (Rust)](https://github.com/slundi/guitarpro) | Rust library to parse and write Guitar Pro files | 51 | 🟢 | Rust |
@@ -260,6 +260,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fseq-file-format](https://github.com/Cryptkeeper/fseq-file-format) | Reverse-engineered documentation of the Falcon sequence (FSEQ) v2 file format | 24 | 🟡 |  |
 | [murmelbahn](https://github.com/lfrancke/murmelbahn) | Reverse-engineered Gravitrax marble run course file format | 8 | 🟢 | Rust |
 | [XBEpy](https://github.com/LoveMHz/XBEpy) | Library for viewing, extracting and validating data inside original Xbox XBE executables | 8 | 🔴 | Python |
+| [packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format) | Byte-exact codec for Cisco Packet Tracer .pkt/.pka lab files | 7 | 🟢 | Python |
+| [RKD Telemetry Extractor](https://github.com/sam-dumont/rkd-telemetry-extractor) | Decoder for the proprietary .rkd telemetry format of Race-Keeper video recorders | 6 | 🟢 | Go |
 | [shockwave-reversing](https://github.com/JrMasterModelBuilder/shockwave-reversing) | Notes and resources for reverse engineering Shockwave/Director files | 5 | 🔴 |  |
 | [remus-rlf-reader](https://github.com/isaacgerg/remus-rlf-reader) | Reverse-engineered RLF log format of REMUS underwater drones | 1 | 🟢 | Python |
 | [GarminSettingsFileParser](https://github.com/cyberang3l/GarminSettingsFileParser) | Reads and writes Garmin's undocumented GARMIN.SET device settings file | 0 | 🟡 | Python |
@@ -418,8 +420,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai) | Kaitai Struct specifications for the reMarkable binary .rm notebook format | 16 | 🔴 | Kaitai Struct |
 | [libmspub](https://github.com/LibreOffice/libmspub) | Parser for Microsoft Publisher documents | 14 | 🟢 | C++ |
 | [libfole](https://github.com/libyal/libfole) | Library for Object Linking and Embedding (OLE) data types | 13 | 🟢 | C |
+| [MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) | Clean-room Rust core for Microsoft Visio .vsdx files and ShapeSheet, with a CLI | 13 | 🟢 | Rust |
 | [wv](https://github.com/AbiWord/wv) | Library for importing Microsoft Word 2-2003 binary documents | 12 | 🔴 | C |
+| [ezpzfile-xdw](https://github.com/ezpzfile/ezpzfile-xdw) | Open-source reader and annotator for Fuji Xerox DocuWorks .xdw/.xbd files with a format spec | 11 | 🟢 | Rust |
 | [librm_lines](https://github.com/RedTTGMoss/librm_lines) | C++ library to read, write and render reMarkable v6 .rm lines files | 10 | 🟢 | C++ |
+| [zee-rp](https://github.com/LilZeeCN/zee-rp) | Reader and writer for native Axure RP 11 documents via a reverse-engineered binary-record codec | 10 | 🟢 | JavaScript |
 | [parser-for-goodnotes](https://github.com/Kaih1825/parser-for-goodnotes) | Parser for the closed GoodNotes document format, reverse-engineered with LLMs | 9 | 🟢 | HTML |
 | [libstaroffice](https://github.com/fosnola/libstaroffice) | Import filter for legacy binary StarOffice/StarWriter/StarCalc documents | 8 | 🟢 | C++ |
 | [OpenJTD rjtd](https://github.com/OpenJTD/rjtd) | Reverse-engineered Ichitaro JTD/JTT word processor format; Rust reader/renderer | 7 | 🟢 | Rust |

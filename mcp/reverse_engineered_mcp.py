@@ -19,7 +19,7 @@ TOOLS = [
     {
         "name": "search_reverse_engineered",
         "description": (
-            "Search 12,000+ open-source projects that exist because someone reverse engineered a closed app, "
+            "Search 16,000+ open-source projects that exist because someone reverse engineered a closed app, "
             "API, device, protocol, file format, game or AI product: unofficial API clients, local-control "
             "libraries, drivers, format parsers, protocol docs, game decompilations. Use it before you reverse "
             "engineer something, or when a task needs a product that has no official API or SDK. Search by "

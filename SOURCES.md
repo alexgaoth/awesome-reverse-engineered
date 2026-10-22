@@ -292,6 +292,64 @@
 - https://pypi.org/simple/
 - https://pypi.org/pypi/<name>/json
 - GitHub topic sweep by brand
+- https://decomp.dev/projects (retired; mined via web.archive.org snapshots 2025-06..2026-10)
+- https://github.com/heaven-hm/awesome-reverse-engineered-games
+- https://github.com/CharlotteCross1998/awesome-game-remakes
+- https://github.com/SubmitGame/awesome-decomp-games (data/games.json)
+- https://github.com/justxor/awesome-decomp-games-ru
+- https://github.com/StandonJoyner/awesome-rea
+- https://github.com/aigamedevs/awesome-decomp-games
+- https://github.com/bayshier/awesome-decomp-games-zh
+- https://github.com/wangxiaoxiang5599/recompiled-games-list
+- https://github.com/Kymie131/openportsgames
+- https://github.com/madpai/game-decomp-compendium
+- https://github.com/gbdev/awesome-gbdev (Game Disassemblies)
+- GitHub repo listings (GraphQL repositoryOwner, non-fork, top 100 by stars; full REST listing for 29 owners with >100 repos) of 1,259 owners: every owner of an existing Matching Decompilation / Static Recompilation entry, every owner accepted this round, plus orgs pret, zeldaret, n64decomp, sonicretro, Xeeynamo, mkst, HarbourMasters, doldecomp, Rainchus, AngheloAlf, pmret, decompals, PrimeDecomp, projectPiki, SMGCommunity, bfbbdecomp, mariopartyrd, open-ead, DavidSM64, Drahsid, ethteck, Mr-Wiseguy, LagoLunatic, SeekyCt, MonsterDruide1, camthesaxman, huderlem, EllipticEllipsis, StanHash, MokhaLeee, Eebit, DarkRTA, rjkiv, Clownacy, sm64-port, Gillou68310 and others
+- GitHub repository search API (queries listed in searches)
+- https://github.com/AIshihzong/awesome-reverse-engineer-anything (README.md, README.zh-CN.md, docs/)
+- https://github.com/songshikang0111/awesome-REA-cases (README.md, cases/, INDEX.en.md)
+- https://github.com/reacher-z/Awesome-REA (README.md, data/rea-resources.json, data/tool-resources.json, data/papers.json, data/source-index.json, docs/repositories/)
+- https://github.com/morluto/awesome-reverse-engineering
+- https://github.com/morluto/rea (README)
+- https://rea.tools/showcase/
+- https://github.com/SubmitGame/awesome-decomp-games (README.md, data/games.json)
+- https://github.com/1nfernet/awesome-ai-reverse
+- GitHub repository search (created >2026-09-15)
+- https://hn.algolia.com/api/v1/search_by_date (stories, last 6 weeks)
+- https://osgameclones.com
+- https://github.com/opengaming/osgameclones (games/*.yaml, originals/*.yaml)
+- https://en.wikipedia.org/wiki/List_of_game_engine_recreations
+- https://en.wikipedia.org/wiki/Game_engine_recreation
+- https://github.com/ForNeVeR/awesome-old-game-remakes
+- https://github.com/yibie/awesome-rea
+- https://github.com/HaozheH3/awesome-rea-games
+- https://github.com/topics/pc-port
+- https://github.com/topics/game-remake
+- https://github.com/topics/remake
+- https://github.com/topics/source-port
+- https://github.com/topics/mod-loader
+- https://github.com/topics/modloader
+- https://github.com/topics/script-extender
+- https://mmofolklorist.com/2022/07/the-complete-list-of-rogue-servers-for-dead-mmos-2022
+- https://hn.algolia.com/api/v1/search (queries: revival server, keeps alive, after the servers shut down, cloud shutdown, replacement server, servers shut down, private server, bricked, server emulator, brought back, resurrect, end of life cloud, local server, shut down its servers)
+- https://github.com/OpenShopChannel
+- https://github.com/openspy
+- https://github.com/Sylverant
+- https://github.com/pebble-dev
+- https://github.com/kercre123
+- https://github.com/usenocturne
+- https://github.com/ZuneDev
+- https://github.com/Crypto137
+- https://github.com/psforever
+- https://github.com/CnCNet
+- https://github.com/FAForever
+- https://github.com/LittleBigRefresh
+- https://github.com/LBPUnion
+- https://github.com/hashsploit
+- https://github.com/InvoxiPlayGames
+- https://9to5mac.com/2025/10/27/neato-cloud-shutdown-is-the-latest-example-of-a-failed-company-bricking-smart-products/
+- https://www.techspot.com/news/109830-bose-soundtouch-shutdown-leaves-connected-speakers-less-smart.html
+- https://www.channelnews.com.au/belkin-to-discontinue-wemo-smart-home-support-in-january-2026/
 
 ## Searches run
 
@@ -2753,3 +2811,644 @@
 - topic:uber stars:>10
 - topic:wechat stars:>10
 - topic:zoom stars:>10
+- topic:decompilation created:<2019-01-01
+- topic:decompilation created:2019-01-01..2020-12-31
+- topic:decompilation created:2021-01-01..2021-12-31
+- topic:decompilation created:2022-01-01..2022-12-31
+- topic:decompilation created:2023-01-01..2023-12-31
+- topic:decompilation created:2024-01-01..2024-06-30
+- topic:decompilation created:2024-07-01..2024-12-31
+- topic:decompilation created:2025-01-01..2025-06-30
+- topic:decompilation created:2025-07-01..2025-12-31
+- topic:decompilation created:2026-01-01..2026-12-31
+- topic:decomp
+- topic:decompiled
+- topic:decompile
+- topic:decomp-project
+- topic:matching-decomp
+- topic:matching
+- topic:disassembly created:<2020-01-01
+- topic:disassembly created:2020-01-01..2022-12-31
+- topic:disassembly created:2023-01-01..2026-12-31
+- topic:pret
+- topic:splat
+- topic:decomp-toolkit
+- topic:objdiff
+- topic:mwcc
+- topic:ido
+- topic:n64-decomp
+- topic:n64decomp
+- topic:gamecube-decomp
+- topic:psx-decomp
+- topic:ps2-decomp
+- topic:gba-decomp
+- topic:nds-decomp
+- topic:pokemon-decomp
+- topic:romhacking topic:disassembly
+- topic:reverse-engineering topic:n64
+- topic:reverse-engineering topic:nintendo-64
+- topic:reverse-engineering topic:gamecube
+- topic:reverse-engineering topic:wii
+- topic:reverse-engineering topic:gba
+- topic:reverse-engineering topic:nds
+- topic:reverse-engineering topic:ps2
+- topic:reverse-engineering topic:psx
+- topic:reverse-engineering topic:ps1
+- topic:reverse-engineering topic:playstation
+- topic:reverse-engineering topic:snes
+- topic:reverse-engineering topic:nes
+- topic:reverse-engineering topic:gameboy
+- topic:reverse-engineering topic:dreamcast
+- topic:reverse-engineering topic:sega-saturn
+- topic:reverse-engineering topic:megadrive
+- topic:reverse-engineering topic:genesis
+- topic:reverse-engineering topic:xbox
+- topic:reverse-engineering topic:3ds
+- topic:reverse-engineering topic:psp
+- topic:reverse-engineering topic:dos
+- topic:reverse-engineering topic:game
+- topic:reverse-engineering topic:games
+- topic:reverse-engineering topic:videogame
+- topic:reverse-engineering topic:arcade
+- topic:n64 topic:decompilation
+- topic:nintendo64 decomp
+- topic:gamecube decomp
+- topic:wii decomp
+- topic:ps2 decomp
+- topic:psx decomp
+- decomp in:name created:<2022-01-01
+- decomp in:name created:2022-01-01..2023-12-31
+- decomp in:name created:2024-01-01..2024-12-31
+- decomp in:name created:2025-01-01..2025-06-30
+- decomp in:name created:2025-07-01..2025-12-31
+- decomp in:name created:2026-01-01..2026-04-30
+- decomp in:name created:2026-05-01..2026-12-31
+- disasm in:name
+- disassembly in:name created:<2021-01-01
+- disassembly in:name created:2021-01-01..2026-12-31
+- decompilation in:name
+- decompilation in:description n64
+- decompilation in:description gamecube
+- decompilation in:description wii
+- decompilation in:description "nintendo ds"
+- decompilation in:description gba
+- decompilation in:description "game boy"
+- decompilation in:description 3ds
+- decompilation in:description ps1
+- decompilation in:description psx
+- decompilation in:description playstation
+- decompilation in:description ps2
+- decompilation in:description psp
+- decompilation in:description dreamcast
+- decompilation in:description saturn
+- decompilation in:description xbox
+- decompilation in:description arcade
+- decompilation in:description dos
+- decompilation in:description windows game
+- decompilation in:description switch
+- decompilation in:description snes
+- decompilation in:description nes
+- "matching decompilation"
+- "matching decomp"
+- "byte-matching"
+- "byte-exact" decompilation
+- "bit-perfect" decompilation
+- "decompilation project"
+- "decompilation of"
+- "disassembly of" game
+- "disassembly of" nes
+- "disassembly of" snes
+- "disassembly of" "game boy"
+- "disassembly of" genesis
+- "disassembly of" "mega drive"
+- "disassembly of" "master system"
+- "disassembly of" amiga
+- "disassembly of" c64
+- "disassembly of" "zx spectrum"
+- "disassembly of" msx
+- "disassembly of" atari
+- "disassembly of" arcade
+- "disassembly of" pc-engine
+- "source reconstruction"
+- "reconstructed source"
+- "reverse engineered source"
+- skoolkit disassembly
+- rgbds disassembly
+- pret-style
+- "decomp of"
+- 
+- decomp in:name language:C created:<2021-01-01
+- decomp in:name language:C created:2021-01-01..2023-06-30
+- decomp in:name language:C created:2023-07-01..2024-12-31
+- decomp in:name language:C created:2025-01-01..2025-12-31
+- decomp in:name language:C created:2026-01-01..2026-12-31
+- decomp in:name language:C++ created:<2021-01-01
+- decomp in:name language:C++ created:2021-01-01..2023-06-30
+- decomp in:name language:C++ created:2023-07-01..2024-12-31
+- decomp in:name language:C++ created:2025-01-01..2025-12-31
+- decomp in:name language:C++ created:2026-01-01..2026-12-31
+- decomp in:name language:Assembly created:<2021-01-01
+- decomp in:name language:Assembly created:2021-01-01..2023-06-30
+- decomp in:name language:Assembly created:2023-07-01..2024-12-31
+- decomp in:name language:Assembly created:2025-01-01..2025-12-31
+- decomp in:name language:Assembly created:2026-01-01..2026-12-31
+- decomp in:name language:Python created:<2021-01-01
+- decomp in:name language:Python created:2021-01-01..2023-06-30
+- decomp in:name language:Python created:2023-07-01..2024-12-31
+- decomp in:name language:Python created:2025-01-01..2025-12-31
+- decomp in:name language:Python created:2026-01-01..2026-12-31
+- decomp in:name language:Rust created:<2021-01-01
+- decomp in:name language:Rust created:2021-01-01..2023-06-30
+- decomp in:name language:Rust created:2023-07-01..2024-12-31
+- decomp in:name language:Rust created:2025-01-01..2025-12-31
+- decomp in:name language:Rust created:2026-01-01..2026-12-31
+- decomp in:name language:Makefile created:<2021-01-01
+- decomp in:name language:Makefile created:2021-01-01..2023-06-30
+- decomp in:name language:Makefile created:2023-07-01..2024-12-31
+- decomp in:name language:Makefile created:2025-01-01..2025-12-31
+- decomp in:name language:Makefile created:2026-01-01..2026-12-31
+- decomp in:name language:Shell created:<2021-01-01
+- decomp in:name language:Shell created:2021-01-01..2023-06-30
+- decomp in:name language:Shell created:2023-07-01..2024-12-31
+- decomp in:name language:Shell created:2025-01-01..2025-12-31
+- decomp in:name language:Shell created:2026-01-01..2026-12-31
+- disasm in:name language:Assembly
+- disassembly in:name,description language:Assembly created:<2022-01-01
+- disassembly in:name,description language:Assembly created:>=2022-01-01
+- disasm in:name language:C
+- disassembly in:name,description language:C created:<2022-01-01
+- disassembly in:name,description language:C created:>=2022-01-01
+- decompilation in:description language:C created:<2024-01-01
+- decompilation in:description language:C created:>=2024-01-01
+- decompilation in:description language:C++ created:<2025-01-01
+- decompilation in:description language:C++ created:>=2025-01-01
+- decompilation in:description language:Assembly
+- decompilation in:description language:Python game
+- decompilation in:readme "decomp.dev"
+- "objdiff" in:readme language:C
+- "objdiff" in:readme language:C++
+- "decomp-toolkit" in:readme
+- "splat" "matching" in:readme language:C
+- "reccmp" in:readme
+- "progress.decomp.dev" in:readme
+- "decomp.me" in:readme language:C created:<2025-01-01
+- "decomp.me" in:readme language:C created:>=2025-01-01
+- "decomp.me" in:readme language:C++
+- "decomp.me" in:readme language:Assembly
+- "This repository does not contain any game assets"
+- "does not contain any game assets"
+- "You must own a copy of the game" decompilation
+- "baserom" in:readme language:C
+- "baserom" in:readme language:Assembly
+- "rgbds" disassembly in:readme
+- "sha1sum" "matching" in:readme decompilation
+- gh search repos "reverse engineered" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos "reverse-engineered" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reverse engineering --created ">2026-09-15" --sort stars --limit 300
+- gh search repos clean-room --created ">2026-09-15" --sort stars --limit 300
+- gh search repos "clean room" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos "built with REA" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos rea-agents --created ">2026-09-15" --sort stars --limit 300
+- gh search repos REA "reverse engineer anything" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos decompilation --created ">2026-09-15" --sort stars --limit 300
+- gh search repos decomp --created ">2026-09-15" --sort stars --limit 300
+- gh search repos recompiled --created ">2026-09-15" --sort stars --limit 300
+- gh search repos recomp --created ">2026-09-15" --sort stars --limit 300
+- gh search repos static recompilation --created ">2026-09-15" --sort stars --limit 300
+- gh search repos "native port" --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reimplementation --created ">2026-09-15" --sort stars --limit 300
+- gh search repos private server --created ">2026-09-15" --sort stars --limit 300
+- gh search repos XenonRecomp --created ">2026-09-15" --sort stars --limit 300
+- gh search repos rexglue --created ">2026-09-15" --sort stars --limit 300
+- gh search repos psxrecomp --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reverse engineer --created ">2026-09-15" --sort stars --limit 300
+- gh search repos revival server --created ">2026-09-15" --sort stars --limit 300
+- gh search repos unofficial client --created ">2026-09-15" --sort stars --limit 300
+- gh search repos unofficial api --created ">2026-09-15" --sort stars --limit 300
+- gh search repos protocol reverse --created ">2026-09-15" --sort stars --limit 300
+- gh search repos firmware reverse --created ">2026-09-15" --sort stars --limit 300
+- gh search repos ghidra --created ">2026-09-15" --sort stars --limit 300
+- gh search repos matching decompilation --created ">2026-09-15" --sort stars --limit 300
+- gh search repos N64Recomp --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reverse engineered protocol --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reimplemented --created ">2026-09-15" --sort stars --limit 300
+- gh search repos open source reimplementation --created ">2026-09-15" --sort stars --limit 300
+- gh search repos replacement firmware --created ">2026-09-15" --sort stars --limit 300
+- gh search repos cloud replacement --created ">2026-09-15" --sort stars --limit 300
+- gh search repos local api --created ">2026-09-15" --sort stars --limit 300
+- gh search repos byte-matching --created ">2026-09-15" --sort stars --limit 300
+- gh search repos decompiled --created ">2026-09-15" --sort stars --limit 300
+- gh search repos source reconstruction --created ">2026-09-15" --sort stars --limit 300
+- gh search repos emulator server --created ">2026-09-15" --sort stars --limit 300
+- gh search repos reverse engineering game --created ">2026-09-15" --sort stars --limit 300
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse engineered&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse engineering&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=reverse engineer&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=decompilation&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=decomp&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=recompilation&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=recompiled&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=clean-room&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=clean room&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=REA&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=reimplementation&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=reimplemented&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=private server&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=decompiled&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=native port&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=rebuilt&tags=story&numericFilters=created_at_i>(now-42d)
+- https://hn.algolia.com/api/v1/search_by_date?query=protocol&tags=story&numericFilters=created_at_i>(now-42d)
+- gh api graphql batch verification of all candidates (nameWithOwner, isFork, isEmpty, stars, description, diskUsage, primaryLanguage)
+- gh api repos/<repo>/contents for repos without a detected language (README-only check)
+- "based on the decompilation" stars:>=5
+- "decomp" port pc stars:>=10
+- "native PC port" stars:>=5
+- "unofficial PC port" stars:>=5
+- N64Recomp in:readme stars:>=5
+- PS2Recomp in:readme stars:>=3
+- XenonRecomp in:readme stars:>=5
+- gb-recompiled
+- libultraship stars:>=3
+- nesrecomp
+- ps3recomp
+- psxrecomp in:readme
+- recomp in:name stars:>=5
+- rexglue in:readme stars:>=5
+- snesrecomp
+- static recompilation in:name,description
+- topic:game-modding stars:>=20
+- topic:n64recomp
+- topic:native-port
+- topic:pc-port
+- topic:ps2recomp
+- topic:recomp
+- topic:recompilation
+- topic:reimplementation
+- topic:rexglue
+- topic:source-port
+- topic:static-recompilation
+- topic:xenonrecomp
+- "mod loader" stars:>=20
+- "script extender" stars:>=10
+- modloader stars:>=30
+- topic:dll-injection topic:modding
+- topic:game-tools stars:>=20
+- topic:mod-loader
+- topic:modding-tools stars:>=20
+- topic:modloader
+- topic:reverse-engineering topic:game stars:>=20
+- topic:script-extender
+- "engine reimplementation" stars:>=5
+- "open source reimplementation" stars:>=10
+- "open-source reimplementation" stars:>=10
+- "original game data" stars:>=10
+- "original game files" stars:>=10
+- "reimplementation of" game engine stars:>=10
+- "requires the original game" stars:>=10
+- topic:engine-reimplementation
+- topic:file-format topic:game
+- topic:game-reimplementation
+- topic:game-remake
+- topic:remake
+- topic:unpacker stars:>=20
+- gbarecomp
+- topic:unofficial-port
+- gh search repos "awesome game remakes"
+- gh search repos "game remakes" in:name
+- gh search repos "recomp list"
+- gh search repos awesome recompilation
+- gh search repos "awesome decomp"
+- GitHub user repo listings: HarbourMasters, N64Recomp, Zelda64Recomp, hedge-dev, sonicnext-dev, sp00nznet, mstan, TechnicallyComputers, alexbeavs-ps1-ports, OverkillLabs3, FluffyQuack, Heromachine, Revan67, chrissotraidis, izzy2lost, rumbleminze, jnmartin84, ogdanimal, wootbeer, jotd666, omegakatana92, GTTeancum, saulob, HayatoG, bc160201983, Mr-Wiseguy, RecompRando, Gabrick75, 0herculabs, SulphurS16, SSunnKing, kittycache9, TekRantGaming, Spark198rus, kylofon, fgsfdsfgs, EXL, Rinnegatamante, Team-Beef-Studios, snesrev, cyxx, lethal-guitar
+- org:PretendoNetwork
+- org:WiiLink24
+- org:RiiConnect24
+- org:KaeruTeam
+- org:openspy
+- org:Sylverant
+- org:solero
+- org:Aftendo
+- org:OpenShopChannel
+- dwc server emulator
+- wiimmfi
+- altwfc
+- nintendo wi-fi connection revival
+- nintendo network replacement server
+- 3ds revival server
+- nintendo ds online revival
+- gamespy replacement
+- master server gamespy
+- pvpgn
+- battle.net emulator classic
+- revival server
+- after the servers shut down
+- official servers shut down private server
+- server emulator mmo shut down
+- defunct game server emulator
+- discontinued game private server
+- MMO emulator
+- star wars galaxies emulator
+- swgemu
+- city of heroes server
+- warhammer online emulator
+- matrix online server
+- tabula rasa server emulator
+- marvel heroes server
+- club penguin private server
+- pirates online server
+- phantasy star online server
+- monster hunter frontier server
+- darkspore server
+- the sims online server
+- asheron's call emulator
+- planetside emulator
+- lego universe server
+- wildstar server emulator
+- earth and beyond emulator
+- auto assault server
+- hellgate london server
+- dragon ball online server
+- battlefield heroes server
+- need for speed world server
+- soapbox race world
+- fesl emulator
+- blaze server emulator ea
+- demonware emulator
+- ubisoft server emulator
+- xbox live revival
+- xbox 360 online revival
+- insignia xbox
+- rpcn
+- psn revival
+- playstation 3 online server emulator
+- psp online server
+- dreamcast server
+- dreampi
+- pokemon global link server
+- pokemon dream world
+- mario kart ds server
+- miiverse clone
+- flipnote server
+- spotpass server
+- streetpass internet
+- netpass 3ds
+- wii shop channel revival
+- dsi shop revival
+- wiiconnect24 server
+- nintendo zone revival
+- eshop revival 3ds
+- game server emulator mobile game ended service
+- gacha private server
+- dragalia lost server
+- love live school idol festival server
+- sif private server
+- end of service game server
+- sonic runners server
+- custom server discontinued mobile game
+- private server for the discontinued
+- server emulator for the discontinued
+- replacement server for the discontinued
+- topic:revival
+- topic:game-preservation
+- topic:server-emulator
+- topic:private-server
+- topic:game-revival
+- topic:preservation server
+- topic:server-emulation
+- topic:revival-server
+- topic:emulator-server
+- topic:defunct
+- org:pebble-dev
+- org:Jibo-Revival-Group
+- org:webOSArchive
+- org:ZuneDev
+- org:usenocturne
+- org:kercre123
+- car thing
+- superbird spotify
+- logitech harmony
+- insteon hub replacement
+- insteon local
+- wink hub
+- revolv
+- nest thermostat custom firmware
+- anki cozmo
+- anki vector
+- anki overdrive
+- aibo
+- stadia controller
+- amazon dash button
+- karotz
+- nabaztag
+- ouya server
+- neato botvac local
+- roomba local
+- glowforge
+- fitbit tracker sync
+- pebble rebble
+- squeezebox
+- sonos s1
+- wemo local
+- petnet
+- eye-fi
+- kuri robot
+- sense sleep
+- jawbone up
+- microsoft band
+- palm webos
+- blackberry 10
+- windows phone store
+- kinect
+- slingbox
+- org:soapboxrace
+- org:CnCNet
+- org:pvpgn
+- org:GameProgressive
+- org:DarkflameUniverse
+- org:NexusForever
+- org:ACEmulator
+- org:Crypto137
+- org:psforever
+- org:LBPUnion
+- org:LittleBigRefresh
+- org:Horizon-Private-Server
+- org:hashsploit
+- org:PocketRelay
+- org:OpenFusionProject
+- org:fuzziqersoftware
+- org:FAForever
+- org:333networks
+- org:Resurrection-Capsule
+- org:DragaliaLostRevival
+- org:RunnersRevival
+- org:open-toontown
+- org:InvoxiPlayGames
+- cloud shutdown local server
+- after cloud shutdown
+- cloud service discontinued local
+- bricked by manufacturer
+- replacement cloud server device
+- nest gen 1
+- nest thermostat firmware
+- bose soundtouch
+- neato
+- insteon mqtt
+- smartthings classic
+- iris lowes hub
+- hue bridge v1
+- revive device server
+- xband
+- escargot msn
+- icq server emulator
+- aim server oscar
+- windows phone 7 marketplace
+- windows phone revival
+- legacy ios app store
+- youtube legacy ios
+- ipod classic revival
+- old twitter client api
+- "cloud shutdown"
+- "servers shut down" in:description
+- "shut down" replacement server in:description
+- defunct server emulator in:description
+- discontinued replacement server in:description
+- "keep alive" discontinued in:description
+- revive discontinued in:description
+- "no longer supported" local server replacement in:description
+- "end of service" server in:description
+- "after the shutdown" in:description
+- "official servers" revive in:description
+- "shutdown of" server emulator in:description
+- custom server defunct game in:description
+- revival defunct in:description
+- perpetuum server
+- eoserv
+- endless online server
+- clone wars adventures
+- dragons dogma online server
+- wizardry online server
+- shin megami tensei imagine server
+- infantry online server
+- earth eternal server
+- battlestar galactica online emulator
+- spellborn
+- stargate worlds
+- super hero squad online
+- tabula rasa emulator
+- mxoemu
+- matrix online emulator
+- hellgate london emulator
+- rusty hearts server
+- asherons call 2 emulator
+- auto assault emulator
+- vanguard emulator
+- neocron server
+- jumpgate server
+- global agenda server
+- phantasy star universe server
+- dragon's dogma online
+- monster hunter frontier
+- fer.al server
+- box critters server
+- club penguin island server
+- escargot messenger
+- windows live messenger server
+- dsi shop
+- 3ds eshop server
+- pokemon bank server
+- tvii
+- swapnote
+- netpass
+- streetpass relay
+- nintendo 3ds online server
+- wii online server
+- ds online server
+- pokemon wifi
+- mario kart wii server
+- smash brawl online
+- animal crossing city folk server
+- nintendo ds wifi
+- game boy mobile adapter
+- randnet
+- satellaview
+- sega channel
+- nintendo power famicom
+- ps vita online server
+- psn server emulator
+- playstation home server
+- ps2 online server
+- xbox live server emulator
+- xbox 360 server emulator
+- magia record server
+- magireco private server
+- destiny child private server
+- sinoalice server
+- kingdom hearts union x server
+- final fantasy brave exvius server
+- world flipper server
+- dr mario world server
+- pokemon duel server
+- princess connect server
+- kirara fantasia server
+- tokyo 7th sisters server
+- idolmaster server emulator
+- bandori private server
+- gacha game end of service
+- mobile game revival
+- flash game private server
+- facebook game server emulator
+- zynga game server
+- farmville server
+- neopets
+- poptropica
+- moshi monsters server
+- wizard101 emulator
+- pixie hollow server
+- virtual magic kingdom
+- toontown
+- mabinogi
+- warhawk server
+- killzone 2 server
+- gran turismo 5 server
+- burnout paradise server
+- midnight club server
+- titanfall 1 server
+- r1delta
+- battleborn server
+- evolve stage 2 server
+- rumbleverse
+- the crew server emulator
+- anthem private server
+- knockout city server
+- hyper scape server
+- babylon's fall server
+- xdefiant server
+- battlefield bad company 2 server emulator
+- battlefield 4 server emulator
+- blaze emulator
+- mass effect andromeda server
+- dead space 2 multiplayer
+- halo 3 server
+- lost planet server
+- chromehounds
+- phantasy star online 2 private
+- metal gear online server
+- resident evil outbreak server
+- monster hunter 4 server
+- monster hunter freedom unite online
+- web: list of fan-revived online game servers github private server shut down games wiki
+- web: Bose SoundTouch cloud shutdown 2026 date; Neato robot cloud shutdown date; Belkin Wemo cloud end of support date
+- web: "Show HN" server shut down revived open source replacement server github device cloud
+- hn: revival server
+- hn: keeps alive
+- hn: after the servers shut down
+- hn: cloud shutdown
+- hn: replacement server
+- hn: servers shut down
+- hn: private server
+- hn: bricked
+- hn: server emulator
+- hn: brought back
+- hn: resurrect
+- hn: end of life cloud
+- hn: local server
+- hn: shut down its servers

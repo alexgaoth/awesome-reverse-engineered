@@ -1,6 +1,6 @@
 {
   "name": "reverse-engineered",
-  "description": "Search 12,000+ open-source reverse-engineered tools (unofficial API clients, local-control libraries, drivers, format parsers, decompilations) and fetch the right one for a task.",
+  "description": "Search 16,000+ open-source reverse-engineered tools (unofficial API clients, local-control libraries, drivers, format parsers, decompilations) and fetch the right one for a task.",
   "version": "0.1.0",
   "author": {
     "name": "Alex Gao",

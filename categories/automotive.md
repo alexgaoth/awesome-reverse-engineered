@@ -1,16 +1,16 @@
 # Automotive
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 520 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=automotive) · 525 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bikes, Trainers & Bike Computers](#bikes-trainers--bike-computers) (41)
-- [CAN Bus & ECU](#can-bus--ecu) (152)
-- [Car APIs & Telematics](#car-apis--telematics) (174)
+- [CAN Bus & ECU](#can-bus--ecu) (154)
+- [Car APIs & Telematics](#car-apis--telematics) (175)
 - [EV Batteries & BMS](#ev-batteries--bms) (25)
 - [Head Units & CarPlay/Android Auto](#head-units--carplayandroid-auto) (56)
 - [Motorcycles](#motorcycles) (10)
-- [Scooters & E-bikes](#scooters--e-bikes) (62)
+- [Scooters & E-bikes](#scooters--e-bikes) (64)
 
 ## Bikes, Trainers & Bike Computers
 
@@ -213,6 +213,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esp32_rmt_van_tx](https://github.com/morcibacsi/esp32_rmt_van_tx) | ESP32 RMT writer for the PSA VAN bus | 12 | 🔴 | C |
 | [simulator](https://github.com/OpenLeo/simulator) | Debug and simulation tool for PSA AEE2004 CAN networks | 11 | 🔴 | Python |
 | [byd-seat-memory](https://github.com/Maheidem/byd-seat-memory) | Aftermarket seat memory for BYD Dolphin Plus, reverse-engineered from the vehicle's Electro app | 8 | 🟡 | Java |
+| [gs860-5hp19](https://github.com/therudywolf/gs860-5hp19) | Reverse engineering of the Bosch GS8.60 / ZF 5HP19 transmission controller: XDF and patch tool | 6 | 🟢 | Python |
+| [VW-MEB-DCDC-Hacking](https://github.com/damienmaguire/VW-MEB-DCDC-Hacking) | Reverse engineering of the VW MEB DC-DC converter (Bosch Gen4H13) for EV conversions | 5 | 🟢 | Python |
 | [LowBatteryReverse](https://codeberg.org/KumaTec/LowBatteryReverse) | Reverse engineering of a low-battery CAN bus sensor |  | ⚪ |  |
 
 ## Car APIs & Telematics
@@ -390,6 +392,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bluelinky-docker](https://github.com/Hacksore/bluelinky-docker) | Docker wrapper for bluelinky, the unofficial Hyundai Blue Link API | 7 | 🔴 | JavaScript |
 | [ioBroker.nissan](https://github.com/TA2k/ioBroker.nissan) | ioBroker adapter for Nissan Connect | 7 | 🟢 | JavaScript |
 | [iRemote-PHP](https://github.com/thickey256/iRemote-PHP) | Unofficial PHP interface for BMW's iRemote private APIs | 7 | 🔴 | PHP |
+| [MHI2 Firmware Toolkit](https://github.com/harman-f/MHI2-MHI2Q-MH2P-Firmware-Toolkit) | Extraction and analysis toolkit for VW Group MHI2/MHI2Q/MH2P infotainment firmware | 6 | 🟢 | Python |
 | [polestar.js](https://github.com/andysmithfal/polestar.js) | Node.js client for the Polestar API, reverse engineered from the web app | 6 | 🟢 | JavaScript |
 | [voc](https://github.com/matthiasbergneels/voc) | Exploration of the Volvo On Call API | 5 | 🔴 |  |
 | [xpeng-mac-bridge](https://github.com/stevelea/xpeng-mac-bridge) | Publish Xpeng car live state to MQTT by reading the official Mac app | 5 | 🟢 | Python |
@@ -550,6 +553,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [vanmoof-bms](https://github.com/Knight1/vanmoof-bms) | Reverse-engineered VanMoof S3 DynaPack battery ModBus registers | 17 | 🟢 | Go |
 | [VanmoofX3RE](https://github.com/ciborg971/VanmoofX3RE) | Reverse engineering of the VanMoof X3 e-bike | 17 | 🟡 | HTML |
 | [vanMoof (PowerShell)](https://github.com/stefanstranger/vanMoof) | PowerShell code to download your VanMoof data | 14 | 🔴 | PowerShell |
+| [wazetripper](https://github.com/jnsdias/wazetripper) | Drives a Royal Enfield Tripper navigation pod from Waze over BLE | 14 | 🟢 | Java |
 | [ha-specialized-turbo](https://github.com/JamieMagee/ha-specialized-turbo) | Home Assistant integration for Specialized Turbo e-bikes via BLE | 12 | 🗄️ | Python |
 | [M365Downgrader](https://github.com/jaime-martin/M365Downgrader) | Proxy that injects custom firmware into the Xiaomi M365 scooter update flow | 12 | 🔴 | Java |
 | [vanmoof-s6-ble-protocol](https://github.com/Nefilim78/vanmoof-s6-ble-protocol) | Reverse engineering of the VanMoof S6 MQTT-over-BLE protocol | 12 | 🟢 |  |
@@ -564,5 +568,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ebike-dl](https://github.com/eMerzh/ebike-dl) | Bosch eBike Connect portal downloader and KML converter | 5 | 🟡 | Python |
 | [esphome-fiido-bms](https://github.com/dzikus/esphome-fiido-bms) | ESPHome component for Fiido e-bikes: battery telemetry and control of power, lights and gears | 5 | 🟢 | C++ |
 | [shimano-steps-ep8-canbus](https://github.com/CapnDeCode/shimano-steps-ep8-canbus-messages-analysis-data) | CAN captures and reverse-engineering of Shimano STEPS EP8 | 4 | 🟢 |  |
+| [ScooterLink](https://github.com/gdorgian/ScooterLink) | iOS app that talks to the Honda PCX 2025 TFT display, replacing Honda RoadSync media control | 2 | 🟢 | Swift |
 | [esphome-xbot](https://github.com/dzikus/esphome-xbot) | ESPHome component for e-scooters built around XBOT/LebiTEC controllers | 1 | 🟢 | C++ |
 | [joyor_s5](https://gitlab.com/hobby1064934/joyor_s5) | Smart speed limiter for the Joyor S5 e-scooter with protocol reverse engineering notes |  | ⚪ |  |

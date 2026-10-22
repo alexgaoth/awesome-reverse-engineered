@@ -1,15 +1,15 @@
 # Apple Ecosystem
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 340 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=apple-ecosystem) · 344 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AirPlay & AirDrop](#airplay--airdrop) (44)
 - [Apple Data Formats & Forensics](#apple-data-formats--forensics) (51)
-- [Apple Silicon & Hardware](#apple-silicon--hardware) (14)
+- [Apple Silicon & Hardware](#apple-silicon--hardware) (15)
 - [Find My & AirTag](#find-my--airtag) (9)
 - [HomeKit](#homekit) (24)
-- [Other Apple](#other-apple) (130)
+- [Other Apple](#other-apple) (133)
 - [iCloud & Apple Services](#icloud--apple-services) (22)
 - [iOS Device Tooling (libimobiledevice etc.)](#ios-device-tooling-libimobiledevice-etc) (46)
 
@@ -136,6 +136,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [attesor](https://github.com/Inokinoki/attesor) | AI-assisted reverse engineering of Rosetta 2 for Linux VMs | 87 | 🟢 | C |
 | [apple-gpu-dvfs](https://github.com/maderix/apple-gpu-dvfs) | Apple Silicon GPU DVFS reverse engineering | 65 | 🟢 | Objective-C |
 | [aurora-silicon linux](https://github.com/aurora-silicon/linux) | AI-assisted reverse engineering of Apple Mac hardware for Linux kernel support | 32 | 🟢 | C |
+| [ane-fieldfare](https://github.com/zw5/ane-fieldfare) | Runs Gemma 4 26B on Apple's Neural Engine via reverse-engineered ANE interfaces | 10 | 🟢 | Swift |
 
 ## Find My & AirTag
 
@@ -231,6 +232,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SE30](https://github.com/TheRealBolle/SE30) | Macintosh SE/30 logic board recreation | 259 | 🟢 |  |
 | [ipod-gadget](https://github.com/oandrew/ipod-gadget) | Linux USB gadget emulating an iPod for car audio playback | 257 | 🟡 | C |
 | [Apple-Runtime-Headers](https://github.com/LeoNatan/Apple-Runtime-Headers) | Objective-C runtime headers for Apple's iOS, macOS, tvOS and watchOS frameworks | 242 | 🗄️ |  |
+| [open-appleremote](https://github.com/a-funk/open-appleremote) | Linux driver for the first-generation Siri Remote, from its reconstructed Bluetooth reports | 240 | 🟢 | Python |
 | [omarchy-pods](https://github.com/thisisgm/omarchy-pods) | AirPods battery and listening mode in the Omarchy Linux bar via BLE | 237 | 🟢 | C++ |
 | [touch-baer](https://github.com/a2/touch-baer) | Adds Touch Bar buttons to the Control Strip using private macOS API | 237 | 🔴 | Objective-C |
 | [CGSInternal](https://github.com/NUIKit/CGSInternal) | Collection of private CoreGraphics and SkyLight routines | 235 | 🔴 | C++ |
@@ -308,7 +310,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-aapl-integrity](https://github.com/hack-different/go-aapl-integrity) | Apple Integrity Formats (img4, chunklist, trustcache, etc) | 12 | 🔴 | Go |
 | [python-libimobiledevice](https://github.com/hack-different/python-libimobiledevice) | Python bindings for libimobiledevice | 11 | 🔴 | Python |
 | [apple_utdm](https://github.com/rickmark/apple_utdm) | Linux Kernel Mode Driver for Apple USB Target Disk Mode | 9 | 🔴 | C |
+| [htoolv3](https://github.com/h3adshotzz/htoolv3) | Static analysis tool for iOS and macOS firmware files | 8 | 🔴 | C |
 | [pstream](https://github.com/mfrister/pstream) | Server implementation of Apple's reverse-engineered PhotoStream protocol | 8 | 🗄️ | Python |
+| [newton-re](https://github.com/dparnell/newton-re) | Reverse engineering the Apple Newton 2x00 ROM | 5 | 🟢 | C++ |
 | [macvdmtool](https://github.com/rickmark/macvdmtool) | Apple Silicon to Apple Silicon VDM utility | 4 | 🟡 | C++ |
 | [macos-summarize-internals](https://github.com/fenxer/macos-summarize-internals) | Reverse-engineered macOS Summary Service / SearchKit SKSummary | 2 | 🟢 | Python |
 | [Lowlight](https://github.com/Isaac-Harper/lowlight) | Dims MacBook keyboard backlight below the macOS minimum using private CoreBrightness APIs and IORegistry | 1 | 🟢 | Swift |

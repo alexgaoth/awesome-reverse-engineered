@@ -1,17 +1,17 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 324 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 328 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Bilibili](#bilibili) (52)
 - [Cloud Drives](#cloud-drives) (33)
-- [Douyin & Kuaishou](#douyin--kuaishou) (26)
+- [Douyin & Kuaishou](#douyin--kuaishou) (27)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (27)
 - [Japan & Korea](#japan--korea) (47)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (28)
 - [Shopping & Services](#shopping--services) (21)
-- [WeChat & QQ](#wechat--qq) (64)
+- [WeChat & QQ](#wechat--qq) (67)
 - [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (26)
 
 ## Bilibili
@@ -138,6 +138,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 169 | 🟢 | JavaScript |
 | [douyin_sign](https://github.com/ylcangel/douyin_sign) | Implementations of Douyin web a_bogus, X-Bogus and msToken algorithms | 79 | 🟢 | JavaScript |
 | [KuaiShou-Spider](https://github.com/cv-cat/KuaiShou-Spider) | Kuaishou reverse engineering: full API and live-room listener | 72 | 🟢 | Python |
+| [ReaCut](https://github.com/Xiangyu-CAS/rea-capcut) | Independent video editor built from REA-assisted study of Jianying/CapCut behavior | 67 | 🟢 | TypeScript |
 | [acfunsdk](https://github.com/dolacmeo/acfunsdk) | Unofficial Python SDK for the AcFun video site | 14 | 🟢 | Python |
 
 ## Games (miHoYo etc.)
@@ -301,6 +302,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) | Plugin loader for the QQNT Electron client | 7,057 | 🗄️ | JavaScript |
 | [weweChat](https://github.com/trazyn/weweChat) | Unofficial WeChat desktop client built on the web WeChat protocol | 5,700 | 🗄️ | JavaScript |
 | [wxBot](https://github.com/liuwons/wxBot) | Python WeChat personal-account bot framework on the web protocol (deprecated) | 5,315 | 🔴 | Python |
+| [wxapkg](https://github.com/wux1an/wxapkg) | Desktop GUI that unpacks WeChat mini-program .wxapkg packages | 4,299 | 🟢 | Vue |
 | [echotrace](https://github.com/ycccccccy/echotrace) | Local WeChat chat history export and analysis tool | 3,843 | 🟢 |  |
 | [LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,681 | 🟢 | TypeScript |
 | [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | Third-party QQ desktop client built on reverse-engineered protocol libraries | 3,384 | 🟢 | TypeScript |
@@ -315,6 +317,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MiraiGo](https://github.com/Mrs4s/MiraiGo) | Go port of the Mirai QQ protocol implementation | 1,215 | 🟡 | Go |
 | [FishChat](https://github.com/yulingtianxia/FishChat) | Hooks WeChat on non-jailbroken iOS devices | 1,101 | 🗄️ |  |
 | [wxbot](https://github.com/jwping/wxbot) | PC WeChat hook module and bot | 1,098 | 🟡 | Go |
+| [qqpet](https://github.com/AnkioTomas/qqpet) | Single-player recreation of the discontinued QQ Pet (QQ宠物) for desktop and iOS | 959 | 🟢 | TypeScript |
 | [wxbot](https://github.com/fritx/wxbot) | Personal-account WeChat bot using the web WeChat interface (outdated) | 795 | 🔴 | JavaScript |
 | [qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) | Reverse-engineered TypeScript client for QClaw's WeChat Access API | 794 | 🗄️ | TypeScript |
 | [puppet-padlocal](https://github.com/wechaty/puppet-padlocal) | Wechaty puppet using the WeChat iPad protocol | 769 | 🔴 | TypeScript |
@@ -345,6 +348,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [puppet-wechat4u](https://github.com/wechaty/puppet-wechat4u) | Wechaty puppet based on the wechat4u web protocol | 129 | 🟡 | TypeScript |
 | [seeWxapkg](https://github.com/Leslie-SSS/seeWxapkg) | Web tool to decompile WeChat mini programs | 121 | 🟢 | Go |
 | [WeChat](https://github.com/smokingrain/WeChat) | Java WeChat desktop client built on the web WeChat protocol | 121 | 🟡 | Java |
+| [zhong-wechat-wmpf-debugger](https://github.com/netz888/zhong-wechat-wmpf-debugger) | Opens DevTools debugging for WeChat mini programs on Windows (WMPF) | 119 | 🟢 | Python |
 | [WeiXin-Private-API](https://github.com/lealife/WeiXin-Private-API) | WeChat Official Account platform private API wrapper | 112 | 🗄️ | PHP |
 | [pc-wechat-hook-http-api](https://github.com/daenmax/pc-wechat-hook-http-api) | PC WeChat hook service exposing HTTP and WebSocket APIs | 102 | 🟡 |  |
 | [wechat-ilink-client](https://github.com/photon-hq/wechat-ilink-client) | TypeScript client for WeChat iLink bot protocol, reversed from openclaw-weixin | 84 | 🟢 | TypeScript |

@@ -1,6 +1,6 @@
 # Network & Wire Protocols
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 422 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=network-wire-protocols) · 426 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -9,9 +9,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Cellular Modem Diagnostics](#cellular-modem-diagnostics) (26)
 - [Digital Voice Radio](#digital-voice-radio) (14)
 - [Email & Groupware](#email--groupware) (26)
-- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (26)
+- [File Sharing & Remote Desktop](#file-sharing--remote-desktop) (29)
 - [Legacy IM Revival](#legacy-im-revival) (2)
-- [Messaging Protocols](#messaging-protocols) (21)
+- [Messaging Protocols](#messaging-protocols) (22)
 - [Other Protocols](#other-protocols) (18)
 - [Proprietary Enterprise Protocols](#proprietary-enterprise-protocols) (47)
 - [Radio & SDR Protocols](#radio--sdr-protocols) (63)
@@ -212,7 +212,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-smb2](https://github.com/hirochachacha/go-smb2) | SMB2/3 client library written in Go | 412 | 🟢 | Go |
 | [smbprotocol](https://github.com/jborean93/smbprotocol) | Python SMBv2/v3 client implementation | 400 | 🟢 | Python |
 | [ksmbd](https://github.com/namjaejeon/ksmbd) | In-kernel Linux SMB3 server | 375 | 🟢 | C |
+| [uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Unofficial native Linux host for NetEase UU Remote, from its reverse-engineered protocol | 370 | 🟢 | Rust |
 | [moonlight-windows](https://github.com/moonlight-stream/moonlight-windows) | NVIDIA GameStream client for Windows Phone (discontinued) | 82 | 🗄️ | C |
+| [WayShare](https://github.com/wesleygrimes/wayshare) | Shares a Hyprland desktop with a Mac's built-in Screen Sharing app via Apple's protocol | 35 | 🟢 | Rust |
+| [openrad](https://github.com/gringoestrangeiro/openrad) | Open-source Rust reimplementation of Radmin VPN with a Linux app and CLI | 16 | 🟢 | Rust |
 | [pippin](https://github.com/jonesy827/pippin) | Native Rust Linux client for Apple's macOS High-Performance Screen Sharing protocol (HEVC 4:4:4, audio, clipboard) | 6 | 🟢 | Rust |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | Original free and open-source PlayStation Remote Play client built from the reverse-engineered protocol |  | ⚪ |  |
 
@@ -245,6 +248,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mautrix-googlechat](https://github.com/mautrix/googlechat) | Matrix-Google Chat puppeting bridge | 127 | 🟢 | Python |
 | [telegramd](https://github.com/bluefoxah/telegramd) | Unofficial open-source Telegram server written in Go | 28 | 🔴 | Go |
 | [mini-telegram](https://github.com/Yumcoder-dev/mini-telegram) | Unofficial MTProto server in Rust that works with Telegram clients | 14 | 🔴 | Rust |
+| [AOL Wiretap](https://github.com/iconidentify/wiretap) | Packet capture and analysis tool for reverse engineering the AOL protocol | 12 | 🟢 | Java |
 | [poggadaj](https://github.com/Oreeeee/poggadaj) | Open Source reimplementation of Gadu-Gadu backend (official mirror of https://codeberg.org/or3e/poggadaj) | 8 | 🟢 | Go |
 | [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🔴 | Go |
 | [aMSN](https://sourceforge.net/projects/amsn/) | Multiplatform client for the MSN Messenger protocol |  | ⚪ |  |

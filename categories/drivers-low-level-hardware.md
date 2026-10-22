@@ -1,18 +1,18 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 432 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 442 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Apple Silicon (Asahi)](#apple-silicon-asahi) (19)
 - [Drawing Tablets & Input](#drawing-tablets--input) (16)
-- [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (20)
-- [GPU Drivers](#gpu-drivers) (31)
+- [Firmware/BIOS (coreboot, UEFI)](#firmwarebios-coreboot-uefi) (21)
+- [GPU Drivers](#gpu-drivers) (35)
 - [Gaming Laptops & Handheld PCs](#gaming-laptops--handheld-pcs) (83)
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (41)
 - [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (84)
-- [Laptop EC & Peripherals](#laptop-ec--peripherals) (78)
-- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (39)
+- [Laptop EC & Peripherals](#laptop-ec--peripherals) (82)
+- [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (40)
 - [Wi-Fi & Radios](#wi-fi--radios) (21)
 
 ## Apple Silicon (Asahi)
@@ -82,6 +82,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bootguard-status](https://github.com/felixsinger/bootguard-status) | List of mainboards and their Intel Boot Guard status for coreboot porting | 33 | 🟢 | HTML |
 | [mmga](https://github.com/gch1p/mmga) | Flash coreboot on MacBooks without an external SPI programmer | 31 | 🗄️ | Shell |
 | [intel_ma](https://github.com/seuros/intel_ma) | Inspect Intel ME/TXE/CSME management firmware images | 14 | 🟢 | Rust |
+| [lenovo_bios](https://github.com/root-hunter/lenovo_bios) | Reverse engineering of Lenovo IdeaPad Gaming 3 firmware: BIOS extraction and AMD PSP analysis | 12 | 🟢 | Python |
 | [pch-pads-parser](https://github.com/maxpoliak/pch-pads-parser) | Parses inteltool PCH GPIO dumps into coreboot pad configs for board ports | 10 | 🗄️ | Go |
 | [Libreboot lbmk](https://codeberg.org/libreboot/lbmk) | Libreboot build system: coreboot board ports, blob extraction and payloads |  | ⚪ |  |
 
@@ -90,12 +91,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [applecpu](https://github.com/dougallj/applecpu) | Reverse-engineered Apple Firestorm/Icestorm CPU microarchitecture notes | 265 | 🔴 | HTML |
+| [DLSSNR-AMD](https://github.com/mochizuki0323/DLSSNR-AMD) | Reimplementation of the NVIDIA DLSS 5 neural-rendering network as Vulkan compute shaders for AMD GPUs | 184 | 🟢 | C++ |
 | [mesa-lima](https://github.com/yuq/mesa-lima) | Development tree of the Lima Mali-400 driver before upstream Mesa merge | 164 | 🔴 | C |
 | [gddr6](https://github.com/olealgoritme/gddr6) | Linux GDDR6/GDDR6X VRAM temperature reader for NVIDIA RTX cards | 159 | 🟢 | C |
 | [radeon-tools](https://github.com/fail0verflow/radeon-tools) | AMD Radeon reverse engineering tools | 154 | 🔴 | Python |
 | [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) | Driver-layer GPU libraries and tests for the PS Vita's PowerVR SGX | 116 | 🟡 | C |
 | [grate](https://github.com/grate-driver/grate) | Reverse-engineering tools and docs for the NVIDIA Tegra 2/3 GPU (open Tegra graphics) | 90 | 🟢 | C |
 | [dlss-nr-on-intel](https://github.com/Uzbekunknown/dlss-nr-on-intel) | Independent reimplementation of the DLSS neural rendering inference pass on an Intel iGPU | 68 | 🟢 | Python |
+| [three-dlss-nr](https://github.com/bhouston/three-dlss-nr) | Three.js WebGPU port of OpenDLSS-NR, the reimplementation of NVIDIA's DLSS 5 neural renderer | 66 | 🟢 | TypeScript |
 | [linux_openpvrsgx](https://github.com/openpvrsgx-devgroup/linux_openpvrsgx) | Reshaping PowerVR SGX GPL kernel drivers for mainline Linux | 65 | 🟢 | C |
 | [linux-cedrus](https://github.com/bootlin/linux-cedrus) | Mainline kernel tree for the Allwinner VPU (Cedrus) reverse engineering effort | 61 | 🔴 | C |
 | [NVFC](https://github.com/graphitemaster/NVFC) | Open-source tool for monitoring, configuring and overclocking NVIDIA GPUs | 50 | 🔴 | C |
@@ -103,6 +106,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tegra-re](https://github.com/kusma/tegra-re) | Reverse engineering of NVIDIA's Tegra Linux driver | 36 | 🗄️ | C |
 | [blackwell-isa](https://github.com/kacper-daftcode/blackwell-isa) | Reverse-engineered ISA database for NVIDIA SM120 Blackwell GPUs | 16 | 🟢 | HTML |
 | [libvdpau-tegra](https://github.com/grate-driver/libvdpau-tegra) | VDPAU video decode driver for NVIDIA Tegra built from reverse-engineered hardware | 16 | 🔴 | C |
+| [open-dlss](https://github.com/aloshdenny/open-dlss) | Vulkan reimplementation of NVIDIA's DLSS 5 neural rendering network, bit-exact | 11 | 🟢 | JavaScript |
+| [SGX535-reMESA](https://github.com/gabrieelgama/SGX535-reMESA) | Mesa/Gallium 3D driver for Intel GMA 500 (PowerVR SGX535) built through reverse engineering | 11 | 🟢 | C |
 | [etna-gpu-tools](https://github.com/etnaviv/etna-gpu-tools) | Vivante GPU debugging and reverse-engineering tools from the etnaviv project | 4 | 🔴 | C |
 | [Asahi Mesa driver](https://docs.mesa3d.org/drivers/asahi.html) | Mesa OpenGL/Vulkan driver for Apple AGX GPUs, with reverse-engineered ISA notes |  | ⚪ |  |
 | [bvhre](https://gitlab.freedesktop.org/bnieuwenhuizen/bvhre) | Reverse engineering the RDNA2 ray-tracing BVH format |  | ⚪ |  |
@@ -413,10 +418,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenInputBridge](https://github.com/Applet-LLC/OpenInputBridge) | Clean-room, protocol-compatible reimplementation of the Interception keyboard/mouse driver | 25 | 🟢 | C++ |
 | [samsung-galaxy-book5-linux-drivers](https://github.com/PsychoPunkSage/samsung-galaxy-book5-linux-drivers) | Linux drivers, hotkey patches and firmware fixes for the Samsung Galaxy Book5 | 20 | 🟢 | C |
 | [t2-better-audio](https://github.com/kekrby/t2-better-audio) | Audio configuration files for Apple T2 Macs running Linux | 18 | 🔴 | Shell |
+| [LOQ-24-zone-RGB-controller](https://github.com/Dhruvgoel3829/LOQ-24-zone-RGB-controller) | Controller for all 24 RGB zones of Lenovo Legion LOQ keyboards | 16 | 🟢 | Rust |
 | [asus-fan-control-ec](https://github.com/Keyitdev/asus-fan-control-ec) | Fan control for ASUS devices on Linux via direct EC access | 13 | 🟢 | C |
+| [zenbook-touchpad-i2c](https://github.com/larixer/zenbook-touchpad-i2c) | Reverse-engineered I2C HID protocol of ASUS ZenBook touchpads | 13 | 🔴 | JavaScript |
 | [gigactl](https://github.com/smairio/gigactl) | Fan and RGB keyboard control for Gigabyte/Clevo laptops on Linux, reverse-engineered | 9 | 🟢 | Python |
 | [TPFanCtrl2](https://github.com/mews-se/TPFanCtrl2) | ThinkPad fan control for Windows 10/11 | 7 | 🟢 | C++ |
 | [Mechrevo-Xingyao-14](https://github.com/YMGPwcca/Mechrevo-Xingyao-14) | Reverse-engineering reference for an Insyde BIOS and ITE EC laptop | 6 | 🟢 |  |
+| [VSL-DSP](https://github.com/grisuno/VSL-DSP) | Linux kernel module for PreSonus AudioBox VSL USB audio interfaces | 6 | 🟢 | HTML |
+| [mipi-fixes-x1-aura](https://github.com/cschalle/mipi-fixes-x1-aura) | Linux camera tuning for the ThinkPad X1 IMX471 sensor, recovered from the Intel Windows driver | 3 | 🟢 | Python |
 | [acpi4asus](https://sourceforge.net/projects/acpi4asus/) | ASUS laptop ACPI extras driver and tools for hotkeys, LEDs and backlight |  | ⚪ |  |
 | [asusctl](https://gitlab.com/asus-linux/asusctl) | Control daemon for ASUS ROG/TUF laptops on Linux (fans, LEDs, profiles) |  | ⚪ |  |
 | [hdaps](https://sourceforge.net/projects/hdaps/) | Driver for the ThinkPad Hard Drive Active Protection System accelerometer |  | ⚪ |  |
@@ -439,6 +448,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [goodix-fp-dump](https://github.com/goodix-fp-linux-dev/goodix-fp-dump) | Reverse-engineering tools and prototype drivers for Goodix fingerprint sensors | 363 | 🔴 | Python |
 | [node-hp-scan-to](https://github.com/manuc66/node-hp-scan-to) | Enables HP All-in-One scan-to-computer without HP software | 303 | 🟢 | TypeScript |
 | [Validity91](https://github.com/hmaarrfk/Validity91) | Reverse engineering the Validity 138a:0091 fingerprint sensor in Dell XPS laptops | 241 | 🔴 | Python |
+| [hw-harness](https://github.com/cschalle/hw-harness) | Harness that compares vendor and Linux scanner driver USB control transfers | 221 | 🟢 | Shell |
 | [labelle](https://github.com/labelle-org/labelle) | Open print tool for Dymo LabelManager label printers | 191 | 🟢 | Python |
 | [hp-laser-1008a-macos](https://github.com/Kuberwastaken/hp-laser-1008a-macos) | Native Apple Silicon macOS driver for HP Laser 1003-1008 printers | 176 | 🟢 | C |
 | [libfprint elan](https://github.com/iafilatov/libfprint) | libfprint driver for Elantech fingerprint sensors | 161 | 🔴 | C |

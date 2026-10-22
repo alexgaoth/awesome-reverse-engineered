@@ -1,13 +1,13 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 201 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 227 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Applications](#applications) (59)
-- [Binary Translators](#binary-translators) (11)
+- [Applications](#applications) (79)
+- [Binary Translators](#binary-translators) (12)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (10)
-- [OS & Compatibility Layers](#os--compatibility-layers) (60)
+- [OS & Compatibility Layers](#os--compatibility-layers) (65)
 - [Retro OS & Compatibility](#retro-os--compatibility) (61)
 
 ## Applications
@@ -32,6 +32,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ignis](https://github.com/Nystik-gh/ignis) | Obsidian reverse engineered to run as a self-hosted web app | 1,558 | 🟢 | JavaScript |
 | [SAM](https://github.com/s-macke/SAM) | Reverse engineered C port of the Software Automatic Mouth speech synthesizer | 1,520 | 🟡 | C |
 | [OpenSilver](https://github.com/OpenSilver/OpenSilver) | Open-source plugin-free reimplementation of Microsoft Silverlight on WebAssembly | 1,280 | 🟢 | C# |
+| [BaoCut](https://github.com/JimLiu/baocut) | Video and slide editor whose slide and design editors are ported from reconstructions of Claude's editors | 1,208 | 🟢 | TypeScript |
 | [Woxi](https://github.com/ad-si/Woxi) | Wolfram Language / Mathematica reimplementation in Rust | 941 | 🟢 | Rust |
 | [qcma](https://github.com/codestation/qcma) | Open-source cross-platform replacement for Sony's Content Manager Assistant for PS Vita | 673 | 🟢 | C++ |
 | [reportviewercore](https://github.com/lkosson/reportviewercore) | Recompilation of Microsoft ReportViewer for .NET Core | 568 | 🟢 | C# |
@@ -46,12 +47,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [vst2sdk](https://github.com/Xaymar/vst2sdk) | Clean-room reverse engineered VST 2.x interface headers | 140 | 🟢 | C++ |
 | [electroportis](https://github.com/drvink/electroportis) | SGI ElectroPaint screensaver ported to Windows via decompilation | 132 | 🔴 | C |
 | [figma-linux-font-helper](https://github.com/tryvin/figma-linux-font-helper) | Linux implementation of the Figma local font helper service | 127 | 🟢 | Python |
+| [BIMCraft](https://github.com/IPedrax/BIMCraft) | Clean-room take on the Autodesk Revit BIM workflow in Rust | 119 | 🟢 | Rust |
 | [SQ8L](https://github.com/sq8l-revival/SQ8L) | Faithful 64-bit port of the SQ8L Ensoniq SQ-80 emulation plugin | 118 | 🟢 | C++ |
+| [rec-rs](https://github.com/michaelshimeles/rec-rs) | macOS screen and camera recorder in Rust, modeled on a study of OBS Studio's architecture | 98 | 🟢 | Rust |
 | [LightCraft Android](https://github.com/artcraft-android/lightcraft-android) | Reimplementation of Adobe Lightroom in Rust with a Kotlin Android UI | 97 | 🟢 | Rust |
+| [MailCraft](https://github.com/UCS-Care-Group/mailcraft) | Clean-room mail, calendar and contacts client in Rust for Microsoft 365 and Outlook.com | 90 | 🟢 | Rust |
 | [LibreShockwave](https://github.com/LibreShockwave/LibreShockwave) | Open-source SDK, decompiler and web player for Adobe Shockwave | 88 | 🟢 | C++ |
 | [geowrite](https://github.com/mist64/geowrite) | Reconstructed source code of geoWrite 2.1 for the Commodore 64 | 69 | 🔴 | Assembly |
 | [gnupoc-package](https://github.com/mstorsjo/gnupoc-package) | Patches and native Unix reimplementations of tools to use Symbian SDKs on Unix | 62 | 🔴 | Shell |
-| [paper-rs](https://github.com/michaelshimeles/sketch) | Clean-room Rust reimplementation of the Paper design app | 62 | 🟢 | Rust |
+| [sketch](https://github.com/michaelshimeles/sketch) | Native Rust infinite-canvas design app, a clean-room reimplementation of Paper | 62 | 🟢 | Rust |
 | [bottle-fever](https://github.com/rcarmo/bottle-fever) | Clean-room clone of the Fever RSS aggregator API | 60 | 🔴 | Python |
 | [intel80tools](https://github.com/ogdenpm/intel80tools) | Reconstruction of the Intel 8080 toolchain including PLM80, ASM80, LINK80 and ISIS 4.1 | 60 | 🟢 | Assembly |
 | [OpenShockwave](https://github.com/Brian151/OpenShockwave) | Reverse engineering and re-implementation of Macromedia Shockwave | 60 | 🔴 | JavaScript |
@@ -60,18 +64,34 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [openevv](https://github.com/Mudb0y/openevv) | Reimplementation of IBM Embedded ViaVoice / ETI Eloquence TTS in portable C | 47 | 🟢 | C |
 | [digital-fauxice](https://github.com/rohanpandula/digital-fauxice) | Independent RGBI dust-and-scratch repair for the Nikon LS-5000 scanner (Digital ICE replacement) | 46 | 🟢 | Python |
 | [MailCraft](https://github.com/MonkeySaint/mailcraft) | Clean-room reimplementation of Microsoft Outlook (classic) in pure Rust | 41 | 🟢 | Rust |
+| [notecraft](https://github.com/AlienTechSoftware/notecraft) | Clean-room reimplementation of Microsoft OneNote in Rust | 41 | 🟢 | Rust |
 | [GlovePIEReverseEngineering](https://github.com/GlovePIEPreservation/GlovePIEReverseEngineering) | The GlovePIE decompilation effort | 40 | 🔴 | Pascal |
 | [ZuneShell.dll](https://github.com/ZuneDev/ZuneShell.dll) | Decompilations of the Zune desktop ZuneShell.dll, UIX.dll and UIXControls.dll | 34 | 🟢 | C# |
+| [Ledger Reborn](https://github.com/lxistired/ledger-reborn) | Independent accounting app modeled on REA/Ghidra study of QuickBooks Desktop for Mac behavior | 32 | 🟢 | Python |
+| [Open Scrantic](https://github.com/glauberlima/open-scrantic) | Rust reconstruction of the Johnny Castaway screensaver engine (Windows 3.1) | 27 | 🟢 | Rust |
 | [spicy](https://github.com/trhodeos/spicy) | Clone of the N64 SDK's mild.exe ROM linker | 25 | 🔴 | Go |
+| [honeydew](https://github.com/daijro/honeydew) | Clean-room reimplementation of FL Studio Mobile in Rust | 24 | 🟢 | Rust |
 | [Mariana](https://github.com/jfd16/Mariana) | ActionScript 3 runtime for .NET | 20 | 🔴 | C# |
 | [InstallerLG](https://github.com/sodero/InstallerLG) | A reimplementation of the LISP-like 'Installer' scripting language. | 19 | 🟢 | C |
+| [paper-rs](https://github.com/michaelshimeles/paper-rs) | Clean-room Rust reimplementation of the Paper design app | 19 | 🟢 | Rust |
 | [urna-vota-decompiled](https://github.com/igoroalonge/urna-vota-decompiled) | Readable C++ reconstruction of the WASM module behind Brazil's TSE electronic voting simulator | 18 | 🟢 | C++ |
 | [WordTsar](https://github.com/sleaze/WordTsar) | Open-source clone of the WordStar word processor that edits WordStar files | 18 | 🟡 | C++ |
 | [HCX](https://github.com/pgostation/HCX) | macOS app that opens and runs classic HyperCard stacks | 17 | 🔴 | Objective-C |
 | [PrintCraft](https://github.com/kabaragoya-loves-you/printcraft) | Clean-room reimplementation of Adobe Acrobat in pure Rust | 17 | 🟢 | Rust |
 | [makemask](https://github.com/trhodeos/makemask) | Open-source replacement for the N64 SDK makemask.exe | 14 | 🔴 | Go |
+| [ms-sam-mike-mary-decomp](https://github.com/KamiKitsune420/ms-sam-mike-mary-decomp) | Microsoft Sam, Mike and Mary (SAPI 5) voices rebuilt in portable C, sample-accurate | 14 | 🟢 | C |
+| [ProjectCraft](https://github.com/UCS-Care-Group/projectcraft) | Clean-room project scheduling program in the style of Microsoft Project, in Rust | 14 | 🟢 | Rust |
+| [minnamate](https://github.com/mirvoxtm/minnamate) | Clean-room implementation of Adobe Flash/Animate in Rust | 12 | 🟢 | Rust |
 | [libfreehand](https://github.com/LibreOffice/libfreehand) | Import library for Aldus/Macromedia FreeHand documents | 8 | 🟢 | C |
+| [RENotepad](https://github.com/nikkoxgonzales/RENotepad) | Windows 10 Notepad reverse engineered and rebuilt in Rust | 8 | 🟢 | Rust |
+| [tv-decomp](https://github.com/RetroBunn/tv-decomp) | Centigram TruVoice text-to-speech system rebuilt in portable C | 8 | 🟢 | C |
+| [desktop-games-nostalgia](https://github.com/ucodia/desktop-games-nostalgia) | macOS and browser port of Gemtree's 2000 Desktop Games (Stress Reducers), rebuilt with REA and Ghidra | 7 | 🟢 | Swift |
+| [eloquence-decomp](https://github.com/KamiKitsune420/eloquence-decomp) | ETI Eloquence 6.1 speech engine rebuilt in C with a drop-in ECI.DLL | 7 | 🟢 | C |
+| [prose2000_reborn](https://github.com/rommix0/prose2000_reborn) | Speech Plus Prose 2000 speech synthesizer decompiled and buildable as a library | 6 | 🟢 | C |
+| [reAL](https://github.com/PlayNeth/reAL) | Reimplementation of Creative ALchemy and DirectMusic for old DirectSound games | 6 | 🟢 | C |
 | [makeromOpen](https://github.com/fraser125/makeromOpen) | Open-source replacement for the N64 SDK makerom tool | 3 | 🔴 | Assembly |
+| [hexgrab](https://github.com/iammukeshm/hexgrab) | .NET 10 color picker for Windows built from an REA study of PowerToys' shipped binaries | 2 | 🟢 | C# |
+| [vd-streamer-linux](https://github.com/cudanexus/vd-streamer-linux) | Linux host for the Virtual Desktop VR streamer, replacing its macOS capture and encoding | 2 | 🟢 | C# |
 | [urit](https://codeberg.org/handfly/urit) | Reverse-engineered reimplementation of the T.A.G. BBS software |  | ⚪ |  |
 
 ## Binary Translators
@@ -89,6 +109,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bin2llvm](https://github.com/cojocar/bin2llvm) | Binary to LLVM IR translator | 159 | 🔴 | C++ |
 | [binrec-tob](https://github.com/trailofbits/binrec-tob) | Dynamic binary lifting and recompilation | 153 | 🔴 | C++ |
 | [epanos](https://github.com/drvink/epanos) | MIPS to C decompiler for the SGI ElectroPaint program | 74 | 🔴 | C |
+| [spaceengine-mac](https://github.com/fpetras/spaceengine-mac) | Native Apple Silicon port of SpaceEngine by static recompilation of the Windows executable | 5 | 🟢 | C |
 
 ## Flash, Shockwave & Legacy Runtimes
 
@@ -130,6 +151,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GNUstep Base](https://github.com/gnustep/libs-base) | Free implementation of the OpenStep/Cocoa Foundation API | 999 | 🟢 | Objective-C |
 | [NTVDMx64](https://github.com/leecher1337/ntvdmx64) | Runs Microsoft NTVDM (16-bit DOS subsystem) on 64-bit Windows | 958 | 🟢 | C |
 | [ipasim](https://github.com/ipasimulator/ipasim) | iOS emulator for Windows that runs iOS apps via translated binaries | 938 | 🔴 | C++ |
+| [ios-sweet](https://github.com/dipa-studio/ios-sweet) | iOS 16 userland and XNU kernel bring-up on the Redmi Note 10 Pro (SM7150) | 937 | 🟢 | Python |
 | [PumpkinOS](https://github.com/migueletto/PumpkinOS) | Re-implementation of PalmOS that runs Palm m68k apps on modern systems | 826 | 🟢 | C |
 | [SBEMU](https://github.com/crazii/SBEMU) | Sound Blaster emulation for DOS on modern HDA and AC97 sound hardware | 797 | 🟢 | C |
 | [freej2me](https://github.com/hex007/freej2me) | FreeJ2ME, a free J2ME emulator with libretro, AWT and SDL2 frontends | 683 | 🟢 | Java |
@@ -154,6 +176,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [spinhawk](https://github.com/rbowler/spinhawk) | Hercules (spinhawk), an IBM System/370, ESA/390 and z/Architecture mainframe emulator | 112 | 🟢 | C |
 | [InputFusion](https://github.com/xan105/InputFusion) | Reimplementation of XInput and other gamepad APIs over SDL3 | 102 | 🟢 | C++ |
 | [cmd](https://github.com/ChenPi11/cmd) | Faithful reimplementation of the Windows cmd.exe interpreter | 93 | 🟢 | C |
+| [Champagne](https://github.com/unixzii/Champagne) | Runs Mac OS X 10.6 Snow Leopard applications on other systems | 77 | 🟢 | C++ |
 | [dmusic](https://github.com/GothicKit/dmusic) | Partial re-implementation of Microsoft's DirectMusic adaptive soundtrack API | 63 | 🟢 | C |
 | [Mirage](https://github.com/mirage-rs/Mirage) | Reimplementation of the Nintendo Switch firmware | 60 | 🔴 | Rust |
 | [microemu](https://github.com/barteo/microemu) | MicroEmu, a pure Java implementation of Java ME | 58 | 🗄️ | Java |
@@ -164,6 +187,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenWebView2Loader](https://github.com/jchv/OpenWebView2Loader) | Open-source reimplementation of the Microsoft WebView2Loader | 37 | 🔴 | C++ |
 | [DWM](https://github.com/Adrikikicp2/DWM) | Decompilation of Windows 7's Desktop Window Manager (dwm.exe and uDWM.dll) | 23 | 🟡 | C++ |
 | [re-a3d-api](https://github.com/oxiKKK/re-a3d-api) | Reverse-engineered C++ Aureal 3D audio API interface from 1999 | 7 | 🟢 | C++ |
+| [wine-uwp](https://github.com/designgears/wine-uwp) | Wine extension that installs and runs signed MSIX Windows Store apps on Linux | 7 | 🟢 | C |
+| [shapr3d-linux](https://github.com/designgears/shapr3d-linux) | Installer and AppImage that run Shapr3D on Linux via wine-uwp | 5 | 🟢 | Rust |
+| [Kestrel](https://github.com/iamthehimansh/kestrel) | Android gaming environment for Apple Silicon Macs with a native Metal player | 3 | 🟢 | Swift |
 | [Android Translation Layer](https://gitlab.com/android_translation_layer/android_translation_layer) | Translation layer to run Android apps natively on Linux by reimplementing Android APIs |  | ⚪ |  |
 | [grintime](https://codeberg.org/Cloos/grintime) | Generic reimplementation of the INtime RTOS APIs |  | ⚪ |  |
 | [ndiswrapper](https://sourceforge.net/projects/ndiswrapper) | Loads Windows NDIS Wi-Fi drivers in the Linux kernel |  | ⚪ |  |

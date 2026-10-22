@@ -1,16 +1,16 @@
 # AI Tools & LLM Clients
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 737 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=ai-tools-llm-clients) · 742 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [AI Hardware & On-device Models](#ai-hardware--on-device-models) (55)
-- [Chatbot Web APIs](#chatbot-web-apis) (192)
+- [Chatbot Web APIs](#chatbot-web-apis) (193)
 - [Chinese LLM Web APIs](#chinese-llm-web-apis) (51)
-- [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (249)
+- [Coding Agents (Claude Code, Cursor, Copilot…)](#coding-agents-claude-code-cursor-copilot) (251)
 - [Image/Audio/Video Gen APIs](#imageaudiovideo-gen-apis) (69)
 - [MCP Servers for Private APIs](#mcp-servers-for-private-apis) (74)
-- [Other AI](#other-ai) (18)
+- [Other AI](#other-ai) (20)
 - [System Prompt Leaks & Extractions](#system-prompt-leaks--extractions) (29)
 
 ## AI Hardware & On-device Models
@@ -247,6 +247,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node_perplexityai](https://github.com/Parking-Master/node_perplexityai) | Unofficial Node.js API based on the Perplexity.AI website and mobile app | 21 | 🟡 | JavaScript |
 | [chatgpt-exporter (ezwep)](https://github.com/ezwep/chatgpt-exporter) | Self-hosted backup of ChatGPT conversations, projects and custom GPTs | 18 | 🟢 | JavaScript |
 | [chatgpt-turnstile-reversed](https://github.com/jonathanyly/chatgpt-turnstile-reversed) | Reverse engineered ChatGPT Turnstile anti-bot token used for login and chat | 18 | 🟢 | JavaScript |
+| [Lovelace](https://github.com/rodyherrera/Lovelace) | Self-hosted API and web UI for ChatGPT via its web interface | 17 | 🟡 | JavaScript |
 | [gemini-free-api](https://github.com/XD06/gemini-free-api) | Reverse-engineered Gemini web interface as a streaming API with tools | 16 | 🟢 | Go |
 | [Go-EdgeGPT](https://github.com/billikeu/Go-EdgeGPT) | Go reverse-engineered API of Microsoft's Bing Chat | 16 | 🔴 | Go |
 | [Discord-C.AI-Wrapper](https://github.com/walterwhite-69/Discord-C.AI-Wrapper) | Brings Character.AI personas into Discord via the unofficial API | 15 | 🟢 | Python |
@@ -466,6 +467,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Antigravity-Database-Manager](https://github.com/ag-donald/Antigravity-Database-Manager) | Database manager and recovery tool for the Google Antigravity IDE conversation store | 77 | 🟢 | Python |
 | [Cursor2API](https://github.com/NGLSG/Cursor2API) | Lightweight gateway exposing Cursor's tools/models as an API | 77 | 🟢 | TypeScript |
 | [cursor-tab](https://github.com/wisdgod/cursor-tab) | Protocol Buffers definitions for Cursor Tab | 76 | 🗄️ |  |
+| [Browserbase Claude Code plugin](https://github.com/browserbase/claude-code-plugin) | Stands in for the Claude in Chrome extension in Claude Code's local browser bridge, on Browserbase | 74 | 🗄️ | JavaScript |
 | [cursor_api_demo](https://github.com/eisbaw/cursor_api_demo) | Cursor IDE backend endpoint API reverse engineered (v2.6.22) | 72 | 🟢 | JavaScript |
 | [kiro-reverse-api](https://github.com/dangweilinshinidie/kiro-reverse-api) | Reverse-engineered Kiro API with a provider management console | 72 | 🟢 | JavaScript |
 | [copilot-api](https://github.com/QLHazyCoder/copilot-api) | GitHub Copilot to OpenAI/Responses/Anthropic API server | 71 | 🟢 | TypeScript |
@@ -532,6 +534,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [cursor2api-go](https://github.com/yourChainGod/cursor2api-go) | Go Cursor-to-OpenAI API bridge with Messages/Responses/Tools support | 20 | 🟢 | Go |
 | [qodercli-reverse](https://github.com/alingse/qodercli-reverse) | Reverse engineering of the Qoder CLI | 19 | 🟢 | Go |
 | [Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) | Deno port of Augment2Api | 18 | 🟡 | TypeScript |
+| [Harness Studio](https://github.com/vigneshv1cky/harness-studio) | Desktop coding agent app for macOS and Linux modeled on reverse-engineered Claude Code Desktop | 18 | 🟢 | JavaScript |
 | [codexfast-current-launcher](https://github.com/qiaojiangwink/codexfast-current-launcher) | Runtime launcher enabling hidden client flags (Fast mode) in Codex/ChatGPT Desktop | 17 | 🟢 | JavaScript |
 | [copilot-api](https://github.com/patchescamerababy/copilot-api) | GitHub Copilot to OpenAI API | 17 | 🟢 | Java |
 | [dsh-trae-api](https://github.com/Wang-JQ77/dsh-trae-api) | Exposes Trae Work CN credits as local OpenAI/Anthropic API | 17 | 🟢 | JavaScript |
@@ -550,7 +553,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [noclick](https://github.com/noclickapp/noclick) | Agent runtime that runs on your ChatGPT or Claude subscription | 12 | 🟢 | Python |
 | [gemini-3-github-copilot-proxy](https://github.com/Apothic-AI/gemini-3-github-copilot-proxy) | Use a Gemini plan via Gemini CLI auth inside GitHub Copilot | 11 | 🟢 | TypeScript |
 | [agy-tools-rust](https://github.com/ChrAlpha/agy-tools-rust) | Rust CLI reverse proxy exposing Antigravity Cloud Code as OpenAI/Claude/Gemini APIs | 9 | 🗄️ | Rust |
-| [antigravity-proxy (sortedcord)](https://github.com/terastal-hq/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
+| [antigravity-proxy (sortedcord)](https://github.com/sortedcord/antigravity-proxy) | Go proxy to Antigravity's internal Gemini API with quota tracking | 9 | 🟢 | Go |
 | [claude-buddy-hatchery](https://github.com/cminn10/claude-buddy-hatchery) | Reverse-engineered Claude Code /buddy companion generation algorithm | 9 | 🟢 | Python |
 | [kiro2api-rs](https://github.com/gdtiti/kiro2api-rs) | Rust Anthropic-compatible proxy over Kiro accounts with web panel | 9 | 🟢 | Rust |
 | [antigravity-proxy (usamashehab)](https://github.com/usamashehab/antigravity-proxy) | OpenAI-compatible proxy for Antigravity's Gemini and Claude models via OAuth | 8 | 🟢 | Python |
@@ -740,6 +743,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | Chinese localization patch for Claude Desktop on macOS, Windows and Linux | 7,841 | 🟢 | PowerShell |
 | [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Repackages the Windows Claude Desktop app to run on Debian/Linux | 5,473 | 🟢 | Shell |
 | [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | Export ChatGPT conversation history from the web app | 2,821 | 🟢 | TypeScript |
+| [Open Claude UI](https://github.com/Caho1/open-claude-ui) | React components and design-system notes derived from REA investigation of the Claude app UI | 1,330 | 🟢 | TypeScript |
 | [convoviz](https://github.com/mohamed-chs/convoviz) | Converts ChatGPT export ZIPs into Markdown with media and usage visualizations | 888 | 🟢 | Python |
 | [cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) | Configures DeepSeek, Kimi, GLM and Bailian providers inside Claude Desktop | 799 | 🟢 | Python |
 | [claude-desktop_win-zh_cn](https://github.com/Jyy1529/claude-desktop_win-zh_cn) | Claude Desktop Windows zh-CN patch translating keys and JS chunk labels | 676 | 🟢 | Python |
@@ -755,6 +759,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [grokipedia-api](https://github.com/jasonniebauer/grokipedia-api) | Unofficial API for xAI's Grokipedia | 50 | 🟢 | Python |
 | [chatgpt_desktop_ubuntu](https://github.com/johnohhh1/chatgpt_desktop_ubuntu) | Repackages the ChatGPT Windows MSIX as an Ubuntu .deb | 9 | 🟢 | Shell |
 | [Mnemos](https://github.com/foufouadi/Mnemos) | Reverse-engineered Claude Desktop's local storage to add persistent memory | 5 | 🟢 | C# |
+| [claude-code-background](https://github.com/Henry-fan88/claude-code-background) | Offline reimplementation of the Claude desktop app's glyph-wind session background | 3 | 🟢 | HTML |
 
 ## System Prompt Leaks & Extractions
 

@@ -1,6 +1,6 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 296 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 297 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -13,7 +13,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [TikTok & Snapchat](#tiktok--snapchat) (28)
 - [Twitter/X](#twitterx) (22)
 - [WhatsApp](#whatsapp) (30)
-- [iMessage & Apple Messaging](#imessage--apple-messaging) (13)
+- [iMessage & Apple Messaging](#imessage--apple-messaging) (14)
 
 ## Bridges & Multi-protocol
 
@@ -359,4 +359,5 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rustpush](https://github.com/OpenBubbles/rustpush) | Rust implementation of Apple's APNs and iMessage protocols (used by OpenBubbles) | 241 | 🟢 | Rust |
 | [bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper) | Helper bundle that hooks private macOS Messages APIs for the BlueBubbles server | 80 | 🟢 | Objective-C |
 | [barcelona](https://github.com/beeper/barcelona) | Swift framework for interacting with iMessage | 73 | 🔴 | Swift |
+| [open-madrid](https://github.com/fenleon/open-madrid) | Open implementation of Apple's iMessage protocol in Kotlin | 45 | 🟢 | Kotlin |
 | [imessage-rs](https://github.com/coleleavitt/imessage-rs) | Evidence-backed, offline-first Rust research workspace for the iMessage and IDS protocol stack | 0 | 🟢 | Rust |

@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "reverse-engineered-mcp"
 version = "0.1.0"
-description = "MCP server for the awesome-reverse-engineered index: 12,000+ open-source tools built by reverse engineering closed products."
+description = "MCP server for the awesome-reverse-engineered index: 16,000+ open-source tools built by reverse engineering closed products."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"

@@ -1,11 +1,11 @@
 ---
 name: find-reverse-engineered
-description: Find an open-source, reverse-engineered tool for a closed app, API, device, protocol, file format or game, then read or fetch it. Use when a task needs to talk to something that has no official API, SDK, driver or spec, or only a limited one. Examples include "control my Tuya plug locally", "read a .psd or .dwg file", "unofficial WhatsApp, Instagram or Bilibili client", "Bambu printer protocol", "talk to my car's API", "Garmin or CGM data", "decompilation of a game" and "OpenAI-compatible proxy for a web chatbot". The skill searches a curated index of 12,000+ verified projects ranked by stars, language, license and activity.
+description: Find an open-source, reverse-engineered tool for a closed app, API, device, protocol, file format or game, then read or fetch it. Use when a task needs to talk to something that has no official API, SDK, driver or spec, or only a limited one. Examples include "control my Tuya plug locally", "read a .psd or .dwg file", "unofficial WhatsApp, Instagram or Bilibili client", "Bambu printer protocol", "talk to my car's API", "Garmin or CGM data", "decompilation of a game" and "OpenAI-compatible proxy for a web chatbot". The skill searches a curated index of 16,000+ verified projects ranked by stars, language, license and activity.
 ---
 
 # Find a reverse-engineered tool
 
-The index is [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered). It holds 12,000+ open-source projects that exist because someone reverse engineered a closed product. Each entry has: name, repo URL, one-line description, category, GitHub stars, primary language, license, last push date and archived flag.
+The index is [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered). It holds 16,000+ open-source projects that exist because someone reverse engineered a closed product. Each entry has: name, repo URL, one-line description, category, GitHub stars, primary language, license, last push date and archived flag.
 
 The tool is `scripts/re_index.py`, in the same directory as this SKILL.md. It uses only the Python standard library. The first run downloads the index and caches it for 24 hours in `~/.cache/awesome-reverse-engineered/`.
 

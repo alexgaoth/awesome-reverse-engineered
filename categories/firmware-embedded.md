@@ -1,12 +1,12 @@
 # Firmware & Embedded
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=firmware-embedded) · 472 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=firmware-embedded) · 494 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Camera Firmware](#camera-firmware) (24)
-- [Custom Firmware](#custom-firmware) (187)
-- [Firmware Analysis Tools](#firmware-analysis-tools) (104)
+- [Custom Firmware](#custom-firmware) (191)
+- [Firmware Analysis Tools](#firmware-analysis-tools) (122)
 - [Retro Handhelds & Calculators](#retro-handhelds--calculators) (62)
 - [Routers & Network Gear](#routers--network-gear) (95)
 
@@ -181,6 +181,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esphome-zbbridge](https://github.com/thegroove/esphome-zbbridge) | ESPHome firmware for the Sonoff Zigbee Bridge exposing its Zigbee chip over TCP | 50 | 🔴 | C++ |
 | [wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel) | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | 🟢 | Shell |
 | [shelly-gen4-esphome](https://github.com/automatous-io/shelly-gen4-esphome) | ESPHome firmware for Shelly Gen4 devices installed through the stock web UI | 46 | 🟢 | Python |
+| [OpenDMCUFirm](https://github.com/GaryOderNichts/OpenDMCUFirm) | C reimplementation of the Wii U DMCU display microcontroller firmware | 45 | 🟢 | C |
 | [techo5-spot](https://github.com/HuskerMinion/techo5-spot) | Linux firmware for Amazon Echo Spot 1st gen replacing Fire OS, as a local Home Assistant voice satellite | 41 | 🟢 | Python |
 | [esphome-create-wind-calm](https://github.com/christiaanderidder/esphome-create-wind-calm) | Guide and config for converting the Create Wind Calm ceiling fan to ESPHome | 40 | 🟢 |  |
 | [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) | Open-source VideoCore firmware for the Raspberry Pi | 40 | 🔴 | C |
@@ -225,7 +226,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [open-yoto](https://github.com/tensorfish/open-yoto) | Open-source firmware for the Yoto player | 9 | 🟢 | C |
 | [OpenBekenCostcoFan](https://github.com/surshis/OpenBekenCostcoFan) | OpenBeken firmware config for the Costco smart tower fan | 9 | 🟢 |  |
 | [teddiebox](https://github.com/emka/teddiebox) | Open firmware for the ESP32 Toniebox that plays figures from a local teddyCloud | 7 | 🟢 | Rust |
+| [m-bootloader](https://github.com/jvitkauskas/m-bootloader) | Clean-room bootloader for M-VAVE FM-1 and SMK-37 keyboards (JieLi AC791N) | 6 | 🟢 | C |
+| [smartclock-oss](https://github.com/michaeldale/smartclock-oss) | Open replacement firmware for the SD Pro Smart Weather Clock (ESP8266) | 6 | 🟢 | C++ |
 | [sengled-hub-reclaim](https://github.com/djshadowxm82/sengled-hub-reclaim) | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | 🟢 | PowerShell |
+| [flipper-telink](https://github.com/ngxson/flipper-telink) | Flipper Zero app that dumps and reflashes Telink TLSR825x Zigbee devices over SWire | 2 | 🟢 | C |
 | [iPodLinux](https://sourceforge.net/projects/ipodlinux/) | Linux port and custom firmware for early Apple iPods |  | ⚪ |  |
 | [nuttx-bb](https://gitea.osmocom.org/phone-side/nuttx-bb) | Port of the NuttX RTOS to the OsmocomBB-supported Calypso baseband |  | ⚪ |  |
 | [osmo-tetra-bb](https://gitea.osmocom.org/tetra/osmo-tetra-bb) | Custom DMO firmware for Motorola MTH300 / Dolphin d700 TETRA handsets |  | ⚪ |  |
@@ -242,6 +246,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [UEFITool](https://github.com/LongSoft/UEFITool) | UEFI firmware image viewer and editor | 5,761 | 🟢 | C |
 | [me_cleaner](https://github.com/corna/me_cleaner) | Tool for partially deblobbing Intel ME firmware images | 5,061 | 🟢 | Python |
 | [EMBA](https://github.com/e-m-b-a/emba) | Security analyzer for embedded device firmware | 3,718 | 🟢 | Shell |
+| [Renode](https://github.com/renode/renode) | Embedded system simulator for running and debugging unmodified firmware | 3,052 | 🟢 | RobotFramework |
 | [edl](https://github.com/bkerler/edl) | Unofficial Qualcomm Firehose, Sahara, streaming and DIAG tools | 2,649 | 🟢 | Python |
 | [unblob](https://github.com/onekey-sec/unblob) | Extraction suite for arbitrary firmware and binary blobs | 2,594 | 🟢 | Python |
 | [Glasgow](https://github.com/GlasgowEmbedded/glasgow) | Scots Army Knife for electronics and hardware reverse engineering | 2,228 | 🟢 | Python |
@@ -264,6 +269,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [InternalBlue](https://github.com/seemoo-lab/internalblue) | Bluetooth experimentation framework for Broadcom/Cypress chips | 792 | 🟡 | Python |
 | [cpu_rec](https://github.com/airbus-seclab/cpu_rec) | Identify CPU architecture of unknown firmware binaries | 757 | 🟡 | Python |
 | [Bus Pirate](https://github.com/ElderlyPirate/Bus_Pirate) | Firmware for the Bus Pirate universal serial interface hacking tool | 694 | 🟢 | C |
+| [IDAPythonEmbeddedToolkit](https://github.com/maddiestone/IDAPythonEmbeddedToolkit) | IDAPython scripts for automating analysis of embedded device firmware | 690 | 🔴 | Python |
 | [ubi_reader](https://github.com/onekey-sec/ubi_reader) | Extract files from UBI and UBIFS images | 643 | 🟢 | Python |
 | [unME11](https://github.com/ptresearch/unME11) | Intel ME 11.x firmware image unpacker | 643 | 🗄️ | Python |
 | [binbloom](https://github.com/quarkslab/binbloom) | Raw firmware analysis tool to find load address and endianness | 586 | 🟡 | C |
@@ -291,9 +297,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ablation](https://github.com/Ablation-Tool/ablation) | Autonomous reverse engineering system, demonstrated on Fortinet firmware | 222 | 🟢 | Python |
 | [fwtool.py](https://github.com/ma1co/fwtool.py) | Tool to unpack Sony camera firmware images | 214 | 🔴 | Python |
 | [starlink-tools](https://github.com/quarkslab/starlink-tools) | Tools for security research on the Starlink user terminal | 205 | 🔴 | Python |
+| [Pyrrha](https://github.com/quarkslab/pyrrha) | Firmware cartography tool that maps binaries and their relations | 173 | 🟢 | Python |
 | [at51](https://github.com/8051Enthusiast/at51) | Tools for reverse engineering 8051 firmware | 167 | 🟡 | Rust |
+| [HALucinator](https://github.com/embedded-sec/halucinator) | Firmware rehosting through abstraction-layer (HAL) emulation | 167 | 🔴 | Python |
 | [galaxy-buds-firmware-archive](https://github.com/timschneeb/galaxy-buds-firmware-archive) | Archive of Galaxy Buds firmware images, flashable with GalaxyBudsClient | 154 | 🟢 |  |
 | [jielie](https://github.com/kagaimiq/jielie) | Information and tools on JieLi Bluetooth audio chips | 153 | 🟡 |  |
+| [uEmu](https://github.com/MCUSec/uEmu) | Universal MCU firmware emulator for dynamic analysis without hardware | 152 | 🟡 | Python |
 | [FirmwareReverseEngineering](https://github.com/frizb/FirmwareReverseEngineering) | Notes and tools from reverse engineering firmware | 150 | 🔴 | Python |
 | [mistral](https://github.com/Ravenslofty/mistral) | Intel Cyclone V FPGA bitstream reverse engineering | 138 | 🔴 | HTML |
 | [Dell iDRAC GPU throttling RE](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) | Reverse-engineered Dell iDRAC firmware to stop throttling of unsupported GPUs in C4130 | 136 | 🟢 | Python |
@@ -303,13 +312,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esp-bin2elf](https://github.com/jsandin/esp-bin2elf) | Converts ESP8266 flash dumps into ELF files | 90 | 🔴 | Python |
 | [xc2064](https://github.com/shirriff/xc2064) | Reverse engineering the Xilinx XC2064 FPGA bitstream | 90 | 🔴 | JavaScript |
 | [efi_dxe_emulator](https://github.com/assafcarlsbad/efi_dxe_emulator) | EFI DXE emulator and interactive debugger | 88 | 🔴 | C |
+| [Avatar2](https://github.com/avatarone/avatar-python) | Framework for dynamic analysis of embedded firmware with hardware-in-the-loop orchestration | 84 | 🔴 | C++ |
 | [ESPionage](https://github.com/serene-brew/ESPionage) | ESP8266 and ESP32 firmware binary analysis toolkit | 83 | 🟢 | Python |
+| [smram_parse](https://github.com/Cr4sh/smram_parse) | System Management RAM (SMRAM) analysis tool for UEFI firmware | 83 | 🟡 | Python |
 | [ida-efitools](https://github.com/theskyabovetheport/ida-efitools) | IDA Pro scripts to assist reverse engineering EFI binaries | 79 | 🔴 | Python |
 | [am335xbootrom](https://github.com/sjgallagher2/am335xbootrom) | Reverse engineering the TI AM3358 boot ROM | 67 | 🟡 | Python |
+| [DICE](https://github.com/RiS3-Lab/DICE-DMA-Emulation) | Automatic emulation of DMA input channels for dynamic firmware analysis | 67 | 🔴 | C |
 | [prjcombine](https://github.com/prjunnamed/prjcombine) | FPGA reverse engineering and bitstream documentation project | 66 | 🗄️ | Rust |
+| [basefind2](https://github.com/soyersoyer/basefind2) | Fast firmware base address scanner | 60 | 🔴 | Python |
 | [fastboot-oem-extractor](https://github.com/chkndrp/fastboot-oem-extractor) | Extract hidden fastboot oem commands from firmware blobs | 60 | 🟢 | Python |
 | [SharpOdinClient](https://github.com/Alephgsm/SharpOdinClient) | .NET library to talk to Samsung Android devices in download (Odin) mode for flashing | 59 | 🟢 | C# |
+| [allyourbase](https://github.com/8051Enthusiast/allyourbase) | Finds a firmware's load address by matching string and pointer addresses | 57 | 🟡 | Python |
 | [FimiX8-SDFG](https://github.com/wischbgr/FimiX8-SDFG) | SD-card-flashable firmware generator for the Fimi X8 SE drone | 57 | 🔴 | Java |
+| [mktplinkfw3](https://github.com/xdarklight/mktplinkfw3) | Format analysis and tool for TP-Link v3-header firmware images | 56 | 🔴 |  |
 | [imx-nand-tools](https://github.com/DigitalSecurity/imx-nand-tools) | Firmware reverse engineering tools for i.MX NAND flash | 55 | 🟡 | Python |
 | [aixun_t3a_rev](https://github.com/c0d3z3r0/aixun_t3a_rev) | Reverse engineering of the AIXUN T3A soldering station | 54 | 🟡 | Python |
 | [shelly-firmware](https://github.com/ioprev/shelly-firmware) | Script building a full flashable image of the official Shelly firmware | 51 | 🔴 | Python |
@@ -320,21 +335,28 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [qemu-hexagon](https://github.com/Comsecuris/qemu-hexagon) | QEMU with support for QDSP6 user mode emulation | 34 | 🔴 | C |
 | [Aqara-Firmware-Archive](https://github.com/absent42/Aqara-Firmware-Archive) | Archive of OTA firmware updates for Aqara IoT devices | 28 | 🟢 |  |
 | [SamsungFumoClient](https://github.com/timschneeb/SamsungFumoClient) | OMA-DM client with FUMO support for retrieving Samsung firmware updates and metadata | 27 | 🟡 | C# |
+| [reolink-fw](https://github.com/AT0myks/reolink-fw) | Extracts information and files from Reolink camera firmware | 26 | 🟡 | Python |
 | [SamsungFumoScraper](https://github.com/timschneeb/SamsungFumoScraper) | WebAssembly app downloading Samsung OTA firmware files directly in the browser | 26 | 🔴 | HTML |
 | [mrvl-88mw30x-firmware-tools](https://github.com/wfr/mrvl-88mw30x-firmware-tools) | Documentation and tools for Marvell 88MW300/302 firmware used in Yeelight bulbs | 24 | 🔴 | C |
 | [NTRDisasm](https://github.com/patois/NTRDisasm) | Annotated disassembly of the NTR 2.x custom firmware for the Nintendo N3DS | 24 | 🗄️ | Assembly |
+| [FIRMWELL](https://github.com/qc9c/Firmwell) | Automated rehosting framework for Linux-based embedded firmware | 22 | 🟢 | Python |
 | [BK7231_SPI_Flasher](https://github.com/openshwprojects/BK7231_SPI_Flasher) | Command line BK7231 flashing tool for SPI mode | 21 | 🔴 | Python |
 | [lv0pen](https://github.com/sagemono/lv0pen) | Byte-matching decompilation of the PlayStation 3 boot chain (lv0, loaders) and isolated SPU modules | 20 | 🟢 | C++ |
 | [WyzeFirmwareTool](https://github.com/MelonSmasher/WyzeFirmwareTool) | Tool for unpacking and repacking Wyze camera firmware for modification | 19 | 🗄️ | Python |
 | [f2mc8dump](https://github.com/mnaberez/f2mc8dump) | Dumps internal ROM from Cypress (Fujitsu) F2MC-8L microcontrollers | 16 | 🟢 | Python |
 | [ecovacs-firmware-tools](https://github.com/denysvitali/ecovacs-firmware-tools) | Tools for unpacking and analysing Ecovacs vacuum firmware | 15 | 🟡 | Go |
+| [mtkview](https://github.com/osecurio/mtkview) | Binary Ninja loader for MediaTek preloaders and Little Kernel images | 15 | 🟢 | Rust |
 | [tlcs90-rom-reader](https://github.com/sergiopolog/tlcs90-rom-reader) | ROM reader for Toshiba TLCS-90 microcontrollers used in arcade boards | 15 | 🟢 | HTML |
+| [MFT](https://github.com/Mimoja/MFT) | Firmware toolkit for unpacking and analyzing firmware images | 14 | 🔴 | Makefile |
 | [Bose-headphones-firmware](https://github.com/avicoder/Bose-headphones-firmware) | Reverse-engineered firmware of the Bose QuietComfort 35 II | 10 | 🔴 |  |
 | [Cyclone_CRAM_Mapper](https://github.com/14sea/Cyclone_CRAM_Mapper) | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | 🟢 | Python |
+| [ecos_romfs_unpacker](https://github.com/rotenkatz/ecos_romfs_unpacker) | Unpacker for eCos ROMFS images in firmware | 6 | 🔴 | Python |
+| [hikvision_R2_firmware](https://github.com/renaudallard/hikvision_R2_firmware) | Unpacks and repacks Hikvision R2 firmware files | 6 | 🟢 | JavaScript |
 | [HALO-ISA](https://codeberg.org/dhxx/HALO-ISA) | Reverse-engineered instruction set reference for the Cirrus Logic HALO Core DSP (CS40L/CS35L amps) |  | ⚪ |  |
 | [JAY-tech-UMPC-9901-HWRE](https://codeberg.org/GAY-tech/JAY-tech-UMPC-9901__HWRE) | Hardware reverse engineering of the WonderMedia WM8505 platform (JAY-tech UMPC 9901) |  | ⚪ |  |
 | [librephone](https://codeberg.org/rsavoye/librephone) | Research and tools for analysing phone binary blobs with the goal of replacing them with free software |  | ⚪ |  |
 | [pico-flash-tracer](https://codeberg.org/neuschaefer/pico-flash-tracer) | SPI flash access tracer based on the Raspberry Pi Pico |  | ⚪ |  |
+| [prjcombine](https://codeberg.org/prjunnamed/prjcombine) | FPGA bitstream reverse engineering and documentation project for multiple vendor FPGA families |  | ⚪ |  |
 | [qemu-esp32-wireless](https://codeberg.org/oHn017ss3ad1/qemu-esp32-wireless) | Deterministic QEMU emulation of the ESP32 wireless stack running Espressif's unmodified blobs |  | ⚪ |  |
 | [tu58firmware](https://gitlab.com/NF6X_Retrocomputing/tu58firmware) | Disassembly and reverse engineering of DEC TU58 tape drive firmware |  | ⚪ |  |
 | [vt100-firmware](https://codeberg.org/hisdeedsaredust/vt100-firmware) | Annotated VT100 terminal firmware (commented 8080 disassembly) |  | ⚪ |  |
