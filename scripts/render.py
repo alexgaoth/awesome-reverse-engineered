@@ -12,7 +12,7 @@ SITE = "https://alexgaoth.github.io/awesome-reverse-engineered/"
 BADGE_IMG = "https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d"
 BADGE_MD = f"[![Listed in Awesome Reverse-Engineered]({BADGE_IMG})](https://github.com/{REPO})"
 # Files that state the index size as a rounded "12,000+". render.py keeps them in step with the data.
-COUNT_FILES = ["docs/index.html", "plugin/.claude-plugin/plugin.json",
+COUNT_FILES = ["docs/index.html", "mcp/reverse_engineered_mcp.py", "mcp/pyproject.toml", "plugin/.claude-plugin/plugin.json",
                "plugin/skills/find-reverse-engineered/SKILL.md", ".claude-plugin/marketplace.json"]
 TODAY = datetime.date.today()
 
@@ -62,6 +62,14 @@ def table(rows, numbered=False, head=None):
         name = f"[{e['name'].replace('|', '/')}]({e['url']})"
         out.append((f"| {i} " if numbered else "") + f"| {name} | {d} | {st} | {HEALTH_MD[health(e)]} | {e.get('lang') or ''} |")
     return out
+
+
+def sync_mcp():
+    """The MCP server ships a copy of the skill's search script so it can be installed on its own."""
+    import shutil
+    src = os.path.join(ROOT, "plugin", "skills", "find-reverse-engineered", "scripts", "re_index.py")
+    if os.path.isdir(os.path.join(ROOT, "mcp")):
+        shutil.copyfile(src, os.path.join(ROOT, "mcp", "re_index.py"))
 
 
 def load_search():
@@ -231,6 +239,7 @@ def main():
     removed = json.load(open(rp)) if os.path.exists(rp) else []
 
     sync_counts(n)
+    sync_mcp()
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
     open(os.path.join(ROOT, "assets", "banner.svg"), "w").write(banner_svg(n, len(cats)))
     open(os.path.join(ROOT, "assets", "social.svg"), "w").write(social_svg(n))
@@ -325,6 +334,12 @@ def main():
               "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",
               f"<details><summary><b>{t['other_ways']}</b></summary>", "",
               f"**{t['plugin']}**", "", "```", f"/plugin install reverse-engineered --marketplace {REPO}", "```", "",
+              f"**{t['mcp']}**", "", "```bash",
+              f'claude mcp add reverse-engineered -- uvx --from "git+https://github.com/{REPO}#subdirectory=mcp" reverse-engineered-mcp',
+              "```", "", "```json",
+              '{"mcpServers": {"reverse-engineered": {"command": "uvx", "args": ["--from", '
+              f'"git+https://github.com/{REPO}#subdirectory=mcp", "reverse-engineered-mcp"]}}}}}}',
+              "```", "",
               f"**{t['any_shell']}**", "", "```bash",
               f"curl -sL https://raw.githubusercontent.com/{REPO}/main/plugin/skills/find-reverse-engineered/scripts/re_index.py -o re_index.py",
               "python3 re_index.py search tuya local          # ranked matches",

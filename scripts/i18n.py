@@ -9,6 +9,7 @@ LANGS = [  # (code, file, label)
 
 S = {
     "en": {
+        "mcp": "MCP server (Claude Desktop, Cursor, any MCP client)",
         "h_badge": "Is your project listed?",
         "badge_p": "Add this badge to your README. On the [website]({site}), each project has a **badge** button that copies a version linking to its own entry.",
         "pitch": "Don't reverse engineer it twice.",
@@ -60,6 +61,7 @@ S = {
         "cta": "If this saved you from reverse engineering something yourself, [give it a star]({repo}).",
     },
     "zh-CN": {
+        "mcp": "MCP 服务器（Claude Desktop、Cursor 等任意 MCP 客户端）",
         "h_badge": "你的项目被收录了吗？",
         "badge_p": "可以把这个徽章加到你的 README 里。在[网站]({site})上，每个项目都有一个 **badge** 按钮，可以复制指向该项目条目的版本。",
         "pitch": "同一个东西，不必逆向两次。",
@@ -111,6 +113,7 @@ S = {
         "cta": "如果它让你省去了亲自逆向的麻烦，[请给它一个星标]({repo})。",
     },
     "fr": {
+        "mcp": "Serveur MCP (Claude Desktop, Cursor, tout client MCP)",
         "h_badge": "Votre projet est référencé ?",
         "badge_p": "Ajoutez ce badge à votre README. Sur le [site]({site}), chaque projet a un bouton **badge** qui copie une version pointant vers sa propre fiche.",
         "pitch": "Ne faites pas la rétro-ingénierie deux fois.",
@@ -162,6 +165,7 @@ S = {
         "cta": "Si cet index vous a évité de faire de la rétro-ingénierie vous-même, [mettez-lui une étoile]({repo}).",
     },
     "es": {
+        "mcp": "Servidor MCP (Claude Desktop, Cursor, cualquier cliente MCP)",
         "h_badge": "¿Tu proyecto está en la lista?",
         "badge_p": "Añade esta insignia a tu README. En la [web]({site}), cada proyecto tiene un botón **badge** que copia una versión que enlaza a su propia ficha.",
         "pitch": "No hagas ingeniería inversa dos veces.",

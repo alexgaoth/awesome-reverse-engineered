@@ -71,6 +71,16 @@ npx skills add alexgaoth/awesome-reverse-engineered
 /plugin install reverse-engineered --marketplace alexgaoth/awesome-reverse-engineered
 ```
 
+**Servidor MCP (Claude Desktop, Cursor, cualquier cliente MCP)**
+
+```bash
+claude mcp add reverse-engineered -- uvx --from "git+https://github.com/alexgaoth/awesome-reverse-engineered#subdirectory=mcp" reverse-engineered-mcp
+```
+
+```json
+{"mcpServers": {"reverse-engineered": {"command": "uvx", "args": ["--from", "git+https://github.com/alexgaoth/awesome-reverse-engineered#subdirectory=mcp", "reverse-engineered-mcp"]}}}
+```
+
 **Cualquier agente o terminal (un solo archivo, solo la biblioteca estándar de Python)**
 
 ```bash

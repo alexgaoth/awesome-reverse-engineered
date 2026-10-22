@@ -86,6 +86,26 @@ def score(e, terms):
     return (matched, total)
 
 
+def search(entries, terms, category=None, lang=None, min_stars=0, include_archived=False, limit=12):
+    """Rank entries for the search terms. Returns (results, full) where full is the
+    list of entries that match every term; results put those first, then partial matches."""
+    res = []
+    for e in entries:
+        if category and category.lower() not in (e["category"] + " " + e.get("subcategory", "")).lower():
+            continue
+        if lang and (e.get("lang") or "").lower() != lang.lower():
+            continue
+        if (e.get("stars") or 0) < min_stars or (e.get("archived") and not include_archived):
+            continue
+        sc = score(e, terms)
+        if sc:
+            res.append((sc, e))
+    res.sort(key=lambda x: (-x[0][0], -x[0][1]))
+    full = [e for (m, _), e in res if m == len(terms)]
+    partial = [e for (m, _), e in res if m < len(terms)]
+    return (full + partial)[:limit], full
+
+
 def fmt(i, e):
     meta = [f"★{e['stars']:,}" if e.get("stars") is not None else None, e.get("lang") or None,
             e.get("license") or None, f"pushed {e['pushed']}" if e.get("pushed") else None,
@@ -153,21 +173,7 @@ def main():
 
     if a.cmd == "search":
         terms = [t for t in re.split(r"[\s,]+", " ".join(a.words).lower()) if t]
-        res = []
-        for e in entries:
-            if a.category and a.category.lower() not in (e["category"] + " " + e.get("subcategory", "")).lower():
-                continue
-            if a.lang and (e.get("lang") or "").lower() != a.lang.lower():
-                continue
-            if (e.get("stars") or 0) < a.min_stars or (e.get("archived") and not a.include_archived):
-                continue
-            sc = score(e, terms)
-            if sc:
-                res.append((sc, e))
-        res.sort(key=lambda x: (-x[0][0], -x[0][1]))
-        full = [e for (m, _), e in res if m == len(terms)]
-        partial = [e for (m, _), e in res if m < len(terms)]
-        out = (full + partial)[: a.limit]
+        out, full = search(entries, terms, a.category, a.lang, a.min_stars, a.include_archived, a.limit)
         if a.json:
             print(json.dumps(out, indent=1, ensure_ascii=False)); return
         if not out:

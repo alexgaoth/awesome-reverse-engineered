@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reverse-engineered-mcp"
+version = "0.1.0"
+description = "MCP server for the awesome-reverse-engineered index: 12,000+ open-source tools built by reverse engineering closed products."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/alexgaoth/awesome-reverse-engineered"
+
+[project.scripts]
+reverse-engineered-mcp = "reverse_engineered_mcp:main"
+
+[tool.setuptools]
+py-modules = ["reverse_engineered_mcp", "re_index"]

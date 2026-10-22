@@ -1,2 +1,4 @@
 refresh-summary.md
 __pycache__/
+mcp/build/
+mcp/*.egg-info/
