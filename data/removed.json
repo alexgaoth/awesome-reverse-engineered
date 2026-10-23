@@ -208,5 +208,47 @@
   "name": "Zygisk-Loader",
   "removed": "2026-10-22",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/0xgetz/deepseek2api",
+  "name": "deepseek2api (0xgetz)",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/0xgetz/minimax2api",
+  "name": "minimax2api (0xgetz)",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ChambersXDU/sony-a7c2-research",
+  "name": "sony-a7c2-research",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/sasja-san/atc",
+  "name": "Air Traffic Chaos",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/lucyawrey/Paper_Mario_64_Recomp",
+  "name": "Paper Mario",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/nikolaygorb/TheDarknessRecomp",
+  "name": "TheDarknessRecomp",
+  "removed": "2026-10-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://wiki.multimedia.cx",
+  "name": "MultimediaWiki",
+  "removed": "2026-10-23",
+  "reason": "unreachable on 3 runs"
  }
 ]
