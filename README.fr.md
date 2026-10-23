@@ -2,7 +2,7 @@
 
 <a href="https://alexgaoth.github.io/awesome-reverse-engineered/"><img src="assets/banner.svg" alt="Awesome Reverse-Engineered" width="100%"></a>
 
-<p><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>Français</b> · <a href="README.es.md">Español</a></p>
+<p><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>Français</b> · <a href="README.es.md">Español</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.pt-BR.md">Português (BR)</a></p>
 
 ## Ne faites pas la rétro-ingénierie deux fois.
 

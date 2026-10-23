@@ -5,6 +5,8 @@ LANGS = [  # (code, file, label)
     ("zh-CN", "README.zh-CN.md", "简体中文"),
     ("fr", "README.fr.md", "Français"),
     ("es", "README.es.md", "Español"),
+    ("vi", "README.vi.md", "Tiếng Việt"),
+    ("pt-BR", "README.pt-BR.md", "Português (BR)"),
 ]
 
 S = {
@@ -256,3 +258,8 @@ CAT = {
         "RE Tooling": "Herramientas de ingeniería inversa", "Collections & Awesome Lists": "Colecciones y listas Awesome",
     },
 }
+
+# Vietnamese and Brazilian Portuguese live in their own file to keep this one readable.
+from i18n_vi_pt import S as _S_MORE, CAT as _CAT_MORE  # noqa: E402
+S.update(_S_MORE)
+CAT.update(_CAT_MORE)
