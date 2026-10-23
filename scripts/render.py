@@ -12,7 +12,7 @@ SITE = "https://alexgaoth.github.io/awesome-reverse-engineered/"
 BADGE_IMG = "https://img.shields.io/badge/listed%20in-awesome--reverse--engineered-ffb000?style=flat-square&labelColor=0e0f0d"
 BADGE_MD = f"[![Listed in Awesome Reverse-Engineered]({BADGE_IMG})](https://github.com/{REPO})"
 # Files that state the index size as a rounded "12,000+". render.py keeps them in step with the data.
-COUNT_FILES = ["docs/index.html", "mcp/reverse_engineered_mcp.py", "mcp/pyproject.toml", "plugin/.claude-plugin/plugin.json",
+COUNT_FILES = ["docs/index.html", "mcp/reverse_engineered_mcp.py", "mcp/pyproject.toml", "mcp/README.md", "plugin/.claude-plugin/plugin.json",
                "plugin/skills/find-reverse-engineered/SKILL.md", ".claude-plugin/marketplace.json"]
 TODAY = datetime.date.today()
 

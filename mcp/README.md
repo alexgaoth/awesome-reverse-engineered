@@ -1,6 +1,6 @@
 # reverse-engineered MCP server
 
-MCP server for [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered): 12,000+ open-source projects that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
+MCP server for [awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered): 16,000+ open-source projects that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
 
 Don't reverse engineer it twice: your agent searches the index before it starts.
 
