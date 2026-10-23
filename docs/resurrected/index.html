@@ -1,0 +1,1167 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resurrected: 131 products their makers killed, kept alive by open source</title>
+<meta name="description" content="131 devices, games and online services that companies shut down, bricked or abandoned, and the open-source projects built by reverse engineering that keep them running.">
+<link rel="canonical" href="https://awesome.alexgaoth.com/resurrected/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Awesome Reverse-Engineered">
+<meta property="og:title" content="Resurrected: 131 products their makers killed, kept alive by open source">
+<meta property="og:description" content="Nest, Pebble, Stadia, the Wii's online play, GameSpy, Club Penguin and more: shut down by their makers, brought back by reverse engineering.">
+<meta property="og:image" content="https://awesome.alexgaoth.com/resurrected/og.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta property="og:url" content="https://awesome.alexgaoth.com/resurrected/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://awesome.alexgaoth.com/resurrected/og.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230e0f0d'/><text x='16' y='22' font-family='monospace' font-size='15' font-weight='700' fill='%23ffb000' text-anchor='middle'>0x</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #fafaf9; --surface: #ffffff; --raised: #f2f2ef; --line: #e4e4e0;
+  --ink: #18181b; --ink-2: #52525b; --ink-3: #71717a;
+  --accent: #a16207; --dead: #b91c1c; --alive: #15803d;
+  --sans: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0e0f0d; --surface: #151613; --raised: #1c1d19; --line: #2a2b26;
+    --ink: #f2f0e8; --ink-2: #b4b1a4; --ink-3: #8b8878;
+    --accent: #ffb000; --dead: #f87171; --alive: #4ade80;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.55 var(--sans); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+nav { height: 64px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.mark { font: 600 15px var(--mono); text-decoration: none; }
+.mark b { color: var(--accent); font-weight: 600; }
+.navlinks { display: flex; gap: 6px; }
+.navlinks a { padding: 7px 12px; border-radius: 999px; text-decoration: none; color: var(--ink-2); font-size: 14px; }
+.navlinks a:hover { background: var(--raised); color: var(--ink); }
+header { padding: 64px 0 32px; }
+.kicker { font: 600 13px var(--mono); color: var(--accent); letter-spacing: .5px; text-transform: uppercase; margin: 0 0 14px; }
+h1 { font-size: clamp(36px, 5.4vw, 64px); line-height: 1.02; letter-spacing: -2px; margin: 0 0 18px; max-width: 16ch; }
+.lede { color: var(--ink-2); font-size: 18px; max-width: 60ch; margin: 0 0 28px; }
+.stats { display: flex; flex-wrap: wrap; gap: 28px; font: 13px var(--mono); color: var(--ink-3); }
+.stats b { display: block; font: 700 28px var(--sans); color: var(--ink); letter-spacing: -.5px; }
+.bar { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); padding: 12px 0; margin-bottom: 28px; }
+.chips { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip { font: 500 13px var(--sans); padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink-2); cursor: pointer; }
+.chip span { font: 12px var(--mono); color: var(--ink-3); margin-left: 4px; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip[aria-pressed="true"] span { color: var(--bg); opacity: .7; }
+.grid { list-style: none; padding: 0; margin: 0 0 64px; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 26px 26px 10px 10px; padding: 22px 22px 18px; display: flex; flex-direction: column; gap: 10px; }
+.card[hidden] { display: none; }
+.life { display: flex; align-items: center; gap: 8px; font: 600 12px var(--mono); }
+.life .d { color: var(--dead); } .life .a { color: var(--alive); } .life .arrow { color: var(--ink-3); }
+.card h3 { margin: 0; font-size: 18px; line-height: 1.25; letter-spacing: -.3px; }
+.maker { font: 13px var(--mono); color: var(--ink-3); }
+.what { margin: 0; color: var(--ink-2); font-size: 14px; }
+.revs { margin: 4px 0 0; padding: 12px 0 0; border-top: 1px dashed var(--line); list-style: none; display: flex; flex-direction: column; gap: 6px; }
+.revs li { display: flex; justify-content: space-between; gap: 12px; font-size: 14px; }
+.revs a { text-decoration: none; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.revs a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.revs .st { font: 12px var(--mono); color: var(--ink-3); white-space: nowrap; }
+.src { font: 12px var(--mono); color: var(--ink-3); margin-top: auto; }
+footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--ink-3); font-size: 14px; display: flex; flex-wrap: wrap; gap: 8px 24px; }
+footer a { color: var(--accent); }
+@media (max-width: 600px) { .wrap { padding: 0 16px; } header { padding: 40px 0 24px; } .navlinks .hide-sm { display: none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav aria-label="Main">
+    <a class="mark" href="../"><b>awesome-</b>reverse-engineered</a>
+    <div class="navlinks">
+      <a href="../">Search the index</a>
+      <a class="hide-sm" href="https://github.com/alexgaoth/awesome-reverse-engineered">GitHub</a>
+    </div>
+  </nav>
+  <header>
+    <p class="kicker">Resurrected</p>
+    <h1>They killed it. Open source brought it back.</h1>
+    <p class="lede">131 devices, games and online services that their makers shut down, bricked or abandoned, and the open-source projects, built by reverse engineering, that keep them running today.</p>
+    <div class="stats">
+      <div><b>131</b>products revived</div>
+      <div><b>86</b>companies</div>
+      <div><b>278</b>revival projects</div>
+      <div><b>32,508</b>GitHub stars</div>
+    </div>
+  </header>
+  <div class="bar"><div class="chips" role="group" aria-label="Filter by kind"><button class="chip" data-k="" aria-pressed="true">All<span>131</span></button><button class="chip" data-k="device" aria-pressed="false">Devices<span>22</span></button><button class="chip" data-k="game" aria-pressed="false">Games<span>74</span></button><button class="chip" data-k="service" aria-pressed="false">Services<span>35</span></button></div></div>
+  <ol class="grid">
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2026</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Belkin Wemo</h3>
+      <div class="maker">killed by Belkin</div>
+      <p class="what">Belkin ended support and cloud features for most Wemo devices</p>
+      <ul class="revs"><li><a href="https://github.com/zackria/bit-switch" rel="noopener">bit-switch</a><span class="st">★ 9</span></li><li><a href="https://github.com/K0rb3nD4ll4S/dibby-wemo-manager" rel="noopener">dibby-wemo-manager</a><span class="st">★ 8</span></li></ul>
+      <a class="src" href="https://www.channelnews.com.au/belkin-to-discontinue-wemo-smart-home-support-in-january-2026/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2026</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Bose SoundTouch speakers</h3>
+      <div class="maker">killed by Bose</div>
+      <p class="what">Bose ended cloud support for SoundTouch speakers</p>
+      <ul class="revs"><li><a href="https://github.com/gesellix/Bose-SoundTouch" rel="noopener">Bose-SoundTouch</a><span class="st">★ 243</span></li><li><a href="https://github.com/sandervg/homeassistant-bose-soundtouch-bridge" rel="noopener">homeassistant-bose-soundtouch-bridge</a><span class="st">★ 26</span></li><li><a href="https://github.com/Marvoo01/Alternative-Bose-SoundTouch-controller-no-Cloud" rel="noopener">Alternative-Bose-SoundTouch-controller-no-Cloud</a><span class="st">★ 13</span></li><li><a href="https://github.com/vintx86/bose-soundtouch" rel="noopener">bose-soundtouch</a><span class="st">★ 9</span></li></ul>
+      <a class="src" href="https://www.techspot.com/news/109830-bose-soundtouch-shutdown-leaves-connected-speakers-less-smart.html" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dauntless</h3>
+      <div class="maker">killed by Phoenix Labs</div>
+      <p class="what">The live-service game was discontinued when its servers shut down</p>
+      <ul class="revs"><li><a href="https://github.com/pranav158/Mystic-Paradox" rel="noopener">Mystic-Paradox</a><span class="st">★ 66</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dauntless_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Humane Ai Pin</h3>
+      <div class="maker">killed by Humane</div>
+      <p class="what">Humane stopped selling the pin and cut its connection to Humane&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/MaxMaeder/OpenPin" rel="noopener">OpenPin</a><span class="st">★ 57</span></li><li><a href="https://github.com/PenumbraOS/humane-system-hook" rel="noopener">humane-system-hook</a><span class="st">★ 8</span></li><li><a href="https://github.com/PenumbraOS/sdk" rel="noopener">PenumbraOS SDK</a><span class="st">★ 4</span></li><li><a href="https://github.com/PenumbraOS/pinitd" rel="noopener">pinitd</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Humane_Inc." rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Logitech Harmony remotes (older models)</h3>
+      <div class="maker">killed by Logitech</div>
+      <p class="what">Logitech ended the software support that older Harmony remotes need</p>
+      <ul class="revs"><li><a href="https://github.com/Unkn0wn-dx/RE-HARMONY" rel="noopener">RE-HARMONY</a><span class="st">★ 89</span></li><li><a href="https://github.com/mulcmu/Modernize-Harmony-880" rel="noopener">Modernize-Harmony-880</a><span class="st">★ 10</span></li><li><a href="https://github.com/martin-wagner/harmony900tools" rel="noopener">harmony900tools</a><span class="st">★ 5</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Logitech_Harmony" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>MapleStory 2</h3>
+      <div class="maker">killed by Nexon</div>
+      <p class="what">Nexon closed the last MapleStory 2 service, in Korea</p>
+      <ul class="revs"><li><a href="https://github.com/MS2Community/Maple2" rel="noopener">Maple2</a><span class="st">★ 188</span></li><li><a href="https://github.com/kOchirasu/Maple2" rel="noopener">Maple2</a><span class="st">★ 51</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/MapleStory_2" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Neato robot vacuums</h3>
+      <div class="maker">killed by Neato Robotics / Vorwerk</div>
+      <p class="what">The Neato cloud was shut down three years earlier than promised</p>
+      <ul class="revs"><li><a href="https://github.com/vacuula/fang" rel="noopener">fang</a><span class="st">★ 862</span></li><li><a href="https://github.com/renjfk/OpenNeato" rel="noopener">OpenNeato</a><span class="st">★ 206</span></li><li><a href="https://github.com/vacuula/vacuula" rel="noopener">vacuula</a><span class="st">★ 163</span></li></ul>
+      <a class="src" href="https://9to5mac.com/2025/10/27/neato-cloud-shutdown-is-the-latest-example-of-a-failed-company-bricking-smart-products/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nest Learning Thermostat (1st and 2nd gen)</h3>
+      <div class="maker">killed by Google</div>
+      <p class="what">Google ended app control and support for the first two generations</p>
+      <ul class="revs"><li><a href="https://github.com/codykociemba/NoLongerEvil-Thermostat" rel="noopener">NoLongerEvil Thermostat</a><span class="st">★ 1,894</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nest_Thermostat" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2025</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Spectre Divide</h3>
+      <div class="maker">killed by Mountaintop Studios</div>
+      <p class="what">Mountaintop closed and took the free-to-play shooter offline</p>
+      <ul class="revs"><li><a href="https://github.com/SpectreRevival/PragmaBackend" rel="noopener">PragmaBackend</a><span class="st">★ 19</span></li></ul>
+      <a class="src" href="https://www.gematsu.com/2025/03/spectre-divide-to-end-service-within-30-days-developer-mountaintop-to-close" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>ICQ</h3>
+      <div class="maker">killed by VK</div>
+      <p class="what">The ICQ messaging service was shut down</p>
+      <ul class="revs"><li><a href="https://github.com/mk6i/open-oscar-server" rel="noopener">Open OSCAR Server (Retro AIM Server)</a><span class="st">★ 1,585</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/ICQ" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>JuiceBox EV chargers (North America)</h3>
+      <div class="maker">killed by Enel X Way</div>
+      <p class="what">Enel X Way shut down in North America and ended JuiceBox support</p>
+      <ul class="revs"><li><a href="https://github.com/JuiceRescue/juicepassproxy" rel="noopener">juicepassproxy</a><span class="st">★ 131</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/EMotorWerks" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Love Live! School Idol Festival 2 Miracle Live!</h3>
+      <div class="maker">killed by KLab / Bushiroad</div>
+      <p class="what">The rhythm game&#x27;s service was shut down</p>
+      <ul class="revs"><li><a href="https://github.com/miraclealive/alive-serv" rel="noopener">alive-serv</a><span class="st">★ 8</span></li><li><a href="https://github.com/ethanaobrien/ew" rel="noopener">ew</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>NieR Reincarnation</h3>
+      <div class="maker">killed by Square Enix</div>
+      <p class="what">Square Enix ended the mobile game&#x27;s worldwide service</p>
+      <ul class="revs"><li><a href="https://github.com/BillyCool/MariesWonderland" rel="noopener">MariesWonderland</a><span class="st">★ 148</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nier_Reincarnation" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nintendo Network (Wii U and 3DS online)</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo shut down online play and SpotPass for Wii U and 3DS</p>
+      <ul class="revs"><li><a href="https://github.com/PretendoNetwork/Inkay" rel="noopener">Inkay</a><span class="st">★ 234</span></li><li><a href="https://github.com/PretendoNetwork/account" rel="noopener">Pretendo account server</a><span class="st">★ 108</span></li><li><a href="https://github.com/PretendoNetwork/nex-go" rel="noopener">nex-go</a><span class="st">★ 102</span></li><li><a href="https://github.com/PretendoNetwork/splatoon" rel="noopener">Pretendo Splatoon</a><span class="st">★ 60</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nintendo_Network" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2024</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Spotify Car Thing</h3>
+      <div class="maker">killed by Spotify</div>
+      <p class="what">Spotify ended support and the device stopped working</p>
+      <ul class="revs"><li><a href="https://github.com/ItsRiprod/DeskThing" rel="noopener">DeskThing</a><span class="st">★ 1,197</span></li><li><a href="https://github.com/usenocturne/nocturne" rel="noopener">nocturne</a><span class="st">★ 412</span></li><li><a href="https://github.com/bishopdynamics/superbird-debian-kiosk" rel="noopener">superbird-debian-kiosk</a><span class="st">★ 270</span></li><li><a href="https://github.com/bishopdynamics/superbird-tool" rel="noopener">superbird-tool</a><span class="st">★ 198</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Car_Thing" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Battlefield: Bad Company 2</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA shut down the game&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/GrzybDev/BFBC2_MasterServer" rel="noopener">BFBC2_MasterServer</a><span class="st">★ 20</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dreadnought</h3>
+      <div class="maker">killed by Six Foot / Yager / Grey Box</div>
+      <p class="what">The online space shooter was put offline</p>
+      <ul class="revs"><li><a href="https://github.com/darkace1998/Dreadnought-Revival-project" rel="noopener">Dreadnought-Revival-project</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dreadnought_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Echo VR</h3>
+      <div class="maker">killed by Ready At Dawn (Meta)</div>
+      <p class="what">Ready At Dawn shut down the free-to-play VR game</p>
+      <ul class="revs"><li><a href="https://github.com/Xenomega/EchoRelay" rel="noopener">EchoRelay</a><span class="st">★ 99</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Lone_Echo" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Google Stadia controller</h3>
+      <div class="maker">killed by Google</div>
+      <p class="what">Google shut down Stadia, the service its Wi-Fi controller was built for</p>
+      <ul class="revs"><li><a href="https://github.com/helloparthshah/StadiaWireless" rel="noopener">StadiaWireless</a><span class="st">★ 454</span></li><li><a href="https://github.com/GaryOderNichts/StadiaController" rel="noopener">StadiaController</a><span class="st">★ 309</span></li><li><a href="https://github.com/71/stadiacontroller" rel="noopener">stadiacontroller</a><span class="st">★ 190</span></li><li><a href="https://github.com/MWisBest/StadiEm" rel="noopener">StadiEm</a><span class="st">★ 57</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Google_Stadia" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Knockout City</h3>
+      <div class="maker">killed by Velan Studios</div>
+      <p class="what">Velan shut down the public servers on all platforms</p>
+      <ul class="revs"><li><a href="https://github.com/kocxyz/Launcher" rel="noopener">Launcher</a><span class="st">★ 62</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Knockout_City" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Lemnis Gate</h3>
+      <div class="maker">killed by Ratloop Games Canada / Frontier Foundry</div>
+      <p class="what">The game&#x27;s multiplayer servers were shut down</p>
+      <ul class="revs"><li><a href="https://github.com/wafflecomposite/LemnisGateSalvageOps" rel="noopener">LemnisGateSalvageOps</a><span class="st">★ 46</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Lemnis_Gate" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Love Live! School Idol Festival</h3>
+      <div class="maker">killed by KLab / Bushiroad</div>
+      <p class="what">The rhythm game&#x27;s service was shut down</p>
+      <ul class="revs"><li><a href="https://github.com/DarkEnergyProcessor/NPPS4" rel="noopener">NPPS4</a><span class="st">★ 122</span></li><li><a href="https://github.com/Salaron/sunlight" rel="noopener">sunlight</a><span class="st">★ 14</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Mirror&#x27;s Edge Catalyst online</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA shut down all servers, which disabled the multiplayer features</p>
+      <ul class="revs"><li><a href="https://github.com/grid-leak/blaze" rel="noopener">blaze</a><span class="st">★ 10</span></li><li><a href="https://github.com/grid-leak/gateway" rel="noopener">gateway</a><span class="st">★ 8</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nintendo eShop for Wii U and 3DS</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo closed the digital game store on Wii U and 3DS</p>
+      <ul class="revs"><li><a href="https://github.com/Aftendo/shopdeck" rel="noopener">shopdeck</a><span class="st">★ 86</span></li><li><a href="https://github.com/PretendoNetwork/Grove" rel="noopener">Pretendo Grove</a><span class="st">★ 30</span></li><li><a href="https://github.com/PretendoNetwork/SOAP" rel="noopener">Pretendo SOAP</a><span class="st">★ 15</span></li><li><a href="https://github.com/PretendoNetwork/hokage" rel="noopener">Pretendo hokage</a><span class="st">★ 12</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nintendo_eShop" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>School of Dragons</h3>
+      <div class="maker">killed by JumpStart Games</div>
+      <p class="what">The How to Train Your Dragon online game closed its servers</p>
+      <ul class="revs"><li><a href="https://github.com/SoDOff-Project/sodoff" rel="noopener">sodoff</a><span class="st">★ 81</span></li></ul>
+      <a class="src" href="https://www.superjumpmagazine.com/the-school-of-dragons-is-leaving-the-internet-drafting-timely/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Snap Camera</h3>
+      <div class="maker">killed by Snap Inc.</div>
+      <p class="what">Snap discontinued its desktop face-filter camera app</p>
+      <ul class="revs"><li><a href="https://github.com/ptrumpis/snap-camera-server" rel="noopener">snap-camera-server</a><span class="st">★ 587</span></li></ul>
+      <a class="src" href="https://techcrunch.com/2023/01/05/snap-is-shutting-down-its-desktop-camera-app-that-allows-users-to-apply-filters-during-video-calls/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>The Cycle: Frontier</h3>
+      <div class="maker">killed by Yager Development</div>
+      <p class="what">Yager sunset the servers and the game is no longer playable</p>
+      <ul class="revs"><li><a href="https://github.com/AeonLucid/Prospect" rel="noopener">Prospect</a><span class="st">★ 98</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/The_Cycle:_Frontier" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2023</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Unreal Tournament (2014 pre-alpha)</h3>
+      <div class="maker">killed by Epic Games</div>
+      <p class="what">Epic shut down the servers of the cancelled game</p>
+      <ul class="revs"><li><a href="https://github.com/timiimit/UT4MasterServer" rel="noopener">UT4MasterServer</a><span class="st">★ 78</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Unreal_Tournament_(cancelled_video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Assassin&#x27;s Creed: Brotherhood multiplayer</h3>
+      <div class="maker">killed by Ubisoft</div>
+      <p class="what">Ubisoft shut down the multiplayer servers</p>
+      <ul class="revs"><li><a href="https://github.com/michal-kapala/acb-rdv" rel="noopener">acb-rdv</a><span class="st">★ 55</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>BlackBerry World (BlackBerry 10)</h3>
+      <div class="maker">killed by BlackBerry</div>
+      <p class="what">BlackBerry shut down its app store with other BlackBerry 10 services</p>
+      <ul class="revs"><li><a href="https://github.com/qnxdev/bbstore" rel="noopener">bbstore</a><span class="st">★ 27</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/BlackBerry_World" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dragalia Lost</h3>
+      <div class="maker">killed by Nintendo / Cygames</div>
+      <p class="what">The mobile game was discontinued</p>
+      <ul class="revs"><li><a href="https://github.com/SapiensAnatis/Dawnshard" rel="noopener">Dawnshard</a><span class="st">★ 152</span></li><li><a href="https://github.com/CerisWhite/Orchis" rel="noopener">Orchis</a><span class="st">★ 25</span></li><li><a href="https://github.com/DragaliaLostRevival/DragaliaBaasServer" rel="noopener">DragaliaBaasServer</a><span class="st">★ 9</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dragalia_Lost" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Driver: San Francisco multiplayer</h3>
+      <div class="maker">killed by Ubisoft</div>
+      <p class="what">Ubisoft shut down the multiplayer functionality</p>
+      <ul class="revs"><li><a href="https://github.com/ReHamster/AlcatrazServer" rel="noopener">AlcatrazServer</a><span class="st">★ 24</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Driver:_San_Francisco" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Fer.al</h3>
+      <div class="maker">killed by WildWorks</div>
+      <p class="what">WildWorks shut down the online fantasy game</p>
+      <ul class="revs"><li><a href="https://github.com/OpenFeral/Centuria" rel="noopener">Centuria</a><span class="st">★ 41</span></li><li><a href="https://github.com/SkySwimmer/EmuFeral" rel="noopener">EmuFeral</a><span class="st">★ 11</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/WildWorks" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Fuser online features</h3>
+      <div class="maker">killed by Harmonix</div>
+      <p class="what">Harmonix shut down the game&#x27;s online features</p>
+      <ul class="revs"><li><a href="https://github.com/InvoxiPlayGames/ReFused" rel="noopener">ReFused</a><span class="st">★ 46</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Fuser_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Halo 3 online (Xbox 360)</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Online services for the Xbox 360 version went offline</p>
+      <ul class="revs"><li><a href="https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0" rel="noopener">Halo_Sunrise_Plugin_2.0</a><span class="st">★ 62</span></li><li><a href="https://github.com/Blam-Network/sunrise_plugin" rel="noopener">sunrise_plugin</a><span class="st">★ 9</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Halo_3" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2022</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Slingbox</h3>
+      <div class="maker">killed by Sling Media</div>
+      <p class="what">Sling closed the Slingbox servers, which made the devices inoperable</p>
+      <ul class="revs"><li><a href="https://github.com/GerryDazoo/Slinger" rel="noopener">Slinger</a><span class="st">★ 202</span></li><li><a href="https://github.com/bmiller-net/Slingbox.Capture" rel="noopener">Slingbox.Capture</a><span class="st">★ 14</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Slingbox" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2021</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>LittleBigPlanet online (PS3 and Vita)</h3>
+      <div class="maker">killed by Sony</div>
+      <p class="what">Sony took the PS3 and Vita LittleBigPlanet servers offline</p>
+      <ul class="revs"><li><a href="https://github.com/LBPUnion/ProjectLighthouse" rel="noopener">ProjectLighthouse</a><span class="st">★ 261</span></li><li><a href="https://github.com/LittleBigRefresh/Refresh" rel="noopener">Refresh</a><span class="st">★ 125</span></li><li><a href="https://github.com/LittleBigRefresh/Refresher" rel="noopener">Refresher</a><span class="st">★ 55</span></li><li><a href="https://github.com/LBPUnion/UnionPatcher" rel="noopener">UnionPatcher</a><span class="st">★ 33</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/LittleBigPlanet" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2021</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Otherland</h3>
+      <div class="maker">killed by Drago Entertainment</div>
+      <p class="what">The MMO&#x27;s servers were shut down permanently</p>
+      <ul class="revs"><li><a href="https://github.com/AnotherlandServer/anotherland" rel="noopener">anotherland</a><span class="st">★ 30</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Otherland" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2021</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>TrackR Bluetooth trackers</h3>
+      <div class="maker">killed by TrackR</div>
+      <p class="what">TrackR shut down its services and removed its apps</p>
+      <ul class="revs"><li><a href="https://github.com/danielweidman/TrackR-Web-Bluetooth-API" rel="noopener">TrackR Web Bluetooth</a><span class="st">★ 12</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/TrackR" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2020</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Monster Hunter Explore</h3>
+      <div class="maker">killed by Capcom</div>
+      <p class="what">Capcom shut down the mobile Monster Hunter game</p>
+      <ul class="revs"><li><a href="https://github.com/Forgotten-MH/apypos-server" rel="noopener">apypos-server</a><span class="st">★ 21</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Monster_Hunter" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2020</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Windows Internet Games (XP, ME and 7)</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft ended online Backgammon, Checkers, Spades and other games</p>
+      <ul class="revs"><li><a href="https://github.com/provigz/ZoneInternetGamesServer" rel="noopener">ZoneInternetGamesServer</a><span class="st">★ 164</span></li></ul>
+      <a class="src" href="https://www.windowscentral.com/internet-games-windows-xp-me-and-7-lose-support-over-next-six-months" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Amazon Dash Button</h3>
+      <div class="maker">killed by Amazon</div>
+      <p class="what">Amazon discontinued its one-press reorder buttons</p>
+      <ul class="revs"><li><a href="https://github.com/hortinstein/node-dash-button" rel="noopener">node-dash-button</a><span class="st">★ 944</span></li><li><a href="https://github.com/Nekmo/amazon-dash" rel="noopener">amazon-dash</a><span class="st">★ 848</span></li><li><a href="https://github.com/ide/dash-button" rel="noopener">dash-button</a><span class="st">★ 132</span></li><li><a href="https://github.com/maximus64/amazon-dash-wiced" rel="noopener">amazon-dash-wiced</a><span class="st">★ 66</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Amazon_Dash" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Anki Vector robot</h3>
+      <div class="maker">killed by Anki</div>
+      <p class="what">Anki went bankrupt and shut down; Vector relies on a cloud server</p>
+      <ul class="revs"><li><a href="https://github.com/kercre123/wire-pod" rel="noopener">wire-pod</a><span class="st">★ 832</span></li><li><a href="https://github.com/os-vector/wire-os" rel="noopener">wire-os</a><span class="st">★ 90</span></li><li><a href="https://github.com/kercre123/WirePod" rel="noopener">WirePod</a><span class="st">★ 88</span></li><li><a href="https://github.com/kercre123/wirepod-vector-python-sdk" rel="noopener">wirepod-vector-python-sdk</a><span class="st">★ 62</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Cozmo" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Battlestar Galactica Online</h3>
+      <div class="maker">killed by Bigpoint</div>
+      <p class="what">Bigpoint permanently shut down the browser MMO</p>
+      <ul class="revs"><li><a href="https://github.com/luigeneric/BSGOCore" rel="noopener">BSGOCore</a><span class="st">★ 12</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Battlestar_Galactica_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Blacklight: Retribution (PC)</h3>
+      <div class="maker">killed by Perfect World Entertainment</div>
+      <p class="what">The PC version of the free-to-play shooter ceased to operate</p>
+      <ul class="revs"><li><a href="https://gitlab.com/blrevive/zcure" rel="noopener">zcure</a><span class="st">★ 0</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Blacklight:_Retribution" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Deepworld</h3>
+      <div class="maker">killed by Bytebin</div>
+      <p class="what">Bytebin shut down the servers of the online crafting game</p>
+      <ul class="revs"><li><a href="https://github.com/kuroppoi/brainwine" rel="noopener">brainwine</a><span class="st">★ 45</span></li><li><a href="https://github.com/kuroppoi/opendw" rel="noopener">opendw (Deepworld)</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://delistedgames.com/deepworld/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dragon&#x27;s Dogma Online</h3>
+      <div class="maker">killed by Capcom</div>
+      <p class="what">Capcom discontinued the Japan-only MMO</p>
+      <ul class="revs"><li><a href="https://github.com/sebastian-heinz/Arrowgene.DragonsDogmaOnline" rel="noopener">Arrowgene.DragonsDogmaOnline</a><span class="st">★ 241</span></li><li><a href="https://github.com/D00MK1D/DDON-Launcher" rel="noopener">DDON-Launcher</a><span class="st">★ 13</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dragon%27s_Dogma_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Jibo social robot</h3>
+      <div class="maker">killed by Jibo Inc.</div>
+      <p class="what">The servers that power the robot&#x27;s voice features were shut down</p>
+      <ul class="revs"><li><a href="https://github.com/Jibo-Revival-Group/JiboAutoMod" rel="noopener">JiboAutoMod</a><span class="st">★ 6</span></li><li><a href="https://github.com/Jibo-Revival-Group/JiboExperiments" rel="noopener">JiboExperiments</a><span class="st">★ 3</span></li><li><a href="https://github.com/transcendentsoftware-jd/JiboExperiments" rel="noopener">JiboExperiments</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://techcrunch.com/2019/03/04/the-lonely-death-of-jibo-the-social-robot/" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Microsoft Band</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft decommissioned the Band&#x27;s companion app</p>
+      <ul class="revs"><li><a href="https://github.com/ksiazkowicz/libmsftband" rel="noopener">libmsftband</a><span class="st">★ 15</span></li><li><a href="https://github.com/MicrosoftBandDev/companion-app" rel="noopener">companion-app</a><span class="st">★ 11</span></li><li><a href="https://github.com/hire-marat/msband-py" rel="noopener">msband-py</a><span class="st">★ 4</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Microsoft_Band" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Monster Hunter Frontier</h3>
+      <div class="maker">killed by Capcom</div>
+      <p class="what">Capcom ended all online services for the MMO</p>
+      <ul class="revs"><li><a href="https://github.com/Mezeporta/Erupe" rel="noopener">Erupe</a><span class="st">★ 274</span></li><li><a href="https://github.com/sebastian-heinz/mhf-server" rel="noopener">mhf-server</a><span class="st">★ 67</span></li><li><a href="https://github.com/rockisch/mhf-launcher" rel="noopener">mhf-launcher</a><span class="st">★ 26</span></li><li><a href="https://github.com/rockisch/mhf-iel" rel="noopener">mhf-iel</a><span class="st">★ 17</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Monster_Hunter_Frontier_Z" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>OUYA</h3>
+      <div class="maker">killed by Razer</div>
+      <p class="what">Razer shut down the OUYA store, services and accounts</p>
+      <ul class="revs"><li><a href="https://github.com/cweiske/stouyapi" rel="noopener">stouyapi</a><span class="st">★ 35</span></li><li><a href="https://github.com/cweiske/louyapi" rel="noopener">louyapi</a><span class="st">★ 4</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Ouya" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Tanki X</h3>
+      <div class="maker">killed by AlternativaPlatform</div>
+      <p class="what">The online tank shooter was shut down</p>
+      <ul class="revs"><li><a href="https://github.com/Assasans/TXServer-Public" rel="noopener">TXServer-Public</a><span class="st">★ 14</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Tanki_X" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>The Last of Us multiplayer (PS3)</h3>
+      <div class="maker">killed by Sony / Naughty Dog</div>
+      <p class="what">The PS3 version&#x27;s multiplayer servers were shut down</p>
+      <ul class="revs"><li><a href="https://github.com/comradesean/tlou-factions-server" rel="noopener">tlou-factions-server</a><span class="st">★ 4</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Warhawk (PS3)</h3>
+      <div class="maker">killed by Sony</div>
+      <p class="what">Sony shut down the game&#x27;s online servers</p>
+      <ul class="revs"><li><a href="https://github.com/MajorTomSec/WaREhawkPS3" rel="noopener">WaREhawkPS3</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Warhawk_(2007_video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2019</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Wii Shop Channel</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo closed the Wii&#x27;s digital game store</p>
+      <ul class="revs"><li><a href="https://github.com/WiiMart/WiiMart" rel="noopener">WiiMart</a><span class="st">★ 27</span></li><li><a href="https://github.com/OpenShopChannel/WSC-Patcher" rel="noopener">WSC-Patcher</a><span class="st">★ 26</span></li><li><a href="https://github.com/OpenShopChannel/WSC-Web" rel="noopener">WSC-Web</a><span class="st">★ 17</span></li><li><a href="https://github.com/OpenShopChannel/WiiSOAP" rel="noopener">WiiSOAP</a><span class="st">★ 11</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Wii_Shop_Channel" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Club Penguin Island</h3>
+      <div class="maker">killed by Disney</div>
+      <p class="what">Disney shut down the mobile successor to Club Penguin</p>
+      <ul class="revs"><li><a href="https://github.com/legitatx/cpi-web-service" rel="noopener">cpi-web-service</a><span class="st">★ 15</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Club_Penguin_Island" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Demon&#x27;s Souls online</h3>
+      <div class="maker">killed by Sony / FromSoftware</div>
+      <p class="what">The PS3 game&#x27;s online servers were discontinued worldwide</p>
+      <ul class="revs"><li><a href="https://github.com/ymgve/desse" rel="noopener">desse</a><span class="st">★ 153</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Demon%27s_Souls" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Gran Turismo 6 online</h3>
+      <div class="maker">killed by Sony</div>
+      <p class="what">Sony shut down the game&#x27;s online servers</p>
+      <ul class="revs"><li><a href="https://github.com/Nenkai/Grimoire" rel="noopener">Grimoire</a><span class="st">★ 27</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Gran_Turismo_6" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Hitman: Absolution Contracts mode</h3>
+      <div class="maker">killed by IO Interactive</div>
+      <p class="what">The online servers for Contracts mode were shut down</p>
+      <ul class="revs"><li><a href="https://github.com/LennardF1989/Hitman-5-Server" rel="noopener">Hitman-5-Server</a><span class="st">★ 71</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Hitman:_Absolution" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nintendo Zone (3DS)</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo discontinued its hotspot content service for the 3DS</p>
+      <ul class="revs"><li><a href="https://github.com/Aftendo/SatellaZone" rel="noopener">SatellaZone</a><span class="st">★ 156</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nintendo_Zone" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Pebble smartwatch</h3>
+      <div class="maker">killed by Fitbit</div>
+      <p class="what">Fitbit ended the online services of Pebble watches</p>
+      <ul class="revs"><li><a href="https://github.com/pebble-dev/mobile-app" rel="noopener">mobile-app</a><span class="st">★ 664</span></li><li><a href="https://github.com/pebble-dev/RebbleOS" rel="noopener">RebbleOS</a><span class="st">★ 591</span></li><li><a href="https://github.com/pebble-dev/rebble-store" rel="noopener">Rebble Store</a><span class="st">★ 294</span></li><li><a href="https://github.com/pebble-dev/rebblestore-api" rel="noopener">rebblestore-api</a><span class="st">★ 39</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Pebble_(watch)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Scrolls (Caller&#x27;s Bane)</h3>
+      <div class="maker">killed by Mojang</div>
+      <p class="what">Mojang shut down the card game&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/Rawaho/RelentlessZero" rel="noopener">RelentlessZero</a><span class="st">★ 17</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Caller%27s_Bane" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>WildStar</h3>
+      <div class="maker">killed by NCSoft</div>
+      <p class="what">NCSoft closed Carbine Studios and shut down the MMO</p>
+      <ul class="revs"><li><a href="https://github.com/NexusForever/NexusForever" rel="noopener">NexusForever</a><span class="st">★ 680</span></li><li><a href="https://github.com/Bezgelor/bezgelor" rel="noopener">bezgelor</a><span class="st">★ 8</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/WildStar_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2018</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Yahoo Messenger</h3>
+      <div class="maker">killed by Yahoo</div>
+      <p class="what">Yahoo shut down its messaging service</p>
+      <ul class="revs"><li><a href="https://github.com/r0neko/yumeko" rel="noopener">Yumeko</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Yahoo!_Messenger" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>AOL Instant Messenger (AIM)</h3>
+      <div class="maker">killed by AOL</div>
+      <p class="what">AOL discontinued the AIM service</p>
+      <ul class="revs"><li><a href="https://github.com/mk6i/open-oscar-server" rel="noopener">Open OSCAR Server (Retro AIM Server)</a><span class="st">★ 1,585</span></li><li><a href="https://github.com/ox/aim-oscar-server" rel="noopener">aim-oscar-server</a><span class="st">★ 85</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/AIM_(software)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Asheron&#x27;s Call</h3>
+      <div class="maker">killed by Turbine / Warner Bros.</div>
+      <p class="what">The MMO closed all its servers</p>
+      <ul class="revs"><li><a href="https://github.com/ACEmulator/ACE" rel="noopener">ACE</a><span class="st">★ 345</span></li><li><a href="https://github.com/bDekaru/ClassicDereth" rel="noopener">ClassicDereth</a><span class="st">★ 21</span></li><li><a href="https://github.com/derandark/PhatAC" rel="noopener">PhatAC</a><span class="st">★ 12</span></li><li><a href="https://github.com/deregtd/ACServer" rel="noopener">ACServer</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Asheron%27s_Call" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Club Penguin</h3>
+      <div class="maker">killed by Disney</div>
+      <p class="what">Disney shut down the Club Penguin servers</p>
+      <ul class="revs"><li><a href="https://github.com/solero/houdini" rel="noopener">Houdini</a><span class="st">★ 425</span></li><li><a href="https://github.com/nhaar/Waddle-Forever" rel="noopener">Club Penguin (Waddle Forever)</a><span class="st">★ 191</span></li><li><a href="https://github.com/wizguin/yukon" rel="noopener">Yukon</a><span class="st">★ 130</span></li><li><a href="https://github.com/wizguin/yukon-server" rel="noopener">Yukon server</a><span class="st">★ 52</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Club_Penguin" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Demae Channel</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">The Japanese Wii food-delivery channel was discontinued</p>
+      <ul class="revs"><li><a href="https://github.com/WiiLink24/food-server" rel="noopener">WiiLink food-server</a><span class="st">★ 44</span></li><li><a href="https://github.com/WiiLink24/Demae-Deliveroo" rel="noopener">Demae-Deliveroo</a><span class="st">★ 11</span></li><li><a href="https://github.com/WiiLink24/Demae-JustEat" rel="noopener">Demae-JustEat</a><span class="st">★ 8</span></li><li><a href="https://github.com/WiiLink24/Demae-Dominos" rel="noopener">Demae-Dominos</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Demae_Channel" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Hello Sense sleep tracker</h3>
+      <div class="maker">killed by Hello Inc.</div>
+      <p class="what">Hello, the maker of the Sense sleep tracker, shut down</p>
+      <ul class="revs"><li><a href="https://github.com/owarz/sense" rel="noopener">sense</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Hello_(company)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Marvel Heroes</h3>
+      <div class="maker">killed by Gazillion Entertainment</div>
+      <p class="what">Disney ended the license and the game went offline</p>
+      <ul class="revs"><li><a href="https://github.com/Crypto137/MHServerEmu" rel="noopener">MHServerEmu</a><span class="st">★ 566</span></li><li><a href="https://github.com/Crypto137/Bifrost" rel="noopener">Bifrost</a><span class="st">★ 34</span></li><li><a href="https://github.com/Crypto137/MHServerEmu2013" rel="noopener">MHServerEmu2013</a><span class="st">★ 12</span></li><li><a href="https://github.com/Crypto137/MHPatcher" rel="noopener">MHPatcher</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Marvel_Heroes_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Miiverse</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo discontinued its social network for Wii U and 3DS</p>
+      <ul class="revs"><li><a href="https://github.com/rverseTeam/rverse2" rel="noopener">rverse2</a><span class="st">★ 102</span></li><li><a href="https://github.com/PretendoNetwork/miiverse-api" rel="noopener">Pretendo Miiverse API</a><span class="st">★ 76</span></li><li><a href="https://github.com/PretendoNetwork/juxtaposition" rel="noopener">Juxtaposition</a><span class="st">★ 73</span></li><li><a href="https://github.com/PretendoNetwork/juxtaposition-ui" rel="noopener">Juxtaposition UI</a><span class="st">★ 67</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Miiverse" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nintendo TVii</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo discontinued the Wii U&#x27;s TV guide and remote service</p>
+      <ul class="revs"><li><a href="https://github.com/Project-Rose/tvii-v2" rel="noopener">tvii-v2</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nintendo_Network" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2017</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Vine</h3>
+      <div class="maker">killed by Twitter</div>
+      <p class="what">Twitter shut down the short-video app</p>
+      <ul class="revs"><li><a href="https://github.com/thetaplace/bush" rel="noopener">bush</a><span class="st">★ 4</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Vine_(service)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2016</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Darkspore</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA shut down the servers, which left the always-online game unplayable</p>
+      <ul class="revs"><li><a href="https://github.com/Resurrection-Capsule/Resurrection-Capsule" rel="noopener">Resurrection-Capsule</a><span class="st">★ 347</span></li><li><a href="https://github.com/dalkon/darkspore_server" rel="noopener">darkspore_server</a><span class="st">★ 8</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Darkspore" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2016</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Eye-Fi Wi-Fi SD cards (X2 and older)</h3>
+      <div class="maker">killed by Eye-Fi</div>
+      <p class="what">Eye-Fi ended software support for its older Wi-Fi SD cards</p>
+      <ul class="revs"><li><a href="https://github.com/tachang/EyeFiServer" rel="noopener">EyeFiServer</a><span class="st">★ 190</span></li><li><a href="https://github.com/dgrant/eyefiserver2" rel="noopener">eyefiserver2</a><span class="st">★ 150</span></li><li><a href="https://github.com/kristofg/rifec" rel="noopener">rifec</a><span class="st">★ 55</span></li><li><a href="https://github.com/kenkeiter/ryfi" rel="noopener">ryfi</a><span class="st">★ 40</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Eye-Fi" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2016</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>PlanetSide</h3>
+      <div class="maker">killed by Daybreak Game Company</div>
+      <p class="what">The original PlanetSide&#x27;s servers were permanently closed</p>
+      <ul class="revs"><li><a href="https://github.com/psforever/psemu" rel="noopener">psemu</a><span class="st">★ 9</span></li><li><a href="https://github.com/psforever/GameLauncher" rel="noopener">GameLauncher</a><span class="st">★ 6</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/PlanetSide" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2016</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Sonic Runners</h3>
+      <div class="maker">killed by Sega</div>
+      <p class="what">Sega shut down the mobile game&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/fluofoxxo/outrun" rel="noopener">OUTRUN</a><span class="st">★ 101</span></li><li><a href="https://github.com/Ramen2X/spikewall" rel="noopener">spikewall</a><span class="st">★ 17</span></li><li><a href="https://github.com/RunnersRevival/Rerun-server" rel="noopener">Rerun-server</a><span class="st">★ 11</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Sonic_Runners" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2016</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>UberStrike</h3>
+      <div class="maker">killed by Cmune</div>
+      <p class="what">Cmune took the online shooter offline</p>
+      <ul class="revs"><li><a href="https://github.com/FICTURE7/uberstrok" rel="noopener">uberstrok</a><span class="st">★ 13</span></li><li><a href="https://github.com/festivaldev/UberStrike-Reverse-Engineered" rel="noopener">UberStrike-Reverse-Engineered</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Cmune" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Battlefield Heroes</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA took the free-to-play shooter offline</p>
+      <ul class="revs"><li><a href="https://github.com/g91/BFHeroes_MasterServer" rel="noopener">BFHeroes_MasterServer</a><span class="st">★ 9</span></li><li><a href="https://github.com/abarichello/bfheroesFesl" rel="noopener">bfheroesFesl</a><span class="st">★ 5</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Battlefield_Heroes" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>CityVille</h3>
+      <div class="maker">killed by Zynga</div>
+      <p class="what">Zynga shut down the Facebook city-building game</p>
+      <ul class="revs"><li><a href="https://github.com/besuper/CityVilleDotnet" rel="noopener">CityVilleDotnet</a><span class="st">★ 25</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/CityVille" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Karotz</h3>
+      <div class="maker">killed by Aldebaran Robotics</div>
+      <p class="what">Aldebaran stopped the servers of the Nabaztag successor</p>
+      <ul class="revs"><li><a href="https://github.com/jcheype/karotz-vm" rel="noopener">karotz-vm</a><span class="st">★ 19</span></li><li><a href="https://github.com/rofra/karotz-openkarotz-firmware" rel="noopener">karotz-openkarotz-firmware</a><span class="st">★ 15</span></li><li><a href="https://github.com/slash4you/karotz2mqtt" rel="noopener">karotz2mqtt</a><span class="st">★ 12</span></li><li><a href="https://github.com/FreeRabbits/KarotzFiles" rel="noopener">KarotzFiles</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nabaztag" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Need for Speed: World</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA took the free-to-play online racing game offline</p>
+      <ul class="revs"><li><a href="https://github.com/SoapboxRaceWorld/soapbox-race-core" rel="noopener">soapbox-race-core</a><span class="st">★ 90</span></li><li><a href="https://github.com/Lawin0129/NFS-World-Offline" rel="noopener">NFS-World-Offline</a><span class="st">★ 52</span></li><li><a href="https://github.com/1DavidCarbon/Soapbox_Launcher_Installer" rel="noopener">Soapbox_Launcher_Installer</a><span class="st">★ 14</span></li><li><a href="https://github.com/michelinus/nfsw-server" rel="noopener">nfsw-server</a><span class="st">★ 12</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Need_for_Speed:_World" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Palm/HP webOS App Catalog</h3>
+      <div class="maker">killed by HP</div>
+      <p class="what">HP permanently shut down the App Catalog servers for webOS devices</p>
+      <ul class="revs"><li><a href="https://github.com/webos-internals/meta-doctor" rel="noopener">meta-doctor</a><span class="st">★ 35</span></li><li><a href="https://github.com/webOSArchive/webos-catalog-backend" rel="noopener">webOS App Catalog backend</a><span class="st">★ 3</span></li><li><a href="https://github.com/webOSArchive/sharing-service" rel="noopener">webOS sharing-service</a><span class="st">★ 2</span></li><li><a href="https://github.com/webOSArchive/webos-catalog-service" rel="noopener">webOS App Museum service</a><span class="st">★ 2</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/WebOS" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>PlayStation Home</h3>
+      <div class="maker">killed by Sony</div>
+      <p class="what">Sony closed its PS3 social virtual world</p>
+      <ul class="revs"><li><a href="https://github.com/GitHubProUser67/PSHome-MultiServer" rel="noopener">MultiServer</a><span class="st">★ 61</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/PlayStation_Home" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Xfire</h3>
+      <div class="maker">killed by Xfire Inc.</div>
+      <p class="what">Xfire shut down its gamer social network and messaging</p>
+      <ul class="revs"><li><a href="https://github.com/darcymiranda/PFire" rel="noopener">PFire</a><span class="st">★ 59</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Xfire" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2015</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Zune</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft retired the Zune music download and streaming service</p>
+      <ul class="revs"><li><a href="https://github.com/ZuneDev/ZuneNetApi" rel="noopener">ZuneNetApi</a><span class="st">★ 70</span></li><li><a href="https://github.com/simulacra10/zunefirmware-upgrade" rel="noopener">zunefirmware-upgrade</a><span class="st">★ 22</span></li><li><a href="https://github.com/ZuneDev/PyZuneCatalogServer" rel="noopener">PyZuneCatalogServer</a><span class="st">★ 12</span></li><li><a href="https://github.com/ZuneDev/ZuneNet" rel="noopener">ZuneNet</a><span class="st">★ 11</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Zune" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Age of Empires Online</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft shut down the online strategy game</p>
+      <ul class="revs"><li><a href="https://github.com/firesinging/server" rel="noopener">server</a><span class="st">★ 13</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Age_of_Empires_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Clone Wars Adventures</h3>
+      <div class="maker">killed by Sony Online Entertainment</div>
+      <p class="what">SOE shut down the Star Wars kids&#x27; MMO</p>
+      <ul class="revs"><li><a href="https://github.com/soir20/oxide" rel="noopener">oxide</a><span class="st">★ 23</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Clone_Wars_Adventures" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Free Realms</h3>
+      <div class="maker">killed by Sony Online Entertainment</div>
+      <p class="what">SOE shut down the free-to-play MMO</p>
+      <ul class="revs"><li><a href="https://github.com/Open-Source-Free-Realms/Sanctuary" rel="noopener">Sanctuary</a><span class="st">★ 33</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Free_Realms" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>GameSpy online services</h3>
+      <div class="maker">killed by Glu Mobile</div>
+      <p class="what">Glu shut down the GameSpy servers that many PC and console games used</p>
+      <ul class="revs"><li><a href="https://github.com/openspy/openspy-core" rel="noopener">OpenSpy Core</a><span class="st">★ 192</span></li><li><a href="https://github.com/GameProgressive/UniSpyServer" rel="noopener">UniSpyServer</a><span class="st">★ 156</span></li><li><a href="https://github.com/anzz1/openspy-client" rel="noopener">openspy-client</a><span class="st">★ 98</span></li><li><a href="https://github.com/realitymod/PRMasterServer" rel="noopener">PRMasterServer</a><span class="st">★ 47</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/GameSpy" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Monkey Quest</h3>
+      <div class="maker">killed by Nickelodeon</div>
+      <p class="what">Nickelodeon permanently shut down the kids&#x27; MMO</p>
+      <ul class="revs"><li><a href="https://github.com/FeroxFoxxo/MQReawakened" rel="noopener">MQReawakened</a><span class="st">★ 95</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Monkey_Quest" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nintendo Wi-Fi Connection (DS and Wii online)</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo shut down online play for DS and Wii games</p>
+      <ul class="revs"><li><a href="https://github.com/barronwaffles/dwc_network_server_emulator" rel="noopener">DWC Network Server Emulator</a><span class="st">★ 1,184</span></li><li><a href="https://github.com/mm201/pkmn-classic-framework" rel="noopener">pkmn-classic-framework</a><span class="st">★ 292</span></li><li><a href="https://github.com/WiiLink24/wfc-server" rel="noopener">WiiLink WFC Server</a><span class="st">★ 129</span></li><li><a href="https://github.com/KcrPL/WiiWare-Patcher" rel="noopener">WiiWare-Patcher</a><span class="st">★ 61</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nintendo_Wi-Fi_Connection" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2014</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Pokémon Global Link for Black and White (Dream World, Game Sync)</h3>
+      <div class="maker">killed by The Pokémon Company</div>
+      <p class="what">The online Dream World and Game Sync service for Gen V games closed</p>
+      <ul class="revs"><li><a href="https://github.com/kuroppoi/entralinked" rel="noopener">entralinked</a><span class="st">★ 322</span></li><li><a href="https://github.com/NDSLink/dream-server" rel="noopener">dream-server</a><span class="st">★ 54</span></li><li><a href="https://github.com/Shade-of-Gr3y/Dream-World-Revival" rel="noopener">Dream-World-Revival</a><span class="st">★ 39</span></li><li><a href="https://github.com/shutterbug2000/dreamworld-reawakened" rel="noopener">dreamworld-reawakened</a><span class="st">★ 30</span></li></ul>
+      <a class="src" href="https://pocketmonsters.net/content/PR_Announcing_the_closure_of_the_Pok%C3%A9mon_Global_Link_BW_B2W2" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dragon Ball Online</h3>
+      <div class="maker">killed by NTL</div>
+      <p class="what">The MMO&#x27;s Korean, Hong Kong and Taiwan servers shut down</p>
+      <ul class="revs"><li><a href="https://github.com/dboglobal/DBOGLOBAL" rel="noopener">DBOGLOBAL</a><span class="st">★ 71</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dragon_Ball_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Flipnote Hatena</h3>
+      <div class="maker">killed by Hatena</div>
+      <p class="what">Hatena retired the online gallery for Flipnote Studio animations on DSi</p>
+      <ul class="revs"><li><a href="https://github.com/pbsds/hatena-server" rel="noopener">hatena-server</a><span class="st">★ 60</span></li><li><a href="https://github.com/nswarr/flipnote-server" rel="noopener">flipnote-server</a><span class="st">★ 12</span></li><li><a href="https://github.com/Aftendo/Afternote" rel="noopener">Afternote</a><span class="st">★ 11</span></li><li><a href="https://github.com/Gotena/Gotena" rel="noopener">Gotena</a><span class="st">★ 8</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Flipnote_Studio" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>FusionFall</h3>
+      <div class="maker">killed by Cartoon Network</div>
+      <p class="what">Cartoon Network shut down the MMO&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/OpenFusionProject/OpenFusion" rel="noopener">OpenFusion</a><span class="st">★ 420</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/FusionFall" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Games for Windows – Live</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft discontinued the GFWL Marketplace for PC games</p>
+      <ul class="revs"><li><a href="https://github.com/InvoxiPlayGames/GfWLUtility" rel="noopener">GfWLUtility</a><span class="st">★ 32</span></li><li><a href="https://github.com/zzVertigo/GFWL-Server" rel="noopener">GFWL-Server</a><span class="st">★ 9</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Games_for_Windows_%E2%80%93_Live" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Halo 2 for Windows Vista online</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">The PC multiplayer servers were taken offline</p>
+      <ul class="revs"><li><a href="https://github.com/pnill/cartographer" rel="noopener">Project Cartographer</a><span class="st">★ 196</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Halo_2" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Monster Hunter Tri online (Wii)</h3>
+      <div class="maker">killed by Capcom</div>
+      <p class="what">Capcom shut down the online servers of the Wii game</p>
+      <ul class="revs"><li><a href="https://github.com/sepalani/MH3SP" rel="noopener">MH3SP</a><span class="st">★ 231</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Monster_Hunter_Tri" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>MSN Messenger / Windows Live Messenger</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft discontinued the messenger in favor of Skype</p>
+      <ul class="revs"><li><a href="https://github.com/RaySollium99/MSNPSharp" rel="noopener">MSNPSharp</a><span class="st">★ 9</span></li><li><a href="https://github.com/tutmonde/msnclient" rel="noopener">msnclient</a><span class="st">★ 6</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/MSN_Messenger" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Pirates of the Caribbean Online</h3>
+      <div class="maker">killed by Disney</div>
+      <p class="what">Disney closed the MMO</p>
+      <ul class="revs"><li><a href="https://github.com/PiratesOnlineRewritten/Pirates-Online-Rewritten" rel="noopener">Pirates-Online-Rewritten</a><span class="st">★ 96</span></li><li><a href="https://github.com/ksmit799/POTCO-PS" rel="noopener">POTCO-PS</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Toontown Online</h3>
+      <div class="maker">killed by Disney</div>
+      <p class="what">Disney permanently shut down the MMO after ten years</p>
+      <ul class="revs"><li><a href="https://github.com/open-toontown/open-toontown" rel="noopener">Open Toontown</a><span class="st">★ 206</span></li><li><a href="https://github.com/open-toontown/toontown-online-2013-decompiled" rel="noopener">Disney&#x27;s Toontown Online decomp</a><span class="st">★ 19</span></li><li><a href="https://github.com/toontown-classic/toontown-otp" rel="noopener">toontown-otp</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Toontown_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Warhammer Online: Age of Reckoning</h3>
+      <div class="maker">killed by EA Mythic</div>
+      <p class="what">The MMO shut down when the Games Workshop license ended</p>
+      <ul class="revs"><li><a href="https://github.com/WarEmu/WarEmu" rel="noopener">WarEmu</a><span class="st">★ 129</span></li><li><a href="https://github.com/Shmerrick/ProjectWAR" rel="noopener">ProjectWAR</a><span class="st">★ 39</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>WebTV / MSN TV</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">The WebTV/MSN TV set-top box service fully closed</p>
+      <ul class="revs"><li><a href="https://github.com/zefie/zefie_wtvp_minisrv" rel="noopener">minisrv</a><span class="st">★ 57</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/MSN_TV" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2013</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>WiiConnect24</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo shut down the Wii&#x27;s mail, news, forecast and voting channels</p>
+      <ul class="revs"><li><a href="https://github.com/WiiLink24/WiiLink24-Patcher" rel="noopener">WiiLink Patcher</a><span class="st">★ 218</span></li><li><a href="https://github.com/RiiConnect24/File-Maker" rel="noopener">RiiConnect24 File-Maker</a><span class="st">★ 71</span></li><li><a href="https://github.com/RiiConnect24/Mail-Go" rel="noopener">RiiConnect24 Mail-Go</a><span class="st">★ 41</span></li><li><a href="https://github.com/WiiLink24/ForecastChannel" rel="noopener">WiiLink ForecastChannel</a><span class="st">★ 32</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/WiiConnect24" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>EverQuest Online Adventures</h3>
+      <div class="maker">killed by Sony Online Entertainment</div>
+      <p class="what">SOE shut down the PS2 MMO after nine years</p>
+      <ul class="revs"><li><a href="https://github.com/EQOAReturnHome/EQOAGameServer" rel="noopener">EQOAGameServer</a><span class="st">★ 33</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/EverQuest_Online_Adventures" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Final Fantasy XIV (version 1.0)</h3>
+      <div class="maker">killed by Square Enix</div>
+      <p class="what">Square Enix closed the original release before relaunching the game</p>
+      <ul class="revs"><li><a href="https://github.com/jpd002/SeventhUmbral" rel="noopener">SeventhUmbral</a><span class="st">★ 112</span></li><li><a href="https://github.com/swstegall/Garlemald-Server" rel="noopener">Garlemald-Server</a><span class="st">★ 17</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Glitch</h3>
+      <div class="maker">killed by Tiny Speck</div>
+      <p class="what">Tiny Speck shut down the browser MMO</p>
+      <ul class="revs"><li><a href="https://github.com/ElevenGiants/eleven-server" rel="noopener">Eleven Giants server</a><span class="st">★ 48</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Glitch_(video_game)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>GPGnet (Supreme Commander online)</h3>
+      <div class="maker">killed by Gas Powered Games</div>
+      <p class="what">The multiplayer backend of Supreme Commander: Forged Alliance shut down</p>
+      <ul class="revs"><li><a href="https://github.com/FAForever/downlords-faf-client" rel="noopener">Downlord&#x27;s FAF client</a><span class="st">★ 218</span></li><li><a href="https://github.com/FAForever/client" rel="noopener">client</a><span class="st">★ 78</span></li><li><a href="https://github.com/FAForever/server" rel="noopener">FAF lobby server</a><span class="st">★ 72</span></li><li><a href="https://github.com/FAForever/faf-java-api" rel="noopener">FAF Java API</a><span class="st">★ 31</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Supreme_Commander:_Forged_Alliance" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>LEGO Universe</h3>
+      <div class="maker">killed by The LEGO Group</div>
+      <p class="what">LEGO shut down the MMO&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/DarkflameUniverse/DarkflameServer" rel="noopener">Darkflame Server</a><span class="st">★ 761</span></li><li><a href="https://github.com/UchuServer/Uchu" rel="noopener">UchuServer</a><span class="st">★ 93</span></li><li><a href="https://github.com/DarkflameUniverse/NexusDashboard" rel="noopener">NexusDashboard</a><span class="st">★ 50</span></li><li><a href="https://github.com/Wesley-DeMontigny/WLUS" rel="noopener">WLUS</a><span class="st">★ 22</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Lego_Universe" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Metal Gear Online (PS3)</h3>
+      <div class="maker">killed by Konami</div>
+      <p class="what">Konami shut down the North American and European servers</p>
+      <ul class="revs"><li><a href="https://github.com/GHzGangster/Nomad" rel="noopener">Nomad</a><span class="st">★ 32</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Metal_Gear_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Minitel</h3>
+      <div class="maker">killed by France Télécom</div>
+      <p class="what">France Télécom discontinued the Minitel videotex service</p>
+      <ul class="revs"><li><a href="https://github.com/cquest/pynitel" rel="noopener">pynitel</a><span class="st">★ 78</span></li><li><a href="https://github.com/proquar/asterisk-Softmodem" rel="noopener">asterisk-Softmodem</a><span class="st">★ 73</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Minitel" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Ratchet &amp; Clank: Up Your Arsenal and Deadlocked online (PS2)</h3>
+      <div class="maker">killed by Sony</div>
+      <p class="what">Sony terminated the PS2 online servers of both games</p>
+      <ul class="revs"><li><a href="https://github.com/hashsploit/clank" rel="noopener">Clank</a><span class="st">★ 60</span></li><li><a href="https://github.com/Horizon-Private-Server/horizon-server" rel="noopener">Horizon</a><span class="st">★ 42</span></li><li><a href="https://github.com/jtjanecek/robo" rel="noopener">Robo</a><span class="st">★ 8</span></li><li><a href="https://github.com/Horizon-Private-Server/horizon-uya-patch" rel="noopener">horizon-uya-patch</a><span class="st">★ 5</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Ratchet:_Deadlocked" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2012</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Wii no Ma (Wii Room)</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo shut down the Japanese Wii video-on-demand channel</p>
+      <ul class="revs"><li><a href="https://github.com/WiiLink24/room-server" rel="noopener">WiiLink room-server</a><span class="st">★ 38</span></li><li><a href="https://github.com/WiiLink24/wii-no-ma-patches" rel="noopener">Wii no Ma patches</a><span class="st">★ 4</span></li><li><a href="https://github.com/WiiLink24/Wii-no-Ma-Patcher" rel="noopener">Wii-no-Ma-Patcher</a><span class="st">★ 2</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Wii_no_Ma" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="device">
+      <div class="life"><span class="d">† 2011</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Nabaztag</h3>
+      <div class="maker">killed by Violet / Mindscape</div>
+      <p class="what">Mindscape discontinued the web service the Wi-Fi rabbits depend on</p>
+      <ul class="revs"><li><a href="https://github.com/nabaztag2018/pynab" rel="noopener">pynab</a><span class="st">★ 174</span></li><li><a href="https://github.com/OpenJabNab/OpenJabNab" rel="noopener">OpenJabNab</a><span class="st">★ 127</span></li><li><a href="https://github.com/andreax79/ServerlessNabaztag" rel="noopener">ServerlessNabaztag</a><span class="st">★ 98</span></li><li><a href="https://github.com/jcheype/NabAlive" rel="noopener">NabAlive</a><span class="st">★ 63</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Nabaztag" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2011</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Star Wars Galaxies</h3>
+      <div class="maker">killed by Sony Online Entertainment / LucasArts</div>
+      <p class="what">SOE and LucasArts shut down the MMO&#x27;s servers</p>
+      <ul class="revs"><li><a href="https://github.com/swgemu/Core3" rel="noopener">SWGEmu Core3</a><span class="st">★ 190</span></li><li><a href="https://github.com/swgemu/engine3" rel="noopener">engine3</a><span class="st">★ 66</span></li><li><a href="https://github.com/ProjectSWGCore/Holocore" rel="noopener">Holocore</a><span class="st">★ 52</span></li><li><a href="https://github.com/opengalaxies/OpenGalaxies" rel="noopener">OpenGalaxies</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Star_Wars_Galaxies" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2011</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>U.B. Funkeys</h3>
+      <div class="maker">killed by Mattel</div>
+      <p class="what">Mattel ended the online services of the toy-linked game</p>
+      <ul class="revs"><li><a href="https://github.com/kleineluka/terra" rel="noopener">terra</a><span class="st">★ 9</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/U.B._Funkeys" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2010</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Chromehounds</h3>
+      <div class="maker">killed by Sega / FromSoftware</div>
+      <p class="what">Sega shut down the Xbox 360 game&#x27;s online servers</p>
+      <ul class="revs"><li><a href="https://github.com/OpenCombas/open-combas-server-js" rel="noopener">open-combas-server-js</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Chromehounds" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2010</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Phantasy Star Online</h3>
+      <div class="maker">killed by Sega</div>
+      <p class="what">Sega shut down the last official servers of the online RPG</p>
+      <ul class="revs"><li><a href="https://github.com/fuzziqersoftware/newserv" rel="noopener">newserv</a><span class="st">★ 282</span></li><li><a href="https://github.com/dcrodman/archon" rel="noopener">archon</a><span class="st">★ 53</span></li><li><a href="https://github.com/Sylverant/ship_server" rel="noopener">Sylverant ship_server</a><span class="st">★ 26</span></li><li><a href="https://github.com/Solybum/Aselia" rel="noopener">Aselia</a><span class="st">★ 16</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Phantasy_Star_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2010</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Xbox Live for the original Xbox</h3>
+      <div class="maker">killed by Microsoft</div>
+      <p class="what">Microsoft ended Xbox Live for original Xbox games</p>
+      <ul class="revs"><li><a href="https://github.com/zzVertigo/XboxLive.Server" rel="noopener">XboxLive.Server</a><span class="st">★ 44</span></li><li><a href="https://github.com/insignia-live/xblunblock" rel="noopener">xblunblock</a><span class="st">★ 34</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Xbox_network" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2009</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>The Matrix Online</h3>
+      <div class="maker">killed by Sony Online Entertainment</div>
+      <p class="what">SOE shut down the MMO</p>
+      <ul class="revs"><li><a href="https://github.com/rajkosto/mxoemu" rel="noopener">mxoemu</a><span class="st">★ 64</span></li><li><a href="https://github.com/hdneo/mxo-hd" rel="noopener">Hardline Dreams</a><span class="st">★ 53</span></li><li><a href="https://github.com/TasteeWheat/mxoemu1" rel="noopener">mxoemu1</a><span class="st">★ 7</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/The_Matrix_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2008</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>The Sims Bustin&#x27; Out online (PS2)</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA shut down the PS2 game&#x27;s online server</p>
+      <ul class="revs"><li><a href="https://github.com/riperiperi/Breakin-In" rel="noopener">Breakin-In</a><span class="st">★ 36</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/The_Sims_Bustin%27_Out" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2008</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>The Sims Online / EA-Land</h3>
+      <div class="maker">killed by Electronic Arts</div>
+      <p class="what">EA closed the online Sims game</p>
+      <ul class="revs"><li><a href="https://github.com/riperiperi/FreeSO" rel="noopener">FreeSO</a><span class="st">★ 987</span></li><li><a href="https://github.com/Afr0Games/Project-Dollhouse" rel="noopener">Project Dollhouse</a><span class="st">★ 124</span></li><li><a href="https://github.com/JDrocks450/nio2so" rel="noopener">nio2so</a><span class="st">★ 19</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/The_Sims_Online" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2007</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Dreamcast online services</h3>
+      <div class="maker">killed by Sega</div>
+      <p class="what">Sega discontinued its Dreamcast online services; the last one closed in Japan</p>
+      <ul class="revs"><li><a href="https://github.com/Kazade/dreampi" rel="noopener">DreamPi</a><span class="st">★ 142</span></li><li><a href="https://github.com/scrivanidc/bba-mode-for-dreampi" rel="noopener">bba-mode-for-dreampi</a><span class="st">★ 12</span></li><li><a href="https://github.com/filipmaj1/CapcomDirectServer" rel="noopener">CapcomDirectServer</a><span class="st">★ 10</span></li><li><a href="https://github.com/quad/voot" rel="noopener">voot</a><span class="st">★ 10</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Dreamcast_online_functionality" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 2007</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Metal Gear Online (PS2)</h3>
+      <div class="maker">killed by Konami</div>
+      <p class="what">Konami closed the PS2 online service in all regions</p>
+      <ul class="revs"><li><a href="https://github.com/curi0us/mgops" rel="noopener">mgops</a><span class="st">★ 22</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2002</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Mobile Adapter GB (Mobile System GB)</h3>
+      <div class="maker">killed by Nintendo</div>
+      <p class="what">Nintendo discontinued the Game Boy Color and Advance cellphone online service</p>
+      <ul class="revs"><li><a href="https://github.com/REONTeam/libmobile" rel="noopener">libmobile</a><span class="st">★ 44</span></li><li><a href="https://github.com/REONTeam/reon" rel="noopener">REON</a><span class="st">★ 32</span></li><li><a href="https://github.com/REONTeam/ArduinoAdapterGB" rel="noopener">ArduinoAdapterGB</a><span class="st">★ 22</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Mobile_Adapter_GB" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2001</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Bildschirmtext (BTX)</h3>
+      <div class="maker">killed by Deutsche Telekom</div>
+      <p class="what">Deutsche Telekom switched off the last BTX access</p>
+      <ul class="revs"><li><a href="https://github.com/bildschirmtext/bildschirmtext" rel="noopener">Bildschirmtext revival</a><span class="st">★ 80</span></li><li><a href="https://github.com/proquar/asterisk-Softmodem" rel="noopener">asterisk-Softmodem</a><span class="st">★ 73</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Bildschirmtext" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 2000</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Satellaview</h3>
+      <div class="maker">killed by St.GIGA / Nintendo</div>
+      <p class="what">St.GIGA ended Satellaview satellite broadcasts to the Super Famicom</p>
+      <ul class="revs"><li><a href="https://github.com/LuigiBlood/sat_wave" rel="noopener">sat_wave</a><span class="st">★ 75</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Satellaview" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 1999</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Prodigy Classic</h3>
+      <div class="maker">killed by Prodigy</div>
+      <p class="what">Prodigy discontinued its classic online service because it was not Y2K-ready</p>
+      <ul class="revs"><li><a href="https://github.com/ProdigyReloaded/delivery-system" rel="noopener">Prodigy Reloaded</a><span class="st">★ 15</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Prodigy_(online_service)" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="service">
+      <div class="life"><span class="d">† 1997</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>XBAND</h3>
+      <div class="maker">killed by Catapult Entertainment / Mpath Interactive</div>
+      <p class="what">The XBAND online network for Genesis and SNES was discontinued</p>
+      <ul class="revs"><li><a href="https://github.com/project-xband/protocol" rel="noopener">protocol</a><span class="st">★ 3</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/XBAND" rel="noopener">source</a>
+    </li>
+    <li class="card" data-k="game">
+      <div class="life"><span class="d">† 1988</span><span class="arrow">→</span><span class="a">alive</span></div>
+      <h3>Habitat</h3>
+      <div class="maker">killed by Lucasfilm Games / Quantum Link</div>
+      <p class="what">The online world for the Commodore 64 closed at the end of its pilot run</p>
+      <ul class="revs"><li><a href="https://github.com/frandallfarmer/neohabitat" rel="noopener">Habitat (NeoHabitat)</a><span class="st">★ 252</span></li></ul>
+      <a class="src" href="https://en.wikipedia.org/wiki/Habitat_(video_game)" rel="noopener">source</a>
+    </li>
+  </ol>
+  <footer>
+    <span>Know another one? <a href="https://github.com/alexgaoth/awesome-reverse-engineered/issues/new?title=Resurrected%3A%20">Open an issue</a>.</span>
+    <span>Data: <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/data/resurrected.json">data/resurrected.json</a> (CC0). Each year links to its source.</span>
+    <span>Part of <a href="../">awesome-reverse-engineered</a>: 16,844 open-source tools built by reverse engineering.</span>
+  </footer>
+</div>
+<script>
+const chips = document.querySelectorAll(".chip");
+chips.forEach((c) => c.addEventListener("click", () => {
+  chips.forEach((x) => x.setAttribute("aria-pressed", String(x === c)));
+  document.querySelectorAll(".card").forEach((card) => { card.hidden = !!c.dataset.k && card.dataset.k !== c.dataset.k; });
+}));
+</script>
+</body>
+</html>

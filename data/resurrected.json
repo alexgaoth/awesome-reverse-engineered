@@ -1,0 +1,1592 @@
+[
+ {
+  "product": "Nintendo Wi-Fi Connection (DS and Wii online)",
+  "maker": "Nintendo",
+  "killed": 2014,
+  "what": "Nintendo shut down online play for DS and Wii games",
+  "revived_by": [
+   "https://github.com/barronwaffles/dwc_network_server_emulator",
+   "https://github.com/mm201/pkmn-classic-framework",
+   "https://github.com/WiiLink24/wfc-server",
+   "https://github.com/KcrPL/WiiWare-Patcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Wi-Fi_Connection",
+  "kind": "service"
+ },
+ {
+  "product": "Nintendo Network (Wii U and 3DS online)",
+  "maker": "Nintendo",
+  "killed": 2024,
+  "what": "Nintendo shut down online play and SpotPass for Wii U and 3DS",
+  "revived_by": [
+   "https://github.com/PretendoNetwork/Inkay",
+   "https://github.com/PretendoNetwork/account",
+   "https://github.com/PretendoNetwork/nex-go",
+   "https://github.com/PretendoNetwork/splatoon"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Network",
+  "kind": "service"
+ },
+ {
+  "product": "Miiverse",
+  "maker": "Nintendo",
+  "killed": 2017,
+  "what": "Nintendo discontinued its social network for Wii U and 3DS",
+  "revived_by": [
+   "https://github.com/rverseTeam/rverse2",
+   "https://github.com/PretendoNetwork/miiverse-api",
+   "https://github.com/PretendoNetwork/juxtaposition",
+   "https://github.com/PretendoNetwork/juxtaposition-ui"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Miiverse",
+  "kind": "service"
+ },
+ {
+  "product": "WiiConnect24",
+  "maker": "Nintendo",
+  "killed": 2013,
+  "what": "Nintendo shut down the Wii's mail, news, forecast and voting channels",
+  "revived_by": [
+   "https://github.com/WiiLink24/WiiLink24-Patcher",
+   "https://github.com/RiiConnect24/File-Maker",
+   "https://github.com/RiiConnect24/Mail-Go",
+   "https://github.com/WiiLink24/ForecastChannel"
+  ],
+  "source": "https://en.wikipedia.org/wiki/WiiConnect24",
+  "kind": "service"
+ },
+ {
+  "product": "Wii Shop Channel",
+  "maker": "Nintendo",
+  "killed": 2019,
+  "what": "Nintendo closed the Wii's digital game store",
+  "revived_by": [
+   "https://github.com/WiiMart/WiiMart",
+   "https://github.com/OpenShopChannel/WSC-Patcher",
+   "https://github.com/OpenShopChannel/WSC-Web",
+   "https://github.com/OpenShopChannel/WiiSOAP"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Wii_Shop_Channel",
+  "kind": "service"
+ },
+ {
+  "product": "Flipnote Hatena",
+  "maker": "Hatena",
+  "killed": 2013,
+  "what": "Hatena retired the online gallery for Flipnote Studio animations on DSi",
+  "revived_by": [
+   "https://github.com/pbsds/hatena-server",
+   "https://github.com/nswarr/flipnote-server",
+   "https://github.com/Aftendo/Afternote",
+   "https://github.com/Gotena/Gotena"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Flipnote_Studio",
+  "kind": "service"
+ },
+ {
+  "product": "GameSpy online services",
+  "maker": "Glu Mobile",
+  "killed": 2014,
+  "what": "Glu shut down the GameSpy servers that many PC and console games used",
+  "revived_by": [
+   "https://github.com/openspy/openspy-core",
+   "https://github.com/GameProgressive/UniSpyServer",
+   "https://github.com/anzz1/openspy-client",
+   "https://github.com/realitymod/PRMasterServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/GameSpy",
+  "kind": "service"
+ },
+ {
+  "product": "Xbox Live for the original Xbox",
+  "maker": "Microsoft",
+  "killed": 2010,
+  "what": "Microsoft ended Xbox Live for original Xbox games",
+  "revived_by": [
+   "https://github.com/zzVertigo/XboxLive.Server",
+   "https://github.com/insignia-live/xblunblock"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Xbox_network",
+  "kind": "service"
+ },
+ {
+  "product": "PlayStation Home",
+  "maker": "Sony",
+  "killed": 2015,
+  "what": "Sony closed its PS3 social virtual world",
+  "revived_by": [
+   "https://github.com/GitHubProUser67/PSHome-MultiServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Home",
+  "kind": "service"
+ },
+ {
+  "product": "XBAND",
+  "maker": "Catapult Entertainment / Mpath Interactive",
+  "killed": 1997,
+  "what": "The XBAND online network for Genesis and SNES was discontinued",
+  "revived_by": [
+   "https://github.com/project-xband/protocol"
+  ],
+  "source": "https://en.wikipedia.org/wiki/XBAND",
+  "kind": "service"
+ },
+ {
+  "product": "Satellaview",
+  "maker": "St.GIGA / Nintendo",
+  "killed": 2000,
+  "what": "St.GIGA ended Satellaview satellite broadcasts to the Super Famicom",
+  "revived_by": [
+   "https://github.com/LuigiBlood/sat_wave"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Satellaview",
+  "kind": "service"
+ },
+ {
+  "product": "Club Penguin",
+  "maker": "Disney",
+  "killed": 2017,
+  "what": "Disney shut down the Club Penguin servers",
+  "revived_by": [
+   "https://github.com/solero/houdini",
+   "https://github.com/nhaar/Waddle-Forever",
+   "https://github.com/wizguin/yukon",
+   "https://github.com/wizguin/yukon-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Club_Penguin",
+  "kind": "game"
+ },
+ {
+  "product": "Club Penguin Island",
+  "maker": "Disney",
+  "killed": 2018,
+  "what": "Disney shut down the mobile successor to Club Penguin",
+  "revived_by": [
+   "https://github.com/legitatx/cpi-web-service"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Club_Penguin_Island",
+  "kind": "game"
+ },
+ {
+  "product": "Toontown Online",
+  "maker": "Disney",
+  "killed": 2013,
+  "what": "Disney permanently shut down the MMO after ten years",
+  "revived_by": [
+   "https://github.com/open-toontown/open-toontown",
+   "https://github.com/open-toontown/toontown-online-2013-decompiled",
+   "https://github.com/toontown-classic/toontown-otp"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Toontown_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Pirates of the Caribbean Online",
+  "maker": "Disney",
+  "killed": 2013,
+  "what": "Disney closed the MMO",
+  "revived_by": [
+   "https://github.com/PiratesOnlineRewritten/Pirates-Online-Rewritten",
+   "https://github.com/ksmit799/POTCO-PS"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_Online",
+  "kind": "game"
+ },
+ {
+  "product": "FusionFall",
+  "maker": "Cartoon Network",
+  "killed": 2013,
+  "what": "Cartoon Network shut down the MMO's servers",
+  "revived_by": [
+   "https://github.com/OpenFusionProject/OpenFusion"
+  ],
+  "source": "https://en.wikipedia.org/wiki/FusionFall",
+  "kind": "game"
+ },
+ {
+  "product": "Star Wars Galaxies",
+  "maker": "Sony Online Entertainment / LucasArts",
+  "killed": 2011,
+  "what": "SOE and LucasArts shut down the MMO's servers",
+  "revived_by": [
+   "https://github.com/swgemu/Core3",
+   "https://github.com/swgemu/engine3",
+   "https://github.com/ProjectSWGCore/Holocore",
+   "https://github.com/opengalaxies/OpenGalaxies"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Star_Wars_Galaxies",
+  "kind": "game"
+ },
+ {
+  "product": "Warhammer Online: Age of Reckoning",
+  "maker": "EA Mythic",
+  "killed": 2013,
+  "what": "The MMO shut down when the Games Workshop license ended",
+  "revived_by": [
+   "https://github.com/WarEmu/WarEmu",
+   "https://github.com/Shmerrick/ProjectWAR"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Warhammer_Online:_Age_of_Reckoning",
+  "kind": "game"
+ },
+ {
+  "product": "The Matrix Online",
+  "maker": "Sony Online Entertainment",
+  "killed": 2009,
+  "what": "SOE shut down the MMO",
+  "revived_by": [
+   "https://github.com/rajkosto/mxoemu",
+   "https://github.com/hdneo/mxo-hd",
+   "https://github.com/TasteeWheat/mxoemu1"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Matrix_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Marvel Heroes",
+  "maker": "Gazillion Entertainment",
+  "killed": 2017,
+  "what": "Disney ended the license and the game went offline",
+  "revived_by": [
+   "https://github.com/Crypto137/MHServerEmu",
+   "https://github.com/Crypto137/Bifrost",
+   "https://github.com/Crypto137/MHServerEmu2013",
+   "https://github.com/Crypto137/MHPatcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Marvel_Heroes_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "LEGO Universe",
+  "maker": "The LEGO Group",
+  "killed": 2012,
+  "what": "LEGO shut down the MMO's servers",
+  "revived_by": [
+   "https://github.com/DarkflameUniverse/DarkflameServer",
+   "https://github.com/UchuServer/Uchu",
+   "https://github.com/DarkflameUniverse/NexusDashboard",
+   "https://github.com/Wesley-DeMontigny/WLUS"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lego_Universe",
+  "kind": "game"
+ },
+ {
+  "product": "WildStar",
+  "maker": "NCSoft",
+  "killed": 2018,
+  "what": "NCSoft closed Carbine Studios and shut down the MMO",
+  "revived_by": [
+   "https://github.com/NexusForever/NexusForever",
+   "https://github.com/Bezgelor/bezgelor"
+  ],
+  "source": "https://en.wikipedia.org/wiki/WildStar_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "The Sims Online / EA-Land",
+  "maker": "Electronic Arts",
+  "killed": 2008,
+  "what": "EA closed the online Sims game",
+  "revived_by": [
+   "https://github.com/riperiperi/FreeSO",
+   "https://github.com/Afr0Games/Project-Dollhouse",
+   "https://github.com/JDrocks450/nio2so"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Sims_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Asheron's Call",
+  "maker": "Turbine / Warner Bros.",
+  "killed": 2017,
+  "what": "The MMO closed all its servers",
+  "revived_by": [
+   "https://github.com/ACEmulator/ACE",
+   "https://github.com/bDekaru/ClassicDereth",
+   "https://github.com/derandark/PhatAC",
+   "https://github.com/deregtd/ACServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Asheron%27s_Call",
+  "kind": "game"
+ },
+ {
+  "product": "Free Realms",
+  "maker": "Sony Online Entertainment",
+  "killed": 2014,
+  "what": "SOE shut down the free-to-play MMO",
+  "revived_by": [
+   "https://github.com/Open-Source-Free-Realms/Sanctuary"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Free_Realms",
+  "kind": "game"
+ },
+ {
+  "product": "Clone Wars Adventures",
+  "maker": "Sony Online Entertainment",
+  "killed": 2014,
+  "what": "SOE shut down the Star Wars kids' MMO",
+  "revived_by": [
+   "https://github.com/soir20/oxide"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Clone_Wars_Adventures",
+  "kind": "game"
+ },
+ {
+  "product": "EverQuest Online Adventures",
+  "maker": "Sony Online Entertainment",
+  "killed": 2012,
+  "what": "SOE shut down the PS2 MMO after nine years",
+  "revived_by": [
+   "https://github.com/EQOAReturnHome/EQOAGameServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/EverQuest_Online_Adventures",
+  "kind": "game"
+ },
+ {
+  "product": "Darkspore",
+  "maker": "Electronic Arts",
+  "killed": 2016,
+  "what": "EA shut down the servers, which left the always-online game unplayable",
+  "revived_by": [
+   "https://github.com/Resurrection-Capsule/Resurrection-Capsule",
+   "https://github.com/dalkon/darkspore_server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Darkspore",
+  "kind": "game"
+ },
+ {
+  "product": "Dragon's Dogma Online",
+  "maker": "Capcom",
+  "killed": 2019,
+  "what": "Capcom discontinued the Japan-only MMO",
+  "revived_by": [
+   "https://github.com/sebastian-heinz/Arrowgene.DragonsDogmaOnline",
+   "https://github.com/D00MK1D/DDON-Launcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dragon%27s_Dogma_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Monster Hunter Frontier",
+  "maker": "Capcom",
+  "killed": 2019,
+  "what": "Capcom ended all online services for the MMO",
+  "revived_by": [
+   "https://github.com/Mezeporta/Erupe",
+   "https://github.com/sebastian-heinz/mhf-server",
+   "https://github.com/rockisch/mhf-launcher",
+   "https://github.com/rockisch/mhf-iel"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Monster_Hunter_Frontier_Z",
+  "kind": "game"
+ },
+ {
+  "product": "Glitch",
+  "maker": "Tiny Speck",
+  "killed": 2012,
+  "what": "Tiny Speck shut down the browser MMO",
+  "revived_by": [
+   "https://github.com/ElevenGiants/eleven-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Glitch_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Need for Speed: World",
+  "maker": "Electronic Arts",
+  "killed": 2015,
+  "what": "EA took the free-to-play online racing game offline",
+  "revived_by": [
+   "https://github.com/SoapboxRaceWorld/soapbox-race-core",
+   "https://github.com/Lawin0129/NFS-World-Offline",
+   "https://github.com/1DavidCarbon/Soapbox_Launcher_Installer",
+   "https://github.com/michelinus/nfsw-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Need_for_Speed:_World",
+  "kind": "game"
+ },
+ {
+  "product": "Battlefield Heroes",
+  "maker": "Electronic Arts",
+  "killed": 2015,
+  "what": "EA took the free-to-play shooter offline",
+  "revived_by": [
+   "https://github.com/g91/BFHeroes_MasterServer",
+   "https://github.com/abarichello/bfheroesFesl"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield_Heroes",
+  "kind": "game"
+ },
+ {
+  "product": "Age of Empires Online",
+  "maker": "Microsoft",
+  "killed": 2014,
+  "what": "Microsoft shut down the online strategy game",
+  "revived_by": [
+   "https://github.com/firesinging/server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Age_of_Empires_Online",
+  "kind": "game"
+ },
+ {
+  "product": "UberStrike",
+  "maker": "Cmune",
+  "killed": 2016,
+  "what": "Cmune took the online shooter offline",
+  "revived_by": [
+   "https://github.com/FICTURE7/uberstrok",
+   "https://github.com/festivaldev/UberStrike-Reverse-Engineered"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Cmune",
+  "kind": "game"
+ },
+ {
+  "product": "Dragalia Lost",
+  "maker": "Nintendo / Cygames",
+  "killed": 2022,
+  "what": "The mobile game was discontinued",
+  "revived_by": [
+   "https://github.com/SapiensAnatis/Dawnshard",
+   "https://github.com/CerisWhite/Orchis",
+   "https://github.com/DragaliaLostRevival/DragaliaBaasServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dragalia_Lost",
+  "kind": "game"
+ },
+ {
+  "product": "Sonic Runners",
+  "maker": "Sega",
+  "killed": 2016,
+  "what": "Sega shut down the mobile game's servers",
+  "revived_by": [
+   "https://github.com/fluofoxxo/outrun",
+   "https://github.com/Ramen2X/spikewall",
+   "https://github.com/RunnersRevival/Rerun-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Sonic_Runners",
+  "kind": "game"
+ },
+ {
+  "product": "Love Live! School Idol Festival",
+  "maker": "KLab / Bushiroad",
+  "killed": 2023,
+  "what": "The rhythm game's service was shut down",
+  "revived_by": [
+   "https://github.com/DarkEnergyProcessor/NPPS4",
+   "https://github.com/Salaron/sunlight"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival",
+  "kind": "game"
+ },
+ {
+  "product": "NieR Reincarnation",
+  "maker": "Square Enix",
+  "killed": 2024,
+  "what": "Square Enix ended the mobile game's worldwide service",
+  "revived_by": [
+   "https://github.com/BillyCool/MariesWonderland"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nier_Reincarnation",
+  "kind": "game"
+ },
+ {
+  "product": "Pokémon Global Link for Black and White (Dream World, Game Sync)",
+  "maker": "The Pokémon Company",
+  "killed": 2014,
+  "what": "The online Dream World and Game Sync service for Gen V games closed",
+  "revived_by": [
+   "https://github.com/kuroppoi/entralinked",
+   "https://github.com/NDSLink/dream-server",
+   "https://github.com/Shade-of-Gr3y/Dream-World-Revival",
+   "https://github.com/shutterbug2000/dreamworld-reawakened"
+  ],
+  "source": "https://pocketmonsters.net/content/PR_Announcing_the_closure_of_the_Pok%C3%A9mon_Global_Link_BW_B2W2",
+  "kind": "service"
+ },
+ {
+  "product": "Deepworld",
+  "maker": "Bytebin",
+  "killed": 2019,
+  "what": "Bytebin shut down the servers of the online crafting game",
+  "revived_by": [
+   "https://github.com/kuroppoi/brainwine",
+   "https://github.com/kuroppoi/opendw"
+  ],
+  "source": "https://delistedgames.com/deepworld/",
+  "kind": "game"
+ },
+ {
+  "product": "Pebble smartwatch",
+  "maker": "Fitbit",
+  "killed": 2018,
+  "what": "Fitbit ended the online services of Pebble watches",
+  "revived_by": [
+   "https://github.com/pebble-dev/mobile-app",
+   "https://github.com/pebble-dev/RebbleOS",
+   "https://github.com/pebble-dev/rebble-store",
+   "https://github.com/pebble-dev/rebblestore-api"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Pebble_(watch)",
+  "kind": "device"
+ },
+ {
+  "product": "Spotify Car Thing",
+  "maker": "Spotify",
+  "killed": 2024,
+  "what": "Spotify ended support and the device stopped working",
+  "revived_by": [
+   "https://github.com/ItsRiprod/DeskThing",
+   "https://github.com/usenocturne/nocturne",
+   "https://github.com/bishopdynamics/superbird-debian-kiosk",
+   "https://github.com/bishopdynamics/superbird-tool"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Car_Thing",
+  "kind": "device"
+ },
+ {
+  "product": "Nest Learning Thermostat (1st and 2nd gen)",
+  "maker": "Google",
+  "killed": 2025,
+  "what": "Google ended app control and support for the first two generations",
+  "revived_by": [
+   "https://github.com/codykociemba/NoLongerEvil-Thermostat"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nest_Thermostat",
+  "kind": "device"
+ },
+ {
+  "product": "Zune",
+  "maker": "Microsoft",
+  "killed": 2015,
+  "what": "Microsoft retired the Zune music download and streaming service",
+  "revived_by": [
+   "https://github.com/ZuneDev/ZuneNetApi",
+   "https://github.com/simulacra10/zunefirmware-upgrade",
+   "https://github.com/ZuneDev/PyZuneCatalogServer",
+   "https://github.com/ZuneDev/ZuneNet"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Zune",
+  "kind": "device"
+ },
+ {
+  "product": "Palm/HP webOS App Catalog",
+  "maker": "HP",
+  "killed": 2015,
+  "what": "HP permanently shut down the App Catalog servers for webOS devices",
+  "revived_by": [
+   "https://github.com/webos-internals/meta-doctor",
+   "https://github.com/webOSArchive/webos-catalog-backend",
+   "https://github.com/webOSArchive/sharing-service",
+   "https://github.com/webOSArchive/webos-catalog-service"
+  ],
+  "source": "https://en.wikipedia.org/wiki/WebOS",
+  "kind": "service"
+ },
+ {
+  "product": "Nabaztag",
+  "maker": "Violet / Mindscape",
+  "killed": 2011,
+  "what": "Mindscape discontinued the web service the Wi-Fi rabbits depend on",
+  "revived_by": [
+   "https://github.com/nabaztag2018/pynab",
+   "https://github.com/OpenJabNab/OpenJabNab",
+   "https://github.com/andreax79/ServerlessNabaztag",
+   "https://github.com/jcheype/NabAlive"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nabaztag",
+  "kind": "device"
+ },
+ {
+  "product": "Karotz",
+  "maker": "Aldebaran Robotics",
+  "killed": 2015,
+  "what": "Aldebaran stopped the servers of the Nabaztag successor",
+  "revived_by": [
+   "https://github.com/jcheype/karotz-vm",
+   "https://github.com/rofra/karotz-openkarotz-firmware",
+   "https://github.com/slash4you/karotz2mqtt",
+   "https://github.com/FreeRabbits/KarotzFiles"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nabaztag",
+  "kind": "device"
+ },
+ {
+  "product": "OUYA",
+  "maker": "Razer",
+  "killed": 2019,
+  "what": "Razer shut down the OUYA store, services and accounts",
+  "revived_by": [
+   "https://github.com/cweiske/stouyapi",
+   "https://github.com/cweiske/louyapi"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ouya",
+  "kind": "device"
+ },
+ {
+  "product": "Google Stadia controller",
+  "maker": "Google",
+  "killed": 2023,
+  "what": "Google shut down Stadia, the service its Wi-Fi controller was built for",
+  "revived_by": [
+   "https://github.com/helloparthshah/StadiaWireless",
+   "https://github.com/GaryOderNichts/StadiaController",
+   "https://github.com/71/stadiacontroller",
+   "https://github.com/MWisBest/StadiEm"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Google_Stadia",
+  "kind": "device"
+ },
+ {
+  "product": "Amazon Dash Button",
+  "maker": "Amazon",
+  "killed": 2019,
+  "what": "Amazon discontinued its one-press reorder buttons",
+  "revived_by": [
+   "https://github.com/hortinstein/node-dash-button",
+   "https://github.com/Nekmo/amazon-dash",
+   "https://github.com/ide/dash-button",
+   "https://github.com/maximus64/amazon-dash-wiced"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Amazon_Dash",
+  "kind": "device"
+ },
+ {
+  "product": "Eye-Fi Wi-Fi SD cards (X2 and older)",
+  "maker": "Eye-Fi",
+  "killed": 2016,
+  "what": "Eye-Fi ended software support for its older Wi-Fi SD cards",
+  "revived_by": [
+   "https://github.com/tachang/EyeFiServer",
+   "https://github.com/dgrant/eyefiserver2",
+   "https://github.com/kristofg/rifec",
+   "https://github.com/kenkeiter/ryfi"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Eye-Fi",
+  "kind": "device"
+ },
+ {
+  "product": "Hello Sense sleep tracker",
+  "maker": "Hello Inc.",
+  "killed": 2017,
+  "what": "Hello, the maker of the Sense sleep tracker, shut down",
+  "revived_by": [
+   "https://github.com/owarz/sense"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hello_(company)",
+  "kind": "device"
+ },
+ {
+  "product": "Microsoft Band",
+  "maker": "Microsoft",
+  "killed": 2019,
+  "what": "Microsoft decommissioned the Band's companion app",
+  "revived_by": [
+   "https://github.com/ksiazkowicz/libmsftband",
+   "https://github.com/MicrosoftBandDev/companion-app",
+   "https://github.com/hire-marat/msband-py"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Microsoft_Band",
+  "kind": "device"
+ },
+ {
+  "product": "Slingbox",
+  "maker": "Sling Media",
+  "killed": 2022,
+  "what": "Sling closed the Slingbox servers, which made the devices inoperable",
+  "revived_by": [
+   "https://github.com/GerryDazoo/Slinger",
+   "https://github.com/bmiller-net/Slingbox.Capture"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Slingbox",
+  "kind": "device"
+ },
+ {
+  "product": "Echo VR",
+  "maker": "Ready At Dawn (Meta)",
+  "killed": 2023,
+  "what": "Ready At Dawn shut down the free-to-play VR game",
+  "revived_by": [
+   "https://github.com/Xenomega/EchoRelay"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lone_Echo",
+  "kind": "game"
+ },
+ {
+  "product": "Humane Ai Pin",
+  "maker": "Humane",
+  "killed": 2025,
+  "what": "Humane stopped selling the pin and cut its connection to Humane's servers",
+  "revived_by": [
+   "https://github.com/MaxMaeder/OpenPin",
+   "https://github.com/PenumbraOS/humane-system-hook",
+   "https://github.com/PenumbraOS/sdk",
+   "https://github.com/PenumbraOS/pinitd"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Humane_Inc.",
+  "kind": "device"
+ },
+ {
+  "product": "Neato robot vacuums",
+  "maker": "Neato Robotics / Vorwerk",
+  "killed": 2025,
+  "what": "The Neato cloud was shut down three years earlier than promised",
+  "revived_by": [
+   "https://github.com/vacuula/fang",
+   "https://github.com/renjfk/OpenNeato",
+   "https://github.com/vacuula/vacuula"
+  ],
+  "source": "https://9to5mac.com/2025/10/27/neato-cloud-shutdown-is-the-latest-example-of-a-failed-company-bricking-smart-products/",
+  "kind": "device"
+ },
+ {
+  "product": "Bose SoundTouch speakers",
+  "maker": "Bose",
+  "killed": 2026,
+  "what": "Bose ended cloud support for SoundTouch speakers",
+  "revived_by": [
+   "https://github.com/gesellix/Bose-SoundTouch",
+   "https://github.com/sandervg/homeassistant-bose-soundtouch-bridge",
+   "https://github.com/Marvoo01/Alternative-Bose-SoundTouch-controller-no-Cloud",
+   "https://github.com/vintx86/bose-soundtouch"
+  ],
+  "source": "https://www.techspot.com/news/109830-bose-soundtouch-shutdown-leaves-connected-speakers-less-smart.html",
+  "kind": "device"
+ },
+ {
+  "product": "Belkin Wemo",
+  "maker": "Belkin",
+  "killed": 2026,
+  "what": "Belkin ended support and cloud features for most Wemo devices",
+  "revived_by": [
+   "https://github.com/zackria/bit-switch",
+   "https://github.com/K0rb3nD4ll4S/dibby-wemo-manager"
+  ],
+  "source": "https://www.channelnews.com.au/belkin-to-discontinue-wemo-smart-home-support-in-january-2026/",
+  "kind": "device"
+ },
+ {
+  "product": "AOL Instant Messenger (AIM)",
+  "maker": "AOL",
+  "killed": 2017,
+  "what": "AOL discontinued the AIM service",
+  "revived_by": [
+   "https://github.com/mk6i/open-oscar-server",
+   "https://github.com/ox/aim-oscar-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/AIM_(software)",
+  "kind": "service"
+ },
+ {
+  "product": "ICQ",
+  "maker": "VK",
+  "killed": 2024,
+  "what": "The ICQ messaging service was shut down",
+  "revived_by": [
+   "https://github.com/mk6i/open-oscar-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/ICQ",
+  "kind": "service"
+ },
+ {
+  "product": "Yahoo Messenger",
+  "maker": "Yahoo",
+  "killed": 2018,
+  "what": "Yahoo shut down its messaging service",
+  "revived_by": [
+   "https://github.com/r0neko/yumeko"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Yahoo!_Messenger",
+  "kind": "service"
+ },
+ {
+  "product": "MSN Messenger / Windows Live Messenger",
+  "maker": "Microsoft",
+  "killed": 2013,
+  "what": "Microsoft discontinued the messenger in favor of Skype",
+  "revived_by": [
+   "https://github.com/RaySollium99/MSNPSharp",
+   "https://github.com/tutmonde/msnclient"
+  ],
+  "source": "https://en.wikipedia.org/wiki/MSN_Messenger",
+  "kind": "service"
+ },
+ {
+  "product": "Xfire",
+  "maker": "Xfire Inc.",
+  "killed": 2015,
+  "what": "Xfire shut down its gamer social network and messaging",
+  "revived_by": [
+   "https://github.com/darcymiranda/PFire"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Xfire",
+  "kind": "service"
+ },
+ {
+  "product": "Vine",
+  "maker": "Twitter",
+  "killed": 2017,
+  "what": "Twitter shut down the short-video app",
+  "revived_by": [
+   "https://github.com/thetaplace/bush"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Vine_(service)",
+  "kind": "service"
+ },
+ {
+  "product": "Snap Camera",
+  "maker": "Snap Inc.",
+  "killed": 2023,
+  "what": "Snap discontinued its desktop face-filter camera app",
+  "revived_by": [
+   "https://github.com/ptrumpis/snap-camera-server"
+  ],
+  "source": "https://techcrunch.com/2023/01/05/snap-is-shutting-down-its-desktop-camera-app-that-allows-users-to-apply-filters-during-video-calls/",
+  "kind": "service"
+ },
+ {
+  "product": "Jibo social robot",
+  "maker": "Jibo Inc.",
+  "killed": 2019,
+  "what": "The servers that power the robot's voice features were shut down",
+  "revived_by": [
+   "https://github.com/Jibo-Revival-Group/JiboAutoMod",
+   "https://github.com/Jibo-Revival-Group/JiboExperiments",
+   "https://github.com/transcendentsoftware-jd/JiboExperiments"
+  ],
+  "source": "https://techcrunch.com/2019/03/04/the-lonely-death-of-jibo-the-social-robot/",
+  "kind": "device"
+ },
+ {
+  "product": "Logitech Harmony remotes (older models)",
+  "maker": "Logitech",
+  "killed": 2025,
+  "what": "Logitech ended the software support that older Harmony remotes need",
+  "revived_by": [
+   "https://github.com/Unkn0wn-dx/RE-HARMONY",
+   "https://github.com/mulcmu/Modernize-Harmony-880",
+   "https://github.com/martin-wagner/harmony900tools"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Logitech_Harmony",
+  "kind": "device"
+ },
+ {
+  "product": "Anki Vector robot",
+  "maker": "Anki",
+  "killed": 2019,
+  "what": "Anki went bankrupt and shut down; Vector relies on a cloud server",
+  "revived_by": [
+   "https://github.com/kercre123/wire-pod",
+   "https://github.com/os-vector/wire-os",
+   "https://github.com/kercre123/WirePod",
+   "https://github.com/kercre123/wirepod-vector-python-sdk"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Cozmo",
+  "kind": "device"
+ },
+ {
+  "product": "Nintendo eShop for Wii U and 3DS",
+  "maker": "Nintendo",
+  "killed": 2023,
+  "what": "Nintendo closed the digital game store on Wii U and 3DS",
+  "revived_by": [
+   "https://github.com/Aftendo/shopdeck",
+   "https://github.com/PretendoNetwork/Grove",
+   "https://github.com/PretendoNetwork/SOAP",
+   "https://github.com/PretendoNetwork/hokage"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nintendo_eShop",
+  "kind": "service"
+ },
+ {
+  "product": "Nintendo TVii",
+  "maker": "Nintendo",
+  "killed": 2017,
+  "what": "Nintendo discontinued the Wii U's TV guide and remote service",
+  "revived_by": [
+   "https://github.com/Project-Rose/tvii-v2"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Network",
+  "kind": "service"
+ },
+ {
+  "product": "Nintendo Zone (3DS)",
+  "maker": "Nintendo",
+  "killed": 2018,
+  "what": "Nintendo discontinued its hotspot content service for the 3DS",
+  "revived_by": [
+   "https://github.com/Aftendo/SatellaZone"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Zone",
+  "kind": "service"
+ },
+ {
+  "product": "Wii no Ma (Wii Room)",
+  "maker": "Nintendo",
+  "killed": 2012,
+  "what": "Nintendo shut down the Japanese Wii video-on-demand channel",
+  "revived_by": [
+   "https://github.com/WiiLink24/room-server",
+   "https://github.com/WiiLink24/wii-no-ma-patches",
+   "https://github.com/WiiLink24/Wii-no-Ma-Patcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Wii_no_Ma",
+  "kind": "service"
+ },
+ {
+  "product": "Demae Channel",
+  "maker": "Nintendo",
+  "killed": 2017,
+  "what": "The Japanese Wii food-delivery channel was discontinued",
+  "revived_by": [
+   "https://github.com/WiiLink24/food-server",
+   "https://github.com/WiiLink24/Demae-Deliveroo",
+   "https://github.com/WiiLink24/Demae-JustEat",
+   "https://github.com/WiiLink24/Demae-Dominos"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Demae_Channel",
+  "kind": "service"
+ },
+ {
+  "product": "Mobile Adapter GB (Mobile System GB)",
+  "maker": "Nintendo",
+  "killed": 2002,
+  "what": "Nintendo discontinued the Game Boy Color and Advance cellphone online service",
+  "revived_by": [
+   "https://github.com/REONTeam/libmobile",
+   "https://github.com/REONTeam/reon",
+   "https://github.com/REONTeam/ArduinoAdapterGB"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mobile_Adapter_GB",
+  "kind": "service"
+ },
+ {
+  "product": "Monster Hunter Tri online (Wii)",
+  "maker": "Capcom",
+  "killed": 2013,
+  "what": "Capcom shut down the online servers of the Wii game",
+  "revived_by": [
+   "https://github.com/sepalani/MH3SP"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Monster_Hunter_Tri",
+  "kind": "game"
+ },
+ {
+  "product": "Phantasy Star Online",
+  "maker": "Sega",
+  "killed": 2010,
+  "what": "Sega shut down the last official servers of the online RPG",
+  "revived_by": [
+   "https://github.com/fuzziqersoftware/newserv",
+   "https://github.com/dcrodman/archon",
+   "https://github.com/Sylverant/ship_server",
+   "https://github.com/Solybum/Aselia"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Phantasy_Star_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Ratchet & Clank: Up Your Arsenal and Deadlocked online (PS2)",
+  "maker": "Sony",
+  "killed": 2012,
+  "what": "Sony terminated the PS2 online servers of both games",
+  "revived_by": [
+   "https://github.com/hashsploit/clank",
+   "https://github.com/Horizon-Private-Server/horizon-server",
+   "https://github.com/jtjanecek/robo",
+   "https://github.com/Horizon-Private-Server/horizon-uya-patch"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Ratchet:_Deadlocked",
+  "kind": "game"
+ },
+ {
+  "product": "LittleBigPlanet online (PS3 and Vita)",
+  "maker": "Sony",
+  "killed": 2021,
+  "what": "Sony took the PS3 and Vita LittleBigPlanet servers offline",
+  "revived_by": [
+   "https://github.com/LBPUnion/ProjectLighthouse",
+   "https://github.com/LittleBigRefresh/Refresh",
+   "https://github.com/LittleBigRefresh/Refresher",
+   "https://github.com/LBPUnion/UnionPatcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/LittleBigPlanet",
+  "kind": "game"
+ },
+ {
+  "product": "Gran Turismo 6 online",
+  "maker": "Sony",
+  "killed": 2018,
+  "what": "Sony shut down the game's online servers",
+  "revived_by": [
+   "https://github.com/Nenkai/Grimoire"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Gran_Turismo_6",
+  "kind": "game"
+ },
+ {
+  "product": "Metal Gear Online (PS3)",
+  "maker": "Konami",
+  "killed": 2012,
+  "what": "Konami shut down the North American and European servers",
+  "revived_by": [
+   "https://github.com/GHzGangster/Nomad"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Warhawk (PS3)",
+  "maker": "Sony",
+  "killed": 2019,
+  "what": "Sony shut down the game's online servers",
+  "revived_by": [
+   "https://github.com/MajorTomSec/WaREhawkPS3"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Warhawk_(2007_video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "PlanetSide",
+  "maker": "Daybreak Game Company",
+  "killed": 2016,
+  "what": "The original PlanetSide's servers were permanently closed",
+  "revived_by": [
+   "https://github.com/psforever/psemu",
+   "https://github.com/psforever/GameLauncher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/PlanetSide",
+  "kind": "game"
+ },
+ {
+  "product": "Demon's Souls online",
+  "maker": "Sony / FromSoftware",
+  "killed": 2018,
+  "what": "The PS3 game's online servers were discontinued worldwide",
+  "revived_by": [
+   "https://github.com/ymgve/desse"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Demon%27s_Souls",
+  "kind": "game"
+ },
+ {
+  "product": "MapleStory 2",
+  "maker": "Nexon",
+  "killed": 2025,
+  "what": "Nexon closed the last MapleStory 2 service, in Korea",
+  "revived_by": [
+   "https://github.com/MS2Community/Maple2",
+   "https://github.com/kOchirasu/Maple2"
+  ],
+  "source": "https://en.wikipedia.org/wiki/MapleStory_2",
+  "kind": "game"
+ },
+ {
+  "product": "Final Fantasy XIV (version 1.0)",
+  "maker": "Square Enix",
+  "killed": 2012,
+  "what": "Square Enix closed the original release before relaunching the game",
+  "revived_by": [
+   "https://github.com/jpd002/SeventhUmbral",
+   "https://github.com/swstegall/Garlemald-Server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Battlestar Galactica Online",
+  "maker": "Bigpoint",
+  "killed": 2019,
+  "what": "Bigpoint permanently shut down the browser MMO",
+  "revived_by": [
+   "https://github.com/luigeneric/BSGOCore"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica_Online",
+  "kind": "game"
+ },
+ {
+  "product": "Knockout City",
+  "maker": "Velan Studios",
+  "killed": 2023,
+  "what": "Velan shut down the public servers on all platforms",
+  "revived_by": [
+   "https://github.com/kocxyz/Launcher"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Knockout_City",
+  "kind": "game"
+ },
+ {
+  "product": "Dauntless",
+  "maker": "Phoenix Labs",
+  "killed": 2025,
+  "what": "The live-service game was discontinued when its servers shut down",
+  "revived_by": [
+   "https://github.com/pranav158/Mystic-Paradox"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dauntless_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Unreal Tournament (2014 pre-alpha)",
+  "maker": "Epic Games",
+  "killed": 2023,
+  "what": "Epic shut down the servers of the cancelled game",
+  "revived_by": [
+   "https://github.com/timiimit/UT4MasterServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Unreal_Tournament_(cancelled_video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Games for Windows – Live",
+  "maker": "Microsoft",
+  "killed": 2013,
+  "what": "Microsoft discontinued the GFWL Marketplace for PC games",
+  "revived_by": [
+   "https://github.com/InvoxiPlayGames/GfWLUtility",
+   "https://github.com/zzVertigo/GFWL-Server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Games_for_Windows_%E2%80%93_Live",
+  "kind": "service"
+ },
+ {
+  "product": "Halo 2 for Windows Vista online",
+  "maker": "Microsoft",
+  "killed": 2013,
+  "what": "The PC multiplayer servers were taken offline",
+  "revived_by": [
+   "https://github.com/pnill/cartographer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Halo_2",
+  "kind": "game"
+ },
+ {
+  "product": "Halo 3 online (Xbox 360)",
+  "maker": "Microsoft",
+  "killed": 2022,
+  "what": "Online services for the Xbox 360 version went offline",
+  "revived_by": [
+   "https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0",
+   "https://github.com/Blam-Network/sunrise_plugin"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Halo_3",
+  "kind": "game"
+ },
+ {
+  "product": "WebTV / MSN TV",
+  "maker": "Microsoft",
+  "killed": 2013,
+  "what": "The WebTV/MSN TV set-top box service fully closed",
+  "revived_by": [
+   "https://github.com/zefie/zefie_wtvp_minisrv"
+  ],
+  "source": "https://en.wikipedia.org/wiki/MSN_TV",
+  "kind": "service"
+ },
+ {
+  "product": "Prodigy Classic",
+  "maker": "Prodigy",
+  "killed": 1999,
+  "what": "Prodigy discontinued its classic online service because it was not Y2K-ready",
+  "revived_by": [
+   "https://github.com/ProdigyReloaded/delivery-system"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Prodigy_(online_service)",
+  "kind": "service"
+ },
+ {
+  "product": "Bildschirmtext (BTX)",
+  "maker": "Deutsche Telekom",
+  "killed": 2001,
+  "what": "Deutsche Telekom switched off the last BTX access",
+  "revived_by": [
+   "https://github.com/bildschirmtext/bildschirmtext",
+   "https://github.com/proquar/asterisk-Softmodem"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Bildschirmtext",
+  "kind": "service"
+ },
+ {
+  "product": "Minitel",
+  "maker": "France Télécom",
+  "killed": 2012,
+  "what": "France Télécom discontinued the Minitel videotex service",
+  "revived_by": [
+   "https://github.com/cquest/pynitel",
+   "https://github.com/proquar/asterisk-Softmodem"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Minitel",
+  "kind": "service"
+ },
+ {
+  "product": "Habitat",
+  "maker": "Lucasfilm Games / Quantum Link",
+  "killed": 1988,
+  "what": "The online world for the Commodore 64 closed at the end of its pilot run",
+  "revived_by": [
+   "https://github.com/frandallfarmer/neohabitat"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Habitat_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "BlackBerry World (BlackBerry 10)",
+  "maker": "BlackBerry",
+  "killed": 2022,
+  "what": "BlackBerry shut down its app store with other BlackBerry 10 services",
+  "revived_by": [
+   "https://github.com/qnxdev/bbstore"
+  ],
+  "source": "https://en.wikipedia.org/wiki/BlackBerry_World",
+  "kind": "service"
+ },
+ {
+  "product": "Assassin's Creed: Brotherhood multiplayer",
+  "maker": "Ubisoft",
+  "killed": 2022,
+  "what": "Ubisoft shut down the multiplayer servers",
+  "revived_by": [
+   "https://github.com/michal-kapala/acb-rdv"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood",
+  "kind": "game"
+ },
+ {
+  "product": "Driver: San Francisco multiplayer",
+  "maker": "Ubisoft",
+  "killed": 2022,
+  "what": "Ubisoft shut down the multiplayer functionality",
+  "revived_by": [
+   "https://github.com/ReHamster/AlcatrazServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Driver:_San_Francisco",
+  "kind": "game"
+ },
+ {
+  "product": "Fuser online features",
+  "maker": "Harmonix",
+  "killed": 2022,
+  "what": "Harmonix shut down the game's online features",
+  "revived_by": [
+   "https://github.com/InvoxiPlayGames/ReFused"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Fuser_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Scrolls (Caller's Bane)",
+  "maker": "Mojang",
+  "killed": 2018,
+  "what": "Mojang shut down the card game's servers",
+  "revived_by": [
+   "https://github.com/Rawaho/RelentlessZero"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Caller%27s_Bane",
+  "kind": "game"
+ },
+ {
+  "product": "CityVille",
+  "maker": "Zynga",
+  "killed": 2015,
+  "what": "Zynga shut down the Facebook city-building game",
+  "revived_by": [
+   "https://github.com/besuper/CityVilleDotnet"
+  ],
+  "source": "https://en.wikipedia.org/wiki/CityVille",
+  "kind": "game"
+ },
+ {
+  "product": "Dragon Ball Online",
+  "maker": "NTL",
+  "killed": 2013,
+  "what": "The MMO's Korean, Hong Kong and Taiwan servers shut down",
+  "revived_by": [
+   "https://github.com/dboglobal/DBOGLOBAL"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dragon_Ball_Online",
+  "kind": "game"
+ },
+ {
+  "product": "The Cycle: Frontier",
+  "maker": "Yager Development",
+  "killed": 2023,
+  "what": "Yager sunset the servers and the game is no longer playable",
+  "revived_by": [
+   "https://github.com/AeonLucid/Prospect"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Cycle:_Frontier",
+  "kind": "game"
+ },
+ {
+  "product": "GPGnet (Supreme Commander online)",
+  "maker": "Gas Powered Games",
+  "killed": 2012,
+  "what": "The multiplayer backend of Supreme Commander: Forged Alliance shut down",
+  "revived_by": [
+   "https://github.com/FAForever/downlords-faf-client",
+   "https://github.com/FAForever/client",
+   "https://github.com/FAForever/server",
+   "https://github.com/FAForever/faf-java-api"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Supreme_Commander:_Forged_Alliance",
+  "kind": "service"
+ },
+ {
+  "product": "Fer.al",
+  "maker": "WildWorks",
+  "killed": 2022,
+  "what": "WildWorks shut down the online fantasy game",
+  "revived_by": [
+   "https://github.com/OpenFeral/Centuria",
+   "https://github.com/SkySwimmer/EmuFeral"
+  ],
+  "source": "https://en.wikipedia.org/wiki/WildWorks",
+  "kind": "game"
+ },
+ {
+  "product": "Monkey Quest",
+  "maker": "Nickelodeon",
+  "killed": 2014,
+  "what": "Nickelodeon permanently shut down the kids' MMO",
+  "revived_by": [
+   "https://github.com/FeroxFoxxo/MQReawakened"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Monkey_Quest",
+  "kind": "game"
+ },
+ {
+  "product": "U.B. Funkeys",
+  "maker": "Mattel",
+  "killed": 2011,
+  "what": "Mattel ended the online services of the toy-linked game",
+  "revived_by": [
+   "https://github.com/kleineluka/terra"
+  ],
+  "source": "https://en.wikipedia.org/wiki/U.B._Funkeys",
+  "kind": "game"
+ },
+ {
+  "product": "Chromehounds",
+  "maker": "Sega / FromSoftware",
+  "killed": 2010,
+  "what": "Sega shut down the Xbox 360 game's online servers",
+  "revived_by": [
+   "https://github.com/OpenCombas/open-combas-server-js"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Chromehounds",
+  "kind": "game"
+ },
+ {
+  "product": "Battlefield: Bad Company 2",
+  "maker": "Electronic Arts",
+  "killed": 2023,
+  "what": "EA shut down the game's servers",
+  "revived_by": [
+   "https://github.com/GrzybDev/BFBC2_MasterServer"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2",
+  "kind": "game"
+ },
+ {
+  "product": "Mirror's Edge Catalyst online",
+  "maker": "Electronic Arts",
+  "killed": 2023,
+  "what": "EA shut down all servers, which disabled the multiplayer features",
+  "revived_by": [
+   "https://github.com/grid-leak/blaze",
+   "https://github.com/grid-leak/gateway"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst",
+  "kind": "game"
+ },
+ {
+  "product": "Dreadnought",
+  "maker": "Six Foot / Yager / Grey Box",
+  "killed": 2023,
+  "what": "The online space shooter was put offline",
+  "revived_by": [
+   "https://github.com/darkace1998/Dreadnought-Revival-project"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dreadnought_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Tanki X",
+  "maker": "AlternativaPlatform",
+  "killed": 2019,
+  "what": "The online tank shooter was shut down",
+  "revived_by": [
+   "https://github.com/Assasans/TXServer-Public"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Tanki_X",
+  "kind": "game"
+ },
+ {
+  "product": "TrackR Bluetooth trackers",
+  "maker": "TrackR",
+  "killed": 2021,
+  "what": "TrackR shut down its services and removed its apps",
+  "revived_by": [
+   "https://github.com/danielweidman/TrackR-Web-Bluetooth-API"
+  ],
+  "source": "https://en.wikipedia.org/wiki/TrackR",
+  "kind": "device"
+ },
+ {
+  "product": "Love Live! School Idol Festival 2 Miracle Live!",
+  "maker": "KLab / Bushiroad",
+  "killed": 2024,
+  "what": "The rhythm game's service was shut down",
+  "revived_by": [
+   "https://github.com/miraclealive/alive-serv",
+   "https://github.com/ethanaobrien/ew"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival",
+  "kind": "game"
+ },
+ {
+  "product": "The Sims Bustin' Out online (PS2)",
+  "maker": "Electronic Arts",
+  "killed": 2008,
+  "what": "EA shut down the PS2 game's online server",
+  "revived_by": [
+   "https://github.com/riperiperi/Breakin-In"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Sims_Bustin%27_Out",
+  "kind": "game"
+ },
+ {
+  "product": "Metal Gear Online (PS2)",
+  "maker": "Konami",
+  "killed": 2007,
+  "what": "Konami closed the PS2 online service in all regions",
+  "revived_by": [
+   "https://github.com/curi0us/mgops"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater",
+  "kind": "game"
+ },
+ {
+  "product": "Dreamcast online services",
+  "maker": "Sega",
+  "killed": 2007,
+  "what": "Sega discontinued its Dreamcast online services; the last one closed in Japan",
+  "revived_by": [
+   "https://github.com/Kazade/dreampi",
+   "https://github.com/scrivanidc/bba-mode-for-dreampi",
+   "https://github.com/filipmaj1/CapcomDirectServer",
+   "https://github.com/quad/voot"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Dreamcast_online_functionality",
+  "kind": "service"
+ },
+ {
+  "product": "Spectre Divide",
+  "maker": "Mountaintop Studios",
+  "killed": 2025,
+  "what": "Mountaintop closed and took the free-to-play shooter offline",
+  "revived_by": [
+   "https://github.com/SpectreRevival/PragmaBackend"
+  ],
+  "source": "https://www.gematsu.com/2025/03/spectre-divide-to-end-service-within-30-days-developer-mountaintop-to-close",
+  "kind": "game"
+ },
+ {
+  "product": "School of Dragons",
+  "maker": "JumpStart Games",
+  "killed": 2023,
+  "what": "The How to Train Your Dragon online game closed its servers",
+  "revived_by": [
+   "https://github.com/SoDOff-Project/sodoff"
+  ],
+  "source": "https://www.superjumpmagazine.com/the-school-of-dragons-is-leaving-the-internet-drafting-timely/",
+  "kind": "game"
+ },
+ {
+  "product": "Windows Internet Games (XP, ME and 7)",
+  "maker": "Microsoft",
+  "killed": 2020,
+  "what": "Microsoft ended online Backgammon, Checkers, Spades and other games",
+  "revived_by": [
+   "https://github.com/provigz/ZoneInternetGamesServer"
+  ],
+  "source": "https://www.windowscentral.com/internet-games-windows-xp-me-and-7-lose-support-over-next-six-months",
+  "kind": "service"
+ },
+ {
+  "product": "JuiceBox EV chargers (North America)",
+  "maker": "Enel X Way",
+  "killed": 2024,
+  "what": "Enel X Way shut down in North America and ended JuiceBox support",
+  "revived_by": [
+   "https://github.com/JuiceRescue/juicepassproxy"
+  ],
+  "source": "https://en.wikipedia.org/wiki/EMotorWerks",
+  "kind": "device"
+ },
+ {
+  "product": "The Last of Us multiplayer (PS3)",
+  "maker": "Sony / Naughty Dog",
+  "killed": 2019,
+  "what": "The PS3 version's multiplayer servers were shut down",
+  "revived_by": [
+   "https://github.com/comradesean/tlou-factions-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)",
+  "kind": "game"
+ },
+ {
+  "product": "Otherland",
+  "maker": "Drago Entertainment",
+  "killed": 2021,
+  "what": "The MMO's servers were shut down permanently",
+  "revived_by": [
+   "https://github.com/AnotherlandServer/anotherland"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Otherland",
+  "kind": "game"
+ },
+ {
+  "product": "Blacklight: Retribution (PC)",
+  "maker": "Perfect World Entertainment",
+  "killed": 2019,
+  "what": "The PC version of the free-to-play shooter ceased to operate",
+  "revived_by": [
+   "https://gitlab.com/blrevive/zcure"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Blacklight:_Retribution",
+  "kind": "game"
+ },
+ {
+  "product": "Lemnis Gate",
+  "maker": "Ratloop Games Canada / Frontier Foundry",
+  "killed": 2023,
+  "what": "The game's multiplayer servers were shut down",
+  "revived_by": [
+   "https://github.com/wafflecomposite/LemnisGateSalvageOps"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Lemnis_Gate",
+  "kind": "game"
+ },
+ {
+  "product": "Hitman: Absolution Contracts mode",
+  "maker": "IO Interactive",
+  "killed": 2018,
+  "what": "The online servers for Contracts mode were shut down",
+  "revived_by": [
+   "https://github.com/LennardF1989/Hitman-5-Server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Hitman:_Absolution",
+  "kind": "game"
+ },
+ {
+  "product": "Monster Hunter Explore",
+  "maker": "Capcom",
+  "killed": 2020,
+  "what": "Capcom shut down the mobile Monster Hunter game",
+  "revived_by": [
+   "https://github.com/Forgotten-MH/apypos-server"
+  ],
+  "source": "https://en.wikipedia.org/wiki/Monster_Hunter",
+  "kind": "game"
+ }
+]

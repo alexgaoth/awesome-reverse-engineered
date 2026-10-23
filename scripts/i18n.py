@@ -11,6 +11,7 @@ LANGS = [  # (code, file, label)
 
 S = {
     "en": {
+        "h_res": "Resurrected", "res_p": "{n} products their makers killed, kept alive by open-source projects built through reverse engineering.", "res_link": "See all {n} on the Resurrected page", "th_res": ["Product", "Killed by", "Year", "Revived by"],
         "mcp": "MCP server (Claude Desktop, Cursor, any MCP client)",
         "h_badge": "Is your project listed?",
         "badge_p": "Add this badge to your README. On the [website]({site}), each project has a **badge** button that copies a version linking to its own entry.",
@@ -63,6 +64,7 @@ S = {
         "cta": "If this saved you from reverse engineering something yourself, [give it a star]({repo}).",
     },
     "zh-CN": {
+        "h_res": "起死回生", "res_p": "{n} 个被厂商关停、变砖或放弃的产品，靠逆向工程做出的开源项目重新活了过来。", "res_link": "在「起死回生」页面查看全部 {n} 个", "th_res": ["产品", "关停方", "年份", "复活项目"],
         "mcp": "MCP 服务器（Claude Desktop、Cursor 等任意 MCP 客户端）",
         "h_badge": "你的项目被收录了吗？",
         "badge_p": "可以把这个徽章加到你的 README 里。在[网站]({site})上，每个项目都有一个 **badge** 按钮，可以复制指向该项目条目的版本。",
@@ -115,6 +117,7 @@ S = {
         "cta": "如果它让你省去了亲自逆向的麻烦，[请给它一个星标]({repo})。",
     },
     "fr": {
+        "h_res": "Ressuscités", "res_p": "{n} produits abandonnés par leur fabricant, maintenus en vie par des projets open source nés de la rétro-ingénierie.", "res_link": "Voir les {n} sur la page Ressuscités", "th_res": ["Produit", "Arrêté par", "Année", "Ressuscité par"],
         "mcp": "Serveur MCP (Claude Desktop, Cursor, tout client MCP)",
         "h_badge": "Votre projet est référencé ?",
         "badge_p": "Ajoutez ce badge à votre README. Sur le [site]({site}), chaque projet a un bouton **badge** qui copie une version pointant vers sa propre fiche.",
@@ -167,6 +170,7 @@ S = {
         "cta": "Si cet index vous a évité de faire de la rétro-ingénierie vous-même, [mettez-lui une étoile]({repo}).",
     },
     "es": {
+        "h_res": "Resucitados", "res_p": "{n} productos que su fabricante abandonó, mantenidos con vida por proyectos de código abierto hechos con ingeniería inversa.", "res_link": "Ver los {n} en la página Resucitados", "th_res": ["Producto", "Cerrado por", "Año", "Revivido por"],
         "mcp": "Servidor MCP (Claude Desktop, Cursor, cualquier cliente MCP)",
         "h_badge": "¿Tu proyecto está en la lista?",
         "badge_p": "Añade esta insignia a tu README. En la [web]({site}), cada proyecto tiene un botón **badge** que copia una versión que enlaza a su propia ficha.",

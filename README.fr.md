@@ -55,6 +55,23 @@ Les agents et des outils comme [REA](https://github.com/morluto/rea) et [Ghidra]
 | [**Outils de rétro-ingénierie**](categories/re-tooling.md) | 1,031 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
 | [**Collections et listes Awesome**](categories/collections-awesome-lists.md) | 139 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
 
+## Ressuscités
+
+131 produits abandonnés par leur fabricant, maintenus en vie par des projets open source nés de la rétro-ingénierie.
+
+| Produit | Arrêté par | Année | Ressuscité par |
+|---|---|--:|---|
+| Spotify Car Thing | Spotify | 2024 | [DeskThing](https://github.com/ItsRiprod/DeskThing) |
+| Amazon Dash Button | Amazon | 2019 | [node-dash-button](https://github.com/hortinstein/node-dash-button) |
+| Nest Learning Thermostat (1st and 2nd gen) | Google | 2025 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) |
+| AOL Instant Messenger (AIM) | AOL | 2017 | [Open OSCAR Server (Retro AIM Server)](https://github.com/mk6i/open-oscar-server) |
+| Nintendo Wi-Fi Connection (DS and Wii online) | Nintendo | 2014 | [DWC Network Server Emulator](https://github.com/barronwaffles/dwc_network_server_emulator) |
+| Pebble smartwatch | Fitbit | 2018 | [mobile-app](https://github.com/pebble-dev/mobile-app) |
+| ICQ | VK | 2024 | [Open OSCAR Server (Retro AIM Server)](https://github.com/mk6i/open-oscar-server) |
+| Neato robot vacuums | Neato Robotics / Vorwerk | 2025 | [fang](https://github.com/vacuula/fang) |
+
+**[Voir les 131 sur la page Ressuscités →](https://alexgaoth.github.io/awesome-reverse-engineered/resurrected/)**
+
 ## Donnez tout l'index à votre agent IA
 
 Quand une tâche doit communiquer avec quelque chose qui n'a pas d'API officielle (une prise connectée, une voiture, une messagerie, un format de fichier), votre agent cherche dans cet index, trie par étoiles, activité et licence, lit le README et choisit le bon outil.

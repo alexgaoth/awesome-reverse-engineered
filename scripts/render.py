@@ -281,6 +281,8 @@ def main():
     import sys
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     from i18n import LANGS, S, CAT
+    import resurrected  # the Resurrected page (docs/resurrected/) and its README teaser
+    res = resurrected.build(ROOT, entries, n, MONO, SANS)
 
     def badge(label, msg, color="ffb000"):
         return f"https://img.shields.io/badge/{label}-{msg}-{color}?style=flat-square&labelColor=0e0f0d"
@@ -329,6 +331,14 @@ def main():
             R.append(f"| [**{cn(c)}**](categories/{slug(c)}.md) | {ccount[c]:,} | "
                      + ", ".join(f"[{p['name'].replace('|', '/')}]({p['url']})" for p in picks) + " |")
         R.append("")
+
+        if res:
+            R += [f"## {t['h_res']}", "", t["res_p"].format(n=len(res)), "",
+                  f"| {' | '.join(t['th_res'])} |", "|---|---|--:|---|"]
+            for r in sorted(res, key=lambda r: -r["stars"])[:8]:
+                e = r["revs"][0]
+                R.append(f"| {r['product'].replace('|', '/')} | {r['maker']} | {int(r['killed'])} | [{e['name'].replace('|', '/')}]({e['url']}) |")
+            R += ["", f"**[{t['res_link'].format(n=len(res))} →]({SITE}resurrected/)**", ""]
 
         R += [f"## {t['h_agent']}", "", t["agent_p"], "",
               "```bash", "npx skills add alexgaoth/awesome-reverse-engineered", "```", "",

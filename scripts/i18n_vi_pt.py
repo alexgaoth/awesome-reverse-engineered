@@ -6,6 +6,7 @@ SKILL = "`npx skills add alexgaoth/awesome-reverse-engineered`"
 
 S = {
     "vi": {
+        "h_res": "Hồi sinh", "res_p": "{n} sản phẩm bị chính hãng khai tử, được các dự án mã nguồn mở xây dựng nhờ dịch ngược giữ cho tiếp tục hoạt động.", "res_link": "Xem cả {n} sản phẩm trên trang Hồi sinh", "th_res": ["Sản phẩm", "Bị khai tử bởi", "Năm", "Hồi sinh bởi"],
         "mcp": "Máy chủ MCP (Claude Desktop, Cursor, mọi client MCP)",
         "h_badge": "Dự án của bạn có trong danh sách?",
         "badge_p": "Thêm huy hiệu này vào README của bạn. Trên [website]({site}), mỗi dự án có nút **badge** để sao chép phiên bản liên kết tới mục của chính dự án đó.",
@@ -58,6 +59,7 @@ S = {
         "cta": "Nếu chỉ mục này giúp bạn khỏi phải tự dịch ngược, [hãy tặng nó một sao]({repo}).",
     },
     "pt-BR": {
+        "h_res": "Ressuscitados", "res_p": "{n} produtos que o fabricante matou, mantidos vivos por projetos de código aberto feitos com engenharia reversa.", "res_link": "Veja os {n} na página Ressuscitados", "th_res": ["Produto", "Encerrado por", "Ano", "Revivido por"],
         "mcp": "Servidor MCP (Claude Desktop, Cursor, qualquer cliente MCP)",
         "h_badge": "Seu projeto está na lista?",
         "badge_p": "Adicione este selo ao seu README. No [site]({site}), cada projeto tem um botão **badge** que copia uma versão com link para a própria entrada.",

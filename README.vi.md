@@ -55,6 +55,23 @@ Agent và các công cụ như [REA](https://github.com/morluto/rea) và [Ghidra
 | [**Công cụ dịch ngược**](categories/re-tooling.md) | 1,031 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
 | [**Bộ sưu tập và danh sách Awesome**](categories/collections-awesome-lists.md) | 139 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
 
+## Hồi sinh
+
+131 sản phẩm bị chính hãng khai tử, được các dự án mã nguồn mở xây dựng nhờ dịch ngược giữ cho tiếp tục hoạt động.
+
+| Sản phẩm | Bị khai tử bởi | Năm | Hồi sinh bởi |
+|---|---|--:|---|
+| Spotify Car Thing | Spotify | 2024 | [DeskThing](https://github.com/ItsRiprod/DeskThing) |
+| Amazon Dash Button | Amazon | 2019 | [node-dash-button](https://github.com/hortinstein/node-dash-button) |
+| Nest Learning Thermostat (1st and 2nd gen) | Google | 2025 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) |
+| AOL Instant Messenger (AIM) | AOL | 2017 | [Open OSCAR Server (Retro AIM Server)](https://github.com/mk6i/open-oscar-server) |
+| Nintendo Wi-Fi Connection (DS and Wii online) | Nintendo | 2014 | [DWC Network Server Emulator](https://github.com/barronwaffles/dwc_network_server_emulator) |
+| Pebble smartwatch | Fitbit | 2018 | [mobile-app](https://github.com/pebble-dev/mobile-app) |
+| ICQ | VK | 2024 | [Open OSCAR Server (Retro AIM Server)](https://github.com/mk6i/open-oscar-server) |
+| Neato robot vacuums | Neato Robotics / Vorwerk | 2025 | [fang](https://github.com/vacuula/fang) |
+
+**[Xem cả 131 sản phẩm trên trang Hồi sinh →](https://alexgaoth.github.io/awesome-reverse-engineered/resurrected/)**
+
 ## Trao toàn bộ chỉ mục cho AI agent của bạn
 
 Khi một tác vụ cần làm việc với thứ không có API chính thức (ổ cắm thông minh, ô tô, ứng dụng nhắn tin, định dạng tệp), agent của bạn sẽ tìm trong chỉ mục này, xếp hạng theo số sao, mức độ hoạt động và giấy phép, đọc README rồi chọn công cụ phù hợp.
