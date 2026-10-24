@@ -250,5 +250,23 @@
   "name": "MultimediaWiki",
   "removed": "2026-10-23",
   "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://github.com/n1tr00-10/tiktok-signature",
+  "name": "tiktok-signature",
+  "removed": "2026-10-24",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+  "name": "tiktok-web-signature",
+  "removed": "2026-10-24",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/AnkioTomas/qqpet",
+  "name": "qqpet",
+  "removed": "2026-10-24",
+  "reason": "not found on GitHub"
  }
 ]
