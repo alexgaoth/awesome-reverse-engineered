@@ -268,5 +268,17 @@
   "name": "qqpet",
   "removed": "2026-10-24",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/burrow-dev/burrow-server",
+  "name": "burrow-server",
+  "removed": "2026-10-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pedrohenrique505/Recomp-Domination",
+  "name": "Recomp-Domination",
+  "removed": "2026-10-25",
+  "reason": "not found on GitHub"
  }
 ]

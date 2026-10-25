@@ -65,7 +65,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 886 | 🟢 | JavaScript |
+| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 889 | 🟢 | JavaScript |
 | [Binternet](https://github.com/Ahwxorg/Binternet) | Privacy-respecting Pinterest frontend | 305 | 🟢 | PHP |
 | [Pinless](https://github.com/bunk-im/pinless) | Alternative Pinterest frontend | 47 | 🟢 | Go |
 | [Omgur](https://github.com/geraldwuhoo/omgur) | Privacy-focused alternative Imgur frontend | 23 | 🟢 | Go |
@@ -120,9 +120,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Troddit](https://github.com/burhan-syed/troddit) | Alternative web client for Reddit | 624 | 🗄️ | TypeScript |
+| [Troddit](https://github.com/burhan-syed/troddit) | Alternative web client for Reddit | 623 | 🗄️ | TypeScript |
 | [lurker](https://github.com/oppiliappan/lurker) | Self-hostable, read-only Reddit client/frontend | 327 | 🟢 | Pug |
-| [Eddrit](https://github.com/corenting/eddrit) | Alternative Reddit frontend inspired by Nitter (Python, Starlette) | 194 | 🟢 | Python |
+| [Eddrit](https://github.com/corenting/eddrit) | Alternative Reddit frontend inspired by Nitter (Python, Starlette) | 195 | 🟢 | Python |
 | [rdx](https://github.com/avadhesh18/rdx) | Apollo-inspired anonymous web viewer for Reddit | 100 | 🟢 | HTML |
 | [Redmemo](https://github.com/Meeks233/Redmemo) | Self-hosted, privacy-first Reddit frontend with a persistent archive — stealth API access keeps what it fetches, so y... | 7 | 🟢 | Go |
 | [Stealth](https://gitlab.com/cosmosapps/stealth) | Account-free, privacy-oriented Reddit client for Android |  | ⚪ |  |
@@ -132,10 +132,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [searxng](https://github.com/searxng/searxng) | Metasearch engine that scrapes and aggregates results from many search services | 38,791 | 🟢 | Python |
-| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,559 | 🟢 | Python |
-| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,560 | 🗄️ | Python |
-| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,442 | 🟢 | TypeScript |
+| [searxng](https://github.com/searxng/searxng) | Metasearch engine that scrapes and aggregates results from many search services | 38,825 | 🟢 | Python |
+| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,562 | 🟢 | Python |
+| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,561 | 🗄️ | Python |
+| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,446 | 🟢 | TypeScript |
 | [librex](https://github.com/hnhx/librex) | JavaScript-free privacy meta search engine scraping Google and others (LibreX) | 843 | 🟡 | PHP |
 | [araa-search](https://github.com/Extravi/araa-search) | Self-hosted privacy Google metasearch engine with API (scrapes Google results) | 335 | 🟢 | Python |
 | [LibreY](https://github.com/Ahwxorg/LibreY) | Privacy-respecting metasearch engine scraping Google and others | 323 | 🟢 | PHP |
@@ -175,8 +175,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Squawker](https://github.com/j-fbriere/squawker) | Maintained fork of Fritter: account-free Twitter client for Android | 1,467 | 🟢 | Dart |
-| [Fritter](https://github.com/jonjomckay/fritter) | Twitter client for Android using the guest/private web API, no account | 1,448 | 🟢 | Dart |
+| [Squawker](https://github.com/j-fbriere/squawker) | Maintained fork of Fritter: account-free Twitter client for Android | 1,471 | 🟢 | Dart |
+| [Fritter](https://github.com/jonjomckay/fritter) | Twitter client for Android using the guest/private web API, no account | 1,449 | 🟢 | Dart |
 | [Shitter](https://codeberg.org/shitter/shitter) | Alternative Twitter/X frontend |  | ⚪ |  |
 | [yitter](https://codeberg.org/PrivacyDev/yitter) | Alternative frontend for Twitter/X |  | ⚪ |  |
 
@@ -184,12 +184,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ytfzf](https://github.com/pystardust/ytfzf) | POSIX script to search and play YouTube videos without an API key | 4,162 | 🟡 | Shell |
+| [ytfzf](https://github.com/pystardust/ytfzf) | POSIX script to search and play YouTube videos without an API key | 4,163 | 🟡 | Shell |
 | [yattee](https://github.com/yattee/yattee) | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,766 | 🟢 | Swift |
 | [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | Open-source YouTube app for Android using NewPipeExtractor | 2,802 | 🟢 | Java |
 | [ViewTube](https://github.com/ViewTube/viewtube) | Privacy-friendly YouTube frontend that scrapes YouTube directly | 1,475 | 🟢 | TypeScript |
 | [youtube-viewer](https://github.com/trizen/youtube-viewer) | Lightweight YouTube client for Linux (CLI and GTK) | 1,320 | 🟢 | Perl |
-| [Materialious](https://github.com/Materialious/Materialious) | Material Design YouTube client built on the Invidious API | 1,222 | 🟢 | TypeScript |
+| [Materialious](https://github.com/Materialious/Materialious) | Material Design YouTube client built on the Invidious API | 1,223 | 🟢 | TypeScript |
 | [Beatbump](https://github.com/snuffyDev/Beatbump) | Alternative YouTube Music frontend in SvelteKit using the internal API | 1,129 | 🗄️ | TypeScript |
 | [my-yt](https://github.com/christian-fei/my-yt) | Clean, minimal self-hosted YouTube frontend | 1,071 | 🟢 | JavaScript |
 | [FreeTube PWA (FreeTubeCordova)](https://github.com/MarmadileManteater/FreeTubeAndroid) | Android/PWA build of FreeTube, a private YouTube client | 779 | 🟢 | Vue |
@@ -198,8 +198,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pipe-viewer](https://github.com/trizen/pipe-viewer) | Lightweight YouTube client that scrapes YouTube without an API key | 515 | 🟢 | Perl |
 | [ytify](https://github.com/n-ce/ytify) | Lightweight YouTube Music/YouTube audio streaming frontend | 463 | 🟢 | TypeScript |
 | [invidious-companion](https://github.com/iv-org/invidious-companion) | Invidious companion service handling YouTube video streams via youtube.js | 215 | 🟢 | TypeScript |
+| [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) | Alternative YouTube frontend | 177 | 🟢 | JavaScript |
 | [Piped-Material](https://github.com/mmjee/Piped-Material) | Material Design frontend for the Piped YouTube proxy | 172 | 🟢 | Vue |
-| [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) | Alternative YouTube frontend | 161 | 🟢 | JavaScript |
 | [LightTube](https://github.com/lighttube-org/LightTube) | Lightweight, privacy-respecting YouTube frontend using InnerTube | 141 | 🗄️ | C# |
 | [Tubo](https://github.com/migalmoreno/tubo) | Streaming frontend for YouTube, SoundCloud and more built on NewPipeExtractor | 72 | 🟢 | Clojure |
 | [invuedious](https://github.com/bocchilorenzo/invuedious) | Vue.js alternative frontend for Invidious instances | 53 | 🟡 | Vue |
