@@ -280,5 +280,41 @@
   "name": "Recomp-Domination",
   "removed": "2026-10-25",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Open-Travelers/closeopenCWOC",
+  "name": "OpenCrashWOC",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/HearthSim/HSTracker",
+  "name": "HSTracker",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Nugetinc/MixelsRushDecompilation",
+  "name": "Mixels Rush",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/jfj-oss/openDWU",
+  "name": "openDWU (Distant Worlds: Universe)",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/toowasmir/WebOfShadowsRecomp",
+  "name": "Spider-Man: Web of Shadows",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/thetaplace/bush",
+  "name": "bush",
+  "removed": "2026-10-26",
+  "reason": "not found on GitHub"
  }
 ]
