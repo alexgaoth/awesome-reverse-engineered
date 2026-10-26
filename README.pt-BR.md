@@ -14,6 +14,8 @@
 
 **[Skill para agentes](#dê-o-índice-inteiro-ao-seu-agente-de-ia)** · **[Categorias](#o-que-tem-aqui)** · **[Em alta nesta semana](#em-alta-nesta-semana)** · **[Sugerir um projeto](#como-contribuir)**
 
+<a href="https://trendshift.io/repositories/313508"><img src="https://trendshift.io/api/badge/trendshift/repositories/313508/daily?language=Python" alt="Trendshift: #17 Python repository of the day" width="250" height="55"></a>
+
 <sub>Os nomes e as descrições dos projetos estão em inglês.</sub>
 
 </div>

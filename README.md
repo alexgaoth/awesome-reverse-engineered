@@ -14,6 +14,8 @@
 
 **[Agent skill](#give-your-ai-agent-the-whole-index)** · **[Categories](#whats-inside)** · **[Hot this week](#hot-this-week)** · **[Add a project](#contributing)**
 
+<a href="https://trendshift.io/repositories/313508"><img src="https://trendshift.io/api/badge/trendshift/repositories/313508/daily?language=Python" alt="Trendshift: #17 Python repository of the day" width="250" height="55"></a>
+
 </div>
 
 ---

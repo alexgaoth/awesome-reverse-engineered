@@ -14,6 +14,8 @@
 
 **[智能体技能](#让你的-ai-智能体使用整个索引)** · **[分类](#收录内容)** · **[本周热门](#本周热门)** · **[提交项目](#参与贡献)**
 
+<a href="https://trendshift.io/repositories/313508"><img src="https://trendshift.io/api/badge/trendshift/repositories/313508/daily?language=Python" alt="Trendshift: #17 Python repository of the day" width="250" height="55"></a>
+
 <sub>项目名称和描述保留英文原文。 · 社区：<a href="https://linux.do">LINUX DO</a></sub>
 
 </div>

@@ -14,6 +14,8 @@
 
 **[Skill cho agent](#trao-toàn-bộ-chỉ-mục-cho-ai-agent-của-bạn)** · **[Danh mục](#có-gì-bên-trong)** · **[Nổi bật tuần này](#nổi-bật-tuần-này)** · **[Đề xuất dự án](#đóng-góp)**
 
+<a href="https://trendshift.io/repositories/313508"><img src="https://trendshift.io/api/badge/trendshift/repositories/313508/daily?language=Python" alt="Trendshift: #17 Python repository of the day" width="250" height="55"></a>
+
 <sub>Tên và mô tả dự án được giữ nguyên bằng tiếng Anh.</sub>
 
 </div>
