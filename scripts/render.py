@@ -249,6 +249,17 @@ def main():
         open(os.path.join(ROOT, "assets", "demo.svg"), "w").write(
             demo_svg("tuya local", "control my Tuya smart plug locally, no cloud", demo))
 
+    # Crawlable category and subcategory pages, sitemap.xml and robots.txt (scripts/pages.py).
+    import sys
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import pages
+    pages.build(ROOT, by, cats, ccount, n, health)
+    ip = os.path.join(ROOT, "docs", "index.html")
+    links = " ".join(f'<a href="c/{slug(c)}/">{esc(c)} ({ccount[c]:,})</a>' for c in cats)
+    s = open(ip).read()
+    open(ip, "w").write(re.sub(r"<!-- cats:start -->.*?<!-- cats:end -->",
+                               lambda m: f"<!-- cats:start -->{links}<!-- cats:end -->", s, flags=re.S))
+
     # Category pages.
     cdir = os.path.join(ROOT, "categories")
     os.makedirs(cdir, exist_ok=True)

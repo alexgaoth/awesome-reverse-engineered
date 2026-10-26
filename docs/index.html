@@ -130,6 +130,7 @@ select { font: 14px var(--sans); color: var(--ink); background: var(--surface); 
 footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--ink-3); font-size: 13px; }
 footer .wrap { display: flex; gap: 24px; flex-wrap: wrap; justify-content: space-between; }
 footer a { color: var(--ink-2); }
+footer .browse { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-bottom: 20px; }
 
 @media (prefers-reduced-motion: no-preference) {
   .row { animation: in .35s cubic-bezier(.16,1,.3,1) both; }
@@ -216,6 +217,7 @@ footer a { color: var(--ink-2); }
 </main>
 
 <footer>
+  <nav class="wrap browse" aria-label="Browse by category"><!-- cats:start --><a href="c/ai-tools-llm-clients/">AI Tools &amp; LLM Clients (740)</a> <a href="c/game-decompilations-reimplementations/">Game Decompilations &amp; Reimplementations (6,066)</a> <a href="c/devices-iot-hardware/">Devices, IoT &amp; Hardware (3,059)</a> <a href="c/unofficial-web-app-api-clients/">Unofficial Web/App API Clients (908)</a> <a href="c/messaging-social-apps/">Messaging &amp; Social Apps (297)</a> <a href="c/third-party-clients/">Third-party Clients (190)</a> <a href="c/chinese-asian-platforms/">Chinese &amp; Asian Platforms (325)</a> <a href="c/apple-ecosystem/">Apple Ecosystem (344)</a> <a href="c/drivers-low-level-hardware/">Drivers &amp; Low-level Hardware (442)</a> <a href="c/automotive/">Automotive (525)</a> <a href="c/industrial-building-automation/">Industrial &amp; Building Automation (291)</a> <a href="c/firmware-embedded/">Firmware &amp; Embedded (494)</a> <a href="c/network-wire-protocols/">Network &amp; Wire Protocols (426)</a> <a href="c/file-formats/">File Formats (439)</a> <a href="c/online-service-revivals/">Online Service Revivals (638)</a> <a href="c/desktop-software-reimplementations/">Desktop Software Reimplementations (226)</a> <a href="c/alternative-frontends/">Alternative Frontends (121)</a> <a href="c/mobile-apps/">Mobile Apps (102)</a> <a href="c/re-tooling/">RE Tooling (1,031)</a> <a href="c/collections-awesome-lists/">Collections &amp; Awesome Lists (139)</a><!-- cats:end --></nav>
   <div class="wrap">
     <span>Data <span id="updated"></span>. Stars, archived state and dead links refresh nightly from the GitHub API.</span>
     <span><a href="https://github.com/alexgaoth/awesome-reverse-engineered">Repository</a> · <a href="data.json">Raw data</a> · <a href="https://github.com/alexgaoth/awesome-reverse-engineered#scope">Scope</a> · MIT code, CC0 data</span>
