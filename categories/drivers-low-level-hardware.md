@@ -1,6 +1,6 @@
 # Drivers & Low-level Hardware
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 442 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=drivers-low-level-hardware) · 443 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -12,6 +12,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Headsets, Audio Interfaces & Webcams](#headsets-audio-interfaces--webcams) (41)
 - [Lab Instruments & Thermal Cameras](#lab-instruments--thermal-cameras) (84)
 - [Laptop EC & Peripherals](#laptop-ec--peripherals) (82)
+- [Other](#other) (1)
 - [Printers, Scanners & Fingerprint](#printers-scanners--fingerprint) (40)
 - [Wi-Fi & Radios](#wi-fi--radios) (21)
 
@@ -435,6 +436,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [omnibook](https://sourceforge.net/projects/omnibook/) | Kernel module for HP OmniBook, Pavilion and Toshiba laptop hardware features |  | ⚪ |  |
 | [tpctl](https://sourceforge.net/projects/tpctl/) | ThinkPad configuration tools using the reverse-engineered SMAPI BIOS interface |  | ⚪ |  |
 | [xrite-devel](https://codeberg.org/dach/xrite-devel) | Reverse engineering the X-Rite embedded colour calibration sensor in laptops |  | ⚪ |  |
+
+## Other
+
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [IBM MCGA](https://github.com/schlae/IBM_MCGA) | Reverse-engineered logic of the IBM PS/2 MCGA video gate array chips | 40 | 🟡 |  |
 
 ## Printers, Scanners & Fingerprint
 

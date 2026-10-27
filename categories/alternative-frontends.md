@@ -1,6 +1,6 @@
 # Alternative Frontends
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 121 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=alternative-frontends) · 122 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -17,7 +17,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Translation](#translation) (6)
 - [Twitch](#twitch) (5)
 - [Twitter/X](#twitterx) (4)
-- [YouTube](#youtube) (24)
+- [YouTube](#youtube) (25)
 - [YouTube Music](#youtube-music) (2)
 
 ## Articles & Reference Sites
@@ -196,6 +196,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [youtube-local](https://github.com/user234683/youtube-local) | Browser-based YouTube client that fetches pages directly, no Google JS | 778 | 🟢 | JavaScript |
 | [yt2009](https://github.com/ftde0/yt2009) | Recreation of the 2009 YouTube frontend backed by live YouTube data | 589 | 🟢 | JavaScript |
 | [pipe-viewer](https://github.com/trizen/pipe-viewer) | Lightweight YouTube client that scrapes YouTube without an API key | 515 | 🟢 | Perl |
+| [TypeType](https://github.com/TypeType-Video/TypeType) | Privacy-respecting frontend for watching YouTube, Bilibili and NicoNico | 467 | 🟢 | Shell |
 | [ytify](https://github.com/n-ce/ytify) | Lightweight YouTube Music/YouTube audio streaming frontend | 464 | 🟢 | TypeScript |
 | [invidious-companion](https://github.com/iv-org/invidious-companion) | Invidious companion service handling YouTube video streams via youtube.js | 215 | 🟢 | TypeScript |
 | [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) | Alternative YouTube frontend | 186 | 🟢 | JavaScript |
