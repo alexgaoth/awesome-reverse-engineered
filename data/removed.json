@@ -316,5 +316,29 @@
   "name": "bush",
   "removed": "2026-10-26",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Open-Travelers/OpenCrashWOC",
+  "name": "OpenCrashWOC",
+  "removed": "2026-10-27",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/cabi24/SFRush2049-decomp",
+  "name": "San Francisco Rush 2049 decomp",
+  "removed": "2026-10-27",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ThuverX/MySimsModLoader",
+  "name": "MySimsModLoader",
+  "removed": "2026-10-27",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/yakisoba0728/korail-mobile-api",
+  "name": "korail-mobile-api",
+  "removed": "2026-10-27",
+  "reason": "not found on GitHub"
  }
 ]
