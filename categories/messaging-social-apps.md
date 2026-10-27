@@ -1,17 +1,17 @@
 # Messaging & Social Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 297 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=messaging-social-apps) · 312 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Bridges & Multi-protocol](#bridges--multi-protocol) (44)
+- [Bridges & Multi-protocol](#bridges--multi-protocol) (46)
 - [Discord & Slack](#discord--slack) (39)
 - [Meta (Instagram/Facebook/Threads)](#meta-instagramfacebookthreads) (51)
-- [Other Messaging](#other-messaging) (33)
+- [Other Messaging](#other-messaging) (43)
 - [Signal & Telegram](#signal--telegram) (17)
 - [Social Media Private APIs](#social-media-private-apis) (19)
-- [TikTok & Snapchat](#tiktok--snapchat) (28)
-- [Twitter/X](#twitterx) (22)
+- [TikTok & Snapchat](#tiktok--snapchat) (30)
+- [Twitter/X](#twitterx) (23)
 - [WhatsApp](#whatsapp) (30)
 - [iMessage & Apple Messaging](#imessage--apple-messaging) (14)
 
@@ -28,6 +28,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go](https://github.com/mautrix/go) | Go Matrix framework (bridgev2) underlying the mautrix puppeting bridges | 668 | 🟢 | Go |
 | [pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq) | a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol | 655 | 🔴 | C |
 | [discord](https://github.com/mautrix/discord) | A Matrix-Discord puppeting bridge | 507 | 🟢 | Go |
+| [zalo-tg](https://github.com/williamcachamwri/zalo-tg) | Bidirectional message bridge between Zalo and Telegram | 277 | 🟢 | TypeScript |
 | [gmessages](https://github.com/mautrix/gmessages) | A Matrix-Google Messages puppeting bridge | 192 | 🟢 | Go |
 | [matrix-wechat](https://github.com/duo/matrix-wechat) | Matrix puppeting bridge for WeChat based on mautrix-go | 177 | 🟡 | Go |
 | [matrix-qq](https://github.com/duo/matrix-qq) | Matrix puppeting bridge for Tencent QQ | 171 | 🟡 | Go |
@@ -36,6 +37,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tdlib-purple](https://github.com/ars3niy/tdlib-purple) | libpurple Telegram plugin using tdlib | 146 | 🔴 | C++ |
 | [pidgin-wechat](https://github.com/sbwtw/pidgin-wechat) | pidgin plugin for web wechat protocol | 136 | 🔴 | Rust |
 | [purple-googlechat](https://github.com/EionRobb/purple-googlechat) | libpurple plugin for the Google Chat protocol | 127 | 🟢 | C |
+| [zca-bridge](https://github.com/diendh/zca-bridge) | Self-hosted bridge between personal Zalo accounts and Chatwoot | 127 | 🟢 | TypeScript |
 | [twitter](https://github.com/mautrix/twitter) | A Matrix-Twitter DM puppeting bridge | 126 | 🟢 | Go |
 | [SteamPP](https://github.com/seishun/SteamPP) | C++ library to interoperate with Steam servers | 118 | 🔴 | C++ |
 | [funyahoo-plusplus](https://github.com/EionRobb/funyahoo-plusplus) | A replacement Yahoo prpl (protocol plugin) for Pidgin/libpurple | 59 | 🔴 | C |
@@ -176,16 +178,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wxhelper](https://github.com/ttttupup/wxhelper) | WeChat PC client hooking / reverse-engineering toolkit | 3,191 | 🟢 | C++ |
 | [hangups](https://github.com/tdryer/hangups) | the first third-party instant messaging client for Google Hangouts | 1,742 | 🔴 | Python |
 | [LINE](https://github.com/carpedm20/LINE) | Python client for LINE messenger using its reverse-engineered Thrift protocol | 828 | 🔴 | Python |
+| [DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | Patch that blocks message recall in the DingTalk PC client | 803 | 🟢 |  |
 | [zca-js](https://github.com/RFS-ADRENO/zca-js) | Unofficial Zalo API for JavaScript | 695 | 🟢 | TypeScript |
 | [node-kakao](https://github.com/storycraft/node-kakao) | Loco protocol compatible library | 424 | 🟡 | TypeScript |
 | [Parrot](https://github.com/avaidyam/Parrot) | Google Hangouts client for macOS using the reverse engineered protocol | 324 | 🔴 | Swift |
+| [PyMax](https://github.com/MaxApiTeam/PyMax) | Async Python wrapper for the internal API of the Max messenger (VK) | 281 | 🟢 | Python |
 | [SkPy](https://github.com/Terrance/SkPy) | An unofficial Python library for interacting with the Skype HTTP API. | 270 | 🗄️ | Python |
+| [LarkAgentX](https://github.com/cv-cat/LarkAgentX) | Reverse-engineered Feishu (Lark) APIs for AI agents | 261 | 🟢 | Python |
+| [DingTalk_Assistant](https://github.com/mohuihui/DingTalk_Assistant) | DingTalk PC helper with anti-recall, multi-instance and channel blocking | 253 | 🔴 | C++ |
+| [FeiShuRevokeMsgPatcher](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | Patch that blocks message recall in the Feishu (Lark) PC client | 215 | 🟢 |  |
 | [skyweb](https://github.com/ShyykoSerhiy/skyweb) | Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol. | 196 | 🔴 | TypeScript |
 | [CHRLINE](https://github.com/DeachSword/CHRLINE) | Python client for the LINE Chrome extension API | 178 | 🗄️ | Python |
+| [feishu_minutes](https://github.com/bingsanyu/feishu_minutes) | Uploads and downloads Feishu Minutes videos and subtitles | 142 | 🟡 | Python |
 | [kik-bot-api-unofficial](https://github.com/tomer8007/kik-bot-api-unofficial) | Unofficial Python API for the Kik messenger XMPP-based protocol | 137 | 🟡 | Python |
 | [kakaotalk_analysis](https://github.com/stulle123/kakaotalk_analysis) | Security analysis and reverse engineering of the KakaoTalk app and LOCO protocol | 130 | 🟡 | JavaScript |
 | [BeFake](https://github.com/notmarek/BeFake) | Python wrapper for BeReal's private API | 128 | 🗄️ |  |
+| [GoDingtalk](https://github.com/NAXG/GoDingtalk) | Downloads DingTalk live stream replays | 113 | 🟢 | Go |
+| [openzca](https://github.com/darkamenosa/openzca) | Free alternative to zcacli for integrating personal Zalo accounts with OpenClaw | 107 | 🟢 | TypeScript |
+| [zlapi](https://github.com/Its-VrxxDev/zlapi) | Unofficial Zalo API for Python | 94 | 🗄️ | Python |
 | [beReal-api](https://github.com/chemokita13/beReal-api) | An unofficial BeReal REST API in which you can get all posts info, comment, upload a post... | 85 | 🟡 | TypeScript |
+| [Za-go](https://github.com/tranhaonguyendev/Za-go) | Unofficial Zalo API for Go | 71 | 🟢 | Go |
 | [linkedin-messaging-api](https://github.com/beeper/linkedin-messaging-api) | Unofficial API for LinkedIn Messaging used by Beeper's bridge | 62 | 🗄️ | Python |
 | [line](https://github.com/beeper/line) | A bridgev2 project for bridging Matrix and LINE - Intended for use with Beeper | 54 | 🟢 | Go |
 | [rype](https://github.com/nfelger/rype) | Unofficial Ruby wrapper for the Skype desktop API | 48 | 🔴 | Ruby |
@@ -267,7 +279,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pysnap](https://github.com/mpolden/pysnap) | Python library for the Snapchat API | 258 | 🗄️ | Python |
 | [TikTokPy](https://github.com/Russell-Newton/TikTokPy) | Extracts data from TikTok without login or API keys | 237 | 🟡 | Python |
 | [Flutter-Tiktok-UI-API-Clone](https://github.com/X-SLAYER/Flutter-Tiktok-UI-API-Clone) | Flutter TikTok UI clone using TikTok's private API | 230 | 🔴 | Dart |
+| [TiktokApis](https://github.com/cv-cat/TiktokApis) | Reverse-engineered TikTok request signing algorithms and APIs | 194 | 🟢 | Python |
 | [tiktok-web-reverse-engineering](https://github.com/justscrapeme/tiktok-web-reverse-engineering) | Tiktok Web Reverse Engineering & X-Gnarly implementation | 183 | 🟢 | JavaScript |
+| [TiKTok-data](https://github.com/VideoData/TiKTok-data) | TikTok search, live, comment and user data APIs | 163 | 🟡 |  |
 | [TikTok-API-PHP](https://github.com/ssovit/TikTok-API-PHP) | Unofficial TikTok API for PHP | 151 | 🟡 | HTML |
 | [tiktok-app-api](https://github.com/EmilioBarradas/tiktok-app-api) | Unofficial TikTok Node.js API | 139 | 🗄️ | TypeScript |
 | [SnapchatHax](https://github.com/unixpickle/SnapchatHax) | Early reverse engineering of the Snapchat iOS API | 124 | 🗄️ | Objective-C |
@@ -302,6 +316,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tweepy-authlib](https://github.com/tsukumijima/tweepy-authlib) | Tweepy auth library impersonating the official Twitter web app | 200 | 🗄️ | Python |
 | [twitter-openapi](https://github.com/fa0311/twitter-openapi) | OpenAPI(Swagger) specification of Twitter Internal API (Twitter graphql API) | 196 | 🟢 | Python |
 | [TwitterX](https://github.com/nakiostudio/TwitterX) | Keeps Twitter for macOS alive with code injection | 189 | 🔴 | Objective-C |
+| [XApis](https://github.com/cv-cat/XApis) | Reverse-engineered Twitter (X) request algorithms and APIs | 154 | 🟢 | Python |
 | [twitter_openapi_python](https://github.com/fa0311/twitter_openapi_python) | Implementation of Twitter internal API (Twitter graphql API) in Python with data validation by pydantic | 96 | 🟢 | Python |
 | [reX](https://github.com/parasyte-x/reX) | Reverse engineered Twitter API client | 79 | 🔴 | Go |
 | [tweet_scrapper](https://github.com/5hirish/tweet_scrapper) | Scrape the Twitter frontend API without authentication | 61 | 🗄️ | Python |

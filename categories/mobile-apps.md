@@ -1,6 +1,6 @@
 # Mobile Apps
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 102 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=mobile-apps) · 113 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,7 +8,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [App Store Clients & Downloaders](#app-store-clients--downloaders) (27)
 - [Banking & Finance Apps](#banking--finance-apps) (3)
 - [Fitness & Education Apps](#fitness--education-apps) (16)
-- [Patched & Alternative Clients](#patched--alternative-clients) (35)
+- [Patched & Alternative Clients](#patched--alternative-clients) (46)
 - [Transport & Delivery Apps](#transport--delivery-apps) (14)
 - [iOS Dumping & Decryption](#ios-dumping--decryption) (2)
 
@@ -101,22 +101,33 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [morphe-patches](https://github.com/MorpheApp/morphe-patches) | Patch collection for the Morphe patcher | 4,342 | 🟢 | Java |
 | [revanced-patcher](https://github.com/ReVanced/revanced-patcher) | Bytecode patcher library behind ReVanced | 3,539 | 🟢 | Kotlin |
 | [YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) | The best tweak for YouTube Music iOS. | 2,650 | 🟢 | C |
+| [bilibili TV 1.6.6 repair](https://github.com/qidian55/bilibilitv1.6.6-repair) | Patched classic Bilibili TV 1.6.6 Android client that works again | 2,647 | 🟢 | Smali |
 | [revanced-patches](https://github.com/inotia00/revanced-patches) | ReVanced Extended patches for YouTube and YouTube Music (archived) | 2,265 | 🗄️ | Java |
 | [ZerotierFix](https://github.com/kaaass/ZerotierFix) | Unofficial ZeroTier Android client patched from the official client | 2,213 | 🟡 | Java |
+| [MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) | Standalone framework that lets apps use Xiaomi push without MIUI | 2,209 | 🔴 | Java |
 | [revanced-patches](https://github.com/anddea/revanced-patches) | Third-party ReVanced patch collection | 1,919 | 🟢 | Java |
 | [continuum](https://github.com/cygnusx-1-org/continuum) | Continuation of Infinity for Reddit using user-supplied API keys | 1,719 | 🟢 | Java |
 | [revanced-cli](https://github.com/ReVanced/revanced-cli) | Command-line tool for applying ReVanced patches to APKs | 1,601 | 🟢 | Kotlin |
 | [Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) | iOS tweak that revives the Apollo Reddit app with user API keys and unlocked features | 1,486 | 🟢 | Logos |
 | [instafel](https://github.com/mamiiblt/instafel) | Instafel: patched Instagram alpha builds with extra features | 1,278 | 🟢 | Java |
+| [HMSPush](https://github.com/fei-ke/HMSPush) | Xposed module that enables Huawei HMS push on non-Huawei Android devices | 818 | 🟢 | Kotlin |
+| [smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) | Unofficial maintained Smartisan launcher patched for newer Android | 756 | 🟢 | Smali |
 | [revanced-integrations](https://github.com/ReVanced/revanced-integrations) | Classes merged into patched apps by the ReVanced patcher (archived) | 745 | 🗄️ | Java |
+| [DYYY](https://github.com/huami1314/DYYY) | iOS tweak that customizes the Douyin app UI | 721 | 🟢 | Logos |
 | [rvx-builder](https://github.com/inotia00/rvx-builder) | Node.js builder for ReVanced Extended APKs (archived) | 715 | 🗄️ | JavaScript |
 | [ytermusic](https://github.com/ccgauche/ytermusic) | Terminal YouTube Music client | 701 | 🟢 | Rust |
 | [lite](https://github.com/vtosters/lite) | Modified VK Android client | 639 | 🗄️ | Smali |
 | [Square](https://github.com/Lelonio/Square) | Unofficial YouTube Music / Spotify client for Android with audio effects | 404 | 🟢 | Kotlin |
 | [RedditFilter](https://github.com/level3tjg/RedditFilter) | iOS tweak that filters unwanted content from the Reddit app | 371 | 🟡 | Logos |
+| [Smartisan-original-launcher](https://github.com/RANH-F/Smartisan-original-launcher) | Makes the original Smartisan Launcher run again on modern Android | 300 | 🟢 | Smali |
+| [SmartisanWeather-Revived](https://github.com/Mangi-11/SmartisanWeather-Revived) | Reverse-engineered and rewritten Smartisan Weather app with a new weather data source | 289 | 🟢 | Kotlin |
 | [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) | Decompiles the WhatsApp APK, patches smali, recompiles and signs it | 266 | 🟢 | Java |
+| [SmartisanOS_APP_Port](https://github.com/People-11/SmartisanOS_APP_Port) | Ports of Smartisan OS apps to other Android devices | 228 | 🟢 |  |
+| [MiniThunder](https://github.com/MaxMax2016/MiniThunder) | Android mini Xunlei downloader supporting thunder://, ed2k and magnet links | 182 | 🔴 | Java |
+| [SmartisanClock-Revived](https://github.com/Mangi-11/SmartisanClock-Revived) | Reverse-engineered and rewritten Smartisan Clock app for modern Android | 153 | 🟢 | Kotlin |
 | [revanced-library](https://github.com/ReVanced/revanced-library) | Shared utilities library for ReVanced tools | 143 | 🟢 | Kotlin |
 | [GoogleDialerMod-Magisk](https://github.com/jacopotediosi/GoogleDialerMod-Magisk) | Magisk module tweaking Google Dialer hidden features | 136 | 🗄️ | Shell |
+| [handshaker-android-maintained](https://github.com/rianlu/handshaker-android-maintained) | Unofficial maintained Smartisan HandShaker for newer Android | 128 | 🟢 | Smali |
 | [privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) | ReVanced patches that disable ads, trackers and analytics in apps | 128 | 🗄️ | Kotlin |
 | [mitch](https://github.com/gardenappl/mitch) | Unofficial Android client for itch.io | 117 | 🟡 | Kotlin |
 | [ForPDA](https://github.com/RadiationX/ForPDA) | Alternative Android client for the 4pda.ru forum | 116 | 🟢 | Kotlin |
