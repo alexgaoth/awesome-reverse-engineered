@@ -19,17 +19,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [matterbridge](https://github.com/42wim/matterbridge) | bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip,... | 7,598 | 🟡 | Go |
+| [matterbridge](https://github.com/42wim/matterbridge) | bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip,... | 7,601 | 🟡 | Go |
 | [telegram](https://github.com/mautrix/telegram) | A Matrix-Telegram puppeting bridge | 1,752 | 🟢 | Go |
 | [bridge-manager](https://github.com/beeper/bridge-manager) | A tool for running self-hosted bridges with the Beeper Matrix server. | 1,430 | 🟢 | Go |
 | [whatsapp-purple](https://github.com/davidgfnet/whatsapp-purple) | WhatsApp protocol implementation for libpurple (pidgin) | 859 | 🔴 | C++ |
 | [telegram-purple](https://github.com/majn/telegram-purple) | Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers. | 731 | 🗄️ | C |
-| [signal](https://github.com/mautrix/signal) | A Matrix-Signal puppeting bridge | 676 | 🟢 | Go |
+| [signal](https://github.com/mautrix/signal) | A Matrix-Signal puppeting bridge | 677 | 🟢 | Go |
 | [go](https://github.com/mautrix/go) | Go Matrix framework (bridgev2) underlying the mautrix puppeting bridges | 669 | 🟢 | Go |
 | [pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq) | a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol | 655 | 🔴 | C |
 | [discord](https://github.com/mautrix/discord) | A Matrix-Discord puppeting bridge | 507 | 🟢 | Go |
 | [zalo-tg](https://github.com/williamcachamwri/zalo-tg) | Bidirectional message bridge between Zalo and Telegram | 277 | 🟢 | TypeScript |
-| [gmessages](https://github.com/mautrix/gmessages) | A Matrix-Google Messages puppeting bridge | 193 | 🟢 | Go |
+| [gmessages](https://github.com/mautrix/gmessages) | A Matrix-Google Messages puppeting bridge | 194 | 🟢 | Go |
 | [matrix-wechat](https://github.com/duo/matrix-wechat) | Matrix puppeting bridge for WeChat based on mautrix-go | 177 | 🟡 | Go |
 | [matrix-qq](https://github.com/duo/matrix-qq) | Matrix puppeting bridge for Tencent QQ | 171 | 🟡 | Go |
 | [pidgin-opensteamworks](https://github.com/EionRobb/pidgin-opensteamworks) | Steam plugin for Pidgin/libpurple | 152 | 🔴 | C |
@@ -70,27 +70,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord modification | 14,346 | 🟢 | TypeScript |
-| [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | Exports Discord chat logs to HTML, JSON, CSV or text files | 12,278 | 🟢 | C# |
-| [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. | 9,296 | 🟢 | TypeScript |
-| [Vesktop](https://github.com/Vencord/Vesktop) | Custom Discord desktop app with Vencord preinstalled | 8,549 | 🟢 | TypeScript |
+| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord modification | 14,351 | 🟢 | TypeScript |
+| [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | Exports Discord chat logs to HTML, JSON, CSV or text files | 12,284 | 🟢 | C# |
+| [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. | 9,299 | 🟢 | TypeScript |
+| [Vesktop](https://github.com/Vencord/Vesktop) | Custom Discord desktop app with Vencord preinstalled | 8,551 | 🟢 | TypeScript |
 | [spacebarchat](https://github.com/spacebarchat/spacebarchat) | Free, self-hostable reimplementation of a Discord-compatible chat platform and API | 6,720 | 🟢 |  |
-| [discordo](https://github.com/ayn2op/discordo) | A lightweight, secure, and feature-rich Discord terminal (TUI) client. | 5,853 | 🟢 | Go |
-| [OpenAsar](https://github.com/GooseMod/OpenAsar) | Open-source rewrite of Discord desktop's app.asar | 3,033 | 🟢 | JavaScript |
-| [slackdump](https://github.com/rusq/slackdump) | Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. | 2,841 | 🟢 | Go |
-| [server](https://github.com/spacebarchat/server) | Reimplementation of the Discord.com backend, compatible with Discord clients | 2,211 | 🟢 | TypeScript |
+| [discordo](https://github.com/ayn2op/discordo) | A lightweight, secure, and feature-rich Discord terminal (TUI) client. | 5,855 | 🟢 | Go |
+| [OpenAsar](https://github.com/GooseMod/OpenAsar) | Open-source rewrite of Discord desktop's app.asar | 3,030 | 🟢 | JavaScript |
+| [slackdump](https://github.com/rusq/slackdump) | Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. | 2,842 | 🟢 | Go |
+| [server](https://github.com/spacebarchat/server) | Reimplementation of the Discord.com backend, compatible with Discord clients | 2,210 | 🟢 | TypeScript |
 | [dissent](https://github.com/diamondburned/dissent) | Tiny native Discord app | 1,864 | 🟢 | Go |
 | [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) | Datamining Discord changes from the JS files | 1,854 | 🟢 | JavaScript |
 | [discord.py-self](https://github.com/dolfies/discord.py-self) | Fork of discord.py wrapping Discord's user (self-bot) API | 1,287 | 🟢 | Python |
-| [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) | An unofficial discord.js fork for creating selfbots | 1,234 | 🗄️ | JavaScript |
-| [Replugged](https://github.com/replugged-org/replugged) | Lightweight Discord client mod, continuation of Powercord | 731 | 🟢 | TypeScript |
-| [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) | C# implementation of the Discord Rich Presence IPC protocol | 693 | 🟢 | C# |
+| [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) | An unofficial discord.js fork for creating selfbots | 1,233 | 🗄️ | JavaScript |
+| [Replugged](https://github.com/replugged-org/replugged) | Lightweight Discord client mod, continuation of Powercord | 730 | 🟢 | TypeScript |
+| [discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) | C# implementation of the Discord Rich Presence IPC protocol | 694 | 🟢 | C# |
 | [arikawa](https://github.com/diamondburned/arikawa) | A Golang library and framework for the Discord API. | 603 | 🟢 | Go |
 | [discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers) | Unofficial Discord User API Documentation | 427 | 🟢 | MDX |
 | [slackApiDoc](https://github.com/ErikKalkoken/slackApiDoc) | Documentation of undocumented Slack API methods | 411 | 🟡 |  |
 | [teams-cli](https://github.com/fossteams/teams-cli) | A CLI / TUI for Microsoft Teams | 379 | 🟢 | Go |
 | [slack-libpurple](https://github.com/dylex/slack-libpurple) | Slack module for libpurple | 289 | 🟡 | C |
-| [revenge-bundle-next](https://github.com/revenge-mod/revenge-bundle-next) | Client modification for Discord Android | 198 | 🟢 | TypeScript |
+| [revenge-bundle-next](https://github.com/revenge-mod/revenge-bundle-next) | Client modification for Discord Android | 199 | 🟢 | TypeScript |
 | [discord-protos](https://github.com/discord-userdoccers/discord-protos) | Reverse engineered Discord user settings protobufs | 151 | 🟢 | TypeScript |
 | [slack](https://github.com/mautrix/slack) | A Matrix-Slack puppeting bridge | 107 | 🟢 | Go |
 | [Unofficial-Discord-3DS-Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | Unofficial Discord client for the Nintendo 3DS | 94 | 🔴 | C++ |
@@ -105,7 +105,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [reUpdater](https://github.com/cordpackers/reUpdater) | Decompilation of Discord's updater.node | 20 | 🟢 | C++ |
 | [mee6-py-api](https://github.com/hyperevo/mee6-py-api) | Unofficial Python API for the MEE6 Discord bot leaderboards | 14 | 🔴 | Python |
 | [Reversecord](https://github.com/enginestein/Reversecord) | Reverse-engineered Discord client code | 13 | 🔴 | JavaScript |
-| [antisocialcord-kt](https://github.com/Nightdavisao/antisocialcord-kt) | Kotlin library talking to Discord as the Android app, reverse-engineered from the official client | 10 | 🟢 | Kotlin |
+| [antisocialcord-kt](https://github.com/Nightdavisao/antisocialcord-kt) | Kotlin library talking to Discord as the Android app, reverse-engineered from the official client | 12 | 🟢 | Kotlin |
 | [slack-openapi-generator](https://github.com/connectstrata/slack-openapi-generator) | Regenerates Slack's withdrawn OpenAPI spec by analysing the Slack Node SDK | 7 | 🟢 | JavaScript |
 | [discord-unofficial-docs](https://gitlab.com/luna/discord-unofficial-docs) | Unofficial documentation for undocumented Discord APIs |  | ⚪ |  |
 | [redrpc](https://codeberg.org/techmetx11/redrpc) | Reimplementation of Discord's local RPC server for third-party rich presence |  | ⚪ |  |
@@ -114,11 +114,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [instaloader](https://github.com/instaloader/instaloader) | Download pictures (or videos) along with their captions and other metadata from Instagram. | 13,710 | 🟢 | Python |
-| [instagrapi](https://github.com/subzeroid/instagrapi) | Python library for Instagram's private mobile API | 7,032 | 🟢 | Python |
+| [instaloader](https://github.com/instaloader/instaloader) | Download pictures (or videos) along with their captions and other metadata from Instagram. | 13,714 | 🟢 | Python |
+| [instagrapi](https://github.com/subzeroid/instagrapi) | Python library for Instagram's private mobile API | 7,038 | 🟢 | Python |
 | [instagram-private-api](https://github.com/dilame/instagram-private-api) | Node.js/TypeScript Instagram private API SDK | 6,488 | 🟡 | TypeScript |
 | [instagram_private_api](https://github.com/ping/instagram_private_api) | Python library for Instagram's private API | 3,321 | 🟡 | Python |
-| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) | Scrape Facebook public pages without an API key | 3,317 | 🟡 | Python |
+| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) | Scrape Facebook public pages without an API key | 3,316 | 🟡 | Python |
 | [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api) | Unofficial Facebook Chat API for Nodejs | 1,943 | 🗄️ | JavaScript |
 | [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included. | 1,619 | 🗄️ | TypeScript |
 | [fbchat](https://github.com/fbchat-dev/fbchat) | Facebook Chat (Messenger) for Python | 1,215 | 🟡 | Python |
@@ -128,7 +128,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [aiograpi-rest](https://github.com/subzeroid/aiograpi-rest) | RESTful wrapper service for the Instagram private API | 648 | 🟢 | Python |
 | [instapy-cli](https://github.com/b3nab/instapy-cli) | Python library and CLI to upload photo and video on Instagram. W/o a phone! | 608 | 🔴 | Python |
 | [instagram](https://github.com/mislav/instagram) | Early Instagram website and lightweight HTTP API client | 581 | 🗄️ | Ruby |
-| [aiograpi](https://github.com/subzeroid/aiograpi) | Asynchronous Python library for Instagram's private API | 482 | 🟢 | Python |
+| [aiograpi](https://github.com/subzeroid/aiograpi) | Asynchronous Python library for Instagram's private API | 483 | 🟢 | Python |
 | [threads-net](https://github.com/dmytrostriletskyi/threads-net) | Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not... | 425 | 🔴 | Python |
 | [facebook](https://github.com/mautrix/facebook) | A Matrix-Facebook Messenger puppeting bridge | 388 | 🗄️ | Python |
 | [threads-re](https://github.com/m1guelpf/threads-re) | Reverse-engineering Instagram's Threads private APIs | 368 | 🔴 |  |
@@ -143,7 +143,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Instagram-API](https://github.com/danleyb2/Instagram-API) | Instagram private API library (PHP/Python) | 120 | 🗄️ | Python |
 | [instago](https://github.com/siongui/instago) | Go package for the private Instagram API | 115 | 🔴 | Go |
 | [Facebot](https://github.com/davidyen1124/Facebot) | Unofficial Facebook API | 112 | 🗄️ | Python |
-| [MetaAdsCollector](https://github.com/promisingcoder/MetaAdsCollector) | Collects Meta Ad Library ads via the reverse-engineered internal GraphQL API | 104 | 🟢 | Python |
+| [MetaAdsCollector](https://github.com/promisingcoder/MetaAdsCollector) | Collects Meta Ad Library ads via the reverse-engineered internal GraphQL API | 105 | 🟢 | Python |
 | [fbmsgr](https://github.com/unixpickle/fbmsgr) | Reverse engineered Facebook Messenger API in Go | 95 | 🔴 | Go |
 | [user-instagram](https://github.com/EdouardCourty/user-instagram) | Get data of any Instagram user or post | 81 | 🗄️ | JavaScript |
 | [threads-api](https://github.com/m1guelpf/threads-api) | Reverse engineered Rust client for Instagram's Threads | 77 | 🔴 | Rust |
@@ -170,22 +170,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [WeChatMsg](https://github.com/LC044/WeChatMsg) | Exports and analyses local WeChat chat history by decoding the client's database | 42,255 | 🟢 |  |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) | Exports and analyses local WeChat chat history by decoding the client's database | 42,280 | 🟢 |  |
 | [ItChat](https://github.com/littlecodersh/ItChat) | Python API for personal WeChat accounts via the WeChat web protocol | 26,452 | 🔴 | Python |
-| [wechaty](https://github.com/wechaty/wechaty) | Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt | 23,414 | 🟢 | TypeScript |
+| [wechaty](https://github.com/wechaty/wechaty) | Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt | 23,423 | 🟢 | TypeScript |
 | [wxpy](https://github.com/youfou/wxpy) | Python API for personal WeChat accounts (bot framework built on itchat) | 14,251 | 🗄️ | Python |
 | [WeChatFerry](https://github.com/lich0821/WeChatFerry) | WeChat bot framework that hooks the WeChat PC client | 6,807 | 🗄️ | C++ |
 | [wxhelper](https://github.com/ttttupup/wxhelper) | WeChat PC client hooking / reverse-engineering toolkit | 3,190 | 🟢 | C++ |
-| [hangups](https://github.com/tdryer/hangups) | the first third-party instant messaging client for Google Hangouts | 1,742 | 🔴 | Python |
+| [hangups](https://github.com/tdryer/hangups) | the first third-party instant messaging client for Google Hangouts | 1,743 | 🔴 | Python |
 | [LINE](https://github.com/carpedm20/LINE) | Python client for LINE messenger using its reverse-engineered Thrift protocol | 828 | 🔴 | Python |
-| [DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | Patch that blocks message recall in the DingTalk PC client | 803 | 🟢 |  |
-| [zca-js](https://github.com/RFS-ADRENO/zca-js) | Unofficial Zalo API for JavaScript | 701 | 🟢 | TypeScript |
-| [node-kakao](https://github.com/storycraft/node-kakao) | Loco protocol compatible library | 424 | 🟡 | TypeScript |
+| [DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | Patch that blocks message recall in the DingTalk PC client | 804 | 🟢 |  |
+| [zca-js](https://github.com/RFS-ADRENO/zca-js) | Unofficial Zalo API for JavaScript | 702 | 🟢 | TypeScript |
+| [node-kakao](https://github.com/storycraft/node-kakao) | Loco protocol compatible library | 425 | 🟡 | TypeScript |
 | [Parrot](https://github.com/avaidyam/Parrot) | Google Hangouts client for macOS using the reverse engineered protocol | 324 | 🔴 | Swift |
-| [PyMax](https://github.com/MaxApiTeam/PyMax) | Async Python wrapper for the internal API of the Max messenger (VK) | 283 | 🟢 | Python |
+| [PyMax](https://github.com/MaxApiTeam/PyMax) | Async Python wrapper for the internal API of the Max messenger (VK) | 285 | 🟢 | Python |
+| [LarkAgentX](https://github.com/cv-cat/LarkAgentX) | Reverse-engineered Feishu (Lark) APIs for AI agents | 273 | 🟢 | Python |
 | [SkPy](https://github.com/Terrance/SkPy) | An unofficial Python library for interacting with the Skype HTTP API. | 270 | 🗄️ | Python |
-| [LarkAgentX](https://github.com/cv-cat/LarkAgentX) | Reverse-engineered Feishu (Lark) APIs for AI agents | 269 | 🟢 | Python |
-| [DingTalk_Assistant](https://github.com/mohuihui/DingTalk_Assistant) | DingTalk PC helper with anti-recall, multi-instance and channel blocking | 253 | 🔴 | C++ |
+| [DingTalk_Assistant](https://github.com/mohuihui/DingTalk_Assistant) | DingTalk PC helper with anti-recall, multi-instance and channel blocking | 254 | 🔴 | C++ |
 | [FeiShuRevokeMsgPatcher](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | Patch that blocks message recall in the Feishu (Lark) PC client | 215 | 🟢 |  |
 | [skyweb](https://github.com/ShyykoSerhiy/skyweb) | Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol. | 196 | 🔴 | TypeScript |
 | [CHRLINE](https://github.com/DeachSword/CHRLINE) | Python client for the LINE Chrome extension API | 178 | 🗄️ | Python |
@@ -199,7 +199,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [beReal-api](https://github.com/chemokita13/beReal-api) | An unofficial BeReal REST API in which you can get all posts info, comment, upload a post... | 85 | 🟡 | TypeScript |
 | [Za-go](https://github.com/tranhaonguyendev/Za-go) | Unofficial Zalo API for Go | 71 | 🟢 | Go |
 | [linkedin-messaging-api](https://github.com/beeper/linkedin-messaging-api) | Unofficial API for LinkedIn Messaging used by Beeper's bridge | 62 | 🗄️ | Python |
-| [line](https://github.com/beeper/line) | A bridgev2 project for bridging Matrix and LINE - Intended for use with Beeper | 54 | 🟢 | Go |
+| [line](https://github.com/beeper/line) | A bridgev2 project for bridging Matrix and LINE - Intended for use with Beeper | 55 | 🟢 | Go |
 | [rype](https://github.com/nfelger/rype) | Unofficial Ruby wrapper for the Skype desktop API | 48 | 🔴 | Ruby |
 | [Extract-Protocol-From-LINE-Write-up](https://github.com/lutwidse/Extract-Protocol-From-LINE-Write-up) | Reverse Engineering of LINE. This article is from my 2018 analysis. Be aware of that some of the protocol has been... | 30 | 🔴 |  |
 | [OkLine](https://github.com/NiceDayZc/OkLine) | Unofficial LINE API Python SDK — automate your personal LINE Messenger account: QR code login in your terminal,... | 28 | 🟢 | Python |
@@ -219,19 +219,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | 12,064 | 🗄️ | Python |
-| [signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | 5,010 | 🟢 | Java |
+| [signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | 5,013 | 🟢 | Java |
 | [pyrogram](https://github.com/pyrogram/pyrogram) | Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots | 4,617 | 🗄️ | Python |
-| [MadelineProto](https://github.com/danog/MadelineProto) | Async PHP client API for the telegram MTProto protocol | 3,549 | 🟢 | PHP |
+| [MadelineProto](https://github.com/danog/MadelineProto) | Async PHP client API for the telegram MTProto protocol | 3,550 | 🟢 | PHP |
 | [signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) | Dockerized Signal Messenger REST API | 2,898 | 🟢 | Go |
-| [td](https://github.com/gotd/td) | Telegram client, in Go. (MTProto API) | 2,371 | 🟢 | Go |
+| [td](https://github.com/gotd/td) | Telegram client, in Go. (MTProto API) | 2,370 | 🟢 | Go |
 | [teamgram-server](https://github.com/teamgram/teamgram-server) | Unofficial open source MTProto server compatible with Telegram clients | 2,283 | 🟢 | Go |
-| [gramjs](https://github.com/gram-js/gramjs) | NodeJS/Browser MTProto API Telegram client library, | 1,765 | 🗄️ | TypeScript |
+| [gramjs](https://github.com/gram-js/gramjs) | NodeJS/Browser MTProto API Telegram client library, | 1,763 | 🗄️ | TypeScript |
 | [signalbackup-tools](https://github.com/bepaald/signalbackup-tools) | Tool to read, repair and export Signal backup files | 1,419 | 🟢 | C++ |
 | [mtproto](https://github.com/xelaj/mtproto) | Full-native go implementation of Telegram API | 1,352 | 🟡 | Go |
 | [grammers](https://github.com/Lonami/grammers) | (tele)gramme.rs - use Telegram's API from Rust | 815 | 🗄️ | Rust |
 | [scli](https://github.com/isamert/scli) | a simple terminal user interface for signal messenger (using signal-cli) | 537 | 🟡 | Python |
 | [presage](https://github.com/whisperfish/presage) | A high-level Rust library to help write clients for the Signal Messenger. | 273 | 🟢 | Rust |
-| [signal-backup-decode](https://github.com/pajowu/signal-backup-decode) | Decodes Signal Android backup files | 231 | 🟡 | Rust |
+| [signal-backup-decode](https://github.com/pajowu/signal-backup-decode) | Decodes Signal Android backup files | 231 | 🔴 | Rust |
 | [signal2html](https://github.com/GjjvdBurg/signal2html) | Exports a Signal backup to readable HTML | 117 | 🔴 | Python |
 | [Signal-Windows](https://github.com/signal-csharp/Signal-Windows) | Unofficial Signal Private Messenger client for Windows | 113 | 🔴 | C# |
 | [Flare](https://gitlab.com/schmiddi-on-mobile/flare) | Unofficial Signal GTK client for Linux |  | ⚪ |  |
@@ -264,22 +264,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | Self-hosted API for Douyin/TikTok data scraping and watermark-free video download | 20,959 | 🟢 | Python |
-| [TikTok-Api](https://github.com/davidteather/TikTok-Api) | The Unofficial TikTok API Wrapper In Python | 6,719 | 🟢 | Python |
-| [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. | 5,236 | 🔴 | TypeScript |
-| [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | TikTok LIVE API for Node.js: An unofficial library to receive live stream events (comments, gifts, etc.) in realtime... | 2,238 | 🟢 | TypeScript |
-| [TikTokLive](https://github.com/isaackogan/TikTokLive) | TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in... | 1,618 | 🟢 | Python |
+| [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | Self-hosted API for Douyin/TikTok data scraping and watermark-free video download | 20,977 | 🟢 | Python |
+| [TikTok-Api](https://github.com/davidteather/TikTok-Api) | The Unofficial TikTok API Wrapper In Python | 6,720 | 🟢 | Python |
+| [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. | 5,239 | 🔴 | TypeScript |
+| [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | TikTok LIVE API for Node.js: An unofficial library to receive live stream events (comments, gifts, etc.) in realtime... | 2,239 | 🟢 | TypeScript |
+| [TikTokLive](https://github.com/isaackogan/TikTokLive) | TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in... | 1,617 | 🟢 | Python |
 | [tiktok-api](https://github.com/szdc/tiktok-api) | Unofficial API wrapper for TikTok | 1,293 | 🗄️ | TypeScript |
-| [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Generate tiktok signature token using node | 1,048 | 🟢 | JavaScript |
+| [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Generate tiktok signature token using node | 1,049 | 🟢 | JavaScript |
 | [TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) | Unofficial Python wrapper for the TikTok web API | 506 | 🔴 | Python |
 | [SC-API](https://github.com/mgp25/SC-API) | Snapchat’s private API | 341 | 🗄️ | PHP |
 | [snapchat-fs](https://github.com/hausdorff/snapchat-fs) | Reverse-engineered Snapchat API used to store arbitrary files as snaps | 330 | 🔴 | Python |
 | [snapchat](https://github.com/transitive-bullshit/snapchat) | NodeJS client for the unofficial Snapchat API | 274 | 🗄️ | JavaScript |
 | [snaphax](https://github.com/tlack/snaphax) | A PHP library to use the Snapchat API | 268 | 🔴 | PHP |
 | [pysnap](https://github.com/mpolden/pysnap) | Python library for the Snapchat API | 258 | 🗄️ | Python |
-| [TikTokPy](https://github.com/Russell-Newton/TikTokPy) | Extracts data from TikTok without login or API keys | 237 | 🟡 | Python |
+| [TikTokPy](https://github.com/Russell-Newton/TikTokPy) | Extracts data from TikTok without login or API keys | 236 | 🟡 | Python |
 | [Flutter-Tiktok-UI-API-Clone](https://github.com/X-SLAYER/Flutter-Tiktok-UI-API-Clone) | Flutter TikTok UI clone using TikTok's private API | 230 | 🔴 | Dart |
-| [TiktokApis](https://github.com/cv-cat/TiktokApis) | Reverse-engineered TikTok request signing algorithms and APIs | 194 | 🟢 | Python |
+| [TiktokApis](https://github.com/cv-cat/TiktokApis) | Reverse-engineered TikTok request signing algorithms and APIs | 195 | 🟢 | Python |
 | [tiktok-web-reverse-engineering](https://github.com/justscrapeme/tiktok-web-reverse-engineering) | Tiktok Web Reverse Engineering & X-Gnarly implementation | 183 | 🟢 | JavaScript |
 | [TiKTok-data](https://github.com/VideoData/TiKTok-data) | TikTok search, live, comment and user data APIs | 163 | 🟡 |  |
 | [TikTok-API-PHP](https://github.com/ssovit/TikTok-API-PHP) | Unofficial TikTok API for PHP | 150 | 🟡 | HTML |
@@ -300,23 +300,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [twint](https://github.com/twintproject/twint) | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a... | 16,406 | 🗄️ | Python |
-| [nitter](https://github.com/zedeus/nitter) | Alternative Twitter front-end built on Twitter's internal GraphQL API, no JS or API key | 14,465 | 🗄️ | Nim |
+| [nitter](https://github.com/zedeus/nitter) | Alternative Twitter front-end built on Twitter's internal GraphQL API, no JS or API key | 14,463 | 🗄️ | Nim |
 | [snscrape](https://github.com/JustAnotherArchivist/snscrape) | A social networking service scraper in Python | 5,467 | 🟡 | Python |
-| [twikit](https://github.com/d60/twikit) | Twitter/X internal API scraper and client that works without an API key | 4,757 | 🟢 | Python |
+| [twikit](https://github.com/d60/twikit) | Twitter/X internal API scraper and client that works without an API key | 4,758 | 🟢 | Python |
 | [twitter-scraper](https://github.com/bisguzar/twitter-scraper) | Scrape the Twitter Frontend API without authentication. | 4,005 | 🗄️ | Python |
-| [twscrape](https://github.com/vladkens/twscrape) | Python library and CLI for X/Twitter scraping with multi-account rotation and built-in rate-limit handling. | 2,907 | 🟢 | Python |
+| [twscrape](https://github.com/vladkens/twscrape) | Python library and CLI for X/Twitter scraping with multi-account rotation and built-in rate-limit handling. | 2,908 | 🟢 | Python |
 | [twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) | Implementation of X/Twitter v1, v2, and GraphQL APIs | 1,900 | 🟡 | Python |
 | [twitter-scraper](https://github.com/n0madic/twitter-scraper) | Scrape the Twitter frontend API without authentication with Golang. | 963 | 🗄️ | Go |
 | [TwitterInternalAPIDocument](https://github.com/fa0311/TwitterInternalAPIDocument) | Twitter Internal API Document | 724 | 🟢 | Python |
 | [twitter-scraper](https://github.com/the-convocation/twitter-scraper) | A port of n0madic/twitter-scraper to Node.js. | 641 | 🟢 | TypeScript |
-| [stweet](https://github.com/markowanga/stweet) | Python library to scrape tweets and users via Twitter's unofficial API | 621 | 🔴 | Python |
+| [stweet](https://github.com/markowanga/stweet) | Python library to scrape tweets and users via Twitter's unofficial API | 622 | 🔴 | Python |
 | [TweeterPy](https://github.com/iSarabjitDhiman/TweeterPy) | TweeterPy is a python library to extract data from Twitter. TweeterPy API lets you scrape data from a user's profile... | 339 | 🟢 | Python |
 | [twitter-scraper](https://github.com/imperatrona/twitter-scraper) | Scrape the Twitter frontend API without authentication with Golang. | 246 | 🟡 | Go |
 | [twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) | TypeScript implementation of Twitter's internal GraphQL API | 224 | 🟢 | TypeScript |
 | [tweepy-authlib](https://github.com/tsukumijima/tweepy-authlib) | Tweepy auth library impersonating the official Twitter web app | 200 | 🗄️ | Python |
-| [twitter-openapi](https://github.com/fa0311/twitter-openapi) | OpenAPI(Swagger) specification of Twitter Internal API (Twitter graphql API) | 196 | 🟢 | Python |
+| [twitter-openapi](https://github.com/fa0311/twitter-openapi) | OpenAPI(Swagger) specification of Twitter Internal API (Twitter graphql API) | 197 | 🟢 | Python |
 | [TwitterX](https://github.com/nakiostudio/TwitterX) | Keeps Twitter for macOS alive with code injection | 189 | 🔴 | Objective-C |
-| [XApis](https://github.com/cv-cat/XApis) | Reverse-engineered Twitter (X) request algorithms and APIs | 155 | 🟢 | Python |
+| [XApis](https://github.com/cv-cat/XApis) | Reverse-engineered Twitter (X) request algorithms and APIs | 157 | 🟢 | Python |
 | [twitter_openapi_python](https://github.com/fa0311/twitter_openapi_python) | Implementation of Twitter internal API (Twitter graphql API) in Python with data validation by pydantic | 96 | 🟢 | Python |
 | [reX](https://github.com/parasyte-x/reX) | Reverse engineered Twitter API client | 79 | 🔴 | Go |
 | [tweet_scrapper](https://github.com/5hirish/tweet_scrapper) | Scrape the Twitter frontend API without authentication | 61 | 🗄️ | Python |
@@ -327,32 +327,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | 22,816 | 🟢 | JavaScript |
-| [evolution-api](https://github.com/evolution-foundation/evolution-api) | Open-source WhatsApp integration API (Baileys-based) | 9,980 | 🟢 | TypeScript |
-| [waha](https://github.com/devlikeapro/waha) | WhatsApp HTTP API (REST) with multiple engines (WEBJS, NOWEB, GOWS) | 7,698 | 🟢 | TypeScript |
-| [yowsup](https://github.com/tgalal/yowsup) | Python library implementing the WhatsApp protocol (legacy) | 7,176 | 🟡 | Python |
+| [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | 22,817 | 🟢 | JavaScript |
+| [evolution-api](https://github.com/evolution-foundation/evolution-api) | Open-source WhatsApp integration API (Baileys-based) | 9,990 | 🟢 | TypeScript |
+| [waha](https://github.com/devlikeapro/waha) | WhatsApp HTTP API (REST) with multiple engines (WEBJS, NOWEB, GOWS) | 7,706 | 🟢 | TypeScript |
+| [yowsup](https://github.com/tgalal/yowsup) | Python library implementing the WhatsApp protocol (legacy) | 7,175 | 🟡 | Python |
 | [venom](https://github.com/vynect/venom) | WhatsApp Web automation library for building bots in JavaScript | 6,596 | 🟢 | TypeScript |
 | [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) | Reverse engineering WhatsApp Web. | 6,511 | 🟡 | JavaScript |
-| [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | GOWA: WhatsApp REST API built on whatsmeow with multi-account and webhooks | 4,971 | 🟢 | Go |
+| [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | GOWA: WhatsApp REST API built on whatsmeow with multi-account and webhooks | 4,977 | 🟢 | Go |
 | [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) | Node.js WhatsApp Web automation library for chatbots | 3,676 | 🟢 | TypeScript |
-| [wppconnect](https://github.com/wppconnect-team/wppconnect) | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from... | 3,510 | 🟢 | TypeScript |
+| [wppconnect](https://github.com/wppconnect-team/wppconnect) | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from... | 3,513 | 🟢 | TypeScript |
 | [go-whatsapp](https://github.com/Rhymen/go-whatsapp) | Go implementation of the WhatsApp Web API (pre-multidevice) | 2,244 | 🟢 | Go |
 | [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) | An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] | 2,083 | 🔴 | Python |
 | [WhatsApp Viewer](https://github.com/andreas-mausch/whatsapp-viewer) | Displays chats from the Android WhatsApp msgstore.db database | 1,442 | 🔴 | C |
 | [whatsapp-api](https://github.com/chrishubert/whatsapp-api) | This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact... | 1,439 | 🗄️ | JavaScript |
-| [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) | Parses WhatsApp chat databases from Android and iOS backups and exports to HTML/JSON | 1,289 | 🟢 | Python |
-| [whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) | Whatsapp client written purely in Rust | 946 | 🟢 | Rust |
+| [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) | Parses WhatsApp chat databases from Android and iOS backups and exports to HTML/JSON | 1,290 | 🟢 | Python |
+| [whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) | Whatsapp client written purely in Rust | 948 | 🟢 | Rust |
 | [Cobalt](https://github.com/Auties00/Cobalt) | Standalone unofficial WhatsApp Web and Mobile API for Java and Kotlin | 925 | 🟢 | Java |
 | [wa-js](https://github.com/wppconnect-team/wa-js) | WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web | 830 | 🟢 | TypeScript |
 | [neonize](https://github.com/krypton-byte/neonize) | A high-performance Python SDK for building real-time WhatsApp applications with a Go-powered core, event-driven... | 759 | 🟢 | Python |
 | [whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) | Chrome extension that disables read receipts and presence updates on WhatsApp Web | 409 | 🟢 | JavaScript |
 | [whatsapp-web](https://github.com/zvovov/whatsapp-web) | WhatsApp chat from the command line via WhatsApp Web | 315 | 🟢 | Python |
-| [zapo](https://github.com/vinikjkkj/zapo) | Lightweight TypeScript library for the WhatsApp Web multi-device protocol | 266 | 🟢 | TypeScript |
+| [zapo](https://github.com/vinikjkkj/zapo) | Lightweight TypeScript library for the WhatsApp Web multi-device protocol | 267 | 🟢 | TypeScript |
 | [unoapi-cloud](https://github.com/clairton/unoapi-cloud) | Unofficial WhatsApp Cloud API compatible server built on WhatsApp Web | 257 | 🟢 | TypeScript |
 | [WPP4Delphi](https://github.com/wppconnect-team/WPP4Delphi) | Exports WhatsApp Web functions for Delphi applications | 252 | 🟢 | Pascal |
 | [kyros](https://github.com/lc-at/kyros) | Python wrapper for WhatsApp Web API websocket communication (based on https://github.com/sigalor/whatsapp-web-reveng) | 112 | 🗄️ | HTML |
 | [whatsapp-web-multi-device-reveng](https://github.com/sigalor/whatsapp-web-multi-device-reveng) | Reverse engineering of multi-device WhatsApp Web | 90 | 🗄️ | Python |
-| [ha-whatsapp](https://github.com/FaserF/ha-whatsapp) | Send and receive WhatsApp messages from Home Assistant as a linked device over the web protocol | 54 | 🟢 | Python |
+| [ha-whatsapp](https://github.com/FaserF/ha-whatsapp) | Send and receive WhatsApp messages from Home Assistant as a linked device over the web protocol | 55 | 🟢 | Python |
 | [wamd](https://github.com/serenity-77/wamd) | Unofficial WhatsApp Web multi-device client API | 32 | 🔴 | Python |
 | [WhatsApi-Android-1](https://github.com/madcyph3r/WhatsApi-Android-1) | Unofficial WhatsApp client for Android using the reverse-engineered protocol | 12 | 🔴 | Java |
 | [wildcat](https://github.com/NotoriousArnav/wildcat) | Unofficial reverse-engineered WhatsApp integration layer for data connectivity | 9 | 🟢 | JavaScript |
@@ -362,13 +362,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [openhaystack](https://github.com/seemoo-lab/openhaystack) | Build your own 'AirTags' today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. | 13,894 | 🟢 | Swift |
-| [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Export iMessage data + run iMessage Diagnostics | 5,703 | 🟢 | Rust |
+| [openhaystack](https://github.com/seemoo-lab/openhaystack) | Build your own 'AirTags' today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. | 13,897 | 🟢 | Swift |
+| [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Export iMessage data + run iMessage Diagnostics | 5,705 | 🟢 | Rust |
 | [pypush](https://github.com/JJTech0130/pypush) | Python APNs and iMessage client | 3,789 | 🟢 | Python |
-| [bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! | 1,412 | 🟢 | Dart |
-| [bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) | Server for forwarding iMessages to clients within the BlueBubbles App ecosystem | 1,125 | 🟢 | TypeScript |
+| [bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! | 1,414 | 🟢 | Dart |
+| [bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) | Server for forwarding iMessages to clients within the BlueBubbles App ecosystem | 1,126 | 🟢 | TypeScript |
 | [imessage](https://github.com/beeper/imessage) | A Matrix-iMessage puppeting bridge. | 1,041 | 🗄️ | Go |
-| [openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android and PC! | 510 | 🟢 | Dart |
+| [openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) | A cross-platform app ecosystem, bringing iMessage to Android and PC! | 511 | 🟢 | Dart |
 | [imessage](https://github.com/mautrix/imessage) | A Matrix-iMessage puppeting bridge | 457 | 🟢 | Go |
 | [osa-imessage](https://github.com/wtfaremyinitials/osa-imessage) | Send and receive iMessages with nodejs | 330 | 🔴 | JavaScript |
 | [rustpush](https://github.com/OpenBubbles/rustpush) | Rust implementation of Apple's APNs and iMessage protocols (used by OpenBubbles) | 242 | 🟢 | Rust |

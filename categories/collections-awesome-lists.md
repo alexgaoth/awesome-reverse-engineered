@@ -14,32 +14,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) | AI-driven reverse engineering tools: MCP servers for IDA/Ghidra/Frida, skills, JS RE | 979 | 🟢 |  |
-| [Awesome REA (reacher-z)](https://github.com/reacher-z/Awesome-REA) | Collection of RE tools, case studies and papers for websites, games, apps, binaries, firmware and protocols | 528 | 🟢 | Python |
-| [Awesome REA Cases](https://github.com/songshikang0111/awesome-REA-cases) | Bilingual collection of REA and other AI-assisted reverse engineering cases with source links | 356 | 🟢 | Python |
-| [awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | List of AI reverse engineering and rebuild projects, noting which ones really used REA | 242 | 🟢 | Python |
-| [awesome-rea](https://github.com/yibie/awesome-rea) | Curated list of AI-assisted reverse engineering: decompilation, recompilation and native ports | 220 | 🟢 | Python |
-| [Awesome AI Reverse (DiscoverBox)](https://github.com/DiscoverBox/awesome-ai-reverse) | Chinese list of AI-assisted RE tools: MCP servers, skills, plugins and agents | 86 | 🟢 | Python |
-| [rea-research](https://github.com/ringozzt/rea-research) | Chinese technical research on REA: architecture, evidence model and trust model | 83 | 🟢 | HTML |
-| [rea-engenharia-reversa](https://github.com/inematds/rea-engenharia-reversa) | Guide to REA in Portuguese, English and Spanish with cases and a test run | 51 | 🟢 | HTML |
+| [awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) | AI-driven reverse engineering tools: MCP servers for IDA/Ghidra/Frida, skills, JS RE | 980 | 🟢 |  |
+| [Awesome REA (reacher-z)](https://github.com/reacher-z/Awesome-REA) | Collection of RE tools, case studies and papers for websites, games, apps, binaries, firmware and protocols | 582 | 🟢 | Python |
+| [Awesome REA Cases](https://github.com/songshikang0111/awesome-REA-cases) | Bilingual collection of REA and other AI-assisted reverse engineering cases with source links | 363 | 🟢 | Python |
+| [awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | List of AI reverse engineering and rebuild projects, noting which ones really used REA | 273 | 🟢 | Python |
+| [awesome-rea](https://github.com/yibie/awesome-rea) | Curated list of AI-assisted reverse engineering: decompilation, recompilation and native ports | 224 | 🟢 | Python |
+| [Awesome AI Reverse (DiscoverBox)](https://github.com/DiscoverBox/awesome-ai-reverse) | Chinese list of AI-assisted RE tools: MCP servers, skills, plugins and agents | 88 | 🟢 | Python |
+| [rea-research](https://github.com/ringozzt/rea-research) | Chinese technical research on REA: architecture, evidence model and trust model | 84 | 🟢 | HTML |
+| [rea-engenharia-reversa](https://github.com/inematds/rea-engenharia-reversa) | Guide to REA in Portuguese, English and Spanish with cases and a test run | 58 | 🟢 | HTML |
 | [awesome-llm-reverse-engineering](https://github.com/ram-elgov/awesome-llm-reverse-engineering) | Curated list of tools, papers and datasets that apply LLMs to reverse engineering | 43 | 🟡 |  |
 | [Reverse-Engineer-Anything (French guide)](https://github.com/valorisa/Reverse-Engineer-Anything) | Unofficial French guide to REA, including the legal framework for reverse engineering | 36 | 🟢 |  |
-| [rea-gems](https://github.com/sqwu/rea-gems) | Daily-updated gallery of reverse engineering cases built with REA | 30 | 🟢 | Python |
-| [awesome-ai-reverse-engineering](https://github.com/zhuyansen/awesome-ai-reverse-engineering) | AI reverse engineering tools for coding agents, each with a security rating | 22 | 🟢 |  |
-| [awesome-rea (git-sanbu)](https://github.com/git-sanbu/awesome-rea) | Source-backed REA case studies: games, apps, hardware and tools | 14 | 🟢 | JavaScript |
-| [awesome-rea (awesomerea)](https://github.com/awesomerea/awesome-rea) | Curated list of REA guides, showcases, docs and integrations | 13 | 🟢 |  |
+| [rea-gems](https://github.com/sqwu/rea-gems) | Daily-updated gallery of reverse engineering cases built with REA | 35 | 🟢 | Python |
+| [awesome-ai-reverse-engineering](https://github.com/zhuyansen/awesome-ai-reverse-engineering) | AI reverse engineering tools for coding agents, each with a security rating | 24 | 🟢 |  |
+| [awesome-rea (git-sanbu)](https://github.com/git-sanbu/awesome-rea) | Source-backed REA case studies: games, apps, hardware and tools | 16 | 🟢 | JavaScript |
+| [awesome-rea (awesomerea)](https://github.com/awesomerea/awesome-rea) | Curated list of REA guides, showcases, docs and integrations | 14 | 🟢 |  |
 
 ## APIs & Apps
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [android-security-awesome](https://github.com/ashishb/android-security-awesome) | Collection of Android security and analysis tools | 9,795 | 🟢 | Makefile |
-| [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) | Overview of open-source alternative frontends for YouTube, Twitter, Reddit and more | 9,224 | 🟡 |  |
-| [LibRedirect](https://github.com/libredirect/browser_extension) | Extension whose config lists ~100 privacy frontends for popular sites | 4,095 | 🟢 | JSON |
-| [Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) | Curated Android RE training, resources and tools | 2,758 | 🟡 |  |
-| [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) | Collection of reverse-engineered unofficial APIs for popular web services | 2,751 | 🟡 |  |
-| [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) | Collection of third-party clients and mods for Discord | 2,636 | 🟢 |  |
-| [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) | 🔐🌐 Privacy-respecting web frontends for popular services | 2,331 | 🟡 |  |
+| [android-security-awesome](https://github.com/ashishb/android-security-awesome) | Collection of Android security and analysis tools | 9,793 | 🟢 | Makefile |
+| [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) | Overview of open-source alternative frontends for YouTube, Twitter, Reddit and more | 9,227 | 🟡 |  |
+| [LibRedirect](https://github.com/libredirect/browser_extension) | Extension whose config lists ~100 privacy frontends for popular sites | 4,098 | 🟢 | JSON |
+| [Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) | Curated Android RE training, resources and tools | 2,760 | 🟡 |  |
+| [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) | Collection of reverse-engineered unofficial APIs for popular web services | 2,752 | 🟡 |  |
+| [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) | Collection of third-party clients and mods for Discord | 2,637 | 🟢 |  |
+| [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) | 🔐🌐 Privacy-respecting web frontends for popular services | 2,332 | 🟡 |  |
 | [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) | Curated list of Android security and reverse engineering resources | 2,035 | 🟢 |  |
 | [sperm](https://github.com/darbra/sperm) | Collection of Chinese app and web reverse engineering articles | 1,422 | 🟢 |  |
 | [InternalSteamWebAPI](https://github.com/Revadike/InternalSteamWebAPI) | Documentation of Steam's unofficial, internal Web API endpoints | 654 | 🟢 | HTML |
@@ -65,44 +65,44 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [game-hacking](https://github.com/dsasmblr/game-hacking) | Tutorials, tools and resources for reverse engineering video games | 5,635 | 🟡 |  |
-| [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) | Game Boy development resources, including emulators, disassemblies, hardware research and link-cable protocols | 4,539 | 🟢 | JavaScript |
-| [Open Source Game Clones (osgameclones)](https://github.com/opengaming/osgameclones) | YAML database of open-source remakes, reimplementations and clones of games | 3,164 | 🟢 | Python |
-| [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) | Rated list of decompiled, recompiled and reverse-engineered games | 2,657 | 🟢 | Python |
+| [game-hacking](https://github.com/dsasmblr/game-hacking) | Tutorials, tools and resources for reverse engineering video games | 5,636 | 🟡 |  |
+| [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) | Game Boy development resources, including emulators, disassemblies, hardware research and link-cable protocols | 4,538 | 🟢 | JavaScript |
+| [Open Source Game Clones (osgameclones)](https://github.com/opengaming/osgameclones) | YAML database of open-source remakes, reimplementations and clones of games | 3,165 | 🟢 | Python |
+| [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) | Rated list of decompiled, recompiled and reverse-engineered games | 2,686 | 🟢 | Python |
 | [Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) | PS Vita resource list incl. RE tools, file formats and homebrew | 1,864 | 🟢 | Markdown |
 | [jsemu](https://github.com/fcambus/jsemu) | List of emulators for consoles, computers and arcade machines written in JavaScript | 1,854 | 🟢 |  |
-| [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) | Actively maintained open-source game remakes and engine reimplementations | 1,568 | 🟢 |  |
-| [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) | Game Boy Advance development resources, including open SDKs, emulators and hardware tests | 1,358 | 🟢 |  |
+| [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) | Actively maintained open-source game remakes and engine reimplementations | 1,570 | 🟢 |  |
+| [awesome-gbadev](https://github.com/gbadev-org/awesome-gbadev) | Game Boy Advance development resources, including open SDKs, emulators and hardware tests | 1,359 | 🟢 |  |
 | [UE-Modding-Tools](https://github.com/Buckminsterfullerene02/UE-Modding-Tools) | Databank of Unreal Engine modding and reverse engineering tools | 1,260 | 🟢 |  |
-| [awesome-unofficial-pc-ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports) | Curated list of fan-made PC ports of console games via decompilation/recompilation | 969 | 🟢 |  |
-| [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) | Curated list of game decompilations, recompilations and disassemblies | 801 | 🟢 |  |
+| [awesome-unofficial-pc-ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports) | Curated list of fan-made PC ports of console games via decompilation/recompilation | 972 | 🟢 |  |
+| [awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations) | Curated list of game decompilations, recompilations and disassemblies | 804 | 🟢 |  |
 | [awesome-emulators](https://github.com/DerekTurtleRoe/awesome-emulators) | Awesome list of emulators | 756 | 🟢 |  |
-| [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) | List of video game decompilation projects gathered from around the internet | 740 | 🟢 | HTML |
+| [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) | List of video game decompilation projects gathered from around the internet | 750 | 🟢 | HTML |
 | [RetroReversing](https://github.com/RetroReversing/retroReversing) | Website/repo on reverse engineering retro games, consoles and dev kits | 721 | 🟢 | JavaScript |
 | [decomp.me](https://github.com/decompme/decomp.me) | Collaborative website for matching decompilation of functions | 643 | 🟢 | TypeScript |
-| [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) | Nintendo 64 development resources: open SDKs, emulators, decomp tooling, format tools and flashcart hardware | 586 | 🟢 | Python |
-| [awesome-emulators](https://github.com/alnacle/awesome-emulators) | Curated list of open-source emulators for consoles, handhelds and arcade systems | 493 | 🔴 |  |
-| [Greates Games Decompilations List](https://github.com/Carter54git/Greates-Games-Decompilations-List) | List of 1200+ game decompilations, disassemblies and static recompilations grouped by platform | 362 | 🟢 |  |
-| [awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) | A non-exhaustive list of free custom server backend implementations for various games | 243 | 🟢 |  |
-| [awesome-game-file-format-reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) | Docs, tools and resources for reverse engineering video game file formats | 232 | 🟢 | Python |
+| [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) | Nintendo 64 development resources: open SDKs, emulators, decomp tooling, format tools and flashcart hardware | 587 | 🟢 | Python |
+| [awesome-emulators](https://github.com/alnacle/awesome-emulators) | Curated list of open-source emulators for consoles, handhelds and arcade systems | 494 | 🔴 |  |
+| [Greates Games Decompilations List](https://github.com/Carter54git/Greates-Games-Decompilations-List) | List of 1200+ game decompilations, disassemblies and static recompilations grouped by platform | 379 | 🟢 |  |
+| [awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) | A non-exhaustive list of free custom server backend implementations for various games | 246 | 🟢 |  |
+| [awesome-game-file-format-reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) | Docs, tools and resources for reverse engineering video game file formats | 233 | 🟢 | Python |
 | [awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) | Software emulators and simulators of PCs, home computers, consoles and devices | 220 | 🟡 |  |
 | [awesome-emu-resources](https://github.com/marethyu/awesome-emu-resources) | Emulator development resources, reference emulators and hardware test ROMs | 162 | 🟡 |  |
-| [awesome-game-mashups](https://github.com/bailo167/awesome-game-mashups) | List of games rebuilt inside other games: cross-game mashups, engine ports and playable ports | 125 | 🟢 | Python |
+| [awesome-game-mashups](https://github.com/bailo167/awesome-game-mashups) | List of games rebuilt inside other games: cross-game mashups, engine ports and playable ports | 126 | 🟢 | Python |
 | [awesome-dreamcast](https://github.com/dreamcastdevs/awesome-dreamcast) | Sega Dreamcast development links and tools, including VMU emulation and Maple Bus interfaces | 124 | 🟢 | C |
 | [awesome-ps2](https://github.com/terremoth/awesome-ps2) | PlayStation 2 apps, homebrew SDKs, emulators and file tools | 124 | 🟢 |  |
 | [Gametoolkit](https://github.com/Little-Data/Gametoolkit) | Collection of game unpacking tools | 108 | 🟢 | JavaScript |
 | [android-emulator](https://github.com/WuFengXue/android-emulator) | Collection of open-source Android game emulator projects | 104 | 🔴 |  |
 | [retrore](https://github.com/realdmx/retrore) | Curated list of original and reverse engineered 6502 game source code | 78 | 🟢 |  |
 | [XeNTaX Backup](https://github.com/XeNTaXBackup/XeNTaXBackup.github.io) | Public backup of the XeNTaX game file format reverse engineering forum and wiki | 75 | 🟡 | Jupyter Notebook |
+| [awesome-ai-game-dev-tools](https://github.com/SubmitGame/awesome-ai-game-dev-tools) | List of open-source AI tools for making, decompiling and remixing games | 66 | 🟢 | Python |
 | [rac-modding-resources](https://github.com/RatchetModding/rac-modding-resources) | Links for Ratchet and Clank modding and reverse engineering | 66 | 🟡 |  |
-| [awesome-ai-game-dev-tools](https://github.com/SubmitGame/awesome-ai-game-dev-tools) | List of open-source AI tools for making, decompiling and remixing games | 63 | 🟢 | Python |
 | [awesome-recompilations](https://github.com/BlueInterlude/awesome-recompilations) | Recompiled N64 and Xbox 360 ROMs using N64Recomp and XenonRecomp. | 57 | 🟢 |  |
-| [awesome-xbox-development](https://github.com/command-tab/awesome-xbox-development) | Original Xbox development resources: XBE format tools, open SDKs, emulators and hardware docs | 54 | 🟢 |  |
+| [awesome-xbox-development](https://github.com/command-tab/awesome-xbox-development) | Original Xbox development resources: XBE format tools, open SDKs, emulators and hardware docs | 55 | 🟢 |  |
+| [awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) | Russian-language catalog of game decompilations, recompilations and native ports | 50 | 🟢 | Python |
 | [awesome-wow-rust](https://github.com/arlyon/awesome-wow-rust) | Excellent resources for world of warcraft private servers in rust | 50 | 🟢 |  |
-| [awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) | Russian-language catalog of game decompilations, recompilations and native ports | 49 | 🟢 | Python |
+| [AVP Ports Index](https://github.com/edgytoast/avp-ports-index) | Link-only index of community game ports (decomps, recomps) running natively on Apple Vision Pro | 32 | 🟢 | Python |
 | [awesome-x360-recomps](https://github.com/abduznik/awesome-x360-recomps) | A curated list of awesome Xbox 360 game recompilation projects | 31 | 🟢 |  |
-| [AVP Ports Index](https://github.com/edgytoast/avp-ports-index) | Link-only index of community game ports (decomps, recomps) running natively on Apple Vision Pro | 29 | 🟢 | Python |
-| [awesome-reverse-engineered-games](https://github.com/heaven-hm/awesome-reverse-engineered-games) | List of reverse-engineered, decompiled and AI-rebuilt games | 28 | 🟢 |  |
+| [awesome-reverse-engineered-games](https://github.com/heaven-hm/awesome-reverse-engineered-games) | List of reverse-engineered, decompiled and AI-rebuilt games | 29 | 🟢 |  |
 | [awesome-nds](https://github.com/ninjaraven/awesome-nds) | Nintendo DS ROM hacking resources: file format libraries, game editors, decompilation references and debuggers | 19 | 🔴 |  |
 | [awesome-uo](https://github.com/Alurith/awesome-uo) | Curated list of Ultima Online projects including server emulators | 19 | 🟢 |  |
 | [Awesome-Rom-Hacking](https://github.com/romh-acking/Awesome-Rom-Hacking) | ROM hacking resources: disassemblies, game file editors and retro graphics tools | 9 | 🟡 |  |
@@ -119,25 +119,25 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Corkami pics](https://github.com/corkami/pics) | Visual dissections and posters of binary file formats | 11,504 | 🟡 | Assembly |
-| [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering) | Most-starred list of reverse engineering tools and resources | 10,717 | 🔴 |  |
+| [Corkami pics](https://github.com/corkami/pics) | Visual dissections and posters of binary file formats | 11,505 | 🟡 | Assembly |
+| [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering) | Most-starred list of reverse engineering tools and resources | 10,719 | 🔴 |  |
 | [Z0FCourse Reverse Engineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) | Free reverse engineering course focused on x64 Windows binaries | 5,989 | 🟢 | C++ |
 | [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit installer bundling Windows RE tools | 5,331 | 🟢 | Inno Setup |
-| [awesome-reverse-engineering (alphaSeclab)](https://github.com/alphaSeclab/awesome-reverse-engineering) | Huge RE resource list for all platforms: 3500+ open source tools and 2300+ posts/videos | 5,169 | 🔴 |  |
-| [awesome-reversing (tylerha97)](https://github.com/tylerha97/awesome-reversing) | Curated list of reversing resources: books, courses, tools, practice targets | 4,527 | 🔴 |  |
+| [awesome-reverse-engineering (alphaSeclab)](https://github.com/alphaSeclab/awesome-reverse-engineering) | Huge RE resource list for all platforms: 3500+ open source tools and 2300+ posts/videos | 5,171 | 🔴 |  |
+| [awesome-reversing (tylerha97)](https://github.com/tylerha97/awesome-reversing) | Curated list of reversing resources: books, courses, tools, practice targets | 4,526 | 🔴 |  |
 | [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) | Free book on iOS app reverse engineering techniques | 4,458 | 🔴 |  |
 | [idaplugins-list](https://github.com/onethawt/idaplugins-list) | List of IDA Pro plugins | 3,846 | 🟡 |  |
-| [awesome-frida](https://github.com/dweinstein/awesome-frida) | Curated list of Frida resources | 3,554 | 🟢 |  |
+| [awesome-frida](https://github.com/dweinstein/awesome-frida) | Curated list of Frida resources | 3,553 | 🟢 |  |
 | [reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) | List of reverse engineering articles, books and papers | 2,753 | 🔴 |  |
 | [linux-re-101](https://github.com/michalmalik/linux-re-101) | Collection of resources for Linux reverse engineering | 2,084 | 🔴 |  |
-| [android-reverse](https://github.com/WuFengXue/android-reverse) | Curated list of Android reverse engineering tools (Chinese) | 2,025 | 🟡 |  |
-| [droidReverse](https://github.com/Juude/droidReverse) | Collection of Android reverse engineering tools | 2,022 | 🔴 | Shell |
+| [android-reverse](https://github.com/WuFengXue/android-reverse) | Curated list of Android reverse engineering tools (Chinese) | 2,026 | 🟡 |  |
+| [droidReverse](https://github.com/Juude/droidReverse) | Collection of Android reverse engineering tools | 2,023 | 🔴 | Shell |
 | [osx-re-101](https://github.com/michalmalik/osx-re-101) | Collection of resources for macOS and iOS reverse engineering | 1,732 | 🔴 |  |
-| [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) | Curated list of resources on executable packing and unpacking | 1,635 | 🟢 |  |
-| [awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) | Collection of resources for learning reverse engineering | 1,546 | 🟡 |  |
-| [awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) | Curated list of Ghidra materials | 1,450 | 🟢 |  |
-| [apple-knowledge](https://github.com/hack-different/apple-knowledge) | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | 1,415 | 🟢 | Ruby |
-| [awesome-reverse-engineering (morluto)](https://github.com/morluto/awesome-reverse-engineering) | Curated RE tools and learning resources for binaries, apps, firmware, formats and protocols | 1,352 | 🟢 | Python |
+| [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) | Curated list of resources on executable packing and unpacking | 1,636 | 🟢 |  |
+| [awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) | Collection of resources for learning reverse engineering | 1,548 | 🟡 |  |
+| [awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) | Curated list of Ghidra materials | 1,453 | 🟢 |  |
+| [apple-knowledge](https://github.com/hack-different/apple-knowledge) | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | 1,416 | 🟢 | Ruby |
+| [awesome-reverse-engineering (morluto)](https://github.com/morluto/awesome-reverse-engineering) | Curated RE tools and learning resources for binaries, apps, firmware, formats and protocols | 1,396 | 🟢 | Python |
 | [iOSRE](https://github.com/kpwn/iOSRE) | iOS reverse engineering resources and tools | 1,184 | 🔴 | Shell |
 | [awesome-reverse](https://github.com/AlienwareHe/awesome-reverse) | Chinese list of reverse engineering resources for JS, Android apps and native code | 1,172 | 🟡 | JavaScript |
 | [Awesome-Reversing (ReversingID)](https://github.com/ReversingID/Awesome-Reversing) | Curated list of reverse engineering resources by topic | 752 | 🟢 |  |
@@ -147,13 +147,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RE-Thing](https://github.com/ret42/RE-Thing) | Collection of reverse engineering tools (deobfuscators, decompilers) | 349 | 🟡 |  |
 | [re-list](https://github.com/extremecoders-re/re-list) | List of open-source reverse engineering tools focused on binary analysis | 262 | 🟡 |  |
 | [decompilation-wiki](https://github.com/mahaloz/decompilation-wiki) | The Decompilation Wiki covering decompilers and research | 255 | 🟢 |  |
-| [remade](https://github.com/replicraft/remade) | Community directory of open-source software reimplementations | 201 | 🟢 | TypeScript |
+| [remade](https://github.com/replicraft/remade) | Community directory of open-source software reimplementations | 204 | 🟢 | TypeScript |
 | [PRE-list](https://github.com/techge/PRE-list) | List of automatic network protocol reverse engineering tools | 188 | 🟡 | Python |
-| [taobao-reverse-documents](https://github.com/bytesFighting/taobao-reverse-documents) | Collection of reverse engineering documents for Taobao and Xianyu (libsgmain.so) | 146 | 🟡 |  |
+| [taobao-reverse-documents](https://github.com/bytesFighting/taobao-reverse-documents) | Collection of reverse engineering documents for Taobao and Xianyu (libsgmain.so) | 147 | 🟡 |  |
 | [awesome-reverse-engineering-and-malware-analysis](https://github.com/ZX41R/awesome-reverse-engineering-and-malware-analysis) | Verified map of RE and malware-analysis tools: disassemblers, unpacking, firmware | 97 | 🟢 | Shell |
 | [Awesome-Binary-Analysis-Automation](https://github.com/user1342/Awesome-Binary-Analysis-Automation) | Curated list of binary analysis automation resources and tools | 61 | 🟡 |  |
 | [PRE-Resources](https://github.com/scratchadams/PRE-Resources) | List of protocol reverse engineering resources | 22 | 🔴 |  |
-| [Awesome REA (kaixinbaba)](https://github.com/kaixinbaba/awesome-rea) | Directory of open-source reconstructions, reimplementations and compatible alternatives | 13 | 🟢 | JavaScript |
+| [Awesome REA (kaixinbaba)](https://github.com/kaixinbaba/awesome-rea) | Directory of open-source reconstructions, reimplementations and compatible alternatives | 14 | 🟢 | JavaScript |
 | [awesome-reverse-engineering (cybersecurity-dev)](https://github.com/cybersecurity-dev/awesome-reverse-engineering) | Curated list of reverse engineering resources | 6 | 🟢 |  |
 | [awesome-web-reversing](https://github.com/TheQmaks/awesome-web-reversing) | Tools and workflows for runtime JavaScript reverse engineering of web apps | 4 | 🟢 | Python |
 
@@ -161,25 +161,25 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) | Curated list of Home Assistant resources and integrations | 8,604 | 🟢 | Python |
-| [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) | Curated list of projects related to the reMarkable tablet | 7,785 | 🟢 |  |
-| [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) | Curated resources on vehicle security and car hacking | 4,729 | 🟢 |  |
-| [awesome-canbus](https://github.com/iDoka/awesome-canbus) | Curated CAN bus tools, hardware and resources for reverse engineers | 3,529 | 🟢 |  |
-| [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | Curated resources about embedded and IoT security | 2,497 | 🔴 |  |
+| [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) | Curated list of Home Assistant resources and integrations | 8,606 | 🟢 | Python |
+| [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) | Curated list of projects related to the reMarkable tablet | 7,787 | 🟢 |  |
+| [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) | Curated resources on vehicle security and car hacking | 4,730 | 🟢 |  |
+| [awesome-canbus](https://github.com/iDoka/awesome-canbus) | Curated CAN bus tools, hardware and resources for reverse engineers | 3,530 | 🟢 |  |
+| [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | Curated resources about embedded and IoT security | 2,499 | 🔴 |  |
 | [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) | List of open-source hardware projects | 2,452 | 🟢 | Python |
-| [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) | Collection of IoT device hacks and teardown write-ups | 2,439 | 🔴 |  |
-| [awesome-industrial-protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols) | Security-oriented list of resources about industrial network protocols | 779 | 🟢 |  |
+| [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) | Collection of IoT device hacks and teardown write-ups | 2,438 | 🔴 |  |
+| [awesome-industrial-protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols) | Security-oriented list of resources about industrial network protocols | 778 | 🟢 |  |
 | [c64ref](https://github.com/mist64/c64ref) | Commodore 64 reference: commented ROM disassembly, memory map and more | 565 | 🟢 | Python |
 | [Awesome Embedded Systems Vulnerability Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) | Resources for vulnerability research on embedded devices | 520 | 🟢 |  |
 | [Awesome-Hardware-and-IoT-Hacking](https://github.com/JoasASantos/Awesome-Hardware-and-IoT-Hacking) | Curated hardware, firmware and IoT hacking resources and tools | 411 | 🟡 |  |
-| [awesome-garmin](https://github.com/bombsimon/awesome-garmin) | Garmin apps and tools, including unofficial Garmin Connect API clients and Connect IQ binary tools | 377 | 🟢 | Rust |
-| [ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) | Curated list of ESP32 reversing resources | 323 | 🟢 |  |
+| [awesome-garmin](https://github.com/bombsimon/awesome-garmin) | Garmin apps and tools, including unofficial Garmin Connect API clients and Connect IQ binary tools | 378 | 🟢 | Rust |
+| [ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) | Curated list of ESP32 reversing resources | 325 | 🟢 |  |
 | [awesome-linbus](https://github.com/iDoka/awesome-linbus) | Awesome list of LIN bus tools and resources for reverse engineering LIN devices | 247 | 🔴 |  |
 | [awesome-esphome-components](https://github.com/solarkennedy/awesome-esphome-components) | Curated ESPHome external components, many speaking reverse-engineered appliance, inverter and BLE protocols | 143 | 🟢 |  |
 | [awesome-fpga-boards](https://github.com/iDoka/awesome-fpga-boards) | Commercial FPGA boards (LED cards, miners, network gear) reverse engineered and repurposed for hobby use | 105 | 🔴 |  |
-| [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security) | Curated list of embedded security tools: firmware analysis and hardware RE | 69 | 🟢 | JavaScript |
-| [awesome-fm-1](https://github.com/cicloid/awesome-fm-1) | Curated list of M-VAVE FM-1 custom firmware, reverse engineering and tools | 68 | 🟢 |  |
+| [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security) | Curated list of embedded security tools: firmware analysis and hardware RE | 71 | 🟢 | JavaScript |
+| [awesome-fm-1](https://github.com/cicloid/awesome-fm-1) | Curated list of M-VAVE FM-1 custom firmware, reverse engineering and tools | 70 | 🟢 |  |
 | [Awesome-Game-Boy-Camera-and-Game-Boy-Printer-projects](https://github.com/Raphael-Boichot/Awesome-Game-Boy-Camera-and-Game-Boy-Printer-projects) | Game Boy Camera and Printer projects: protocol emulators, save-format tools, sensor drivers and hardware clones | 45 | 🟢 | Shell |
 | [awesome-even-realities-g1](https://github.com/galfaroth/awesome-even-realities-g1) | Collection of projects for Even Realities G1 AR glasses | 35 | 🟡 |  |
-| [OpenDeviceDB](https://github.com/opendevicedb/opendevicedb) | Directory of 21,000+ devices whose protocols or firmware are already open, with an MCP server | 33 | 🟢 | TypeScript |
+| [OpenDeviceDB](https://github.com/opendevicedb/opendevicedb) | Directory of 21,000+ devices whose protocols or firmware are already open, with an MCP server | 34 | 🟢 | TypeScript |
 | [awesome-arcade-coder](https://github.com/padraigfl/awesome-arcade-coder) | Wiki and resources for reverse engineering and reusing the Tech Will Save Us Arcade Coder e-waste device | 6 | 🟢 |  |
