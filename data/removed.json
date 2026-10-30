@@ -394,5 +394,53 @@
   "name": "Super Mario Galaxy (Galaxy Android)",
   "removed": "2026-10-29",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/bonyback1/sony-pmca-ricoh-mod",
+  "name": "sony-pmca-ricoh-mod",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/tanosshi/Cuphead-Decomp",
+  "name": "Cuphead-Decomp",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ianfrombailey/deltasquad",
+  "name": "Star Wars: Republic Commando decomp",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/sushi-shi/kings-field-decomp",
+  "name": "King's Field decomp",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/sushi-shi/kings-field-2-decomp",
+  "name": "King's Field II decomp",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/chasem-dev/sms-switch",
+  "name": "Super Mario Sunshine for Switch (sms-switch)",
+  "removed": "2026-10-30",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://src.miscworks.net/fair/matrix-appservice-kakaotalk",
+  "name": "matrix-appservice-kakaotalk",
+  "removed": "2026-10-30",
+  "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://src.miscworks.net/fair/matrix-puppeteer-line",
+  "name": "matrix-puppeteer-line",
+  "removed": "2026-10-30",
+  "reason": "unreachable on 3 runs"
  }
 ]
