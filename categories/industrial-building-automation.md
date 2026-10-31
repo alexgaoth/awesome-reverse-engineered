@@ -17,7 +17,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [freeathome](https://github.com/jheling/freeathome) | Home Assistant component for Busch-Jaeger free@home via the SysAP | 168 | 🟢 | Python |
+| [freeathome](https://github.com/jheling/freeathome) | Home Assistant component for Busch-Jaeger free@home via the SysAP | 169 | 🟢 | Python |
 | [xcomfortd](https://github.com/karloygard/xcomfortd) | Eaton xComfort CKOZ-00/14 USB stick to MQTT gateway | 15 | 🔴 | C++ |
 | [ESPHome-PHC-Controller](https://github.com/TillFleisch/ESPHome-PHC-Controller) | ESPHome component that replaces the controller of a PHC home control system | 13 | 🟢 | C++ |
 
@@ -25,8 +25,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 692 | 🟢 | Python |
-| [meerk40t](https://github.com/meerk40t/meerk40t) | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 443 | 🟢 | Python |
+| [inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 693 | 🟢 | Python |
+| [meerk40t](https://github.com/meerk40t/meerk40t) | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 444 | 🟢 | Python |
 | [pyLSV2](https://github.com/drunsinn/pyLSV2) | Pure-Python implementation of Heidenhain's LSV2 CNC control protocol | 93 | 🟢 | Python |
 | [cnc3018-offline-controller](https://github.com/positron96/cnc3018-offline-controller) | Open-source firmware for the CNC3018 offline controller | 90 | 🟢 | C++ |
 | [ruida-laser](https://github.com/jnweiger/ruida-laser) | Reverse-engineered protocol and file format of Ruida laser controllers (RDWorks, USB, Ethernet) | 65 | 🟢 | R |
@@ -46,7 +46,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esphome-components](https://github.com/ayufan/esphome-components) | ESPHome components including iNode BLE energy meter support | 100 | 🟢 | C |
 | [ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403) | Home Assistant integration for Kamstrup 403 heat meters via the optical KMP protocol | 91 | 🟢 | Python |
 | [vienna-smartmeter](https://github.com/platysma/vienna-smartmeter) | Python library for the Wiener Netze smart meter private API | 82 | 🟡 | Python |
-| [powerpal_ble](https://github.com/WeekendWarrior1/powerpal_ble) | Retrieves energy data from a Powerpal meter reader over its reverse-engineered BLE protocol | 73 | 🔴 | C++ |
+| [powerpal_ble](https://github.com/WeekendWarrior1/powerpal_ble) | Retrieves energy data from a Powerpal meter reader over its reverse-engineered BLE protocol | 72 | 🔴 | C++ |
 | [emerald_electricity_advisor](https://github.com/WeekendWarrior1/emerald_electricity_advisor) | Reverse engineered tools and docs for the Emerald Electricity Advisor | 61 | 🔴 | C++ |
 | [PyKamstrup](https://github.com/bsdphk/PyKamstrup) | Implementation of the Kamstrup Meter Protocol (KMP) | 61 | 🗄️ | Python |
 | [kamstrup-402-mqtt](https://github.com/matthijsvisser/kamstrup-402-mqtt) | Python library reading Kamstrup Multical 402 heat meters over the optical eye | 54 | 🟢 | Python |
@@ -55,8 +55,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [han-dev](https://github.com/nikito7/han-dev) | ESP Modbus-to-Wi-Fi reader for Portuguese EDP smart meters (HAN port) | 41 | 🟢 | C++ |
 | [esphome_qalcosonicnfc](https://github.com/dbmaxpayne/esphome_qalcosonicnfc) | ESPHome component reading Axioma Qalcosonic W1 water meters via NFC | 36 | 🟢 | C++ |
 | [MeterLogger](https://github.com/nabovarme/MeterLogger) | Wireless MeterLogger for Kamstrup heat energy meters | 24 | 🟢 | C |
+| [esphome-nartis-rf-meter](https://github.com/latonita/esphome-nartis-rf-meter) | ESPHome component for Nartis I100/I300 electricity meters over RF433 | 19 | 🟢 | C++ |
 | [kamstrup](https://github.com/Hal9k-dk/kamstrup) | Kamstrup IR optical eye reader | 19 | 🔴 | C++ |
-| [esphome-nartis-rf-meter](https://github.com/latonita/esphome-nartis-rf-meter) | ESPHome component for Nartis I100/I300 electricity meters over RF433 | 18 | 🟢 | C++ |
 | [Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C) | Home Assistant integration for Kamstrup Multical 66C heat meters | 17 | 🟢 | Python |
 | [KMP382-driver](https://github.com/casperbang/KMP382-driver) | Driver for the Kamstrup 685-382 electricity meter over the KMP serial protocol | 11 | 🔴 | C# |
 | [sdm630-emulator-pymodbus](https://github.com/aloishockenschlohe/sdm630-emulator-pymodbus) | Emulates the Modbus registers of an Eastron SDM630 power meter | 11 | 🟡 | Python |
@@ -79,7 +79,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esphome-elero](https://github.com/andyboeh/esphome-elero) | ESPHome component to control Elero blinds using the bidirectional Elero radio protocol | 46 | 🟡 | C++ |
 | [esphome-hcpbridge](https://github.com/mapero/esphome-hcpbridge) | ESPHome component for Hörmann garage doors over the HCP2 bus | 46 | 🟡 | C++ |
 | [velux-cli](https://github.com/nougad/velux-cli) | Go client for the Velux Active KIX 300 cloud API | 37 | 🔴 | Go |
-| [SommerESP](https://github.com/exico91/SommerESP) | Plug-and-play ESP32-C3 board to control Sommer garage doors | 28 | 🟢 | HTML |
+| [SommerESP](https://github.com/exico91/SommerESP) | Plug-and-play ESP32-C3 board to control Sommer garage doors | 29 | 🟢 | HTML |
 | [esphome-axaremote](https://github.com/rrooggiieerr/esphome-axaremote) | ESPHome component for AXA Remote window openers | 27 | 🟢 | C++ |
 | [esphome-BusT4](https://github.com/makstech/esphome-BusT4) | ESPHome component for Nice gate automation over the proprietary Bus-T4 protocol | 24 | 🟢 | C++ |
 | [Tasmota-SomfyRTS](https://github.com/andrew01144/Tasmota-SomfyRTS) | Tasmota Berry script to control Somfy RTS blinds | 22 | 🟢 | Berry |
@@ -101,10 +101,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [EMS-ESP32](https://github.com/emsesp/EMS-ESP32) | ESP32 firmware to read and control Bosch/Buderus/Nefit EMS and Heatronic boilers | 1,050 | 🟢 | C++ |
+| [EMS-ESP32](https://github.com/emsesp/EMS-ESP32) | ESP32 firmware to read and control Bosch/Buderus/Nefit EMS and Heatronic boilers | 1,051 | 🟢 | C++ |
 | [mitsubishi2MQTT](https://github.com/gysmo38/mitsubishi2MQTT) | ESP8266 bridge from Mitsubishi heat pumps (CN105 port) to MQTT | 504 | 🟢 | C |
-| [esphome_aux_ac_component](https://github.com/GrKoR/esphome_aux_ac_component) | ESPHome component for AUX-based air conditioners via the reverse-engineered UART protocol | 379 | 🟢 | C++ |
-| [BSB-LAN](https://github.com/fredlcore/BSB-LAN) | Monitor and control Siemens-based Brötje/Elco/Atlantic heating over the BSB/LPB bus | 358 | 🟢 | C |
+| [esphome_aux_ac_component](https://github.com/GrKoR/esphome_aux_ac_component) | ESPHome component for AUX-based air conditioners via the reverse-engineered UART protocol | 377 | 🟢 | C++ |
+| [BSB-LAN](https://github.com/fredlcore/BSB-LAN) | Monitor and control Siemens-based Brötje/Elco/Atlantic heating over the BSB/LPB bus | 359 | 🟢 | C |
 | [esphome_samsung_hvac_bus](https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus) | ESPHome component for Samsung HVAC units over the NASA/non-NASA RS-485 bus | 321 | 🟢 | C++ |
 | [EMS-ESP](https://github.com/emsesp/EMS-ESP) | ESP8266 firmware for Bosch/Buderus EMS and Heatronic heating equipment | 310 | 🗄️ | C++ |
 | [esphome-lg-controller](https://github.com/JanM321/esphome-lg-controller) | ESP32 wired controller for LG HVAC units emulating the wall controller protocol | 289 | 🟢 | C++ |
@@ -120,7 +120,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [remeha_home](https://github.com/msvisser/remeha_home) | Home Assistant integration for the private Remeha Home cloud API | 118 | 🟡 | Python |
 | [infinitive](https://github.com/acd/infinitive) | Impersonates a SAM on the Carrier Infinity ABCD RS-485 bus for local control | 116 | 🟡 | Go |
 | [ESP_Buderus_KM271](https://github.com/dewenni/ESP_Buderus_KM271) | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 115 | 🟡 | C++ |
-| [FujiHeatPump](https://github.com/unreality/FujiHeatPump) | Control Fujitsu air conditioners from Arduino via the reverse-engineered indoor-unit bus | 107 | 🔴 | C++ |
+| [FujiHeatPump](https://github.com/unreality/FujiHeatPump) | Control Fujitsu air conditioners from Arduino via the reverse-engineered indoor-unit bus | 108 | 🔴 | C++ |
 | [esphome-truma_inetbox](https://github.com/Fabian-Schmidt/esphome-truma_inetbox) | ESPHome component to control Truma CP Plus heaters over LIN | 102 | 🟡 | C++ |
 | [luxtronik](https://github.com/Bouni/luxtronik) | Home Assistant integration for Luxtronik heat pump controllers | 100 | 🔴 | Python |
 | [esphome-opentherm](https://github.com/arthurrump/esphome-opentherm) | ESPHome OpenTherm component for building a modulating thermostat that talks to the boiler bus | 96 | 🗄️ | Python |
@@ -151,9 +151,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Diematic_to_MQTT](https://github.com/Benoit3/Diematic_to_MQTT) | MQTT interface for De Dietrich Diematic3 heating regulators | 44 | 🟢 | Python |
 | [esphome_gree_ac](https://github.com/piotrva/esphome_gree_ac) | ESPHome component for Gree air conditioners over the UART wifi-module port | 44 | 🟢 | C++ |
 | [CAN-Gateway](https://github.com/wladwnt/CAN-Gateway) | Wi-Fi/LAN to CAN gateway for Hoval TopTronic E devices | 43 | 🟡 |  |
+| [vaillant-ebus](https://github.com/MarkBovee/vaillant-ebus) | Home Assistant integration for Vaillant heat pumps via direct ebusd TCP, no cloud | 43 | 🟢 | Python |
 | [python-thermia-online-api](https://github.com/klejejs/python-thermia-online-api) | Python API for Thermia heat pumps via the Thermia Online cloud | 42 | 🟢 | Python |
-| [esphome_components](https://github.com/hencou/esphome_components) | ESPHome components for Remeha boilers over CAN bus, Itho ventilation and MiLight remotes | 41 | 🟢 | C++ |
-| [vaillant-ebus](https://github.com/MarkBovee/vaillant-ebus) | Home Assistant integration for Vaillant heat pumps via direct ebusd TCP, no cloud | 41 | 🟢 | Python |
 | [hometop_HT3](https://github.com/norberts1/hometop_HT3) | Decodes the Junkers/Bosch Heatronic HT3 and EMS2 heater bus | 40 | 🟢 | Python |
 | [InsideViessmannVitosoft](https://github.com/sarnau/InsideViessmannVitosoft) | Description of Viessmann Optolink protocol and Vitosoft XML data files | 39 | 🟡 | Python |
 | [Aquarea2mqtt](https://github.com/lsochanowski/Aquarea2mqtt) | Wrapper for the Panasonic Aquarea Service Cloud to MQTT | 37 | 🔴 | Go |
@@ -162,7 +161,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esphome_dietrich](https://github.com/kakaki/esphome_dietrich) | ESPHome connectivity for De Dietrich (Remeha) boilers via their PC interface | 34 | 🟢 | C++ |
 | [E3onCAN](https://github.com/MyHomeMyData/E3onCAN) | Reads live data from the CAN bus of Viessmann E3 series devices such as Vitocal 250 | 30 | 🟢 | Python |
 | [HaierProtocol](https://github.com/paveldn/HaierProtocol) | Library implementing the Haier air-conditioner serial communication protocol | 29 | 🟢 | C++ |
-| [StiebelEltron-heatpump-over-esphome-can-bus](https://github.com/roberreiter/StiebelEltron-heatpump-over-esphome-can-bus) | ESPHome config to read and write Stiebel Eltron heat pump values over its CAN bus | 29 | 🟡 |  |
+| [StiebelEltron-heatpump-over-esphome-can-bus](https://github.com/roberreiter/StiebelEltron-heatpump-over-esphome-can-bus) | ESPHome config to read and write Stiebel Eltron heat pump values over its CAN bus | 29 | 🟢 |  |
 | [ebusd-configuration-weishaupt](https://github.com/J0EK3R/ebusd-configuration-weishaupt) | ebusd configuration files for Weishaupt WTC devices | 27 | 🔴 | C++ |
 | [uhomeuponor](https://github.com/dave-code-ruiz/uhomeuponor) | Home Assistant component for Uponor Smatrix underfloor heating via the Uhome API | 26 | 🟢 | Python |
 | [ESPHome-Brivis-Networker](https://github.com/Makin-Things/ESPHome-Brivis-Networker) | Replacement PCB and ESPHome firmware for Brivis ducted heater networker | 24 | 🟡 | C++ |
@@ -188,15 +187,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [home-assistant-vaillant-plus](https://github.com/daxingplay/home-assistant-vaillant-plus) | Home Assistant component for vSmart devices in the Vaillant+ China app | 15 | 🟢 | Python |
 | [hoval-gateway](https://github.com/chrishrb/hoval-gateway) | Gateway for reading Hoval heating over its proprietary CAN bus | 15 | 🟡 | Python |
 | [esphome_vaillant](https://github.com/jayme-github/esphome_vaillant) | ESPHome control of Vaillant heaters | 14 | 🔴 | C++ |
+| [viessmann-optolink2mqtt](https://github.com/f18m/viessmann-optolink2mqtt) | Bridge between Viessmann Optolink devices and MQTT | 14 | 🟢 | Python |
 | [can-wifi-gateway-stiebel-eltron](https://github.com/simonlmn/can-wifi-gateway-stiebel-eltron) | Gateway to Stiebel Eltron heat pump controllers over CAN with an HTTP interface | 13 | 🟢 | C++ |
 | [OptoLink](https://github.com/empty88/OptoLink) | ESP8266 Optolink interface reading Viessmann heaters and publishing to MQTT | 13 | 🟢 | C++ |
 | [rinnai-control-panel-sigrok-pd](https://github.com/ayavilevich/rinnai-control-panel-sigrok-pd) | Sigrok decoder for the internal protocol of Rinnai gas heater control panels | 13 | 🔴 | Python |
-| [viessmann-optolink2mqtt](https://github.com/f18m/viessmann-optolink2mqtt) | Bridge between Viessmann Optolink devices and MQTT | 13 | 🟢 | Python |
+| [esphome_vitohome](https://github.com/SoulSolistice/esphome_vitohome) | ESPHome component for Viessmann heating controllers over Optolink | 12 | 🟢 | C++ |
+| [ha-bosch-buderus-heating](https://github.com/SoftwareSchmied/ha-bosch-buderus-heating) | Unofficial Home Assistant integration for Bosch and Buderus heating via the PointT cloud API | 12 | 🟢 | Python |
 | [MicronovaPelletStoveController](https://github.com/k3a/MicronovaPelletStoveController) | Code to control Micronova pellet stove controllers over their serial protocol | 12 | 🔴 | C++ |
 | [Palazzetti](https://github.com/Domochip/Palazzetti) | Library to control Palazzetti (Fumis) pellet stoves over serial | 12 | 🟢 | C++ |
 | [Quatt-sniffer](https://github.com/M10tech/Quatt-sniffer) | Sniffs Quatt heat pump and CiC controller traffic on the RS485 bus | 12 | 🟢 | C++ |
-| [esphome_vitohome](https://github.com/SoulSolistice/esphome_vitohome) | ESPHome component for Viessmann heating controllers over Optolink | 11 | 🟢 | C++ |
-| [ha-bosch-buderus-heating](https://github.com/SoftwareSchmied/ha-bosch-buderus-heating) | Unofficial Home Assistant integration for Bosch and Buderus heating via the PointT cloud API | 11 | 🟢 | Python |
 | [optolink-bridge](https://github.com/kristian/optolink-bridge) | Bridges the Viessmann Optolink bus and publishes values to MQTT and Home Assistant | 11 | 🟢 | JavaScript |
 | [rinnai-serial-decoder](https://github.com/genmeim/rinnai-serial-decoder) | PulseView decoder for Rinnai hot-water unit serial communication | 10 | 🔴 | Python |
 | [uponor](https://github.com/jaxer/uponor) | ESPHome component to hook into Uponor floor heating over its bus | 10 | 🟢 | C++ |
@@ -222,6 +221,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Froeling-HA](https://github.com/Tropaion/Froeling-HA) | Home Assistant integration for Fröling boilers using their proprietary protocol | 1 | 🟢 | Python |
 | [froeling-proxy](https://github.com/mpolajnar/froeling-proxy) | Library and TCP server for communicating with Fröling wood boilers | 1 | 🟢 | Python |
 | [weishaupt_modbus_rtu](https://github.com/backuprestore/weishaupt_modbus_rtu) | Reverse engineering of the Weishaupt heat pump Modbus RTU RS485 interface | 1 | 🟡 |  |
+| [esphome_components](https://github.com/hencou/esphome_components) | ESPHome components for Remeha boilers over CAN bus, Itho ventilation and MiLight remotes | 0 | 🟢 | C++ |
 | [ParadigmaHeatingReader](https://github.com/kayr7/ParadigmaHeatingReader) | Reverse-engineered reader for Paradigma SystaComfort 2 heating controllers | 0 | 🔴 | Python |
 | [xye](https://codeberg.org/xye/xye) | Reverse-engineered documentation of the XYE bus used by indoor units of split/VRF air conditioners |  | ⚪ |  |
 
@@ -237,32 +237,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [HslCommunication](https://github.com/dathlin/HslCommunication) | C# industrial comms library covering Siemens, Mitsubishi, Omron, AB, Keyence and other PLC protocols | 2,144 | 🟢 | C# |
-| [plc4x](https://github.com/apache/plc4x) | Apache PLC4X: drivers for S7, Allen-Bradley, Beckhoff, Modbus and other PLC protocols in Java/Go/C | 1,769 | 🟢 | Java |
+| [plc4x](https://github.com/apache/plc4x) | Apache PLC4X: drivers for S7, Allen-Bradley, Beckhoff, Modbus and other PLC protocols in Java/Go/C | 1,770 | 🟢 | Java |
 | [IoTClient](https://github.com/zhaopeiym/IoTClient) | .NET client for industrial protocols: Siemens S7, Mitsubishi MC, Omron FINS, Allen-Bradley | 1,689 | 🟢 | C# |
 | [s7netplus](https://github.com/S7NetPlus/s7netplus) | S7.NET+: .NET library that talks the Siemens S7comm protocol to Step7 PLCs | 1,641 | 🟡 | C# |
 | [libplctag](https://github.com/libplctag/libplctag) | Portable C library for Allen-Bradley (CIP/PCCC) and Modbus PLC tag access | 904 | 🟢 | C |
 | [python-snap7](https://github.com/gijzelaerr/python-snap7) | Pure-Python client for Siemens S7comm, the undocumented protocol of S7-300/400/1200/1500 PLCs | 865 | 🟢 | Python |
 | [PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools) | Communication test tools for vendor PLC protocols (Siemens, Mitsubishi, Omron and others) | 781 | 🟢 | C# |
-| [pylogix](https://github.com/dmroeder/pylogix) | Python library to read/write tags on Allen-Bradley ControlLogix/CompactLogix PLCs | 735 | 🟢 | Python |
+| [pylogix](https://github.com/dmroeder/pylogix) | Python library to read/write tags on Allen-Bradley ControlLogix/CompactLogix PLCs | 736 | 🟢 | Python |
 | [pycomm3](https://github.com/ottowayi/pycomm3) | Python EtherNet/IP library for Allen-Bradley Logix and SLC/MicroLogix PLCs, incl. undocumented services | 521 | 🟢 | Python |
 | [DotNetSiemensPLCToolBoxLibrary](https://github.com/dotnetprojects/DotNetSiemensPLCToolBoxLibrary) | .NET library to access Siemens PLCs and parse Step5/Step7 project files | 485 | 🟢 | C# |
 | [gos7](https://github.com/robinson/gos7) | Go implementation of the Siemens S7comm protocol | 406 | 🟢 | Go |
 | [nodeS7](https://github.com/plcpeople/nodeS7) | Node.js library for Siemens S7 PLC communication over the S7comm protocol | 399 | 🔴 | JavaScript |
-| [s7connector](https://github.com/s7connector/s7connector) | Java S7 PLC connector implementing the Siemens S7comm protocol | 339 | 🟡 | HTML |
+| [s7connector](https://github.com/s7connector/s7connector) | Java S7 PLC connector implementing the Siemens S7comm protocol | 340 | 🟡 | HTML |
 | [iot-communication](https://github.com/xingshuangs/iot-communication) | Java library for Siemens S7, Mitsubishi MELSEC and Omron FINS PLC protocols | 303 | 🟢 | Java |
-| [libplctag.NET](https://github.com/libplctag/libplctag.NET) | .NET wrapper for the libplctag Allen-Bradley PLC library | 301 | 🟢 | C# |
+| [libplctag.NET](https://github.com/libplctag/libplctag.NET) | .NET wrapper for the libplctag Allen-Bradley PLC library | 302 | 🟢 | C# |
 | [snap7](https://github.com/SCADACS/snap7) | Snap7 suite: open client, server and partner implementation of the Siemens S7comm protocol | 286 | 🔴 | Pascal |
 | [Sharp7](https://github.com/fbarresi/Sharp7) | Sharp7: C# port of the Snap7 Siemens S7comm client packaged for NuGet | 259 | 🔴 | C# |
 | [S7CommPlusDriver](https://github.com/thomas-v2/S7CommPlusDriver) | Reverse-engineered S7comm-plus driver for Siemens S7-1200/1500 PLCs | 229 | 🟢 | C# |
+| [snap7](https://github.com/davenardella/snap7) | Official Snap7 repository: multi-platform Siemens S7 Ethernet communication suite | 187 | 🟡 | C++ |
 | [ICSREF](https://github.com/momalab/ICSREF) | Tool for reverse engineering industrial control system (CODESYS) binaries | 186 | 🟢 | Python |
-| [snap7](https://github.com/davenardella/snap7) | Official Snap7 repository: multi-platform Siemens S7 Ethernet communication suite | 186 | 🟡 | C++ |
 | [node-snap7](https://github.com/mathiask88/node-snap7) | Node.js bindings for the Snap7 Siemens S7 communication library | 180 | 🟢 | C++ |
 | [pycomm](https://github.com/ruscito/pycomm) | Python modules to talk to Allen-Bradley PLCs (ControlLogix tags, SLC/PCCC) | 159 | 🔴 | Python |
 | [SoftPlc](https://github.com/fbarresi/SoftPlc) | Software PLC that emulates a Siemens S7 server over S7comm, with Docker support | 154 | 🟡 | C# |
 | [node-red-contrib-s7](https://github.com/st-one-io/node-red-contrib-s7) | Node-RED nodes to read and write Siemens S7 PLCs via a JS S7comm implementation | 135 | 🟢 | HTML |
 | [libfins](https://github.com/lammertb/libfins) | Multi-platform C library for the Omron FINS PLC protocol | 134 | 🟡 | C |
 | [mcprotocol](https://github.com/plcpeople/mcprotocol) | Node.js implementation of the Mitsubishi MC protocol for FX/Q/L PLCs | 121 | 🔴 | JavaScript |
-| [acd](https://github.com/hutcheb/acd) | Tools to parse Rockwell Studio 5000 .ACD project files, a proprietary binary format | 116 | 🟢 | Python |
+| [acd](https://github.com/hutcheb/acd) | Tools to parse Rockwell Studio 5000 .ACD project files, a proprietary binary format | 117 | 🟢 | Python |
 | [scada-stuff](https://github.com/nezza/scada-stuff) | Scripts and tools for reverse engineering SCADA/ICS devices | 110 | 🔴 | Python |
 | [pymcprotocol](https://github.com/senrust/pymcprotocol) | Python implementation of the Mitsubishi MELSEC MC protocol | 106 | 🟡 | Python |
 | [mokka7](https://github.com/comtel2000/mokka7) | Mokka7: pure-Java port of the Snap7 Siemens S7comm client | 69 | 🟢 | Java |
@@ -293,7 +293,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [WiFi-remote-for-Bestway-Lay-Z-SPA](https://github.com/visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA) | ESP8266 Wi-Fi remote for Bestway Lay-Z-Spa hot tubs via the display bus | 414 | 🟢 | C++ |
-| [ithowifi](https://github.com/arjenhiemstra/ithowifi) | ESP32 Wi-Fi add-on for Itho ventilation using its I2C protocol | 289 | 🟢 | HTML |
+| [ithowifi](https://github.com/arjenhiemstra/ithowifi) | ESP32 Wi-Fi add-on for Itho ventilation using its I2C protocol | 290 | 🟢 | HTML |
 | [AqualinkD](https://github.com/aqualinkd/AqualinkD) | Daemon controlling Jandy Aqualink RS pool equipment over RS485 | 239 | 🟢 | C |
 | [esphome-tion](https://github.com/dentra/esphome-tion) | ESPHome custom firmware for Tion breezers using the reverse-engineered Tion BLE/UART protocol | 176 | 🟢 | C++ |
 | [comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) | ESP32 firmware to interact with Zehnder ComfoAir Q via CAN | 156 | 🟢 | C++ |
