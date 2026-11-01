@@ -19,12 +19,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [owntone-server](https://github.com/owntone/owntone-server) | Media server that streams to AirPlay 1/2 speakers and Chromecast and serves DAAP/DACP | 2,580 | 🟢 | C |
 | [shairport](https://github.com/abrasive/shairport) | Airtunes emulator! Shairport is no longer maintained. | 2,458 | 🔴 | C |
-| [UxPlay](https://github.com/antimof/UxPlay) | AirPlay Unix mirroring server | 2,148 | 🟢 | C |
+| [UxPlay](https://github.com/antimof/UxPlay) | AirPlay Unix mirroring server | 2,150 | 🟢 | C |
 | [open-airplay](https://github.com/openairplay/open-airplay) | Collection of libraries for Apple's AirPlay protocol | 1,894 | 🟡 | Java |
 | [shairplay](https://github.com/juhovh/shairplay) | Apple airplay and raop protocol server | 1,406 | 🔴 | C |
-| [android-airplay-server](https://github.com/jqssun/android-airplay-server) | First open-source AirPlay receiver implementation for Android with mirroring, video and audio support | 905 | 🟢 | Kotlin |
+| [android-airplay-server](https://github.com/jqssun/android-airplay-server) | First open-source AirPlay receiver implementation for Android with mirroring, video and audio support | 913 | 🟢 | Kotlin |
 | [Slave-in-the-Magic-Mirror](https://github.com/espes/Slave-in-the-Magic-Mirror) | Open source implementation of AirPlay Mirroring. WIP. | 626 | 🔴 | Python |
-| [AirplayServer](https://github.com/KqSMea8/AirplayServer) | Android AirPlay 2 mirroring receiver server | 559 | 🔴 | C |
+| [AirplayServer](https://github.com/KqSMea8/AirplayServer) | Android AirPlay 2 mirroring receiver server | 558 | 🔴 | C |
 | [java-airplay-server](https://github.com/serezhka/java-airplay-server) | Acts like Apple TV | 395 | 🔴 | Java |
 | [node_airtunes](https://github.com/openairplay/node_airtunes) | Node.js AirTunes v2 implementation to stream to Apple audio devices | 272 | 🔴 | C |
 | [airplay-server](https://github.com/watson/airplay-server) | A low level AirPlay server | 262 | 🔴 | JavaScript |
@@ -34,7 +34,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [node-appletv](https://github.com/evandcoleman/node-appletv) | Node.js module to control 4th-gen+ Apple TV over the Media Remote protocol | 194 | 🔴 | TypeScript |
 | [AirReceiver](https://github.com/fgp/AirReceiver) | AirReceiver is an AirPort Express emulator, i.e. it allows streaming audio from iTunes and iOS devices to a computer... | 190 | 🔴 | Java |
 | [AirPlay (phonegapX)](https://github.com/phonegapX/AirPlay) | Reverse engineering research on the AirPlay protocol | 167 | 🔴 | C |
-| [nqptp](https://github.com/mikebrady/nqptp) | Companion daemon that implements the PTP timing AirPlay 2 needs for shairport-sync | 161 | 🟢 | C |
+| [nqptp](https://github.com/mikebrady/nqptp) | Companion daemon that implements the PTP timing AirPlay 2 needs for shairport-sync | 162 | 🟢 | C |
 | [mediaremotetv-protocol](https://github.com/jeanregisser/mediaremotetv-protocol) | Unofficial specification of the Apple TV MediaRemote remote-control protocol | 153 | 🔴 |  |
 | [wireshark-awdl](https://github.com/seemoo-lab/wireshark-awdl) | Wireshark dissector for Apple Wireless Direct Link (AWDL) and CoreCapture logs | 149 | 🔴 |  |
 | [mosey-extended](https://github.com/thelok1s/mosey-extended) | KernelSU module enabling AirDrop interop in Quick Share on Pixels | 147 | 🟢 | Shell |
@@ -45,7 +45,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mpcfw](https://github.com/evilsocket/mpcfw) | Reverse engineering of Apple's MultipeerConnectivity framework | 113 | 🔴 | Python |
 | [apsdk-public](https://github.com/air-display/apsdk-public) | Cross-platform AirPlay server (receiver) SDK implementation | 104 | 🟡 | C++ |
 | [PyOpenAirMirror](https://github.com/tzwenn/PyOpenAirMirror) | An open source AirPlay mirroring server in Python for iOS 6-8 | 93 | 🔴 | Python |
-| [apple-continuity-tools](https://github.com/seemoo-lab/apple-continuity-tools) | Reverse engineering toolkit for Apple's wireless Continuity ecosystem | 90 | 🟢 | JavaScript |
+| [apple-continuity-tools](https://github.com/seemoo-lab/apple-continuity-tools) | Reverse engineering toolkit for Apple's wireless Continuity ecosystem | 91 | 🟢 | JavaScript |
 | [LMS-Raop](https://github.com/philippe44/LMS-Raop) | LMS to AirPlay bridge | 75 | 🟢 | Perl |
 | [airplay2-sender-cpp](https://github.com/akustikrausch/airplay2-sender-cpp) | A verified C++ AirPlay 2 realtime-audio SENDER: streams lossless ALAC to a modern Apple TV / HomePod / macOS. The... | 73 | 🟢 | C++ |
 | [JAirPort](https://github.com/froks/JAirPort) | JAirPort - A Java-Airplay Server | 73 | 🔴 | Java |
@@ -59,7 +59,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rust-raop-player](https://github.com/LinusU/rust-raop-player) | AirPlay player for the RAOP v2 protocol with synchronization | 32 | 🟢 | Rust |
 | [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop) | AirDrop-compatible library for ESP32 to exchange photos with an iPhone | 27 | 🟢 | C |
 | [raop](https://github.com/tenderlove/raop) | RAOP Client is an Airport Express client written in ruby. It allows you to stream music to an Airport Express from Ruby. | 24 | 🔴 | Ruby |
-| [shairplay-rust](https://github.com/metaneutrons/shairplay-rust) | Pure Rust AirPlay server library (AP1 + AP2 audio, video) | 23 | 🟢 | Rust |
+| [shairplay-rust](https://github.com/metaneutrons/shairplay-rust) | Pure Rust AirPlay server library (AP1 + AP2 audio, video) | 24 | 🟢 | Rust |
 | [raop-rtsp-server](https://github.com/watson/raop-rtsp-server) | A RAOP server in Node.js | 20 | 🔴 | JavaScript |
 | [airplay-sonos](https://github.com/alessiodionisi/airplay-sonos) | AirPlay server for Sonos devices | 19 | 🗄️ | JavaScript |
 
@@ -67,31 +67,31 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [osxphotos](https://github.com/RhetTbull/osxphotos) | Reads and exports Apple Photos libraries by parsing the Photos.sqlite database | 3,959 | 🟢 | Python |
-| [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS research Swiss Army knife: firmware, dyld cache, kernelcache parsing | 3,843 | 🟢 | Go |
+| [osxphotos](https://github.com/RhetTbull/osxphotos) | Reads and exports Apple Photos libraries by parsing the Photos.sqlite database | 3,964 | 🟢 | Python |
+| [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS research Swiss Army knife: firmware, dyld cache, kernelcache parsing | 3,847 | 🟢 | Go |
 | [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) | App to open Apple compiled asset catalog (.car) files and extract images | 2,893 | 🟢 | Swift |
 | [shortcuts-js](https://github.com/joshfarrant/shortcuts-js) | JavaScript library to generate iOS Shortcuts files | 1,755 | 🗄️ | TypeScript |
-| [cherri](https://github.com/electrikmilk/cherri) | Programming language that compiles to Apple Shortcuts files | 1,661 | 🟢 | Go |
-| [iLEAPP](https://github.com/abrignoni/iLEAPP) | iOS Logs, Events, And Plist Parser | 1,412 | 🟢 | Python |
+| [cherri](https://github.com/electrikmilk/cherri) | Programming language that compiles to Apple Shortcuts files | 1,662 | 🟢 | Go |
+| [iLEAPP](https://github.com/abrignoni/iLEAPP) | iOS Logs, Events, And Plist Parser | 1,414 | 🟢 | Python |
 | [mac_apt](https://github.com/ydkhatri/mac_apt) | macOS (& ios) Artifact Parsing Tool | 1,098 | 🟢 | Python |
-| [iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) | A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups | 1,075 | 🟢 | Java |
+| [iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) | A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups | 1,076 | 🟢 | Java |
 | [apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) | Extracts Apple Notes data from the NoteStore database to JSON/HTML | 1,019 | 🔴 | Java |
 | [osx-abi-macho-file-format-reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference) | Mirror of OS X ABI Mach-O File Format Reference | 883 | 🟡 |  |
 | [APOLLO](https://github.com/mac4n6/APOLLO) | Parses macOS/iOS pattern-of-life databases (KnowledgeC, Screen Time, etc.) into timelines | 653 | 🟡 | Python |
-| [libplist](https://github.com/libimobiledevice/libplist) | Library for Apple binary and XML property lists | 641 | 🟢 | C |
+| [libplist](https://github.com/libimobiledevice/libplist) | Library for Apple binary and XML property lists | 642 | 🟢 | C |
 | [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) | macOS tool that extracts images from Assets.car files and app bundles | 598 | 🔴 | Objective-C |
 | [dyld-shared-cache-extractor](https://github.com/keith/dyld-shared-cache-extractor) | A CLI for extracting libraries from Apple's dyld shared cache file | 587 | 🟡 | C |
 | [DyldExtractor](https://github.com/arandomdev/DyldExtractor) | Extract Binaries from Apple's Dyld Shared Cache | 474 | 🗄️ | Python |
 | [macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) | Cross-platform Rust parser for Apple Unified Log (tracev3) files | 386 | 🟢 | Rust |
 | [img4lib](https://github.com/xerub/img4lib) | image4 vfs | 372 | 🔴 | C |
 | [sparsebundlefs](https://github.com/torarnv/sparsebundlefs) | FUSE filesystem for reading macOS sparsebundle disk images | 369 | 🟢 | C++ |
-| [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) | iOS Backup Data Extraction | 362 | 🔴 | JavaScript |
+| [iphonebackuptools](https://github.com/richinfante/iphonebackuptools) | iOS Backup Data Extraction | 363 | 🔴 | JavaScript |
 | [libfvde](https://github.com/libyal/libfvde) | Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes | 360 | 🟢 | C |
 | [img4tool](https://github.com/tihmstar/img4tool) | A tool for manipulating IMG4, IM4M and IM4P files | 336 | 🟢 | C++ |
 | [darling-dmg](https://github.com/darlinghq/darling-dmg) | FUSE module for .dmg files (containing an HFS+ filesystem) | 306 | 🟡 | C++ |
 | [scpl](https://github.com/pfgithub/scpl) | Text language that compiles to iOS Shortcuts files | 289 | 🔴 | TypeScript |
-| [iOSbackup](https://github.com/avibrazil/iOSbackup) | A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and... | 287 | 🟡 | Python |
-| [numbers-parser](https://github.com/masaccio/numbers-parser) | Python parser for Apple Numbers (.numbers) IWA files | 260 | 🟢 | Python |
+| [iOSbackup](https://github.com/avibrazil/iOSbackup) | A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and... | 288 | 🟡 | Python |
+| [numbers-parser](https://github.com/masaccio/numbers-parser) | Python parser for Apple Numbers (.numbers) IWA files | 261 | 🟢 | Python |
 | [go-macho](https://github.com/blacktop/go-macho) | Package macho implements access to and creation of Mach-O object files. | 259 | 🟢 | Go |
 | [notesutils](https://github.com/dunhamsteve/notesutils) | Utilities and format notes for extracting notes (protobuf) from Notes.app | 249 | 🔴 | Python |
 | [keynote-parser](https://github.com/psobot/keynote-parser) | Packer/unpacker for Apple Keynote (IWA protobuf) presentation files | 213 | 🟢 | Python |
@@ -112,7 +112,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-apfs](https://github.com/blacktop/go-apfs) | APFS parser written in pure Go | 85 | 🟢 | Go |
 | [crabapple](https://github.com/ReagentX/crabapple) | Rust library for reading and extracting encrypted iOS backups | 76 | 🟢 | Rust |
 | [PyIMG4](https://github.com/m1stadev/PyIMG4) | A Python library/CLI tool for parsing Apple's Image4 format. | 70 | 🟢 | Python |
-| [libgpod](https://github.com/fadingred/libgpod) | Library to read and write the iPod/iTunes database (iTunesDB) reverse-engineered from Apple's format | 64 | 🔴 | C |
+| [libgpod](https://github.com/fadingred/libgpod) | Library to read and write the iPod/iTunes database (iTunesDB) reverse-engineered from Apple's format | 65 | 🔴 | C |
 | [shortcuts-toolkit](https://github.com/drewburchfield/shortcuts-toolkit) | Generates Apple Shortcuts programmatically using the reverse-engineered binary plist format | 49 | 🟡 | JavaScript |
 | [libfshfs](https://github.com/libyal/libfshfs) | Library and tools to access the Mac OS Hierarchical File System (HFS) | 42 | 🟢 | C |
 | [ipsw_parser](https://github.com/doronz88/ipsw_parser) | python3 utility for parsing and extracting data from IPSW | 33 | 🟢 | Python |
@@ -124,12 +124,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ANE](https://github.com/maderix/ANE) | Trains neural networks on Apple Neural Engine via reverse-engineered private APIs | 7,292 | 🟢 | Objective-C |
-| [m1n1](https://github.com/AsahiLinux/m1n1) | Bootloader and hardware experimentation tool for Apple Silicon | 4,284 | 🟢 | Python |
+| [ANE](https://github.com/maderix/ANE) | Trains neural networks on Apple Neural Engine via reverse-engineered private APIs | 7,293 | 🟢 | Objective-C |
+| [m1n1](https://github.com/AsahiLinux/m1n1) | Bootloader and hardware experimentation tool for Apple Silicon | 4,285 | 🟢 | Python |
 | [Asahi Linux kernel](https://github.com/AsahiLinux/linux) | Linux kernel with drivers for Apple Silicon Macs | 3,041 | 🟢 | C |
 | [PongoOS](https://github.com/checkra1n/PongoOS) | Pre-boot execution environment for Apple boards built on checkm8 | 2,769 | 🟡 | C |
-| [Asahi Linux docs](https://github.com/AsahiLinux/docs) | Hardware reverse-engineering documentation for Apple Silicon | 2,325 | 🟢 | HTML |
-| [Project Sandcastle](https://github.com/corellium/projectsandcastle) | Android and Linux on iPhone via checkm8 | 2,123 | 🔴 | C |
+| [Asahi Linux docs](https://github.com/AsahiLinux/docs) | Hardware reverse-engineering documentation for Apple Silicon | 2,326 | 🟢 | HTML |
+| [Project Sandcastle](https://github.com/corellium/projectsandcastle) | Android and Linux on iPhone via checkm8 | 2,124 | 🔴 | C |
 | [facetimehd](https://github.com/patjak/facetimehd) | Reverse-engineered Linux driver for the Mac FaceTime HD (Broadcom 1570) PCIe webcam | 1,516 | 🟢 | C |
 | [apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) | Reads the undocumented MEMS accelerometer and gyroscope on Apple Silicon MacBooks | 1,249 | 🟢 | Python |
 | [AsahiLinux gpu](https://github.com/AsahiLinux/gpu) | Apple GPU reverse-engineering research (archived) | 1,050 | 🗄️ | C |
@@ -138,19 +138,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [attesor](https://github.com/Inokinoki/attesor) | AI-assisted reverse engineering of Rosetta 2 for Linux VMs | 87 | 🟢 | C |
 | [apple-gpu-dvfs](https://github.com/maderix/apple-gpu-dvfs) | Apple Silicon GPU DVFS reverse engineering | 69 | 🟢 | Objective-C |
 | [aurora-silicon linux](https://github.com/aurora-silicon/linux) | AI-assisted reverse engineering of Apple Mac hardware for Linux kernel support | 60 | 🟢 | C |
-| [ane-fieldfare](https://github.com/zw5/ane-fieldfare) | Runs Gemma 4 26B on Apple's Neural Engine via reverse-engineered ANE interfaces | 15 | 🟢 | Swift |
+| [ane-fieldfare](https://github.com/zw5/ane-fieldfare) | Runs Gemma 4 26B on Apple's Neural Engine via reverse-engineered ANE interfaces | 16 | 🟢 | Swift |
 
 ## Find My & AirTag
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [FindMy.py](https://github.com/malmeloo/FindMy.py) | Python library to query Apple Find My devices and AirTags | 3,352 | 🟢 | Python |
-| [AirGuard](https://github.com/seemoo-lab/AirGuard) | Android app that detects AirTags and Find My trackers following you | 2,564 | 🟢 | Kotlin |
+| [AirGuard](https://github.com/seemoo-lab/AirGuard) | Android app that detects AirTags and Find My trackers following you | 2,565 | 🟢 | Kotlin |
 | [macless-haystack](https://github.com/dchristl/macless-haystack) | Use OpenHaystack Find My trackers without owning a Mac | 2,229 | 🟢 | Dart |
 | [Send My](https://github.com/positive-security/send-my) | Upload arbitrary data via Apple's Find My network | 1,894 | 🟡 | C |
 | [icloud3](https://github.com/gcobb321/icloud3) | Apple device tracker for Home Assistant using the unofficial iCloud Find My web API | 932 | 🟢 | Python |
 | [FindMy (biemster)](https://github.com/biemster/FindMy) | Query Apple Find My network for custom tags without a Mac | 729 | 🟡 | Python |
-| [OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) | Track AirTags and other Find My devices on Android | 453 | 🟢 | Java |
+| [OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) | Track AirTags and other Find My devices on Android | 454 | 🟢 | Java |
 | [airtag](https://github.com/seemoo-lab/airtag) | AirTag instrumentation including firmware downgrades | 198 | 🟡 | JavaScript |
 | [PHP-FindMyiPhone](https://github.com/albeebe/PHP-FindMyiPhone) | PHP class to locate, play sounds on and lock iOS devices via Find My iPhone | 86 | 🔴 | PHP |
 
@@ -159,13 +159,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [homebridge](https://github.com/homebridge/homebridge) | HomeKit bridge that exposes non-HomeKit devices via a HAP-NodeJS server | 25,536 | 🟢 | TypeScript |
-| [HomeSpan](https://github.com/HomeSpan/HomeSpan) | HomeKit Library for the Arduino-ESP32 | 2,201 | 🟢 | C++ |
+| [HomeSpan](https://github.com/HomeSpan/HomeSpan) | HomeKit Library for the Arduino-ESP32 | 2,202 | 🟢 | C++ |
 | [homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) | HomeKit integration for UniFi Protect devices via its unofficial API | 1,794 | 🟢 | TypeScript |
 | [hc](https://github.com/brutella/hc) | hc is a lightweight framework to develop HomeKit accessories in Go. | 1,739 | 🔴 | Go |
 | [Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) | Native Apple HomeKit accessory implementation for the ESP8266 Arduino core. | 1,613 | 🟡 | C |
 | [esp-homekit](https://github.com/maximkulkin/esp-homekit) | Apple HomeKit accessory server library for ESP-OPEN-RTOS | 1,168 | 🟡 | C |
-| [HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) | ESP32 HomeKit lock with reverse engineered Apple Home Key NFC support | 1,115 | 🟢 | C++ |
-| [apple-home-key-reader](https://github.com/kormax/apple-home-key-reader) | Reader-side implementation of Apple Home Key NFC protocol in Python | 984 | 🟢 | Python |
+| [HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) | ESP32 HomeKit lock with reverse engineered Apple Home Key NFC support | 1,116 | 🟢 | C++ |
+| [apple-home-key-reader](https://github.com/kormax/apple-home-key-reader) | Reader-side implementation of Apple Home Key NFC protocol in Python | 985 | 🟢 | Python |
 | [homebridge-nest](https://github.com/chrisjshull/homebridge-nest) | Homebridge plugin for Nest thermostats and Protects using the unofficial Nest API | 772 | 🟢 | JavaScript |
 | [esp32-homekit](https://github.com/younghyunjo/esp32-homekit) | ESP-32 implementation of Apple Homekit Accessory Protocol(HAP) | 448 | 🔴 | C |
 | [hap](https://github.com/brutella/hap) | The HomeKit Accessory Protocol (hap) implemented in Go | 425 | 🟡 | Go |
@@ -187,19 +187,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM | 23,778 | 🟢 | Shell |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | Open-source Apple-compatible boot loader built from macOS boot RE | 15,608 | 🟢 | C |
-| [mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) | Windows Precision Touchpad driver for Apple trackpads | 10,515 | 🟡 | C |
+| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM | 23,785 | 🟢 | Shell |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | Open-source Apple-compatible boot loader built from macOS boot RE | 15,611 | 🟢 | C |
+| [mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) | Windows Precision Touchpad driver for Apple trackpads | 10,516 | 🟡 | C |
 | [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | iOS Objective-C headers, including private frameworks, derived from runtime introspection | 7,972 | 🗄️ | Objective-C |
 | [RPiPlay](https://github.com/FD-/RPiPlay) | Open AirPlay mirroring server for the Raspberry Pi | 5,230 | 🔴 | C++ |
-| [AirConnect](https://github.com/philippe44/AirConnect) | Use AirPlay to stream to UPnP and Chromecast devices | 4,224 | 🟢 | C |
-| [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) | AirPods battery and ear-detection support for Windows and Linux via BLE advertisements | 3,836 | 🟢 | C++ |
-| [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure Python implementation of iOS device protocols | 2,945 | 🟢 | Python |
+| [AirConnect](https://github.com/philippe44/AirConnect) | Use AirPlay to stream to UPnP and Chromecast devices | 4,227 | 🟢 | C |
+| [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) | AirPods battery and ear-detection support for Windows and Linux via BLE advertisements | 3,846 | 🟢 | C++ |
+| [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure Python implementation of iOS device protocols | 2,952 | 🟢 | Python |
 | [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) | Node.js implementation of the HomeKit Accessory Protocol | 2,720 | 🟢 | TypeScript |
 | [airplay2-receiver](https://github.com/openairplay/airplay2-receiver) | AirPlay 2 receiver implementation in Python | 2,443 | 🟢 | Python |
-| [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU | 2,203 | 🗄️ | C |
-| [apple_bleee](https://github.com/hexway/apple_bleee) | Scripts that decode Apple BLE advertisements | 2,184 | 🔴 | Python |
-| [idevicerestore](https://github.com/libimobiledevice/idevicerestore) | Restore and update iOS device firmware without iTunes | 2,001 | 🟢 | C |
+| [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU | 2,202 | 🗄️ | C |
+| [apple_bleee](https://github.com/hexway/apple_bleee) | Scripts that decode Apple BLE advertisements | 2,186 | 🔴 | Python |
+| [idevicerestore](https://github.com/libimobiledevice/idevicerestore) | Restore and update iOS device firmware without iTunes | 2,005 | 🟢 | C |
 | [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) | Converts Apple's NeuralHash CSAM detection model to ONNX | 1,532 | 🔴 | Python |
 | [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64) | xnu-qemu-arm64 | 1,461 | 🔴 | C |
 | [iphone-private-frameworks](https://github.com/kennytm/iphone-private-frameworks) | Headers for private frameworks and undocumented interfaces of iPhoneOS 3.x | 1,458 | 🗄️ | C |
@@ -208,19 +208,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pyatv](https://github.com/postlund/pyatv) | Python client for Apple TV and AirPlay devices using reverse-engineered protocols | 1,201 | 🟢 | Python |
 | [SBSAnimoji](https://github.com/simonbs/SBSAnimoji) | Animoji app built on Apple's private AvatarKit framework | 1,012 | 🔴 | Objective-C |
 | [marzipanify](https://github.com/steventroughtonsmith/marzipanify) | Converts iOS Simulator app bundles into unsupported iOSMac (Marzipan) apps | 957 | 🔴 | Objective-C |
-| [Phosphene](https://github.com/kageroumado/phosphene) | Reverse-engineered Apple's macOS aerial video wallpaper system to set custom video wallpapers | 916 | 🟢 | Swift |
-| [MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows) | Precision Touchpad driver for Apple Magic Trackpad 2 on Windows 11 | 886 | 🟢 | C |
+| [Phosphene](https://github.com/kageroumado/phosphene) | Reverse-engineered Apple's macOS aerial video wallpaper system to set custom video wallpapers | 918 | 🟢 | Swift |
+| [MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows) | Precision Touchpad driver for Apple Magic Trackpad 2 on Windows 11 | 888 | 🟢 | C |
 | [MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows) | Windows app that shows AirPods status and controls noise modes over Bluetooth | 880 | 🟢 |  |
-| [openwifipass](https://github.com/seemoo-lab/openwifipass) | An open source implementation of Apple's Wi-Fi Password Sharing protocol in Python. | 844 | 🟢 | Python |
+| [openwifipass](https://github.com/seemoo-lab/openwifipass) | An open source implementation of Apple's Wi-Fi Password Sharing protocol in Python. | 845 | 🟢 | Python |
 | [continuity](https://github.com/furiousMAC/continuity) | Reverse-engineered Apple Continuity protocol docs and Wireshark dissectors | 687 | 🟢 | C |
 | [HAP-python](https://github.com/ikalchev/HAP-python) | Python implementation of the HomeKit Accessory Protocol | 667 | 🟡 | Python |
 | [flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering) | Reverse-engineered Apple Maps Flyover 3D satellite data format and API | 625 | 🗄️ | Go |
 | [classdump-dyld](https://github.com/limneos/classdump-dyld) | Class-dump any Mach-o file without extracting it from dyld_shared_cache | 624 | 🔴 | Logos |
 | [iphonelinux](https://github.com/planetbeing/iphonelinux) | Port Linux to the iPhone | 619 | 🔴 | C |
-| [macOS_headers](https://github.com/w0lfschild/macOS_headers) | Maintained class-dump of macOS headers, including private frameworks | 608 | 🔴 |  |
-| [LiquidGlassKit](https://github.com/DnV1eX/LiquidGlassKit) | Backport of Apple Liquid Glass UI for iOS 13-18 and reimplementation for iOS 26+ | 468 | 🟢 | Swift |
+| [macOS_headers](https://github.com/w0lfschild/macOS_headers) | Maintained class-dump of macOS headers, including private frameworks | 609 | 🔴 |  |
+| [LiquidGlassKit](https://github.com/DnV1eX/LiquidGlassKit) | Backport of Apple Liquid Glass UI for iOS 13-18 and reimplementation for iOS 26+ | 472 | 🟢 | Swift |
 | [tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser) | tvOS web browser built on private UIWebView API | 468 | 🔴 | Objective-C |
-| [MiniWatts](https://github.com/ResistanceTo/MiniWatts) | iPhone battery, charging and thermal instrument built on private iOS APIs | 450 | 🟢 | Swift |
+| [MiniWatts](https://github.com/ResistanceTo/MiniWatts) | iPhone battery, charging and thermal instrument built on private iOS APIs | 455 | 🟢 | Swift |
 | [ProjectChampollion](https://github.com/FFRI/ProjectChampollion) | Reverse engineering Rosetta 2 on M1 Mac | 437 | 🗄️ | Python |
 | [ios-reversed-headers](https://github.com/davidmurray/ios-reversed-headers) | Reverse engineered C headers from various private iOS frameworks | 403 | 🟡 | C |
 | [Animoji](https://github.com/efremidze/Animoji) | Animoji generator using private AvatarKit APIs | 392 | 🟡 | Swift |
@@ -231,7 +231,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) | Linux driver for MacBook SPI keyboard, touchpad and Touch Bar | 289 | 🟡 | C |
 | [VPNStatus](https://github.com/Timac/VPNStatus) | Replacement for the macOS VPN status menu using private APIs | 288 | 🟡 | Objective-C |
 | [sandblaster](https://github.com/malus-security/sandblaster) | Reversing the Apple sandbox | 271 | 🟡 | Python |
-| [clicky](https://github.com/daniel5151/clicky) | Clickwheel iPod emulator | 269 | 🟢 | Rust |
+| [clicky](https://github.com/daniel5151/clicky) | Clickwheel iPod emulator | 267 | 🟢 | Rust |
 | [SE30](https://github.com/TheRealBolle/SE30) | Macintosh SE/30 logic board recreation | 259 | 🟢 |  |
 | [ipod-gadget](https://github.com/oandrew/ipod-gadget) | Linux USB gadget emulating an iPod for car audio playback | 258 | 🟡 | C |
 | [open-appleremote](https://github.com/a-funk/open-appleremote) | Linux driver for the first-generation Siri Remote, from its reconstructed Bluetooth reports | 248 | 🟢 | Python |
@@ -254,7 +254,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AppleCache](https://github.com/azenla/AppleCache) | Reverse engineering of Apple's Content Caching service protocol | 148 | 🔴 | Dart |
 | [CellularInfo](https://github.com/DevelopCubeLab/CellularInfo) | TrollStore app showing iOS cellular information via private APIs | 147 | 🟢 | Swift |
 | [Touch](https://github.com/calftrail/Touch) | Reverse engineering of OS X gesture and multitouch frameworks | 146 | 🔴 | C |
-| [xcross](https://github.com/arxdeus/xcross) | Run and hot-reload Flutter iOS apps from Linux without Xcode or macOS | 142 | 🟢 | Dart |
+| [xcross](https://github.com/arxdeus/xcross) | Run and hot-reload Flutter iOS apps from Linux without Xcode or macOS | 145 | 🟢 | Dart |
 | [predictive-spy](https://github.com/jackcook/predictive-spy) | Inspecting Apple's new predictive text model in macOS Sonoma | 138 | 🟡 | Python |
 | [HvDecompile](https://github.com/zhuowei/HvDecompile) | Hand decompilation of macOS Hypervisor.framework | 135 | 🔴 | Objective-C |
 | [decant](https://github.com/kylebshr/decant) | Reverse-engineered Apple Liquid Glass icon format and extracted icons | 130 | 🟢 | Python |
@@ -281,20 +281,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MetalLibraryExplorer](https://github.com/YuAo/MetalLibraryExplorer) | Parse and disassemble Apple .metallib files in the browser | 56 | 🔴 | JavaScript |
 | [ModernStickies](https://github.com/AlexDenisov/ModernStickies) | Reverse engineering Apple's Stickies.app | 55 | 🔴 | C |
 | [trustcache](https://github.com/CRKatri/trustcache) | Interact with trustcaches | 55 | 🔴 | C |
+| [apple-wireshark](https://github.com/pabloaul/apple-wireshark) | Wireshark dissectors for Apple accessory protocols such as AAP | 53 | 🟢 | Lua |
 | [CustomLiquidGlass](https://github.com/kierajmumick/CustomLiquidGlass) | Tools to recreate Apple's Liquid Glass effects from reverse engineering | 53 | 🟡 | Swift |
 | [hammerspoon_asm.undocumented](https://github.com/asmagill/hammerspoon_asm.undocumented) | Hammerspoon modules using undocumented macOS APIs | 53 | 🔴 | Objective-C |
 | [QuartzInternal](https://github.com/avaidyam/QuartzInternal) | Core Animation and Core Graphics private API/SPI headers | 53 | 🔴 | Objective-C |
 | [AirPodsBatteryCLI](https://github.com/duk242/AirPodsBatteryCLI) | CLI tool for Grabbing the AirPods Battery Status | 52 | 🔴 | Shell |
-| [apple-wireshark](https://github.com/pabloaul/apple-wireshark) | Wireshark dissectors for Apple accessory protocols such as AAP | 52 | 🟢 | Lua |
-| [sepsplit-rs](https://github.com/justtryingthingsout/sepsplit-rs) | SEP firmware splitter, made in rust. | 49 | 🟢 | Rust |
+| [sepsplit-rs](https://github.com/justtryingthingsout/sepsplit-rs) | SEP firmware splitter, made in rust. | 50 | 🟢 | Rust |
 | [gnome-airpods-battery-status](https://github.com/delphiki/gnome-airpods-battery-status) | A Gnome Shell Extension to display the battery levels of your Airpods (and case) in the top bar. | 47 | 🟡 | JavaScript |
 | [smcutil](https://github.com/hack-different/smcutil) | SMC utility for modifying and examining Apple's SMC payloads. | 47 | 🔴 | Ruby |
 | [dyld-cache-dump](https://github.com/macmade/dyld-cache-dump) | Command-line tool to dump the contents of dyld shared cache files | 46 | 🟡 | Swift |
 | [ShatteredGlass](https://github.com/AlexStrNik/ShatteredGlass) | Deconstruction of macOS 26 Liquid Glass effects | 45 | 🟡 | Swift |
 | [macOSPrivateFrameworks](https://github.com/phatblat/macOSPrivateFrameworks) | Class-dumped headers of macOS private frameworks | 44 | 🔴 | Objective-C |
-| [ios-charging-monitor](https://github.com/gregsramblings/ios-charging-monitor) | Live iPhone charging watts read through private APIs | 40 | 🟢 | Swift |
+| [ios-charging-monitor](https://github.com/gregsramblings/ios-charging-monitor) | Live iPhone charging watts read through private APIs | 41 | 🟢 | Swift |
 | [Notes-Of-Fruit](https://github.com/ericmigi/Notes-Of-Fruit) | Android client for iCloud Notes with reverse-engineered CRDT write path | 36 | 🟢 | Kotlin |
-| [apple](https://github.com/tmc/apple) | Go bindings for Apple frameworks, including a package for undocumented private APIs | 33 | 🟢 | Go |
+| [apple](https://github.com/tmc/apple) | Go bindings for Apple frameworks, including a package for undocumented private APIs | 34 | 🟢 | Go |
 | [mac_rom](https://github.com/jonathanschilling/mac_rom) | Reverse-engineered Macintosh 68k ROM source | 33 | 🟢 | Assembly |
 | [QCPatchXcodeTemplate](https://github.com/kineme/QCPatchXcodeTemplate) | Xcode template for custom Quartz Composer patches via the unofficial API | 33 | 🔴 | Objective-C |
 | [Peepo](https://github.com/datalocaltmp/Peepo) | Apple Watch watchOS kernel read/write and live process memory dumping | 32 | 🟢 | Objective-C |
@@ -317,7 +317,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [htoolv3](https://github.com/h3adshotzz/htoolv3) | Static analysis tool for iOS and macOS firmware files | 8 | 🔴 | C |
 | [pstream](https://github.com/mfrister/pstream) | Server implementation of Apple's reverse-engineered PhotoStream protocol | 8 | 🗄️ | Python |
 | [macvdmtool](https://github.com/rickmark/macvdmtool) | Apple Silicon to Apple Silicon VDM utility | 4 | 🟡 | C++ |
-| [Lowlight](https://github.com/Isaac-Harper/lowlight) | Dims MacBook keyboard backlight below the macOS minimum using private CoreBrightness APIs and IORegistry | 2 | 🟢 | Swift |
+| [Lowlight](https://github.com/Isaac-Harper/lowlight) | Dims MacBook keyboard backlight below the macOS minimum using private CoreBrightness APIs and IORegistry | 3 | 🟢 | Swift |
 | [macos-summarize-internals](https://github.com/fenxer/macos-summarize-internals) | Reverse-engineered macOS Summary Service / SearchKit SKSummary | 2 | 🟢 | Python |
 | [re-derq](https://codeberg.org/viraptor/re-derq) | Open reimplementation of Apple's derq utility |  | ⚪ |  |
 | [re-intentbuilderc](https://codeberg.org/viraptor/re-intentbuilderc) | Clean open reimplementation of Apple's intentbuilderc tool |  | ⚪ |  |
@@ -326,21 +326,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) | A command-line tool to download photos from iCloud | 12,358 | 🟢 | Python |
+| [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) | A command-line tool to download photos from iCloud | 12,362 | 🟢 | Python |
 | [WWDC](https://github.com/insidegui/WWDC) | Unofficial WWDC app for macOS built on Apple's undocumented session content API | 8,747 | 🟢 | Swift |
-| [Cider](https://github.com/ciderapp/Cider) | Cross-platform unofficial Apple Music client (v1 source) | 7,117 | 🗄️ | JavaScript |
-| [docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) | An Alpine Linux container for the iCloud Photos Downloader command line utility | 2,965 | 🟢 | Shell |
+| [Cider](https://github.com/ciderapp/Cider) | Cross-platform unofficial Apple Music client (v1 source) | 7,115 | 🗄️ | JavaScript |
+| [docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) | An Alpine Linux container for the iCloud Photos Downloader command line utility | 2,966 | 🟢 | Shell |
 | [icloud-docker](https://github.com/mandarons/icloud-docker) | Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date. | 1,899 | 🟢 | Python |
-| [Provision](https://github.com/Dadoum/Provision) | Tools to provision Anisette data and talk to Apple servers from Linux without a Mac | 685 | 🟡 | D |
-| [anisette-v3-server](https://github.com/Dadoum/anisette-v3-server) | Server that generates Apple Anisette (v3) authentication headers for non-Apple platforms | 626 | 🟢 | D |
+| [Provision](https://github.com/Dadoum/Provision) | Tools to provision Anisette data and talk to Apple servers from Linux without a Mac | 686 | 🟡 | D |
+| [anisette-v3-server](https://github.com/Dadoum/anisette-v3-server) | Server that generates Apple Anisette (v3) authentication headers for non-Apple platforms | 628 | 🟢 | D |
 | [itc-api-docs](https://github.com/fastlane/itc-api-docs) | Unofficial documentation of the iTunes Connect JSON API | 516 | 🗄️ | Ruby |
-| [icloud-photos-sync](https://github.com/steilerDev/icloud-photos-sync) | One-way sync engine for the iCloud Photos Library into the native file system | 499 | 🟢 | TypeScript |
+| [icloud-photos-sync](https://github.com/steilerDev/icloud-photos-sync) | One-way sync engine for the iCloud Photos Library into the native file system | 502 | 🟢 | TypeScript |
 | [pushproxy](https://github.com/mfrister/pushproxy) | MITM proxy and documentation for Apple Push Notification Service (APNs) device connections | 437 | 🗄️ | Python |
-| [apple-private-apis](https://github.com/SideStore/apple-private-apis) | Rust libraries for Apple's private APIs: GSA authentication, Anisette and developer services | 281 | 🟡 | Rust |
+| [apple-private-apis](https://github.com/SideStore/apple-private-apis) | Rust libraries for Apple's private APIs: GSA authentication, Anisette and developer services | 282 | 🟡 | Rust |
 | [InflatableDonkey](https://github.com/horrorho/InflatableDonkey) | Proof of concept that retrieves iOS 9+ iCloud backups via reverse-engineered CloudKit protocol | 268 | 🔴 | Java |
 | [iFetch](https://github.com/roshanlam/iFetch) | Bulk download your iCloud Drive files and folders with a simple command line tool | 181 | 🟢 | Python |
 | [icloud-linux](https://github.com/IsmaeelAkram/icloud-linux) | Mount iCloud Drive on Linux as a fast local-first FUSE filesystem with persistent caching, background hydration, and... | 157 | 🟢 | Python |
-| [lookaround-map](https://github.com/sk-zk/lookaround-map) | Map viewer for Apple Look Around imagery via its private API | 121 | 🟢 | JavaScript |
+| [lookaround-map](https://github.com/sk-zk/lookaround-map) | Map viewer for Apple Look Around imagery via its private API | 122 | 🟢 | JavaScript |
 | [icloud-md](https://github.com/coddingtonbear/icloud-md) | Bidirectional sync of Apple Notes to Markdown on any OS | 119 | 🟢 | TypeScript |
 | [icloud.js](https://github.com/foxt/icloud.js) | Library for accessing iCloud in Node.js | 94 | 🟢 | TypeScript |
 | [iCloudDriveFuse](https://github.com/ixs/iCloudDriveFuse) | FUSE driver for iCloud Drive | 52 | 🔴 | Python |
@@ -353,23 +353,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [fastlane](https://github.com/fastlane/fastlane) | iOS/Android release automation; its spaceship module wraps Apple's private developer portal and App Store Connect APIs | 42,328 | 🟢 | Ruby |
-| [xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement to build, sign and deploy iOS apps from Linux and Windows | 14,300 | 🟢 | Swift |
-| [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | Cross-platform protocol library to talk to iOS devices | 8,300 | 🟢 | C |
-| [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) | A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector). | 6,206 | 🟡 | C |
-| [idb](https://github.com/meta/idb) | idb is a flexible command line interface for automating iOS simulators and devices | 5,401 | 🟢 | Swift |
-| [xcodes](https://github.com/XcodesOrg/xcodes) | CLI to download and switch Xcode versions using Apple developer portal authentication | 4,875 | 🟢 | Swift |
+| [fastlane](https://github.com/fastlane/fastlane) | iOS/Android release automation; its spaceship module wraps Apple's private developer portal and App Store Connect APIs | 42,334 | 🟢 | Ruby |
+| [xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement to build, sign and deploy iOS apps from Linux and Windows | 14,384 | 🟢 | Swift |
+| [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | Cross-platform protocol library to talk to iOS devices | 8,302 | 🟢 | C |
+| [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) | A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector). | 6,207 | 🟡 | C |
+| [idb](https://github.com/meta/idb) | idb is a flexible command line interface for automating iOS simulators and devices | 5,403 | 🟢 | Swift |
+| [xcodes](https://github.com/XcodesOrg/xcodes) | CLI to download and switch Xcode versions using Apple developer portal authentication | 4,876 | 🟢 | Swift |
 | [peertalk](https://github.com/rsms/peertalk) | iOS and Mac Cocoa library for communicating over USB | 3,490 | 🔴 | Objective-C |
 | [osxcross](https://github.com/tpoechtrager/osxcross) | macOS cross-compilation toolchain for Linux and BSD | 3,411 | 🟢 | C++ |
-| [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) | macOS app to simulate iOS device location via developer services | 3,167 | 🟢 | Swift |
-| [tidevice](https://github.com/alibaba/tidevice) | tidevice can be used to communicate with iPhone device | 2,604 | 🟢 | Python |
-| [go-ios](https://github.com/danielpaulus/go-ios) | This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill... | 2,307 | 🟢 | Go |
-| [zsign](https://github.com/zhlynn/zsign) | Cross-platform iOS app code signing tool (reimplements codesign) | 1,939 | 🟢 | C++ |
+| [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) | macOS app to simulate iOS device location via developer services | 3,166 | 🟢 | Swift |
+| [tidevice](https://github.com/alibaba/tidevice) | tidevice can be used to communicate with iPhone device | 2,603 | 🟢 | Python |
+| [go-ios](https://github.com/danielpaulus/go-ios) | This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill... | 2,308 | 🟢 | Go |
+| [zsign](https://github.com/zhlynn/zsign) | Cross-platform iOS app code signing tool (reimplements codesign) | 1,943 | 🟢 | C++ |
 | [usbmuxd](https://github.com/libimobiledevice/usbmuxd) | Socket daemon multiplexing connections to iOS devices over USB | 1,791 | 🟢 | C |
 | [Jitterbug](https://github.com/osy/Jitterbug) | Launches JIT-enabled iOS apps by talking to the device debugserver via libimobiledevice | 1,568 | 🗄️ | Swift |
 | [ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) | Manage apps of iOS devices | 1,468 | 🟡 | C |
-| [AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) | AltServer for AltStore, but on-device | 1,230 | 🟡 | C |
-| [Sideloader](https://github.com/Dadoum/Sideloader) | Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer,... | 1,060 | 🟢 | D |
+| [AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) | AltServer for AltStore, but on-device | 1,231 | 🟡 | C |
+| [Sideloader](https://github.com/Dadoum/Sideloader) | Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer,... | 1,063 | 🟢 | D |
 | [ifuse](https://github.com/libimobiledevice/ifuse) | A fuse filesystem to access the contents of iOS devices | 1,029 | 🟢 | C |
 | [sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) | Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。 | 886 | 🗄️ | Go |
 | [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) | Rust crates for Apple platforms incl. rcodesign, a reimplementation of Apple code signing and notarization | 875 | 🟢 | Rust |
@@ -377,7 +377,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [py-ios-device](https://github.com/YueChen-C/py-ios-device) | IOS Professional Performance Testing Tool . You can get CPU, GPU, Memory , Lifecycle  and other metrics from real ... | 797 | 🟢 | Python |
 | [libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) | A client library to multiplex connections from and to iOS devices | 691 | 🟡 | C |
 | [libirecovery](https://github.com/libimobiledevice/libirecovery) | Library and tool to talk to iBoot/iBSS recovery mode over USB on macOS, Windows and Linux | 661 | 🟢 | C |
-| [idevice](https://github.com/jkcoxson/idevice) | A library to interact with services exposed by iOS | 560 | 🟢 | Rust |
+| [idevice](https://github.com/jkcoxson/idevice) | A library to interact with services exposed by iOS | 561 | 🟢 | Rust |
 | [AltSign](https://github.com/rileytestut/AltSign) | Swift framework that talks to Apple's developer services to provision and resign iOS apps | 429 | 🟢 | Objective-C |
 | [usbfluxd](https://github.com/corellium/usbfluxd) | Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices... | 428 | 🟡 | C |
 | [libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) | A library to handle the activation process of iOS devices | 371 | 🟡 | C |
@@ -390,7 +390,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [appium-ios-device](https://github.com/appium/appium-ios-device) | Tools for interacting with iOS devices | 179 | 🟢 | JavaScript |
 | [mobdevim](https://github.com/DerekSelander/mobdevim) | CLI interacting with iOS devices via Apple's private MobileDevice framework | 129 | 🟡 | Objective-C |
 | [libimobiledevice-glue](https://github.com/libimobiledevice/libimobiledevice-glue) | A library with common code used by libraries and tools around the libimobiledevice project | 116 | 🟢 | C |
-| [libtatsu](https://github.com/libimobiledevice/libtatsu) | Library for communicating with Apple's Tatsu Signing Server (TSS) | 84 | 🟢 | C |
+| [libtatsu](https://github.com/libimobiledevice/libtatsu) | Library for communicating with Apple's Tatsu Signing Server (TSS) | 85 | 🟢 | C |
 | [node-usbmux](https://github.com/DeMille/node-usbmux) | An iOS usbmuxd client library / tcp relay | 80 | 🔴 | JavaScript |
 | [webmuxd](https://github.com/hack-different/webmuxd) | A browser based library for interacting with AppleMobileDevice over WebUSB | 50 | 🟢 | TypeScript |
 | [iConsole](https://github.com/anonymous5l/iConsole) | iOS usbmuxd communication impl iTunes protocol | 46 | 🔴 | Go |

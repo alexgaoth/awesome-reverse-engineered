@@ -454,5 +454,41 @@
   "name": "machscope",
   "removed": "2026-10-31",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ahaduoduoduo/bilibili-youtube-danmaku",
+  "name": "bilibili-youtube-danmaku",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/nightmode/logitech-g29",
+  "name": "logitech-g29",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/xiasi0/ha-huawei-smarthome",
+  "name": "ha-huawei-smarthome",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Ablation-Tool/ablation",
+  "name": "Ablation",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Wiredlainn-afk/Bakugan-NX",
+  "name": "Bakugan-NX",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/yokimklein/AnvilDedicatedServer",
+  "name": "AnvilDedicatedServer",
+  "removed": "2026-11-01",
+  "reason": "not found on GitHub"
  }
 ]
