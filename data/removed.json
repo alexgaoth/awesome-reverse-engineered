@@ -490,5 +490,17 @@
   "name": "AnvilDedicatedServer",
   "removed": "2026-11-01",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Gzh0821/pvzge_web",
+  "name": "Plants vs. Zombies 2 (pvzge_web)",
+  "removed": "2026-11-02",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/devgyurak/pykorail",
+  "name": "pykorail",
+  "removed": "2026-11-02",
+  "reason": "not found on GitHub"
  }
 ]
