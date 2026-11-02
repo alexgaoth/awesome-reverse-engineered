@@ -16,10 +16,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) | Bridge making treadmills and bikes work with Zwift and other apps | 892 | 🟢 | C++ |
-| [bikecontrol (SwiftControl)](https://github.com/OpenBikeControl/bikecontrol) | Use Zwift Play/Click/Ride controllers for virtual shifting in any rider app | 645 | 🟢 | Dart |
+| [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) | Bridge making treadmills and bikes work with Zwift and other apps | 893 | 🟢 | C++ |
+| [bikecontrol (SwiftControl)](https://github.com/OpenBikeControl/bikecontrol) | Use Zwift Play/Click/Ride controllers for virtual shifting in any rider app | 647 | 🟢 | Dart |
 | [gymnasticon](https://github.com/ptx2/gymnasticon) | Make proprietary exercise bikes (Peloton, Flywheel) work with Zwift and others | 329 | 🔴 | JavaScript |
-| [Openpelo](https://github.com/doudar/Openpelo) | Install additional apps on Peloton bikes and treads | 294 | 🟢 | Dart |
+| [Openpelo](https://github.com/doudar/Openpelo) | Install additional apps on Peloton bikes and treads | 297 | 🟢 | Dart |
 | [SmartSpin2k](https://github.com/doudar/SmartSpin2k) | Turn a spin bike into a smart trainer with FTMS support | 292 | 🟢 | C++ |
 | [openant](https://github.com/Tigge/openant) | ANT and ANT-FS Python library | 230 | 🟢 | Python |
 | [sauce4zwift](https://github.com/SauceLLC/sauce4zwift) | Live overlays and data for Zwift by decoding its network traffic | 176 | 🟢 | JavaScript |
@@ -62,36 +62,36 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [openpilot](https://github.com/commaai/openpilot) | Open-source driver assistance system for 300+ car models | 64,041 | 🟢 | Python |
-| [opendbc](https://github.com/commaai/opendbc) | Reverse-engineered DBC files and Python API for controlling car steering, gas and brake | 3,526 | 🟢 | Python |
+| [openpilot](https://github.com/commaai/openpilot) | Open-source driver assistance system for 300+ car models | 64,045 | 🟢 | Python |
+| [opendbc](https://github.com/commaai/opendbc) | Reverse-engineered DBC files and Python API for controlling car steering, gas and brake | 3,531 | 🟢 | Python |
 | [cantools](https://github.com/cantools/cantools) | CAN bus tools: DBC/KCD parsing, decoding and monitoring | 2,308 | 🟢 | Python |
-| [AndrOBD](https://github.com/fr3ts0n/AndrOBD) | Android OBD diagnostics with any ELM327 adapter | 2,167 | 🟢 | Java |
+| [AndrOBD](https://github.com/fr3ts0n/AndrOBD) | Android OBD diagnostics with any ELM327 adapter | 2,168 | 🟢 | Java |
 | [sunnypilot](https://github.com/sunnypilot/sunnypilot) | openpilot fork with extra car support and features | 2,160 | 🟢 | Python |
-| [DDT4All](https://github.com/cedricp/ddt4all) | Create ECU parameter screens and talk to Renault ECUs with an ELM327 | 1,916 | 🟢 | Python |
-| [SavvyCAN](https://github.com/collin80/SavvyCAN) | Qt GUI for capturing and reverse-engineering CAN bus traffic | 1,903 | 🟢 | C++ |
+| [DDT4All](https://github.com/cedricp/ddt4all) | Create ECU parameter screens and talk to Renault ECUs with an ELM327 | 1,917 | 🟢 | Python |
+| [SavvyCAN](https://github.com/collin80/SavvyCAN) | Qt GUI for capturing and reverse-engineering CAN bus traffic | 1,907 | 🟢 | C++ |
 | [panda](https://github.com/commaai/panda) | Universal car interface firmware and library for CAN reverse engineering | 1,708 | 🟢 | C |
 | [python-can](https://github.com/hardbyte/python-can) | Python CAN bus library used by many reverse-engineering tools | 1,610 | 🟢 | Python |
-| [python-OBD](https://github.com/brendan-w/python-OBD) | OBD-II serial module for reading engine data | 1,326 | 🟡 | Python |
-| [pyobd](https://github.com/barracuda-fsh/pyobd) | OBD-II automotive diagnostic tool in Python | 1,275 | 🟢 | Python |
-| [CANdevStudio](https://github.com/GENIVI/CANdevStudio) | CAN bus simulation and analysis development tool | 1,149 | 🟡 | C++ |
+| [python-OBD](https://github.com/brendan-w/python-OBD) | OBD-II serial module for reading engine data | 1,325 | 🟡 | Python |
+| [pyobd](https://github.com/barracuda-fsh/pyobd) | OBD-II automotive diagnostic tool in Python | 1,276 | 🟢 | Python |
+| [CANdevStudio](https://github.com/GENIVI/CANdevStudio) | CAN bus simulation and analysis development tool | 1,150 | 🟡 | C++ |
 | [canmatrix](https://github.com/ebroecker/canmatrix) | Convert CAN database formats (.dbc, .arxml, .kcd, .sym) | 1,094 | 🟢 | Python |
-| [CAN_Commander](https://github.com/MatthewKuKanich/CAN_Commander) | Hardware/software tool for reverse engineering CAN bus systems | 1,078 | 🟢 | C |
+| [CAN_Commander](https://github.com/MatthewKuKanich/CAN_Commander) | Hardware/software tool for reverse engineering CAN bus systems | 1,079 | 🟢 | C |
 | [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) | Rust cross-platform ECU diagnostics tool using J2534 passthru | 1,025 | 🟡 | Rust |
 | [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) | Collection of CAN IDs and payloads for many car brands | 1,017 | 🟢 |  |
-| [ICSim](https://github.com/zombieCraig/ICSim) | Instrument Cluster Simulator for practicing CAN hacking | 1,000 | 🟡 | C |
-| [Caring Caribou](https://github.com/CaringCaribou/caringcaribou) | Car security exploration tool for the CAN bus | 966 | 🟢 | Python |
+| [ICSim](https://github.com/zombieCraig/ICSim) | Instrument Cluster Simulator for practicing CAN hacking | 1,001 | 🟡 | C |
+| [Caring Caribou](https://github.com/CaringCaribou/caringcaribou) | Car security exploration tool for the CAN bus | 968 | 🟢 | Python |
 | [EdiabasLib](https://github.com/uholeschak/ediabaslib) | Open BMW EDIABAS reimplementation for diagnostics and coding | 945 | 🟢 | C# |
 | [OVMS3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) | Open vehicle monitoring system firmware with reverse-engineered CAN support for many EVs | 875 | 🟢 | C |
-| [wican-fw](https://github.com/meatpiHQ/wican-fw) | Firmware for WiCAN OBD-II/CAN to WiFi/BLE adapter with MQTT and HA support | 825 | 🟢 | C |
+| [wican-fw](https://github.com/meatpiHQ/wican-fw) | Firmware for WiCAN OBD-II/CAN to WiFi/BLE adapter with MQTT and HA support | 827 | 🟢 | C |
 | [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) | Toolkit for analyzing proprietary car CAN protocols | 794 | 🔴 | Python |
-| [python-udsoncan](https://github.com/pylessard/python-udsoncan) | Python implementation of the UDS ISO-14229 standard | 737 | 🟢 | Python |
+| [python-udsoncan](https://github.com/pylessard/python-udsoncan) | Python implementation of the UDS ISO-14229 standard | 740 | 🟢 | Python |
 | [ELM327-emulator](https://github.com/Ircama/ELM327-emulator) | ELM327 OBD-II adapter emulator with multi-ECU simulation | 698 | 🟢 | Python |
 | [VW_Flash](https://github.com/bri3d/VW_Flash) | Flash and patch VW/Audi Simos and DSG ECUs over CAN | 567 | 🟢 | Python |
 | [pyvit](https://github.com/linklayer/pyvit) | Python Vehicle Interface Toolkit for CAN and automotive protocols | 515 | 🗄️ | Python |
-| [freediag](https://github.com/fenugrec/freediag) | Free diagnostic software for OBD-II vehicles | 496 | 🟡 | C |
+| [freediag](https://github.com/fenugrec/freediag) | Free diagnostic software for OBD-II vehicles | 497 | 🟡 | C |
 | [CAN_Reverse_Engineering](https://github.com/brent-stone/CAN_Reverse_Engineering) | Automated payload reverse-engineering pipeline for CAN | 459 | 🟡 | Python |
 | [OBDium](https://github.com/provrb/obdium) | Open-source OBD-II diagnostics software in Rust from reverse-engineered PIDs | 444 | 🟢 | Rust |
-| [cangaroo](https://github.com/HubertD/cangaroo) | Open-source CAN bus analyzer with DBC decoding | 429 | 🔴 | C++ |
+| [cangaroo](https://github.com/HubertD/cangaroo) | Open-source CAN bus analyzer with DBC decoding | 430 | 🔴 | C++ |
 | [ESP32RET](https://github.com/collin80/ESP32RET) | CAN reverse engineering tool firmware for ESP32 boards | 419 | 🟢 | C++ |
 | [model3dbc](https://github.com/joshwardell/model3dbc) | Reverse-engineered DBC file for the Tesla Model 3 CAN bus | 416 | 🔴 |  |
 | [Kayak](https://github.com/dschanoeh/Kayak) | CAN bus analysis tool based on SocketCAN | 340 | 🗄️ | Java |
@@ -100,23 +100,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [CANToolz](https://github.com/CANToolz/CANToolz) | Black-box CAN network analysis framework | 305 | 🔴 | Python |
 | [can-explorer](https://github.com/Tbruno25/can-explorer) | CAN bus visualization tool to aid reverse engineering | 304 | 🟢 | Python |
 | [OBD-PIDs-for-HKMC-EVs](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) | Decoded OBD PIDs for Hyundai/Kia electric vehicles | 289 | 🔴 |  |
-| [kw1281test](https://github.com/gmenounos/kw1281test) | Tool for the VW KW1281 diagnostic protocol (cluster, ECU, radio) | 280 | 🟢 | C# |
+| [kw1281test](https://github.com/gmenounos/kw1281test) | Tool for the VW KW1281 diagnostic protocol (cluster, ECU, radio) | 281 | 🟢 | C# |
 | [Stm32-vcu (ZombieVerter)](https://github.com/damienmaguire/Stm32-vcu) | ZombieVerter VCU that drives OEM EV parts (Leaf, Outlander, BMW) for conversions | 265 | 🟢 | C++ |
 | [CANBUS-Analyzer](https://github.com/amund7/CANBUS-Analyzer) | CAN bus analyzer originally built for Scan My Tesla | 260 | 🟡 | C# |
 | [mercedes-hacking-docs](https://github.com/rnd-ash/mercedes-hacking-docs) | Documents on reverse engineering Mercedes vehicle ECUs and CAN networks | 253 | 🔴 |  |
-| [can-bus-reverse-engineering-skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills) | Claude Code skills for reverse engineering CAN bus signals into DBC files | 242 | 🟢 | Python |
+| [can-bus-reverse-engineering-skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills) | Claude Code skills for reverse engineering CAN bus signals into DBC files | 247 | 🟢 | Python |
 | [EVNotify](https://github.com/EVNotify/EVNotify) | Monitors EV state of charge via OBD-II dongle and notifies when target is reached | 233 | 🟢 | Vue |
 | [cantact-app](https://github.com/linklayer/cantact-app) | Desktop CAN analysis app for CANtact interfaces | 232 | 🔴 | Java |
 | [CanCat](https://github.com/atlas0fd00m/CanCat) | Swiss army knife for CAN reverse engineering | 218 | 🔴 | Python |
-| [python-doipclient](https://github.com/jacobschaer/python-doipclient) | Pure Python ISO 13400 Diagnostics over IP client | 214 | 🟢 | Python |
+| [python-doipclient](https://github.com/jacobschaer/python-doipclient) | Pure Python ISO 13400 Diagnostics over IP client | 215 | 🟢 | Python |
 | [cabana](https://github.com/commaai/cabana) | CAN visualizer and DBC maker | 206 | 🗄️ | JavaScript |
 | [PSAVanCanBridge](https://github.com/morcibacsi/PSAVanCanBridge) | VAN to CAN protocol bridge for PSA Group (Peugeot, Citroën) cars | 190 | 🟢 | C |
 | [node-bmw-client](https://github.com/kmalinich/node-bmw-client) | Node.js interface for E38/E39/E53/E6x/E9x BMW vehicle buses | 188 | 🟢 | JavaScript |
 | [evDash](https://github.com/nickn17/evDash) | EV dashboard reading battery and drive data over OBD-II BLE or CAN | 184 | 🟢 | C++ |
 | [CaesarSuite](https://github.com/jglim/CaesarSuite) | Library and apps for Daimler CBF diagnostic files | 177 | 🟢 | C# |
+| [W203-canbus](https://github.com/rnd-ash/W203-canbus) | Bluetooth audio control and CAN projects for W203/W211 Mercedes | 176 | 🔴 | C++ |
 | [canbus](https://github.com/nberlette/canbus) | Controller Area Network reference, wiki and DBC files for BMW and other vehicles | 175 | 🟡 |  |
-| [W203-canbus](https://github.com/rnd-ash/W203-canbus) | Bluetooth audio control and CAN projects for W203/W211 Mercedes | 175 | 🔴 | C++ |
-| [CanZE](https://github.com/fesch/CanZE) | Android app reading Renault ZE (Zoe, Kangoo) CAN data via OBD | 148 | 🟡 | Java |
+| [CanZE](https://github.com/fesch/CanZE) | Android app reading Renault ZE (Zoe, Kangoo) CAN data via OBD | 149 | 🟡 | Java |
 | [pq-flasher](https://github.com/I-CAN-hack/pq-flasher) | Tools and libraries to reflash the VW PQ35 electric power steering ECU | 146 | 🟡 | Python |
 | [Volvo-CAN-Gauge](https://github.com/Alfaa123/Volvo-CAN-Gauge) | Reverse engineering the Volvo VIDA protocol for a diagnostic gauge | 136 | 🔴 | Roff |
 | [ultimate_nag52](https://github.com/rnd-ash/ultimate_nag52) | Open-source TCM for the Mercedes 722.6 gearbox | 131 | 🟢 |  |
@@ -124,21 +124,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GVRET](https://github.com/collin80/GVRET) | Generalized Electric Vehicle Reverse Engineering Tool firmware | 115 | 🔴 | C++ |
 | [PSA-RE](https://github.com/prototux/PSA-RE) | PSA (Peugeot/Citroen/DS) electronics architecture reverse engineering | 114 | 🟢 | Python |
 | [volvo_linbus](https://github.com/laurynas/volvo_linbus) | Volvo LIN bus reader for steering wheel buttons | 113 | 🔴 | C++ |
-| [MxT](https://github.com/TracqiTechnology/MxT) | ME7 ECU calibration tools for MAF, fueling and torque maps | 112 | 🟢 | Kotlin |
 | [FastECU](https://github.com/miikasyvanen/FastECU) | Tuning, logging and flashing software for OEM ECUs | 111 | 🟢 | C++ |
+| [MxT](https://github.com/TracqiTechnology/MxT) | ME7 ECU calibration tools for MAF, fueling and torque maps | 111 | 🟢 | Kotlin |
 | [automotive-security-research](https://github.com/ps1337/automotive-security-research) | Reverse engineering results and resources for several vehicles | 106 | 🔴 | Python |
 | [PyVCDS](https://github.com/baconwaifu/PyVCDS) | Reimplementation of VCDS VAG diagnostics in Python with SocketCAN | 103 | 🗄️ | Python |
 | [PiCCANTE](https://github.com/Alia5/PiCCANTE) | Raspberry Pi Pico tool for exploring and reversing vehicle CAN buses | 102 | 🟢 | C++ |
 | [imBMW](https://github.com/toxsedyshev/imBMW) | BMW I-Bus .NET Micro Framework SDK and hardware | 101 | 🟡 | C# |
+| [MQB-sniffer](https://github.com/mrfixpl/MQB-sniffer) | CAN bus sniffing for the Volkswagen Golf Mk7 and other MQB platform cars | 97 | 🟢 | C++ |
 | [c0f](https://github.com/zombieCraig/c0f) | CAN bus fingerprinting tool to identify make and model | 96 | 🔴 | Ruby |
-| [MQB-sniffer](https://github.com/mrfixpl/MQB-sniffer) | CAN bus sniffing for the Volkswagen Golf Mk7 and other MQB platform cars | 96 | 🟢 | C++ |
 | [can-gateway-sniffer](https://github.com/kostaszaf/can-gateway-sniffer) | Embedded CAN bus sniffer that monitors internal vehicle buses and triggers actions | 94 | 🔴 | C |
 | [CAN-RE-Tool](https://github.com/openvehicles/CAN-RE-Tool) | Reverse-engineering tool for CAN bus systems | 91 | 🔴 | Perl |
+| [OpenHaldex-C6](https://github.com/Forbes-Automotive/OpenHaldex-C6) | Open-source Haldex AWD controller firmware for ESP32-C6 on VW and Audi vehicles | 91 | 🟢 | C++ |
 | [CanLab](https://github.com/Sherin-SEF-AI/CanLab) | Desktop app for reverse engineering CAN bus captures | 90 | 🟢 | Python |
-| [OpenHaldex-C6](https://github.com/Forbes-Automotive/OpenHaldex-C6) | Open-source Haldex AWD controller firmware for ESP32-C6 on VW and Audi vehicles | 90 | 🟢 | C++ |
 | [FG-Falcon](https://github.com/jakka351/FG-Falcon) | Ford FG Falcon CAN bus and module reverse engineering | 87 | 🟢 | HTML |
+| [node-bmw-ref](https://github.com/kmalinich/node-bmw-ref) | BMW CAN, D-Bus, I-Bus and K-Bus message reference and examples | 85 | 🔴 | C |
 | [can2RNET](https://github.com/redragonx/can2RNET) | Code and documentation to control power wheelchairs with R-Net electronics over CAN | 84 | 🟢 | Python |
-| [node-bmw-ref](https://github.com/kmalinich/node-bmw-ref) | BMW CAN, D-Bus, I-Bus and K-Bus message reference and examples | 84 | 🔴 | C |
 | [OBD2_KLine_Library](https://github.com/muki01/OBD2_KLine_Library) | OBD2 K-Line diagnostics library for Arduino/ESP32 supporting ISO9141 and KWP2000 | 84 | 🟢 | C++ |
 | [KLineKWP1281Lib](https://github.com/domnulvlad/KLineKWP1281Lib) | Arduino/ESP/Pico library for the proprietary VAG KWP1281 K-Line diagnostic protocol | 80 | 🟡 | C |
 | [ESP32_RET_SD](https://github.com/MotorvateDIY/ESP32_RET_SD) | CAN bus reverse engineering tool firmware for ESP32 | 78 | 🟡 | C++ |
@@ -151,7 +151,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [7226ctrl](https://github.com/mkovero/7226ctrl) | Controller for the Mercedes 722.6 automatic transmission | 67 | 🔴 | C++ |
 | [MazdaCANbus](https://github.com/majbthrd/MazdaCANbus) | Database of known Mazda CAN messages | 67 | 🔴 |  |
 | [TruckDevil](https://github.com/LittleBlondeDevil/TruckDevil) | Framework for assessing J1939 ECUs on trucks | 66 | 🟢 | Python |
-| [tune-editor](https://github.com/TheFlashBold/tune-editor) | Web-based ECU and TCU map editor for Simos12/18 and DQ250 with A2L/XDF definitions | 64 | 🟢 | TypeScript |
+| [tune-editor](https://github.com/TheFlashBold/tune-editor) | Web-based ECU and TCU map editor for Simos12/18 and DQ250 with A2L/XDF definitions | 65 | 🟢 | TypeScript |
 | [Volvo-VIDA](https://github.com/Tigo2000/Volvo-VIDA) | Reverse engineering Volvo VIDA to read vehicle CAN bus information | 61 | 🟡 | PowerShell |
 | [npkern](https://github.com/fenugrec/npkern) | Nissan/Infiniti ECU reflashing kernel for use with nisprog | 60 | 🟢 | C |
 | [medc17-checksum-tool](https://github.com/ConnorHowell/medc17-checksum-tool) | Checksum analyzer and corrector for Bosch MED17/EDC17 ECU firmware | 59 | 🟢 | Python |
@@ -167,7 +167,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [IDAProBoschMe7x](https://github.com/AndyWhittaker/IDAProBoschMe7x) | IDA Pro helper for disassembling Bosch ME7.x C16x engine ECU firmware | 51 | 🔴 | C |
 | [ReCAN](https://github.com/Cyberdefence-Lab-Murcia/ReCAN) | Datasets and tools for reverse engineering Controller Area Networks | 51 | 🔴 | Jupyter Notebook |
 | [dieslg8](https://github.com/kmalinich/dieslg8) | Arduino CAN bus project for the BMW M57 diesel engine | 49 | 🔴 | C++ |
-| [ODIS-project-explorer](https://github.com/kartoffelpflanze/ODIS-project-explorer) | Python dumper/explorer for VW ODIS MCD runtime projects | 46 | 🟢 | Python |
+| [ODIS-project-explorer](https://github.com/kartoffelpflanze/ODIS-project-explorer) | Python dumper/explorer for VW ODIS MCD runtime projects | 47 | 🟢 | Python |
 | [esp32_rmt_van_rx](https://github.com/morcibacsi/esp32_rmt_van_rx) | ESP32 RMT reader for the PSA Vehicle Area Network (VAN) bus | 45 | 🟡 | C++ |
 | [node-bmw-interface](https://github.com/kmalinich/node-bmw-interface) | Server bridging BMW D-Bus, I-Bus, K-Bus and CAN to a JSON socket | 45 | 🟢 | JavaScript |
 | [openremap-core](https://github.com/v-arapidis/openremap-core) | Identifies ECUs, finds calibration maps without prior knowledge and diffs binaries into recipes | 45 | 🟢 | Python |
@@ -195,10 +195,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [DigifizReplica](https://github.com/Sgw32/DigifizReplica) | Replica of the VW Golf 2 Digifiz digital dashboard on Arduino/ESP32 | 21 | 🟢 | C |
 | [kona-ev-dbc](https://github.com/projectgus/kona-ev-dbc) | Reverse-engineered CAN signal database for the Hyundai Kona Electric | 21 | 🟡 |  |
 | [HyundaiElantraCN7_OBD2_PIDs](https://github.com/gdincu/HyundaiElantraCN7_OBD2_PIDs) | List of OBD2 PIDs supported by the Hyundai Elantra CN7 | 20 | 🟢 |  |
-| [svietlik](https://github.com/egzey0/svietlik) | TypeScript library talking to BMW light modules over ENET (HSFZ/DoIP, UDS) | 19 | 🟢 | TypeScript |
+| [svietlik](https://github.com/egzey0/svietlik) | TypeScript library talking to BMW light modules over ENET (HSFZ/DoIP, UDS) | 20 | 🟢 | TypeScript |
+| [beemuu](https://github.com/ohgeeceee/beemuu) | Open-source BMW diagnostic and telemetry suite in Tauri, Rust and Python | 18 | 🟢 | JavaScript |
 | [bmw-virtual-reader](https://github.com/CDFN/bmw-virtual-reader) | Creates virtual reads of BMW ECUs from PSDZ data | 18 | 🟡 | Rust |
 | [Barra-in-a-Beamer](https://github.com/jakka351/Barra-in-a-Beamer) | CAN interfacing a Ford Barra engine into a BMW 7 Series | 17 | 🟡 | C++ |
-| [beemuu](https://github.com/ohgeeceee/beemuu) | Open-source BMW diagnostic and telemetry suite in Tauri, Rust and Python | 17 | 🟢 | JavaScript |
 | [toyota-dsu-reroute-harness](https://github.com/cydia2020/toyota-dsu-reroute-harness) | Harness rerouting a Toyota DSU CAN bus for openpilot longitudinal control | 17 | 🟢 |  |
 | [SGML_Object_File_reader](https://github.com/calledit/SGML_Object_File_reader) | Dumps contents of VW ODIS SGML Object File (.sgo) version 2 files | 16 | 🟡 | PHP |
 | [8hp-cc-patch](https://github.com/TheOneRokutis/8hp-cc-patch) | Patches the MSV80 DME gear-decode routine to add 8th-gear cruise control on 8HP-swapped BMWs | 14 | 🟢 | Python |
@@ -221,8 +221,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [evcc](https://github.com/evcc-io/evcc) | EV charging controller integrating many wallboxes and car APIs | 7,487 | 🟢 | Go |
-| [OpenAuto](https://github.com/f1xpl/openauto) | Android Auto head unit emulator | 2,939 | 🟡 | C++ |
+| [evcc](https://github.com/evcc-io/evcc) | EV charging controller integrating many wallboxes and car APIs | 7,495 | 🟢 | Go |
+| [OpenAuto](https://github.com/f1xpl/openauto) | Android Auto head unit emulator | 2,940 | 🟡 | C++ |
 | [tesla-api](https://github.com/timdorr/tesla-api) | Unofficial documentation and Ruby gem for Tesla's JSON API | 2,070 | 🟢 | Ruby |
 | [kia_uvo](https://github.com/Hyundai-Kia-Connect/kia_uvo) | Home Assistant integration for Kia and Hyundai connected cars | 979 | 🟢 | Python |
 | [react-carplay](https://github.com/rhysmorgan134/react-carplay) | Electron/React CarPlay head unit using reverse-engineered Carlinkit USB dongle protocol | 894 | 🟢 | TypeScript |
@@ -230,7 +230,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) | Home Assistant integration for Volkswagen We Connect | 711 | 🟢 | Python |
 | [tesla_auth](https://github.com/adriankumpf/tesla_auth) | Generate Tesla owner-API tokens for third-party apps | 661 | 🟢 | Rust |
 | [TeslaLogger](https://github.com/bassmaster187/TeslaLogger) | Self-hosted Tesla data logger using the owner API | 643 | 🟢 | C# |
-| [psa_car_controller](https://github.com/flobz/psa_car_controller) | Control Peugeot, Citroen, Opel, DS cars via the reverse-engineered PSA API | 601 | 🟢 | Python |
+| [psa_car_controller](https://github.com/flobz/psa_car_controller) | Control Peugeot, Citroen, Opel, DS cars via the reverse-engineered PSA API | 603 | 🟢 | Python |
 | [bluelinky](https://github.com/Hacksore/bluelinky) | Unofficial Node.js API for Hyundai BlueLink and Kia UVO | 465 | 🟡 | TypeScript |
 | [TeslaJS](https://github.com/mseminatore/TeslaJS) | Unofficial Tesla API library for Node.js | 422 | 🟡 | JavaScript |
 | [teslams](https://github.com/hjespers/teslams) | Node.js apps and libraries for Tesla's undocumented HTTP interfaces | 417 | 🔴 | JavaScript |
@@ -241,14 +241,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pycarplay](https://github.com/electric-monk/pycarplay) | Python CarPlay library for Carlinkit "Autobox" USB dongles | 358 | 🔴 | Python |
 | [homeassistant-myskoda](https://github.com/skodaconnect/homeassistant-myskoda) | Home Assistant integration for MySkoda connected cars | 354 | 🟢 | Python |
 | [VWsFriend](https://github.com/tillsteinbach/VWsFriend) | VW WeConnect visualization, logging and control | 326 | 🟢 | Python |
-| [hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle) | Custom Home Assistant integration for BYD vehicles | 316 | 🟢 | Python |
+| [hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle) | Custom Home Assistant integration for BYD vehicles | 317 | 🟢 | Python |
 | [aasdk](https://github.com/f1xpl/aasdk) | Library implementing the Android Auto head-unit protocol | 313 | 🔴 | C++ |
-| [homeassistant-stellantis-vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) | Home Assistant integration for Stellantis (Peugeot, Citroen, Opel, Fiat, Jeep) vehicles | 289 | 🟢 | Python |
+| [homeassistant-stellantis-vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) | Home Assistant integration for Stellantis (Peugeot, Citroen, Opel, Fiat, Jeep) vehicles | 290 | 🟢 | Python |
 | [polestar_api](https://github.com/pypolestar/polestar_api) | Home Assistant integration for the Polestar API | 280 | 🟢 | Python |
 | [node-CarPlay](https://github.com/rhysmorgan134/node-CarPlay) | Apple CarPlay receiver using Carlinkit dongles | 267 | 🟡 | TypeScript |
 | [pyPLC](https://github.com/uhi22/pyPLC) | CCS EV charging protocol (PLC/V2G) implementation by reverse engineering | 238 | 🟢 | Python |
 | [OpenAuto (opencardev)](https://github.com/opencardev/openauto) | Maintained Android Auto head unit emulator | 235 | 🟢 | C++ |
-| [esphome-tesla-ble](https://github.com/PedroKTFC/esphome-tesla-ble) | Talks to Tesla vehicles over the BLE vehicle command protocol from ESPHome | 232 | 🟢 | C++ |
+| [esphome-tesla-ble](https://github.com/PedroKTFC/esphome-tesla-ble) | Talks to Tesla vehicles over the BLE vehicle command protocol from ESPHome | 233 | 🟢 | C++ |
 | [homeassistant-skodaconnect](https://github.com/skodaconnect/homeassistant-skodaconnect) | Home Assistant integration for Skoda Connect vehicles | 232 | 🗄️ | Python |
 | [bluelink](https://github.com/synchronizing/bluelink) | Python client controlling Hyundai cars via the Blue Link API | 220 | 🔴 | Python |
 | [home-assistant-rivian](https://github.com/bretterer/home-assistant-rivian) | Unofficial Rivian integration for Home Assistant | 208 | 🟢 | Python |
@@ -265,17 +265,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [egmp-bluelink-scriptable](https://github.com/andyfase/egmp-bluelink-scriptable) | Scriptable iOS replacement app for Hyundai/Kia E-GMP Bluelink | 145 | 🟢 | TypeScript |
 | [TeslaChargeDoorOpener](https://github.com/fredilarsen/TeslaChargeDoorOpener) | Opens the Tesla charge port door with an Arduino and a 315/433 MHz transmitter | 145 | 🔴 | C++ |
 | [saic-python-mqtt-gateway](https://github.com/SAIC-iSmart-API/saic-python-mqtt-gateway) | MG iSMART account data to MQTT gateway | 143 | 🟢 | Python |
-| [BetterBlue](https://github.com/schmidtwmark/BetterBlue) | Native iOS app for controlling Kia and Hyundai vehicles via the Bluelink/Kia Connect APIs | 139 | 🟢 | Swift |
+| [BetterBlue](https://github.com/schmidtwmark/BetterBlue) | Native iOS app for controlling Kia and Hyundai vehicles via the Bluelink/Kia Connect APIs | 140 | 🟢 | Swift |
 | [FiatChamp](https://github.com/wubbl0rz/FiatChamp) | Fiat Uconnect Home Assistant add-on | 139 | 🟡 | C# |
 | [vwgroup-connect-ha](https://github.com/its-me-prash/vwgroup-connect-ha) | Volkswagen Group cars (VW, Audi, Škoda, Seat, Cupra) via the unofficial connect app APIs | 136 | 🟢 | Python |
 | [onstar2mqtt](https://github.com/michaelwoods/onstar2mqtt) | GM OnStar (via OnStarJS) to MQTT bridge for vehicle data and commands | 133 | 🟡 | JavaScript |
 | [mg-saic-ha](https://github.com/townsmcp/mg-saic-ha) | MG SAIC custom integration for Home Assistant | 127 | 🟢 | Python |
 | [subarulink](https://github.com/G-Two/subarulink) | Python client for Subaru Starlink remote services | 125 | 🟢 | Python |
 | [TeslaWearKey](https://github.com/pccr10001/TeslaWearKey) | Tesla key card implementation for NFC-enabled Wear OS watches | 121 | 🟡 | Java |
-| [pyBYD](https://github.com/jkaberg/pyBYD) | Async Python client for the BYD vehicle API | 118 | 🟢 | Python |
+| [pyBYD](https://github.com/jkaberg/pyBYD) | Async Python client for the BYD vehicle API | 120 | 🟢 | Python |
 | [pyze](https://github.com/jamesremuscat/pyze) | Unofficial Python client and API for Renault ZE electric vehicles | 116 | 🟡 | Python |
+| [leapmotor-mate](https://github.com/ProtossBlaster/leapmotor-mate) | Trip tracking, charge logging and remote control for Leapmotor electric vehicles | 113 | 🟢 | Python |
 | [cupra_we_connect](https://github.com/daernsinstantfortress/cupra_we_connect) | Cupra cars via the unofficial We Connect/My Cupra app API | 112 | 🗄️ | Python |
-| [leapmotor-mate](https://github.com/ProtossBlaster/leapmotor-mate) | Trip tracking, charge logging and remote control for Leapmotor electric vehicles | 110 | 🟢 | Python |
 | [tesla-opener](https://github.com/rgerganov/tesla-opener) | Opens the Tesla charge port with a HackRF via WebUSB | 109 | 🔴 | C++ |
 | [teslabtapi](https://github.com/ArchGryphon9362/teslabtapi) | Unofficial documentation of the Tesla vehicle BLE API | 107 | 🟡 | JavaScript |
 | [HomeAssistant-NissanConnect](https://github.com/dan-r/HomeAssistant-NissanConnect) | Unofficial Home Assistant integration for Nissan Connect vehicles | 106 | 🟢 | Python |
@@ -299,10 +299,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mercedes_me_api](https://github.com/xraver/mercedes_me_api) | Scripts to use the Mercedes me APIs | 73 | 🔴 | Python |
 | [homeassistant-jlrincontrol](https://github.com/msp1974/homeassistant-jlrincontrol) | Home Assistant integration for JLR InControl | 72 | 🟡 | Python |
 | [homeassistant-subaru](https://github.com/G-Two/homeassistant-subaru) | MySubaru Connected Services custom component for Home Assistant | 72 | 🟢 | Python |
+| [byd-dolphin-hacking](https://github.com/wheregoes/byd-dolphin-hacking) | Reverse engineering the BYD Dolphin head unit: CAN bus, AVAS, NFC keys and OTA | 71 | 🟢 | Java |
 | [byd-hass](https://github.com/jkaberg/byd-hass) | Export BYD car data to Home Assistant | 71 | 🗄️ | Go |
 | [hass-uconnect](https://github.com/hass-uconnect/hass-uconnect) | Home Assistant integration for FCA/Stellantis Uconnect cars (Jeep, Ram, Fiat, Alfa) | 70 | 🟢 | Python |
 | [pyporscheconnectapi](https://github.com/CJNE/pyporscheconnectapi) | Python client for the Porsche Connect API | 70 | 🟢 | Python |
-| [byd-dolphin-hacking](https://github.com/wheregoes/byd-dolphin-hacking) | Reverse engineering the BYD Dolphin head unit: CAN bus, AVAS, NFC keys and OTA | 69 | 🟢 | Java |
 | [WeConnect-cli](https://github.com/tillsteinbach/WeConnect-cli) | Command-line interface for the Volkswagen WeConnect services | 68 | 🟢 | Python |
 | [GM-Vehicle-API](https://github.com/q39JzrRa/GM-Vehicle-API) | Remote API for supported General Motors vehicles | 65 | 🔴 | C# |
 | [ha-porscheconnect](https://github.com/CJNE/ha-porscheconnect) | Porsche Connect custom component for Home Assistant | 65 | 🟢 | Python |
@@ -311,8 +311,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homebridge-fordpass](https://github.com/Brandawg93/homebridge-fordpass) | Control Ford vehicles in HomeKit via Homebridge | 62 | 🟢 | TypeScript |
 | [tesla-ble](https://github.com/yoziru/tesla-ble) | C++ library to communicate with Tesla vehicles over the BLE command API | 61 | 🟢 | C++ |
 | [homeassistant-pycupra](https://github.com/WulfgarW/homeassistant-pycupra) | Cupra and Seat cars via the unofficial pycupra library for the My Cupra app API | 60 | 🟢 | Python |
+| [BetterBlueKit](https://github.com/schmidtwmark/BetterBlueKit) | Swift library for the Hyundai Bluelink and Kia Connect vehicle APIs | 59 | 🟢 | Swift |
 | [hass-pandora-cas](https://github.com/alryaz/hass-pandora-cas) | Pandora and PanDECT car alarm/telematics via the unofficial Pandora API | 59 | 🟡 | Python |
-| [BetterBlueKit](https://github.com/schmidtwmark/BetterBlueKit) | Swift library for the Hyundai Bluelink and Kia Connect vehicle APIs | 58 | 🟢 | Swift |
 | [psacc-ha](https://github.com/flobz/psacc-ha) | Home Assistant add-on for psa_car_controller, controlling Stellantis cars via the private API | 58 | 🟢 |  |
 | [teslajsonpy](https://github.com/zabuldon/teslajsonpy) | Async Python library for Tesla API used by Home Assistant | 58 | 🟢 | Python |
 | [tesla-charge-port-signal](https://github.com/akrutsinger/tesla-charge-port-signal) | Guided reverse engineering of Tesla's charge port remote control signal | 56 | 🔴 |  |
@@ -338,16 +338,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homebridge-onstar](https://github.com/samrum/homebridge-onstar) | Homebridge plugin for managing GM cars via OnStar | 39 | 🗄️ | TypeScript |
 | [ha-leafspy](https://github.com/jesserockz/ha-leafspy) | Home Assistant integration receiving live Nissan Leaf data sent from the LeafSpy app | 38 | 🟢 | Python |
 | [bmw-connecteddrive-api](https://github.com/mihaiblaga89/bmw-connecteddrive-api) | JavaScript implementation of the BMW ConnectedDrive API | 37 | 🟢 | JavaScript |
-| [ha_kia_hyundai](https://github.com/dahlb/ha_kia_hyundai) | Home Assistant integration for Kia Connect (UVO) in the USA | 37 | 🗄️ | Python |
+| [ha_kia_hyundai](https://github.com/dahlb/ha_kia_hyundai) | Home Assistant integration for Kia Connect (UVO) in the USA | 36 | 🗄️ | Python |
 | [python-lucidmotors](https://github.com/nshp/python-lucidmotors) | Unofficial Python bindings to the Lucid Motors API | 36 | 🟢 | Python |
 | [s3xy-virtual-button](https://github.com/Beat-YT/s3xy-virtual-button) | ESP32 virtual S3XY Button reverse-engineered from Enhance Auto's Tesla accessory | 36 | 🟡 | C++ |
 | [carwings](https://github.com/joeshaw/carwings) | Go package and CLI for the Nissan Leaf Carwings API | 34 | 🟡 | Go |
 | [ha-lucidmotors](https://github.com/borski/ha-lucidmotors) | Lucid Motors vehicles via the unofficial Lucid mobile app API | 34 | 🟢 | Python |
 | [xpeng (guide)](https://github.com/OldSmurf56/xpeng) | Guide to retrieving data from Xpeng cars into Home Assistant | 34 | 🟡 |  |
+| [leapmotor-api](https://github.com/markoceri/leapmotor-api) | Unofficial Python client for the Leapmotor vehicle cloud API | 33 | 🟢 | Python |
 | [rivian-python-client](https://github.com/bretterer/rivian-python-client) | Unofficial Python client for the Rivian API | 33 | 🟢 | Python |
 | [teslaapi.io](https://github.com/joeblau/teslaapi.io) | Unofficial Tesla owner API documentation | 33 | 🟡 | Shell |
 | [fordpass-python](https://github.com/clarkd/fordpass-python) | Python wrapper for the FordPass API: status, remote start/stop, lock/unlock | 32 | 🔴 | Python |
-| [leapmotor-api](https://github.com/markoceri/leapmotor-api) | Unofficial Python client for the Leapmotor vehicle cloud API | 32 | 🟢 | Python |
 | [pycarwings2](https://github.com/filcole/pycarwings2) | Python library for Nissan Leaf Carwings API | 32 | 🟡 | Python |
 | [python-chargepoint](https://github.com/mbillow/python-chargepoint) | Unofficial Python client for the ChargePoint EV charging network API | 31 | 🟢 | Python |
 | [fordpass_china](https://github.com/georgezhao2010/fordpass_china) | Home Assistant integration for FordPass China (Ford/Lincoln) | 30 | 🔴 | Python |
@@ -358,7 +358,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) | Extract Nissan Leaf API data and post to MQTT | 27 | 🔴 | Python |
 | [seatconnect](https://github.com/Farfar/seatconnect) | Python library to communicate with Seat Connect | 25 | 🟡 | Python |
 | [kamereon-python](https://github.com/mitchellrj/kamereon-python) | Python library for Nissan/Renault/Mitsubishi Kamereon APIs | 24 | 🔴 | Python |
-| [omoda9-ha](https://github.com/chery-connect-ha/omoda9-ha) | Unofficial reverse-engineered Home Assistant integration for Omoda 9 / Jaecoo | 23 | 🟢 | Python |
+| [omoda9-ha](https://github.com/chery-connect-ha/omoda9-ha) | Unofficial reverse-engineered Home Assistant integration for Omoda 9 / Jaecoo | 24 | 🟢 | Python |
 | [tesla-api](https://github.com/gutenye/tesla-api) | Unofficial API wrapper for Tesla Model S and X owner API | 23 | 🔴 | JavaScript |
 | [ha_lynkco_2025](https://github.com/b12e/ha_lynkco_2025) | Lynk & Co (2025+ EU models) via the API used by the Lynk & Co mobile app | 22 | 🟢 | Python |
 | [CarConnectivity-cli](https://github.com/tillsteinbach/CarConnectivity-cli) | Command-line interface to vehicles of several brands through their web APIs | 21 | 🟢 | Python |
@@ -386,11 +386,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homebridge-uconnect](https://github.com/gyahalom/homebridge-uconnect) | Homebridge plugin for Uconnect vehicles | 11 | 🔴 | TypeScript |
 | [kia_connect](https://github.com/PimDoos/kia_connect) | Home Assistant component for MijnKia connected services | 11 | 🟢 | Python |
 | [NissanConnect (python)](https://github.com/KalenXI/NissanConnect) | Python remote control for Nissan cars via NissanConnect Services | 11 | 🔴 | Python |
+| [MHI2 Firmware Toolkit](https://github.com/harman-f/MHI2-MHI2Q-MH2P-Firmware-Toolkit) | Extraction and analysis toolkit for VW Group MHI2/MHI2Q/MH2P infotainment firmware | 10 | 🟢 | Python |
 | [myhondaplus-desktop](https://github.com/enricobattocchi/myhondaplus-desktop) | Unofficial desktop GUI for Honda Connect Europe | 10 | 🟢 | Python |
 | [Xpeng smart home app](https://github.com/decline27/Xpeng) | Connect Xpeng EVs to smart-home systems | 10 | 🟢 | JavaScript |
 | [ioBroker.ford](https://github.com/TA2k/ioBroker.ford) | ioBroker adapter for FordPass | 9 | 🟢 | JavaScript |
 | [ioBroker.volvo](https://github.com/TA2k/ioBroker.volvo) | Volvo On Call adapter for ioBroker | 9 | 🟢 | JavaScript |
-| [MHI2 Firmware Toolkit](https://github.com/harman-f/MHI2-MHI2Q-MH2P-Firmware-Toolkit) | Extraction and analysis toolkit for VW Group MHI2/MHI2Q/MH2P infotainment firmware | 9 | 🟢 | Python |
 | [py-uconnect](https://github.com/hass-uconnect/py-uconnect) | Python library for the Uconnect cloud API | 9 | 🟢 | Python |
 | [iRemote-PHP](https://github.com/thickey256/iRemote-PHP) | Unofficial PHP interface for BMW's iRemote private APIs | 8 | 🔴 | PHP |
 | [nissan-connect (node)](https://github.com/beejjacobs/nissan-connect) | Node.js Nissan Connect API wrapper | 8 | 🔴 | JavaScript |
@@ -435,47 +435,47 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [AAAD](https://github.com/shmykelsa/AAAD) | Install third-party Android Auto apps outside the Play Store | 3,198 | 🟢 | Java |
+| [AAAD](https://github.com/shmykelsa/AAAD) | Install third-party Android Auto apps outside the Play Store | 3,206 | 🟢 | Java |
 | [crankshaft](https://github.com/opencardev/crankshaft) | Turnkey Raspberry Pi Android Auto head unit distribution | 2,697 | 🟢 | Python |
-| [WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | Raspberry Pi wireless Android Auto dongle for cars with wired-only AA | 2,671 | 🟡 | C++ |
-| [Fermata](https://github.com/AndreyPavlenko/Fermata) | Media player and launcher with Android Auto support | 1,471 | 🟢 | Java |
-| [mib2-toolbox](https://github.com/jilleb/mib2-toolbox) | Toolbox for modifying and customizing Volkswagen-group MIB2-HIGH infotainment units | 1,045 | 🟢 | Python |
-| [wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) | Reverse engineering of CPlay2Air / Carlinkit wireless CarPlay dongles | 950 | 🟢 | C |
-| [AAIdrive](https://github.com/BimmerGestalt/AAIdrive) | Android Auto-style apps on BMW/Mini iDrive via its reverse-engineered protocol | 709 | 🟢 | Kotlin |
+| [WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | Raspberry Pi wireless Android Auto dongle for cars with wired-only AA | 2,672 | 🟡 | C++ |
+| [Fermata](https://github.com/AndreyPavlenko/Fermata) | Media player and launcher with Android Auto support | 1,477 | 🟢 | Java |
+| [mib2-toolbox](https://github.com/jilleb/mib2-toolbox) | Toolbox for modifying and customizing Volkswagen-group MIB2-HIGH infotainment units | 1,047 | 🟢 | Python |
+| [wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) | Reverse engineering of CPlay2Air / Carlinkit wireless CarPlay dongles | 951 | 🟢 | C |
+| [AAIdrive](https://github.com/BimmerGestalt/AAIdrive) | Android Auto-style apps on BMW/Mini iDrive via its reverse-engineered protocol | 710 | 🟢 | Kotlin |
 | [MZD-AIO](https://github.com/Trevelopment/MZD-AIO) | Tweaks and apps installer for Mazda Connect infotainment | 694 | 🟡 | JavaScript |
 | [AAMirror](https://github.com/slashmax/AAMirror) | Mirror the phone screen onto Android Auto | 554 | 🟡 | Java |
-| [DiAuto](https://github.com/shihabal3amri/DiAuto) | Wireless and USB Android Auto receiver for BYD DiLink head units | 525 | 🟢 | Kotlin |
+| [DiAuto](https://github.com/shihabal3amri/DiAuto) | Wireless and USB Android Auto receiver for BYD DiLink head units | 527 | 🟢 | Kotlin |
 | [aa-proxy-rs](https://github.com/aa-proxy/aa-proxy-rs) | Android Auto wired/wireless proxy in Rust | 506 | 🟢 | Rust |
-| [MiAuto](https://github.com/PiggyBackBayonet/MiAuto) | Wireless ICCOA CarLink projection from Xiaomi, OPPO and vivo phones to car head units without a dongle | 477 | 🟢 | Kotlin |
+| [MiAuto](https://github.com/PiggyBackBayonet/MiAuto) | Wireless ICCOA CarLink projection from Xiaomi, OPPO and vivo phones to car head units without a dongle | 488 | 🟢 | Kotlin |
+| [hmg_nemesis](https://github.com/xwtk/hmg_nemesis) | Runs custom software on Hyundai Motor Group head units | 481 | 🟢 | C |
 | [openDsh dash](https://github.com/openDsh/dash) | Open-source car head unit UI with Android Auto support for Raspberry Pi | 474 | 🟡 | C++ |
-| [BYDMate](https://github.com/AndyShaman/BYDMate) | BYD DiLink app adding split screen and navigation on the instrument cluster | 464 | 🟢 | Kotlin |
-| [hmg_nemesis](https://github.com/xwtk/hmg_nemesis) | Runs custom software on Hyundai Motor Group head units | 444 | 🟢 | C |
+| [BYDMate](https://github.com/AndyShaman/BYDMate) | BYD DiLink app adding split screen and navigation on the instrument cluster | 469 | 🟢 | Kotlin |
+| [mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) | CarPlay route guidance on Audi MHI2Q infotainment units | 432 | 🟢 | C |
 | [carplay-receiver](https://github.com/harrylepotter/carplay-receiver) | Linux CarPlay receiver using Carlinkit dongles for OEM head-unit projects | 418 | 🔴 | Python |
-| [mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) | CarPlay route guidance on Audi MHI2Q infotainment units | 417 | 🟢 | C |
-| [Overdrive](https://github.com/yash-srivastava/Overdrive-release) | Advanced Sentry Mode app for BYD vehicles | 408 | 🟢 | Java |
-| [hackXpeng](https://github.com/hackxpeng/hackXpeng) | Enable ADB and network ADB on Xpeng P5/P7/G3/G9/X9 head units | 395 | 🟡 | Python |
+| [Overdrive](https://github.com/yash-srivastava/Overdrive-release) | Advanced Sentry Mode app for BYD vehicles | 410 | 🟢 | Java |
+| [hackXpeng](https://github.com/hackxpeng/hackXpeng) | Enable ADB and network ADB on Xpeng P5/P7/G3/G9/X9 head units | 398 | 🟡 | Python |
 | [AACS](https://github.com/tomasz-grobelny/AACS) | Android Auto server implementation for car infotainment systems | 365 | 🟡 | C++ |
-| [BlueBus](https://github.com/tedsalmon/BlueBus) | Bluetooth module for BMW I-Bus vehicles using the reversed I-Bus protocol | 247 | 🟢 | C |
+| [BlueBus](https://github.com/tedsalmon/BlueBus) | Bluetooth module for BMW I-Bus vehicles using the reversed I-Bus protocol | 248 | 🟢 | C |
 | [psa-update](https://github.com/zeld/psa-update) | CLI alternative to Stellantis infotainment update applications for Peugeot, Citroën, DS and Opel | 233 | 🟢 | Rust |
 | [psa-nac-firmware-reverse-engineering](https://github.com/ludwig-v/psa-nac-firmware-reverse-engineering) | Continental NAC firmware reverse engineering for PSA/Stellantis cars | 173 | 🟡 | Shell |
 | [Tesla Android](https://github.com/tesla-android/android-raspberry-pi) | Run Android on a Raspberry Pi and display it in the Tesla browser | 167 | 🟢 | Groovy |
 | [MBUX-Port](https://github.com/rnd-ash/MBUX-Port) | Custom MBUX-style infotainment UI for 2000-2007 Mercedes vehicles over CAN | 160 | 🗄️ | Kotlin |
 | [v-link](https://github.com/BoostedMoose/v-link) | Open-source vehicle diagnostics and infotainment system for Volvo cars | 138 | 🟢 | TypeScript |
-| [vwradio](https://github.com/mnaberez/vwradio) | Reverse engineering Volkswagen car radios | 131 | 🟢 | Assembly |
-| [CarDeck](https://github.com/shaonialife/cardeck) | Experimental Android app that acts as a CarPlay sender | 130 | 🟢 | Kotlin |
+| [CarDeck](https://github.com/shaonialife/cardeck) | Experimental Android app that acts as a CarPlay sender | 133 | 🟢 | Kotlin |
+| [vwradio](https://github.com/mnaberez/vwradio) | Reverse engineering Volkswagen car radios | 132 | 🟢 | Assembly |
 | [arduino-psa-nac_rcc_cirocco](https://github.com/ludwig-v/arduino-psa-nac_rcc_cirocco) | Configuration software for PSA/Stellantis NAC, RCC and CIROCCO head units: telecoding and calibration | 115 | 🟡 |  |
-| [nudl](https://github.com/chenxiaolong/nudl) | Unofficial client for downloading Hyundai/Kia/Genesis infotainment firmware | 108 | 🟢 | Rust |
+| [nudl](https://github.com/chenxiaolong/nudl) | Unofficial client for downloading Hyundai/Kia/Genesis infotainment firmware | 109 | 🟢 | Rust |
 | [byd-trip-stats](https://github.com/angoikon/byd-trip-stats) | Trip statistics app for BYD BEV/PHEV cars | 100 | 🟢 | Kotlin |
-| [B5300-reverse-engineering](https://github.com/dan-os/B5300-reverse-engineering) | Reverse engineering the B5300 CarPlay/Android Auto display | 91 | 🟡 | Shell |
+| [B5300-reverse-engineering](https://github.com/dan-os/B5300-reverse-engineering) | Reverse engineering the B5300 CarPlay/Android Auto display | 92 | 🟡 | Shell |
 | [Volvo-melbus](https://github.com/visualapproach/Volvo-melbus) | Volvo MELBUS Bluetooth audio input and remote control with Arduino Nano | 90 | 🟡 | C++ |
 | [mib2std-toolbox](https://github.com/mattcabb/mib2std-toolbox) | Modifications for VW Discover Media and Composition Media MIB2 Standard infotainment units | 81 | 🔴 |  |
+| [MHI2-Carplay-Maps](https://github.com/omonob/MHI2-Carplay-Maps) | CarPlay map video and steering-wheel controls in VW and Skoda MHI2 virtual cockpits | 77 | 🟢 | Shell |
 | [Carlinkit-CPC200-Autokit-Reverse-Engineering](https://github.com/Veyron2K/Carlinkit-CPC200-Autokit-Reverse-Engineering) | Reverse engineering the Carlinkit CPC200 Autokit CarPlay adapter | 76 | 🔴 |  |
-| [MHI2-Carplay-Maps](https://github.com/omonob/MHI2-Carplay-Maps) | CarPlay map video and steering-wheel controls in VW and Skoda MHI2 virtual cockpits | 72 | 🟢 | Shell |
 | [Audi-MIB2-Toolbox](https://github.com/superkolos/Audi-MIB2-Toolbox) | Toolbox for Audi MIB2 infotainment units | 67 | 🔴 | Shell |
 | [gen5w-utils](https://github.com/Helloyunho/gen5w-utils) | Utilities for Hyundai, Kia and Genesis Gen5W navigation firmware | 67 | 🟡 | Python |
 | [JunsunPSARemote](https://github.com/morcibacsi/JunsunPSARemote) | Arduino library to remote-control the Junsun Android head unit in PSA cars | 60 | 🔴 | C++ |
-| [HKG_Gen5W_ReverseEngineer](https://github.com/cantcs/HKG_Gen5W_ReverseEngineer) | Reverse engineering notes and tools for Hyundai/Kia/Genesis Gen5W head unit firmware | 56 | 🟡 | C |
-| [BMW_HU_Info](https://github.com/Viaszx/BMW_HU_Info) | Reads advanced information from BMW NBTEVO, MGU and ENAVEVO head units | 55 | 🟡 |  |
+| [BMW_HU_Info](https://github.com/Viaszx/BMW_HU_Info) | Reads advanced information from BMW NBTEVO, MGU and ENAVEVO head units | 57 | 🟡 |  |
+| [HKG_Gen5W_ReverseEngineer](https://github.com/cantcs/HKG_Gen5W_ReverseEngineer) | Reverse engineering notes and tools for Hyundai/Kia/Genesis Gen5W head unit firmware | 57 | 🟡 | C |
 | [byd-apps](https://github.com/wheregoes/byd-apps) | Custom Android apps for BYD EVs including CAN bus tools | 52 | 🟢 | Java |
 | [MMI3G-Toolkit](https://github.com/dspl1236/MMI3G-Toolkit) | Modular SD card toolkit for Audi/VW MMI 3G, 3G+ and RNS-850 infotainment systems | 52 | 🟢 | Java |
 | [PSA-Arduino-NAC-RCC](https://github.com/dragouf/PSA-Arduino-NAC-RCC) | Arduino Diagbox-style configuration software for PSA NAC and RCC head units | 47 | 🔴 | C# |
@@ -488,7 +488,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Audi-MHI2-Virtual-Cockpit-Altscreen-CarPlay-AndroidAuto](https://github.com/aberbic/Audi-MHI2-Virtual-Cockpit-Altscreen-CarPlay-AndroidAuto) | CarPlay and Android Auto on the Audi MHI2 MU1438 virtual cockpit | 29 | 🟢 | C |
 | [lcn2kai-decompress](https://github.com/sapphire-bt/lcn2kai-decompress) | Decompressor for Nissan Connect (LCN2kai) SD card files | 29 | 🟢 | Python |
 | [AAWirelessGateway](https://github.com/nisargjhaveri/AAWirelessGateway) | Gateway bridging wireless Android Auto to wired head units | 27 | 🟡 | Kotlin |
-| [IDriveConnectKit](https://github.com/BimmerGestalt/IDriveConnectKit) | Utilities for connecting to BMW/Mini iDrive infotainment | 20 | 🟡 | Kotlin |
+| [IDriveConnectKit](https://github.com/BimmerGestalt/IDriveConnectKit) | Utilities for connecting to BMW/Mini iDrive infotainment | 21 | 🟡 | Kotlin |
 | [VWCDC](https://github.com/NullString1/VWCDC) | VW CD changer emulator for Arduino and ESP32 | 20 | 🟢 | C++ |
 | [MibExplorer](https://github.com/djskual/MibExplorer) | WPF tool for Volkswagen MIB2/MIB2.5 units: SSH, file explorer, remote shell and scripts | 16 | 🟢 | C# |
 | [smeg-rce](https://github.com/vidarrt9/smeg-rce) | Reverse engineering of the PSA SMEG+ infotainment unit software | 16 | 🔴 |  |
@@ -516,8 +516,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [VESC firmware](https://github.com/vedderb/bldc) | Open motor controller firmware widely used in e-skateboards and scooters | 3,549 | 🟢 | C |
-| [hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) | Custom field-oriented-control firmware for hoverboard mainboards | 1,833 | 🟢 | C |
+| [VESC firmware](https://github.com/vedderb/bldc) | Open motor controller firmware widely used in e-skateboards and scooters | 3,551 | 🟢 | C |
+| [hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) | Custom field-oriented-control firmware for hoverboard mainboards | 1,834 | 🟢 | C |
 | [hoverboard-firmware-hack](https://github.com/lucysrausch/hoverboard-firmware-hack) | Custom firmware for hoverboard mainboards written from scratch | 876 | 🟡 | C |
 | [xiaomi-m365-firmware-patcher](https://github.com/BotoX/xiaomi-m365-firmware-patcher) | Patch Xiaomi M365 scooter firmware | 443 | 🟡 | Python |
 | [vanmoof-encryption-key-exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter) | Export your own VanMoof bike details and encryption keys | 396 | 🗄️ | TypeScript |
@@ -569,9 +569,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BEStie](https://github.com/bestie-org/BEStie) | Bosch eBike LDI bridge exposing power/speed/cadence as FTMS | 12 | 🟢 | C |
 | [ha-specialized-turbo](https://github.com/JamieMagee/ha-specialized-turbo) | Home Assistant integration for Specialized Turbo e-bikes via BLE | 12 | 🗄️ | Python |
 | [M365Downgrader](https://github.com/jaime-martin/M365Downgrader) | Proxy that injects custom firmware into the Xiaomi M365 scooter update flow | 12 | 🔴 | Java |
+| [specialized-turbo](https://github.com/JamieMagee/specialized-turbo) | Python library for Specialized Turbo e-bike BLE communication | 12 | 🟢 | Python |
 | [cowboybike-strava-sync](https://github.com/sam-dumont/cowboybike-strava-sync) | Sync rides from the Cowboy bikes API to Strava | 11 | 🟢 | Python |
 | [ioBroker.bosch-ebike](https://github.com/TA2k/ioBroker.bosch-ebike) | ioBroker adapter for Bosch eBikes | 11 | 🟢 | JavaScript |
-| [specialized-turbo](https://github.com/JamieMagee/specialized-turbo) | Python library for Specialized Turbo e-bike BLE communication | 11 | 🟢 | Python |
 | [eScive](https://github.com/johan-perso/escive) | Third-party app for iScooter e-scooters from reverse-engineered BLE packets and apps | 10 | 🟢 | Dart |
 | [ha-bosch-ebike-pibridge](https://github.com/possm/ha-bosch-ebike-pibridge) | Bosch eBike live BLE data to Home Assistant via Raspberry Pi | 8 | 🟢 | Python |
 | [SmartBridge](https://github.com/Nilogax/SmartBridge) | Send Bosch eBike power data to Garmin devices | 7 | 🟢 | Kotlin |

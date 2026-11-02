@@ -14,18 +14,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) | Reverse engineering Sony digital cameras: install apps via PlayMemories Camera Apps protocol | 3,023 | 🟡 | Python |
+| [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) | Reverse engineering Sony digital cameras: install apps via PlayMemories Camera Apps protocol | 3,029 | 🟡 | Python |
 | [OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) | App to unlock hidden settings on Sony cameras | 1,441 | 🟡 | Java |
 | [yi-hack-v3](https://github.com/shadow-1/yi-hack-v3) | Alternative firmware for Xiaomi Yi cameras on Hi3518e chipsets | 1,197 | 🔴 | C |
-| [a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research) | Firmware research tool that adds FL2/FL3 and custom looks to the Sony A7C II | 1,052 | 🟢 | Python |
-| [magiclantern_simplified](https://github.com/reticulatedpines/magiclantern_simplified) | Git-based Magic Lantern, open add-on firmware for Canon EOS cameras | 590 | 🟢 | C |
+| [a7c2-fl23-research](https://github.com/QAQLeonard/a7c2-fl23-research) | Firmware research tool that adds FL2/FL3 and custom looks to the Sony A7C II | 1,073 | 🟢 | Python |
+| [magiclantern_simplified](https://github.com/reticulatedpines/magiclantern_simplified) | Git-based Magic Lantern, open add-on firmware for Canon EOS cameras | 596 | 🟢 | C |
 | [yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) | Custom firmware for Yi 1080p cameras based on the Allwinner platform | 522 | 🟢 | Shell |
-| [fujihack](https://github.com/fujihack/fujihack) | Reverse engineering and custom code for Fujifilm cameras | 438 | 🟡 | C |
-| [Xiaomi_Yi_autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) | Autoexec scripts and mods for the Xiaomi Yi action camera from firmware RE | 313 | 🟢 | KoLMafia ASH |
-| [nikon-firmware-tools](https://github.com/simeonpilgrim/nikon-firmware-tools) | Tools from reverse engineering Nikon DSLR firmware (Nikon Hacker) | 283 | 🟢 | Java |
+| [fujihack](https://github.com/fujihack/fujihack) | Reverse engineering and custom code for Fujifilm cameras | 442 | 🟡 | C |
+| [Xiaomi_Yi_autoexec](https://github.com/PJanisio/Xiaomi_Yi_autoexec) | Autoexec scripts and mods for the Xiaomi Yi action camera from firmware RE | 312 | 🟢 | KoLMafia ASH |
+| [nikon-firmware-tools](https://github.com/simeonpilgrim/nikon-firmware-tools) | Tools from reverse engineering Nikon DSLR firmware (Nikon Hacker) | 288 | 🟢 | Java |
 | [OpenMemories-Framework](https://github.com/ma1co/OpenMemories-Framework) | Build Android apps for Sony PlayMemories-capable cameras | 278 | 🔴 | Jasmin |
 | [sonoff-hack](https://github.com/roleoroleo/sonoff-hack) | Custom firmware for the Sonoff GK-200MP2B camera | 242 | 🟢 | C |
-| [Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) | Unofficial modding tool to import presets into Ricoh GR IV Image Control | 236 | 🟢 | TypeScript |
+| [Ricoh-GRMod](https://github.com/Maxwooow/Ricoh-GRMod) | Unofficial modding tool to import presets into Ricoh GR IV Image Control | 238 | 🟢 | TypeScript |
 | [samsung-nx-hacks](https://github.com/ge0rg/samsung-nx-hacks) | Firmware hacks for Linux-based Samsung NX mirrorless cameras | 145 | 🟡 | Python |
 | [AqaraCameraHubfw](https://github.com/niceboygithub/AqaraCameraHubfw) | Modified firmwares for Aqara Camera Hub G2/G2H and Hub E1 | 139 | 🟢 | Shell |
 | [ricoh-gr4-firmware-analysis-and-feature-expansion](https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion) | Ricoh GR IV firmware analysis and feature expansion | 127 | 🟢 | Python |
@@ -44,44 +44,44 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Tasmota](https://github.com/arendst/Tasmota) | Alternative firmware for ESP8266/ESP32 smart devices with local MQTT/HTTP control | 24,954 | 🟢 | C |
-| [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | Custom Flipper Zero firmware with extended sub-GHz protocols | 22,615 | 🟢 | C |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Customized firmware for the Nintendo Switch | 20,268 | 🟢 | C++ |
-| [Flipper Zero firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware with sub-GHz, NFC, RFID and IR protocol decoders | 16,810 | 🟢 | C |
-| [ESPHome](https://github.com/esphome/esphome) | Firmware framework for ESP devices; widely used to replace stock firmware on smart plugs | 12,000 | 🟢 | C++ |
-| [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware) | Feature-rich custom Flipper Zero firmware | 9,346 | 🟢 | C |
-| [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) | Open-source custom firmware for the Xteink X4 e-ink reader | 8,603 | 🟢 | C |
-| [Luma3DS](https://github.com/LumaTeam/Luma3DS) | Custom firmware for the Nintendo 3DS | 6,818 | 🟢 | C |
+| [Tasmota](https://github.com/arendst/Tasmota) | Alternative firmware for ESP8266/ESP32 smart devices with local MQTT/HTTP control | 24,960 | 🟢 | C |
+| [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | Custom Flipper Zero firmware with extended sub-GHz protocols | 22,627 | 🟢 | C |
+| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Customized firmware for the Nintendo Switch | 20,275 | 🟢 | C++ |
+| [Flipper Zero firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware with sub-GHz, NFC, RFID and IR protocol decoders | 16,823 | 🟢 | C |
+| [ESPHome](https://github.com/esphome/esphome) | Firmware framework for ESP devices; widely used to replace stock firmware on smart plugs | 12,005 | 🟢 | C++ |
+| [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware) | Feature-rich custom Flipper Zero firmware | 9,350 | 🟢 | C |
+| [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader) | Open-source custom firmware for the Xteink X4 e-ink reader | 8,619 | 🟢 | C |
+| [Luma3DS](https://github.com/LumaTeam/Luma3DS) | Custom firmware for the Nintendo 3DS | 6,833 | 🟢 | C |
 | [Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) | Custom firmware hacks for Xiaomi Dafang and Ingenic T20 cameras | 4,321 | 🟡 | Shell |
-| [ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) | Custom firmware for Xiaomi LYWSD03MMC thermometers and similar BLE sensors | 4,315 | 🟢 | C |
+| [ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) | Custom firmware for Xiaomi LYWSD03MMC thermometers and similar BLE sensors | 4,317 | 🟢 | C |
 | [Psychson](https://github.com/brandonlw/Psychson) | Custom firmware and patches for Phison 2251-03 USB controllers (BadUSB) | 4,186 | 🔴 | C# |
-| [ATC_MiThermometer (atc1441)](https://github.com/atc1441/ATC_MiThermometer) | Original custom firmware for Xiaomi Mi thermometer with OTA flasher | 3,353 | 🟡 | C |
+| [ATC_MiThermometer (atc1441)](https://github.com/atc1441/ATC_MiThermometer) | Original custom firmware for Xiaomi Mi thermometer with OTA flasher | 3,354 | 🟡 | C |
 | [ESPurna](https://github.com/xoseperez/espurna) | Custom firmware for ESP8266-based smart switches and plugs | 3,057 | 🟢 | C++ |
 | [Nexmon](https://github.com/seemoo-lab/nexmon) | C-based firmware patching framework for Broadcom/Cypress WiFi chips | 2,911 | 🟢 | C |
-| [coreboot](https://github.com/coreboot/coreboot) | Open-source firmware replacing proprietary BIOS/UEFI on many boards | 2,820 | 🟢 | C |
-| [Open-XiaoAI](https://github.com/idootop/open-xiaoai) | Flashes Xiaomi XiaoAI speakers to run a custom client that streams voice to your own server | 2,634 | 🗄️ | Rust |
-| [OpenBeken](https://github.com/openshwprojects/OpenBK7231T_App) | Tasmota-like open firmware for BK7231, BL602, W800 and other IoT chips | 2,344 | 🟢 | C |
-| [thingino](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | 2,299 | 🟢 | Shell |
-| [OpenIPC firmware](https://github.com/OpenIPC/firmware) | Open alternative firmware for IP cameras based on HiSilicon, Ingenic, SigmaStar and other SoCs | 2,263 | 🟢 | C |
+| [coreboot](https://github.com/coreboot/coreboot) | Open-source firmware replacing proprietary BIOS/UEFI on many boards | 2,821 | 🟢 | C |
+| [Open-XiaoAI](https://github.com/idootop/open-xiaoai) | Flashes Xiaomi XiaoAI speakers to run a custom client that streams voice to your own server | 2,633 | 🗄️ | Rust |
+| [OpenBeken](https://github.com/openshwprojects/OpenBK7231T_App) | Tasmota-like open firmware for BK7231, BL602, W800 and other IoT chips | 2,345 | 🟢 | C |
+| [thingino](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | 2,303 | 🟢 | Shell |
+| [OpenIPC firmware](https://github.com/OpenIPC/firmware) | Open alternative firmware for IP cameras based on HiSilicon, Ingenic, SigmaStar and other SoCs | 2,264 | 🟢 | C |
 | [OpenTX](https://github.com/opentx/opentx) | Open-source custom firmware for RC transmitters (FrSky, RadioMaster and others) | 2,189 | 🟢 | C++ |
 | [shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) | Native Apple HomeKit firmware for Shelly devices | 2,051 | 🟢 | C++ |
-| [uv-k5-firmware-custom (egzumer)](https://github.com/egzumer/uv-k5-firmware-custom) | Popular custom firmware for the Quansheng UV-K5 radio | 1,935 | 🟡 | C |
+| [uv-k5-firmware-custom (egzumer)](https://github.com/egzumer/uv-k5-firmware-custom) | Popular custom firmware for the Quansheng UV-K5 radio | 1,936 | 🟡 | C |
 | [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) | RC transmitter module speaking many reverse-engineered RC protocols (FrSky, DSM, Flysky) | 1,914 | 🟢 | C++ |
-| [yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) | Custom firmware for Xiaomi Yi cameras | 1,639 | 🔴 | Shell |
-| [Heads](https://github.com/linuxboot/heads) | Minimal Linux boot firmware for coreboot laptops | 1,605 | 🟢 | Makefile |
+| [yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) | Custom firmware for Xiaomi Yi cameras | 1,638 | 🔴 | Shell |
+| [Heads](https://github.com/linuxboot/heads) | Minimal Linux boot firmware for coreboot laptops | 1,606 | 🟢 | Makefile |
 | [z03mmc](https://github.com/devbis/z03mmc) | Zigbee firmware for the Xiaomi LYWSD03MMC thermometer | 1,476 | 🟢 | C |
-| [UV-K5 custom firmware (losehu)](https://github.com/losehu/uv-k5-firmware-custom) | Full-featured custom firmware for Quansheng UV-K5/K6 handheld radios | 1,387 | 🟢 | C++ |
-| [EchoMuse](https://github.com/wilbowes/EchoMuse) | Replacement firmware and controller turning the Amazon Echo Dot 2nd gen into a local Alexa-free device | 1,385 | 🟢 | Python |
-| [NickelMenu](https://github.com/pgaskin/NickelMenu) | Add custom menu items to Kobo e-reader firmware | 1,230 | 🟢 | C++ |
-| [OpenStick](https://github.com/OpenStick/OpenStick) | Reverse engineering of MSM8916-based 4G USB modem sticks to run mainline Linux | 1,207 | 🔴 |  |
-| [yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) | Custom firmware for Yi Allwinner cameras | 1,155 | 🟢 | Shell |
-| [UN1CA](https://github.com/salvogiangri/UN1CA) | Work-in-progress custom firmware for Samsung Galaxy devices | 1,045 | 🟢 | Shell |
-| [yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) | Custom firmware for Yi HiSilicon-based cameras | 1,031 | 🟡 | C |
+| [EchoMuse](https://github.com/wilbowes/EchoMuse) | Replacement firmware and controller turning the Amazon Echo Dot 2nd gen into a local Alexa-free device | 1,392 | 🟢 | Python |
+| [UV-K5 custom firmware (losehu)](https://github.com/losehu/uv-k5-firmware-custom) | Full-featured custom firmware for Quansheng UV-K5/K6 handheld radios | 1,388 | 🟢 | C++ |
+| [NickelMenu](https://github.com/pgaskin/NickelMenu) | Add custom menu items to Kobo e-reader firmware | 1,231 | 🟢 | C++ |
+| [OpenStick](https://github.com/OpenStick/OpenStick) | Reverse engineering of MSM8916-based 4G USB modem sticks to run mainline Linux | 1,209 | 🔴 |  |
+| [yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) | Custom firmware for Yi Allwinner cameras | 1,156 | 🟢 | Shell |
+| [UN1CA](https://github.com/salvogiangri/UN1CA) | Work-in-progress custom firmware for Samsung Galaxy devices | 1,046 | 🟢 | Shell |
+| [yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) | Custom firmware for Yi HiSilicon-based cameras | 1,030 | 🟡 | C |
 | [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) | Firmware making Sonoff switches natively compatible with Apple HomeKit | 1,005 | 🟡 | C |
 | [nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) | Custom display firmware for the Sonoff NSPanel with a Lovelace-style UI, driven from Tasmota or ESPHome | 996 | 🟢 | TypeScript |
 | [yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar) | Custom firmware for Yi MStar cameras | 982 | 🟢 | C |
 | [opendps](https://github.com/kanflo/opendps) | Open firmware for the RDTech DPS5005 power supply replacing the stock firmware | 949 | 🟢 | C |
-| [OpenRTX](https://github.com/OpenRTX/OpenRTX) | Open radio firmware for TYT MD-380/UV380, Radioddity GD-77 and other handhelds | 926 | 🟢 | C |
+| [OpenRTX](https://github.com/OpenRTX/OpenRTX) | Open radio firmware for TYT MD-380/UV380, Radioddity GD-77 and other handhelds | 927 | 🟢 | C |
 | [Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) | Firmware dumps, encryption tools and mods for the Quansheng UV-K5 | 922 | 🟢 | Python |
 | [Rinkhals](https://github.com/jbatonnet/Rinkhals) | Custom firmware for Anycubic Kobra 2 Pro, Kobra 3 and Kobra S1 3D printers | 903 | 🟢 | Python |
 | [md380tools](https://github.com/travisgoodspeed/md380tools) | Firmware patches and RE tools for the TYT MD380 DMR handheld | 854 | 🟢 | C |
@@ -89,41 +89,41 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [uLaunch](https://github.com/XorTroll/uLaunch) | Themeable replacement HOME menu for Nintendo Switch | 812 | 🟢 | C++ |
 | [ZigbeeTLc](https://github.com/pvvx/ZigbeeTLc) | Custom Zigbee 3.0 firmware for Xiaomi, Tuya and other TLSR825x-based sensors | 812 | 🟢 | C |
 | [OpenMiko](https://github.com/openmiko/openmiko) | Open firmware for Ingenic T20 cameras such as Wyze Cam v2 | 802 | 🟡 | C |
-| [quill](https://github.com/Quill-OS/quill) | Quill OS, an open-source Qt-based OS and eBook reader for Kobo e-readers | 801 | 🟢 | C++ |
+| [quill](https://github.com/Quill-OS/quill) | Quill OS, an open-source Qt-based OS and eBook reader for Kobo e-readers | 799 | 🟢 | C++ |
 | [MrChromebox firmware utility](https://github.com/MrChromebox/scripts) | Scripts to flash custom coreboot UEFI firmware on Chromebooks | 798 | 🟢 | Shell |
-| [Rockbox](https://github.com/Rockbox/rockbox) | Open-source firmware replacement for digital audio players | 749 | 🟢 | C |
-| [xiaoai-patch](https://github.com/duhow/xiaoai-patch) | Patches Xiaomi XiaoAI speaker firmware to add custom binaries and open-source software | 730 | 🟢 | Makefile |
-| [OpenOrbis-PS4-Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) | Open PS4 homebrew toolchain built without the official Sony SDK | 711 | 🟢 | C |
-| [tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch) | Custom firmware for Tuya Telink/Silabs Zigbee switches, modules and sockets | 708 | 🟢 | JavaScript |
+| [xiaoai-patch](https://github.com/duhow/xiaoai-patch) | Patches Xiaomi XiaoAI speaker firmware to add custom binaries and open-source software | 751 | 🟢 | Makefile |
+| [Rockbox](https://github.com/Rockbox/rockbox) | Open-source firmware replacement for digital audio players | 750 | 🟢 | C |
+| [OpenOrbis-PS4-Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) | Open PS4 homebrew toolchain built without the official Sony SDK | 714 | 🟢 | C |
+| [tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch) | Custom firmware for Tuya Telink/Silabs Zigbee switches, modules and sockets | 709 | 🟢 | JavaScript |
 | [UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) | Collection of modified firmwares for the Quansheng UV-K5 radio | 645 | 🗄️ |  |
-| [Felucca](https://github.com/hugelton/Felucca) | Custom firmware for the M-VAVE FM-1 pocket FM synthesizer | 617 | 🟢 | C |
+| [Felucca](https://github.com/hugelton/Felucca) | Custom firmware for the M-VAVE FM-1 pocket FM synthesizer | 633 | 🟢 | C |
 | [LA104](https://github.com/gabonator/LA104) | Alternative firmware for the LA104 logic analyser | 599 | 🟡 | C |
-| [stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) | Custom firmware for Quicko and KSGER T12 soldering stations | 591 | 🟡 | C |
-| [Rad Pro](https://github.com/Gissio/radpro) | Custom firmware for Geiger counters (FS2011, Bosean FS-600, FNIRSI GC-01, GQ GMC-800) | 581 | 🟢 | C |
-| [ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) | Patches HPE iLO 4 firmware to unlock hidden utilities such as fan control | 576 | 🟡 | Shell |
+| [stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) | Custom firmware for Quicko and KSGER T12 soldering stations | 592 | 🟡 | C |
+| [Rad Pro](https://github.com/Gissio/radpro) | Custom firmware for Geiger counters (FS2011, Bosean FS-600, FNIRSI GC-01, GQ GMC-800) | 582 | 🟢 | C |
+| [ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) | Patches HPE iLO 4 firmware to unlock hidden utilities such as fan control | 575 | 🟡 | Shell |
 | [LibreTiny](https://github.com/libretiny-eu/libretiny) | Arduino/PlatformIO support for Beken/Realtek chips used in Tuya and other IoT devices | 551 | 🟢 | C |
-| [echolocal](https://github.com/ygelfand/echolocal) | Turns an Echo Dot 2nd gen into a fully local Home Assistant voice satellite | 520 | 🟢 | Go |
-| [techo5](https://github.com/HuskerMinion/techo5) | Open Alpine Linux firmware for Amazon Echo Show 5 (gen 1/2): no Alexa, local Home Assistant voice satellite | 493 | 🟢 | Go |
+| [echolocal](https://github.com/ygelfand/echolocal) | Turns an Echo Dot 2nd gen into a fully local Home Assistant voice satellite | 526 | 🟢 | Go |
+| [techo5](https://github.com/HuskerMinion/techo5) | Open Alpine Linux firmware for Amazon Echo Show 5 (gen 1/2): no Alexa, local Home Assistant voice satellite | 511 | 🟢 | Go |
 | [rpi-open-firmware (librerpi)](https://github.com/librerpi/rpi-open-firmware) | Open-source VPU bootloader for the Raspberry Pi | 466 | 🟡 | C |
 | [uofw](https://github.com/uofw/uofw) | Reverse engineering and reimplementation of the latest PSP official firmware | 446 | 🟢 | C |
 | [mgos-to-tasmota](https://github.com/yaourdt/mgos-to-tasmota) | Minimal OTA firmware for flashing Tasmota or HAA from stock Shelly Mongoose OS firmware | 422 | 🔴 | Python |
-| [home-mini-v1-drop-in-pcb](https://github.com/iMike78/home-mini-v1-drop-in-pcb) | Drop-in replacement PCB for the Google Home Mini v1 so it can run open firmware | 419 | 🟢 |  |
+| [home-mini-v1-drop-in-pcb](https://github.com/iMike78/home-mini-v1-drop-in-pcb) | Drop-in replacement PCB for the Google Home Mini v1 so it can run open firmware | 420 | 🟢 |  |
+| [DKWDRV](https://github.com/DKWDRV/DKWDRV) | Replacement for the PS2's original PS1DRV PlayStation 1 compatibility driver | 411 | 🟢 |  |
 | [WThermostatBeca](https://github.com/klausahrenberg/WThermostatBeca) | ESP8266 replacement firmware for Tuya-based Beca thermostats, speaking the Tuya MCU serial protocol | 411 | 🟡 | C++ |
-| [DKWDRV](https://github.com/DKWDRV/DKWDRV) | Replacement for the PS2's original PS1DRV PlayStation 1 compatibility driver | 410 | 🟢 |  |
 | [rk3562deb](https://github.com/tech4bot/rk3562deb) | Debian 13 for the Doogee U10 RK3562 tablet, reverse-engineered without a BSP | 404 | 🟢 | C |
 | [zM1](https://github.com/a2633063/zM1) | Custom firmware for the Phicomm M1 air quality monitor after Phicomm's cloud shut down | 391 | 🟢 |  |
 | [switch-linux](https://github.com/fail0verflow/switch-linux) | Linux kernel port for the Nintendo Switch | 359 | 🔴 | C |
 | [Sonoff-HomeAssistant](https://github.com/KmanOz/Sonoff-HomeAssistant) | Alternative firmware for ESP8266-based Sonoff switches for Home Assistant | 353 | 🔴 | Arduino |
 | [NSPanelManager](https://github.com/NSPManager/NSPanelManager) | Custom firmware and manager for the Sonoff NSPanel | 348 | 🟢 | C++ |
-| [OpenX32](https://github.com/OpenMixerProject/OpenX32) | Linux and custom firmware for the Behringer X32 audio mixing console | 336 | 🟢 | C |
+| [OpenX32](https://github.com/OpenMixerProject/OpenX32) | Linux and custom firmware for the Behringer X32 audio mixing console | 337 | 🟢 | C |
 | [phicomm_dc1-esphome](https://github.com/Samuel-0-0/phicomm_dc1-esphome) | ESPHome firmware for the Phicomm DC1 smart power strip | 311 | 🗄️ | C++ |
-| [open-lx01](https://github.com/jialeicui/open-lx01) | Custom firmware for the Xiaomi XiaoAI Speaker Mini (LX01) | 303 | 🟡 | C |
+| [open-lx01](https://github.com/jialeicui/open-lx01) | Custom firmware for the Xiaomi XiaoAI Speaker Mini (LX01) | 304 | 🟡 | C |
 | [RF-Bridge-EFM8BB1](https://github.com/Portisch/RF-Bridge-EFM8BB1) | Alternative firmware for the Sonoff RF Bridge 433 MHz chip with raw protocol sniffing | 301 | 🗄️ | C |
 | [myevic](https://github.com/ClockSelect/myevic) | Custom firmware for Joyetech eVic electronic cigarette mods | 295 | 🔴 | C |
+| [shelly-1-gen4-matter-thread](https://github.com/automatous-io/shelly-1-gen4-matter-thread) | Third-party Matter over Thread firmware for Shelly Gen4 devices | 285 | 🟢 | C++ |
 | [KmanSonoff](https://github.com/KmanOz/KmanSonoff) | Alternative firmware for ESP8266-based Sonoff switches over MQTT | 284 | 🔴 | C++ |
-| [shelly-1-gen4-matter-thread](https://github.com/automatous-io/shelly-1-gen4-matter-thread) | Third-party Matter over Thread firmware for Shelly Gen4 devices | 284 | 🟢 | C++ |
 | [Deviation](https://github.com/DeviationTX/deviation) | Custom firmware for Walkera and other RC transmitters with many RC protocols | 268 | 🟢 | C |
-| [uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) | Open reimplementation of the Quansheng UV-K5 handheld radio firmware | 267 | 🗄️ | C |
+| [uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) | Open reimplementation of the Quansheng UV-K5 handheld radio firmware | 268 | 🗄️ | C |
 | [AiLight](https://github.com/stelgenhof/AiLight) | Custom firmware for ESP8266-based Ai-Thinker RGBW Wi-Fi light bulbs | 255 | 🗄️ | C |
 | [k5prog](https://github.com/sq5bpf/k5prog) | EEPROM and flash programmer for the Quansheng UV-K5 using its serial bootloader protocol | 252 | 🟡 | C |
 | [esp_dc1](https://github.com/qlwz/esp_dc1) | Custom firmware for the Phicomm DC1 power strip | 247 | 🟡 | C++ |
@@ -135,10 +135,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MiAir](https://github.com/KiriChen-Wind/MiAir) | Adds DLNA and AirPlay support to Xiaomi XiaoAI speakers | 217 | 🟢 | Python |
 | [tuya_thermostat_zrd](https://github.com/slacky1965/tuya_thermostat_zrd) | Custom TLSR8258 Zigbee firmware for Tuya floor heating thermostats | 217 | 🟢 | C |
 | [EleksTubeHAX](https://github.com/aly-fly/EleksTubeHAX) | Custom firmware for the EleksTube IPS clock and its clones | 211 | 🟢 | C |
-| [bekantfirmware](https://github.com/ivanwick/bekantfirmware) | Replacement firmware adding programmable position memory to the IKEA BEKANT desk | 206 | 🔴 | C |
-| [techo5-dot](https://github.com/HuskerMinion/techo5-dot) | Linux firmware for Amazon Echo Dot 2nd gen replacing Fire OS, as a local Home Assistant voice satellite | 205 | 🟢 | Python |
+| [techo5-dot](https://github.com/HuskerMinion/techo5-dot) | Linux firmware for Amazon Echo Dot 2nd gen replacing Fire OS, as a local Home Assistant voice satellite | 210 | 🟢 | Python |
+| [bekantfirmware](https://github.com/ivanwick/bekantfirmware) | Replacement firmware adding programmable position memory to the IKEA BEKANT desk | 207 | 🔴 | C |
 | [uv-k5-firmware-custom (OneOfEleven)](https://github.com/OneOfEleven/uv-k5-firmware-custom) | Customized Quansheng UV-K5 firmware based on DualTachyon's reimplementation | 200 | 🟡 | C |
-| [OpenPineBuds](https://github.com/pine64/OpenPineBuds) | Community-maintained open firmware for PineBuds Pro | 198 | 🟢 | C |
+| [OpenPineBuds](https://github.com/pine64/OpenPineBuds) | Community-maintained open firmware for PineBuds Pro | 199 | 🟢 | C |
 | [project-stellar](https://github.com/MakeMHz/project-stellar) | Original Xbox add-on whose StellarOS is a clean re-implementation of the retail Xbox BIOS | 196 | 🟢 |  |
 | [RS41ng](https://github.com/mikaelnousiainen/RS41ng) | Custom firmware for Vaisala RS41 and Graw DFM-17 radiosondes | 194 | 🟢 | C |
 | [esp8266-midea-dehumidifier](https://github.com/Hypfer/esp8266-midea-dehumidifier) | Cloud-free wifi dehumidification | 191 | 🟡 | C++ |
@@ -147,19 +147,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) | Custom firmware for KSGER STM32 soldering iron controllers | 176 | 🔴 | C |
 | [openlumi.github.io](https://github.com/openlumi/openlumi.github.io) | OpenWrt for Xiaomi Zigbee gateways (DGNWG05LM, ZHWG11LM) | 174 | 🟡 | Shell |
 | [GeekMagic-Open-Firmware](https://github.com/Times-Z/GeekMagic-Open-Firmware) | Open source firmware for GeekMagic desktop displays | 172 | 🟢 | C++ |
-| [HU-058_ESPHome](https://github.com/misterblack1/HU-058_ESPHome) | ESPHome firmware for the HU-058 clock kit | 169 | 🟢 | C++ |
-| [melodee](https://github.com/keremimo/melodee) | Custom firmware for the M-VAVE FM-1 pocket synthesizer | 165 | 🟢 | C |
+| [HU-058_ESPHome](https://github.com/misterblack1/HU-058_ESPHome) | ESPHome firmware for the HU-058 clock kit | 170 | 🟢 | C++ |
+| [melodee](https://github.com/keremimo/melodee) | Custom firmware for the M-VAVE FM-1 pocket synthesizer | 168 | 🟢 | C |
 | [Casaos_Onecloud](https://github.com/muzihuaner/Casaos_Onecloud) | Runs CasaOS on the OneThing Cloud (Wanke Yun) box | 163 | 🟡 | Shell |
 | [stellar-L3N-etag](https://github.com/reece15/stellar-L3N-etag) | Modified firmware for Stellar L3N e-ink price tags with web image upload | 163 | 🟡 | C |
 | [ReedTripRadio](https://github.com/mightymos/ReedTripRadio) | Alternative firmware for 433MHz wireless door/window reed sensors | 159 | 🟡 | C |
 | [vacuum](https://github.com/zvldz/vacuum) | Custom firmware builder for Roborock gen1/gen2 vacuums | 158 | 🟢 | Shell |
 | [switchbota](https://github.com/kendallgoto/switchbota) | Replaces the SwitchBot Plug Mini factory firmware over OTA so it can run Tasmota | 150 | 🟡 | C |
-| [hackiebox_cfw_ng](https://github.com/toniebox-reverse-engineering/hackiebox_cfw_ng) | HackieboxNG: open-source custom bootloader for the CC3200-based Toniebox | 143 | 🟢 | C++ |
+| [hackiebox_cfw_ng](https://github.com/toniebox-reverse-engineering/hackiebox_cfw_ng) | HackieboxNG: open-source custom bootloader for the CC3200-based Toniebox | 144 | 🟢 | C++ |
 | [uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) | Notes and tools from reverse engineering the Quansheng UV-K5 radio | 139 | 🔴 | Python |
+| [NanoApps](https://github.com/nfzerox/NanoApps) | Run and build homebrew apps on the iPod nano 7th generation | 138 | 🟢 | C |
 | [V10_Dyson_BMS](https://github.com/davidmpye/V10_Dyson_BMS) | Reworked unofficial firmware for Dyson V10 vacuum battery management systems | 138 | 🗄️ | C |
 | [Laser_tape_reverse_engineering](https://github.com/iliasam/Laser_tape_reverse_engineering) | Reverse-engineered cheap X-40 laser tape measure with alternative firmware | 136 | 🟡 | C |
-| [NanoApps](https://github.com/nfzerox/NanoApps) | Run and build homebrew apps on the iPod nano 7th generation | 135 | 🟢 | C |
-| [levoit](https://github.com/tuct/levoit) | ESPHome custom firmware for Levoit air purifiers replacing the stock Wi-Fi module firmware | 130 | 🟢 | C++ |
+| [levoit](https://github.com/tuct/levoit) | ESPHome custom firmware for Levoit air purifiers replacing the stock Wi-Fi module firmware | 132 | 🟢 | C++ |
 | [linux-chenxing.org](https://github.com/linux-chenxing/linux-chenxing.org) | Information on running mainline Linux on MStar/SigmaStar SoCs | 129 | 🟢 |  |
 | [ATS-20 ATS_EX](https://github.com/goshante/ats20_ats_ex) | Replacement firmware for the ATS-20 Si4735 radio receiver | 123 | 🟡 | C |
 | [BIOS](https://github.com/Cult-of-GBA/BIOS) | Open-source replacement BIOS for the Game Boy Advance | 119 | 🟡 | Assembly |
@@ -177,18 +177,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bcm5719-fw](https://github.com/meklort/bcm5719-fw) | Open reimplementation of the Broadcom BCM5719 NIC firmware | 87 | 🟢 | C |
 | [dreo-cloudcutter](https://github.com/ouaibe/dreo-cloudcutter) | Notes and tools for flashing Dreo fans to run locally without the vendor cloud | 87 | 🟢 |  |
 | [gt3b](https://github.com/semerad/gt3b) | Alternative firmware for the FlySky FS-GT3B RC transmitter | 86 | 🔴 | C |
+| [lineageos-echo-show-camera](https://github.com/jxlarrea/lineageos-echo-show-camera) | Camera and Bluetooth enablement for LineageOS on the Amazon Echo Show | 85 | 🟢 | C |
 | [PHICOMM-N1-OpenWRT-Image-Builder](https://github.com/sean-liang/PHICOMM-N1-OpenWRT-Image-Builder) | Build scripts for OpenWrt images on the Phicomm N1 box | 85 | 🔴 | Shell |
-| [lineageos-echo-show-camera](https://github.com/jxlarrea/lineageos-echo-show-camera) | Camera and Bluetooth enablement for LineageOS on the Amazon Echo Show | 84 | 🟢 | C |
 | [Desk-Lamp-Alternative-Firmware](https://github.com/Torxgewinde/Desk-Lamp-Alternative-Firmware) | Alternative firmware for the Mijia Xiaomi desk lamp | 83 | 🔴 | C++ |
 | [TX-Ultimate-Easy](https://github.com/edwardtfn/TX-Ultimate-Easy) | ESPHome-based custom firmware for the Sonoff TX Ultimate wall switch | 83 | 🟢 | C++ |
 | [ts0201_tz3000_zed](https://github.com/slacky1965/ts0201_tz3000_zed) | Custom firmware for the Tuya TS0201 Zigbee temperature and humidity sensor | 82 | 🟢 | C |
 | [xiaomi-hyperos-bootloader-unlock](https://github.com/Jz8Root/xiaomi-hyperos-bootloader-unlock) | HyperOS/MIUI bootloader unlock via RPMB erase, LK reverse-engineered with Ghidra | 82 | 🟢 | Python |
 | [BZdevice](https://github.com/pvvx/BZdevice) | Custom firmware for TLSR825x devices running Zigbee 3 and Bluetooth LE simultaneously | 80 | 🟢 | C |
-| [osos-lab](https://github.com/lgreitis/osos-lab) | RepriseOS: patches and reverse engineering that add features to Apple's iPod firmware | 79 | 🟢 | Rust |
+| [osos-lab](https://github.com/lgreitis/osos-lab) | RepriseOS: patches and reverse engineering that add features to Apple's iPod firmware | 80 | 🟢 | Rust |
 | [tuya_mini_relay_zrd](https://github.com/slacky1965/tuya_mini_relay_zrd) | Custom Zigbee firmware for Tuya mini relay modules on TLSR8258 | 73 | 🟢 | C |
 | [tasmota-to-mgos](https://github.com/yaourdt/tasmota-to-mgos) | Minimal OTA firmware for flashing Mongoose OS back from Tasmota or Tuya stock firmware | 72 | 🔴 | C |
 | [launchpad-core-firmware](https://github.com/anthonyhfm/launchpad-core-firmware) | Rust-based custom firmware for the Novation Launchpad series | 70 | 🟢 | Rust |
-| [DragonBreath](https://github.com/plastikman/DragonBreath) | Open ESP-IDF firmware for the BIGTREETECH Panda Breath chamber heater | 68 | 🟢 | C |
+| [DragonBreath](https://github.com/plastikman/DragonBreath) | Open ESP-IDF firmware for the BIGTREETECH Panda Breath chamber heater | 69 | 🟢 | C |
 | [rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta) | Fully reverse engineered firmware builds for the Radtel RT-4D radio | 68 | 🟢 |  |
 | [b3603](https://github.com/baruch/b3603) | Alternative firmware for the B3603 power supply module | 66 | 🔴 | C |
 | [catgenius](https://github.com/CatGenius/catgenius) | Alternative firmware for the CatGenie 120 litter box | 64 | 🟢 | C |
@@ -210,18 +210,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [shelly-gen4-esphome](https://github.com/automatous-io/shelly-gen4-esphome) | ESPHome firmware for Shelly Gen4 devices installed through the stock web UI | 50 | 🟢 | Python |
 | [wdmc2-kernel](https://github.com/Heisath/wdmc2-kernel) | Mainline Linux kernel and Debian rootfs for the WD MyCloud Gen2 NAS | 47 | 🟢 | Shell |
 | [OpenDMCUFirm](https://github.com/GaryOderNichts/OpenDMCUFirm) | C reimplementation of the Wii U DMCU display microcontroller firmware | 45 | 🟢 | C |
-| [techo5-spot](https://github.com/HuskerMinion/techo5-spot) | Linux firmware for Amazon Echo Spot 1st gen replacing Fire OS, as a local Home Assistant voice satellite | 44 | 🟢 | Python |
+| [techo5-spot](https://github.com/HuskerMinion/techo5-spot) | Linux firmware for Amazon Echo Spot 1st gen replacing Fire OS, as a local Home Assistant voice satellite | 45 | 🟢 | Python |
 | [esphome-create-wind-calm](https://github.com/christiaanderidder/esphome-create-wind-calm) | Guide and config for converting the Create Wind Calm ceiling fan to ESPHome | 40 | 🟢 |  |
 | [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) | Open-source VideoCore firmware for the Raspberry Pi | 40 | 🔴 | C |
+| [jangada](https://github.com/zednaked/jangada) | Alternative M-VAVE FM-1 firmware (Felucca fork) with superwave, mod matrix and 4 tracks | 37 | 🟢 | C |
 | [ems-machinedrum-firmware](https://github.com/emuyia/ems-machinedrum-firmware) | Custom firmware for the Elektron Machinedrum adding per-track lengths, speeds and trig conditions | 36 | 🟢 |  |
-| [jangada](https://github.com/zednaked/jangada) | Alternative M-VAVE FM-1 firmware (Felucca fork) with superwave, mod matrix and 4 tracks | 36 | 🟢 | C |
 | [pluto-firmware-modifications](https://github.com/daniestevez/pluto-firmware-modifications) | Tools and docs for modifying the ADI ADALM-Pluto SDR firmware | 36 | 🔴 | Python |
 | [awtrix-ng-tc002](https://github.com/sanderdw/awtrix-ng-tc002) | Unofficial AWTRIX NG firmware port for the Ulanzi TC002 pixel clock with web UI and MQTT | 34 | 🗄️ | C++ |
 | [esphome-mi-desk-lamp](https://github.com/syssi/esphome-mi-desk-lamp) | ESPHome custom firmware for the Xiaomi Mi Desk Lamp replacing the stock Wi-Fi firmware | 34 | 🟢 |  |
 | [aqara-opple](https://github.com/Schischu/aqara-opple) | Alternative Zigbee firmware for Aqara Opple wall switches | 31 | 🔴 | C |
+| [blackbox-mod](https://github.com/j3threejay/blackbox-mod) | Unofficial feature patch for the 1010music Blackbox sampler's stock 3.1.9 firmware | 31 | 🟢 | HTML |
 | [esphome-petkit-t4](https://github.com/egormanga/esphome-petkit-t4) | Custom ESPHome firmware for the Petkit Pura Max 2 litter box | 31 | 🟢 | C++ |
 | [openwrt-nx679j](https://github.com/Saddytech/openwrt-nx679j) | Native OpenWrt port to the Nubia RedMagic 7 phone with reverse-engineered boot chain docs | 31 | 🟢 | C |
-| [blackbox-mod](https://github.com/j3threejay/blackbox-mod) | Unofficial feature patch for the 1010music Blackbox sampler's stock 3.1.9 firmware | 30 | 🟢 | HTML |
 | [ChroMagic](https://github.com/cursedtoast2/ChroMagic) | Custom firmware for the ModRetro Chromatic handheld adding cartridge backups | 29 | 🟢 | C |
 | [Sonoff-HomeKit](https://github.com/Batyushin/Sonoff-HomeKit) | Firmware making the Sonoff Basic HomeKit-compatible | 29 | 🟢 |  |
 | [SwitchBot-Plug-Mini-for-ESPHome](https://github.com/taikun114/SwitchBot-Plug-Mini-for-ESPHome) | Flashing ESPHome firmware onto the SwitchBot Plug Mini | 29 | 🟢 |  |
@@ -231,8 +231,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ORVIBO-CT30W-ESPHome](https://github.com/CCBP/ORVIBO-CT30W-ESPHome) | Flashes ESPHome onto the ORVIBO CT30W IR remote to control Gree/Kelvinator air conditioners | 27 | 🟡 |  |
 | [XiaomiIR_ESPHome](https://github.com/AdamKGoddard/XiaomiIR_ESPHome) | Custom ESPHome firmware for the Xiaomi IR controller | 24 | 🟡 | C++ |
 | [broadlink-rm4pro-esphome](https://github.com/phdindota/broadlink-rm4pro-esphome) | Custom ESPHome firmware for the Broadlink RM4 Pro | 23 | 🟢 | C |
+| [m-bootloader](https://github.com/jvitkauskas/m-bootloader) | Clean-room bootloader for M-VAVE FM-1 and SMK-37 keyboards (JieLi AC791N) | 23 | 🟢 | C |
 | [iPodLinux](https://github.com/iPodLinux/iPodLinux-SVN) | Mirror of iPodLinux, Linux port for classic iPods built from hardware RE | 22 | 🔴 | C |
-| [m-bootloader](https://github.com/jvitkauskas/m-bootloader) | Clean-room bootloader for M-VAVE FM-1 and SMK-37 keyboards (JieLi AC791N) | 22 | 🟢 | C |
 | [sonoff-basic-openhab](https://github.com/mongoose-os-apps/sonoff-basic-openhab) | Mongoose OS firmware for the Sonoff Basic working with openHAB | 22 | 🔴 | JavaScript |
 | [tlsr8266_mesh](https://github.com/retsimx/tlsr8266_mesh) | Tools and Rust firmware to reprogram Tuya TYBT1 BLE lights based on the TLSR8266 MCU | 22 | 🟢 | Rust |
 | [AQARA-ZNCLDJ11LM](https://github.com/HomeACcessoryKid/AQARA-ZNCLDJ11LM) | ESP8266 HomeKit firmware replacement for the Aqara ZNCLDJ11LM curtain motor | 21 | 🔴 | C |
@@ -250,13 +250,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [sonoff-webthing](https://github.com/willdurand/sonoff-webthing) | Alternative firmware exposing iTead Sonoff devices as Web Things | 13 | 🗄️ | Makefile |
 | [AI-Agent-on-a-NOKIA](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | Reverse-engineered Nokia 110 4G firmware to run a native AI chat app that drives calls, alarms and torch | 11 | 🟢 |  |
 | [esphome-eufy-robovac-g10-hybrid](https://github.com/Rjevski/esphome-eufy-robovac-g10-hybrid) | ESPHome replacement for the Tuya module in the Eufy Robovac G10 Hybrid with reverse-engineering notes | 11 | 🟡 |  |
+| [open-yoto](https://github.com/tensorfish/open-yoto) | Open-source firmware for the Yoto player | 11 | 🟢 | C |
 | [TreatLife-HomeKit](https://github.com/paullj1/TreatLife-HomeKit) | Open firmware for TreatLife DS0x dimmer switches with native HomeKit support | 11 | 🔴 | C++ |
 | [ESPHome-Mod-Flame-King-Propane-Scale](https://github.com/mmiller7/ESPHome-Mod-Flame-King-Propane-Scale) | Reverse-engineering and ESPHome mod of the Flame King Bluetooth propane scale | 10 | 🟢 |  |
-| [open-yoto](https://github.com/tensorfish/open-yoto) | Open-source firmware for the Yoto player | 10 | 🟢 | C |
 | [OpenBekenCostcoFan](https://github.com/surshis/OpenBekenCostcoFan) | OpenBeken firmware config for the Costco smart tower fan | 9 | 🟢 |  |
 | [teddiebox](https://github.com/emka/teddiebox) | Open firmware for the ESP32 Toniebox that plays figures from a local teddyCloud | 8 | 🟢 | Rust |
 | [smartclock-oss](https://github.com/michaeldale/smartclock-oss) | Open replacement firmware for the SD Pro Smart Weather Clock (ESP8266) | 7 | 🟢 | C++ |
-| [sengled-hub-reclaim](https://github.com/djshadowxm82/sengled-hub-reclaim) | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 5 | 🟢 | PowerShell |
+| [sengled-hub-reclaim](https://github.com/djshadowxm82/sengled-hub-reclaim) | Reclaim Sengled Z01-HUB and Z02-HUB hardware as a fully local EZSP v7 Zigbee coordinator for Home Assistant ZHA—no Se... | 6 | 🟢 | PowerShell |
 | [flipper-telink](https://github.com/ngxson/flipper-telink) | Flipper Zero app that dumps and reflashes Telink TLSR825x Zigbee devices over SWire | 3 | 🟢 | C |
 | [iPodLinux](https://sourceforge.net/projects/ipodlinux/) | Linux port and custom firmware for early Apple iPods |  | ⚪ |  |
 | [nuttx-bb](https://gitea.osmocom.org/phone-side/nuttx-bb) | Port of the NuttX RTOS to the OsmocomBB-supported Calypso baseband |  | ⚪ |  |
@@ -267,30 +267,30 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware analysis tool for identifying and extracting embedded files | 14,577 | 🟢 | Rust |
+| [binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware analysis tool for identifying and extracting embedded files | 14,581 | 🟢 | Rust |
 | [Universal Radio Hacker](https://github.com/jopohl/urh) | Tool to investigate and reverse-engineer unknown wireless protocols | 12,593 | 🗄️ | Python |
-| [HackRF](https://github.com/greatscottgadgets/hackrf) | Open-source SDR platform for wireless RE | 8,191 | 🟢 | C |
-| [Qiling](https://github.com/qilingframework/qiling) | Binary emulation framework used for firmware and IoT analysis | 6,162 | 🟢 | Python |
-| [UEFITool](https://github.com/LongSoft/UEFITool) | UEFI firmware image viewer and editor | 5,784 | 🟢 | C |
+| [HackRF](https://github.com/greatscottgadgets/hackrf) | Open-source SDR platform for wireless RE | 8,193 | 🟢 | C |
+| [Qiling](https://github.com/qilingframework/qiling) | Binary emulation framework used for firmware and IoT analysis | 6,163 | 🟢 | Python |
+| [UEFITool](https://github.com/LongSoft/UEFITool) | UEFI firmware image viewer and editor | 5,786 | 🟢 | C |
 | [me_cleaner](https://github.com/corna/me_cleaner) | Tool for partially deblobbing Intel ME firmware images | 5,071 | 🟢 | Python |
-| [EMBA](https://github.com/e-m-b-a/emba) | Security analyzer for embedded device firmware | 3,739 | 🟢 | Shell |
-| [Renode](https://github.com/renode/renode) | Embedded system simulator for running and debugging unmodified firmware | 3,091 | 🟢 | RobotFramework |
-| [edl](https://github.com/bkerler/edl) | Unofficial Qualcomm Firehose, Sahara, streaming and DIAG tools | 2,671 | 🟢 | Python |
-| [unblob](https://github.com/onekey-sec/unblob) | Extraction suite for arbitrary firmware and binary blobs | 2,603 | 🟢 | Python |
+| [EMBA](https://github.com/e-m-b-a/emba) | Security analyzer for embedded device firmware | 3,745 | 🟢 | Shell |
+| [Renode](https://github.com/renode/renode) | Embedded system simulator for running and debugging unmodified firmware | 3,096 | 🟢 | RobotFramework |
+| [edl](https://github.com/bkerler/edl) | Unofficial Qualcomm Firehose, Sahara, streaming and DIAG tools | 2,673 | 🟢 | Python |
+| [unblob](https://github.com/onekey-sec/unblob) | Extraction suite for arbitrary firmware and binary blobs | 2,606 | 🟢 | Python |
 | [Glasgow](https://github.com/GlasgowEmbedded/glasgow) | Scots Army Knife for electronics and hardware reverse engineering | 2,229 | 🟢 | Python |
-| [Ubertooth](https://github.com/greatscottgadgets/ubertooth) | Open-source Bluetooth monitoring and experimentation platform | 2,154 | 🟢 | C |
+| [Ubertooth](https://github.com/greatscottgadgets/ubertooth) | Open-source Bluetooth monitoring and experimentation platform | 2,155 | 🟢 | C |
 | [FIRMADYNE](https://github.com/firmadyne/firmadyne) | Platform for emulation and dynamic analysis of Linux-based firmware | 2,121 | 🟡 | Shell |
 | [ofrak](https://github.com/redballoonsecurity/ofrak) | Framework to unpack, modify and repack binaries and firmware | 2,082 | 🟢 | Python |
 | [vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf) | Recovers an analyzable ELF from a raw kernel image using kallsyms | 1,841 | 🟢 | Python |
 | [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) | Toolkit to emulate firmware and analyze it for security vulnerabilities | 1,622 | 🟢 | Rust |
 | [Tasmotizer](https://github.com/tasmota/tasmotizer) | Flashing tool for Tasmota firmware onto ESP devices | 1,542 | 🟡 | Python |
-| [FACT](https://github.com/fkie-cad/FACT_core) | Firmware Analysis and Comparison Tool | 1,473 | 🟢 | Python |
-| [mtkclient](https://github.com/bkerler/mtkclient) | MediaTek flash and repair utility using bootrom/preloader protocols | 1,411 | 🟢 | Python |
+| [FACT](https://github.com/fkie-cad/FACT_core) | Firmware Analysis and Comparison Tool | 1,474 | 🟢 | Python |
+| [mtkclient](https://github.com/bkerler/mtkclient) | MediaTek flash and repair utility using bootrom/preloader protocols | 1,420 | 🟢 | Python |
 | [Sniffle](https://github.com/nccgroup/Sniffle) | Bluetooth 5 and 4.x LE sniffer for TI CC1352/CC26x2 | 1,200 | 🟡 | Python |
 | [icestorm](https://github.com/YosysHQ/icestorm) | Project IceStorm: reverse engineered bitstream documentation and tools for Lattice iCE40 FPGAs | 1,193 | 🟢 | Python |
 | [BIOSUtilities](https://github.com/platomav/BIOSUtilities) | Utilities to parse and extract vendor BIOS/UEFI firmware | 1,100 | 🟢 | Python |
 | [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) | Tools to extract and rebuild firmware images for routers | 1,007 | 🟢 | C |
-| [FirmAE](https://github.com/pr0v3rbs/FirmAE) | Large-scale emulation for IoT firmware dynamic analysis | 961 | 🟢 | Python |
+| [FirmAE](https://github.com/pr0v3rbs/FirmAE) | Large-scale emulation for IoT firmware dynamic analysis | 962 | 🟢 | Python |
 | [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser) | Parse BIOS/UEFI and Intel ME firmware images | 933 | 🟢 | Python |
 | [Project X-Ray](https://github.com/f4pga/prjxray) | Documents the reverse-engineered Xilinx 7-series FPGA bitstream format | 926 | 🟡 | Python |
 | [JTAGenum](https://github.com/cyphunk/JTAGenum) | Arduino/Raspberry Pi tool to identify JTAG pins on unknown hardware | 805 | 🔴 | C++ |
@@ -307,12 +307,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Frankenstein](https://github.com/seemoo-lab/frankenstein) | Broadcom/Cypress Bluetooth firmware emulation for fuzzing | 475 | 🟡 | C |
 | [BK7231GUIFlashTool](https://github.com/openshwprojects/BK7231GUIFlashTool) | Flash and back up BK7231 and other Tuya-module chips | 453 | 🟢 | C# |
 | [maskromtool](https://github.com/travisgoodspeed/maskromtool) | CAD tool for extracting bits from mask ROM die photographs | 439 | 🟢 | C++ |
-| [CustomProcessingUnit](https://github.com/pietroborrello/CustomProcessingUnit) | Analysis framework for Intel CPU microcode | 416 | 🔴 | C |
+| [CustomProcessingUnit](https://github.com/pietroborrello/CustomProcessingUnit) | Analysis framework for Intel CPU microcode | 415 | 🔴 | C |
 | [efiSeek](https://github.com/DSecurity/efiSeek) | Ghidra analyzer for UEFI firmware | 410 | 🟡 | Java |
 | [uefireverse](https://github.com/jethrogb/uefireverse) | Tools to help reverse engineer UEFI-based firmware | 408 | 🔴 | C |
 | [rbasefind](https://github.com/sgayou/rbasefind) | Firmware base address search tool | 375 | 🔴 | Rust |
-| [mtk_uartboot](https://github.com/981213/mtk_uartboot) | Tool to load code on MediaTek SoCs via UART boot ROM | 370 | 🟡 | Rust |
-| [firmware-analysis-plus](https://github.com/secnotes/firmware-analysis-plus) | One-click firmware emulation built on firmadyne | 367 | 🟡 | Python |
+| [mtk_uartboot](https://github.com/981213/mtk_uartboot) | Tool to load code on MediaTek SoCs via UART boot ROM | 371 | 🟡 | Rust |
+| [firmware-analysis-plus](https://github.com/secnotes/firmware-analysis-plus) | One-click firmware emulation built on firmadyne | 368 | 🟡 | Python |
 | [Microcode](https://github.com/RUB-SysSec/Microcode) | Reverse engineered x86 AMD microcode updates from the USENIX 2017 paper | 357 | 🔴 | Python |
 | [GreatFET](https://github.com/greatscottgadgets/greatfet) | Hardware hacking multi-tool platform | 354 | 🟢 | C |
 | [jefferson](https://github.com/sviehb/jefferson) | JFFS2 filesystem extraction tool | 347 | 🔴 | Python |
@@ -323,8 +323,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esp32_image_parser](https://github.com/tenable/esp32_image_parser) | Toolkit for reverse engineering ESP32 firmware images | 255 | 🟢 | Python |
 | [firmeye](https://github.com/Vu1nT0tal/firmeye) | IDA Pro plugin for finding vulnerabilities in IoT firmware | 247 | 🔴 | Python |
 | [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) | Tools for analyzing UEFI firmware with FwHunt rules | 247 | 🟡 | Python |
-| [ltchiptool](https://github.com/libretiny-eu/ltchiptool) | GUI and CLI flashing and dumping tool for BK7231, RTL8710B and RTL8720C chips in Tuya devices | 230 | 🟢 | Python |
-| [fwtool.py](https://github.com/ma1co/fwtool.py) | Tool to unpack Sony camera firmware images | 225 | 🔴 | Python |
+| [ltchiptool](https://github.com/libretiny-eu/ltchiptool) | GUI and CLI flashing and dumping tool for BK7231, RTL8710B and RTL8720C chips in Tuya devices | 232 | 🟢 | Python |
+| [fwtool.py](https://github.com/ma1co/fwtool.py) | Tool to unpack Sony camera firmware images | 226 | 🔴 | Python |
 | [starlink-tools](https://github.com/quarkslab/starlink-tools) | Tools for security research on the Starlink user terminal | 209 | 🔴 | Python |
 | [Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader) | Research on the bootloader used in Xiaomi phones | 180 | 🔴 | Assembly |
 | [Pyrrha](https://github.com/quarkslab/pyrrha) | Firmware cartography tool that maps binaries and their relations | 173 | 🟢 | Python |
@@ -333,10 +333,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bxxt](https://github.com/rev1si0n/bxxt) | Android boot.img, recovery.img, SELinux and property unpack/repack tool | 164 | 🔴 | C |
 | [D.N.A3](https://github.com/ColdWindScholar/D.N.A3) | Android firmware image unpack and repack assistant | 161 | 🟡 | Python |
 | [jielie](https://github.com/kagaimiq/jielie) | Information and tools on JieLi Bluetooth audio chips | 158 | 🟡 |  |
-| [galaxy-buds-firmware-archive](https://github.com/timschneeb/galaxy-buds-firmware-archive) | Archive of Galaxy Buds firmware images, flashable with GalaxyBudsClient | 154 | 🟢 |  |
+| [galaxy-buds-firmware-archive](https://github.com/timschneeb/galaxy-buds-firmware-archive) | Archive of Galaxy Buds firmware images, flashable with GalaxyBudsClient | 156 | 🟢 |  |
 | [uEmu](https://github.com/MCUSec/uEmu) | Universal MCU firmware emulator for dynamic analysis without hardware | 153 | 🟡 | Python |
 | [FirmwareReverseEngineering](https://github.com/frizb/FirmwareReverseEngineering) | Notes and tools from reverse engineering firmware | 150 | 🔴 | Python |
-| [mistral](https://github.com/Ravenslofty/mistral) | Intel Cyclone V FPGA bitstream reverse engineering | 138 | 🔴 | HTML |
+| [mistral](https://github.com/Ravenslofty/mistral) | Intel Cyclone V FPGA bitstream reverse engineering | 139 | 🔴 | HTML |
 | [Dell iDRAC GPU throttling RE](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) | Reverse-engineered Dell iDRAC firmware to stop throttling of unsupported GPUs in C4130 | 136 | 🟢 | Python |
 | [openpst](https://github.com/openpst/openpst) | Tools for Qualcomm MSM devices (Sahara, DM/DIAG, streaming protocols) | 133 | 🔴 | Prolog |
 | [usb-to-pcie-re](https://github.com/cyrozap/usb-to-pcie-re) | Notes and utilities for reverse engineering USB-to-PCIe/NVMe bridge controllers | 108 | 🟡 | Python |
@@ -382,8 +382,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MFT](https://github.com/Mimoja/MFT) | Firmware toolkit for unpacking and analyzing firmware images | 14 | 🔴 | Makefile |
 | [Bose-headphones-firmware](https://github.com/avicoder/Bose-headphones-firmware) | Reverse-engineered firmware of the Bose QuietComfort 35 II | 10 | 🔴 |  |
 | [Cyclone_CRAM_Mapper](https://github.com/14sea/Cyclone_CRAM_Mapper) | Reverse-engineered Intel Cyclone IV FPGA bitstream routing with Claude Code | 10 | 🟢 | Python |
+| [hikvision_R2_firmware](https://github.com/renaudallard/hikvision_R2_firmware) | Unpacks and repacks Hikvision R2 firmware files | 7 | 🟢 | JavaScript |
 | [ecos_romfs_unpacker](https://github.com/rotenkatz/ecos_romfs_unpacker) | Unpacker for eCos ROMFS images in firmware | 6 | 🔴 | Python |
-| [hikvision_R2_firmware](https://github.com/renaudallard/hikvision_R2_firmware) | Unpacks and repacks Hikvision R2 firmware files | 6 | 🟢 | JavaScript |
 | [HALO-ISA](https://codeberg.org/dhxx/HALO-ISA) | Reverse-engineered instruction set reference for the Cirrus Logic HALO Core DSP (CS40L/CS35L amps) |  | ⚪ |  |
 | [JAY-tech-UMPC-9901-HWRE](https://codeberg.org/GAY-tech/JAY-tech-UMPC-9901__HWRE) | Hardware reverse engineering of the WonderMedia WM8505 platform (JAY-tech UMPC 9901) |  | ⚪ |  |
 | [librephone](https://codeberg.org/rsavoye/librephone) | Research and tools for analysing phone binary blobs with the goal of replacing them with free software |  | ⚪ |  |
@@ -398,23 +398,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Onion](https://github.com/OnionUI/Onion) | Custom firmware/OS overhaul for the Miyoo Mini and Mini+ handhelds | 4,304 | 🟢 | C |
-| [arkos](https://github.com/christianhaitian/arkos) | ArkOS custom Linux firmware for Rockchip-based handhelds (RG351, RGB10, etc.) | 2,151 | 🗄️ | Shell |
-| [distribution](https://github.com/ROCKNIX/distribution) | ROCKNIX immutable Linux distribution for ARM handheld gaming devices | 1,642 | 🟢 | Makefile |
+| [Onion](https://github.com/OnionUI/Onion) | Custom firmware/OS overhaul for the Miyoo Mini and Mini+ handhelds | 4,305 | 🟢 | C |
+| [arkos](https://github.com/christianhaitian/arkos) | ArkOS custom Linux firmware for Rockchip-based handhelds (RG351, RGB10, etc.) | 2,152 | 🗄️ | Shell |
+| [distribution](https://github.com/ROCKNIX/distribution) | ROCKNIX immutable Linux distribution for ARM handheld gaming devices | 1,643 | 🟢 | Makefile |
 | [MinUI](https://github.com/shauninman/MinUI) | Minimal custom launcher and libretro frontend for many retro handhelds | 1,464 | 🗄️ | C |
-| [CEmu](https://github.com/CE-Programming/CEmu) | Third-party TI-84 Plus CE / TI-83 Premium CE emulator with developer features | 1,333 | 🟢 | C++ |
+| [CEmu](https://github.com/CE-Programming/CEmu) | Third-party TI-84 Plus CE / TI-83 Premium CE emulator with developer features | 1,334 | 🟢 | C++ |
 | [KnightOS](https://github.com/KnightOS/KnightOS) | Third-party open-source operating system for TI z80 calculators | 1,323 | 🔴 | Assembly |
 | [MiyooCFW](https://github.com/TriForceX/MiyooCFW) | Custom firmware for BittBoy, PocketGo, PowKiddy V90/Q90/Q20 and other Miyoo handhelds | 1,230 | 🟢 |  |
-| [AmberELEC](https://github.com/AmberELEC/AmberELEC) | Handheld firmware for Anbernic RG351/RG552/RG353 and compatible devices | 1,203 | 🟢 | Makefile |
-| [CrossMix-OS](https://github.com/cizia64/CrossMix-OS) | Enhanced custom OS for the TrimUI Smart Pro handheld | 1,003 | 🟢 | GLSL |
+| [AmberELEC](https://github.com/AmberELEC/AmberELEC) | Handheld firmware for Anbernic RG351/RG552/RG353 and compatible devices | 1,202 | 🟢 | Makefile |
+| [CrossMix-OS](https://github.com/cizia64/CrossMix-OS) | Enhanced custom OS for the TrimUI Smart Pro handheld | 1,002 | 🟢 | GLSL |
 | [distribution](https://github.com/JustEnoughLinuxOS/distribution) | JELOS Linux distribution for handheld gaming devices | 946 | 🗄️ | Makefile |
-| [firebird](https://github.com/nspire-emus/firebird) | Multi-platform emulator of TI-Nspire calculators | 854 | 🟢 | C++ |
-| [spruceOS](https://github.com/spruceUI/spruceOS) | Custom firmware for Miyoo, TrimUI and Anbernic handhelds | 717 | 🟢 | Python |
+| [firebird](https://github.com/nspire-emus/firebird) | Multi-platform emulator of TI-Nspire calculators | 855 | 🟢 | C++ |
+| [spruceOS](https://github.com/spruceUI/spruceOS) | Custom firmware for Miyoo, TrimUI and Anbernic handhelds | 718 | 🟢 | Python |
 | [toolchain](https://github.com/CE-Programming/toolchain) | Community C/C++ toolchain and libraries for the TI-84 Plus CE | 627 | 🟢 | C |
 | [game-and-watch-retro-go](https://github.com/kbeckmann/game-and-watch-retro-go) | Emulator collection firmware for the Nintendo Game & Watch | 494 | 🗄️ | C |
 | [Tamagotchi-Hack](https://github.com/natashenka/Tamagotchi-Hack) | Code and research for hacking Tamagotchi Friends/Tamatown toys | 437 | 🔴 | C |
-| [Allium](https://github.com/goweiwen/Allium) | Custom launcher for Miyoo Mini and Mini Plus handhelds | 390 | 🟢 | Rust |
-| [knulli-linux](https://github.com/knulli-cfw/knulli-linux) | Knulli custom Linux firmware for Anbernic, TrimUI and other handhelds | 332 | 🟢 | C |
+| [Allium](https://github.com/goweiwen/Allium) | Custom launcher for Miyoo Mini and Mini Plus handhelds | 391 | 🟢 | Rust |
+| [knulli-linux](https://github.com/knulli-cfw/knulli-linux) | Knulli custom Linux firmware for Anbernic, TrimUI and other handhelds | 333 | 🟢 | C |
 | [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside) | Reverse engineered schematics of the Game Boy DMG-CPU-B chip | 331 | 🟢 |  |
 | [playdate-reverse-engineering](https://github.com/cranksters/playdate-reverse-engineering) | Panic Playdate RE notes: file formats, server API and USB commands | 312 | 🟢 | Python |
 | [gba-link-connection](https://github.com/afska/gba-link-connection) | C++ libraries for Game Boy Advance link cable and wireless adapter protocols | 300 | 🟢 | C++ |
@@ -423,11 +423,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [game-and-watch-hacking](https://github.com/ghidraninja/game-and-watch-hacking) | Scripts and notes for working with the Nintendo Game & Watch hardware | 266 | 🔴 | Python |
 | [ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) | Real Tamagotchi P1 emulator for Arduino UNO using the original ROM | 253 | 🔴 | C |
 | [MinUI-Legacy-RG35XX](https://github.com/shauninman/MinUI-Legacy-RG35XX) | MinUI custom launcher firmware for the Anbernic RG35XX | 225 | 🗄️ | C |
-| [tamatool](https://github.com/jcrona/tamatool) | Cross-platform explorer and debugger for first-gen Tamagotchi ROMs | 209 | 🟡 | C |
-| [game-and-watch-retro-go-sd](https://github.com/sylverb/game-and-watch-retro-go-sd) | Retro-Go emulator firmware for Game & Watch with SD card mod support | 202 | 🟢 | C |
+| [tamatool](https://github.com/jcrona/tamatool) | Cross-platform explorer and debugger for first-gen Tamagotchi ROMs | 210 | 🟡 | C |
+| [game-and-watch-retro-go-sd](https://github.com/sylverb/game-and-watch-retro-go-sd) | Retro-Go emulator firmware for Game & Watch with SD card mod support | 204 | 🟢 | C |
 | [game-and-watch-patch](https://github.com/BrianPugh/game-and-watch-patch) | Custom firmware patch for the Nintendo Game & Watch stock firmware | 201 | 🟢 | C |
 | [n-link](https://github.com/lights0123/n-link) | Cross-platform, CX-II compatible computer linking program for the TI-Nspire | 195 | 🟡 | Vue |
-| [tilp_and_gfm](https://github.com/debrouxl/tilp_and_gfm) | TILP: transfer data between TI graphing calculators and a computer | 184 | 🟢 | C |
+| [tilp_and_gfm](https://github.com/debrouxl/tilp_and_gfm) | TILP: transfer data between TI graphing calculators and a computer | 185 | 🟢 | C |
 | [flipperzero-tamagotch-p1](https://github.com/GMMan/flipperzero-tamagotch-p1) | Tamagotchi P1 emulator for the Flipper Zero | 181 | 🔴 | C |
 | [fpga-tamagotchi](https://github.com/agg23/fpga-tamagotchi) | Tamagotchi P1 FPGA core for Analogue Pocket and MiSTer | 178 | 🟡 | SystemVerilog |
 | [picowalker](https://github.com/mamba2410/picowalker) | RP2350-based recreation of the Pokewalker | 166 | 🟢 | C |
@@ -450,7 +450,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [prinux](https://github.com/zephray/prinux) | Tools and scripts for running Linux on the HP Prime calculator | 67 | 🔴 | Makefile |
 | [pd-usb](https://github.com/cranksters/pd-usb) | JavaScript library to talk to a Panic Playdate over USB serial via WebSerial | 62 | 🟡 | TypeScript |
 | [tamagotchi-tech-specs](https://github.com/loociano/tamagotchi-tech-specs) | Technical specifications of Tamagotchi devices | 60 | 🔴 | HTML |
-| [pocketwalker](https://github.com/h4lfheart/pocketwalker) | H8/38606F emulator built for the Pokewalker | 57 | 🟢 | C++ |
+| [pocketwalker](https://github.com/h4lfheart/pocketwalker) | H8/38606F emulator built for the Pokewalker | 58 | 🟢 | C++ |
 | [dmg-schematics](https://github.com/msinger/dmg-schematics) | Reverse engineered schematics of the Game Boy DMG-CPU B chip | 55 | 🟢 | KiCad Schematic |
 | [pw](https://github.com/lumirth/pw) | Human-readable matching decompilation of the Pokewalker firmware | 42 | 🟢 | C |
 | [tiemu](https://github.com/debrouxl/tiemu) | Emulator of TI-89/92/V200 calculators for Linux and Windows | 33 | 🟡 | C |
@@ -467,20 +467,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [LEDE (Lean)](https://github.com/coolsnowwolf/lede) | Popular OpenWrt-based firmware source for routers | 31,600 | 🟢 | C |
-| [OpenWrt](https://github.com/openwrt/openwrt) | Linux distribution for embedded devices and routers replacing vendor firmware | 29,004 | 🟢 | C |
-| [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) | OpenWrt fork with extended router support | 11,833 | 🟢 | C |
-| [Asuswrt-Merlin](https://github.com/RMerl/asuswrt-merlin.ng) | Enhanced third-party firmware for Asus routers | 6,261 | 🟢 | C |
-| [unifi-common](https://github.com/unifi-utilities/unifi-common) | on_boot.d and utilities for customizing UniFi Dream Machines | 4,383 | 🟢 | Shell |
-| [unpoller](https://github.com/unpoller/unpoller) | Collect UniFi controller, site, device and client data for metrics | 2,734 | 🟢 | Go |
+| [LEDE (Lean)](https://github.com/coolsnowwolf/lede) | Popular OpenWrt-based firmware source for routers | 31,608 | 🟢 | C |
+| [OpenWrt](https://github.com/openwrt/openwrt) | Linux distribution for embedded devices and routers replacing vendor firmware | 29,022 | 🟢 | C |
+| [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) | OpenWrt fork with extended router support | 11,840 | 🟢 | C |
+| [Asuswrt-Merlin](https://github.com/RMerl/asuswrt-merlin.ng) | Enhanced third-party firmware for Asus routers | 6,264 | 🟢 | C |
+| [unifi-common](https://github.com/unifi-utilities/unifi-common) | on_boot.d and utilities for customizing UniFi Dream Machines | 4,384 | 🟢 | Shell |
+| [unpoller](https://github.com/unpoller/unpoller) | Collect UniFi controller, site, device and client data for metrics | 2,735 | 🟢 | Go |
 | [MIXBOX](https://github.com/monlor/MIXBOX-ARCHIVE) | Shell toolbox of add-on apps for Xiaomi routers | 2,377 | 🗄️ | HTML |
 | [UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) | PHP client for Ubiquiti's undocumented UniFi Controller API | 1,349 | 🟢 | PHP |
-| [RTL960x](https://github.com/Anime4000/RTL960x) | Reverse engineering and modding RTL960x-based xPON ONT sticks | 1,065 | 🟢 | Classic ASP |
+| [RTL960x](https://github.com/Anime4000/RTL960x) | Reverse engineering and modding RTL960x-based xPON ONT sticks | 1,066 | 🟢 | Classic ASP |
 | [Starlink-FI](https://github.com/KULeuven-COSIC/Starlink-FI) | Fault-injection modchip for the Starlink user terminal | 1,049 | 🔴 | HTML |
 | [routeros](https://github.com/tenable/routeros) | Tenable research tools for MikroTik RouterOS | 910 | 🗄️ | C++ |
 | [X-WRT](https://github.com/x-wrt/x-wrt) | OpenWrt-based firmware for routers | 863 | 🟢 | C |
 | [zte_modem_tools](https://github.com/douniwan5788/zte_modem_tools) | Tools to decode/encode ZTE modem configuration files | 733 | 🟡 | Python |
-| [starlink-grpc-tools](https://github.com/sparky8512/starlink-grpc-tools) | Tools for the Starlink dish reverse-engineered gRPC API | 715 | 🟢 | Python |
+| [starlink-grpc-tools](https://github.com/sparky8512/starlink-grpc-tools) | Tools for the Starlink dish reverse-engineered gRPC API | 717 | 🟢 | Python |
 | [Monlor-Tools](https://github.com/monlor/Monlor-Tools) | Shell toolbox for Xiaomi routers | 684 | 🗄️ | Shell |
 | [DD-WRT](https://github.com/mirror/dd-wrt) | Mirror of DD-WRT, third-party Linux firmware for wireless routers | 610 | 🟢 |  |
 | [huawei-lte-api](https://github.com/Salamek/huawei-lte-api) | API client for Huawei LTE modems and routers | 537 | 🟢 | Python |
@@ -493,8 +493,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RouterOS-api](https://github.com/socialwifi/RouterOS-api) | Python API for MikroTik RouterBoard devices | 330 | 🟡 | Python |
 | [rt-n56u](https://github.com/andy-padavan/rt-n56u) | Custom firmware for ASUS RT-N56U, RT-N65U, RT-AC54U and related routers | 326 | 🔴 |  |
 | [zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) | Reverse engineering the Zyxel PMG3000-D20B GPON SFP for use with OpenWrt/pfSense | 311 | 🟡 | Python |
-| [ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) | Home Assistant component for TP-Link Deco mesh routers | 304 | 🟢 | Python |
-| [home-assistant_ugreen-nas](https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas) | Home Assistant integration for UGREEN NAS devices via their web API | 271 | 🟢 | Python |
+| [ha-tplink-deco](https://github.com/amosyuen/ha-tplink-deco) | Home Assistant component for TP-Link Deco mesh routers | 305 | 🟢 | Python |
+| [home-assistant_ugreen-nas](https://github.com/Tom-Bom-badil/home-assistant_ugreen-nas) | Home Assistant integration for UGREEN NAS devices via their web API | 272 | 🟢 | Python |
 | [librouteros](https://github.com/luqasz/librouteros) | Python implementation of the MikroTik RouterOS API | 269 | 🟢 | Python |
 | [TL-WR703N](https://github.com/Squonk42/TL-WR703N) | Reverse engineering of the TP-Link TL-WR703N Wi-Fi router hardware | 259 | 🔴 |  |
 | [ha-asusrouter](https://github.com/Vaskivskyi/ha-asusrouter) | AsusWRT router monitoring and control via the routers' undocumented HTTP API | 257 | 🟢 | Python |
@@ -504,7 +504,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [google-wifi-api](https://github.com/olssonm/google-wifi-api) | Discovered API endpoints for Google Wifi and OnHub routers | 217 | 🔴 |  |
 | [TP-Link-Archer-C6U](https://github.com/AlexandrErohin/TP-Link-Archer-C6U) | Python package for TP-Link and Mercusys router web API access | 208 | 🟢 | Python |
 | [FreshTomato (ARM)](https://github.com/FreshTomato-Project/freshtomato-arm) | Alternative open-source firmware for Broadcom-based ARM routers | 201 | 🟢 | C |
-| [hacking-gemtek](https://github.com/digiampietro/hacking-gemtek) | Reverse engineering a Gemtek WVRTM home router | 198 | 🔴 | Shell |
+| [hacking-gemtek](https://github.com/digiampietro/hacking-gemtek) | Reverse engineering a Gemtek WVRTM home router | 199 | 🔴 | Shell |
 | [eero-client](https://github.com/343max/eero-client) | Barebone client for the eero mesh router API | 196 | 🟡 | Python |
 | [hass-miwifi](https://github.com/dmamontov/hass-miwifi) | Home Assistant integration for Xiaomi MiWiFi routers | 190 | 🟡 | Python |
 | [starlink_exporter](https://github.com/danopstech/starlink_exporter) | Prometheus exporter for metrics from the Starlink dish gRPC API | 187 | 🔴 | Go |
@@ -518,7 +518,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [k2-firmware](https://github.com/moonjoin/k2-firmware) | Firmware and Breed bootloader flashing guide for the Phicomm K2 router | 141 | 🔴 |  |
 | [huawei-modem-python-api-client](https://github.com/pablo/huawei-modem-python-api-client) | Python client for Huawei USB modem HTTP API | 131 | 🔴 | Python |
 | [asusrouter](https://github.com/Vaskivskyi/asusrouter) | API wrapper for ASUSWRT-powered routers over HTTP | 129 | 🟢 | Python |
-| [open-u60-pro](https://github.com/jesther-ai/open-u60-pro) | ZTE U60 Pro 5G router toolkit with reverse-engineered 143-endpoint API | 120 | 🟢 | Rust |
+| [open-u60-pro](https://github.com/jesther-ai/open-u60-pro) | ZTE U60 Pro 5G router toolkit with reverse-engineered 143-endpoint API | 122 | 🟢 | Rust |
 | [GoogleWiFiDesktop](https://github.com/AngeloD2022/GoogleWiFiDesktop) | Desktop client for Google WiFi routers | 114 | 🗄️ | C++ |
 | [uiprotect](https://github.com/uilibs/uiprotect) | Unofficial Python API for UniFi Protect | 105 | 🟢 | Python |
 | [ha-glinet4-integration](https://github.com/HarvsG/ha-glinet4-integration) | Home Assistant integration for GL.iNet 4.x routers via their reverse-engineered web API | 101 | 🟢 | Python |
@@ -535,7 +535,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [FIOS-G1100](https://github.com/ozwaldorf/FIOS-G1100) | Reverse engineering information for the Verizon FIOS-G1100 router | 72 | 🔴 |  |
 | [Winbox_Protocol_Dissector](https://github.com/Cisco-Talos/Winbox_Protocol_Dissector) | Wireshark dissector for the MikroTik Winbox protocol | 72 | 🔴 | Lua |
 | [huawei-utility-page](https://github.com/andreluis034/huawei-utility-page) | Web page with utility tools for Huawei LTE routers | 69 | 🔴 | JavaScript |
-| [FreshTomato (MIPS)](https://github.com/FreshTomato-Project/freshtomato-mips) | Alternative open-source firmware for Broadcom-based MIPS routers | 63 | 🟢 | C |
+| [FreshTomato (MIPS)](https://github.com/FreshTomato-Project/freshtomato-mips) | Alternative open-source firmware for Broadcom-based MIPS routers | 64 | 🟢 | C |
 | [RouterManager](https://github.com/BobsWang/RouterManager) | Android app that manages TP-Link, Tenda, Netcore and Mercury routers via their web interfaces | 60 | 🔴 | Java |
 | [ZTE-MC-Home-assistant-repo](https://github.com/Kajkac/ZTE-MC-Home-assistant-repo) | Home Assistant integration for ZTE MC801A, MC888, MC889 and G5 5G routers | 59 | 🟢 | Python |
 | [cable_modem_monitor](https://github.com/solentlabs/cable_modem_monitor) | Cable modem signal monitoring by parsing each modem model's local web interface | 58 | 🟢 | Python |
