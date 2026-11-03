@@ -502,5 +502,47 @@
   "name": "pykorail",
   "removed": "2026-11-02",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/simple64/simple64",
+  "name": "simple64",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/gcsmith/Superman64Decomp",
+  "name": "Superman 64 decomp",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/bluisblu/pvz",
+  "name": "Plants vs. Zombies",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ewanc26/smbc",
+  "name": "Super Mario Bros. disassembly",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/thatcalikid760/TTT2-Recomp",
+  "name": "TTT2-Recomp (Tekken Tag Tournament 2)",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/logantgt/EcpEmuServer",
+  "name": "EcpEmuServer",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/segfault-bilibili/magireco-cn-local-server",
+  "name": "magireco-cn-local-server",
+  "removed": "2026-11-03",
+  "reason": "not found on GitHub"
  }
 ]
