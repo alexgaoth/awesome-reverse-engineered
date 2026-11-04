@@ -28,6 +28,8 @@ Agents and tools like [REA](https://github.com/morluto/rea) and [Ghidra](https:/
 2. **Found it?** Use it, fix it, and report breakage upstream. One maintained client beats ten private scripts.
 3. **Not there?** Do the work, publish it as open source, then [add it here](#contributing) so the next person starts where you stopped.
 
+Can agents do this work themselves? [Interop-Bench](bench/) tests it on generated protocols and file formats, and scores it by running the code.
+
 ## What's inside
 
 **17,716 projects** with **12.3M** GitHub stars between them: 10,105 active, 2,485 slowing down, 3,494 dormant, 1,177 archived. Top languages: Python (4,022), C++ (2,666), C (2,528), JavaScript (1,057), C# (957).
