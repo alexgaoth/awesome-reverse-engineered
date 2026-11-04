@@ -70,3 +70,30 @@ A second run (v0.2) changed the design again. Its protocol levels 4 and 5 are no
 
 - **Removed key extraction and encryption from protocol levels 4 and 5.** Safety systems stopped runs on these levels: one Sonnet 5.5 run ended, and two Opus 5.5 runs fell back to Opus 4.8. A refusal measures policy, not skill. More importantly, the index excludes decryption and security bypasses, so the benchmark should not reward them either. The levels were not reworded to get past a filter: the sensitive content is gone. Their difficulty now comes from messy evidence and from reading a public firmware's integrity check.
 - **Added K8.** Refusals are recorded separately and never counted as skill failures. A run must report the model that actually answered, not the one requested.
+
+## Pilot outcome
+
+The pilot ended on 2026-11-04. Results and caveats are in [README.md](README.md).
+
+| # | Result | Evidence |
+|--:|---|---|
+| K1 | Pass | Tests: reference 100%, empty 0%, replay under 15% |
+| K2 | Pass | Tests: the same seed gives the same instance |
+| K3 | Pass | Haiku solved no format level above 2, Sonnet no format level 4 |
+| K4 | Pass | All models solved level 1 on both tracks and levels above it |
+| K5 | Pass | Scores differ on format levels 3, 4 and 5, and on protocol level 5. See the effort caveat below |
+| K6 | Pass | Median run: 4.2 minutes, 110k tokens. Tokens are peak context, because subagent runs report no total |
+| K7 | **Failed, then fixed** | See below |
+| K8 | Pass | Final levels: no refusal and no model replacement. K8 was added after the second run, so it was not fixed in advance |
+
+**K7.** The first audit found nine counted runs that touched a path outside their job folder. Seven Opus runs kept their own helper scripts or background output in a session folder or a temp folder. Two Sonnet runs read the output file of their own background command. The audit then read the full transcripts of all runs, and no run referenced harness code, results or another job. The criterion has no exception for harmless reads, so these runs do not count. Their cells were run again on new instances, with a brief that also names scratchpads and background output. Opus format levels 3 and 5 already had two clean repeats, so they were not run again. One of the seven reruns (Sonnet, format level 5) read its own background output again and was also excluded, which left that cell with two counted runs. No further reruns were made, so that a cell could not be repeated until it looked good. The ten runs and their scores are in `results/pilot-2026-11-excluded.jsonl`.
+
+Two Haiku runs stayed in. One called a session tool that failed validation and returned nothing. One called a tool that suggests a task, which reads nothing. Both broke the instruction to use only file and shell tools, but neither read outside the folder. K7 is about reads.
+
+**Effort is not equal, and no criterion covers it.** Each model ran at its default effort for this environment: Opus xhigh, Haiku and Sonnet medium. K5 therefore shows that three configurations differ, not that three models differ. A fair model comparison needs equal effort.
+
+**Levels are not a strict ladder.** Sonnet solved format level 5 in 1 of 2 counted runs and level 4 in 0 of 3. Level 5 needs only part of the format, plus a CRC. Read a level as a task type.
+
+## Change log after the pilot
+
+- **Live unit refuses names over 32 bytes.** One run sent a 254-byte name, and the status reply then overflowed its one-byte length field. No hidden test uses long names, and that run still scored 100%, so no result changed.
