@@ -30,6 +30,8 @@ Los agentes y herramientas como [REA](https://github.com/morluto/rea) y [Ghidra]
 2. **¿Lo encontraste?** Úsalo, mejóralo y reporta los fallos al proyecto original. Un cliente mantenido vale más que diez scripts privados.
 3. **¿No está?** Haz el trabajo, publícalo como código abierto y [añádelo aquí](#contribuir) para que la siguiente persona empiece donde tú terminaste.
 
+¿Pueden los agentes hacer este trabajo por sí solos? [Interop-Bench](bench/) lo mide con protocolos y formatos de archivo generados, ejecutando el código.
+
 ## Qué contiene
 
 **17,716 proyectos** que suman **12.3 M** de estrellas en GitHub: 10,105 activos, 2,485 en desaceleración, 3,494 inactivos, 1,177 archivados. Lenguajes principales: Python (4,022), C++ (2,666), C (2,528), JavaScript (1,057), C# (957).

@@ -332,6 +332,7 @@ def main():
 
         R += [f"## {t['h_before']}", "", t["before_p"], ""]
         R += [f"{i}. " + x.format(site=SITE, a_agent=a_agent, a_contrib=a_contrib) for i, x in enumerate(t["before_steps"], 1)] + [""]
+        R += [t["bench_line"], ""]
 
         R += [f"## {t['h_inside']}", "",
               t["inside_p"].format(n=f"{n:,}", stars=f"{total_stars / 1e6:.1f}", a=f"{hc['active']:,}", s=f"{hc['slow']:,}",

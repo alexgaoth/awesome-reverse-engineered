@@ -30,6 +30,8 @@ Agent và các công cụ như [REA](https://github.com/morluto/rea) và [Ghidra
 2. **Tìm thấy rồi?** Dùng nó, sửa nó và báo lỗi cho dự án gốc. Một client được bảo trì tốt hơn mười script riêng lẻ.
 3. **Chưa có?** Tự làm, công bố dưới dạng mã nguồn mở, rồi [thêm vào đây](#đóng-góp) để người sau bắt đầu từ chỗ bạn dừng lại.
 
+Agent có tự làm được việc này không? [Interop-Bench](bench/) đo điều đó trên các giao thức và định dạng tệp được sinh tự động, và chấm điểm bằng cách chạy mã.
+
 ## Có gì bên trong
 
 **17,716 dự án** với tổng cộng **12.3M** sao GitHub: 10,105 đang hoạt động, 2,485 chậm lại, 3,494 ngừng phát triển, 1,177 đã lưu trữ. Ngôn ngữ phổ biến: Python (4,022), C++ (2,666), C (2,528), JavaScript (1,057), C# (957).
