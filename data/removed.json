@@ -562,5 +562,17 @@
   "name": "Summoner",
   "removed": "2026-11-04",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ZooLSmith/mgrr-decomp",
+  "name": "Metal Gear Rising: Revengeance decomp",
+  "removed": "2026-11-05",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pseudo-r/Public-ESPN-API",
+  "name": "Public-ESPN-API",
+  "removed": "2026-11-05",
+  "reason": "not found on GitHub"
  }
 ]

@@ -23,11 +23,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [alphaTab](https://github.com/CoderLine/alphaTab) | Music notation and tab rendering library that imports Guitar Pro 3-8 files | 1,902 | 🟢 | TypeScript |
+| [alphaTab](https://github.com/CoderLine/alphaTab) | Music notation and tab rendering library that imports Guitar Pro 3-8 files | 1,903 | 🟢 | TypeScript |
 | [TuxGuitar](https://github.com/helge17/tuxguitar) | Open-source tablature editor with Guitar Pro and Power Tab importers | 1,613 | 🟢 | Java |
 | [Power Tab Editor](https://github.com/powertab/powertabeditor) | Guitar tablature editor that imports Power Tab and Guitar Pro files | 639 | 🟢 | C++ |
-| [PyGuitarPro](https://github.com/Perlence/PyGuitarPro) | Reads, writes and manipulates Guitar Pro GP3/GP4/GP5 tablature files | 371 | 🟢 | Python |
-| [Crate Digger](https://github.com/Deep-Symmetry/crate-digger) | Java library for parsing Pioneer rekordbox export databases and track analysis files | 239 | 🟢 | Java |
+| [PyGuitarPro](https://github.com/Perlence/PyGuitarPro) | Reads, writes and manipulates Guitar Pro GP3/GP4/GP5 tablature files | 373 | 🟢 | Python |
+| [Crate Digger](https://github.com/Deep-Symmetry/crate-digger) | Java library for parsing Pioneer rekordbox export databases and track analysis files | 240 | 🟢 | Java |
 | [dawtool](https://github.com/offlinemark/dawtool) | Reverse engineered parsers for Ableton Live and FL Studio project files | 230 | 🟡 | Python |
 | [PyFLP](https://github.com/demberto/PyFLP) | Parser and editor for FL Studio project (.flp) files | 223 | 🟢 | Python |
 | [rekordcrate](https://github.com/Holzhaus/rekordcrate) | Rust library for parsing Pioneer rekordbox device exports | 219 | 🟢 | Rust |
@@ -42,7 +42,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [TraktorMappingFileFormat](https://github.com/ivanz/TraktorMappingFileFormat) | Reverse engineered Traktor Pro .tsi controller mapping file format | 57 | 🔴 |  |
 | [guitarpro (Rust)](https://github.com/slundi/guitarpro) | Rust library to parse and write Guitar Pro files | 55 | 🟢 | Rust |
 | [GuitarPro-to-Midi](https://github.com/alexsteb/GuitarPro-to-Midi) | Converts Guitar Pro 3-7 files to MIDI, simulating bends and effects | 55 | 🟡 | C# |
-| [logic2ableton](https://github.com/Evilander/logic2ableton) | Converts Logic Pro .logicx projects to Ableton Live .als sets | 51 | 🟢 | Python |
+| [logic2ableton](https://github.com/Evilander/logic2ableton) | Converts Logic Pro .logicx projects to Ableton Live .als sets | 53 | 🟢 | Python |
 | [gp-parser](https://github.com/dwursteisen/gp-parser) | Guitar Pro file parser | 45 | 🔴 | Java |
 | [MPC Maid](https://github.com/cyriux/mpcmaid) | Editor for Akai MPC 1000/2500/500 program files and samples | 45 | 🔴 | Java |
 | [nkxtract](https://github.com/maxton/nkxtract) | Extracts Native Instruments Kontakt NKX monolith sample containers | 31 | 🔴 | C# |
@@ -69,11 +69,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ExifTool](https://github.com/exiftool/exiftool) | Metadata reader/writer with extensive reverse-engineered camera maker notes | 5,238 | 🟢 | Perl |
+| [ExifTool](https://github.com/exiftool/exiftool) | Metadata reader/writer with extensive reverse-engineered camera maker notes | 5,239 | 🟢 | Perl |
 | [LibRaw](https://github.com/LibRaw/LibRaw) | Library for decoding RAW files from hundreds of digital camera models | 1,621 | 🟢 | C++ |
 | [Exiv2](https://github.com/Exiv2/exiv2) | C++ image metadata library including proprietary maker note decoding | 1,171 | 🟢 | C++ |
-| [dnglab](https://github.com/dnglab/dnglab) | Converts camera RAW files to DNG with its own reverse-engineered decoders (Rust) | 710 | 🟢 | Rust |
-| [rawspeed](https://github.com/darktable-org/rawspeed) | Fast camera RAW decoding library used by darktable | 463 | 🟢 | C++ |
+| [dnglab](https://github.com/dnglab/dnglab) | Converts camera RAW files to DNG with its own reverse-engineered decoders (Rust) | 711 | 🟢 | Rust |
+| [rawspeed](https://github.com/darktable-org/rawspeed) | Fast camera RAW decoding library used by darktable | 462 | 🟢 | C++ |
 | [MLV-App](https://github.com/ilia3101/MLV-App) | Processing app for Magic Lantern MLV raw video files | 355 | 🟢 | C++ |
 | [canon_cr3](https://github.com/lclevy/canon_cr3) | Reverse-engineered description of the Canon CR3 RAW file format | 333 | 🟢 | Python |
 | [gopro-utils](https://github.com/stilldavid/gopro-utils) | Tools to parse GPMF metadata from GoPro cameras | 255 | 🟡 | Go |
@@ -99,8 +99,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [innodb_ruby](https://github.com/jeremycole/innodb_ruby) | Ruby parser for MySQL InnoDB on-disk file formats | 1,794 | 🟢 | Ruby |
-| [pyreadstat](https://github.com/Roche/pyreadstat) | Python package to read/write SAS, SPSS and Stata files (wraps ReadStat) | 429 | 🟢 | C |
+| [innodb_ruby](https://github.com/jeremycole/innodb_ruby) | Ruby parser for MySQL InnoDB on-disk file formats | 1,795 | 🟢 | Ruby |
+| [pyreadstat](https://github.com/Roche/pyreadstat) | Python package to read/write SAS, SPSS and Stata files (wraps ReadStat) | 430 | 🟢 | C |
 | [ReadStat](https://github.com/WizardMac/ReadStat) | C library and CLI for reading SAS, Stata and SPSS data files, including reverse-engineered SAS7BDAT | 309 | 🟢 | C |
 | [dbf (Ruby)](https://github.com/infused/dbf) | Ruby library for reading dBase, xBase, Clipper and FoxPro DBF files | 281 | 🟢 | Ruby |
 | [dbfread](https://github.com/olemb/dbfread) | Python library for reading dBase/FoxPro DBF files | 244 | 🟡 | Python |
@@ -133,7 +133,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [psd.js](https://github.com/meltingice/psd.js) | Photoshop PSD parser for Node.js and browsers | 2,838 | 🟡 | CoffeeScript |
-| [ag-psd](https://github.com/Agamnentzar/ag-psd) | JavaScript library for reading and writing Photoshop PSD files, including layers and effects | 738 | 🟢 | TypeScript |
+| [ag-psd](https://github.com/Agamnentzar/ag-psd) | JavaScript library for reading and writing Photoshop PSD files, including layers and effects | 739 | 🟢 | TypeScript |
 | [acextract](https://github.com/bartoszj/acextract) | Lists and extracts content from Apple Assets.car compiled asset catalogs | 435 | 🔴 | Swift |
 | [psd (Rust)](https://github.com/chinedufn/psd) | Rust crate for parsing Photoshop PSD files and their layers | 285 | 🟡 | Rust |
 | [fig2sketch](https://github.com/sketch-hq/fig2sketch) | Converts Figma .fig files into Sketch documents by parsing the undocumented .fig format | 173 | 🟢 | Python |
@@ -158,12 +158,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [calibre](https://github.com/kovidgoyal/calibre) | E-book manager with readers for many proprietary formats (MOBI, LIT, LRF, PDB, KFX via plugin) | 26,347 | 🟢 | Python |
-| [kepubify](https://github.com/pgaskin/kepubify) | Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion | 899 | 🟢 | Go |
+| [calibre](https://github.com/kovidgoyal/calibre) | E-book manager with readers for many proprietary formats (MOBI, LIT, LRF, PDB, KFX via plugin) | 26,353 | 🟢 | Python |
+| [kepubify](https://github.com/pgaskin/kepubify) | Standalone EPUB to Kobo KEPUB converter replicating Kobo's own conversion | 898 | 🟢 | Go |
 | [libmobi](https://github.com/bfabiszewski/libmobi) | C library for handling Kindle MOBI/AZW3/KF8 e-book formats | 487 | 🟡 | C |
-| [fb2cng](https://github.com/rupor-github/fb2cng) | FB2 converter to EPUB, KEPUB and Kindle AZW8/KFX formats | 89 | 🟢 | Go |
+| [fb2cng](https://github.com/rupor-github/fb2cng) | FB2 converter to EPUB, KEPUB and Kindle AZW8/KFX formats | 90 | 🟢 | Go |
+| [boko](https://github.com/zacharydenton/boko) | Rust converter from EPUB to Kindle KFX, AZW3 and MOBI | 80 | 🟢 | Rust |
 | [mobi](https://github.com/iscc/mobi) | Python library to unpack Kindle (kindlegen) e-books | 78 | 🟡 | Python |
-| [boko](https://github.com/zacharydenton/boko) | Rust converter from EPUB to Kindle KFX, AZW3 and MOBI | 74 | 🟢 | Rust |
 | [KFX Output (mirror)](https://github.com/dstaley/calibre-kfx-output) | Mirror of jhowell's calibre plugin that writes Kindle KFX books | 29 | 🔴 | Python |
 | [kdegraphics-mobipocket](https://invent.kde.org/graphics/kdegraphics-mobipocket) | Library for reading Mobipocket e-book files |  | ⚪ |  |
 | [libe-book](https://sourceforge.net/projects/libebook) | Document Liberation library for legacy e-book formats (eReader, Plucker, TealDoc, LRF and more) |  | ⚪ |  |
@@ -172,8 +172,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) | Viewer for proprietary laptop/phone boardview files (.brd, .bdv, .fz and others) | 1,923 | 🟢 | C |
-| [easyeda2kicad.py](https://github.com/uPesy/easyeda2kicad.py) | Converts EasyEDA/LCSC component symbols, footprints and 3D models to KiCad | 1,746 | 🟢 | Python |
+| [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) | Viewer for proprietary laptop/phone boardview files (.brd, .bdv, .fz and others) | 1,925 | 🟢 | C |
+| [easyeda2kicad.py](https://github.com/uPesy/easyeda2kicad.py) | Converts EasyEDA/LCSC component symbols, footprints and 3D models to KiCad | 1,750 | 🟢 | Python |
 | [altium2kicad](https://github.com/thesourcerer8/altium2kicad) | Converts Altium PCB and schematic files to KiCad | 957 | 🗄️ | Perl |
 | [easyeda2kicad](https://github.com/wokwi/easyeda2kicad) | Converts EasyEDA schematics and PCB designs to KiCad | 338 | 🟡 | TypeScript |
 | [altium.js](https://github.com/gsuberland/altium_js) | Browser-based parser and renderer for Altium SchDoc schematics | 145 | 🟡 | JavaScript |
@@ -190,10 +190,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) | Unpacks and repacks Android adb backup (.ab) files | 2,610 | 🟢 | Java |
-| [apfs-fuse](https://github.com/sgan81/apfs-fuse) | FUSE driver for reading Apple APFS volumes | 2,168 | 🟡 | C++ |
-| [dislocker](https://github.com/Aorimn/dislocker) | FUSE driver to read/write BitLocker-encrypted volumes on Linux/macOS | 1,955 | 🟢 | C |
-| [lessmsi](https://github.com/activescott/lessmsi) | Views and extracts the contents of Windows Installer (.msi) files | 1,772 | 🟢 | C# |
+| [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) | Unpacks and repacks Android adb backup (.ab) files | 2,611 | 🟢 | Java |
+| [apfs-fuse](https://github.com/sgan81/apfs-fuse) | FUSE driver for reading Apple APFS volumes | 2,170 | 🟡 | C++ |
+| [dislocker](https://github.com/Aorimn/dislocker) | FUSE driver to read/write BitLocker-encrypted volumes on Linux/macOS | 1,957 | 🟢 | C |
+| [lessmsi](https://github.com/activescott/lessmsi) | Views and extracts the contents of Windows Installer (.msi) files | 1,773 | 🟢 | C# |
 | [NTFS-3G](https://github.com/tuxera/ntfs-3g) | Read/write NTFS driver for Linux/macOS | 1,533 | 🟢 | C |
 | [innoextract](https://github.com/dscharrer/innoextract) | Unpacks installers created by Inno Setup without running them | 1,406 | 🟡 | C++ |
 | [exfat (relan)](https://github.com/relan/exfat) | Free FUSE exFAT implementation, written before Microsoft published the spec | 889 | 🟢 | C |
@@ -210,14 +210,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [libfsrefs](https://github.com/libyal/libfsrefs) | Library and tools to access Microsoft ReFS | 201 | 🟢 | C |
 | [vpk](https://github.com/ValvePython/vpk) | Open, search, extract and create Valve VPK archives in Python | 191 | 🔴 | Python |
 | [fatx](https://github.com/XboxDev/fatx) | Original Xbox FATX filesystem library with Python bindings, FUSE driver and GUI | 185 | 🟢 | C |
-| [AmiFUSE](https://github.com/reinauer/AmiFUSE) | Native Amiga filesystems on macOS, Linux and Windows via FUSE | 153 | 🟢 | Python |
+| [AmiFUSE](https://github.com/reinauer/AmiFUSE) | Native Amiga filesystems on macOS, Linux and Windows via FUSE | 154 | 🟢 | Python |
 | [libregf](https://github.com/libyal/libregf) | Library and tools for the Windows NT Registry file (REGF) format | 142 | 🟢 | C |
-| [XADMaster](https://github.com/MacPaw/XADMaster) | Unarchiver engine supporting StuffIt, DiskDoubler, Compact Pro and many legacy archive formats | 136 | 🟢 | C |
+| [XADMaster](https://github.com/MacPaw/XADMaster) | Unarchiver engine supporting StuffIt, DiskDoubler, Compact Pro and many legacy archive formats | 137 | 🟢 | C |
 | [libvshadow](https://github.com/libyal/libvshadow) | Library and tools for Windows Volume Shadow Snapshot (VSS) format | 120 | 🟢 | C |
 | [gho](https://github.com/nyarime/gho) | Pure Go Norton Ghost GHO disk image parser | 90 | 🟢 | Go |
 | [apfs.ksy](https://github.com/cugu/apfs.ksy) | APFS filesystem format for Kaitai Struct | 82 | 🗄️ |  |
-| [go-ntfs](https://github.com/Velocidex/go-ntfs) | Pure Go NTFS file system parser | 79 | 🟢 | Go |
-| [hbkit](https://github.com/YordiLorenzo/hbkit) | Recovers files from Synology Hyper Backup archives without Synology software | 72 | 🟢 | Python |
+| [go-ntfs](https://github.com/Velocidex/go-ntfs) | Pure Go NTFS file system parser | 80 | 🟢 | Go |
+| [hbkit](https://github.com/YordiLorenzo/hbkit) | Recovers files from Synology Hyper Backup archives without Synology software | 74 | 🟢 | Python |
 | [pc98-disk-tools](https://github.com/barbeque/pc98-disk-tools) | Tools for common PC-98 disk image formats | 72 | 🟢 | Python |
 | [titl](https://github.com/josephw/titl) | Tools for iTunes Libraries | 66 | 🟡 | Java |
 | [DynamicDiskPartitioner](https://github.com/TalAloni/DynamicDiskPartitioner) | Manage Windows dynamic disks and volumes (LDM) | 63 | 🟡 | C# |
@@ -245,15 +245,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers with a pattern language for binary formats | 55,745 | 🟢 | C++ |
-| [fq](https://github.com/wader/fq) | jq-like tool, language and decoders for inspecting binary formats | 10,626 | 🟢 | Go |
-| [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) | Declarative language to describe binary formats and generate parsers | 4,729 | 🟢 | Shell |
+| [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers with a pattern language for binary formats | 55,755 | 🟢 | C++ |
+| [fq](https://github.com/wader/fq) | jq-like tool, language and decoders for inspecting binary formats | 10,627 | 🟢 | Go |
+| [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) | Declarative language to describe binary formats and generate parsers | 4,730 | 🟢 | Shell |
 | [ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) | Pattern files describing many binary file formats for ImHex | 1,039 | 🟢 | ImHex Pattern Language |
 | [Kaitai Struct Formats](https://github.com/kaitai-io/kaitai_struct_formats) | Library of .ksy descriptions of hundreds of binary file formats | 795 | 🟢 | Kaitai Struct |
 | [kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) | Compiler that turns Kaitai Struct .ksy format descriptions into parsers for many languages | 670 | 🟢 | Scala |
 | [Deark](https://github.com/jsummers/deark) | Extracts and decodes hundreds of legacy file, archive and image formats | 231 | 🟢 | C |
 | [kbdasm](https://github.com/grompe/kbdasm) | Assembler/disassembler for Windows keyboard layout DLLs | 94 | 🔴 | Assembly |
-| [serum-preset-packager](https://github.com/KennethWussmann/serum-preset-packager) | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 70 | 🟢 | Python |
+| [serum-preset-packager](https://github.com/KennethWussmann/serum-preset-packager) | Reverse-engineered Serum 2 synth preset format; converts to/from JSON | 71 | 🟢 | Python |
 | [bitfiltrator](https://github.com/epfl-vlsc/bitfiltrator) | General approach for reverse-engineering Xilinx FPGA bitstream formats | 60 | 🔴 | Python |
 | [nextion-font-editor](https://github.com/hagronnestad/nextion-font-editor) | Nextion .zi font format documentation, parser, generator and editor | 59 | 🔴 | C# |
 | [xnb_parse](https://github.com/fesh0r/xnb_parse) | XNA xnb/xact file parser and FEZ extractor/viewer | 49 | 🔴 | Python |
@@ -262,7 +262,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gameformats](https://github.com/dstien/gameformats) | Tools and specs for reverse-engineered game file formats | 31 | 🔴 | C++ |
 | [pyxbe](https://github.com/XboxDev/pyxbe) | Python 3 library to read and write XBE, the original Xbox executable format | 29 | 🟢 | Python |
 | [fseq-file-format](https://github.com/Cryptkeeper/fseq-file-format) | Reverse-engineered documentation of the Falcon sequence (FSEQ) v2 file format | 24 | 🟡 |  |
-| [packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format) | Byte-exact codec for Cisco Packet Tracer .pkt/.pka lab files | 15 | 🟢 | Python |
+| [packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format) | Byte-exact codec for Cisco Packet Tracer .pkt/.pka lab files | 17 | 🟢 | Python |
 | [murmelbahn](https://github.com/lfrancke/murmelbahn) | Reverse-engineered Gravitrax marble run course file format | 8 | 🟢 | Rust |
 | [XBEpy](https://github.com/LoveMHz/XBEpy) | Library for viewing, extracting and validating data inside original Xbox XBE executables | 8 | 🔴 | Python |
 | [RKD Telemetry Extractor](https://github.com/sam-dumont/rkd-telemetry-extractor) | Decoder for the proprietary .rkd telemetry format of Race-Keeper video recorders | 6 | 🟢 | Go |
@@ -275,32 +275,32 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [AssetStudio](https://github.com/Perfare/AssetStudio) | Explore and extract Unity assets and assetbundles | 15,588 | 🗄️ | C# |
-| [Assimp](https://github.com/assimp/assimp) | Asset importer for 40+ 3D formats, including proprietary FBX, 3DS and Blender files | 13,303 | 🟢 | C++ |
-| [FModel](https://github.com/4sval/FModel) | Unreal Engine archive (.pak/.utoc) explorer | 3,337 | 🟢 | C# |
+| [Assimp](https://github.com/assimp/assimp) | Asset importer for 40+ 3D formats, including proprietary FBX, 3DS and Blender files | 13,306 | 🟢 | C++ |
+| [FModel](https://github.com/4sval/FModel) | Unreal Engine archive (.pak/.utoc) explorer | 3,339 | 🟢 | C# |
 | [psd.rb](https://github.com/layervault/psd.rb) | Parse Photoshop PSD files in Ruby | 3,114 | 🔴 | Ruby |
-| [LibreDWG](https://github.com/LibreDWG/libredwg) | GNU library to read and write Autodesk DWG CAD files | 1,657 | 🟢 | C |
+| [LibreDWG](https://github.com/LibreDWG/libredwg) | GNU library to read and write Autodesk DWG CAD files | 1,659 | 🟢 | C |
 | [psd-tools](https://github.com/psd-tools/psd-tools) | Python package for reading Adobe Photoshop PSD files | 1,485 | 🟢 | Python |
 | [ufbx](https://github.com/ufbx/ufbx) | Single-file loader for Autodesk FBX files | 1,431 | 🟢 | C |
-| [OpenFBX](https://github.com/nem0/OpenFBX) | Lightweight open source FBX importer | 1,352 | 🟢 | C |
 | [@webtoon/psd](https://github.com/webtoon/psd) | Fast zero-dependency PSD parser for the web and Node.js | 1,351 | 🟡 | TypeScript |
+| [OpenFBX](https://github.com/nem0/OpenFBX) | Lightweight open source FBX importer | 1,351 | 🟢 | C |
 | [CUE4Parse](https://github.com/FabianFG/CUE4Parse) | C# parser for Unreal Engine 4/5 archives and assets | 679 | 🟢 | C# |
 | [Embroidermodder](https://github.com/Embroidermodder/Embroidermodder) | Free machine embroidery editor supporting many proprietary embroidery formats | 640 | 🟢 | C |
 | [sK1](https://github.com/sk1-project/sk1-wx) | Vector graphics editor with reverse-engineered CorelDRAW CDR and other proprietary importers | 335 | 🟢 | Python |
 | [figma-to-json](https://github.com/yagudaev/figma-to-json) | Reads and writes Figma's binary .fig (Kiwi) files as JSON | 332 | 🟡 | TypeScript |
 | [pyembroidery](https://github.com/EmbroidePy/pyembroidery) | Reads and writes many proprietary machine embroidery formats (PES, DST, JEF, EXP and more) | 319 | 🟡 | Python |
-| [SWFTools](https://github.com/swftools/swftools) | Utilities for editing and generating Adobe Flash SWF files | 310 | 🟢 | C |
+| [SWFTools](https://github.com/swftools/swftools) | Utilities for editing and generating Adobe Flash SWF files | 311 | 🟢 | C |
 | [mviewer](https://github.com/majimboo/mviewer) | Viewer, converter and glTF exporter for Marmoset .mview scenes | 307 | 🟢 | Rust |
 | [libdxfrw](https://github.com/LibreCAD/libdxfrw) | C++ library to read/write DXF and read AutoCAD DWG files, used by LibreCAD | 295 | 🟢 | C++ |
 | [MHC2](https://github.com/dantmnf/MHC2) | Information on Windows next-generation color management and the MHC2 ICC tag | 292 | 🟡 | C# |
 | [UniConvertor](https://github.com/sk1-project/uniconvertor) | Universal vector graphics translator with reverse-engineered CorelDRAW CDR/CMX importers | 178 | 🟢 | Python |
-| [OpenSKP](https://github.com/iamahsanmehmood/openskp) | Open-source SketchUp .skp reader/writer and converter that does not need the Trimble SDK | 173 | 🟢 | Python |
+| [OpenSKP](https://github.com/iamahsanmehmood/openskp) | Open-source SketchUp .skp reader/writer and converter that does not need the Trimble SDK | 174 | 🟢 | Python |
 | [InventorLoader](https://github.com/jmplonka/InventorLoader) | FreeCAD workbench that imports Autodesk Inventor files | 171 | 🟡 | Python |
 | [MobiclipDecoder](https://github.com/Gericom/MobiclipDecoder) | Decoder for the proprietary Mobiclip video codec used in Nintendo DS and Wii games | 113 | 🔴 | C# |
+| [rvt-rs](https://github.com/DrunkOnJava/rvt-rs) | Clean-room reader for Autodesk Revit files without Revit | 101 | 🟢 | Rust |
 | [Rainbow](https://github.com/marco-calautti/Rainbow) | Texture format converter for various game consoles' graphics formats | 99 | 🔴 | C# |
-| [rvt-rs](https://github.com/DrunkOnJava/rvt-rs) | Clean-room reader for Autodesk Revit files without Revit | 99 | 🟢 | Rust |
 | [libredwg-web](https://github.com/mlightcad/libredwg-web) | WebAssembly/JavaScript DWG/DXF parser built on LibreDWG | 84 | 🟢 | C |
+| [voxel-viewer](https://github.com/denysdovhan/voxel-viewer) | Web viewer for CBCT volumes and scan folders, including Sirona GALILEOS formats | 84 | 🟢 | TypeScript |
 | [libembroidery](https://github.com/Embroidermodder/libembroidery) | C library for reading and writing machine embroidery design files | 83 | 🟢 | C |
-| [voxel-viewer](https://github.com/denysdovhan/voxel-viewer) | Web viewer for CBCT volumes and scan folders, including Sirona GALILEOS formats | 83 | 🟢 | TypeScript |
 | [nd2](https://github.com/tlambert03/nd2) | Full-featured reader for Nikon NIS-Elements .nd2 microscopy files | 81 | 🟢 | Python |
 | [warcraft-rs](https://github.com/wowemulation-dev/warcraft-rs) | Unified CLI tool for World of Warcraft file formats. Integrates file format libraries for parsing, conversion, and va... | 69 | 🟢 | Rust |
 | [ColorPaletteCodable](https://github.com/dagronf/ColorPaletteCodable) | Reader/writer for many color palette and gradient file formats | 58 | 🟢 | Swift |
@@ -331,7 +331,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [GDAL](https://github.com/OSGeo/gdal) | Geospatial format library including the reverse-engineered OpenFileGDB and MapInfo drivers | 6,131 | 🟢 | C++ |
+| [GDAL](https://github.com/OSGeo/gdal) | Geospatial format library including the reverse-engineered OpenFileGDB and MapInfo drivers | 6,132 | 🟢 | C++ |
 | [GPXSee](https://github.com/tumic0/GPXSee) | GPS log and map viewer that reads Garmin IMG, OziExplorer, TrekBuddy and many other formats | 1,256 | 🟢 | C++ |
 | [GPSBabel](https://github.com/GPSBabel/gpsbabel) | Converts between many proprietary GPS formats (Garmin, Magellan, OziExplorer, TomTom) | 555 | 🟢 | C++ |
 | [QMapShack](https://github.com/Maproom/qmapshack) | GIS and trip-planning app that renders Garmin IMG vector maps and reads many GPS formats | 446 | 🟢 | C++ |
@@ -355,7 +355,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 66,475 | 🟢 | C |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 66,548 | 🟢 | C |
 | [OpenJOC](https://github.com/chyinan/OpenJOC) | Independent clean-room E-AC-3 JOC decoder in Rust, with OAMD metadata and reconstruction-basis decoding. | 264 | 🟢 | Rust |
 | [openaptx](https://github.com/arkq/openaptx) | Reverse engineered aptX and aptX HD audio codec | 165 | 🟢 | C |
 | [MQA_identifier](https://github.com/purpl3F0x/MQA_identifier) | Tool to identify MQA encoded audio via codec reverse engineering | 139 | 🟢 | C++ |
@@ -369,20 +369,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [SheetJS](https://github.com/SheetJS/sheetjs) | Spreadsheet toolkit reading XLS, XLSB, Lotus, Quattro Pro and many legacy formats | 36,340 | 🟡 |  |
-| [LibreOffice](https://github.com/LibreOffice/core) | Office suite with import filters for reverse-engineered MS Office and other formats | 4,595 | 🟢 | C++ |
-| [oletools](https://github.com/decalage2/oletools) | Python tools to analyze MS OLE2 files and Office documents | 3,444 | 🟢 | Python |
+| [SheetJS](https://github.com/SheetJS/sheetjs) | Spreadsheet toolkit reading XLS, XLSB, Lotus, Quattro Pro and many legacy formats | 36,344 | 🟡 |  |
+| [LibreOffice](https://github.com/LibreOffice/core) | Office suite with import filters for reverse-engineered MS Office and other formats | 4,602 | 🟢 | C++ |
+| [oletools](https://github.com/decalage2/oletools) | Python tools to analyze MS OLE2 files and Office documents | 3,443 | 🟢 | Python |
 | [Apache POI](https://github.com/apache/poi) | Java API for Microsoft binary and OOXML Office formats | 2,284 | 🟢 | Java |
 | [xlrd](https://github.com/python-excel/xlrd) | Python library for reading legacy Excel BIFF (.xls) files | 2,206 | 🟢 | Python |
 | [hwp.js](https://github.com/hahnlee/hwp.js) | Open-source web viewer and parser for Hancom HWP documents | 1,307 | 🟡 | TypeScript |
-| [MDB Tools](https://github.com/mdbtools/mdbtools) | Read Microsoft Access databases on Unix | 1,182 | 🟢 | C |
-| [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) | Unpacks Amazon Kindle/Kindlegen MOBI/AZW3 ebooks | 1,102 | 🟢 | Python |
+| [MDB Tools](https://github.com/mdbtools/mdbtools) | Read Microsoft Access databases on Unix | 1,183 | 🟢 | C |
+| [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) | Unpacks Amazon Kindle/Kindlegen MOBI/AZW3 ebooks | 1,101 | 🟢 | Python |
 | [msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor) | Extracts emails and attachments from Outlook .msg files | 857 | 🟢 | Python |
 | [MSGReader](https://github.com/Sicos1977/MSGReader) | C# reader for Outlook .msg and .eml files without Outlook | 557 | 🟢 | C# |
 | [apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) | Parser for Apple Notes databases from iOS/macOS backups | 545 | 🟢 | Ruby |
 | [libesedb](https://github.com/libyal/libesedb) | Library and tools for Extensible Storage Engine (ESE/EDB) databases | 381 | 🟢 | C |
 | [libpff](https://github.com/libyal/libpff) | Library and tools for Outlook PFF/OFF (PST/OST) files | 375 | 🟢 | C |
-| [MPXJ](https://github.com/joniles/mpxj) | Reads Microsoft Project MPP files and other schedule formats (Primavera, Asta, Phoenix) | 363 | 🟢 | Java |
+| [MPXJ](https://github.com/joniles/mpxj) | Reads Microsoft Project MPP files and other schedule formats (Primavera, Asta, Phoenix) | 364 | 🟢 | Java |
 | [pyhwp](https://github.com/mete0r/pyhwp) | Python parser for Hancom HWP v5 word processor files | 302 | 🟢 | Python |
 | [iWorkFileFormat](https://github.com/obriensp/iWorkFileFormat) | Documentation of the reverse-engineered iWork '13 file format | 274 | 🔴 | C++ |
 | [java-libpst](https://github.com/rjohnsondev/java-libpst) | Pure Java library for reading Outlook PST files | 274 | 🔴 | Java |
@@ -390,7 +390,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [CHMLib](https://github.com/jedwing/CHMLib) | Library for reading Microsoft ITSS/CHM compiled help files | 267 | 🔴 | C |
 | [hwp-rs](https://github.com/hahnlee/hwp-rs) | Rust parser and tools for Hancom HWP documents | 233 | 🔴 | Rust |
 | [reMarkableSync](https://github.com/jamesf91/reMarkableSync) | OneNote add-in that imports notes by parsing reMarkable's proprietary notebook format | 179 | 🟡 | C# |
-| [pbixray](https://github.com/Hugoberry/pbixray) | Power BI .pbix and PowerPivot data model parser | 176 | 🟢 | Python |
+| [pbixray](https://github.com/Hugoberry/pbixray) | Power BI .pbix and PowerPivot data model parser | 177 | 🟢 | Python |
 | [pyOneNote](https://github.com/DissectMalware/pyOneNote) | Python parser for OneNote .one files that extracts embedded objects | 152 | 🟡 | Python |
 | [HyperCardPreview](https://github.com/PierreLorenzi/HyperCardPreview) | macOS app that opens and displays HyperCard stacks from the reverse-engineered format | 143 | 🔴 | Swift |
 | [remarkable-layers](https://github.com/bsdz/remarkable-layers) | Python module for reading and writing reMarkable lines files | 121 | 🗄️ | Python |
@@ -406,7 +406,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Onyx-Boox-Annotation-Highlight-Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor) | Extracts highlights and annotations from Onyx Boox reading-notes exports | 83 | 🟡 | TypeScript |
 | [rm-dl-annotated](https://github.com/jmpinit/rm-dl-annotated) | Export annotated PDFs by rendering reMarkable's proprietary annotation layers | 83 | 🔴 | Shell |
 | [libolecf](https://github.com/libyal/libolecf) | Library and tools for the OLE 2 Compound File format | 80 | 🟢 | C |
-| [kindling](https://github.com/ciscoriordan/kindling) | Reverse-engineered kindlegen MOBI/KF8 builder in Rust, ~7,000x faster | 63 | 🟢 | Rust |
+| [kindling](https://github.com/ciscoriordan/kindling) | Reverse-engineered kindlegen MOBI/KF8 builder in Rust, ~7,000x faster | 62 | 🟢 | Rust |
 | [BabylonToHtml](https://github.com/alonrotem/BabylonToHtml) | Convert Babylon .bgl dictionaries to structured HTML | 58 | 🟡 | C# |
 | [pychm](https://github.com/dottedmag/pychm) | Python bindings for CHMLib to read Microsoft CHM help files | 58 | 🟡 | Python |
 | [msgreader (JS)](https://github.com/HiraokaHyperTools/msgreader) | JavaScript reader for Outlook .msg files | 57 | 🟢 | TypeScript |
@@ -414,9 +414,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [libvisio](https://github.com/LibreOffice/libvisio) | Parser for Microsoft Visio file formats (re-lab reverse engineering) | 48 | 🟢 | C++ |
 | [stackimport](https://github.com/uliwitness/stackimport) | Reads HyperCard stacks and converts them to XML and images | 43 | 🔴 | C++ |
 | [helpdeco](https://github.com/pmachapman/helpdeco) | Decompiles Windows WinHelp (.hlp) files back to RTF and project files | 38 | 🟢 | C |
-| [sdocx](https://github.com/twangodev/sdocx) | Reverse-engineered tooling and SDK for Samsung Notes (.sdocx) files | 33 | 🟢 | Rust |
+| [sdocx](https://github.com/twangodev/sdocx) | Reverse-engineered tooling and SDK for Samsung Notes (.sdocx) files | 34 | 🟢 | Rust |
+| [zee-rp](https://github.com/LilZeeCN/zee-rp) | Reader and writer for native Axure RP 11 documents via a reverse-engineered binary-record codec | 30 | 🟢 | JavaScript |
 | [boox-notes-backup-parser](https://github.com/DAmesberger/boox-notes-backup-parser) | Parses Onyx Boox Notes backup folders and extracts pages | 29 | 🟡 | Python |
-| [zee-rp](https://github.com/LilZeeCN/zee-rp) | Reader and writer for native Axure RP 11 documents via a reverse-engineered binary-record codec | 29 | 🟢 | JavaScript |
 | [MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) | Clean-room Rust core for Microsoft Visio .vsdx files and ShapeSheet, with a CLI | 21 | 🟢 | Rust |
 | [wsconvert](https://github.com/kbarni/wsconvert) | Converts WordStar documents to Markdown | 20 | 🟢 | Python |
 | [FileMaker-XMLsnippet-Claude-Skill](https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill) | Reverse-engineered spec of FileMaker's undocumented script XML clipboard format | 19 | 🟢 |  |
@@ -424,8 +424,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [hypercard-stack-uploader](https://github.com/hyperhello/hypercard-stack-uploader) | Imports classic HyperCard stacks and exports them as HTML or JSON | 16 | 🔴 | HTML |
 | [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai) | Kaitai Struct specifications for the reMarkable binary .rm notebook format | 16 | 🔴 | Kaitai Struct |
 | [libmspub](https://github.com/LibreOffice/libmspub) | Parser for Microsoft Publisher documents | 14 | 🟢 | C++ |
+| [ezpzfile-xdw](https://github.com/ezpzfile/ezpzfile-xdw) | Open-source reader and annotator for Fuji Xerox DocuWorks .xdw/.xbd files with a format spec | 13 | 🟢 | Rust |
 | [libfole](https://github.com/libyal/libfole) | Library for Object Linking and Embedding (OLE) data types | 13 | 🟢 | C |
-| [ezpzfile-xdw](https://github.com/ezpzfile/ezpzfile-xdw) | Open-source reader and annotator for Fuji Xerox DocuWorks .xdw/.xbd files with a format spec | 12 | 🟢 | Rust |
 | [wv](https://github.com/AbiWord/wv) | Library for importing Microsoft Word 2-2003 binary documents | 12 | 🔴 | C |
 | [librm_lines](https://github.com/RedTTGMoss/librm_lines) | C++ library to read, write and render reMarkable v6 .rm lines files | 11 | 🟢 | C++ |
 | [parser-for-goodnotes](https://github.com/Kaih1825/parser-for-goodnotes) | Parser for the closed GoodNotes document format, reverse-engineered with LLMs | 10 | 🟢 | HTML |
@@ -450,7 +450,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [capcut-cli](https://github.com/renezander030/capcut-cli) | Unofficial CLI to edit CapCut and JianYing project files | 1,108 | 🟢 | JavaScript |
+| [capcut-cli](https://github.com/renezander030/capcut-cli) | Unofficial CLI to edit CapCut and JianYing project files | 1,114 | 🟢 | JavaScript |
 | [pylabview](https://github.com/mefistotelis/pylabview) | Python reader of LabVIEW RSRC files (VI, CTL, LLB) | 175 | 🟢 | Python |
 | [pka2xml](https://github.com/mircodz/pka2xml) | Converts Cisco Packet Tracer .pka/.pkt files to XML | 78 | 🔴 | C++ |
 | [WinCCflexLogViewer](https://github.com/yuriqdev/WinCCflexLogViewer) | Viewer and parser for WinCC Flexible and TIA Portal data log files | 31 | 🔴 | C# |
@@ -464,13 +464,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [plaso](https://github.com/log2timeline/plaso) | Super-timeline tool with parsers for hundreds of Windows, macOS and app artifacts | 2,186 | 🟢 | Python |
 | [Dissect](https://github.com/fox-it/dissect) | Forensics framework with parsers for many proprietary disk, file system and artifact formats | 1,181 | 🟢 | Python |
-| [ALEAPP](https://github.com/abrignoni/ALEAPP) | Android Logs, Events and Protobuf Parser for app databases and artifacts | 1,032 | 🟢 | Python |
+| [ALEAPP](https://github.com/abrignoni/ALEAPP) | Android Logs, Events and Protobuf Parser for app databases and artifacts | 1,035 | 🟢 | Python |
 | [evtx (Rust)](https://github.com/omerbenamram/evtx) | Fast, safe Rust parser for the Windows XML Event Log (EVTX) format | 973 | 🟢 | Rust |
 | [python-evtx](https://github.com/williballenthin/python-evtx) | Pure Python parser for Windows XML Event Log (.evtx) files | 786 | 🟢 | Python |
 | [srum-dump](https://github.com/MarkBaggett/srum-dump) | Converts the Windows SRUM (System Resource Usage Monitor) database to spreadsheets | 766 | 🟢 | Python |
 | [RegRipper 3.0](https://github.com/keydet89/RegRipper3.0) | Plugin-based extraction of data from Windows registry hives | 725 | 🟢 | Perl |
 | [rust-minidump](https://github.com/rust-minidump/rust-minidump) | Rust parser and analyzer for the Microsoft minidump crash file format | 516 | 🟢 | Rust |
-| [Python-dsstore](https://github.com/gehaxelt/Python-dsstore) | Parses macOS .DS_Store files and extracts file names | 510 | 🔴 | Python |
+| [Python-dsstore](https://github.com/gehaxelt/Python-dsstore) | Parses macOS .DS_Store files and extracts file names | 509 | 🔴 | Python |
 | [python-registry](https://github.com/williballenthin/python-registry) | Pure Python parser for Windows Registry hive files | 449 | 🟡 | Python |
 | [flare-wmi](https://github.com/mandiant/flare-wmi) | Parser and tools for the undocumented WMI CIM repository format | 434 | 🗄️ | C++ |
 | [evtx (Zimmerman)](https://github.com/EricZimmerman/evtx) | C# EVTX event log parser with extra maps | 378 | 🟢 | C# |
@@ -478,11 +478,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MFTECmd](https://github.com/EricZimmerman/MFTECmd) | Parser for NTFS $MFT, $J, $Boot and $SDS | 343 | 🟢 | C# |
 | [libewf](https://github.com/libyal/libewf) | Library for the EnCase Expert Witness Compression Format (EWF/E01) disk images | 320 | 🟢 | C |
 | [WMI_Forensics](https://github.com/davidpany/WMI_Forensics) | Scripts to parse the WMI CIM repository for persistence artifacts | 320 | 🔴 | Python |
-| [PECmd](https://github.com/EricZimmerman/PECmd) | Windows Prefetch file parser | 311 | 🟢 | C# |
+| [PECmd](https://github.com/EricZimmerman/PECmd) | Windows Prefetch file parser | 312 | 🟢 | C# |
 | [FSEventsParser](https://github.com/dlcowen/FSEventsParser) | Parser for macOS/iOS FSEvents logs | 282 | 🟡 | Python |
 | [regipy](https://github.com/mkorman90/regipy) | OS-independent Python library for parsing offline Windows registry hives | 279 | 🟢 | Python |
 | [ShimCacheParser](https://github.com/mandiant/ShimCacheParser) | Parses the Windows Application Compatibility Cache from registry hives | 279 | 🗄️ | Python |
-| [ccl_chromium_reader](https://github.com/cclgroupltd/ccl_chromium_reader) | Python reimplementations of Chromium storage formats for forensics | 260 | 🟢 | Python |
+| [ccl_chromium_reader](https://github.com/cclgroupltd/ccl_chromium_reader) | Python reimplementations of Chromium storage formats for forensics | 261 | 🟢 | Python |
 | [Registry (Zimmerman)](https://github.com/EricZimmerman/Registry) | Full-featured offline Windows Registry parser in C# | 260 | 🟢 | C# |
 | [INDXParse](https://github.com/williballenthin/INDXParse) | Tools for NTFS INDX records and other NTFS artifacts | 229 | 🔴 | Python |
 | [liblnk](https://github.com/libyal/liblnk) | Library and tools for the Windows Shortcut (LNK) file format | 219 | 🟢 | C |
