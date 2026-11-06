@@ -1,6 +1,6 @@
 # Online Service Revivals
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 636 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=online-service-revivals) · 635 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -9,7 +9,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Kids' MMOs & Flash Worlds](#kids-mmos--flash-worlds) (38)
 - [Messengers](#messengers) (7)
 - [Nintendo Online](#nintendo-online) (166)
-- [PC Game Services (GameSpy, Battle.net, EA)](#pc-game-services-gamespy-battlenet-ea) (127)
+- [PC Game Services (GameSpy, Battle.net, EA)](#pc-game-services-gamespy-battlenet-ea) (126)
 - [Sony & Sega Online](#sony--sega-online) (44)
 - [Xbox Online](#xbox-online) (7)
 
@@ -17,27 +17,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,922 | 🟢 | JavaScript |
-| [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,388 | 🟢 | C++ |
+| [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) | Custom firmware and server that keep Nest v1/v2 thermostats working after Google ends support | 1,924 | 🟢 | JavaScript |
+| [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate) | Restores Windows Update and activation for legacy Windows versions after shutdown | 1,389 | 🟢 | C++ |
 | [DeskThing](https://github.com/ItsRiprod/DeskThing) | Turns the discontinued Spotify Car Thing into a desktop display for many apps | 1,201 | 🟢 | TypeScript |
 | [node-dash-button](https://github.com/hortinstein/node-dash-button) | Node module that emits events when an Amazon Dash button is pressed | 944 | 🔴 | JavaScript |
-| [fang](https://github.com/vacuula/fang) | Local control of Neato robot vacuums, from the Vacuula project | 865 | 🟢 | TypeScript |
+| [fang](https://github.com/vacuula/fang) | Local control of Neato robot vacuums, from the Vacuula project | 866 | 🟢 | TypeScript |
 | [amazon-dash](https://github.com/Nekmo/amazon-dash) | Repurposes Amazon Dash buttons to run custom actions | 848 | 🔴 | Python |
 | [wire-pod](https://github.com/kercre123/wire-pod) | Free local server that replaces the cloud services of the Anki Vector robot | 843 | 🟢 | Go |
 | [mobile-app](https://github.com/pebble-dev/mobile-app) | Cobble, an iOS and Android companion app for Pebble watches on Rebble | 663 | 🗄️ | Kotlin |
 | [snap-camera-server](https://github.com/ptrumpis/snap-camera-server) | Self-hosted server for Snap Camera after its 2023 shutdown | 588 | 🟢 | JavaScript |
 | [StadiaWireless](https://github.com/helloparthshah/StadiaWireless) | Uses the Google Stadia controller wirelessly on PC | 454 | 🔴 | Python |
-| [spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) | Reverse engineering notes for the Spotify Car Thing | 446 | 🟡 | Shell |
+| [spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) | Reverse engineering notes for the Spotify Car Thing | 447 | 🟡 | Shell |
 | [nocturne](https://github.com/usenocturne/nocturne) | Custom firmware for the discontinued Spotify Car Thing | 416 | 🟢 | Rust |
 | [harmony-api](https://github.com/maddox/harmony-api) | Local HTTP/MQTT server to control Logitech Harmony hubs without the cloud | 400 | 🔴 | JavaScript |
 | [Amazon_Dash_Button](https://github.com/dekuNukem/Amazon_Dash_Button) | Teardown with components and pinouts of the Amazon Dash button | 366 | 🔴 | C |
 | [superbird-debian-kiosk](https://github.com/bishopdynamics/superbird-debian-kiosk) | Debian Chromium kiosk image for the discontinued Spotify Car Thing | 270 | 🟡 | JavaScript |
 | [Sachesi](https://github.com/xsacha/Sachesi) | Firmware extractor, searcher and installer for BlackBerry 10 | 266 | 🔴 | C |
-| [superbird-bulkcmd](https://github.com/frederic/superbird-bulkcmd) | Resources to access the U-Boot shell of the Spotify Car Thing over USB | 263 | 🔴 | Shell |
+| [superbird-bulkcmd](https://github.com/frederic/superbird-bulkcmd) | Resources to access the U-Boot shell of the Spotify Car Thing over USB | 264 | 🔴 | Shell |
 | [PyCozmo](https://github.com/zayfod/pycozmo) | Pure-Python library and alternative SDK for the Anki Cozmo robot, from protocol RE | 240 | 🔴 | Python |
 | [immortal](https://github.com/starbrightlab/immortal) | Launcher, photo frame and app store that revive discontinued Meta Portal devices | 220 | 🟢 | Kotlin |
 | [vacuula](https://github.com/vacuula/vacuula) | Custom server that revives Neato robot vacuums after the cloud shutdown | 215 | 🟢 | TypeScript |
-| [OpenNeato](https://github.com/renjfk/OpenNeato) | Open-source replacement for Neato's discontinued cloud and mobile app | 210 | 🟢 | C++ |
+| [OpenNeato](https://github.com/renjfk/OpenNeato) | Open-source replacement for Neato's discontinued cloud and mobile app | 212 | 🟢 | C++ |
 | [Slinger](https://github.com/GerryDazoo/Slinger) | Reuses Slingbox hardware for remote TV viewing after Sling's servers shut down | 201 | 🟡 | Python |
 | [superbird-tool](https://github.com/bishopdynamics/superbird-tool) | Cross-platform toolkit to flash and modify the Spotify Car Thing (superbird) | 198 | 🟡 | Python |
 | [EyeFiServer](https://github.com/tachang/EyeFiServer) | Open-source Eye-Fi server in Python | 190 | 🔴 | Python |
@@ -50,14 +50,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [dash-button](https://github.com/ide/dash-button) | Node.js server that reacts to Amazon Dash buttons on a Wi-Fi network | 132 | 🗄️ | TypeScript |
 | [OpenJabNab](https://github.com/OpenJabNab/OpenJabNab) | PHP/C++ server that replaces the shut-down Nabaztag/Tag rabbit cloud | 124 | 🔴 | C++ |
 | [Vector source](https://github.com/digital-dream-labs/vector) | Released source of the Anki Vector robot firmware, published after Anki's shutdown | 119 | 🔴 | C++ |
-| [insteon-mqtt](https://github.com/TD22057/insteon-mqtt) | Insteon PLM to MQTT bridge for local control of Insteon devices | 102 | 🟢 | Python |
 | [NeatoToolio](https://github.com/jdredd87/NeatoToolio) | Diagnostic tool for Neato Botvac robot vacuums | 102 | 🔴 | NSIS |
+| [insteon-mqtt](https://github.com/TD22057/insteon-mqtt) | Insteon PLM to MQTT bridge for local control of Insteon devices | 101 | 🟢 | Python |
 | [EchoRelay](https://github.com/Xenomega/EchoRelay) | Reimplementation of Echo VR web services and dedicated server | 99 | 🗄️ | C# |
 | [ServerlessNabaztag](https://github.com/andreax79/ServerlessNabaztag) | Firmware to control a Nabaztag/tag directly over the web, without the dead server | 98 | 🟢 | C |
 | [wire-os](https://github.com/os-vector/wire-os) | WireOS, a custom firmware for the Anki Vector robot | 96 | 🟢 | C |
 | [RE-HARMONY](https://github.com/Unkn0wn-dx/RE-HARMONY) | Configures Logitech Harmony One remotes over USB without Logitech's service | 91 | 🟢 | Python |
 | [WirePod](https://github.com/kercre123/WirePod) | Cross-platform builds of wire-pod, the local server for Anki Vector | 89 | 🟢 | C |
-| [prelude](https://github.com/usenocturne/prelude) | Wireless and wired CarPlay and Android Auto for the Spotify Car Thing | 85 | 🟢 | Rust |
+| [prelude](https://github.com/usenocturne/prelude) | Wireless and wired CarPlay and Android Auto for the Spotify Car Thing | 86 | 🟢 | Rust |
 | [petnet-feeder-service](https://github.com/feedernet/petnet-feeder-service) | Local replacement service for the Petnet SmartFeeder v2 after Petnet's shutdown | 84 | 🟢 | Python |
 | [Bildschirmtext revival](https://github.com/bildschirmtext/bildschirmtext) | Server that revives Germany's BTX videotex service for original decoders and clients | 80 | 🟡 | Python |
 | [pynitel](https://github.com/cquest/pynitel) | Python library to write Minitel videotex servers for real French Minitel terminals | 78 | 🔴 | Python |
@@ -85,7 +85,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [nocturne-connector](https://github.com/usenocturne/nocturne-connector) | Raspberry Pi OS image that gives the Spotify Car Thing Wi-Fi connectivity | 41 | 🟢 | TypeScript |
 | [ryfi](https://github.com/kenkeiter/ryfi) | Ruby/Sinatra Eye-Fi server | 40 | 🔴 | Ruby |
 | [rebblestore-api](https://github.com/pebble-dev/rebblestore-api) | API of the Rebble app store for Pebble watches | 39 | 🗄️ | Go |
-| [bridgething](https://github.com/JoeyEamigh/bridgething) | System daemon and app ecosystem for the Spotify Car Thing | 37 | 🟢 | Rust |
+| [bridgething](https://github.com/JoeyEamigh/bridgething) | System daemon and app ecosystem for the Spotify Car Thing | 38 | 🟢 | Rust |
 | [iii](https://github.com/klevernothings/iii) | Open-source Eye-Fi card manager daemon | 36 | 🔴 | C++ |
 | [vector-cloud](https://github.com/digital-dream-labs/vector-cloud) | Released cloud-side code for the Anki Vector robot | 36 | 🔴 | Go |
 | [meta-doctor](https://github.com/webos-internals/meta-doctor) | Modifies the Palm webOS Doctor to install webOS without Palm's servers | 35 | 🟡 | Shell |
@@ -105,15 +105,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [spotify-car-thing-bt](https://github.com/daniel5151/spotify-car-thing-bt) | Code to connect to and talk with a Spotify Car Thing over Bluetooth | 27 | 🔴 | Rust |
 | [demystified](https://github.com/wink-hub-root/demystified) | Reverse engineering of the Wink smart home hub | 26 | 🔴 | Shell |
 | [escapepod-docker](https://github.com/cyb3rdog/escapepod-docker) | Docker image of Escape Pod, the local server for the Anki/DDL Vector robot | 26 | 🔴 | Batchfile |
+| [PlayThing](https://github.com/tatujan/PlayThing) | Android 9 on the Spotify Car Thing as a wired Apple CarPlay receiver | 25 | 🟢 | Java |
 | [WinStadia](https://github.com/aisk/WinStadia) | Uses Google Stadia controllers as Xbox controllers on Windows over USB and Bluetooth | 25 | 🟢 | C |
-| [PlayThing](https://github.com/tatujan/PlayThing) | Android 9 on the Spotify Car Thing as a wired Apple CarPlay receiver | 24 | 🟢 | Java |
 | [spotify-car-thing_debian_chroot](https://github.com/bishopdynamics/spotify-car-thing_debian_chroot) | Scripts to create a Debian chroot on the Spotify Car Thing | 24 | 🔴 | Shell |
 | [whatsberry-public](https://github.com/danzkigg/whatsberry-public) | Brings WhatsApp back to BlackBerry 10 and old Android devices | 24 | 🟡 | JavaScript |
-| [zunefirmware-upgrade](https://github.com/simulacra10/zunefirmware-upgrade) | Keeps Zune players updatable after Microsoft's Zune service closed | 22 | 🔴 |  |
+| [zunefirmware-upgrade](https://github.com/simulacra10/zunefirmware-upgrade) | Keeps Zune players updatable after Microsoft's Zune service closed | 23 | 🔴 |  |
 | [nabaztag-server](https://github.com/nguillaumin/nabaztag-server) | Server software for Nabaztag rabbits based on the original Violet code | 21 | 🔴 | Java |
+| [spotify-car-thing_uboot_builder](https://github.com/bishopdynamics/spotify-car-thing_uboot_builder) | Builds U-Boot for the Spotify Car Thing in Docker | 21 | 🔴 | Shell |
 | [Glowforge-Utilities](https://github.com/openglow-org/Glowforge-Utilities) | Utilities for firmware development on the Glowforge laser | 20 | 🟢 | Python |
 | [rebble-appstore-api](https://github.com/pebble-dev/rebble-appstore-api) | Rebble reimplementation of Pebble's appstore API after Fitbit shut down Pebble services | 20 | 🟢 | Python |
-| [spotify-car-thing_uboot_builder](https://github.com/bishopdynamics/spotify-car-thing_uboot_builder) | Builds U-Boot for the Spotify Car Thing in Docker | 20 | 🔴 | Shell |
 | [vector-go-sdk](https://github.com/digital-dream-labs/vector-go-sdk) | Go SDK for the Anki Vector robot released after Anki's shutdown | 20 | 🔴 | Go |
 | [vic-yocto](https://github.com/kercre123/vic-yocto) | Updated Yocto-based OS for the Anki Vector robot | 20 | 🟡 |  |
 | [karotz-vm](https://github.com/jcheype/karotz-vm) | Karotz virtual machine in Java | 19 | 🔴 | JavaScript |
@@ -141,6 +141,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Slingbox.Capture](https://github.com/bmiller-net/Slingbox.Capture) | API that captures video streams from a Slingbox on the local network | 14 | 🔴 | C# |
 | [Sonoff-Server](https://github.com/SideCodeIO/Sonoff-Server) | Private self-hosted Sonoff cloud server in Node.js | 14 | 🔴 | JavaScript |
 | [Alternative-Bose-SoundTouch-controller-no-Cloud](https://github.com/Marvoo01/Alternative-Bose-SoundTouch-controller-no-Cloud) | Bose SoundTouch controller that works without the Bose cloud | 13 | 🟡 | HTML |
+| [Lunacy](https://github.com/webOSArchive/Lunacy) | Runtime that runs legacy webOS applications on Android | 13 | 🟢 | JavaScript |
 | [rebble-auth-py](https://github.com/pebble-dev/rebble-auth-py) | Rebble authentication service for Pebble watches | 13 | 🟢 | Python |
 | [yocto-superbird](https://github.com/JoeyEamigh/yocto-superbird) | Yocto BSP for the Spotify Car Thing | 13 | 🟢 | Shell |
 | [harmony-decompiler](https://github.com/trelowney/harmony-decompiler) | Reverse engineering of the Logitech Harmony configuration binary format | 12 | 🟢 | Python |
@@ -152,7 +153,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [car_thang](https://github.com/BounceU/car_thang) | Linux distribution and media app for the Spotify Car Thing | 11 | 🟡 | Rust |
 | [companion-app](https://github.com/MicrosoftBandDev/companion-app) | Replacement companion app for Microsoft Band 1 and 2 | 11 | 🔴 | C# |
 | [gfire](https://github.com/gfireproject/gfire) | Xfire protocol plugin for libpurple/Pidgin | 11 | 🗄️ | C |
-| [Lunacy](https://github.com/webOSArchive/Lunacy) | Runtime that runs legacy webOS applications on Android | 11 | 🟢 | JavaScript |
 | [ZuneNet](https://github.com/ZuneDev/ZuneNet) | Community recreation of zune.net and social.zune.net | 11 | 🟢 | TypeScript |
 | [KarotzFiles](https://github.com/FreeRabbits/KarotzFiles) | Files to keep the Karotz smart rabbit running after its servers closed | 10 | 🟢 | Shell |
 | [lumia-dloadtool](https://github.com/InvoxiPlayGames/lumia-dloadtool) | Tool for Nokia's DLOAD bootloader on Lumia Windows Phones | 10 | 🟢 | C |
@@ -192,6 +192,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [vic-cloudless](https://github.com/kercre123/vic-cloudless) | Cloudless firmware build for the Anki Vector robot | 5 | 🟢 | Go |
 | [zune-podcasts](https://github.com/CorySanin/zune-podcasts) | Proxy that lets the Zune software import modern podcasts | 5 | 🟢 | JavaScript |
 | [bose-soundtouch-hook](https://github.com/CodeFinder2/bose-soundtouch-hook) | LD_PRELOAD hook library to reverse engineer Bose SoundTouch speakers | 4 | 🟢 | C |
+| [GermGuardianBLE](https://github.com/NicholasBly/GermGuardianBLE) | Restores the GermGuardian air purifier app after the vendor shut its service | 4 | 🟢 | JavaScript |
 | [insteon-server](https://github.com/kuestess/insteon-server) | Local Express server to control Insteon devices | 4 | 🔴 | JavaScript |
 | [legacy-firmware-patcher](https://github.com/pebble-dev/legacy-firmware-patcher) | Patches original Pebble Technology firmware so old watches keep working | 4 | 🟢 | Python |
 | [louyapi](https://github.com/cweiske/louyapi) | Local OUYA API server app for the OUYA console after its store closed | 4 | 🔴 | Java |
@@ -201,7 +202,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BlackFire](https://github.com/jabwd/BlackFire) | Unofficial Xfire client written in Objective-C | 3 | 🔴 | Objective-C |
 | [dtptd](https://github.com/InvoxiPlayGames/dtptd) | Service for Windows Phone 7 DeskTop PassThrough network connections | 3 | 🟢 | C |
 | [esphome-petnet-feeder](https://github.com/odya/esphome-petnet-feeder) | ESPHome firmware that revives the first-generation Petnet SmartFeeder | 3 | 🔴 |  |
-| [GermGuardianBLE](https://github.com/NicholasBly/GermGuardianBLE) | Restores the GermGuardian air purifier app after the vendor shut its service | 3 | 🟢 | JavaScript |
 | [JiboExperiments](https://github.com/Jibo-Revival-Group/JiboExperiments) | OpenJibo server software to revive Jibo robots after the cloud shutdown | 3 | 🟢 | C# |
 | [JiboExperiments](https://github.com/transcendentsoftware-jd/JiboExperiments) | Jibo experiments and OpenJibo revival efforts | 3 | 🟢 | C# |
 | [pebble-appstore-legacy](https://github.com/pebble-dev/pebble-appstore-legacy) | Old apps.getpebble.com appstore front end, modified for Rebble | 3 | 🟢 | HTML |
@@ -226,7 +226,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Centuria](https://github.com/OpenFeral/Centuria) | Server emulator for the defunct MMORPG Fer.al | 42 | 🟢 | Java |
 | [ProjectWAR](https://github.com/Shmerrick/ProjectWAR) | Warhammer Online server emulator | 39 | 🟢 | C# |
 | [aisp-emu](https://github.com/Tricon2-Elf/aisp-emu) | Server emulator for AI Sp@ce, a Japanese MMO that shut down over 15 years ago | 36 | 🟢 | C# |
-| [Sanctuary](https://github.com/Open-Source-Free-Realms/Sanctuary) | Server emulator for Free Realms written from scratch in C# | 34 | 🟢 | C# |
+| [Sanctuary](https://github.com/Open-Source-Free-Realms/Sanctuary) | Server emulator for Free Realms written from scratch in C# | 35 | 🟢 | C# |
 | [Nomad](https://github.com/GHzGangster/Nomad) | Metal Gear Online 2 server emulator in Java | 32 | 🔴 | Java |
 | [eoserv](https://github.com/eoserv/eoserv) | Server emulator for the Endless Online MMO | 31 | 🔴 | C++ |
 | [anotherland](https://github.com/AnotherlandServer/anotherland) | Server emulator for the Otherland MMO | 30 | 🟢 | Rust |
@@ -274,13 +274,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) | Server emulator for Cartoon Network's FusionFall MMO | 420 | 🟢 | C++ |
-| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 258 | 🟢 | JavaScript |
+| [OpenFusion](https://github.com/OpenFusionProject/OpenFusion) | Server emulator for Cartoon Network's FusionFall MMO | 421 | 🟢 | C++ |
+| [qqpet_automation](https://github.com/xuemian168/qqpet_automation) | macOS port of QQ Pet nostalgia server via reverse analysis and Ruffle | 259 | 🟢 | JavaScript |
 | [Havana](https://github.com/Quackster/Havana) | Java server that revives 2009-era Habbo Hotel v31 | 230 | 🟢 | Java |
 | [Club Penguin (Waddle Forever)](https://github.com/nhaar/Waddle-Forever) | Single-player archive and local server for Club Penguin (Flash) | 207 | 🟢 | TypeScript |
 | [Wand](https://github.com/solero/wand) | Docker setup that bundles the Houdini Club Penguin private server and its services | 128 | 🟢 | Shell |
 | [MQReawakened](https://github.com/FeroxFoxxo/MQReawakened) | Open source emulation of the Monkey Quest server backend | 96 | 🟢 | C# |
-| [sodoff](https://github.com/SoDOff-Project/sodoff) | School of Dragons server emulator | 87 | 🟢 | C# |
+| [sodoff](https://github.com/SoDOff-Project/sodoff) | School of Dragons server emulator | 88 | 🟢 | C# |
 | [MoleWorld-5.5.0-touchHLE-offline](https://github.com/moleworld-dev/MoleWorld-5.5.0-touchHLE-offline) | Offline port of Mole Manor mobile 5.5.0 via touchHLE | 84 | 🟢 | Rust |
 | [classic-dungeon-blitz](https://github.com/db-preservation-contributors/classic-dungeon-blitz) | Fan revival of the Dungeon Blitz Flash game | 79 | 🟢 | TypeScript |
 | [Timeline](https://github.com/Times-0/Timeline) | Club Penguin private server emulator in Python | 74 | 🔴 | Python |
@@ -347,7 +347,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Juxtaposition UI](https://github.com/PretendoNetwork/juxtaposition-ui) | Web UI for Pretendo's Miiverse replacement, served to the Wii U and 3DS applets | 67 | 🗄️ | EJS |
 | [hatena-server](https://github.com/pbsds/hatena-server) | Server that replicates the closed Flipnote Hatena for Flipnote Studio on DSi | 60 | 🗄️ | Python |
 | [Pretendo Splatoon](https://github.com/PretendoNetwork/splatoon) | Reimplemented NEX game server for Splatoon on Wii U | 60 | 🟢 | Go |
-| [WiiWare-Patcher](https://github.com/KcrPL/WiiWare-Patcher) | Patches WiiWare titles to use Wiimmfi instead of the closed Nintendo WFC | 60 | 🟢 | Batchfile |
+| [WiiWare-Patcher](https://github.com/KcrPL/WiiWare-Patcher) | Patches WiiWare titles to use Wiimmfi instead of the closed Nintendo WFC | 58 | 🟢 | Batchfile |
 | [Flipnote Studio docs](https://github.com/Flipnote-Collective/flipnote-studio-docs) | Reverse-engineering documentation for Flipnote Studio file formats and Hatena network | 56 | 🔴 |  |
 | [Pretendo archival-tools](https://github.com/PretendoNetwork/archival-tools) | Tools to archive data from Nintendo Wii U and 3DS game servers before shutdown | 54 | 🟡 | Python |
 | [HokakuCTR](https://github.com/PretendoNetwork/HokakuCTR) | On-console 3DS dumper of NEX RMC traffic, used to reverse engineer game server protocols | 46 | 🟡 | C++ |
@@ -530,7 +530,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [PRMasterServer](https://github.com/realitymod/PRMasterServer) | GameSpy replacement master server for the Project Reality: BF2 mod | 47 | 🔴 | C# |
 | [ReFused](https://github.com/InvoxiPlayGames/ReFused) | Recreation of the Fuser web services API after Harmonix shut it down | 46 | 🔴 | JavaScript |
 | [brainwine](https://github.com/kuroppoi/brainwine) | Private server for Deepworld | 45 | 🟢 | Java |
-| [Dream-World-Revival](https://github.com/Shade-of-Gr3y/Dream-World-Revival) | Revival project for the Pokemon Dream World Game Sync service | 39 | 🟢 | HTML |
 | [galaxyharvester](https://github.com/pwillworth/galaxyharvester) | Resource tracking web app for Star Wars Galaxies emulator servers | 36 | 🟢 | Python |
 | [Bifrost](https://github.com/Crypto137/Bifrost) | Custom launcher for Marvel Heroes on MHServerEmu | 35 | 🟢 | C# |
 | [UnionPatcher](https://github.com/LBPUnion/UnionPatcher) | Patches LittleBigPlanet games to use custom server URLs | 33 | 🟡 | C# |
@@ -540,9 +539,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [dreamworld-reawakened](https://github.com/shutterbug2000/dreamworld-reawakened) | Revival server for the Pokemon Dream World / Global Link (Gen V) | 30 | 🟢 | Java |
 | [msattack](https://github.com/jamestiotio/msattack) | Server reimplementation for Metal Slug Attack | 28 | 🔴 | Python |
 | [mhf-launcher](https://github.com/rockisch/mhf-launcher) | Custom launcher for Monster Hunter Frontier private servers | 26 | 🟡 | Rust |
+| [xlive-research](https://github.com/widberg/xlive-research) | Reverse-engineering research on the Games for Windows Live xlive.dll | 26 | 🟢 | C++ |
 | [yr-patches](https://github.com/CnCNet/yr-patches) | Patches that add CnCNet online play to Command & Conquer: Yuri's Revenge | 26 | 🗄️ | C |
 | [CityVilleDotnet](https://github.com/besuper/CityVilleDotnet) | Server for Zynga's CityVille written in C# | 25 | 🟢 | C# |
-| [xlive-research](https://github.com/widberg/xlive-research) | Reverse-engineering research on the Games for Windows Live xlive.dll | 25 | 🟢 | C++ |
 | [AlcatrazServer](https://github.com/ReHamster/AlcatrazServer) | Experimental online backend for Driver: San Francisco | 24 | 🟢 | C# |
 | [oxide](https://github.com/soir20/oxide) | Open-source game server for the 2014 Star Wars: Clone Wars Adventures client | 24 | 🟢 | Rust |
 | [SkySaga](https://github.com/EDITzDev/SkySaga) | Server emulation research for SkySaga: Infinite Isles | 23 | 🟢 | C# |
@@ -572,7 +571,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [server](https://github.com/firesinging/server) | Server code for Age of Empires Online after Microsoft shut it down | 13 | 🔴 | C# |
 | [333networks MasterServer](https://github.com/333networks/Masterserver-Qt5) | Replacement GameSpy master server for Unreal-engine and other classic games | 12 | 🟡 | C++ |
 | [BSGOCore](https://github.com/luigeneric/BSGOCore) | Server source of the Battlestar Galactica Online 2.0 Resurrection project | 12 | 🟢 | Java |
-| [Dreadnought-Revival-project](https://github.com/darkace1998/Dreadnought-Revival-project) | Community private server for the discontinued game Dreadnought | 12 | 🟢 | Go |
+| [Dreadnought-Revival-project](https://github.com/darkace1998/Dreadnought-Revival-project) | Community private server for the discontinued game Dreadnought | 12 | 🗄️ | Go |
 | [faf-java-server](https://github.com/FAForever/faf-java-server) | Spring Boot server for Forged Alliance Forever (Supreme Commander) | 12 | 🔴 | Java |
 | [nfsw-server](https://github.com/michelinus/nfsw-server) | Server for Need for Speed: World after EA shut it down | 12 | 🗄️ | Java |
 | [cncnet-map-api](https://github.com/CnCNet/cncnet-map-api) | CnCNet map server for classic Command & Conquer games, rewritten in Python | 11 | 🟢 | Python |
@@ -681,7 +680,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [xrevive](https://github.com/Teraflopping/xrevive) | Launcher for Xbox recompiled games with replacement Xbox Live online services | 577 | 🟢 |  |
+| [xrevive](https://github.com/Teraflopping/xrevive) | Launcher for Xbox recompiled games with replacement Xbox Live online services | 586 | 🟢 |  |
 | [Halo_Sunrise_Plugin_2.0](https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0) | Dashlaunch plugin that re-enables Halo 3 matchmaking on Xbox 360 through custom servers | 62 | 🗄️ | C |
 | [FH2MP](https://github.com/Charelene/FH2MP) | Unofficial online server for Forza Horizon 2 (Xbox One build) on PC | 46 | 🟢 | Python |
 | [xblunblock](https://github.com/insignia-live/xblunblock) | Disables Xbox Live blocking code in original Xbox BIOSes for Insignia | 34 | 🔴 | C++ |
