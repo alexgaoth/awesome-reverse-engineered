@@ -598,5 +598,41 @@
   "name": "grida",
   "removed": "2026-11-06",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Tsuk1ko/bilibili-live-chat",
+  "name": "bilibili-live-chat",
+  "removed": "2026-11-07",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Tsuk1ko/pxder",
+  "name": "pxder",
+  "removed": "2026-11-07",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Sora233/DDBOT",
+  "name": "DDBOT",
+  "removed": "2026-11-07",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/MenuuTUX/jojo-hftf-native",
+  "name": "jojo-hftf-native",
+  "removed": "2026-11-07",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/yuatemycat/SuperGhidra",
+  "name": "SuperGhidra",
+  "removed": "2026-11-07",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://codeberg.org/handfly/urit",
+  "name": "urit",
+  "removed": "2026-11-07",
+  "reason": "unreachable on 3 runs"
  }
 ]
