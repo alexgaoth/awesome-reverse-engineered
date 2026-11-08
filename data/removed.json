@@ -634,5 +634,17 @@
   "name": "urit",
   "removed": "2026-11-07",
   "reason": "unreachable on 3 runs"
+ },
+ {
+  "url": "https://github.com/MusohSlop/HWDE-decomp",
+  "name": "Hyrule Warriors: Definitive Edition decomp",
+  "removed": "2026-11-08",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Shagg88/Athelas",
+  "name": "The Return of the King (Athelas)",
+  "removed": "2026-11-08",
+  "reason": "not found on GitHub"
  }
 ]
