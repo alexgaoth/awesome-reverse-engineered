@@ -35,71 +35,71 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [PKHeX](https://github.com/kwsch/PKHeX) | Pokemon save file editor built on reverse-engineered save formats | 5,260 | 🟢 | C# |
-| [gdsdecomp (GDRE Tools)](https://github.com/GDRETools/gdsdecomp) | Godot reverse-engineering tools: PCK extraction and GDScript decompiler | 4,437 | 🟢 | C++ |
+| [PKHeX](https://github.com/kwsch/PKHeX) | Pokemon save file editor built on reverse-engineered save formats | 5,267 | 🟢 | C# |
+| [gdsdecomp (GDRE Tools)](https://github.com/GDRETools/gdsdecomp) | Godot reverse-engineering tools: PCK extraction and GDScript decompiler | 4,440 | 🟢 | C++ |
 | [noclip.website](https://github.com/magcius/noclip.website) | Web-based viewer for levels from many games via reverse-engineered formats | 4,308 | 🟢 | TypeScript |
 | [UABE](https://github.com/SeriousCache/UABE) | Unity Asset Bundle Extractor (archived) | 4,126 | 🗄️ | C++ |
-| [EQAI](https://github.com/AhmadHassan-BTed/EQAI) | Pipeline to port original character models into EverQuest Online Adventures: Frontiers (PS2) | 3,970 | 🟢 | Python |
-| [repkg](https://github.com/notscuffed/repkg) | Wallpaper Engine PKG extractor and TEX-to-image converter | 3,846 | 🟡 | C# |
-| [GARbro](https://github.com/morkt/GARbro) | Resource browser and extractor for visual novel archive formats | 3,366 | 🟡 | C# |
-| [uTinyRipper](https://github.com/mafaca/UtinyRipper) | GUI and library to extract Unity serialized and bundle assets | 3,106 | 🔴 | C# |
+| [EQAI](https://github.com/AhmadHassan-BTed/EQAI) | Pipeline to port original character models into EverQuest Online Adventures: Frontiers (PS2) | 3,972 | 🟢 | Python |
+| [repkg](https://github.com/notscuffed/repkg) | Wallpaper Engine PKG extractor and TEX-to-image converter | 3,851 | 🟡 | C# |
+| [GARbro](https://github.com/morkt/GARbro) | Resource browser and extractor for visual novel archive formats | 3,367 | 🟡 | C# |
+| [uTinyRipper](https://github.com/mafaca/UtinyRipper) | GUI and library to extract Unity serialized and bundle assets | 3,107 | 🔴 | C# |
 | [UE Viewer (UModel)](https://github.com/gildor2/UEViewer) | Viewer and exporter for Unreal Engine 1-4 assets | 2,970 | 🟡 | C++ |
 | [DisUnity](https://github.com/ata4/disunity) | Experimental toolset for Unity asset and bundle files (archived) | 2,699 | 🗄️ | Java |
-| [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat) | Browse VPKs and view, extract and decompile Source 2 assets | 2,552 | 🟢 | C# |
-| [vgmstream](https://github.com/vgmstream/vgmstream) | Library for playback of hundreds of streamed video game audio formats | 2,317 | 🟢 | C |
-| [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) | Modding, decompiling and unpacking tool for GameMaker games such as Undertale | 2,119 | 🟢 | C# |
-| [KrkrExtract](https://github.com/xmoezzz/KrkrExtract) | Extracts and packs Kirikiri (krkr2/krkrz) XP3 archives | 1,424 | 🗄️ | C++ |
+| [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat) | Browse VPKs and view, extract and decompile Source 2 assets | 2,555 | 🟢 | C# |
+| [vgmstream](https://github.com/vgmstream/vgmstream) | Library for playback of hundreds of streamed video game audio formats | 2,321 | 🟢 | C |
+| [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) | Modding, decompiling and unpacking tool for GameMaker games such as Undertale | 2,121 | 🟢 | C# |
+| [KrkrExtract](https://github.com/xmoezzz/KrkrExtract) | Extracts and packs Kirikiri (krkr2/krkrz) XP3 archives | 1,425 | 🗄️ | C++ |
+| [extract-xiso](https://github.com/XboxDev/extract-xiso) | Xbox ISO creation and extraction utility | 1,307 | 🟢 | C |
 | [vgmtrans](https://github.com/vgmtrans/vgmtrans) | Converts proprietary sequenced video game music formats to MIDI and SoundFont | 1,304 | 🟢 | C++ |
-| [extract-xiso](https://github.com/XboxDev/extract-xiso) | Xbox ISO creation and extraction utility | 1,303 | 🟢 | C |
-| [unrpyc](https://github.com/CensoredUsername/unrpyc) | Ren'Py compiled script (.rpyc) decompiler | 1,280 | 🟢 | Ren'Py |
-| [SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) | Create custom Nintendo Switch home-menu themes from the closed SZS layout format | 1,262 | 🟢 | C |
+| [unrpyc](https://github.com/CensoredUsername/unrpyc) | Ren'Py compiled script (.rpyc) decompiler | 1,281 | 🟢 | Ren'Py |
+| [SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) | Create custom Nintendo Switch home-menu themes from the closed SZS layout format | 1,263 | 🟢 | C |
 | [NHSE](https://github.com/kwsch/NHSE) | Animal Crossing: New Horizons save editor | 1,256 | 🟢 | C# |
 | [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) | Tool to edit many Nintendo game file formats | 1,240 | 🟢 | C# |
-| [WolvenKit](https://github.com/WolvenKit/WolvenKit) | Mod editor/creator for REDengine games (Cyberpunk 2077, Witcher 3) | 1,233 | 🟢 | C# |
+| [WolvenKit](https://github.com/WolvenKit/WolvenKit) | Mod editor/creator for REDengine games (Cyberpunk 2077, Witcher 3) | 1,235 | 🟢 | C# |
 | [palworld-server-tool](https://github.com/zaigie/palworld-server-tool) | Palworld dedicated server manager built on .sav save parsing plus REST and RCON | 1,194 | 🟢 | Go |
 | [UAssetGUI](https://github.com/atenfyr/UAssetGUI) | Tool for low-level examination and editing of Unreal Engine assets | 1,106 | 🟢 | C# |
-| [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) | Counter-Strike 2 and CS:GO demo parser for Go | 1,075 | 🟢 | Go |
+| [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) | Counter-Strike 2 and CS:GO demo parser for Go | 1,076 | 🟢 | Go |
 | [SourceIO](https://github.com/REDxEYE/SourceIO) | Blender addon importing Source engine textures, models and maps | 987 | 🟢 | Python |
-| [LSLib](https://github.com/Norbyte/lslib) | Tools for Larian Studios game formats (Divinity: Original Sin, Baldur's Gate 3) | 950 | 🟢 | C# |
-| [xEdit](https://github.com/TES5Edit/TES5Edit) | Module editor and conflict detector for Bethesda games | 910 | 🟢 | Pascal |
+| [LSLib](https://github.com/Norbyte/lslib) | Tools for Larian Studios game formats (Divinity: Original Sin, Baldur's Gate 3) | 951 | 🟢 | C# |
+| [xEdit](https://github.com/TES5Edit/TES5Edit) | Module editor and conflict detector for Bethesda games | 911 | 🟢 | Pascal |
 | [BSPSource](https://github.com/ata4/bspsrc) | Source engine map decompiler (BSP to VMF) | 882 | 🟢 | Java |
 | [SLADE (Doom)](https://github.com/sirjuddington/SLADE) | SLADE, a Doom WAD and game data editor | 881 | 🟢 | C++ |
 | [Crowbar](https://github.com/ZeqMacaw/Crowbar) | GoldSource and Source engine modding tool: model decompiler and compiler front-end | 843 | 🟢 | Visual Basic .NET |
 | [PalworldSaveTools](https://github.com/deafdudecomputers/PalworldSaveTools) | Toolkit to fix, transfer and edit Palworld save files | 824 | 🟢 | Python |
 | [Wwise-Unpacker](https://github.com/Vextil/Wwise-Unpacker) | Unpacks Wwise .pck/.bnk audio into playable files | 812 | 🟢 | Batchfile |
 | [Frosty Toolsuite](https://github.com/CadeEvs/FrostyToolsuite) | Modding tools for Frostbite engine games | 790 | 🟡 | C# |
-| [VPKEdit](https://github.com/craftablescience/VPKEdit) | CLI/GUI tool to create, read and write VPK and other pack formats | 782 | 🟢 | C++ |
+| [VPKEdit](https://github.com/craftablescience/VPKEdit) | CLI/GUI tool to create, read and write VPK and other pack formats | 783 | 🟢 | C++ |
 | [clarity](https://github.com/skadistats/clarity) | Fast replay parser for Dota 2, CS:GO, CS2 and Deadlock in Java | 775 | 🟢 | Java |
-| [unrpa](https://github.com/Lattyware/unrpa) | Extracts files from the Ren'Py RPA archive format | 772 | 🔴 | Python |
+| [unrpa](https://github.com/Lattyware/unrpa) | Extracts files from the Ren'Py RPA archive format | 773 | 🔴 | Python |
 | [CodeWalker](https://github.com/dexyfex/CodeWalker) | Interactive 3D map and asset editor for GTA V files | 767 | 🟡 | C# |
-| [Smithbox](https://github.com/vawser/Smithbox) | Modding tool for Elden Ring, Sekiro, Dark Souls and Armored Core VI | 764 | 🟢 | C# |
-| [UnityPack](https://github.com/HearthSim/UnityPack) | Python deserialization library for Unity3D asset bundles | 752 | 🔴 | Python |
+| [Smithbox](https://github.com/vawser/Smithbox) | Modding tool for Elden Ring, Sekiro, Dark Souls and Armored Core VI | 767 | 🟢 | C# |
+| [UnityPack](https://github.com/HearthSim/UnityPack) | Python deserialization library for Unity3D asset bundles | 753 | 🔴 | Python |
 | [demoparser](https://github.com/LaihoE/demoparser) | Counter-Strike 2 replay parser for Python and JavaScript | 741 | 🟢 | Rust |
 | [manta](https://github.com/dotabuff/manta) | Dota 2 replay parser in Go | 696 | 🟢 | Go |
-| [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET) | Library to read and write Unity assets and bundle files | 693 | 🟢 | C# |
-| [DSMapStudio](https://github.com/soulsmods/DSMapStudio) | Map and level editor for Demon's Souls, Dark Souls, Bloodborne, Sekiro and Elden Ring | 679 | 🟡 | C# |
+| [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET) | Library to read and write Unity assets and bundle files | 695 | 🟢 | C# |
+| [DSMapStudio](https://github.com/soulsmods/DSMapStudio) | Map and level editor for Demon's Souls, Dark Souls, Bloodborne, Sekiro and Elden Ring | 680 | 🟡 | C# |
 | [Obsidian](https://github.com/Crauzer/Obsidian) | WAD archive editor for League of Legends | 667 | 🟢 | TypeScript |
 | [StormLib](https://github.com/ladislav-zezula/StormLib) | Library for reading and writing Blizzard MPQ archives | 665 | 🟢 | C |
 | [NifSkope](https://github.com/niftools/nifskope) | Viewer and editor for NetImmerse/Gamebryo NIF files | 640 | 🟡 | C++ |
 | [rpatool](https://github.com/shizmob/rpatool) | Tool to work with Ren'Py RPA archives | 631 | 🗄️ | Python |
 | [OWLib / DataTool](https://github.com/overtools/OWLib) | Overwatch game data extraction library and tools | 624 | 🟢 | C# |
-| [jPSXdec](https://github.com/m35/jpsxdec) | Cross-platform PlayStation 1 audio and video converter | 609 | 🟢 | Java |
+| [jPSXdec](https://github.com/m35/jpsxdec) | Cross-platform PlayStation 1 audio and video converter | 610 | 🟢 | Java |
 | [repak](https://github.com/trumank/repak) | Unreal Engine .pak archive library and CLI in Rust | 597 | 🟢 | Rust |
 | [DS Anim Studio](https://github.com/Meowmaritus/DSAnimStudio) | Dark Souls TAE animation event editor | 594 | 🟢 | C# |
 | [wow.export](https://github.com/Kruithne/wow.export) | Export toolkit for World of Warcraft models, textures and maps | 594 | 🟢 | JavaScript |
+| [NSTool](https://github.com/jakcron/nstool) | General-purpose read/extract tool for Nintendo Switch file formats | 573 | 🟡 | C++ |
 | [Godot PCK Explorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) | Explorer, extractor and packer for Godot .pck files | 568 | 🟢 | C# |
-| [NSTool](https://github.com/jakcron/nstool) | General-purpose read/extract tool for Nintendo Switch file formats | 568 | 🟡 | C++ |
 | [io_import_psk_psa](https://github.com/Befzz/blender3d_import_psk_psa) | Blender addon to import Unreal PSK/PSA meshes, skeletons and animations | 567 | 🟡 | Python |
-| [u4pak](https://github.com/panzi/u4pak) | Unpack, pack and mount Unreal Engine 4 .pak archives | 562 | 🔴 | Python |
+| [u4pak](https://github.com/panzi/u4pak) | Unpack, pack and mount Unreal Engine 4 .pak archives | 561 | 🔴 | Python |
 | [Enigma](https://github.com/FabricMC/Enigma) | Deobfuscation and mapping tool for Java programs, used for Minecraft | 551 | 🟢 | Java |
 | [fast64](https://github.com/Fast-64/fast64) | Blender editor for scenes and meshes in first-party N64 game formats | 548 | 🟢 | Python |
-| [redscript](https://github.com/jac3km4/redscript) | Compiler/decompiler toolkit for Cyberpunk 2077's redscript | 547 | 🟢 | Rust |
+| [redscript](https://github.com/jac3km4/redscript) | Compiler/decompiler toolkit for Cyberpunk 2077's redscript | 548 | 🟢 | Rust |
 | [ninfs](https://github.com/ihaveamac/ninfs) | FUSE filesystem for Nintendo console file formats (3DS, Wii U, Switch) | 545 | 🟢 | Python |
-| [RPFM](https://github.com/Frodo45127/rpfm) | Rusted PackFile Manager for Total War game PackFiles | 532 | 🟢 | Rust |
-| [UAssetAPI](https://github.com/atenfyr/UAssetAPI) | Low-level .NET library for reading and writing Unreal Engine assets | 517 | 🟢 | C# |
+| [RPFM](https://github.com/Frodo45127/rpfm) | Rusted PackFile Manager for Total War game PackFiles | 534 | 🟢 | Rust |
+| [UAssetAPI](https://github.com/atenfyr/UAssetAPI) | Low-level .NET library for reading and writing Unreal Engine assets | 516 | 🟢 | C# |
 | [QuickBMS](https://github.com/LittleBigBug/QuickBMS) | GitHub mirror of QuickBMS game archive extractor | 512 | 🟡 | C |
 | [CascLib](https://github.com/ladislav-zezula/CascLib) | Library for reading Blizzard CASC storages | 505 | 🟢 | C++ |
-| [Pandora Behaviour Engine (Skyrim)](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus) | Behaviour engine and animation patcher for Skyrim | 502 | 🟢 | C# |
+| [Pandora Behaviour Engine (Skyrim)](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus) | Behaviour engine and animation patcher for Skyrim | 501 | 🟢 | C# |
 | [demofile](https://github.com/saul/demofile) | Node.js parser for CS:GO demo files | 494 | 🗄️ | JavaScript |
 | [HiveWE](https://github.com/stijnherfst/HiveWE) | A Warcraft III world editor. | 490 | 🟢 | C++ |
 | [OpenKH](https://github.com/OpenKH/OpenKh) | Kingdom Hearts libraries, tools, game engine and format documentation | 461 | 🟢 | C# |
@@ -108,7 +108,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Blender Niftools Addon](https://github.com/niftools/blender_niftools_addon) | Blender import/export of NetImmerse/Gamebryo NIF files | 439 | 🟡 | Python |
 | [FFXIV TexTools](https://github.com/TexTools/FFXIV_TexTools_UI) | Texture and model modding tool for Final Fantasy XIV | 434 | 🟢 | C# |
 | [tinke](https://github.com/pleonex/tinke) | Viewer and editor for the files of Nintendo DS games | 429 | 🗄️ | C# |
-| [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) | Extract and repack PAK archives from RE Engine games | 423 | 🟢 | C# |
+| [REE.PAK.Tool](https://github.com/Ekey/REE.PAK.Tool) | Extract and repack PAK archives from RE Engine games | 424 | 🟢 | C# |
 | [VNTranslationTools](https://github.com/arcusmaximus/VNTranslationTools) | Text extraction and reinsertion tools for many visual novel engines | 423 | 🗄️ | C# |
 | [3dstool](https://github.com/dnasdw/3dstool) | All-in-one tool for extracting and creating 3DS ROM formats | 417 | 🟢 | C |
 | [ww2ogg](https://github.com/hcs64/ww2ogg) | Converts Wwise RIFF/RIFX Vorbis to standard Ogg Vorbis | 404 | 🟡 | C++ |
@@ -117,27 +117,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) | Library and tools for PS4 PKG, SFO and PFS formats | 377 | 🔴 | C# |
 | [NBT](https://github.com/twoolie/NBT) | Python parser and writer for Minecraft NBT files and region files | 374 | 🟡 | Python |
 | [Kuriimu](https://github.com/IcySon55/Kuriimu) | General purpose game file and translation toolkit for fan translators | 372 | 🔴 | C# |
-| [LibGGPK3](https://github.com/aianlinb/LibGGPK3) | Library for Path of Exile Content.ggpk and bundle files | 348 | 🟢 | C# |
+| [LibGGPK3](https://github.com/aianlinb/LibGGPK3) | Library for Path of Exile Content.ggpk and bundle files | 349 | 🟢 | C# |
 | [gsc-tool](https://github.com/xensik/gsc-tool) | Compiler and decompiler for Call of Duty IW engine GSC game scripts | 344 | 🟢 | C++ |
-| [WoWDBDefs](https://github.com/wowdev/WoWDBDefs) | Client database (DB2) definitions for World of Warcraft | 339 | 🟢 | C# |
+| [WoWDBDefs](https://github.com/wowdev/WoWDBDefs) | Client database (DB2) definitions for World of Warcraft | 338 | 🟢 | C# |
 | [N64-Tools](https://github.com/jombo23/N64-Tools) | Tools for ripping and editing N64 game audio, graphics and data formats | 336 | 🟢 | C++ |
 | [unnpk](https://github.com/YJBeetle/unnpk) | Unpacker for NetEase NeoX engine NPK archives (Onmyoji, A Certain Magical Index) | 321 | 🔴 | C |
 | [demoinfo](https://github.com/StatsHelix/demoinfo) | C# library to analyze CS:GO demos | 320 | 🗄️ | C# |
 | [SC2k-docs](https://github.com/OpenCity2k/SC2k-docs) | Documentation of SimCity 2000 internals and file formats | 288 | 🟡 |  |
-| [NMSE](https://github.com/vectorcmdr/NMSE) | Open source save editor for No Man's Sky | 286 | 🟢 | C# |
+| [NMSE](https://github.com/vectorcmdr/NMSE) | Open source save editor for No Man's Sky | 287 | 🟢 | C# |
 | [Decima Workshop](https://github.com/ShadelessFox/decima-workshop) | Asset viewer and modding tool for Decima engine games | 270 | 🟢 | Java |
 | [Assembly](https://github.com/XboxChaos/Assembly) | Multi-generation Blam engine (Halo) map research and editing tool | 268 | 🟢 | C# |
 | [VGAudio](https://github.com/Thealexbarney/VGAudio) | Library for encoding and decoding video game audio formats (ADX, HCA, DSP, etc.) | 266 | 🔴 | C# |
 | [CriPakTools](https://github.com/esperknight/CriPakTools) | List, extract and update CRIWARE CPK archives | 260 | 🔴 | C# |
-| [retoc](https://github.com/trumank/retoc) | Tool for packing and unpacking Unreal Engine IoStore (.utoc/.ucas) containers | 256 | 🟢 | Rust |
+| [retoc](https://github.com/trumank/retoc) | Tool for packing and unpacking Unreal Engine IoStore (.utoc/.ucas) containers | 258 | 🟢 | Rust |
 | [Sims4Tools](https://github.com/s4ptacle/Sims4Tools) | s4pe package editor and tools for The Sims 4 formats | 255 | 🟡 | C# |
 | [aoc-mgz](https://github.com/happyleavesaoc/aoc-mgz) | Age of Empires II recorded game parser in Python | 235 | 🟢 | Python |
-| [apicula](https://github.com/scurest/apicula) | Extract, view and convert Nintendo DS .nsbmd models | 232 | 🟡 | Rust |
+| [apicula](https://github.com/scurest/apicula) | Extract, view and convert Nintendo DS .nsbmd models | 233 | 🟡 | Rust |
 | [NebulaFD](https://github.com/AITYunivers/NebulaFD) | Decompiler for Clickteam Fusion games | 231 | 🟢 | C# |
 | [godotdec](https://github.com/Bioruebe/godotdec) | Unpacker for Godot Engine .pck package files | 228 | 🟡 | C# |
 | [RE-Mesh-Editor](https://github.com/NSACloud/RE-Mesh-Editor) | Blender addon to import/export RE Engine mesh and mdf2 files | 219 | 🗄️ | Python |
+| [lsdpatch](https://github.com/jkotlinski/lsdpatch) | LSDj ROM patcher for replacing kits, fonts and palettes | 218 | 🟡 | Java |
 | [Tools](https://github.com/bartlomiejduda/Tools) | Tools to extract and modify files from many games | 218 | 🟢 | Python |
-| [lsdpatch](https://github.com/jkotlinski/lsdpatch) | LSDj ROM patcher for replacing kits, fonts and palettes | 217 | 🟡 | Java |
 | [MeltyTool](https://github.com/MeltyPlayer/MeltyTool) | Multitool to view and extract assets from N64, GameCube, 3DS and PC games | 216 | 🟢 | GLSL |
 | [wow.tools.local](https://github.com/Marlamin/wow.tools.local) | Locally runnable version of wow.tools for browsing WoW data | 216 | 🟢 | C# |
 | [vdf](https://github.com/ValvePython/vdf) | Python package for Valve's text and binary KeyValue (VDF) format | 214 | 🟡 | Python |
@@ -154,8 +154,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [CTR-tools](https://github.com/CTR-tools/CTR-tools) | C# framework and tools to parse Crash Team Racing (PS1) game files | 191 | 🟢 | C# |
 | [UmamusumeExplorer](https://github.com/MarshmallowAndroid/UmamusumeExplorer) | Asset viewer for Umamusume Pretty Derby | 189 | 🟢 | C# |
 | [PDTools](https://github.com/Nenkai/PDTools) | Tools and libraries for Gran Turismo (Polyphony Digital) file formats | 184 | 🟢 | C# |
-| [xvdtool](https://github.com/emoose/xvdtool) | Command-line tool for manipulating Xbox One XVD and XVC files | 183 | 🟢 | C# |
-| [Mutagen](https://github.com/Mutagen-Modding/Mutagen) | .NET library for analyzing and creating Bethesda plugin files | 180 | 🟢 | C# |
+| [xvdtool](https://github.com/emoose/xvdtool) | Command-line tool for manipulating Xbox One XVD and XVC files | 184 | 🟢 | C# |
+| [Mutagen](https://github.com/Mutagen-Modding/Mutagen) | .NET library for analyzing and creating Bethesda plugin files | 181 | 🟢 | C# |
 | [Charm](https://github.com/MontagueM/Charm) | Destiny 2 reverse engineering tool for extracting game files | 179 | 🟢 | C# |
 | [GCFT](https://github.com/LagoLunatic/GCFT) | GameCube File Tools GUI for common GameCube game formats | 176 | 🟢 | Python |
 | [Ruri.ShaderDecompiler](https://github.com/ShiyumeMeguri/Ruri.ShaderDecompiler) | Unity shader decompiler | 174 | 🟢 | C# |
@@ -168,9 +168,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fgui-restore](https://github.com/krapnikkk/fgui-restore) | Restores FairyGUI game UI resources back to editable projects | 161 | 🗄️ | JavaScript |
 | [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) | Data tools for Granblue Fantasy: Relink archives and formats | 161 | 🟢 | C# |
 | [cobra-tools](https://github.com/OpenNaja/cobra-tools) | Tools for extracting and modifying OVL/OVS archives from Planet Coaster, Planet Zoo and Jurassic World | 159 | 🟢 | Python |
+| [UnrealLocres](https://github.com/akintos/UnrealLocres) | Reads and writes Unreal Engine .locres localization files | 159 | 🔴 | C# |
 | [Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) | Blender add-on for Cyberpunk 2077 asset formats | 158 | 🟢 | Python |
 | [MafiaToolkit](https://github.com/Greavesy1899/MafiaToolkit) | Open source toolkit for Mafia II, III and Definitive Edition files | 158 | 🟢 | C# |
-| [UnrealLocres](https://github.com/akintos/UnrealLocres) | Reads and writes Unreal Engine .locres localization files | 158 | 🔴 | C# |
 | [wt-tools (War Thunder)](https://github.com/klensy/wt-tools) | Resource extraction tools for War Thunder | 158 | 🔴 | Python |
 | [Legendary Explorer](https://github.com/ME3Tweaks/LegendaryExplorer) | Editor toolset for Mass Effect Trilogy and Legendary Edition packages | 157 | 🟢 | C# |
 | [Halo Asset Blender Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) | Blender exporter for Halo CE, Halo 2, Halo 3 and ODST model and animation formats | 156 | 🟢 | Python |
@@ -182,12 +182,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Atian CoD Tools](https://github.com/ate47/atian-cod-tools) | Tools for Call of Duty games: script decompilers, asset dumpers and format utilities | 147 | 🟢 | C++ |
 | [MidiConverters](https://github.com/ValleyBell/MidiConverters) | Tools converting game music data into MIDI files | 147 | 🟢 | C |
 | [sourcepp](https://github.com/craftablescience/sourcepp) | C++ parsers for Source engine and related formats (VPK, VTF, MDL, BSP) | 147 | 🟢 | C++ |
+| [StarBreaker](https://github.com/diogotr7/StarBreaker) | Star Citizen game file reverse engineering toolkit (P4k, DCB) | 147 | 🟢 | Rust |
 | [liblcf](https://github.com/EasyRPG/liblcf) | Library to read and write RPG Maker 2000/2003 data formats | 146 | 🟢 | C++ |
-| [StarBreaker](https://github.com/diogotr7/StarBreaker) | Star Citizen game file reverse engineering toolkit (P4k, DCB) | 146 | 🟢 | Rust |
 | [VisualNovelUpscaler](https://github.com/hokejyo/VisualNovelUpscaler) | Upscales Kirikiri2/Z and Artemis visual novels to high resolution | 144 | 🔴 | Python |
 | [FortniteReplayDecompressor](https://github.com/Shiqan/FortniteReplayDecompressor) | Reads Fortnite replay files | 142 | 🟢 | C# |
 | [Wrench (Ratchet & Clank)](https://github.com/chaoticgd/wrench) | Modding toolset and asset editor for the PS2 Ratchet & Clank games | 141 | 🗄️ | C++ |
-| [d2s-format](https://github.com/krisives/d2s-format) | Diablo II save file format documentation | 136 | 🟡 |  |
+| [d2s-format](https://github.com/krisives/d2s-format) | Diablo II save file format documentation | 138 | 🟡 |  |
 | [Lumina](https://github.com/NotAdam/Lumina) | Framework for reading Final Fantasy XIV game data | 134 | 🟢 | C# |
 | [vstools](https://github.com/morris/vstools) | Toolset for Vagrant Story file formats in JavaScript | 132 | 🔴 | JavaScript |
 | [MaterialBinTool](https://github.com/ddf8196/MaterialBinTool) | Unpacks, packs and compiles Minecraft Bedrock RenderDragon material.bin shaders | 131 | 🟡 | Java |
@@ -214,8 +214,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [grand-theft-auto-for-unity](https://github.com/mukaschultze/grand-theft-auto-for-unity) | Loads original Grand Theft Auto map and model formats into Unity | 107 | 🟡 | C# |
 | [MwareStuff](https://github.com/marcussacana/MwareStuff) | Tools for the Mware visual novel engine | 106 | 🟢 | C# |
 | [pfs_upk](https://github.com/nextgal/pfs_upk) | Artemis engine PFS archive packer and unpacker | 105 | 🔴 | C++ |
+| [Texture64](https://github.com/queueRAM/Texture64) | N64 texture ripper and editor | 105 | 🔴 | C# |
 | [screp](https://github.com/icza/screp) | StarCraft: Brood War replay parser in Go | 104 | 🟢 | Go |
-| [Texture64](https://github.com/queueRAM/Texture64) | N64 texture ripper and editor | 104 | 🔴 | C# |
 | [playnote-studio](https://github.com/jaames/playnote-studio) | Unofficial Flipnote Studio animation player for the Playdate | 103 | 🟢 | Lua |
 | [MassEffectModder](https://github.com/MassEffectModder/MassEffectModder) | Texture modding tool for the Mass Effect trilogy | 101 | 🟢 | C++ |
 | [filepack](https://github.com/hz86/filepack) | Pack/unpack tool for Bishoujo Mangekyou visual novel .pack files | 99 | 🟢 | C |
@@ -225,7 +225,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Amicitia](https://github.com/tge-was-taken/Amicitia) | Editor for file formats used in Atlus' Persona games | 92 | 🟡 | C# |
 | [UnPSARC](https://github.com/rm-NoobInCoding/UnPSARC) | Unpacker and packer for PlayStation Archive (PSARC) files | 92 | 🟡 | C# |
 | [Meddle (FFXIV)](https://github.com/PassiveModding/Meddle) | Plugin for exporting models from Final Fantasy XIV | 91 | 🟢 | C# |
-| [ndspy](https://github.com/RoadrunnerWMC/ndspy) | Python library for many Nintendo DS file formats | 90 | 🟢 | Python |
+| [ndspy](https://github.com/RoadrunnerWMC/ndspy) | Python library for many Nintendo DS file formats | 91 | 🟢 | Python |
 | [AFSPacker](https://github.com/MaikelChan/AFSPacker) | Creator and extractor for CRI AFS archives used in many console games | 89 | 🟡 | C# |
 | [PS1-Argonaut-Reverse](https://github.com/OverSurge/PS1-Argonaut-Reverse) | Reverse engineering of Argonaut PS1 game formats (Harry Potter, Croc 2) | 89 | 🟡 | Python |
 | [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader) | Three.js loader for Valve Source engine models | 87 | 🟡 | JavaScript |
@@ -257,9 +257,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [blender-i3d-importer](https://github.com/nadine-brinkmann/blender-i3d-importer) | Blender add-on for importing Farming Simulator .i3d files | 64 | 🟢 | Python |
 | [Foundry (Halo)](https://github.com/ILoveAGoodCrisp/Foundry) | Blender add-on for Halo Reach, Halo 4 and Halo 2 Anniversary asset formats | 64 | 🟢 | Python |
 | [il2cpp-stringliteral-patcher](https://github.com/jozsefsallai/il2cpp-stringliteral-patcher) | Extracts and patches string literals in Unity global-metadata.dat files | 64 | 🟡 | Python |
-| [odradek (Decima)](https://github.com/ShadelessFox/odradek) | Asset viewer and extractor for Horizon Forbidden West and Death Stranding 2 | 62 | 🟢 | Java |
+| [odradek (Decima)](https://github.com/ShadelessFox/odradek) | Asset viewer and extractor for Horizon Forbidden West and Death Stranding 2 | 64 | 🟢 | Java |
+| [god_of_war_browser](https://github.com/mogaika/god_of_war_browser) | Browser and extractor for God of War (PS2) game files | 62 | 🟢 | Go |
 | [UnrealLocresEditor](https://github.com/Snoozeds/UnrealLocresEditor) | Editor for Unreal Engine .locres localization files | 62 | 🟢 | C# |
-| [god_of_war_browser](https://github.com/mogaika/god_of_war_browser) | Browser and extractor for God of War (PS2) game files | 61 | 🟢 | Go |
 | [gctools](https://github.com/fuzziqersoftware/gctools) | Video game file translation tools | 60 | 🟡 |  |
 | [DarkSoulsIII.FileFormats](https://github.com/Atvaark/DarkSoulsIII.FileFormats) | Dark Souls III archive file format information | 59 | 🔴 |  |
 | [SM64DSe](https://github.com/Arisotura/SM64DSe) | Level, text and model editor for Super Mario 64 DS | 59 | 🔴 | C# |
@@ -331,16 +331,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [UnityTexTool](https://github.com/wmltogether/UnityTexTool) | Converts Unity Texture2D files unpacked from asset packs | 29 | 🗄️ | C# |
 | [AWTools](https://github.com/Nostritius/AWTools) | Tools for reverse-engineered file formats of Alan Wake and later Remedy games | 28 | 🔴 | Python |
 | [Urgon (Indiana Jones)](https://github.com/smlu/Urgon) | Tools for Indiana Jones and the Infernal Machine | 28 | 🟡 | C++ |
-| [ZenTools](https://github.com/WistfulHopes/ZenTools-UE4) | Tools for extracting Unreal Engine IoStore (Zen) packages | 28 | 🟡 | C++ |
 | [albam](https://github.com/Brachi/albam) | Modding tool for Capcom MT Framework games | 27 | 🟢 | Python |
 | [Light.vnTools](https://github.com/bungaku-moe/Light.vnTools) | Unpacker and repacker for games made with the Light.vn engine | 27 | 🟡 | C# |
 | [PakWorkbench (Arma Reforger)](https://github.com/Rendszerguru/PakWorkbench) | Asset analysis tool and PAK extractor for Arma Reforger | 27 | 🟢 | C# |
 | [sarc](https://github.com/zeldamods/sarc) | Reader and writer for the Nintendo SARC archive format | 27 | 🟡 | Python |
+| [saveeditor](https://github.com/paradoxie/saveeditor) | Online save file editor for RPG Maker, Unity, Ren'Py and Unreal Engine games | 27 | 🟢 | TypeScript |
 | [SL2Bonfire](https://github.com/mi5hmash/SL2Bonfire) | Unpacks, packs and re-signs SL2 save data from FromSoftware games | 27 | 🟡 | C# |
 | [tailslab (Need for Speed)](https://github.com/AndyGura/tailslab) | Editor, converter and byte-level specs for classic Need for Speed file formats | 27 | 🟢 | Python |
 | [ubiart-secure-fat](https://github.com/wukko/ubiart-secure-fat) | UbiArt secure_fat.gf generator for modding Just Dance and Rayman Legends | 27 | 🔴 | Python |
+| [ZenTools](https://github.com/WistfulHopes/ZenTools-UE4) | Tools for extracting Unreal Engine IoStore (Zen) packages | 27 | 🟡 | C++ |
 | [dftools (Dark Forces)](https://github.com/njankowski/dftools) | Tools for Star Wars: Dark Forces assets | 26 | 🔴 | Python |
-| [saveeditor](https://github.com/paradoxie/saveeditor) | Online save file editor for RPG Maker, Unity, Ren'Py and Unreal Engine games | 26 | 🟢 | TypeScript |
 | [SnowRunnerTools](https://github.com/chase-000/SnowRunnerTools) | Tools for SnowRunner game files | 26 | 🔴 | C# |
 | [channelzss](https://github.com/Octocontrabass/channelzss) | Tools for the Sega Channel LZSS compression format | 25 | 🔴 | C |
 | [fallout-shelter-save-editor](https://github.com/dneverson/fallout-shelter-save-editor) | Browser-based save editor for Fallout Shelter | 25 | 🟢 | TypeScript |
@@ -354,20 +354,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Gibbed.SleepingDogs](https://github.com/gibbed/Gibbed.SleepingDogs) | Tools for Sleeping Dogs: Definitive Edition | 23 | 🔴 | C# |
 | [darkstone-re](https://github.com/glampert/darkstone-re) | Tools to reverse engineer the file formats of the game Darkstone | 22 | 🟢 | C |
 | [FEZRepacker](https://github.com/FEZModding/FEZRepacker) | Tool and library for unpacking and repacking FEZ assets | 22 | 🟢 | C# |
+| [moonglow-toolset](https://github.com/jadzziaa/moonglow-toolset) | Reimplementation of the Neverwinter Nights: Enhanced Edition Aurora Toolset in Rust | 22 | 🟢 | Rust |
 | [WAD-Tool (Neversoft)](https://github.com/DCxDemo/WAD-Tool) | Packer and unpacker for Neversoft Big Guns engine WAD archives (Tony Hawk's Pro Skater) | 22 | 🔴 | C# |
 | [AJT-Tools](https://github.com/Aclios/AJT-Tools) | Capcom RE Engine modding tools | 21 | 🟡 | Python |
 | [driver_psx_level](https://github.com/SoapyMan/driver_psx_level) | Level loader for Driver 1 and 2 (PS1) | 21 | 🗄️ | C++ |
 | [fxc-converter (GTA)](https://github.com/gtasnail/fxc-converter) | Unpacks and repacks GTA .fxc shader files | 21 | 🟡 | Rust |
 | [leotools](https://github.com/jkbenaim/leotools) | Tools for 64DD disk images and the files they contain | 21 | 🔴 | C |
 | [lfgfx](https://github.com/ethteck/lfgfx) | Detection and analysis of N64 graphics data in ROMs | 21 | 🔴 | Python |
-| [moonglow-toolset](https://github.com/jadzziaa/moonglow-toolset) | Reimplementation of the Neverwinter Nights: Enhanced Edition Aurora Toolset in Rust | 21 | 🟢 | Rust |
 | [SharpNeedle](https://github.com/hedge-dev/SharpNeedle) | C# library for reading and writing Sonic Hedgehog Engine file formats | 21 | 🟢 | C# |
 | [TalesOfTools](https://github.com/DaZombieKiller/TalesOfTools) | Tools for the Tales of series (Xillia, Zestiria, Berseria, Graces f) | 21 | 🟢 | C# |
 | [Empire-Earth-Studio-2](https://github.com/EE-modders/Empire-Earth-Studio-2) | Editor for Empire Earth game data | 20 | 🟡 | Python |
 | [GCNToolKit](https://github.com/Cuyler36/GCNToolKit) | Toolkit for modifying and creating GameCube file formats | 20 | 🔴 | C# |
-| [kanim-explorer](https://github.com/romen-h/kanim-explorer) | Viewer and editor for Oxygen Not Included .kanim files | 20 | 🟢 | C# |
 | [ShinDataUtil](https://github.com/DCNick3/ShinDataUtil) | This is an utility for working with game files of Higurashi no Naku Koro ni and Kono Subarashii Sekai ni Shukufuku wo... | 20 | 🟢 | C# |
 | [Siege Studio](https://github.com/open-siege/siege-studio) | Siege Studio is a desktop application for previewing, modifying and converting reverse engineered file formats for ga... | 20 | 🟢 | C++ |
+| [kanim-explorer](https://github.com/romen-h/kanim-explorer) | Viewer and editor for Oxygen Not Included .kanim files | 19 | 🟢 | C# |
 | [Princed Resources](https://github.com/NagyD/PR) | Princed Resources is a tool to export and import graphics and other data from and to DAT files of Prince of Persia 1... | 19 | 🔴 | C |
 | [HedgehogEngineBlenderIO](https://github.com/hedge-dev/HedgehogEngineBlenderIO) | Blender add-on to import and export Sonic Hedgehog Engine 3D file formats | 18 | 🟢 | Python |
 | [Flipnote-Player](https://github.com/pbsds/Flipnote-Player) | Player for Flipnote Studio DSi files from storage or Hatena private servers | 17 | 🔴 | Python |
@@ -444,62 +444,62 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux and macOS | 34,088 | 🟢 | C++ |
+| [shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux and macOS | 34,097 | 🟢 | C++ |
 | [v86](https://github.com/copy/v86) | v86, an x86 PC emulator and x86-to-wasm JIT running in the browser | 23,669 | 🟢 | JavaScript |
-| [RPCS3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | 20,371 | 🟢 | C++ |
-| [PCSX2](https://github.com/PCSX2/pcsx2) | PlayStation 2 emulator | 16,021 | 🟢 | C++ |
-| [Dolphin](https://github.com/dolphin-emu/dolphin) | GameCube and Wii emulator | 15,777 | 🟢 | C++ |
-| [ppsspp](https://github.com/hrydgard/ppsspp) | PPSSPP, a PSP emulator for Android, Windows, macOS, Linux and iOS | 14,859 | 🟢 | C++ |
-| [DuckStation](https://github.com/stenzek/duckstation) | PlayStation 1 emulator focused on accuracy and speed | 10,970 | 🟢 | C++ |
-| [mame](https://github.com/mamedev/mame) | MAME, the multi-system arcade and computer emulator | 10,702 | 🟢 | C++ |
-| [Cemu](https://github.com/cemu-project/Cemu) | Cemu, a Wii U emulator | 10,111 | 🟢 | C++ |
-| [mgba](https://github.com/mgba-emu/mgba) | mGBA, an accurate Game Boy Advance emulator | 7,575 | 🟢 | C |
+| [RPCS3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | 20,379 | 🟢 | C++ |
+| [PCSX2](https://github.com/PCSX2/pcsx2) | PlayStation 2 emulator | 16,027 | 🟢 | C++ |
+| [Dolphin](https://github.com/dolphin-emu/dolphin) | GameCube and Wii emulator | 15,781 | 🟢 | C++ |
+| [ppsspp](https://github.com/hrydgard/ppsspp) | PPSSPP, a PSP emulator for Android, Windows, macOS, Linux and iOS | 14,866 | 🟢 | C++ |
+| [DuckStation](https://github.com/stenzek/duckstation) | PlayStation 1 emulator focused on accuracy and speed | 10,973 | 🟢 | C++ |
+| [mame](https://github.com/mamedev/mame) | MAME, the multi-system arcade and computer emulator | 10,705 | 🟢 | C++ |
+| [Cemu](https://github.com/cemu-project/Cemu) | Cemu, a Wii U emulator | 10,122 | 🟢 | C++ |
+| [mgba](https://github.com/mgba-emu/mgba) | mGBA, an accurate Game Boy Advance emulator | 7,581 | 🟢 | C |
 | [jsnes](https://github.com/bfirsh/jsnes) | jsnes, a JavaScript NES emulator | 6,435 | 🟢 | JavaScript |
-| [Vita3K](https://github.com/Vita3K/Vita3K) | Experimental PlayStation Vita emulator | 5,958 | 🟢 | C++ |
+| [Vita3K](https://github.com/Vita3K/Vita3K) | Experimental PlayStation Vita emulator | 5,955 | 🟢 | C++ |
 | [PyBoy](https://github.com/Baekalfen/PyBoy) | Game Boy emulator written in Python, with an API for scripting and AI agents | 5,235 | 🟢 | Python |
-| [melonDS](https://github.com/melonDS-emu/melonDS) | melonDS, a Nintendo DS emulator with DSi and local wireless support | 5,190 | 🟢 | C++ |
-| [SimpleNES](https://github.com/amhndu/SimpleNES) | SimpleNES, an NES emulator in C++ | 5,115 | 🟡 | C++ |
+| [melonDS](https://github.com/melonDS-emu/melonDS) | melonDS, a Nintendo DS emulator with DSi and local wireless support | 5,192 | 🟢 | C++ |
+| [SimpleNES](https://github.com/amhndu/SimpleNES) | SimpleNES, an NES emulator in C++ | 5,114 | 🟡 | C++ |
 | [86Box](https://github.com/86Box/86Box) | 86Box, an emulator of x86-based machines | 4,988 | 🟢 | C |
 | [xemu](https://github.com/xemu-project/xemu) | xemu, an original Xbox emulator built on low-level hardware emulation | 4,245 | 🟢 | C |
-| [visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) | VisualBoyAdvance-M, a Game Boy Advance emulator | 3,944 | 🟢 | C++ |
+| [visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) | VisualBoyAdvance-M, a Game Boy Advance emulator | 3,945 | 🟢 | C++ |
 | [dosbox-x](https://github.com/joncampbell123/dosbox-x) | DOSBox-X, a DOS and PC-98 emulator | 3,804 | 🟢 | C |
-| [desmume](https://github.com/TASEmulators/desmume) | DeSmuME, a Nintendo DS emulator | 3,681 | 🟢 | C++ |
+| [desmume](https://github.com/TASEmulators/desmume) | DeSmuME, a Nintendo DS emulator | 3,682 | 🟢 | C++ |
 | [orbital](https://github.com/AlexAltea/orbital) | Orbital, an experimental PlayStation 4 emulator | 3,652 | 🟡 | C |
-| [snes9x](https://github.com/snes9xgit/snes9x) | Snes9x, a portable Super Nintendo emulator | 3,388 | 🟢 | C++ |
-| [Main_MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) | Main binary of MiSTer, the open FPGA platform for recreating retro consoles and computers | 3,308 | 🟢 | C++ |
-| [project64](https://github.com/project64/project64) | Project64, a long-running Nintendo 64 emulator for Windows | 3,073 | 🟢 | C++ |
-| [BizHawk](https://github.com/TASEmulators/BizHawk) | BizHawk, a multi-system emulator with TAS tools | 2,812 | 🟢 | C# |
-| [Xenia Canary](https://github.com/xenia-canary/xenia-canary) | Experimental fork of the Xenia Xbox 360 emulator | 2,754 | 🟢 | C++ |
+| [snes9x](https://github.com/snes9xgit/snes9x) | Snes9x, a portable Super Nintendo emulator | 3,391 | 🟢 | C++ |
+| [Main_MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) | Main binary of MiSTer, the open FPGA platform for recreating retro consoles and computers | 3,309 | 🟢 | C++ |
+| [project64](https://github.com/project64/project64) | Project64, a long-running Nintendo 64 emulator for Windows | 3,074 | 🟢 | C++ |
+| [BizHawk](https://github.com/TASEmulators/BizHawk) | BizHawk, a multi-system emulator with TAS tools | 2,814 | 🟢 | C# |
+| [Xenia Canary](https://github.com/xenia-canary/xenia-canary) | Experimental fork of the Xenia Xbox 360 emulator | 2,756 | 🟢 | C++ |
 | [Play-](https://github.com/jpd002/Play-) | Play!, a PlayStation 2 emulator | 2,733 | 🟢 | C++ |
-| [flycast](https://github.com/flyinghead/flycast) | Flycast, a Sega Dreamcast, Naomi and Atomiswave emulator | 2,643 | 🟢 | C++ |
+| [flycast](https://github.com/flyinghead/flycast) | Flycast, a Sega Dreamcast, Naomi and Atomiswave emulator | 2,647 | 🟢 | C++ |
 | [Mesen2](https://github.com/SourMesen/Mesen2) | Mesen 2, a multi-system emulator (NES, SNES, GB, GBA, PCE, SMS, WS) | 2,413 | 🗄️ | C++ |
-| [strato](https://github.com/strato-emu/strato) | Strato, a Nintendo Switch emulator for Android | 2,350 | 🟡 | C++ |
-| [SameBoy](https://github.com/LIJI32/SameBoy) | Accuracy-focused Game Boy and Game Boy Color emulator written in C | 2,239 | 🟢 | C |
+| [strato](https://github.com/strato-emu/strato) | Strato, a Nintendo Switch emulator for Android | 2,352 | 🟡 | C++ |
+| [SameBoy](https://github.com/LIJI32/SameBoy) | Accuracy-focused Game Boy and Game Boy Color emulator written in C | 2,240 | 🟢 | C |
 | [EKA2L1](https://github.com/EKA2L1/EKA2L1) | EKA2L1, a Symbian OS and N-Gage emulator | 2,071 | 🟢 | C++ |
 | [GPCS4](https://github.com/Inori/GPCS4) | GPCS4, a work-in-progress PlayStation 4 emulator | 2,032 | 🔴 | C++ |
 | [bsnes](https://github.com/bsnes-emu/bsnes) | bsnes, an accuracy-focused Super Nintendo emulator | 2,016 | 🟢 | C++ |
-| [metalnes](https://github.com/iaddis/metalnes) | Transistor-level NES simulation | 1,955 | 🔴 | JavaScript |
-| [pcem](https://github.com/sarah-walker-pcem/pcem) | PCem, an emulator of vintage x86 PCs | 1,950 | 🟢 | C |
+| [metalnes](https://github.com/iaddis/metalnes) | Transistor-level NES simulation | 1,954 | 🔴 | JavaScript |
+| [pcem](https://github.com/sarah-walker-pcem/pcem) | PCem, an emulator of vintage x86 PCs | 1,951 | 🟢 | C |
 | [simh](https://github.com/simh/simh) | SIMH, the Computer History Simulation Project for historic minicomputers and mainframes | 1,892 | 🟢 | C |
-| [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) | Android port of the melonDS Nintendo DS emulator | 1,745 | 🟢 | Kotlin |
-| [macemu](https://github.com/cebix/macemu) | Basilisk II and SheepShaver classic Macintosh emulators | 1,638 | 🟡 | C++ |
-| [FBNeo](https://github.com/finalburnneo/FBNeo) | FinalBurn Neo, an arcade and console emulator | 1,564 | 🟢 | C++ |
+| [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) | Android port of the melonDS Nintendo DS emulator | 1,753 | 🟢 | Kotlin |
+| [macemu](https://github.com/cebix/macemu) | Basilisk II and SheepShaver classic Macintosh emulators | 1,639 | 🟡 | C++ |
+| [FBNeo](https://github.com/finalburnneo/FBNeo) | FinalBurn Neo, an arcade and console emulator | 1,566 | 🟢 | C++ |
 | [LaiNES](https://github.com/AndreaOrru/LaiNES) | LaiNES, a compact cycle-accurate NES emulator | 1,518 | 🟡 | C++ |
-| [Panda3DS](https://github.com/wheremyfoodat/Panda3DS) | HLE 3DS emulator | 1,415 | 🟢 | C++ |
+| [Panda3DS](https://github.com/wheremyfoodat/Panda3DS) | HLE 3DS emulator | 1,416 | 🟢 | C++ |
 | [higan](https://github.com/higan-emu/higan) | higan, an accuracy-focused multi-system emulator | 1,362 | 🟡 | GLSL |
-| [gopher64](https://github.com/gopher64/gopher64) | gopher64, a highly compatible Nintendo 64 emulator | 1,348 | 🟢 | Rust |
+| [gopher64](https://github.com/gopher64/gopher64) | gopher64, a highly compatible Nintendo 64 emulator | 1,351 | 🟢 | Rust |
 | [js-dos](https://github.com/caiiiycuk/js-dos) | js-dos, an API for running DOS programs in the browser | 1,348 | 🟢 | TypeScript |
 | [Mesen](https://github.com/SourMesen/Mesen) | Mesen, a cross-platform NES/Famicom emulator | 1,324 | 🗄️ | C++ |
-| [SkyEmu](https://github.com/skylersaleh/SkyEmu) | SkyEmu, a Game Boy Advance, Game Boy and DS emulator | 1,315 | 🟢 | C |
+| [SkyEmu](https://github.com/skylersaleh/SkyEmu) | SkyEmu, a Game Boy Advance, Game Boy and DS emulator | 1,318 | 🟢 | C |
 | [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) | NanoBoyAdvance, a cycle-accurate Game Boy Advance emulator | 1,311 | 🗄️ | C++ |
 | [decaf-emu](https://github.com/decaf-emu/decaf-emu) | decaf-emu, a Wii U emulator research project | 1,279 | 🟡 | C++ |
 | [pcjs](https://github.com/jeffpar/pcjs) | PCjs, emulations of the original IBM PC and other machines in JavaScript | 1,231 | 🟢 | JavaScript |
-| [Gearboy](https://github.com/drhelius/Gearboy) | Gearboy, a Game Boy / Color emulator and debugger | 1,219 | 🟢 | C++ |
+| [Gearboy](https://github.com/drhelius/Gearboy) | Gearboy, a Game Boy / Color emulator and debugger | 1,221 | 🟢 | C++ |
 | [dosbox-pure](https://github.com/schellingb/dosbox-pure) | DOSBox Pure, a DOSBox fork for libretro | 1,185 | 🟢 |  |
 | [metroboy](https://github.com/aappleby/metroboy) | Gate-level simulators and tools for the original Game Boy | 1,179 | 🟡 | C++ |
 | [NooDS](https://github.com/Hydr8gon/NooDS) | NooDS, a fast Nintendo DS emulator | 1,166 | 🟢 | C++ |
 | [CLK](https://github.com/TomHarte/CLK) | Clock Signal, an emulator of many 8- and 16-bit computers and consoles | 1,152 | 🟢 | C++ |
-| [RMG](https://github.com/Rosalie241/RMG) | Rosalie's Mupen GUI, a cross-platform mupen64plus-based N64 emulator | 1,144 | 🟢 | C++ |
+| [RMG](https://github.com/Rosalie241/RMG) | Rosalie's Mupen GUI, a cross-platform mupen64plus-based N64 emulator | 1,146 | 🟢 | C++ |
 | [reicast-emulator](https://github.com/skmp/reicast-emulator) | Reicast, a multiplatform Sega Dreamcast emulator | 1,135 | 🗄️ | C++ |
 | [gbajs](https://github.com/endrift/gbajs) | Game Boy Advance emulator in the browser | 1,092 | 🗄️ | JavaScript |
 | [ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) | ProjectPSX, an experimental PlayStation emulator in C# | 1,085 | 🟢 | C# |
@@ -507,15 +507,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) | Genesis Plus GX, an accurate Sega 8/16-bit and Mega CD emulator | 974 | 🟢 | C |
 | [mooneye-gb](https://github.com/Gekkio/mooneye-gb) | Game Boy research project and emulator written in Rust | 971 | 🔴 | Rust |
 | [martypc](https://github.com/dbalsom/martypc) | MartyPC, a cycle-accurate IBM PC/XT/PCjr/Tandy emulator | 955 | 🟢 | Rust |
-| [nestopia](https://github.com/0ldsk00l/nestopia) | Nestopia, a cross-platform NES emulator core with GUI | 950 | 🟢 | C++ |
-| [AppleWin](https://github.com/AppleWin/AppleWin) | AppleWin, an Apple II emulator for Windows | 940 | 🟢 | C |
+| [nestopia](https://github.com/0ldsk00l/nestopia) | Nestopia, a cross-platform NES emulator core with GUI | 952 | 🟢 | C++ |
+| [AppleWin](https://github.com/AppleWin/AppleWin) | AppleWin, an Apple II emulator for Windows | 941 | 🟢 | C |
 | [pce](https://github.com/jsdf/pce) | PCE, emulating the Mac Plus, IBM PC and Atari ST in the browser via WebAssembly | 919 | 🟢 | C |
 | [fake-08](https://github.com/jtothebell/fake-08) | Pico-8 player and emulator for console homebrew | 887 | 🟢 | C++ |
 | [cen64](https://github.com/n64dev/cen64) | Cycle-accurate Nintendo 64 emulator | 840 | 🟡 | C |
-| [obliteration](https://github.com/obhq/obliteration) | Experimental open-source PlayStation 4 kernel reimplementation and emulator | 828 | 🟢 | Rust |
+| [obliteration](https://github.com/obhq/obliteration) | Experimental open-source PlayStation 4 kernel reimplementation and emulator | 827 | 🟢 | Rust |
 | [puNES](https://github.com/punesemu/puNES) | puNES, a Qt-based NES emulator and NSF player | 824 | 🟢 | C |
 | [pinky](https://github.com/koute/pinky) | NES emulator written in Rust | 809 | 🟡 | Rust |
-| [halfix](https://github.com/nepx/halfix) | Halfix, an x86 PC emulator that runs natively and in the browser | 793 | 🔴 | C |
+| [halfix](https://github.com/nepx/halfix) | Halfix, an x86 PC emulator that runs natively and in the browser | 792 | 🔴 | C |
 | [stella](https://github.com/stella-emu/stella) | Stella, a multi-platform Atari 2600 emulator | 773 | 🟢 | C++ |
 | [jsGB](https://github.com/Two9A/jsGB) | JavaScript emulation of the Game Boy | 752 | 🔴 | JavaScript |
 | [bsnes-hd](https://github.com/DerKoun/bsnes-hd) | bsnes fork adding HD Mode 7 and widescreen features | 712 | 🟢 | GLSL |
@@ -531,15 +531,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rustation](https://github.com/simias/rustation) | Rustation, a PlayStation emulator in Rust | 586 | 🟢 | Rust |
 | [Avocado](https://github.com/JaCzekanski/Avocado) | Avocado, a PlayStation 1 emulator | 582 | 🔴 | C++ |
 | [openMSX](https://github.com/openMSX/openMSX) | openMSX, an accuracy-focused MSX emulator | 569 | 🟢 | C++ |
-| [VerilogBoy](https://github.com/zephray/VerilogBoy) | VerilogBoy, a Game Boy implemented in Verilog for FPGAs | 551 | 🔴 | Verilog |
+| [VerilogBoy](https://github.com/zephray/VerilogBoy) | VerilogBoy, a Game Boy implemented in Verilog for FPGAs | 552 | 🔴 | Verilog |
 | [DSVita](https://github.com/Grarak/DSVita) | Fast Nintendo DS emulator for ARM32 and PS Vita | 536 | 🟢 | Rust |
 | [DobieStation](https://github.com/PSI-Rockin/DobieStation) | DobieStation, a PlayStation 2 emulator | 516 | 🔴 | C++ |
 | [WebMSX](https://github.com/ppeccin/WebMSX) | WebMSX, an online MSX emulator | 484 | 🟢 | HTML |
 | [GameLad](https://github.com/Dooskington/GameLad) | GameLad, an almost fully featured Game Boy emulator | 465 | 🟢 | C++ |
 | [jsmess](https://github.com/jsmess/jsmess) | Efforts to port MESS to JavaScript | 447 | 🔴 | Shell |
 | [pearpc](https://github.com/sebastianbiallas/pearpc) | PearPC, a PowerPC architecture emulator | 442 | 🟢 | C++ |
+| [NP2kai](https://github.com/AZO234/NP2kai) | Neko Project II kai, an NEC PC-9801 emulator | 440 | 🟢 | C |
 | [zesarux](https://github.com/chernandezba/zesarux) | ZEsarUX, a ZX Spectrum and Z88 emulator | 440 | 🟢 | C |
-| [NP2kai](https://github.com/AZO234/NP2kai) | Neko Project II kai, an NEC PC-9801 emulator | 438 | 🟢 | C |
 | [atari800](https://github.com/atari800/atari800) | Atari 8-bit computer and 5200 console emulator | 433 | 🟢 | C |
 | [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL) | DaedalusX64 Nintendo 64 emulator ported to PS Vita through vitaGL | 431 | 🟢 | C++ |
 | [mikage-dev](https://github.com/mikage-emu/mikage-dev) | Mikage Developer Edition | 421 | 🟡 | C++ |
@@ -559,12 +559,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wabbitemu](https://github.com/sputt/wabbitemu) | Wabbitemu, a Z80 TI calculator emulator | 336 | 🟢 | C |
 | [sodium64](https://github.com/Hydr8gon/sodium64) | SNES emulator for the Nintendo 64, written in assembly | 332 | 🟡 | Assembly |
 | [Xenon](https://github.com/xenon-emu/xenon) | Low-level Xbox 360 emulator for researching Xenon hardware | 331 | 🟢 | C++ |
+| [pinmame](https://github.com/vpinball/pinmame) | PinMAME, an emulator for pinball machine hardware | 322 | 🟢 | C |
 | [1964GEPD](https://github.com/Graslu/1964GEPD) | 1964 N64 emulator build tuned for GoldenEye 007 and Perfect Dark | 321 | 🗄️ | C |
 | [jitboy](https://github.com/sysprog21/jitboy) | Game Boy emulator with dynamic recompilation (JIT) | 321 | 🔴 | C |
-| [pinmame](https://github.com/vpinball/pinmame) | PinMAME, an emulator for pinball machine hardware | 320 | 🟢 | C |
 | [Nuked-MD-FPGA](https://github.com/nukeykt/Nuked-MD-FPGA) | Mega Drive/Genesis Verilog core derived from die-level reverse engineering | 319 | 🟡 | Verilog |
 | [gameroy](https://github.com/Rodrigodd/gameroy) | Game Boy emulator, disassembler and debugger in Rust | 314 | 🟡 | Rust |
-| [mupen64plus-libretro-nx](https://github.com/libretro/mupen64plus-libretro-nx) | Mupen64Plus Nintendo 64 emulator libretro core | 307 | 🟢 | C |
+| [mupen64plus-libretro-nx](https://github.com/libretro/mupen64plus-libretro-nx) | Mupen64Plus Nintendo 64 emulator libretro core | 308 | 🟢 | C |
 | [IodineGBA](https://github.com/taisel/IodineGBA) | IodineGBA, a JavaScript Game Boy Advance emulator | 297 | 🔴 | JavaScript |
 | [FBAlpha](https://github.com/barry65536/FBAlpha) | FB Alpha, an arcade emulator | 282 | 🗄️ | C++ |
 | [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS) | Corgi3DS, a low-level Nintendo 3DS emulator | 250 | 🔴 | C++ |
@@ -575,8 +575,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rustual-boy](https://github.com/emu-rs/rustual-boy) | Rustual Boy, a Virtual Boy emulator | 232 | 🗄️ | Rust |
 | [MedNES](https://github.com/wpmed92/MedNES) | MedNES, a cycle-accurate cross-platform NES emulator | 226 | 🔴 | C++ |
 | [breaks](https://github.com/emu-russia/breaks) | Transistor-level reverse engineering of NES/Famicom chips | 223 | 🟢 | Verilog |
+| [NC2000](https://github.com/wangyu-/NC2000) | Emulator for the 6502-based Wenquxing NC2000/NC1020 electronic dictionaries | 213 | 🟢 | C++ |
 | [xnes](https://github.com/tjwei/xnes) | JavaScript SNES emulator | 213 | 🔴 | C++ |
-| [NC2000](https://github.com/wangyu-/NC2000) | Emulator for the 6502-based Wenquxing NC2000/NC1020 electronic dictionaries | 212 | 🟢 | C++ |
 | [giibiiadvance](https://github.com/AntonioND/giibiiadvance) | GB, GBC and GBA emulator with Game Boy Camera support | 210 | 🟢 | C |
 | [Mu](https://github.com/meepingsnesroms/Mu) | Mu, a Palm OS emulator | 206 | 🟡 | C |
 | [pureikyubu](https://github.com/emu-russia/pureikyubu) | Nintendo GameCube emulator | 197 | 🟢 | C++ |
@@ -622,8 +622,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [1964js](https://github.com/schibo/1964js) | Nintendo 64 emulator in JavaScript | 77 | 🟡 | CoffeeScript |
 | [Cxbx-Reloaded](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded) | Original Xbox emulator via HLE of reverse engineered XDK libraries | 77 | 🟢 | C++ |
 | [libevmu](https://github.com/gyrovorbis/libevmu) | Accurate cross-platform library emulating the Dreamcast Visual Memory Unit (VMU) | 77 | 🟢 | C |
+| [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) | WonderSwan and PocketChallenge V2 emulator for the Nintendo DS | 77 | 🟢 | C |
 | [VisualNes](https://github.com/SourMesen/VisualNes) | Visual NES, simulating the NES CPU and PPU at transistor level | 77 | 🗄️ | C# |
-| [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) | WonderSwan and PocketChallenge V2 emulator for the Nintendo DS | 76 | 🟢 | C |
 | [kpspemu](https://github.com/soywiz-archive/kpspemu) | PSP emulator written in Kotlin for JVM, JS and native | 75 | 🗄️ | Kotlin |
 | [DSHBA](https://github.com/DenSinH/DSHBA) | Highly performant GBA emulator with a hardware renderer | 71 | 🔴 | C++ |
 | [SEGAChips](https://github.com/emu-russia/SEGAChips) | Reverse engineering of SEGA chips | 70 | 🟢 | Verilog |
@@ -638,7 +638,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [js99er-angular](https://github.com/Rasmus-M/js99er-angular) | TI-99/4A emulator written in TypeScript | 52 | 🟢 | TypeScript |
 | [dmgcpu](https://github.com/emu-russia/dmgcpu) | Reverse engineering of the Game Boy DMG CPU from the die | 49 | 🟢 | Verilog |
 | [StoicGoose](https://github.com/xdanieldzd/StoicGoose) | WonderSwan and WonderSwan Color emulator in C# | 48 | 🟢 | C# |
-| [zakuro](https://github.com/fearkov/zakuro) | A Nintendo 3DS emulator in Rust, using AOT recompilation | 47 | 🟢 | Rust |
+| [zakuro](https://github.com/fearkov/zakuro) | A Nintendo 3DS emulator in Rust, using AOT recompilation | 48 | 🟢 | Rust |
 | [Ryu64](https://github.com/Ryu64Emulator/Ryu64) | Nintendo 64 emulator written in C# | 45 | 🗄️ | C# |
 | [FreeIntv](https://github.com/libretro/FreeIntv) | Libretro emulation core for the Mattel Intellivision | 43 | 🟢 | C |
 | [lxdream](https://github.com/lxdream/lxdream) | Lxdream, a Sega Dreamcast emulator | 42 | 🔴 | C |
@@ -673,109 +673,109 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [OpenRA](https://github.com/OpenRA/OpenRA) | RTS engine reimplementing early Westwood games such as C&C Red Alert | 17,750 | 🟢 | C# |
-| [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | Open-source reimplementation of RollerCoaster Tycoon 2 | 16,550 | 🟢 | C++ |
-| [openage](https://github.com/SFTtech/openage) | Free clone of the Genie engine used by Age of Empires II | 14,585 | 🟢 | Python |
-| [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) | Open-source re-implementation of Diablo 2 | 11,105 | 🗄️ | Go |
-| [DevilutionX](https://github.com/diasurgical/DevilutionX) | Diablo and Hellfire port for modern systems built on the Devilution reverse engineering | 9,992 | 🟢 | C++ |
-| [OpenTTD](https://github.com/OpenTTD/OpenTTD) | Open-source transport simulation game based on Transport Tycoon Deluxe | 8,481 | 🟢 | C++ |
-| [horizon](https://github.com/horizon-rust/horizon) | Minecraft: Java Edition rewritten in Rust and checked against vanilla with differential tests | 8,005 | 🟢 | Rust |
-| [OpenMW](https://github.com/OpenMW/openmw) | Open-source engine reimplementation for The Elder Scrolls III: Morrowind | 6,734 | 🟢 | C++ |
+| [OpenRA](https://github.com/OpenRA/OpenRA) | RTS engine reimplementing early Westwood games such as C&C Red Alert | 17,758 | 🟢 | C# |
+| [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | Open-source reimplementation of RollerCoaster Tycoon 2 | 16,554 | 🟢 | C++ |
+| [openage](https://github.com/SFTtech/openage) | Free clone of the Genie engine used by Age of Empires II | 14,591 | 🟢 | Python |
+| [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) | Open-source re-implementation of Diablo 2 | 11,106 | 🗄️ | Go |
+| [DevilutionX](https://github.com/diasurgical/DevilutionX) | Diablo and Hellfire port for modern systems built on the Devilution reverse engineering | 9,996 | 🟢 | C++ |
+| [OpenTTD](https://github.com/OpenTTD/OpenTTD) | Open-source transport simulation game based on Transport Tycoon Deluxe | 8,483 | 🟢 | C++ |
+| [horizon](https://github.com/horizon-rust/horizon) | Minecraft: Java Edition rewritten in Rust and checked against vanilla with differential tests | 8,292 | 🟢 | Rust |
+| [OpenMW](https://github.com/OpenMW/openmw) | Open-source engine reimplementation for The Elder Scrolls III: Morrowind | 6,736 | 🟢 | C++ |
 | [VCMI](https://github.com/vcmi/vcmi) | Open-source engine for Heroes of Might and Magic III | 6,025 | 🟢 | C++ |
-| [RuneLite](https://github.com/runelite/runelite) | Open source Old School RuneScape client | 5,521 | 🟢 | Java |
-| [OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) | OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux | 5,346 | 🟢 | Rust |
-| [OpenLara](https://github.com/XProger/OpenLara) | Classic Tomb Raider open-source engine | 5,147 | 🟢 | C |
-| [zelda3](https://github.com/snesrev/zelda3) | C reimplementation of Zelda: A Link to the Past from reverse-engineered SNES code | 4,992 | 🟢 | C |
-| [CorsixTH](https://github.com/CorsixTH/CorsixTH) | Open-source clone of Theme Hospital | 4,655 | 🟢 | Lua |
+| [RuneLite](https://github.com/runelite/runelite) | Open source Old School RuneScape client | 5,522 | 🟢 | Java |
+| [OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) | OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux | 5,347 | 🟢 | Rust |
+| [OpenLara](https://github.com/XProger/OpenLara) | Classic Tomb Raider open-source engine | 5,149 | 🟢 | C |
+| [zelda3](https://github.com/snesrev/zelda3) | C reimplementation of Zelda: A Link to the Past from reverse-engineered SNES code | 4,994 | 🟢 | C |
+| [CorsixTH](https://github.com/CorsixTH/CorsixTH) | Open-source clone of Theme Hospital | 4,658 | 🟢 | Lua |
 | [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) | a simple PlantsVsZombies game | 3,774 | 🟡 | Python |
-| [fheroes2](https://github.com/ihhub/fheroes2) | Recreation of the Heroes of Might and Magic II game engine | 3,717 | 🟢 | C++ |
-| [OpenGOAL (jak-project)](https://github.com/open-goal/jak-project) | Reimplements the GOAL language/runtime to port Jak and Daxter 1-3 to PC | 3,637 | 🟢 | Common Lisp |
+| [fheroes2](https://github.com/ihhub/fheroes2) | Recreation of the Heroes of Might and Magic II game engine | 3,724 | 🟢 | C++ |
+| [OpenGOAL (jak-project)](https://github.com/open-goal/jak-project) | Reimplements the GOAL language/runtime to port Jak and Daxter 1-3 to PC | 3,638 | 🟢 | Common Lisp |
 | [OpenXRay](https://github.com/OpenXRay/xray-16) | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game... | 3,606 | 🟢 | C++ |
-| [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) | Recreation of The Elder Scrolls II: Daggerfall in Unity | 3,575 | 🟢 | C# |
-| [Julius](https://github.com/bvschaik/julius) | Open-source reimplementation of Caesar III with the original game logic | 3,445 | 🟢 | C |
-| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters,... | 3,304 | 🟢 | GDScript |
-| [WipEout (wipeout-rewrite)](https://github.com/phoboslab/wipeout-rewrite) | Reverse-engineered reimplementation / port of WipEout (wipeout-rewrite) | 3,008 | 🟢 | C |
-| [kys-cpp](https://github.com/scarsty/kys-cpp) | 《金庸群侠传》c++复刻版，已完工 | 2,993 | 🟢 | C++ |
+| [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) | Recreation of The Elder Scrolls II: Daggerfall in Unity | 3,577 | 🟢 | C# |
+| [Julius](https://github.com/bvschaik/julius) | Open-source reimplementation of Caesar III with the original game logic | 3,449 | 🟢 | C |
+| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters,... | 3,306 | 🟢 | GDScript |
+| [WipEout (wipeout-rewrite)](https://github.com/phoboslab/wipeout-rewrite) | Reverse-engineered reimplementation / port of WipEout (wipeout-rewrite) | 3,010 | 🟢 | C |
+| [kys-cpp](https://github.com/scarsty/kys-cpp) | 《金庸群侠传》c++复刻版，已完工 | 2,995 | 🟢 | C++ |
 | [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) | Fully working reimplementation of Fallout 1 engine | 2,984 | 🟡 | C++ |
-| [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) | Open-source reimplementation of the GoldSrc engine that runs Half-Life | 2,928 | 🟢 | C |
-| [ScummVM](https://github.com/scummvm/scummvm) | Reimplements engines of classic point-and-click adventure games | 2,881 | 🟢 | C++ |
-| [ioquake3](https://github.com/ioquake/ioq3) | Community continuation of id's Quake III Arena engine | 2,866 | 🟢 | C |
-| [SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) | Open source reimplementation of GTA San Andreas game engine in Unity | 2,687 | 🔴 | C# |
-| [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce) | Fallout 2 engine re-implementation for modern desktop and mobile | 2,506 | 🟡 | C++ |
+| [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) | Open-source reimplementation of the GoldSrc engine that runs Half-Life | 2,930 | 🟢 | C |
+| [ScummVM](https://github.com/scummvm/scummvm) | Reimplements engines of classic point-and-click adventure games | 2,883 | 🟢 | C++ |
+| [ioquake3](https://github.com/ioquake/ioq3) | Community continuation of id's Quake III Arena engine | 2,868 | 🟢 | C |
+| [SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) | Open source reimplementation of GTA San Andreas game engine in Unity | 2,688 | 🔴 | C# |
+| [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce) | Fallout 2 engine re-implementation for modern desktop and mobile | 2,508 | 🟡 | C++ |
 | [OpenJK](https://github.com/JACoders/OpenJK) | Community-maintained Jedi Academy / Jedi Outcast engine | 2,328 | 🟢 | C++ |
 | [OpenRW](https://github.com/rwengine/openrw) | Open-source re-implementation of Rockstar's GTA III | 2,267 | 🟡 | C++ |
-| [OpenXcom](https://github.com/OpenXcom/OpenXcom) | Open-source clone of UFO: Enemy Unknown and X-COM: Terror from the Deep | 2,249 | 🟢 | C++ |
-| [Freeablo](https://github.com/wheybags/freeablo) | Open-source implementation of the Diablo engine. | 2,169 | 🔴 | C++ |
-| [Augustus](https://github.com/Keriew/augustus) | An open source re-implementation of Caesar III | 2,149 | 🟢 | C |
-| [ClassiCube](https://github.com/ClassiCube/ClassiCube) | Custom Minecraft Classic-compatible game client in C | 2,089 | 🟢 | C |
+| [OpenXcom](https://github.com/OpenXcom/OpenXcom) | Open-source clone of UFO: Enemy Unknown and X-COM: Terror from the Deep | 2,250 | 🟢 | C++ |
+| [Freeablo](https://github.com/wheybags/freeablo) | Open-source implementation of the Diablo engine. | 2,170 | 🔴 | C++ |
+| [Augustus](https://github.com/Keriew/augustus) | An open source re-implementation of Caesar III | 2,150 | 🟢 | C |
+| [ClassiCube](https://github.com/ClassiCube/ClassiCube) | Custom Minecraft Classic-compatible game client in C | 2,090 | 🟢 | C |
 | [SDLPAL](https://github.com/sdlpal/sdlpal) | SDL-based reimplementation of the classic Chinese-language RPG known as PAL. | 1,997 | 🟢 | C |
 | [OpenLoco](https://github.com/OpenLoco/OpenLoco) | Open-source reimplementation of Chris Sawyer's Locomotion | 1,968 | 🟢 | C++ |
 | [Hematite](https://github.com/PistonDevelopers/hematite) | A simple Minecraft written in Rust with the Piston game engine | 1,922 | 🟢 | Rust |
 | [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) | Recreation of the popular game Dune II. | 1,703 | 🟢 | C |
-| [Pokémon Polished Crystal](https://github.com/Rangi42/polishedcrystal) | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. | 1,691 | 🟢 | Assembly |
-| [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO) | Open-source reimplementation of the MUGEN fighting game engine | 1,671 | 🟢 | Go |
+| [Pokémon Polished Crystal](https://github.com/Rangi42/polishedcrystal) | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. | 1,692 | 🟢 | Assembly |
+| [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO) | Open-source reimplementation of the MUGEN fighting game engine | 1,674 | 🟢 | Go |
+| [OpenGothic](https://github.com/Try/OpenGothic) | Open-source reimplementation of Gothic I and II | 1,661 | 🟢 | C++ |
 | [roBrowser](https://github.com/vthibault/roBrowser) | Ragnarok Online client reimplemented for web browsers in JavaScript/WebGL | 1,660 | 🗄️ | JavaScript |
-| [OpenGothic](https://github.com/Try/OpenGothic) | Open-source reimplementation of Gothic I and II | 1,656 | 🟢 | C++ |
 | [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) | :bird: :video_game: A MelonJS port of the famous Flappy Bird Game | 1,634 | 🗄️ | JavaScript |
-| [openblack](https://github.com/openblack/openblack) | Open-source reimplementation of Black & White (2001) | 1,603 | 🟢 | C++ |
-| [OpenTESArena](https://github.com/afritz1/OpenTESArena) | Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks. | 1,447 | 🟢 | C++ |
+| [openblack](https://github.com/openblack/openblack) | Open-source reimplementation of Black & White (2001) | 1,605 | 🟢 | C++ |
+| [OpenTESArena](https://github.com/afritz1/OpenTESArena) | Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks. | 1,448 | 🟢 | C++ |
 | [OpenTomb](https://github.com/opentomb/OpenTomb) | Open-source Tomb Raider 1-5 engine remake (archived) | 1,443 | 🗄️ | C++ |
-| [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) | Rust reimplementation of the Cave Story engine | 1,325 | 🟢 | Rust |
+| [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) | Rust reimplementation of the Cave Story engine | 1,327 | 🟢 | Rust |
 | [Minosoft](https://github.com/Bixilon/Minosoft) | Open source Minecraft client reimplementation written from scratch | 1,322 | 🟢 | Kotlin |
-| [GemRB](https://github.com/gemrb/gemrb) | Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more). | 1,268 | 🟢 | C++ |
+| [GemRB](https://github.com/gemrb/gemrb) | Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more). | 1,269 | 🟢 | C++ |
 | [Player](https://github.com/EasyRPG/Player) | EasyRPG Player, an open reimplementation of the RPG Maker 2000/2003 runtime | 1,262 | 🟢 | C++ |
+| [Carmageddon (dethrace)](https://github.com/dethrace-labs/dethrace) | Reverse-engineered reimplementation / port of Carmageddon (dethrace) | 1,250 | 🟢 | C |
 | [OpenSpades](https://github.com/yvt/openspades) | Open-source client compatible with Ace of Spades 0.75 (PC) | 1,250 | 🟡 | C++ |
-| [Carmageddon (dethrace)](https://github.com/dethrace-labs/dethrace) | Reverse-engineered reimplementation / port of Carmageddon (dethrace) | 1,248 | 🟢 | C |
-| [Diablerie](https://github.com/mofr/Diablerie) | Diablo 2 reimplementation on unity | 1,245 | 🔴 | C# |
+| [Diablerie](https://github.com/mofr/Diablerie) | Diablo 2 reimplementation on unity | 1,246 | 🔴 | C# |
 | [Call of Duty: Modern Warfare 2 (IW4L)](https://github.com/vladtrc/iw4L) | Standalone Rust runtime for Call of Duty: Modern Warfare 2 (PC), built on bevy and wgpu | 1,197 | 🟢 | Rust |
 | [xoreos](https://github.com/xoreos/xoreos) | Reimplementation of BioWare's Aurora engine (KotOR, NWN, Jade Empire) | 1,197 | 🟢 | C++ |
-| [The Force Engine](https://github.com/TheForceEngine/TheForceEngine) | Reimplementation of LucasArts' Jedi engine for Dark Forces and Outlaws | 1,185 | 🟢 | C++ |
-| [RA2](https://github.com/OpenRA/ra2) | A Red Alert 2 mod for the OpenRA game engine | 1,150 | 🟢 | C# |
-| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | Open-source reimplementation of Unreal Engine 1 that plays Unreal Tournament 99 | 1,132 | 🟢 | C++ |
-| [Riiablo](https://github.com/collinsmith/riiablo) | Diablo II remade using Java and LibGDX | 1,110 | 🟡 | Java |
+| [The Force Engine](https://github.com/TheForceEngine/TheForceEngine) | Reimplementation of LucasArts' Jedi engine for Dark Forces and Outlaws | 1,187 | 🟢 | C++ |
+| [RA2](https://github.com/OpenRA/ra2) | A Red Alert 2 mod for the OpenRA game engine | 1,151 | 🟢 | C# |
+| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | Open-source reimplementation of Unreal Engine 1 that plays Unreal Tournament 99 | 1,134 | 🟢 | C++ |
+| [Riiablo](https://github.com/collinsmith/riiablo) | Diablo II remade using Java and LibGDX | 1,112 | 🟡 | Java |
 | [pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) | Pikachu Volleyball reimplemented in JavaScript by reverse engineering the original game | 1,097 | 🟢 | JavaScript |
-| [OpenHV](https://github.com/OpenHV/OpenHV) | Open-source implementation of Hard Vacuum. | 1,093 | 🟢 | C# |
+| [OpenHV](https://github.com/OpenHV/OpenHV) | Open-source implementation of Hard Vacuum. | 1,094 | 🟢 | C# |
 | [Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) | Unity reimplementation of The Legend of Sword and Fairy 3 and its expansion | 1,059 | 🟢 | C# |
 | [RA2Web React](https://github.com/huangkaoya/ts-redalert2) | 红色警戒2源代码 Red Alert2 Source Code | 1,037 | 🟢 | TypeScript |
-| [Tomb Raider I & II (TRX)](https://github.com/LostArtefacts/TRX) | Reverse-engineered reimplementation / port of Tomb Raider I & II (TRX) | 1,034 | 🟢 | C |
+| [Tomb Raider I & II (TRX)](https://github.com/LostArtefacts/TRX) | Reverse-engineered reimplementation / port of Tomb Raider I & II (TRX) | 1,036 | 🟢 | C |
 | [WoWee (World of Warcraft)](https://github.com/Kelsidavis/WoWee) | Open-source World of Warcraft client engine written from scratch | 1,033 | 🟢 | C++ |
-| [RigelEngine](https://github.com/lethal-guitar/RigelEngine) | Modern re-implementation of Duke Nukem II | 1,015 | 🟢 | C++ |
+| [RigelEngine](https://github.com/lethal-guitar/RigelEngine) | Modern re-implementation of Duke Nukem II | 1,016 | 🟢 | C++ |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Reimplementation of The Sims Online, targetted mainly at mobile devices. | 991 | 🟢 | C# |
 | [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) | Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom. | 969 | 🟢 | C |
-| [World of Warcraft 1.12 (benilla)](https://github.com/samwhosung/benilla) | World of Warcraft 1.12.1 client written from scratch in Rust and Bevy (PC) | 942 | 🟢 | Rust |
+| [World of Warcraft 1.12 (benilla)](https://github.com/samwhosung/benilla) | World of Warcraft 1.12.1 client written from scratch in Rust and Bevy (PC) | 941 | 🟢 | Rust |
 | [NEO-RAW](https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter) | "Fabother World" an interpreter for Another World (Out of this world). | 919 | 🟡 | C++ |
-| [Raze](https://github.com/ZDoom/Raze) | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and... | 892 | 🟢 | C++ |
+| [Raze](https://github.com/ZDoom/Raze) | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and... | 893 | 🟢 | C++ |
 | [Cannonball](https://github.com/djyt/cannonball) | OutRun arcade engine reimplementation | 891 | 🟡 | C++ |
 | [PICOLOVE](https://github.com/picolove/picolove) | PICO-8 fantasy console reimplementation in LÖVE | 891 | 🟡 | Lua |
 | [Falltergeist](https://github.com/falltergeist/falltergeist) | Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. | 883 | 🔴 | C++ |
-| [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) | Open reimplementation of the Might and Magic 6/7/8 game engine | 880 | 🟢 | C++ |
-| [PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) | Cross-platform reimplementation of Plants vs. Zombies | 877 | 🟢 | C++ |
+| [PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) | Cross-platform reimplementation of Plants vs. Zombies | 883 | 🟢 | C++ |
+| [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) | Open reimplementation of the Might and Magic 6/7/8 game engine | 882 | 🟢 | C++ |
 | [ReHLDS](https://github.com/rehlds/ReHLDS) | Reverse engineered, enhanced Half-Life Dedicated Server engine | 877 | 🟢 | C++ |
 | [OpenMoHAA](https://github.com/openmoh/openmohaa) | Open re-implementation of Medal of Honor: Allied Assault | 866 | 🟢 | C |
 | [OpenNFS](https://github.com/OpenNFS/OpenNFS) | Attempt to recreate the classic Need for Speed Games (1-6). | 864 | 🟢 | C++ |
-| [librw](https://github.com/aap/librw) | A re-implementation of the RenderWare Graphics engine | 836 | 🟢 | C++ |
+| [librw](https://github.com/aap/librw) | A re-implementation of the RenderWare Graphics engine | 837 | 🟢 | C++ |
 | [NBlood](https://github.com/NBlood/NBlood) | Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/P... | 823 | 🟢 | C++ |
 | [OpenTTD (OpenTTD-patches)](https://github.com/JGRennison/OpenTTD-patches) | OpenTTD (Transport Tycoon Deluxe reimplementation) with additional patches (PC) | 816 | 🟢 | C++ |
 | [ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS) | Reverse engineered server-side GameDLL for Counter-Strike 1.6 | 811 | 🟢 | C++ |
-| [skate-3-rust-engine](https://github.com/SK8-ENGINE/skate-3-rust-engine) | Rust/Bevy skating engine based on Skate 3 reverse engineering research | 803 | 🟢 | Rust |
+| [skate-3-rust-engine](https://github.com/SK8-ENGINE/skate-3-rust-engine) | Rust/Bevy skating engine based on Skate 3 reverse engineering research | 805 | 🟢 | Rust |
 | [uMario](https://github.com/jakowskidev/uMario_Jakowski) | uMario C++/SDL2 Game by Łykasz Jakowski | 802 | 🔴 | C++ |
 | [si78c](https://github.com/loadzero/si78c) | Memory-accurate C reimplementation of the Space Invaders arcade ROM | 797 | 🔴 | C |
-| [SuperMarioBros-C](https://github.com/MitchellSternke/SuperMarioBros-C) | An attempt to translate the original Super Mario Bros. for the NES to readable C/C++ | 794 | 🔴 | C++ |
-| [NFSIISE](https://github.com/zaps166/NFSIISE) | Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol! | 787 | 🟢 | C |
-| [OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) | Cross-platform reimplementation of Star Wars Jedi Knight: Dark Forces II in C | 787 | 🟢 | C |
+| [SuperMarioBros-C](https://github.com/MitchellSternke/SuperMarioBros-C) | An attempt to translate the original Super Mario Bros. for the NES to readable C/C++ | 793 | 🔴 | C++ |
+| [NFSIISE](https://github.com/zaps166/NFSIISE) | Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol! | 789 | 🟢 | C |
+| [OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) | Cross-platform reimplementation of Star Wars Jedi Knight: Dark Forces II in C | 789 | 🟢 | C |
 | [Stratagus](https://github.com/Wargus/stratagus) | Strategy game engine used by Wargus, Stargus and War1gus to run Blizzard RTS data | 747 | 🟢 | C++ |
 | [ClassicUO](https://github.com/ClassicUO/ClassicUO) | Open-source reimplementation of the Ultima Online Classic client | 742 | 🟢 | C# |
 | [jazz2-native](https://github.com/deathkiller/jazz2-native) | 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2 | 730 | 🟢 | C++ |
-| [Memoria](https://github.com/Albeoris/Memoria) | Final Fantasy IX tools | 722 | 🟢 | C# |
-| [OTClient](https://github.com/edubart/otclient) | Alternative Tibia client for OpenTibia servers in C++ and Lua | 710 | 🟡 | C++ |
-| [Exult](https://github.com/exult/exult) | Engine reimplementation for Ultima VII: The Black Gate and Serpent Isle | 707 | 🟢 | C++ |
+| [Memoria](https://github.com/Albeoris/Memoria) | Final Fantasy IX tools | 723 | 🟢 | C# |
+| [Exult](https://github.com/exult/exult) | Engine reimplementation for Ultima VII: The Black Gate and Serpent Isle | 708 | 🟢 | C++ |
+| [OTClient](https://github.com/edubart/otclient) | Alternative Tibia client for OpenTibia servers in C++ and Lua | 708 | 🟡 | C++ |
 | [Thyme](https://github.com/TheAssemblyArmada/Thyme) | Open-source re-implementation of Command & Conquer Generals: Zero Hour | 695 | 🗄️ | C++ |
-| [Sonic 3 A.I.R.](https://github.com/Eukaryot/sonic3air) | Sonic 3 & Knuckles engine reimplementation (Angel Island Revisited) | 681 | 🟢 | C++ |
+| [Sonic 3 A.I.R.](https://github.com/Eukaryot/sonic3air) | Sonic 3 & Knuckles engine reimplementation (Angel Island Revisited) | 682 | 🟢 | C++ |
 | [OpenVIII](https://github.com/MaKiPL/OpenVIII-monogame) | Open source Final Fantasy VIII engine implementation in C# working on Windows and Linux (Android and iOS planned too!... | 671 | 🗄️ | C# |
-| [REGoth](https://github.com/REGoth-project/REGoth) | OpenSource-Reimplementation of the zEngine, used by the game "Gothic" | 654 | 🔴 | C++ |
-| [GLSMAC](https://github.com/afwbkbc/glsmac) | Open-source reimplementation of Sid Meier's Alpha Centauri | 652 | 🟢 | C++ |
+| [REGoth](https://github.com/REGoth-project/REGoth) | OpenSource-Reimplementation of the zEngine, used by the game "Gothic" | 655 | 🔴 | C++ |
+| [GLSMAC](https://github.com/afwbkbc/glsmac) | Open-source reimplementation of Sid Meier's Alpha Centauri | 653 | 🟢 | C++ |
 | [Portal 64: Still Alive](https://github.com/mwpenny/portal64-still-alive) | A demake of Portal for the Nintendo 64 | 652 | 🟢 | C |
-| [OpenTS](https://github.com/OpenTS-Developers/OpenTS) | Open-source, reverse-engineered rebuild of the Command & Conquer: Tiberian Sun engine | 619 | 🟢 | C++ |
+| [OpenTS](https://github.com/OpenTS-Developers/OpenTS) | Open-source, reverse-engineered rebuild of the Command & Conquer: Tiberian Sun engine | 620 | 🟢 | C++ |
 | [OpenFodder](https://github.com/OpenFodder/openfodder) | Open-source reimplementation of Cannon Fodder | 618 | 🟢 | C++ |
 | [Librelancer](https://github.com/Librelancer/Librelancer) | Reimplementation of the 2003 space game Freelancer. | 612 | 🗄️ |  |
 | [OpenD2](https://github.com/eezstreet/OpenD2) | A project to open source Diablo 2. | 604 | 🔴 | C |
@@ -789,62 +789,62 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [sm (Super Metroid)](https://github.com/snesrev/sm) | C reimplementation of Super Metroid from reverse-engineered SNES code | 565 | 🔴 | C |
 | [Project Alice](https://github.com/schombert/Project-Alice) | Project Alice, an open-source reimplementation of Victoria II that uses the original data | 564 | 🟢 | C++ |
 | [NXEngine-evo](https://github.com/nxengine/nxengine-evo) | Engine rewrite of Cave Story (Doukutsu Monogatari) | 554 | 🟢 | C |
-| [Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net) | Ambermoon rewrite in C# | 549 | 🟢 | C# |
-| [OTClient (Redemption)](https://github.com/opentibiabr/otclient) | Modern C++20 fork-successor of OTClient for Tibia-compatible servers | 543 | 🟢 | Lua |
-| [KisakCOD](https://github.com/SwagSoftware/KisakCOD) | Open-source reimplementation of Call of Duty 4 multiplayer | 538 | 🟢 | C++ |
-| [Akhenaten](https://github.com/dalerank/Akhenaten) | Open-source reimplementation of Pharaoh (Impressions Games) | 525 | 🟢 | C++ |
+| [Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net) | Ambermoon rewrite in C# | 550 | 🟢 | C# |
+| [OTClient (Redemption)](https://github.com/opentibiabr/otclient) | Modern C++20 fork-successor of OTClient for Tibia-compatible servers | 542 | 🟢 | Lua |
+| [KisakCOD](https://github.com/SwagSoftware/KisakCOD) | Open-source reimplementation of Call of Duty 4 multiplayer | 539 | 🟢 | C++ |
+| [Akhenaten](https://github.com/dalerank/Akhenaten) | Open-source reimplementation of Pharaoh (Impressions Games) | 527 | 🟢 | C++ |
 | [OpenClaw](https://github.com/pjasicek/OpenClaw) | Reimplementation of the Captain Claw (1997) platformer | 523 | 🔴 | C++ |
 | [TOMB5](https://github.com/TOMB5/TOMB5) | Tomb Raider: Chronicles Disassembly translated to C source code. | 520 | 🔴 | C |
-| [FreeSpace 2 Source Code Project](https://github.com/scp-fs2open/fs2open.github.com) | Origin Repository for SCP FreeSpace 2 Open | 505 | 🟢 | C++ |
+| [FreeSpace 2 Source Code Project](https://github.com/scp-fs2open/fs2open.github.com) | Origin Repository for SCP FreeSpace 2 Open | 506 | 🟢 | C++ |
 | [Simitone](https://github.com/riperiperi/Simitone) | Re-implementation of The Sims 1, based off of FreeSO. | 504 | 🟡 | C# |
 | [REGoth](https://github.com/REGoth-project/REGoth-bs) | An open source reimplementation of zEngine the engine behind Gothic and Gothic II. | 502 | 🔴 | C++ |
 | [Miu2D](https://github.com/luckyyyyy/miu2d) | Miu2D is a 2D RPG game engine built with Rust + TypeScript + React + Canvas, designed for the Web platform. 剑侠情缘2/月影传... | 491 | 🟢 | TypeScript |
+| [cs16-client](https://github.com/FWGS/cs16-client) | Reverse engineered Counter-Strike 1.6 client for the Xash3D engine | 489 | 🟢 | C++ |
 | [Vange-rs](https://github.com/kvark/vange-rs) | Rusty Vangers clone | 489 | 🟢 | Rust |
-| [cs16-client](https://github.com/FWGS/cs16-client) | Reverse engineered Counter-Strike 1.6 client for the Xash3D engine | 488 | 🟢 | C++ |
 | [donut](https://github.com/plowteam/donut) | Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL. | 488 | 🟡 | C++ |
-| [OpenLiberty](https://github.com/openfw-game/OpenLiberty) | GTA III reimplementation in the Godot engine loading original assets | 487 | 🟢 | GDScript |
-| [OpenVic](https://github.com/OpenVicProject/OpenVic) | Main Repo for the OpenVic Project | 483 | 🟢 | GDScript |
-| [Nanosaur](https://github.com/jorio/Nanosaur) | Nanosaur source port 🦖 | 477 | 🟢 | C |
+| [OpenLiberty](https://github.com/openfw-game/OpenLiberty) | GTA III reimplementation in the Godot engine loading original assets | 488 | 🟢 | GDScript |
+| [OpenVic](https://github.com/OpenVicProject/OpenVic) | Main Repo for the OpenVic Project | 482 | 🟢 | GDScript |
+| [Nanosaur](https://github.com/jorio/Nanosaur) | Nanosaur source port 🦖 | 478 | 🟢 | C |
 | [McOsu](https://github.com/McKay42/McOsu) | Unofficial osu! practice client with VR support | 470 | 🟢 | C++ |
 | [Super Mario 64 (DualShock Version)](https://github.com/malucard/sm64-psx) | A very WIP port of https://www.github.com/n64decomp/sm64 for the PlayStation 1 | 464 | 🗄️ | C |
-| [Alive Reversing](https://github.com/AliveTeam/alive_reversing) | Reimplementation of Oddworld: Abe's Exoddus. | 451 | 🟢 | C++ |
-| [Wargus](https://github.com/Wargus/wargus) | Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales | 450 | 🟢 | C |
+| [Alive Reversing](https://github.com/AliveTeam/alive_reversing) | Reimplementation of Oddworld: Abe's Exoddus. | 452 | 🟢 | C++ |
+| [Wargus](https://github.com/Wargus/wargus) | Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales | 449 | 🟢 | C |
 | [OpenTS2](https://github.com/LazyDuchess/OpenTS2) | Open source re-implementation of The Sims 2 in Unity | 443 | 🟢 | C# |
 | [Chariot](https://github.com/ChariotEngine/Chariot) | Reimplementation of the Age of Empires (1997) engine in Rust | 427 | 🔴 | Rust |
 | [cinnamon](https://github.com/Project-Sunshine-Native/cinnamon) | GameMaker GML runner reimplementation in C for 3DS and Wii U | 427 | 🟢 | C |
-| [OpenJazz](https://github.com/AlisterT/openjazz) | Engine reimplementation of Jazz Jackrabbit; uses original game data (C++) | 419 | 🟢 | C |
+| [OpenJazz](https://github.com/AlisterT/openjazz) | Engine reimplementation of Jazz Jackrabbit; uses original game data (C++) | 422 | 🟢 | C |
 | [Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) | Open source reimplementation of the GameMaker: Studio runner | 415 | 🟢 | C |
 | [OpenGMK](https://github.com/OpenGMK/OpenGMK) | Open-source runner for GameMaker 8.1 and earlier games, with TAS tools | 412 | 🟢 | Rust |
 | [ResidualVM](https://github.com/residualvm/residualvm) | Engine reimplementation for 3D adventures like Grim Fandango (archived; merged into ScummVM) | 400 | 🗄️ | C++ |
-| [open-realm](https://github.com/corepunch/open-realm) | Open-source reimplementation of the Warcraft III engine | 387 | 🟢 | C |
+| [open-realm](https://github.com/corepunch/open-realm) | Open-source reimplementation of the Warcraft III engine | 391 | 🟢 | C |
 | [OpenBVE](https://github.com/leezer3/OpenBVE) | Open-source train simulator that runs BVE Trainsim routes and trains | 385 | 🟢 | C# |
 | [3SX](https://github.com/crowded-street/3sx) | "The Third of the Third" ported to modern platforms | 375 | 🟢 | C |
 | [BStone](https://github.com/bibendovsky/bstone) | Unofficial source port for Blake Stone series | 375 | 🟢 | C |
 | [Duke Nukem II (Reconstructed)](https://github.com/lethal-guitar/Duke2Reconstructed) | Reverse-engineered reimplementation / port of Duke Nukem II (Reconstructed) | 374 | 🟡 | C |
 | [PokeSwift](https://github.com/Dimillian/PokeSwift) | Reimplementation of the Pokemon Red/Blue engine in Swift | 364 | 🟢 | Assembly |
 | [OpenMW for Android](https://github.com/xyzz/openmw-android) | OpenMW for Android | 363 | 🗄️ | Java |
-| [OpenSWE1R](https://github.com/OpenSWE1R/openswe1r) | Open-source reimplementation of Star Wars Episode I: Racer | 351 | 🔴 | C |
-| [Tomb Engine](https://github.com/TombEngine/TombEngine) | A new and modern engine for custom Tomb Raider levels incorporating classic features and new enhancements. | 350 | 🟢 | C++ |
-| [Freeserf](https://github.com/freeserf/freeserf) | Settlers 1 (Serf City) clone. | 346 | 🟢 | C++ |
+| [OpenSWE1R](https://github.com/OpenSWE1R/openswe1r) | Open-source reimplementation of Star Wars Episode I: Racer | 353 | 🔴 | C |
+| [Tomb Engine](https://github.com/TombEngine/TombEngine) | A new and modern engine for custom Tomb Raider levels incorporating classic features and new enhancements. | 351 | 🟢 | C++ |
+| [Freeserf](https://github.com/freeserf/freeserf) | Settlers 1 (Serf City) clone. | 347 | 🟢 | C++ |
 | [pikachu-volleyball-p2p-online](https://github.com/gorisanson/pikachu-volleyball-p2p-online) | Peer-to-peer online play for the reverse engineered Pikachu Volleyball | 344 | 🟢 | JavaScript |
 | [UnderworldExporter](https://github.com/hankmorgan/UnderworldExporter) | Updated Release 27th Oct 2018 Unity based port of Ultima Underworld I and II. Download under releases | 340 | 🗄️ | C# |
 | [F.LF (Little Fighter 2)](https://github.com/Project-F/F.LF) | Open-source engine reimplementation of Little Fighter 2 that runs on the original game data | 338 | 🟡 | JavaScript |
 | [FreeSims](https://github.com/francot514/FreeSims) | Open source engine used for The Sims | 337 | 🟢 | C# |
 | [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) | An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine. | 335 | 🟢 | C# |
-| [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) | Abyss Engine clean-room reimplementation of Diablo 2, written in C. The goal is to recreate the original game engine,... | 330 | 🟡 | C |
+| [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) | Abyss Engine clean-room reimplementation of Diablo 2, written in C. The goal is to recreate the original game engine,... | 331 | 🟡 | C |
 | [open-ig](https://github.com/akarnokd/open-ig) | Open-source reimplementation of Imperium Galactica | 325 | 🟢 | Java |
 | [FreeHL](https://github.com/eukara/freehl) | Clean-room reimplementation of Half-Life and HL: Deathmatch in QuakeC | 324 | 🟢 | QuakeC |
 | [reone](https://github.com/seedhartha/reone) | Game engine reimplementation for Star Wars: KotOR I and II | 323 | 🗄️ | C++ |
+| [type-pal (Legend of Sword and Fairy)](https://github.com/IllegalCreed/type-pal) | From-scratch TypeScript remake of The Legend of Sword and Fairy (1995) that runs in the browser | 323 | 🟢 | TypeScript |
 | [uEmuera](https://github.com/xerysherry/uEmuera) | Unity port of Emuera, the eramaker game engine reimplementation | 323 | 🟡 | C# |
 | [Omnispeak](https://github.com/sulix/omnispeak) | Reimplementation of Commander Keen in Goodbye Galaxy. | 320 | 🟢 | C |
-| [type-pal (Legend of Sword and Fairy)](https://github.com/IllegalCreed/type-pal) | From-scratch TypeScript remake of The Legend of Sword and Fairy (1995) that runs in the browser | 319 | 🟢 | TypeScript |
 | [Theseus](https://github.com/MrMilenko/Theseus) | Reverse-engineered reconstruction of the original Xbox 5960 dashboard | 317 | 🟢 | C++ |
 | [open-supaplex](https://github.com/sergiou87/open-supaplex) | Reverse engineered open source port of Supaplex | 314 | 🟢 | C |
 | [CroftEngine](https://github.com/stohrendorf/CroftEngine) | An open-source Tomb Raider 1 engine remake | 311 | 🟢 | C++ |
 | [Resident Evil 2 (OpenBiohazard2)](https://github.com/OpenBiohazard2/OpenBiohazard2) | Reverse-engineered reimplementation / port of Resident Evil 2 (OpenBiohazard2) | 305 | 🟢 | Go |
 | [freecs](https://github.com/eukara/freecs) | Clean-room Counter-Strike 1.5 in QuakeC using the Nuclide SDK | 303 | 🟡 | QuakeC |
+| [GT3-revisited](https://github.com/matt-pulsipher/GT3-revisited) | Gran Turismo 3 A-Spec engine reimplementation for modern platforms (PS2) | 295 | 🟢 | C++ |
 | [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) | 🕹 Open-source Mafia game framework | 293 | 🗄️ | C# |
-| [GT3-revisited](https://github.com/matt-pulsipher/GT3-revisited) | Gran Turismo 3 A-Spec engine reimplementation for modern platforms (PS2) | 291 | 🟢 | C++ |
 | [Wowser](https://github.com/wowserhq/wowser) | World of Warcraft client in the browser using JavaScript and WebGL | 290 | 🔴 | JavaScript |
 | [lba2remake](https://github.com/LBALab/lba2remake) | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React | 289 | 🟢 | TypeScript |
 | [BetterSpades](https://github.com/xtreme8000/BetterSpades) | Ace of Spades 0.75 compatible game client for low-end systems (PC) | 286 | 🟡 | C |
@@ -853,26 +853,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [PrinceJS](https://github.com/ultrabolido/PrinceJS) | Prince of Persia reimplementation in HTML5/JavaScript | 282 | 🟡 | JavaScript |
 | [Super-Mario-World-Remastered-Public](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) | A Remake / Remaster of the original Super Mario World, in Godot. Adds new features / improvements! | 282 | 🗄️ | GDScript |
 | [spearmint](https://github.com/clover-moe/spearmint) | Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games. | 281 | 🟢 | C |
-| [Heretic2R](https://github.com/m-x-d/Heretic2R) | Heretic II (1998, Raven Software) reverse-engineered source port. | 277 | 🟢 | C |
+| [Heretic2R](https://github.com/m-x-d/Heretic2R) | Heretic II (1998, Raven Software) reverse-engineered source port. | 279 | 🟢 | C |
 | [Doom64EX](https://github.com/svkaiser/Doom64EX) | Reverse engineered recreation of Doom 64 with modding features | 275 | 🟢 | C++ |
+| [nv-rs](https://github.com/slaterain/nv-rs) | Experimental Fallout: New Vegas engine reimplementation in Rust and Bevy | 274 | 🟢 | Rust |
 | [The Eternity Engine](https://github.com/team-eternity/eternity) | The Eternity Engine | 273 | 🟢 | C++ |
 | [DGEngine](https://github.com/dgcor/DGEngine) | Implementation of the Diablo game engine. | 272 | 🟡 | C++ |
-| [nv-rs](https://github.com/slaterain/nv-rs) | Experimental Fallout: New Vegas engine reimplementation in Rust and Bevy | 272 | 🟢 | Rust |
-| [OpenBW](https://github.com/OpenBW/openbw) | Open-source StarCraft: Brood War engine reimplementation | 267 | 🟢 | C++ |
-| [Galaxy on Fire 2 Unity Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | Galaxy on Fire 2 decompilation and Unity remake | 265 | 🟢 | C |
+| [Galaxy on Fire 2 Unity Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | Galaxy on Fire 2 decompilation and Unity remake | 271 | 🟢 | C |
+| [OpenBW](https://github.com/OpenBW/openbw) | Open-source StarCraft: Brood War engine reimplementation | 268 | 🟢 | C++ |
 | [OpenMBU](https://github.com/MBU-Team/OpenMBU) | OpenMBU is a revival of Marble Blast Ultra, the 2006 Xbox 360 arcade classic. | 264 | 🟢 | C++ |
 | [CivOne](https://github.com/Solen1985/CivOne) | Implementation of Sid Meier's Civilization. | 261 | 🔴 | C# |
 | [pokemon-tbje (Pokémon)](https://github.com/zachMahan64/pokemon-tbje) | Open-source engine reimplementation of Pokémon that runs on the original game data | 252 | 🟢 | Java |
+| [OpenGD](https://github.com/Open-GD/OpenGD) | Open source implementation of Geometry Dash | 251 | 🟡 | C++ |
 | [undertale](https://github.com/fachinformatiker/undertale) | Undertale src code | 251 | 🔴 | Game Maker Language |
-| [OpenGD](https://github.com/Open-GD/OpenGD) | Open source implementation of Geometry Dash | 250 | 🟡 | C++ |
 | [2006scape](https://github.com/2006-Scape/2006Scape) | A 2006 Runescape Emulation Server | 248 | 🟢 | Java |
-| [nanolathe](https://github.com/nanolathe-gg/nanolathe) | Total Annihilation engine reimplementation in Go | 246 | 🟢 | Go |
+| [nanolathe](https://github.com/nanolathe-gg/nanolathe) | Total Annihilation engine reimplementation in Go | 247 | 🟢 | Go |
 | [KisakBlack](https://github.com/SwagSoftware/KisakBlack) | Open source reimplementation of Call of Duty: Black Ops | 244 | 🟢 | C++ |
 | [freeaoe](https://github.com/sandsmark/freeaoe) | A free game engine capable of running Age of Empires 2 and Star Wars: Galactic Battlegrounds | 242 | 🔴 | C++ |
 | [Kinoko](https://github.com/vabold/Kinoko) | Reimplementation of Mario Kart Wii's physics engine in C++ | 239 | 🟢 | C++ |
-| [srceng-android](https://github.com/nillerusr/srceng-android) | Android launcher for source engine | 237 | 🔴 | Java |
+| [srceng-android](https://github.com/nillerusr/srceng-android) | Android launcher for source engine | 239 | 🔴 | Java |
 | [Doom 64 EX+](https://github.com/atsb/Doom64EX-Plus) | An improved modern version of Doom64EX. | 230 | 🗄️ | C |
-| [MegaManXSNESRecomp](https://github.com/mstan/MegaManXSNESRecomp) | Mega Man X recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community | 228 | 🟢 | C |
+| [MegaManXSNESRecomp](https://github.com/mstan/MegaManXSNESRecomp) | Mega Man X recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community | 227 | 🟢 | C |
 | [OpenAWE](https://github.com/OpenAWE-Project/OpenAWE) | A reimplementation of Remedy Entertainments Alan Wake Engine, in later iterations known as the Northlight Engine | 221 | 🟢 | C++ |
 | [cssDOOM](https://github.com/NielsLeenheer/cssDOOM) | Doom engine implemented in CSS; plays the original WAD data in a browser | 216 | 🟢 | JavaScript |
 | [impacto](https://github.com/CommitteeOfZero/impacto) | Reimplementation of the MAGES. visual novel engine | 210 | 🟢 | C++ |
@@ -890,15 +890,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [KaM Remake](https://github.com/reyandme/kam_remake) | "KaM Remake" is an RTS game remake written in Delphi from scratch. | 191 | 🟢 | Pascal |
 | [Panzer Dragoon Saga (Azel)](https://github.com/yaz0r/Azel) | Reverse-engineered reimplementation / port of Panzer Dragoon Saga (Azel) | 191 | 🟢 | C++ |
 | [Open Panzer](https://github.com/nicupavel/openpanzer) | JavaScript/HTML5 rewrite of Panzer General 2 (PC) | 190 | 🔴 | JavaScript |
-| [eZeus](https://github.com/MaurycyLiebner/eZeus) | Open-source implementation of Zeus: Master of Olympus. | 187 | 🟢 | C++ |
+| [eZeus](https://github.com/MaurycyLiebner/eZeus) | Open-source implementation of Zeus: Master of Olympus. | 189 | 🟢 | C++ |
+| [JXQY-all-in-one](https://github.com/Upwinded/JXQY-all-in-one) | 剑侠情缘 Sword Heroes' Fate | 189 | 🟢 | C++ |
 | [sh3redux](https://github.com/Palm-Studios/sh3redux) | SILENT HILL 3 Engine Remake in OpenGL and C++ | 187 | 🟡 | C++ |
-| [JXQY-all-in-one](https://github.com/Upwinded/JXQY-all-in-one) | 剑侠情缘 Sword Heroes' Fate | 186 | 🟢 | C++ |
 | [lofp](https://github.com/metavert-io/lofp) | Recreation of Legends of Future Past, the 1990s commercial MUD | 185 | 🟢 | HTML |
 | [Powerslave EX](https://github.com/svkaiser/PowerslaveEX) | Powerslave EX is a unofficial recreation of Lobotomy Software’s obscured FPS game, Powerslave (also known as Exhumed... | 184 | 🔴 | C |
+| [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce) | Arcanum for modern operating systems | 181 | 🟢 | C |
 | [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) | "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM... | 181 | 🟢 | C++ |
+| [openQ4](https://github.com/themuffinator/openQ4) | Open-source reimplementation of Quake 4 | 181 | 🟢 | C++ |
 | [pokered-gbc](https://github.com/dannye/pokered-gbc) | Pokémon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crys... | 181 | 🟢 | Assembly |
-| [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce) | Arcanum for modern operating systems | 180 | 🟢 | C |
-| [openQ4](https://github.com/themuffinator/openQ4) | Open-source reimplementation of Quake 4 | 180 | 🟢 | C++ |
 | [Vault13](https://github.com/pingw33n/vault13) | Reimplementation of the Fallout 2 engine in Rust | 179 | 🗄️ | Rust |
 | [Open Horizon](https://github.com/undefined-darkness/open-horizon) | Engine reimplementation of Ace Combat: Assault Horizon; uses original game data (C++) | 178 | 🔴 | C++ |
 | [CrossUO (Ultima Online)](https://github.com/crossuo/crossuo) | Open-source cross-platform Ultima Online client | 177 | 🟢 | C++ |
@@ -908,26 +908,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OUO](https://github.com/draxinar/ouo) | OUO: reverse engineering of Ultima Online: The Second Age server | 175 | 🟢 | C |
 | [openc2e (Creatures)](https://github.com/openc2e/openc2e) | openc2e, open-source engine for the Creatures games that uses the original data | 174 | 🟢 | C++ |
 | [whoa](https://github.com/whoahq/whoa) | Unofficial open-source reimplementation of the World of Warcraft 3.3.5 client | 174 | 🟢 | C++ |
+| [Citadel (System Shock)](https://github.com/JosiahJack/Citadel) | System Shock fan remake that uses the original game data | 170 | 🟢 | C# |
 | [OpenHoW](https://github.com/hogsy/OpenHoW) | Open-source reimplementation of Gremlin's Hogs of War (PC/PSX). | 170 | 🗄️ | C |
+| [Ratchet & Clank](https://github.com/re-rac/rerac-launcher) | Launcher for ReRAC, a rewrite of Ratchet & Clank (PS2) | 170 | 🟢 | Rust |
 | [rlvm](https://github.com/eglaysher/rlvm) | RealLive clone for Linux and OSX | 170 | 🟡 | C++ |
-| [Citadel (System Shock)](https://github.com/JosiahJack/Citadel) | System Shock fan remake that uses the original game data | 169 | 🟢 | C# |
 | [dunedynasty](https://github.com/gameflorist/dunedynasty) | Remaster of Dune II built on the OpenDUNE reverse engineered codebase | 169 | 🟢 | C |
-| [Ratchet & Clank](https://github.com/re-rac/rerac-launcher) | Launcher for ReRAC, a rewrite of Ratchet & Clank (PS2) | 169 | 🟢 | Rust |
 | [OpenC1](https://github.com/jeff-1amstudios/OpenC1) | Remake of Carmageddon 1 engine | 166 | 🔴 | C# |
 | [ElonaFoobar](https://github.com/elonafoobar/elonafoobar) | One of the Elona variants | 165 | 🗄️ | C++ |
 | [Nuvie](https://github.com/nuvie/nuvie) | Nuvie - New Ultima VI Engine | 165 | 🟡 | C++ |
+| [Test Drive Unlimited (OpenTestDriveUnlimited)](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | Reverse-engineered reimplementation / port of Test Drive Unlimited (OpenTestDriveUnlimited) | 165 | 🟢 | C++ |
 | [Free in the Dark](https://github.com/yaz0r/FITD) | Free in the Dark, a Alone in the Dark engine reimplementation. | 163 | 🟡 | C++ |
 | [vitaXash3D](https://github.com/fgsfdsfgs/vitaXash3D) | Port of the Xash3D FWGS GoldSrc-compatible engine to the PS Vita | 163 | 🔴 | C |
 | [OpenNefia](https://github.com/OpenNefia/OpenNefia) | Moddable engine reimplementation of the Japanese roguelike Elona. | 162 | 🟡 | C# |
 | [OpenTPW](https://github.com/OpenTPW/OpenTPW) | An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999). | 162 | 🟢 | C# |
 | [PlantsVsZombies.NET](https://github.com/Mewnojs/PlantsVsZombies.NET) | C# reimplementation of Plants vs. Zombies (PC) | 161 | 🟢 | C# |
 | [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) | Open source game engine for Serious Sam Classic with Vulkan support. | 161 | 🟢 | C++ |
-| [Test Drive Unlimited (OpenTestDriveUnlimited)](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | Reverse-engineered reimplementation / port of Test Drive Unlimited (OpenTestDriveUnlimited) | 161 | 🟢 | C++ |
 | [Stargus](https://github.com/Wargus/stargus) | Importer and scripts for Starcraft | 160 | 🟢 | C++ |
-| [Zuma-Deluxe-HD](https://github.com/GalaxyShad/Zuma-Deluxe-HD) | A remake of the legendary 2003 PopCap game with improved textures and support for 16:9 aspect ratio. | 158 | 🟢 | C |
+| [Zuma-Deluxe-HD](https://github.com/GalaxyShad/Zuma-Deluxe-HD) | A remake of the legendary 2003 PopCap game with improved textures and support for 16:9 aspect ratio. | 159 | 🟢 | C |
 | [OGS](https://github.com/headcrab-junkyard/OGS) | An open-source GoldSrc engine clone (Clean authentic reimplementation without using reverse-engineered code) | 156 | 🟡 | C |
 | [rfvp](https://github.com/xmoezzz/rfvp) | Non-official Rust implementation of the FVP visual novel engine | 156 | 🟢 | Rust |
-| [remc2](https://github.com/turican0/remc2) | Reverse engineering of Magic Carpet 2 from Assembler. | 154 | 🟢 | C++ |
+| [remc2](https://github.com/turican0/remc2) | Reverse engineering of Magic Carpet 2 from Assembler. | 155 | 🟢 | C++ |
 | [KotOR.js](https://github.com/KobaltBlu/KotOR.js) | A remake of the Odyssey Game Engine that powered KotOR I & II written in JavaScript | 153 | 🟢 | TypeScript |
 | [OpenAG](https://github.com/YaLTeR/OpenAG) | Open-source reimplementation of the Adrenaline Gamer client library | 153 | 🟡 | C++ |
 | [hode](https://github.com/usineur/hode) | hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. | 152 | 🟡 | C++ |
@@ -945,34 +945,34 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MikuPan](https://github.com/Mikompilation/MikuPan) | PC Port Of Fatal Frame 1 Based On Himuro | 139 | 🟢 | C++ |
 | [UA_source](https://github.com/Marisa-Chan/UA_source) | Mod for UrbanAssault (Replace original game engine) | 139 | 🟡 | C++ |
 | [Litecraft](https://github.com/KernelFreeze/Litecraft) | Clean-room open source Minecraft client implementation | 138 | 🗄️ | Rust |
+| [War1gus](https://github.com/Wargus/war1gus) | Importer and scripts for Warcraft: Orcs and Humans | 138 | 🟢 | Lua |
 | [Raptor](https://github.com/skynettx/raptor) | Reversed-engineered source port from Raptor Call Of The Shadows | 137 | 🟢 | C |
-| [War1gus](https://github.com/Wargus/war1gus) | Importer and scripts for Warcraft: Orcs and Humans | 137 | 🟢 | Lua |
 | [Free Heroes 2 - Enhanced](https://github.com/ciplogic/fheroes2enh) | Free Heroes 2 - Enhanced | 136 | 🔴 | C++ |
-| [OpenUG2](https://github.com/whoismept/OpenUG2) | From-scratch reimplementation of Need for Speed: Underground 2 | 135 | 🟢 | C |
+| [OpenUG2](https://github.com/whoismept/OpenUG2) | From-scratch reimplementation of Need for Speed: Underground 2 | 136 | 🟢 | C |
 | [aoe](https://github.com/FolkertVanVerseveld/aoe) | Re-implementation of Age of Empires and the Rise of Rome expansion | 133 | 🟢 | C++ |
 | [The-Great-Escape-in-C](https://github.com/dpt/The-Great-Escape-in-C) | Classic ZX Spectrum game "The Great Escape" rewritten in portable C | 133 | 🟢 | C |
 | [Yukon](https://github.com/wizguin/yukon) | HTML5 Club Penguin client reimplementation | 133 | 🟡 | JavaScript |
 | [OpenRoads (SkyRoads)](https://github.com/anprogrammer/OpenRoads) | Open-source reimplementation of SkyRoads (DOS) | 130 | 🔴 | JavaScript |
+| [MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp) | Mega Man X4 (USA, SLUS-00561) statically recompiled to a native PC executable with PSXRecomp | 129 | 🟢 | C |
 | [Prey 2006: A Talon Brave Game](https://github.com/FriskTheFallenHuman/Prey2006) | Prey 2006 SDK integrated with Doom 3 GPL release | 129 | 🟢 | C |
 | [siglus_rs](https://github.com/xmoezzz/siglus_rs) | Unofficial Rust implementation of the SiglusEngine visual novel engine | 129 | 🟢 | Rust |
 | [Umineko Project](https://github.com/umineko-project/onscripter-ru) | ONScripter-RU game engine | 129 | 🔴 | C++ |
-| [MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp) | Mega Man X4 (USA, SLUS-00561) statically recompiled to a native PC executable with PSXRecomp | 127 | 🟢 | C |
 | [OpenATDeluxe (Airline Tycoon)](https://github.com/openairlinetycoon/OpenATDeluxe) | Open-source remake of Airline Tycoon Deluxe that uses the original game data | 127 | 🔴 | C# |
+| [CrossCraft](https://github.com/CrossCraft/CrossCraft) | Open-source Minecraft reimplementation | 126 | 🟢 | Zig |
 | [lttp-phaser](https://github.com/englercj/lttp) | An incomplete remake of The Legend of Zelda - A Link to the Past using WebGL and the browser. | 126 | 🔴 | TypeScript |
 | [Ozymandias (Julius)](https://github.com/Banderi/Ozymandias_Julius) | An open source re-implementation of Pharaoh (1999) in the Julius/Augustus engine | 126 | 🟢 | C++ |
 | [Robot War Engine](https://github.com/MHeasell/rwe) | Robot War Engine - Real-time strategy game engine compatible with Total Annihilation | 126 | 🟢 | C++ |
-| [CrossCraft](https://github.com/CrossCraft/CrossCraft) | Open-source Minecraft reimplementation | 125 | 🟢 | Zig |
 | [Paper Mario DX](https://github.com/bates64/papermario-dx) | Improved Paper Mario (N64) engine for your next romhack | 125 | 🟢 | C |
 | [OpenNefia](https://github.com/Ruin0x11/OpenNefia) | Moddable engine reimplementation of the roguelike Elona | 123 | 🟡 | Lua |
 | [lain-bootleg-bootleg](https://github.com/ad044/lain-bootleg-bootleg) | Reverse engineering and remake of Lain Bootleg | 121 | 🟢 | C |
 | [Magic Carpet 2 HD](https://github.com/thobbsinteractive/magic-carpet-2-hd) | Recode Binary code of game Magic Carpet2 to C/C++ language(remake MC2 for any platform) | 120 | 🟢 | C++ |
+| [MeitouClient](https://github.com/VlcekM/MeitouClient) | Open-source reimplementation of the Kenshi engine in C#/.NET (needs your own Kenshi) | 120 | 🟢 | C# |
 | [OpenMoM (Master of Magic)](https://github.com/Jakz/openmom) | Open-source reimplementation of Master of Magic | 117 | 🟡 | C++ |
 | [Apolyton Call to Power II Source Code Project](https://github.com/civctp2/civctp2) | Call to Power II: Apolyton Edition source code project. Call to Power II (CTP2) is a civilization computer game, whos... | 116 | 🟢 | C |
+| [opendpr](https://github.com/TeamLumi/opendpr) | Reverse engineered recreation of Pokemon Brilliant Diamond and Shining Pearl | 116 | 🟢 | C# |
 | [1oom](https://github.com/1oom-fork/1oom) | 1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run. | 115 | 🟢 | C |
-| [MeitouClient](https://github.com/VlcekM/MeitouClient) | Open-source reimplementation of the Kenshi engine in C#/.NET (needs your own Kenshi) | 115 | 🟢 | C# |
 | [Ambermoon](https://github.com/Pyrdacor/Ambermoon) | Resources and reimplementation for the Amiga game Ambermoon | 114 | 🟢 | Assembly |
-| [opendpr](https://github.com/TeamLumi/opendpr) | Reverse engineered recreation of Pokemon Brilliant Diamond and Shining Pearl | 114 | 🟢 | C# |
-| [Dune2JS](https://github.com/oklemenz/Dune2JS) | Dune II reimplementation in HTML5/JavaScript | 112 | 🟡 | JavaScript |
+| [Dune2JS](https://github.com/oklemenz/Dune2JS) | Dune II reimplementation in HTML5/JavaScript | 113 | 🟡 | JavaScript |
 | [Javascript BoulderDash](https://github.com/jakesgordon/javascript-boulderdash) | An HTML5 implementation of the c64 classic Boulderdash game | 112 | 🟡 | JavaScript |
 | [Tapir (RPG Maker)](https://github.com/qnighy/tapir) | Tapir, an RGSS-compatible runtime for RPG Maker XP, VX and VX Ace games | 112 | 🗄️ | C |
 | [Gorc](https://github.com/jdmclark/gorc) | Early-development Jedi Knight: Dark Forces 2 game engine recreation | 110 | 🔴 | C++ |
@@ -982,13 +982,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Lemmings.ts](https://github.com/tomsoftware/Lemmings.ts) | A Web Lemmings Clone/Remake in TypeScript | 109 | 🔴 | TypeScript |
 | [libRealSpace (Strike Commander)](https://github.com/fabiensanglard/libRealSpace) | Reimplementation of the Origin RealSpace engine for Strike Commander | 107 | 🗄️ | C++ |
 | [neo](https://github.com/NeotokyoRebuild/neo) | NEOTOKYO;REBUILD: reimplementation and continuation of the NEOTOKYO mod on a TF2 engine branch | 104 | 🟢 | C++ |
+| [tf15-client](https://github.com/FWGS/tf15-client) | Reverse engineered Team Fortress Classic client for Xash3D | 104 | 🟢 | C++ |
 | [lithtech](https://github.com/Katana-Steel/lithtech) | Engine reimplementation of F.E.A.R., The Operative: No One Lives Forever; uses original game data (C++) | 103 | 🟢 | C++ |
-| [tf15-client](https://github.com/FWGS/tf15-client) | Reverse engineered Team Fortress Classic client for Xash3D | 103 | 🟢 | C++ |
 | [Barnyard (OpenBarnyard)](https://github.com/InfiniteC0re/OpenBarnyard) | Reverse-engineered reimplementation / port of Barnyard (OpenBarnyard) | 101 | 🟢 | C++ |
 | [cavestory-sdl2](https://github.com/JIghtuse/cavestory-sdl2) | Reconstructing Cave Story with SDL 2.0 and C++14 | 101 | 🔴 | C++ |
 | [DreeRally](https://github.com/enriquesomolinos/DreeRally) | Death Rally engine reimplementation | 101 | 🔴 | C |
+| [OpenSC4](https://github.com/OpenSC4-org/OpenSC4) | Open source reimplementation of SimCity 4 | 100 | 🟡 | GDScript |
 | [OpenCity2k](https://github.com/OpenCity2k/OpenCity2k) | Open source reimplementation of SimCity 2000 | 99 | 🟡 | Python |
-| [OpenSC4](https://github.com/OpenSC4-org/OpenSC4) | Open source reimplementation of SimCity 4 | 99 | 🟡 | GDScript |
 | [Redguard Unity](https://github.com/RGUnity/redguard-unity) | Main repository containing the Unity project and the wiki | 98 | 🟢 | C# |
 | [ko](https://github.com/ko4life-net/ko) | Open source reverse engineered recreation of an old Knight Online version | 94 | 🟡 | C++ |
 | [OpenCrystalCaves](https://github.com/OpenCrystalCaves/OpenCrystalCaves) | OCC is an unofficial open source engine reimplementation of the game trilogy Crystal Caves. | 93 | 🟢 | C++ |
@@ -1000,26 +1000,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Pizza Tower (OpenTower)](https://github.com/femloy/OpenTower) | Reverse-engineered reimplementation / port of Pizza Tower (OpenTower) | 91 | 🟢 | Game Maker Language |
 | [glfrontier](https://github.com/pcercuei/glfrontier) | Reverse engineered version of Frontier: Elite II | 90 | 🔴 | C |
 | [librwgta](https://github.com/aap/librwgta) | GTA-specific extensions to librw (RenderWare reimplementation) and tools using it | 90 | 🟢 | C++ |
-| [PC port of Animal Crossing](https://github.com/ACreTeam/forest) | PC Port of Animal Crossing | 90 | 🟢 | C |
 | [The Great Escape](https://github.com/dpt/The-Great-Escape) | Classic ZX Spectrum game "The Great Escape" reverse engineered | 90 | 🟡 | Assembly |
 | [dejavu](https://github.com/rpjohnst/dejavu) | Game Maker runtime reimplementation | 89 | 🟡 | Rust |
+| [PC port of Animal Crossing](https://github.com/ACreTeam/forest) | PC Port of Animal Crossing | 89 | 🟢 | C |
 | [OpenRaider](https://github.com/xythobuz/OpenRaider) | Open Source Tomb Raider Engine | 86 | 🟡 | C++ |
 | [MegaManX6Recomp](https://github.com/mstan/MegaManX6Recomp) | Mega Man X6 (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community | 85 | 🟢 | Python |
 | [openbgi](https://github.com/Cytlan/openbgi) | Open source reimplementation of the Ethornell Buriko General Interpreter | 85 | 🟢 | C |
+| [MDK Sdl](https://github.com/nautilusbits/mdk-sdl) | Port of MDK (Shiny Entertainment, 1997) to C# and SDL3, based on reverse engineering (PC) | 84 | 🟢 | C# |
 | [TombaRecomp](https://github.com/mstan/TombaRecomp) | Tomba! (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community | 83 | 🟢 | Python |
 | [u4-decompiled](https://github.com/ergonomy-joe/u4-decompiled) | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar | 83 | 🔴 | C |
 | [Worldstone](https://github.com/Lectem/Worldstone) | Diablo 2 tools and engine reimplementation in C++ | 83 | 🔴 | C++ |
+| [Xenogears (Noah, non-matching)](https://github.com/yaz0r/Noah) | Reverse-engineered reimplementation / port of Xenogears (Noah, non-matching) | 82 | 🟢 | C++ |
 | [xoreos-tools](https://github.com/xoreos/xoreos-tools) | Tools for BioWare Aurora engine game formats, companion to the xoreos reimplementation | 82 | 🟢 | C++ |
 | [f2bgl](https://github.com/cyxx/f2bgl) | Fade To Black engine reimplementation (SDL, OpenGL) | 81 | 🗄️ | C++ |
-| [MDK Sdl](https://github.com/nautilusbits/mdk-sdl) | Port of MDK (Shiny Entertainment, 1997) to C# and SDL3, based on reverse engineering (PC) | 81 | 🟢 | C# |
 | [Ultima 5 Redux](https://github.com/bradhannah/Ultima5Redux) | A mostly true to the original Ultima 5 remake in C# using the original U5 data files. | 81 | 🟢 |  |
-| [Xenogears (Noah, non-matching)](https://github.com/yaz0r/Noah) | Reverse-engineered reimplementation / port of Xenogears (Noah, non-matching) | 81 | 🟢 | C++ |
 | [tower-together](https://github.com/phulin/tower-together) | Clone of the 1993 game SimTower | 80 | 🟢 | TypeScript |
 | [WinWar](https://github.com/CAMongrel/WinWar) | WarCraft Orcs & Humans remake using the original assets | 80 | 🗄️ | C# |
 | [OpenDriverEngine](https://github.com/OpenDriver2/OpenDriverEngine) | Research engine running Driver 1 and Driver 2 (PS1) on one codebase | 79 | 🟡 | C++ |
 | [opendf (The Elder Scrolls II: Daggerfall)](https://github.com/kcat/opendf) | Open-source engine for The Elder Scrolls II: Daggerfall that uses the original data | 78 | 🟢 | C++ |
+| [Benilla-Wotlk (World of Warcraft 3.3.5)](https://github.com/Onixaz/benilla-wotlk) | World of Warcraft 3.3.5 client written from scratch | 77 | 🟢 | Rust |
 | [OpenSR](https://github.com/ObKo/OpenSR) | Opensource multi-genre game based upon "Space Rangers 2: Dominators" | 77 | 🗄️ | C++ |
-| [Benilla-Wotlk (World of Warcraft 3.3.5)](https://github.com/Onixaz/benilla-wotlk) | World of Warcraft 3.3.5 client written from scratch | 76 | 🟢 | Rust |
 | [dRally](https://github.com/urxp/dRally) | Open Source Engine / Death Rally [1996] | 76 | 🔴 | C |
 | [FreeHeroes](https://github.com/mapron/FreeHeroes) | FreeHeroes is a free engine for Heroes of Might and Magic 3, similar to VCMI project. | 76 | 🟢 | C++ |
 | [OpenMoonstone](https://github.com/joetsoi/OpenMoonstone) | Open source reimplementation of Moonstone: A Hard Day's Knight | 76 | 🔴 | Rust |
@@ -1030,11 +1030,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Underworld Adventures](https://github.com/vividos/UnderworldAdventures) | Underworld Adventures is a project to recreate Ultima Underworld 1 on modern operating systems, using the original ga... | 75 | 🟢 | C++ |
 | [OpenAOE](https://github.com/angered-ghandi/OpenAOE) | Open source reimplementation of Age of Empires (1997) | 74 | 🔴 | Rust |
 | [SCSharp](https://github.com/toshok/scsharp) | Starcraft reimplementation in C# | 73 | 🔴 | C# |
+| [Wolfenshine](https://github.com/deanthecoder/Wolfenshine) | Modern C# reimplementation of Wolfenstein 3D | 73 | 🟢 | C# |
 | [xu4 (Ultima IV)](https://github.com/xu4-engine/u4) | xu4, a recreation of Ultima IV that uses the original game data | 73 | 🗄️ | C++ |
-| [Wolfenshine](https://github.com/deanthecoder/Wolfenshine) | Modern C# reimplementation of Wolfenstein 3D | 72 | 🟢 | C# |
+| [ReChan](https://github.com/SilverwireGames/ReChan) | Jackie Chan Stuntmaster reimplementation | 72 | 🟢 | C++ |
 | [Mario Kart 64 for Dreamcast](https://github.com/jnmartin84/mk64-dc) | Sega Dreamcast port of Mario Kart 64 decompilation | 71 | 🟢 | C |
 | [OpenFNaF](https://github.com/MotoLegacy/OpenFNaF) | Open source reimplementation of Five Nights at Freddy's | 71 | 🔴 | C |
-| [ReChan](https://github.com/SilverwireGames/ReChan) | Jackie Chan Stuntmaster reimplementation | 71 | 🟢 | C++ |
 | [VitalWear](https://github.com/cfogrady/VitalWear) | Wear OS engine recreation of the Bandai Vital Bracelet BE | 71 | 🟡 | Kotlin |
 | [chronon](https://github.com/hogsy/chronon) | Open-source reimplementation of Anachronox | 70 | 🟡 | C++ |
 | [steins-gate](https://github.com/FGRE/steins-gate) | Reimplementation of Steins;Gate visual novel | 70 | 🔴 | C++ |
@@ -1050,8 +1050,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Cosmo-Engine](https://github.com/yuv422/cosmo-engine) | A new game engine to play the MS-DOS game "Cosmo's Cosmic Adventure" on modern systems | 66 | 🟢 | C |
 | [OpenDance](https://github.com/WodsonKun/OpenDance) | Recreation of the Just Dance engine in GameMaker | 66 | 🟢 | Game Maker Language |
 | [libnpengine](https://github.com/FGRE/libnpengine) | Free implementation of Nitroplus/5pb. Visual Novel game engine | 65 | 🔴 | C++ |
+| [Open76](https://github.com/r1sc/Open76) | Interstate '76 engine reimplementation | 65 | 🔴 | C# |
 | [scion](https://github.com/nsgomez/scion) | Reimplementation of the Maxis engine used by The Sims 2 and SimCity 4 | 65 | 🟢 | C++ |
-| [Open76](https://github.com/r1sc/Open76) | Interstate '76 engine reimplementation | 64 | 🔴 | C# |
 | [OpenDrakan](https://github.com/Zalasus/opendrakan) | A work-in-progress recreation of Surreal Software's Riot Engine | 64 | 🟡 | C++ |
 | [shin](https://github.com/DCNick3/shin) | A reimplementation of VN engine primarily used by 07-th expansion releases on consoles (and some other entergram games) | 64 | 🟢 | Rust |
 | [Total Annihilation 3D](https://github.com/zuzuf/TA3D) | Portable remake of Total Annihilation in 3D | 64 | 🔴 | C |
@@ -1077,18 +1077,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [redstone-js](https://github.com/LostMyCode/redstone-js) | Play RED STONE ONLINE in the browser | 58 | 🟢 | JavaScript |
 | [rock-raiders-remake](https://github.com/rystills/rock-raiders-remake) | Partial HTML5 remake of the classic game "Lego Rock Raiders". | 58 | 🔴 | JavaScript |
 | [TOD_tools](https://github.com/Michael0ne/TOD_tools) | Reversed engine and tools of Total Overdose (2005, PC) | 58 | 🟡 | C++ |
+| [abyssal](https://github.com/TheWWWorm/abyssal) | Godot engine edition of Deep 3D: Submarine Odyssey by Fishlabs | 57 | 🟢 | GDScript |
 | [freeage](https://github.com/puzzlepaint/freeage) | Open-source reimplementation of the Age of Empires 2: Definitive Edition engine | 57 | 🗄️ |  |
 | [WolfensteinRPG-RE](https://github.com/Erick194/WolfensteinRPG-RE) | Wolfenstein RPG reverse engineering and reimplementation | 57 | 🟢 | C++ |
-| [abyssal](https://github.com/TheWWWorm/abyssal) | Godot engine edition of Deep 3D: Submarine Odyssey by Fishlabs | 56 | 🟢 | GDScript |
 | [OpenSHC](https://github.com/sourcehold/OpenSHC) | An open source re-implementation of Stronghold Crusader | 56 | 🟢 | C++ |
 | [RSDKv2 Decompilation](https://github.com/RSDKModding/RSDKv2-Decompilation) | a Decompilation of the 2008 Retro-Sonic Engine Demo of Sonic Nexus | 56 | 🟢 | C++ |
 | [SF2DISASM](https://github.com/ShiningForceCentral/SF2DISASM) | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. | 56 | 🟢 | Assembly |
 | [sioux](https://github.com/hanatos/sioux) | Open-source reimplementation of the Comanche 3 helicopter sim engine | 56 | 🟡 | C |
+| [Ultima 5](https://github.com/synthwave-pixel/ultima5) | Modern engine for Ultima 5. | 56 | 🟢 | TypeScript |
 | [BOOM: Remake](https://github.com/silverweed/lifish) | Open-source engine reimplementation of BOOM that runs on the original game data | 55 | 🟢 | C++ |
 | [open-rct3](https://github.com/open-rct3/open-rct3) | Open-source re-implementation of RollerCoaster Tycoon 3 | 55 | 🟢 | C# |
 | [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) | Monogame implementation of Prince of Persia 2. | 55 | 🟢 | C# |
 | [Stardust rebuilt](https://github.com/TheJare/stardust-48k) | Reverse engineered source for the 1987 Sinclair Spectrum game "Stardust" | 55 | 🔴 | Assembly |
-| [Ultima 5](https://github.com/synthwave-pixel/ultima5) | Modern engine for Ultima 5. | 55 | 🟢 | TypeScript |
 | [femto8](https://github.com/benbaker76/femto8) | Open-source reimplementation of the PICO-8 fantasy console for embedded systems | 54 | 🟢 | C |
 | [wacki](https://github.com/mszula/wacki) | From-scratch C/SDL2 reimplementation of Wacki (1998) from reverse-engineered opcodes | 54 | 🟢 | C |
 | [Airline Tycoon](https://github.com/openairlinetycoon/AirlineTycoon) | Source code of Airline Tycoon based on the GOG source code release | 53 | 🔴 | C++ |
@@ -1109,22 +1109,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenAdhoc](https://github.com/Nenkai/OpenAdhoc) | Open-source re-implementation of Gran Turismo Adhoc scripts | 49 | 🟢 | C |
 | [RuZZT](https://github.com/yokljo/ruzzt) | RuZZT, a ZZT game engine reimplementation in Rust | 49 | 🔴 | Rust |
 | [ZGloom](https://github.com/Swizpig/ZGloom) | ZGloom, a reimplementation of the Amiga FPS Gloom that uses the original data | 49 | 🔴 | C++ |
+| [I26 (Interstate '76)](https://github.com/vahokif/I26) | Godot engine reimplementation of Interstate '76 | 48 | 🟢 | C# |
 | [jsFO](https://github.com/ajxs/jsFO) | Fallout 2 Javascript port | 48 | 🟢 | JavaScript |
 | [OpenLGR](https://github.com/james-knippes/openlgr) | Engine reimplementation of Lego Racers; uses original game data (C) | 48 | 🗄️ | C |
 | [TurokEX](https://github.com/svkaiser/TurokEX) | TurokEX, a rewrite of the Turok: Dinosaur Hunter engine that uses the original data | 48 | 🔴 | C |
 | [DOOM64-EX-Plus-Enhanced](https://github.com/Styd051/DOOM64-EX-Plus-Enhanced) | Enhanced build of the DOOM64 EX+ reverse-engineered Doom 64 engine (N64) | 47 | 🟢 | C |
 | [GLKeeper](https://github.com/codenamecpp/GLKeeper) | Open Source Dungeon Keeper 2 Reimplementation | 47 | 🟢 | C++ |
-| [I26 (Interstate '76)](https://github.com/vahokif/I26) | Godot engine reimplementation of Interstate '76 | 47 | 🟢 | C# |
-| [RAD](https://github.com/jval1972/Rad-X) | RAD: Remake of the game "Radix - Beyond the void" | 46 | 🟡 | Pascal |
+| [OMF-2097-Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered) | One Must Fall 2097 rebuilt in TypeScript and WebGL2, using the original game data | 47 | 🟢 | TypeScript |
 | [sacengine](https://github.com/tg-2/sacengine) | Engine reimplementation for Sacrifice by Shiny Entertainment | 46 | 🟢 | D |
+| [Clone Dash](https://github.com/marchc1/CloneDash) | Open-source engine reimplementation of Muse Dash (Windows) that runs on the original game data | 45 | 🟢 | C# |
+| [Jurassic Park: Operation Genesis (OpenJPOG)](https://github.com/AdventureT/OpenJPOG) | Reverse-engineered reimplementation / port of Jurassic Park: Operation Genesis (OpenJPOG) | 45 | 🟢 | C++ |
 | [Lemmix](https://github.com/ericlangedijk/Lemmix) | Lemmix Main Source Code - Lemmings Clone | 45 | 🔴 | Pascal |
 | [OpenGTA](https://github.com/madebr/OpenGTA) | OpenGTA: copy of http://ogta.fifengine.de/ | 45 | 🔴 | C++ |
+| [RAD](https://github.com/jval1972/Rad-X) | RAD: Remake of the game "Radix - Beyond the void" | 45 | 🟡 | Pascal |
 | [BelthasarProject](https://github.com/TemplarServant/BelthasarProject) | Chrono Trigger (SNES) reimplemented as a native PC game in C, using your own ROM | 44 | 🟢 | C |
 | [Blast Corps](https://github.com/retroplastic/blastcorps) | A Blast Corps decompilation. | 44 | 🔴 | C |
-| [Clone Dash](https://github.com/marchc1/CloneDash) | Open-source engine reimplementation of Muse Dash (Windows) that runs on the original game data | 44 | 🟢 | C# |
 | [ectopad (Metroid Prime)](https://github.com/chrissotraidis/ectopad) | Metroid Prime via the Metaforce reimplementation for macOS, iOS and iPadOS | 44 | 🟢 | C++ |
-| [Jurassic Park: Operation Genesis (OpenJPOG)](https://github.com/AdventureT/OpenJPOG) | Reverse-engineered reimplementation / port of Jurassic Park: Operation Genesis (OpenJPOG) | 44 | 🟢 | C++ |
-| [OMF-2097-Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered) | One Must Fall 2097 rebuilt in TypeScript and WebGL2, using the original game data | 44 | 🟢 | TypeScript |
 | [reevengi](https://github.com/pmandin/reevengi) | Resident Evil engine reimplementation | 44 | 🔴 | C |
 | [Chrono Trigger C](https://github.com/buzzer-re/Chrono-Trigger-C) | A simple remake of Chrono Trigger written in C, using the SDL API | 42 | 🗄️ | C |
 | [peonpad (Warcraft II)](https://github.com/chrissotraidis/peonpad) | Warcraft II on iPad via the Stratagus engine | 42 | 🟢 | C++ |
@@ -1150,57 +1150,57 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ChaseHQ](https://github.com/dpt/ChaseHQ) | Chase H.Q. for ZX Spectrum — reverse-engineered and reconstructed in portable C | 37 | 🟢 | C |
 | [OpenDeathValley (Desperados: Wanted Dead or Alive)](https://github.com/OpenDeathValley/OpenDeathValley) | Open-source engine for Desperados: Wanted Dead or Alive that uses the original data | 37 | 🔴 | C |
 | [OpenXeen](https://github.com/busyDuckman/OpenXeen) | Might and Magic engine rewrite. | 37 | 🔴 | Java |
+| [reb3](https://github.com/lolz0r/reb3) | Partial reverse-engineered rebuild of Burnout 3: Takedown | 37 | 🟢 | C |
 | [Rosebed](https://github.com/mdmrk/rosebed) | From-scratch Zig reimplementation of Minecraft Beta 1.7.3 client and server, protocol-compatible | 37 | 🟢 | Zig |
 | [Sonic R (sonic-r (jnmartin84))](https://github.com/jnmartin84/sonic-r) | Reimplementation of Sonic R for multiple platforms (Saturn) | 37 | 🟢 | C |
+| [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) | Open-source reimplementation of Ultima Underworld: The Stygian Abyss (DOS) | 37 | 🟢 | C# |
 | [xrick (Rick Dangerous)](https://github.com/zpqrtbnk/xrick) | xrick, an open-source reimplementation of Rick Dangerous | 37 | 🟢 | C |
 | [JJFFE](https://github.com/videogamepreservation/jjffe) | John Jordan's reverse engineering of Frontier: First Encounters. | 36 | 🗄️ | Assembly |
-| [reb3](https://github.com/lolz0r/reb3) | Partial reverse-engineered rebuild of Burnout 3: Takedown | 36 | 🟢 | C |
 | [GLSpeed (Speed Haste)](https://github.com/jval1972/Speed) | Open-source reimplementation of Speed Haste (DOS) | 35 | 🔴 | Pascal |
 | [Pokémon Anniversary Red](https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed) | Anniversary Red dissassembly | 35 | 🔴 | Assembly |
 | [sadx_decomp](https://github.com/FraGag/sadx_decomp) | Sonic Adventure DX Decompilation | 35 | 🗄️ | C |
 | [Sheep, Dog 'n' Wolf](https://github.com/SDW-Community/Sheep-Dog-n-Wolf-Rewooled) | PC port of Sheep, Dog 'n' Wolf that replaces its Windows dependencies (PC) | 35 | 🟢 | C++ |
 | [Test Drive III Enhanced](https://github.com/kylofon/testdrive3-enhanced) | Enhanced native SDL3 port of Test Drive III: The Passion (DOS) | 35 | 🟢 | C |
-| [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) | Open-source reimplementation of Ultima Underworld: The Stygian Abyss (DOS) | 35 | 🟢 | C# |
 | [Unity Underground](https://github.com/Kweepa/OpenUnderground) | Unity-based update of Ultima Underworld that uses the original game data (DOS) | 35 | 🟢 | C# |
 | [burntime](https://github.com/jakobharder/burntime) | Remaster and expansion of Max Design's Burntime (1993) that uses the original data | 34 | 🟢 | C# |
 | [rsc-remastered](https://github.com/Danjb1/rsc-remastered) | Reverse-engineered implementation of the RuneScape Classic client | 34 | 🔴 | Java |
+| [WoodyRE](https://github.com/jjmhalew/WoodyRE) | Engine reimplementation of Woody Woodpecker: Escape from Buzz Buzzard Park (PC, 2001) - plays the original game from... | 34 | 🟢 | C |
 | [Contra_remake](https://github.com/EmileSonneveld/Contra_remake) | The first level of a cool arcade game remade in c++ | 33 | 🔴 | JavaScript |
 | [DownHill-Port-PC](https://github.com/Pedroj-64/DownHill-Port-PC) | Native PC port of Downhill Domination (PS2) via an engine reimplementation using game data | 33 | 🟢 | C++ |
 | [F.LF](https://github.com/tyt2y3/F.LF) | Clean-room implementation of the fighting game Little Fighter 2 | 33 | 🔴 | HTML |
 | [Mario-Bros.-Dis](https://github.com/RussianManSMWC/Mario-Bros.-Dis) | Mario Bros. (NES) Disassembly | 33 | 🟢 | Assembly |
 | [OpenTitus](https://github.com/stople/OpenTitus) | A port of the game engine behind the DOS versions of Titus the Fox and Moktar | 33 | 🔴 |  |
 | [SiegeFX](https://github.com/codingncaffeine/SiegeFX) | Open-source reimplementation of Dungeon Siege (2002) in C# | 33 | 🟢 | C# |
-| [WoodyRE](https://github.com/jjmhalew/WoodyRE) | Engine reimplementation of Woody Woodpecker: Escape from Buzz Buzzard Park (PC, 2001) - plays the original game from... | 33 | 🟢 | C |
 | [COD4-Rewrite](https://github.com/Nilbong/COD4-Rewrite) | Call of Duty 4 multiplayer reimplemented in Rust on Bevy. Bring your own game files. | 32 | 🟢 | Rust |
 | [OpenMM2](https://github.com/0x1F9F1/OpenMM2) | Open-source re-implementation of Midtown Madness 2 | 32 | 🗄️ | C |
 | [Re-Comprehend](https://github.com/RyanMallon/recomprehend) | Open source implementation of the Comprehend adventure game engine used by the games Transylvania, Crimson Crown, and... | 32 | 🔴 | C |
+| [rerbr](https://github.com/JodusNodus/rerbr) | Reimplementation of Richard Burns Rally that runs natively on Linux, Mac and Windows | 32 | 🟢 | Rust |
 | [The Castles of Dr. Creep](https://github.com/segrax/DrCreep) | The Castles of Dr. Creep | 32 | 🔴 | C++ |
 | [BeefRaiderXR (Tomb Raider)](https://github.com/Team-Beef-Studios/BeefRaiderXR) | OpenXR build of OpenLara, the Tomb Raider engine reimplementation | 31 | 🟡 | C |
 | [Doom 64 for Dreamcast](https://github.com/jnmartin84/doom64-dc) | Doom 64 port for Sega Dreamcast / KallistiOS | 31 | 🟢 | C |
 | [Dungeon Craft](https://github.com/grannypron/uaf) | Engine reimplementation of Forgotten Realms: Unlimited Adventures; uses original game data (C++) | 31 | 🟢 | C++ |
+| [Flipendo](https://github.com/kroplabeskidu/flipendo) | Open-source engine for Harry Potter and the Philosopher's Stone (PC) | 31 | 🟢 | C++ |
 | [Gran Turismo 4](https://github.com/MrGoodGuy2144/OpenGT4) | Unofficial native PC port of Gran Turismo 4, reimplemented in C (PS2) | 31 | 🟢 | C |
 | [Lode Runner 2020](https://github.com/Ma-Pe-Ma/Lode-Runner-2020) | A remake of the classic '80s puzzle game! | 31 | 🟢 | C++ |
 | [piney_apples](https://github.com/Toyz/piney_apples) | Native Rust port of the PS2 .hack engine from reverse engineering | 31 | 🟢 | Rust |
 | [PyTouhou](https://github.com/GovanifY/PyTouhou) | Open-source reimplementation of the Touhou Generation 1 Windows engine | 31 | 🔴 | Python |
 | [REminiscence](https://github.com/cyxx/REminiscence) | Flashback engine reimplementation (Android, SDL) | 31 | 🗄️ | C++ |
+| [shiloh](https://github.com/Asterber/shiloh) | Engine that runs The X-Files Game (1998) on modern PCs and in the browser | 31 | 🟢 | Rust |
 | [Shining Force 2 Reverse Engineer (SF2RE)](https://github.com/ShiningForceCentral/SF2RE) | Collaborative work on reverse-engineering Shining Force II, and source of main project SF2DISASM (see website link) | 31 | 🟡 | C |
 | [UltimaVRedux](https://github.com/bradhannah/UltimaVRedux) | Ultima V Redux, a modern recreation that requires the original game data | 31 | 🟢 | Go |
 | [xbox-boot-re](https://github.com/bennyborn/xbox-boot-re) | Original Xbox boot animation reconstructed from the retail BIOS in C with a WebGPU viewer | 31 | 🟢 | Python |
-| [Flipendo](https://github.com/kroplabeskidu/flipendo) | Open-source engine for Harry Potter and the Philosopher's Stone (PC) | 30 | 🟢 | C++ |
+| [CSVM (Crimson Skies)](https://github.com/Laeresh/CSVM) | Open-source remake of Crimson Skies (2000) that plays the original game files | 30 | 🟢 | C# |
 | [Looking Glass](https://github.com/looking-glass-project/LookingGlass) | Open-source reimplementation of American McGee's Alice (Windows) | 30 | 🟢 | Rust |
 | [OpenOrion2](https://github.com/nextghost/openorion2) | Open-source remake of Master of Orion II: Battle at Antares | 30 | 🟢 | C++ |
-| [rerbr](https://github.com/JodusNodus/rerbr) | Reimplementation of Richard Burns Rally that runs natively on Linux, Mac and Windows | 30 | 🟢 | Rust |
-| [shiloh](https://github.com/Asterber/shiloh) | Engine that runs The X-Files Game (1998) on modern PCs and in the browser | 30 | 🟢 | Rust |
 | [benilla-re](https://github.com/samwhosung/benilla-re) | Reverse engineering of the World of Warcraft 1.12.1 client behind the benilla client | 29 | 🟢 | Rust |
 | [Heroes Of JinYong](https://github.com/soarqin/HeroesOfJinYong) | A reimplementation of the DOS game `The legend of Jin Yong Heroes(金庸群侠传)` | 29 | 🟢 | C++ |
 | [Legend of Legaia](https://github.com/AndrewAltimit/legend-of-legaia-re) | Reverse engineering and format documentation of Legend of Legaia (PS1) | 29 | 🟢 | Rust |
+| [Magnetar](https://github.com/joankaradimov/Magnetar) | Magnetar is a StarCraft: Brood War mod/reimplementation. | 29 | 🟡 | C++ |
 | [OpenSolomonsKey (Solomon's Key)](https://github.com/mdodis/OpenSolomonsKey) | Open-source reimplementation of Solomon's Key (Arcade) | 29 | 🔴 | C++ |
 | [Thirdeye](https://github.com/psi29a/thirdeye) | Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack. | 29 | 🟢 | C++ |
 | [beatfever](https://github.com/Sulunia/beatfever) | Partial open-source reimplementation of the osu! game engine in Lua/LOVE | 28 | 🔴 | Lua |
 | [Bermuda Syndrome](https://github.com/cyxx/bermuda) | Bermuda Syndrome engine reimplementation (Emscripten, libretro, SDL2) | 28 | 🗄️ | C++ |
-| [CSVM (Crimson Skies)](https://github.com/Laeresh/CSVM) | Open-source remake of Crimson Skies (2000) that plays the original game files | 28 | 🟢 | C# |
 | [Future Cop: MIT](https://github.com/Ghoster738/Future-Cop-MIT) | Open Source Game Engine Project | 28 | 🟢 | C++ |
-| [Magnetar](https://github.com/joankaradimov/Magnetar) | Magnetar is a StarCraft: Brood War mod/reimplementation. | 28 | 🟡 | C++ |
 | [mengde](https://github.com/wateret/mengde) | A turn-based RPG game engine inspired by 三國志曹操傳. | 28 | 🔴 | C++ |
 | [opengta2](https://github.com/ikkentim/opengta2) | Open-source re-implementation of GTA II in C# using the original assets | 28 | 🟢 | C# |
 | [freetfc](https://github.com/eukara/freetfc) | Clean-room reimplementation of Team Fortress Classic in QuakeC | 27 | 🟡 | C |
@@ -1209,22 +1209,22 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [linyaga](https://github.com/cyxx/linyaga) | Humongous Yaga engine reimplementation | 27 | 🗄️ | C |
 | [mortar-eng (TT Games)](https://github.com/leftmostcat/mortar-eng) | Reimplementation of the TT Games LEGO game engine | 27 | 🔴 | C++ |
 | [OpenCloud](https://github.com/Gundorada-Workshop/OpenCloud) | Open source reimplementation of the Dark Cloud games | 27 | 🟡 | C++ |
+| [Railroad Tycoon](https://github.com/bluddy/rails) | Remake of Railroad Tycoon in OCaml (DOS) | 27 | 🟢 | OCaml |
 | [WinTex](https://github.com/ElakaSnarne/WinTex) | Engine reimplementation of Under a Killing Moon; uses original game data (C++) | 27 | 🟢 | C++ |
 | [freegunman](https://github.com/eukara/freegunman) | Clean-room reimplementation of Gunman Chronicles in QuakeC | 26 | 🟡 | C |
-| [Railroad Tycoon](https://github.com/bluddy/rails) | Remake of Railroad Tycoon in OCaml (DOS) | 26 | 🟢 | OCaml |
+| [LibertyFlux](https://github.com/monstercameron/LibertyFlux) | GTA IV engine rewritten in Rust function by function by AI agents for Windows x64 and ARM | 26 | 🟢 | Rust |
 | [skyroads-port](https://github.com/ammaarreshi/skyroads-port) | 1:1 reverse-engineered portable port of SkyRoads (1993) in C11 + SDL2 | 26 | 🟢 | C |
 | [T.O.R.E Fighters](https://github.com/john-overton/T.O.R.E-Fighters) | Reverse-engineered rebuild of Jane's Fighters Anthology flight sim | 26 | 🟢 | Rust |
 | [vigasocosdl-la-abadia-del-crimen](https://github.com/luzbel/vigasocosdl-la-abadia-del-crimen) | Automatically exported from code.google.com/p/vigasocosdl-la-abadia-del-crimen | 26 | 🔴 | Assembly |
+| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | Enhanced native SDL3 port of Aces of the Pacific (DOS) | 25 | 🟢 | C |
 | [DungeonMaster.NET](https://github.com/ggrrin/DungeonMaster.NET) | Reimplementation of famous old Dungeon Master game. | 25 | 🔴 | C# |
 | [Iris2](https://github.com/kblaschke/Iris2) | An Open-Source 3D Ultima Online(tm) Client. No active development, mostly for archival purposes as the original proje... | 25 | 🔴 | C |
-| [LibertyFlux](https://github.com/monstercameron/LibertyFlux) | GTA IV engine rewritten in Rust function by function by AI agents for Windows x64 and ARM | 25 | 🟢 | Rust |
 | [OpenRedAlert (Command & Conquer: Red Alert)](https://github.com/damiencarol/openredalert) | Open-source reimplementation of Command & Conquer: Red Alert | 25 | 🔴 | C++ |
 | [The Wing of Madoola](https://github.com/nfroggy/openmadoola) | Reimplementation of The Wing of Madoola (NES) in C | 25 | 🟢 | C |
 | [goldsrc-reversed-steam_api](https://github.com/oxiKKK/goldsrc-reversed-steam_api) | Reverse-engineered steam_api module shipped with the GoldSource engine | 24 | 🔴 | C++ |
 | [Harold](https://github.com/OldGamesLab/Harold) | Open-source Fallout 2 engine implementation, a revival of darkfo project | 24 | 🔴 | TypeScript |
 | [Roton (Super ZZT)](https://github.com/SaxxonPike/roton) | Roton, cross-platform ZZT and Super ZZT engine reimplementation in C# | 24 | 🟢 | C# |
 | [zztjs](https://github.com/bstreiff/zztjs) | ZZT game engine reimplemented in JavaScript | 24 | 🗄️ | JavaScript |
-| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | Enhanced native SDL3 port of Aces of the Pacific (DOS) | 23 | 🟢 | C |
 | [Bagman (bagman (arcade -> 68k transcode))](https://github.com/jotd666/bagman) | Bagman arcade code transcoded for Windows, Nintendo DS and Amiga (Arcade) | 23 | 🟢 | C |
 | [Bedlam 2: Absolute Bedlam](https://github.com/8street/Bedlam2) | Source code for Bedlam 2 (1997) game executable file. | 23 | 🔴 | Assembly |
 | [F-Zero Clone](https://github.com/chipbell4/F-Zero-Clone) | A WebGL F-Zero clone. Show ya moves! | 23 | 🔴 | JavaScript |
@@ -1233,6 +1233,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenNox](https://github.com/noxworld-dev/opennox) | Open-source reimplementation of Nox | 23 | 🗄️ | C |
 | [SF1DISASM](https://github.com/ShiningForceCentral/SF1DISASM) | A disassembly of the game "Shining Force" for documentation and fan-project purposes. | 23 | 🟡 | Assembly |
 | [shock2quest](https://github.com/tommy-xr/shock2quest) | Unofficial recreation of the Dark engine for System Shock 2 on Quest | 23 | 🟢 | Rust |
+| [Urban Chaos (OpenChaos)](https://github.com/UltimaBeaR/OpenChaos) | Fan modernization of Urban Chaos built on its code (PC) | 23 | 🟢 | C++ |
 | [vaultpad (Fallout 2)](https://github.com/chrissotraidis/vaultpad) | Touch-enabled Fallout 2 for iPad based on the Fallout 2 reimplementation | 23 | 🟢 | Swift |
 | [cc94](https://github.com/institution/cc94) | Remake of 1994 Sid Meier's Colonization game | 22 | 🔴 | C++ |
 | [DuckHunt](https://github.com/grosbouddha/duckhunt) | Canvas based remake of the NES DuckHunt game. | 22 | 🔴 | JavaScript |
@@ -1240,10 +1241,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mc-classic-c](https://github.com/degradka/mc-classic-c) | Minecraft Classic rewritten in C | 22 | 🟢 | C |
 | [openzt2](https://github.com/overyonder/openzt2) | Open-source engine reimplementation of Zoo Tycoon 2 | 22 | 🟢 | Rust |
 | [sims-3-bevy](https://github.com/Eamo5/sims-3-bevy) | Work-in-progress reimplementation of The Sims 3 in the Bevy game engine | 22 | 🟢 | Rust |
-| [Urban Chaos (OpenChaos)](https://github.com/UltimaBeaR/OpenChaos) | Fan modernization of Urban Chaos built on its code (PC) | 22 | 🟢 | C++ |
 | [wkbre2](https://github.com/AdrienTD/wkbre2) | WK Engine Reimplementation Rewrite with Multiplayer support! | 22 | 🟢 | C++ |
 | [captain-bible-re](https://github.com/peterkelly/captain-bible-re) | Reverse engineering of the 1994 DOS game Captain Bible in the Dome of Darkness | 21 | 🟢 | Rust |
 | [Concilia Tower](https://github.com/Jonahss/concilia-tower) | Ground-up rewrite of SimTower (1994) from decompilation, playable in the browser | 21 | 🟢 | C |
+| [Etervale](https://github.com/bencz-games/Etervale) | Open-source reimplementation of Priston Tale in C# and MonoGame | 21 | 🟢 | C# |
 | [LOZ](https://github.com/aldonunez/Loz) | A remake of The Legend of Zelda | 21 | 🔴 | C++ |
 | [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) | Free software reconstruction of Chasm: The Rift (DOS) | 21 | 🗄️ | C++ |
 | [Q2RTXPerimental](https://github.com/PolyhedronStudio/Q2RTXPerimental) | My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II | 21 | 🟢 | C++ |
@@ -1253,31 +1254,31 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Sonic Lost World (OpenLW)](https://github.com/Radfordhound/OpenLW) | Reverse-engineered reimplementation / port of Sonic Lost World (OpenLW) | 21 | 🟡 | C++ |
 | [Chocolate Blood](https://github.com/NBlood/chocolate-blood) | Chocolate Doom inspired Blood port (heavily WIP) | 20 | 🟡 | C |
 | [Daikatana Restoration Project](https://github.com/atsb/daikatana-restoration-project) | Daikatana restoration aiming to have a clean 1.2 source and to support modern systems | 20 | 🟢 | C++ |
-| [Etervale](https://github.com/bencz-games/Etervale) | Open-source reimplementation of Priston Tale in C# and MonoGame | 20 | 🟢 | C# |
+| [open-northland](https://github.com/s-nems/open-northland) | A modern, open-source reimplementation of the Cultures game series | 20 | 🟢 | TypeScript |
 | [OpenBreed](https://github.com/mrpetro/OpenBreed) | Open source reimplementation of classic Alien Breed 2D games and editor. | 20 | 🟢 | C# |
 | [OpenUT2k4](https://github.com/GloriousEggroll/OpenUT2k4) | Open-source reimplementation of Unreal Tournament 2004 in Unreal Engine 5 | 20 | 🟢 | C++ |
+| [Realms of Arkania: Blade of Destiny ( Bright-Eyes)](https://github.com/Henne/BrightEyes) | Engine rewrite of Realms of Arkania: Blade of Destiny (DOS) | 20 | 🟢 | C++ |
 | [RPG-X](https://github.com/UberGames/rpgxEF) | A modifaction of ioEF with increased limits for RPG-X2, now including the gamecode | 20 | 🟢 | C |
 | [wkbre](https://github.com/AdrienTD/wkbre) | Warrior Kings (Battles) game engine reimplementation / recreation | 20 | 🟡 | C++ |
 | [7k2](https://github.com/7k2/7k2) | Experimental fork of Seven Kingdoms II: The Fryhtan Wars | 19 | 🔴 | C++ |
 | [Amiga Cannonball-C](https://github.com/lantus/Cannonball-C) | Cannonball for the Amiga ported to C | 19 | 🔴 | C |
+| [GTA4Unity](https://github.com/Infinity-Loops/GTA4Unity) | Open-source reimplementation of the GTA IV engine in Unity | 19 | 🟢 | C# |
 | [hobbitgfx](https://github.com/richcarl/hobbitgfx) | The Hobbit graphics engine | 19 | 🔴 | JavaScript |
 | [i76-everywhere](https://github.com/therealjkvalentine/i76-everywhere) | Interstate '76 on Apple Silicon, Steam Deck and modern Windows, with save editor and RE notes | 19 | 🟢 | Python |
 | [jy-remake](https://github.com/scarsty/jy-remake) | Zgames制作的《金庸群侠传》复刻版 | 19 | 🟢 | C |
-| [open-northland](https://github.com/s-nems/open-northland) | A modern, open-source reimplementation of the Cultures game series | 19 | 🟢 | TypeScript |
 | [Railroad Tycoon II reimplementation](https://github.com/pedryvo/rrt2-decomp) | Reverse engineering and Rust reimplementation of Railroad Tycoon II | 19 | 🟢 | Rust |
 | [re2ds](https://github.com/eray1605/re2ds) | Native Nintendo DS engine for Resident Evil 2 that reimplements its PS1 game rules | 19 | 🟢 | C |
-| [Realms of Arkania: Blade of Destiny ( Bright-Eyes)](https://github.com/Henne/BrightEyes) | Engine rewrite of Realms of Arkania: Blade of Destiny (DOS) | 19 | 🟢 | C++ |
 | [unbanished](https://github.com/tanepiper/unbanished) | From-scratch Rust reimplementation of the Banished engine, native and in the browser | 19 | 🟢 | Rust |
 | [zorkClone](https://github.com/vatbub/zorkClone) | Reimplementation of the original Zork game developed by Infocom. | 19 | 🔴 | Java |
-| [GTA4Unity](https://github.com/Infinity-Loops/GTA4Unity) | Open-source reimplementation of the GTA IV engine in Unity | 18 | 🟢 | C# |
 | [OpenDW (Dragon Wars)](https://github.com/devinsmith/opendw) | Open-source reimplementation of the Dragon Wars (1989) engine that uses the original data | 18 | 🟢 | C |
+| [rook](https://github.com/AsyncFinn/rook) | Open-source Rust reimplementation of the Roblox engine | 18 | 🟢 | Rust |
+| [sena-rs (SoftPAL)](https://github.com/xmoezzz/sena-rs) | Cross-platform reimplementation of the SoftPAL visual novel engine | 18 | 🟢 | Rust |
 | [The Legend of Zelda: Oracle of Ages (ooa-godot)](https://github.com/SHOEGAZEssb/ooa-godot) | Reimplementation of Zelda: Oracle of Ages/Seasons in C# and Godot (Game Boy Color) | 18 | 🟢 | C# |
 | [invaders (in C)](https://github.com/herrecito/invaders) | A Space Invaders / Intel 8080 emulator | 17 | 🔴 | C |
 | [mgcarpet (Magic Carpet)](https://github.com/raincz/mgcarpet) | From-scratch engine port of Magic Carpet 1, Hidden Worlds and 2 | 17 | 🟢 | Rust |
 | [Octopus](https://github.com/roger-wetzel/Octopus) | Remake of Nintendo's Octopus Game & Watch device for Apple TV 4 | 17 | 🔴 | Swift |
 | [OpenOP2](https://github.com/OpenOP2/OpenOP2) | OpenOP2 is a re-implementation of the gameplay inspired by colony building games like Outpost 2, using the OpenRA eng... | 17 | 🟢 | C# |
 | [Pokémon Red++](https://github.com/jayceekaycee/RedPlusPlus) | An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features. Now a standalone repository, so you can... | 17 | 🔴 | Assembly |
-| [sena-rs (SoftPAL)](https://github.com/xmoezzz/sena-rs) | Cross-platform reimplementation of the SoftPAL visual novel engine | 17 | 🟢 | Rust |
 | [Arcanum on iOS](https://github.com/arcanum-project/game) | Engine reimplementation of Arcanum: Of Steamworks and Magick Obscura; uses original game data (C++) | 16 | 🔴 | C++ |
 | [Castlekeep](https://github.com/leidav/Castlekeep) | Reimplementation of Stronghold 1 | 16 | 🔴 | C++ |
 | [coduomp](https://github.com/opencoduo/coduomp) | Reconstruction of Call of Duty: United Offensive multiplayer | 16 | 🟢 | C |
@@ -1291,12 +1292,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenBound](https://github.com/WickedPeanuts/OpenBound) | This project aims to mimic the older PC versions of Gunbound with optimized behavior, engine and gameplay elements. T... | 16 | 🟡 | C# |
 | [Project ANISE](https://github.com/tomyun/anise) | 🦋 Project ANISE (A Newly Implemented Scripting Engine for AI5V) | 16 | 🔴 | C++ |
 | [realice](https://github.com/FWGS/realice) | Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered. | 16 | 🟢 | C |
-| [rook](https://github.com/AsyncFinn/rook) | Open-source Rust reimplementation of the Roblox engine | 16 | 🟢 | Rust |
+| [remech2-rs (MechWarrior 2)](https://github.com/anpage/remech2-rs) | Open-source reimplementation of the MechWarrior 2 engine in Rust | 16 | 🟢 | C |
 | [SFCDDISASM](https://github.com/ShiningForceCentral/SFCDDISASM) | A disassembly of the game "Shining Force CD" for documentation and fan-project purposes. | 16 | 🔴 | Assembly |
 | [Friking Shark](https://github.com/ptitSeb/friking-shark) | Open-source reimplementation of Flying Shark | 15 | 🔴 | C |
 | [OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) | Open-source engine reimplementation of Total Annihilation: Kingdoms (C11, native + WebAssembly). Bring your own game... | 15 | 🟢 | C |
 | [OpenRakis_old (Dune)](https://github.com/OpenRakis/OpenRakis_old) | Open-source reimplementation of Cryo's Dune (1992) | 15 | 🗄️ | Assembly |
-| [remech2-rs (MechWarrior 2)](https://github.com/anpage/remech2-rs) | Open-source reimplementation of the MechWarrior 2 engine in Rust | 15 | 🟢 | C |
 | [Zuma Portable](https://github.com/kyle-sylvestre/CircleShootApp) | Zuma Deluxe (1.0.0) decompilation ported to newer platforms | 15 | 🟢 | C++ |
 | [earth-shaker](https://github.com/Palevolg/earth-shaker) | Remake of an old ZX-spectrum game "EarthShaker" on Unity | 14 | 🔴 | C# |
 | [firestaff](https://github.com/yeager/firestaff) | 🔥 Source-faithful Dungeon Master engine — DM1, CSB, DM2, DM Nexus and Theron's Quest on modern hardware. macOS, Windo... | 14 | 🟢 | C |
@@ -1314,11 +1314,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [OpenRow (Saints Row)](https://github.com/Itismrwonderful/OpenRow) | Open-source reimplementation of Saints Row 1 | 13 | 🟢 |  |
 | [ReDMCSB](https://github.com/gondur/ReDMCSB_Release2) | ReDMCSB Release2 source code by Christophe Fontanel | 13 | 🔴 | Assembly |
 | [remc1](https://github.com/turican0/remc1) | Recode Binary code of game Magic Carpet1 to C/C++ language(remake MC1 for any platform) | 13 | 🔴 | C++ |
+| [abadia (La Abadía del Crimen)](https://github.com/ultrabolido/abadia) | Open-source reimplementation of La Abadía del Crimen (ZX Spectrum) | 12 | 🟡 | JavaScript |
 | [Amber](https://github.com/Pyrdacor/Amber) | Engine for the Amber trilogy | 12 | 🟢 | C# |
 | [diablo-2-recompilation](https://github.com/IgorKonovalov/diablo-2-recompilation) | Reimplementation spec of Diablo II LoD 1.14d item, monster and level generation | 12 | 🟢 | Python |
 | [DNF-reimposition](https://github.com/vini1264/DNF-Enhanced) | Set of gameplay enhancements for Duke Nukem Forever (2011) | 12 | 🔴 | C |
 | [EF2GameSource](https://github.com/UberGames/EF2GameSource) | The original EF2GameSource updated so it compiles under Visual Studio 2012 and Linux | 12 | 🔴 | C++ |
 | [erampage](https://github.com/ttyborg/erampage) | Automatically exported from code.google.com/p/erampage | 12 | 🔴 | C |
+| [evnova-decomp](https://github.com/wraitii/evnova-decomp) | Reimplementation of the Escape Velocity Nova engine from decompilation (SDL3) | 12 | 🟢 | C++ |
 | [Free-BBN](https://github.com/jegesmedve09/Free-BBN) | Open-source reimplementation of the PlayStation 2 Broadband Navigator | 12 | 🟢 | C |
 | [gta1_re](https://github.com/CriminalRETeam/gta1_re) | Engine reimplementation of Grand Theft Auto; uses original game data (C++) | 12 | 🟢 | C++ |
 | [Megaman3NESRecomp](https://github.com/mstan/Megaman3NESRecomp) | Mega Man 3 recompiled for the NES using nesrecomp · Part of the R.A.I.D. community | 12 | 🟢 | C |
@@ -1327,11 +1329,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Plants vs. Zombies GOTY (re-plants-vs-zombies)](https://github.com/Bamcane/re-plants-vs-zombies) | Reverse-engineered reimplementation / port of Plants vs. Zombies GOTY (re-plants-vs-zombies) | 12 | 🟢 | C++ |
 | [reGML](https://github.com/TimGoTheCreator/reGML) | C++ reimplementation of the GameMaker (GML) runtime, tested with Undertale | 12 | 🟢 | C++ |
 | [SuperLemminiToo](https://github.com/Blazingstix/SuperLemminiToo) | My personal fork of SuperLemmini, which itself is a fork of Lemmini | 12 | 🔴 | Java |
-| [abadia (La Abadía del Crimen)](https://github.com/ultrabolido/abadia) | Open-source reimplementation of La Abadía del Crimen (ZX Spectrum) | 11 | 🟡 | JavaScript |
 | [CR1-U](https://github.com/DuIslingr/CR1-U) | From-scratch reimplementation of Chaos Rings (iOS, PS Vita) | 11 | 🟢 | C++ |
 | [cyrus (Redguard)](https://github.com/michidk/cyrus) | Reimplementation of The Elder Scrolls Adventures: Redguard (1998) in Rust and Bevy | 11 | 🟢 | Rust |
 | [e17p (Infinity Engine)](https://github.com/uyjulian/e17p) | Infinity Engine reimplementation in Python | 11 | 🗄️ | Python |
-| [evnova-decomp](https://github.com/wraitii/evnova-decomp) | Reimplementation of the Escape Velocity Nova engine from decompilation (SDL3) | 11 | 🟢 | C++ |
 | [farcry-3-bevy](https://github.com/Eamo5/farcry-3-bevy) | Reimplementation of Far Cry 3 in the Bevy game engine | 11 | 🟢 | Rust |
 | [Ms. Pac-Man (mspacman500 (arcade -> 68k transcode))](https://github.com/jotd666/mspacman500) | Ms. Pac-Man arcade code transcoded to 68k assembly for the Amiga 500 (Arcade) | 11 | 🟢 | Assembly |
 | [TS-ReSplit](https://github.com/GoomiiV2/TS-ReSplit) | Reverse engineering of the TimeSplitters games toward an asset-compatible engine | 11 | 🔴 | C# |
@@ -1360,6 +1360,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [re3-Resurrected](https://github.com/cinchitsolutions/re3-Resurrected) | Clean-room reverse engineering of GTA III / Vice City for PC | 9 | 🟡 | C++ |
 | [re3bevy](https://github.com/imbevystar/rust-gta-3) | Unofficial GTA III reimplementation in Rust with the Bevy engine and ECS | 9 | 🟢 | Rust |
 | [retruxx](https://github.com/mindflower/retruxx) | Reverse engineered Hard Truck Apocalypse. | 9 | 🟢 | C++ |
+| [RodLegacy](https://github.com/grovdata/RodLegacy) | Modern reimplementation of Street Rod (DOS) | 9 | 🟢 | C++ |
 | [rust-theft-auto](https://github.com/gaudecker/rust-theft-auto) | Grand Theft Auto engine reimplementation in Rust | 9 | 🔴 | Rust |
 | [th10](https://github.com/Ritosa2333/th10) | A high-fidelity, portable reimplementation of 東方風神録 ～ Mountain of Faith ver 1.00a. | 9 | 🟢 | C++ |
 | [Call of Duty decomp](https://github.com/opencod1/opencod1) | Open-source reconstruction of Call of Duty (2003) multiplayer | 8 | 🟢 | C |
@@ -1367,8 +1368,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [infernal_js (Infernal Runner)](https://github.com/cyxx/infernal_js) | HTML5 reimplementation of Infernal Runner (Amstrad CPC) | 8 | 🗄️ | Assembly |
 | [jspacman](https://github.com/jrhollis/jspacman) | Pac-Man and Ms. Pac-Man reverse engineered in JavaScript | 8 | 🟢 | JavaScript |
 | [Lupin Sansei - Pandora no Isan](https://github.com/PavelSha/Lupin-Sansei---Pandora-no-Isan) | An annotated disassembly of the famicom game "Lupin Sansei - Pandora no Isan" (1987). | 8 | 🟢 | Assembly |
+| [Ozymandias](https://github.com/Banderi/Ozymandias) | An open source re-implementation of Pharaoh (1999)'s game engine in Godot 3.6 | 8 | 🟢 | GDScript |
 | [Prehistorik_js](https://github.com/cyxx/prehistorik_js) | Prehistorik (Demo) engine reimplementation (Emscripten, SDL2) | 8 | 🗄️ | C |
-| [RodLegacy](https://github.com/grovdata/RodLegacy) | Modern reimplementation of Street Rod (DOS) | 8 | 🟢 | C++ |
 | [rustyworld](https://github.com/EdMcBane/rustyworld) | Frame-accurate Another World engine reimplementation in Rust | 8 | 🟡 | Rust |
 | [TheForceEngineXbox](https://github.com/GTTeancum/TheForceEngineXbox) | The Force Engine (Dark Forces reimplementation) ported to the original Xbox | 8 | 🟢 | C++ |
 | [WAGE](https://github.com/asvitkine/wage-engine) | World Builder game engine | 8 | 🔴 | Java |
@@ -1377,9 +1378,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [chaos-head](https://github.com/FGRE/chaos-head) | Reimplementation of Chaos;Head visual novel | 7 | 🔴 | CMake |
 | [Dungeon Strikes Back](https://github.com/sparkletwist/DSB) | Dungeon Strikes Back | 7 | 🟡 | C |
 | [Minecraft-4K-Decompilation](https://github.com/CelestialAmber/Minecraft-4K-Decompilation) | Decompilation of Minecraft 4K, updated to be a regular application | 7 | 🟢 | Java |
-| [Ozymandias](https://github.com/Banderi/Ozymandias) | An open source re-implementation of Pharaoh (1999)'s game engine in Godot 3.6 | 7 | 🟢 | GDScript |
 | [rechelon](https://github.com/pkulev/rechelon) | Echelon: free engine reimplementation | 7 | 🔴 | C# |
 | [remc1hw](https://github.com/turican0/remc1hw) | Recode Binary code of game/datadisk Magic Carpet1 Hidden Words to C/C++ language(remake MC1 for any platform) | 7 | 🔴 | C++ |
+| [scale-miniatures](https://github.com/hivvu/scale-miniatures) | Micro Machines (PC, 1994) rewritten in TypeScript from the disassembly, running natively in the browser. No emulator.... | 7 | 🟢 | TypeScript |
 | [sly2-bevy-of-thieves](https://github.com/Campfirecrucifix/sly2-bevy-of-thieves) | From-scratch Rust and Bevy rewrite of Sly 2: Band of Thieves (PS2) | 7 | 🗄️ | Rust |
 | [Starfox 64: Recompiled](https://github.com/worleydl/Starfox64Recomp-uwp) | Static recompilation of Starfox 64 for PC (Windows/Linux) (Unofficial UWP) | 7 | 🟢 | C |
 | [SuperStarTrek25thGMS](https://github.com/JeodC/SuperStarTrek25thGMS) | A port of Super Star Trek Meets 25th Anniversary to Game Maker Studio 2 | 7 | 🟢 | Game Maker Language |
@@ -1391,7 +1392,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [opendana](https://github.com/dvilelaf/opendana) | C11 reimplementation of Solomon's Key 2 / Fire 'n Ice (NES) using your ROM | 6 | 🟢 | C |
 | [OpenJill](https://github.com/emeric-martineau/openjill) | Official OpenJill project source repository to understand how Jill of the Jungle game engine work and rewrite it in J... | 6 | 🗄️ | Java |
 | [rugrats](https://github.com/Toyz/rugrats) | Rugrats: Search for Reptar (PS1) rebuilt as a native PC game in Rust | 6 | 🟢 | Rust |
-| [scale-miniatures](https://github.com/hivvu/scale-miniatures) | Micro Machines (PC, 1994) rewritten in TypeScript from the disassembly, running natively in the browser. No emulator.... | 6 | 🟢 | TypeScript |
 | [sm_rewrite](https://github.com/enderandrew/sm_rewrite) | Super Metroid rewrite project | 6 | 🟡 | C |
 | [The Bard's Tale III](https://github.com/Drunella/bt3-easyflash) | Bard's Tale III Easyflash Version | 6 | 🔴 | C |
 | [timeco](https://github.com/LBALab/timeco) | Time Commando Reimplementation | 6 | 🟢 | C |
@@ -1535,14 +1535,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [sc2kfix](https://github.com/sc2kfix/sc2kfix) | Bugfix and modding plugin for SimCity 2000 Special Edition | 229 | 🟢 | C++ |
 | [popcap-patches](https://github.com/cheez3d/popcap-patches) | Patched executables and research notes for PopCap games | 197 | 🔴 |  |
 | [gb-save-states](https://github.com/mattcurrie/gb-save-states) | Patches that add save-state support to Game Boy games on original hardware | 194 | 🟡 | Assembly |
-| [tekken3-expanded](https://github.com/omarma/tekken3-expanded) | Adds Tekken Tag Tournament characters to Tekken 3 | 136 | 🟢 | C |
+| [tekken3-expanded](https://github.com/omarma/tekken3-expanded) | Adds Tekken Tag Tournament characters to Tekken 3 | 138 | 🟢 | C |
 | [Ultima IV Remastered](https://github.com/MagerValp/u4remastered) | Ultima IV Remastered for the C64 | 123 | 🔴 | Assembly |
 | [BunnyGarden2FixMod](https://github.com/kazumasa200/BunnyGarden2FixMod) | Mod that fixes resolution, image quality and frame rate in Bunny Garden 2 (PC) | 110 | 🟢 | C# |
 | [magicka-patch](https://github.com/Alexander-Aue-Johr/magicka-patch) | Reverse engineered fixes and optimisations for Magicka | 93 | 🟢 | C# |
 | [nge_2_re](https://github.com/rezual/nge_2_re) | Neon Genesis Evangelion 2 reverse engineering and translation | 79 | 🟢 | Python |
-| [sf4e](https://github.com/fabeloper/sf4e) | Rollback netcode mod for Ultra Street Fighter IV (Steam) | 63 | 🟢 | C++ |
 | [v-on-patcher](https://github.com/pairomaniac/v-on-patcher) | Patcher for Cyber Troopers Virtual-On (PC, 1997) with modern hardware and online support | 63 | 🟢 | Python |
-| [Lotus STE](https://github.com/jonathanopalise/lotus-ste) | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features | 42 | 🔴 | Assembly |
+| [sf4e](https://github.com/fabeloper/sf4e) | Rollback netcode mod for Ultra Street Fighter IV (Steam) | 62 | 🟢 | C++ |
+| [Lotus STE](https://github.com/jonathanopalise/lotus-ste) | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features | 43 | 🔴 | Assembly |
 | [NewerSMBDS](https://github.com/Newer-Team/NewerSMBDS) | Newer Super Mario Bros. DS, a total-conversion mod built on reverse-engineered NSMB code | 39 | 🟢 | C |
 | [Ultima V Remastered](https://github.com/Drunella/u5remastered) | Ultima V remastered for EasyFlash and 1581 | 32 | 🟡 | Assembly |
 | [Beasts and Bumpkins Fan Patch](https://github.com/bb-patch/bb-patch) | Tool for Beasts and Bumpkins game data (osgameclones) (Go) | 29 | 🔴 | Go |
@@ -1553,19 +1553,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [mineflayer](https://github.com/PrismarineJS/mineflayer) | High-level JavaScript API for creating Minecraft bots | 7,731 | 🟢 | JavaScript |
-| [Geyser](https://github.com/GeyserMC/Geyser) | Proxy translating Minecraft Bedrock clients to Java Edition servers | 5,953 | 🟢 | Java |
+| [Geyser](https://github.com/GeyserMC/Geyser) | Proxy translating Minecraft Bedrock clients to Java Edition servers | 5,956 | 🟢 | Java |
 | [Hearthstone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) | Deck tracker for Hearthstone on Windows that reads game logs and memory | 4,931 | 🟢 | C# |
 | [Greenlight](https://github.com/unknownskl/greenlight) | Open-source client for Xbox Cloud Gaming (xCloud) and Xbox home streaming | 2,916 | 🟢 | TypeScript |
-| [Velocity](https://github.com/PaperMC/Velocity) | High-performance Minecraft Java proxy server | 2,288 | 🟢 | Java |
-| [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) | Lightweight console Minecraft client for chat and automated scripts | 2,178 | 🟢 | C# |
-| [Deceive](https://github.com/molenzwiebel/Deceive) | XMPP proxy that lets you appear offline in League of Legends, VALORANT and LoR | 1,747 | 🟢 | C# |
+| [Velocity](https://github.com/PaperMC/Velocity) | High-performance Minecraft Java proxy server | 2,289 | 🟢 | Java |
+| [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) | Lightweight console Minecraft client for chat and automated scripts | 2,179 | 🟢 | C# |
+| [Deceive](https://github.com/molenzwiebel/Deceive) | XMPP proxy that lets you appear offline in League of Legends, VALORANT and LoR | 1,748 | 🟢 | C# |
 | [ViaVersion](https://github.com/ViaVersion/ViaVersion) | Lets newer Minecraft clients connect to older server versions by translating packets | 1,653 | 🟢 | Java |
-| [OpenKore](https://github.com/OpenKore/openkore) | Open-source custom client and automation tool for Ragnarok Online | 1,543 | 🟢 | Perl |
+| [OpenKore](https://github.com/OpenKore/openkore) | Open-source custom client and automation tool for Ragnarok Online | 1,542 | 🟢 | Perl |
 | [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) | Parse and serialize Minecraft Java packets, with auth and encryption | 1,423 | 🟢 | JavaScript |
 | [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) | Pokemon Go API | 1,046 | 🔴 | Java |
 | [node-steam](https://github.com/seishun/node-steam) | Interface directly with Steam CM servers from Node.js (archived) | 998 | 🗄️ | JavaScript |
 | [go-mc](https://github.com/Tnze/go-mc) | Collection of Go libraries for the Minecraft Java protocol and data formats | 982 | 🟡 | Go |
-| [GameTracking-CS2](https://github.com/SteamTracking/GameTracking-CS2) | Automated tracking of Counter-Strike 2 game file, string and protobuf changes | 980 | 🟢 | Slang |
+| [GameTracking-CS2](https://github.com/SteamTracking/GameTracking-CS2) | Automated tracking of Counter-Strike 2 game file, string and protobuf changes | 979 | 🟢 | Slang |
 | [minecraft-data](https://github.com/PrismarineJS/minecraft-data) | Language-independent Minecraft protocol and game data for clients, servers and libraries | 959 | 🟢 | JavaScript |
 | [MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) | Java library for Minecraft Java client/server protocol communication | 909 | 🟢 | Java |
 | [KanColleViewer](https://github.com/Grabacr07/KanColleViewer) | Browser and companion tool for Kantai Collection that reads game API traffic | 906 | 🔴 | C# |
@@ -1588,7 +1588,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [psn-api](https://github.com/achievements-app/psn-api) | JavaScript library to get trophy, user and game data from the PlayStation Network | 433 | 🟢 | TypeScript |
 | [go-steam](https://github.com/Philipp15b/go-steam) | Steam's network protocol implemented in Go for automation without a Steam client | 432 | 🟡 | Go |
 | [EpicResearch](https://github.com/MixV2/EpicResearch) | Research and documentation of Epic Games' undocumented APIs | 427 | 🟡 |  |
-| [Cloudburst Protocol](https://github.com/CloudburstMC/Protocol) | Java protocol library for Minecraft Bedrock Edition | 418 | 🟢 | Java |
+| [Cloudburst Protocol](https://github.com/CloudburstMC/Protocol) | Java protocol library for Minecraft Bedrock Edition | 419 | 🟢 | Java |
 | [prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer) | Web-based 3D viewer for Minecraft servers and bots | 408 | 🟢 | JavaScript |
 | [NSO-RPC](https://github.com/MCMi460/NSO-RPC) | Shows Nintendo Switch playing status in Discord using the Nintendo Switch Online app API | 387 | 🟡 | Python |
 | [psn-php](https://github.com/Tustin/psn-php) | PHP wrapper for the PlayStation Network API | 374 | 🟢 | PHP |
@@ -1605,7 +1605,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Inkay](https://github.com/PretendoNetwork/Inkay) | Wii U Aroma plugin that patches the console to use Pretendo Network servers | 237 | 🟢 | C++ |
 | [steam.py](https://github.com/Gobot1234/steam.py) | Async Python wrapper for the Steam API and Steam CM protocol | 236 | 🟢 | Python |
 | [kanColleWidget](https://github.com/KanCraft/kanColleWidget) | Browser extension with notifications and small-window play for Kantai Collection | 228 | 🟢 | TypeScript |
-| [rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) | Unofficial Rust+ desktop app | 219 | 🟢 | C# |
+| [rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) | Unofficial Rust+ desktop app | 218 | 🟢 | C# |
 | [xbox-webapi-python](https://github.com/OpenXbox/xbox-webapi-python) | A python library to authenticate with Xbox Live via your Microsoft Account and provides Xbox related Web-API. | 209 | 🟢 | Python |
 | [psnawp](https://github.com/isFakeAccount/psnawp) | [Mirror] PlayStation Network API Python | 198 | 🟢 | Python |
 | [steam-session](https://github.com/DoctorMcKay/node-steam-session) | Node.js module implementing Steam's auth server login to obtain refresh and web tokens | 198 | 🟢 | TypeScript |
@@ -1618,9 +1618,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [squid-tracks](https://github.com/hymm/squid-tracks) | Unofficial desktop client for Nintendo SplatNet 2 | 134 | 🔴 | JavaScript |
 | [csgo (python)](https://github.com/ValvePython/csgo) | Python module to interact with the CS:GO game coordinator | 133 | 🔴 | Python |
 | [SteamWebPipes](https://github.com/xPaw/SteamWebPipes) | Pipes Steam PICS changelist events to websockets using SteamKit | 133 | 🗄️ | C# |
+| [Kasumi](https://github.com/p0mpurin/Kasumi) | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 125 | 🟢 | C |
 | [SAMP-Mobile](https://github.com/kuzia15/SAMP-Mobile) | Open-source SA:MP mobile multiplayer client | 125 | 🟢 |  |
 | [conning_tower](https://github.com/andychucs/conning_tower) | Kantai Collection browser for iPhone, iPad and Android | 124 | 🟢 | Dart |
-| [Kasumi](https://github.com/p0mpurin/Kasumi) | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 124 | 🟢 | C |
 | [lcu-driver](https://github.com/sousa-andre/lcu-driver) | Python interface for the League of Legends client local API | 123 | 🟡 | Python |
 | [RefugeNext](https://github.com/summerkirakira/RefugeNext) | Third-party client app for Star Citizen | 120 | 🟢 | Dart |
 | [green-vita](https://github.com/Day-OS/green-vita) | Xbox Cloud Gaming client for PlayStation Vita | 119 | 🟢 | Rust |
@@ -1650,8 +1650,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MoeXCOM](https://github.com/hdk5/MoeXCOM) | Reverse engineering Blue Archive | 68 | 🔴 | C# |
 | [Haruki-Sekai-API](https://github.com/Team-Haruki/Haruki-Sekai-API) | Unofficial API proxy for Project Sekai game data | 64 | 🟢 | Rust |
 | [node-epicgames-fortnite-client](https://github.com/SzymonLisowiec/node-epicgames-fortnite-client) | Unofficial Fortnite client in JavaScript built on the Epic Games launcher protocol | 64 | 🔴 | JavaScript |
+| [rlapi](https://github.com/dank/rlapi) | Reverse engineered Rocket League internal HTTP and WebSocket API | 64 | 🟢 | Go |
 | [node-haxball](https://github.com/wxyz-abcd/node-haxball) | API to build Haxball clients and bots via its reversed protocol | 63 | 🟢 | JavaScript |
-| [rlapi](https://github.com/dank/rlapi) | Reverse engineered Rocket League internal HTTP and WebSocket API | 62 | 🟢 | Go |
 | [pyremoteplay](https://github.com/ktnrg45/pyremoteplay) | Python library implementing the PlayStation Remote Play protocol | 56 | 🗄️ | Python |
 | [diveharder_api.py](https://github.com/helldivers-2/diveharder_api.py) | FastAPI proxy exposing Helldivers 2 API data for community developers | 55 | 🟡 | Python |
 | [XiPackets](https://github.com/atom0s/XiPackets) | Reverse engineered packet documentation for Final Fantasy XI | 55 | 🟢 |  |
@@ -1667,7 +1667,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) | Documentation website for Blizzard's Battle.net classic protocols | 36 | 🟢 | JavaScript |
 | [Booma.Proxy](https://github.com/HelloKitty/Booma.Proxy) | .NET libraries for the Phantasy Star Online: Blue Burst protocol | 36 | 🔴 | C# |
 | [HyCraft](https://github.com/EdwardBelt/HyCraft) | Protocol bridge that lets Minecraft 1.21 clients join Hytale servers (PC) | 34 | 🟢 | Java |
-| [nex-protocols-common-go](https://github.com/PretendoNetwork/nex-protocols-common-go) | Go implementations of common Nintendo NEX methods shared by Pretendo game servers | 32 | 🟢 | Go |
+| [nex-protocols-common-go](https://github.com/PretendoNetwork/nex-protocols-common-go) | Go implementations of common Nintendo NEX methods shared by Pretendo game servers | 33 | 🟢 | Go |
 | [psn100](https://github.com/Ragowit/psn100) | PlayStation trophy tracking site with leaderboards built on the PSN API | 28 | 🟢 | PHP |
 | [Steam-Client-Docs](https://github.com/Bluscream/Steam-Client-Docs) | Unofficial documentation of the Steam client | 28 | 🔴 |  |
 | [fc27-clubs-api](https://github.com/1erkandogan/fc27-clubs-api) | Unofficial Python client for the EA Sports FC 27 Pro Clubs API | 25 | 🟢 | Python |
@@ -1706,28 +1706,28 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Playnite](https://github.com/JosefNemec/Playnite) | Open-source game library manager integrating Steam, Epic, GOG, EA, Ubisoft and more store libraries | 14,479 | 🟢 | C# |
-| [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# Steam client application built on SteamKit2 for multi-account card farming and automation | 13,794 | 🟢 | C# |
-| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | Open-source launcher for Epic, GOG and Amazon Games libraries on Linux, Windows and macOS | 12,598 | 🟢 | TypeScript |
-| [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Open-source Minecraft launcher managing multiple instances and Microsoft account login | 11,073 | 🟢 | C++ |
-| [HMCL](https://github.com/HMCL-dev/HMCL) | Hello Minecraft! Launcher, a cross-platform third-party Minecraft launcher | 10,936 | 🟢 | Java |
-| [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) | Plugin loader for the Steam Deck that injects into the Steam client UI | 7,469 | 🟢 | TypeScript |
-| [Legendary](https://github.com/legendary-gl/legendary) | Open-source CLI replacement for the Epic Games Launcher built on Epic's undocumented APIs | 5,359 | 🟢 | Python |
-| [MultiMC](https://github.com/MultiMC/Launcher) | Custom Minecraft launcher for managing multiple isolated installations | 4,692 | 🟢 | C++ |
-| [Millennium](https://github.com/SteamClientHomebrew/Millennium) | Framework for Steam client themes and plugins via injection into the CEF UI | 4,579 | 🟢 | C++ |
-| [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) | Desktop implementation of Steam's mobile authenticator (Steam Guard) app | 3,836 | 🟡 | C# |
-| [DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader built on the SteamKit2 reverse-engineered Steam protocol library | 3,519 | 🟢 | C# |
-| [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) | Custom third-party launcher for Final Fantasy XIV that reimplements the login flow | 3,204 | 🟢 | C# |
-| [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) | Alternative bootstrapper for the Roblox client with extra configuration | 3,198 | 🟢 | C# |
-| [chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) | Open-source PlayStation 4/5 Remote Play client, successor of Chiaki | 2,982 | 🟢 | C |
+| [Playnite](https://github.com/JosefNemec/Playnite) | Open-source game library manager integrating Steam, Epic, GOG, EA, Ubisoft and more store libraries | 14,490 | 🟢 | C# |
+| [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# Steam client application built on SteamKit2 for multi-account card farming and automation | 13,798 | 🟢 | C# |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | Open-source launcher for Epic, GOG and Amazon Games libraries on Linux, Windows and macOS | 12,603 | 🟢 | TypeScript |
+| [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | Open-source Minecraft launcher managing multiple instances and Microsoft account login | 11,085 | 🟢 | C++ |
+| [HMCL](https://github.com/HMCL-dev/HMCL) | Hello Minecraft! Launcher, a cross-platform third-party Minecraft launcher | 10,944 | 🟢 | Java |
+| [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) | Plugin loader for the Steam Deck that injects into the Steam client UI | 7,475 | 🟢 | TypeScript |
+| [Legendary](https://github.com/legendary-gl/legendary) | Open-source CLI replacement for the Epic Games Launcher built on Epic's undocumented APIs | 5,358 | 🟢 | Python |
+| [MultiMC](https://github.com/MultiMC/Launcher) | Custom Minecraft launcher for managing multiple isolated installations | 4,693 | 🟢 | C++ |
+| [Millennium](https://github.com/SteamClientHomebrew/Millennium) | Framework for Steam client themes and plugins via injection into the CEF UI | 4,593 | 🟢 | C++ |
+| [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) | Desktop implementation of Steam's mobile authenticator (Steam Guard) app | 3,838 | 🟡 | C# |
+| [DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader built on the SteamKit2 reverse-engineered Steam protocol library | 3,522 | 🟢 | C# |
+| [XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) | Custom third-party launcher for Final Fantasy XIV that reimplements the login flow | 3,206 | 🟢 | C# |
+| [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) | Alternative bootstrapper for the Roblox client with extra configuration | 3,202 | 🟢 | C# |
+| [chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) | Open-source PlayStation 4/5 Remote Play client, successor of Chiaki | 2,987 | 🟢 | C |
 | [GameHub](https://github.com/tkashkin/GameHub) | Unified game library for Steam, GOG and Humble Bundle (archived) | 2,869 | 🗄️ | Vala |
-| [BoilR](https://github.com/PhilipK/BoilR) | Syncs games from Epic, GOG, Origin, Amazon and other launchers into the Steam library | 1,933 | 🟢 | Rust |
-| [Pluvia](https://github.com/oxters168/Pluvia) | Lightweight unofficial Steam client for Android | 1,723 | 🟢 | C |
-| [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) | Runs the Android build of Minecraft Bedrock natively on Linux and macOS | 1,717 | 🟢 | CMake |
+| [BoilR](https://github.com/PhilipK/BoilR) | Syncs games from Epic, GOG, Origin, Amazon and other launchers into the Steam library | 1,932 | 🟢 | Rust |
+| [Pluvia](https://github.com/oxters168/Pluvia) | Lightweight unofficial Steam client for Android | 1,722 | 🟢 | C |
+| [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) | Runs the Android build of Minecraft Bedrock natively on Linux and macOS | 1,719 | 🟢 | CMake |
 | [Minigalaxy](https://github.com/sharkwouter/minigalaxy) | Simple unofficial GOG client for Linux | 1,334 | 🟢 | Python |
-| [steamguard-cli](https://github.com/dyc3/steamguard-cli) | Linux CLI for Steam Guard 2FA codes and trade/market confirmations | 1,080 | 🟢 | Rust |
+| [steamguard-cli](https://github.com/dyc3/steamguard-cli) | Linux CLI for Steam Guard 2FA codes and trade/market confirmations | 1,081 | 🟢 | Rust |
 | [MC Bedrock Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) | Installs and switches between multiple Minecraft Bedrock (Windows 10) versions | 1,066 | 🟢 | C++ |
-| [steam-tui](https://github.com/dmadisetti/steam-tui) | Rust TUI Steam client driving steamcmd | 1,041 | 🟢 | Rust |
+| [steam-tui](https://github.com/dmadisetti/steam-tui) | Rust TUI Steam client driving steamcmd | 1,039 | 🟢 | Rust |
 | [Rare](https://github.com/RareDevs/Rare) | Qt GUI alternative to the Epic Games Launcher, built on Legendary | 940 | 🟢 | Python |
 | [LGOGDownloader](https://github.com/Sude-/lgogdownloader) | Unofficial GOG.com downloader for Linux using the same API as GOG Galaxy | 926 | 🟢 | C++ |
 | [Vinegar](https://github.com/vinegarhq/vinegar) | Open-source launcher/manager for running Roblox Studio on Linux | 817 | 🟢 | Go |
@@ -1740,7 +1740,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [nile](https://github.com/imLinguin/nile) | Unofficial Amazon Games client (CLI) reimplementing the Amazon Games app's protocol | 362 | 🟢 | Python |
 | [CnCNet Client](https://github.com/CnCNet/xna-cncnet-client) | Online multiplayer client for classic Command & Conquer games on the CnCNet service | 320 | 🟢 | C# |
 | [Slippi Launcher](https://github.com/project-slippi/slippi-launcher) | Launcher for Project Slippi, the rollback netplay and replay system for Super Smash Bros. Melee | 312 | 🟢 | TypeScript |
-| [cordial](https://github.com/luohoa97/cordial) | Open-source runtime to run the Roblox client natively on Linux | 289 | 🟢 | Rust |
+| [cordial](https://github.com/luohoa97/cordial) | Open-source runtime to run the Roblox client natively on Linux | 293 | 🟢 | Rust |
 | [open-steamworks](https://github.com/SteamRE/open-steamworks) | Reverse engineered headers for Valve's Steam client interfaces | 263 | 🗄️ | C# |
 | [Maxima](https://github.com/ArmchairDevelopers/Maxima) | Free open-source replacement for the EA Desktop launcher for Linux and Windows | 240 | 🟢 | Rust |
 | [xcloud-shield](https://github.com/mistertest/xcloud-shield) | Unofficial Xbox Cloud Gaming app for Nvidia Shield TV | 235 | 🔴 | Java |
@@ -1759,9 +1759,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [namco22-decompile](https://github.com/spacestate1/namco22-decompile) | Decompilation of Namco System 22 arcade games | 287 | 🟢 | C |
+| [namco22-decompile](https://github.com/spacestate1/namco22-decompile) | Decompilation of Namco System 22 arcade games | 289 | 🟢 | C |
 | [Sonic the Fighters](https://github.com/biggestsonicfan/stfdecomp) | Matching decompilation of Sonic the Fighters (Sega Model 2 arcade, 1996) | 110 | 🟢 | Assembly |
-| [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Decompilation of Time Crisis (Arcade) | 88 | 🟢 | C |
+| [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Decompilation of Time Crisis (Arcade) | 89 | 🟢 | C |
 | [Asteroids arcade game firmware disassembly](https://github.com/nmikstas/asteroids-disassembly) | Disassembly of the Asteroids arcade game firmware | 55 | 🔴 | Assembly |
 | [stfdisasm](https://github.com/biggestsonicfan/stfdisasm) | Sonic the Fighters Disassembly | 49 | 🟢 | Assembly |
 | [Donkey Kong hacking kit](https://github.com/furrykef/dkdasm) | Disassembly and hacking kit for Donkey Kong (arcade) | 47 | 🔴 | Assembly |
@@ -1778,10 +1778,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Commando arcade game disassembly](https://github.com/mikeybabes/commando) | Annotated disassembly of the Commando arcade game | 6 | 🟡 | Assembly |
 | [Street Fighter III: 2nd Impact decomp](https://github.com/gibletto/sfIII2-cps3-decomp) | Byte-matching decompilation of Street Fighter III: 2nd Impact (CPS3 arcade) | 5 | 🟢 | C |
 | [Galaxian arcade game disassembly](https://github.com/ScottTunstall/Galaxian) | Annotated disassembly of the Galaxian arcade game | 4 | 🟡 | Assembly |
+| [Robotron: 2084 arcade game disassembly](https://github.com/ScottTunstall/Robotron2084) | Annotated disassembly of the Robotron: 2084 arcade game | 4 | 🟡 | Assembly |
 | [F-Zero AX](https://github.com/TheInfiniteLegend/f-0-ax) | Matching decompilation of F-Zero AX (Triforce arcade, 2003) | 3 | 🟡 | C |
 | [Gorf disassembly](https://github.com/astrocadester/Gorf) | Disassembly of Gorf (Bally Astrocade) | 3 | 🟢 | Assembly |
 | [Mario Kart Arcade GP 2 main.dol decomp](https://github.com/naari3/mkgp2-decomp) | Matching decompilation of Mario Kart Arcade GP 2 main.dol (Triforce arcade) | 3 | 🟢 | C |
-| [Robotron: 2084 arcade game disassembly](https://github.com/ScottTunstall/Robotron2084) | Annotated disassembly of the Robotron: 2084 arcade game | 3 | 🟡 | Assembly |
 | [a 2000s arcade rhythm game decomp](https://github.com/Roganis/2EZDecomp) | Matching decompilation of a 2000s arcade rhythm game (EZ2DJ) | 2 | 🟢 | C++ |
 | [Battlezone disassembly](https://github.com/tcottrill/BattleZone-Full-Disassembly-and-C-Port) | Byte-exact disassembly and C port of Battlezone (Atari arcade, 1980) | 2 | 🟢 | C |
 | [Marvel vs. Capcom 2 decomp](https://github.com/g-guthrie/mvc2-naomi-decomp) | Decompilation of Marvel vs. Capcom 2 (Sega NAOMI arcade) | 2 | 🗄️ | C |
@@ -1831,49 +1831,49 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [pokered](https://github.com/pret/pokered) | Disassembly of Pokemon Red/Blue | 5,024 | 🟢 | Assembly |
-| [pokeemerald](https://github.com/pret/pokeemerald) | Decompilation of Pokemon Emerald | 3,669 | 🟢 | C |
+| [pokeemerald](https://github.com/pret/pokeemerald) | Decompilation of Pokemon Emerald | 3,673 | 🟢 | C |
 | [pokecrystal](https://github.com/pret/pokecrystal) | Disassembly of Pokemon Crystal | 2,547 | 🟢 | Assembly |
-| [Pokémon FireRed/LeafGreen](https://github.com/pret/pokefirered) | Matching decompilation of Pokémon FireRed/LeafGreen (Game Boy Advance, 2004) | 1,699 | 🟢 | C |
-| [Pokémon Ruby/Sapphire](https://github.com/pret/pokeruby) | Matching decompilation of Pokémon Ruby/Sapphire (Game Boy Advance, 2002) | 1,010 | 🟢 | C |
+| [Pokémon FireRed/LeafGreen](https://github.com/pret/pokefirered) | Matching decompilation of Pokémon FireRed/LeafGreen (Game Boy Advance, 2004) | 1,701 | 🟢 | C |
+| [Pokémon Ruby/Sapphire](https://github.com/pret/pokeruby) | Matching decompilation of Pokémon Ruby/Sapphire (Game Boy Advance, 2002) | 1,013 | 🟢 | C |
 | [The Legend of Zelda: The Minish Cap](https://github.com/zeldaret/tmc) | Matching decompilation of The Legend of Zelda: The Minish Cap (Game Boy Advance, 2004) | 937 | 🟢 | C |
-| [LADX-Disassembly](https://github.com/zladx/LADX-Disassembly) | Disassembly of The Legend of Zelda: Link's Awakening DX | 919 | 🟢 | Assembly |
-| [Pokémon Yellow](https://github.com/pret/pokeyellow) | Disassembly of Pokémon Yellow (Game Boy, 1998) | 903 | 🟢 | Assembly |
-| [pokeheartgold (ctrl-cheeb-del)](https://github.com/ctrl-cheeb-del/pokeheartgold) | Decompilation of Pokemon HeartGold and SoulSilver (Nintendo DS) | 809 | 🟢 | C |
+| [LADX-Disassembly](https://github.com/zladx/LADX-Disassembly) | Disassembly of The Legend of Zelda: Link's Awakening DX | 920 | 🟢 | Assembly |
+| [Pokémon Yellow](https://github.com/pret/pokeyellow) | Disassembly of Pokémon Yellow (Game Boy, 1998) | 904 | 🟢 | Assembly |
+| [pokeheartgold (ctrl-cheeb-del)](https://github.com/ctrl-cheeb-del/pokeheartgold) | Decompilation of Pokemon HeartGold and SoulSilver (Nintendo DS) | 810 | 🟢 | C |
 | [Pokémon HeartGold/SoulSilver](https://github.com/pret/pokeheartgold) | Matching decompilation of Pokémon HeartGold/SoulSilver (Nintendo DS, 2009) | 758 | 🟢 | Assembly |
 | [Pokémon Gold/Silver](https://github.com/pret/pokegold) | Disassembly of Pokémon Gold/Silver (Game Boy Color, 1999) | 736 | 🟢 | Assembly |
-| [sa2](https://github.com/SAT-R/sa2) | Decompilation and port of Sonic Advance 1 & 2 (GBA) | 693 | 🟢 | C |
+| [sa2](https://github.com/SAT-R/sa2) | Decompilation and port of Sonic Advance 1 & 2 (GBA) | 694 | 🟢 | C |
 | [pokeplatinum](https://github.com/pret/pokeplatinum) | Decompilation of Pokemon Platinum | 603 | 🟢 | C |
 | [Pokémon Diamond/Pearl](https://github.com/pret/pokediamond) | Matching decompilation of Pokémon Diamond/Pearl (Nintendo DS, 2006) | 549 | 🟢 | Assembly |
 | [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld) | Disassembly of Pokémon Gold and Silver (Game Boy, 1997; Space World 1997 demo) | 403 | 🟢 | Assembly |
 | [Pokémon TCG](https://github.com/pret/poketcg) | Disassembly of Pokémon Trading Card Game (Game Boy Color, 1998) | 335 | 🟢 | Assembly |
 | [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/pret/pmd-red) | Matching decompilation of Pokémon Mystery Dungeon: Red Rescue Team (Game Boy Advance, 2005) | 297 | 🟢 | C |
-| [sm64ds-decomp](https://github.com/tangosdev/sm64ds-decomp) | Byte-matching decompilation of Super Mario 64 DS | 238 | 🟢 | C++ |
-| [Fire Emblem: The Sacred Stones (FEU)](https://github.com/FireEmblemUniverse/fireemblem8u) | Matching decompilation of Fire Emblem: The Sacred Stones (Game Boy Advance, 2004) | 233 | 🟢 | Assembly |
+| [sm64ds-decomp](https://github.com/tangosdev/sm64ds-decomp) | Byte-matching decompilation of Super Mario 64 DS | 237 | 🟢 | C++ |
+| [Fire Emblem: The Sacred Stones (FEU)](https://github.com/FireEmblemUniverse/fireemblem8u) | Matching decompilation of Fire Emblem: The Sacred Stones (Game Boy Advance, 2004) | 234 | 🟢 | Assembly |
 | [oracles-disasm](https://github.com/Stewmath/oracles-disasm) | Disassembly of Zelda: Oracle of Ages and Seasons | 224 | 🟢 | Assembly |
 | [Pokémon Pinball](https://github.com/pret/pokepinball) | Disassembly of Pokémon Pinball (Game Boy Color, 1999) | 205 | 🟢 | Assembly |
 | [Metroid: Zero Mission](https://github.com/metroidret/mzm) | Matching decompilation of Metroid: Zero Mission (Game Boy Advance, 2004) | 163 | 🟢 | C |
 | [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam) | Matching decompilation of Kirby & The Amazing Mirror (Game Boy Advance, 2004) | 161 | 🟢 | C |
 | [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs) | Matching decompilation of Pokémon Pinball Ruby & Sapphire (Game Boy Advance, 2003) | 156 | 🟢 | Assembly |
 | [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky) | Matching decompilation of Pokémon Mystery Dungeon: Explorers of Sky (Nintendo DS, 2009) | 152 | 🟢 | Assembly |
-| [Golden Sun](https://github.com/PascalPixel/alchemy) | Matching decompilation of Golden Sun (Game Boy Advance, 2001) | 150 | 🟢 | C |
 | [Pokémon Emerald](https://github.com/Pokabbie/pokeemerald-rogue) | Decompilation of Pokémon Emerald (GBA) | 148 | 🟢 | C |
+| [Golden Sun](https://github.com/PascalPixel/alchemy) | Matching decompilation of Golden Sun (Game Boy Advance, 2001) | 146 | 🟢 | C |
+| [MH4UltimateDC](https://github.com/CompaLarios18/MH4UltimateDC) | Decompilation of Monster Hunter 4 Ultimate (3DS) | 120 | 🟢 | C++ |
 | [The Legend of Zelda: Phantom Hourglass](https://github.com/zeldaret/ph) | Matching decompilation of The Legend of Zelda: Phantom Hourglass (Nintendo DS, 2007) | 120 | 🟢 | C++ |
-| [MH4UltimateDC](https://github.com/CompaLarios18/MH4UltimateDC) | Decompilation of Monster Hunter 4 Ultimate (3DS) | 117 | 🟢 | C++ |
 | [Pokémon Platinum disassembly](https://github.com/JimB16/PokePlat) | Disassembly of Pokémon Platinum (Nintendo DS) | 116 | 🔴 | Assembly |
 | [Super Mario 3D Land](https://github.com/3dsdecomp/RedPepper) | Matching decompilation of Super Mario 3D Land (Nintendo 3DS, 2011) | 116 | 🟡 | C++ |
 | [Pokémon Snap](https://github.com/ethteck/pokemonsnap) | Decompilation of Pokémon Snap | 113 | 🟢 | C |
-| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-decomp) | Matching decompilation of Kingdom Hearts 358/2 Days (Nintendo DS, 2009) | 107 | 🟢 | C |
+| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-decomp) | Matching decompilation of Kingdom Hearts 358/2 Days (Nintendo DS, 2009) | 109 | 🟢 | C |
 | [Telefang disassembly](https://github.com/telefang/telefang) | Partial disassembly of Telefang (Game Boy Color) with an English translation patch | 103 | 🟢 | Assembly |
 | [Pokémon TCG 2](https://github.com/pret/poketcg2) | Disassembly of Pokémon Card GB2 (Game Boy Color, 2001) | 98 | 🟢 | Assembly |
 | [Sonic Advance 3](https://github.com/SAT-R/sa3) | Matching decompilation of Sonic Advance 3 (Game Boy Advance, 2004) | 94 | 🟢 | C |
 | [Mother 3 decomp](https://github.com/Kurausukun/mother3) | Decompilation of Mother 3 (GBA) | 92 | 🟢 | Assembly |
 | [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d) | Matching decompilation of The Legend of Zelda: Ocarina of Time 3D (Nintendo 3DS, 2011) | 91 | 🟢 | C++ |
-| [Pokémon Black 2 and White 2](https://github.com/fuddlesworth/pokebw2) | Matching decompilation of Pokémon Black 2 and White 2 (Nintendo DS, 2012) | 87 | 🟢 | C |
+| [Pokémon Black 2 and White 2](https://github.com/fuddlesworth/pokebw2) | Matching decompilation of Pokémon Black 2 and White 2 (Nintendo DS, 2012) | 88 | 🟢 | C |
 | [Tetris disassembly](https://github.com/osnr/tetris) | Disassembly of Tetris (Game Boy) | 86 | 🔴 | Assembly |
 | [Kingdom Hearts: Chain of Memories](https://github.com/MatyMeatBoy/ReKHCoM) | Decompilation of Kingdom Hearts: Chain of Memories (GBA) | 85 | 🟢 | C |
 | [Pokémon Puzzle Challenge](https://github.com/pret/pokepuzzle) | Disassembly of Pokémon Puzzle Challenge | 83 | 🟢 | Assembly |
-| [Metroid Fusion](https://github.com/metroidret/mf) | Matching decompilation of Metroid Fusion (Game Boy Advance, 2002) | 79 | 🟢 | C |
-| [pokeheartgold-single-screen](https://github.com/ClickingMaster/pokeheartgold-single-screen) | Single-screen build of the Pokémon HeartGold/SoulSilver decompilation (DS) | 79 | 🟢 | C |
+| [Metroid Fusion](https://github.com/metroidret/mf) | Matching decompilation of Metroid Fusion (Game Boy Advance, 2002) | 80 | 🟢 | C |
+| [pokeheartgold-single-screen](https://github.com/ClickingMaster/pokeheartgold-single-screen) | Single-screen build of the Pokémon HeartGold/SoulSilver decompilation (DS) | 78 | 🟢 | C |
 | [Sonic Advance](https://github.com/SAT-R/sa1) | Matching decompilation of Sonic Advance (Game Boy Advance, 2001) | 77 | 🗄️ | C |
 | [The Legend of Zelda: Spirit Tracks](https://github.com/zeldaret/st) | Matching decompilation of The Legend of Zelda: Spirit Tracks (Nintendo DS, 2009) | 77 | 🟢 | C++ |
 | [New Super Mario Bros.](https://github.com/NSMB-Decomp/nsmb) | Matching decompilation of New Super Mario Bros. (Nintendo DS, 2006) | 74 | 🟢 | C++ |
@@ -1882,8 +1882,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Super Mario Land disassembly](https://github.com/kaspermeerts/supermarioland) | Disassembly of Super Mario Land (Game Boy) | 71 | 🔴 | Assembly |
 | [Mario Kart DS](https://github.com/XorTroll/mkds-re) | Decompilation of Mario Kart DS | 70 | 🟡 | C |
 | [Pokémon Black](https://github.com/squiddonaut/pokeblack) | Matching decompilation of Pokémon Black (Nintendo DS, 2010) | 69 | 🟢 | Assembly |
+| [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom) | Matching decompilation of Kingdom Hearts: Chain of Memories (Game Boy Advance, 2004) | 62 | 🟢 | C |
 | [Dragon Quest IX](https://github.com/DQIX/dqix-decomp) | Matching decompilation of Dragon Quest IX: Sentinels of the Starry Skies (Nintendo DS, 2009) | 60 | 🟢 | C++ |
-| [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom) | Matching decompilation of Kingdom Hearts: Chain of Memories (Game Boy Advance, 2004) | 60 | 🟢 | C |
 | [Phoenix Wright: Ace Attorney](https://github.com/atasro2/pwaa1) | Matching decompilation of Phoenix Wright: Ace Attorney (Game Boy Advance, 2001; Japanese Gyakuten Saiban) | 59 | 🟢 | C |
 | [Kirby's Dream Land disassembly](https://github.com/huderlem/kirbydreamland) | Disassembly of Kirby's Dream Land (Game Boy) | 54 | 🔴 | Assembly |
 | [The Legend of Zelda: A Link to the Past & Four Swords disassembly](https://github.com/camthesaxman/zeldaalttp) | Disassembly of The Legend of Zelda: A Link to the Past & Four Swords (GBA) | 54 | 🔴 | Assembly |
@@ -1938,16 +1938,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Hamtaro: Ham-Hams Unite! disassembly](https://github.com/obskyr/hamtaro-in-pieces) | Disassembly of Hamtaro: Ham-Hams Unite! (Game Boy Color) | 21 | 🔴 | Crystal |
 | [Harry Potter and the Sorcerer's Stone (HPSS-Disassembly)](https://github.com/terinjokes/HPSS-Disassembly) | Disassembly of Harry Potter and the Sorcerer's Stone (Game Boy Color) | 21 | 🟡 | Assembly |
 | [Inazuma Eleven 3: The Ogre](https://github.com/CacaBueno64/ie3ogres) | Matching decompilation of Inazuma Eleven 3: The Ogre (Nintendo DS, 2011) | 21 | 🟢 | Assembly |
+| [The Legend of Zelda: A Link Between Worlds decomp](https://github.com/7akeem0/albw-decomp-ai) | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) | 21 | 🟢 | C |
 | [Wario Land 3 disassembly](https://github.com/froggestspirit/wland3) | Disassembly of Wario Land 3 (Game Boy Color) | 21 | 🗄️ | Assembly |
 | [Fire Emblem: The Sacred Stones](https://github.com/laqieer/fireemblem8u) | Matching decompilation of Fire Emblem: The Sacred Stones (Game Boy Advance, 2004) | 20 | 🗄️ | Assembly |
 | [Kingdom Hearts 358/2 Days (khdays-vita)](https://github.com/ggdrn/KH-DAYS-VITA) | Decompilation of Kingdom Hearts 358/2 Days (DS) | 20 | 🟢 | C |
 | [Klonoa: Empire of Dreams](https://github.com/testyourmine/kleod) | Matching decompilation of Klonoa: Empire of Dreams (Game Boy Advance, 2001) | 20 | 🟢 | C |
 | [Metroid II: Return of Samus decomp](https://github.com/Vashy777/metroid2) | Decompilation of Metroid II: Return of Samus (Game Boy) | 20 | 🔴 | Assembly |
-| [The Legend of Zelda: A Link Between Worlds decomp](https://github.com/7akeem0/albw-decomp-ai) | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) | 20 | 🟢 | C |
-| [Breath of Fire disassembly](https://github.com/Normmatt/bof) | Disassembly of Breath of Fire (GBA) | 19 | 🔴 | Assembly |
 | [hm3](https://github.com/Sanqui/hm3) | Partial disassembly of Harvest Moon 3 for Game Boy Color | 19 | 🔴 | Assembly |
 | [Kingdom Hearts Re:coded](https://github.com/kh-recoded-decomp/kh-recoded-decomp) | Matching decompilation of Kingdom Hearts Re:coded (Nintendo DS, 2010) | 19 | 🟢 | C |
 | [Star Ocean: Blue Sphere](https://github.com/animaone/star-ocean-blue-sphere-source-code) | Source code of Star Ocean: Blue Sphere (Game Boy Color, 2001) | 19 | 🟡 | Assembly |
+| [Breath of Fire disassembly](https://github.com/Normmatt/bof) | Disassembly of Breath of Fire (GBA) | 18 | 🔴 | Assembly |
 | [Fire Emblem disassembly](https://github.com/StanHash/fe7_us) | Disassembly and partial decompilation of Fire Emblem (GBA, US) | 18 | 🟡 | Assembly |
 | [Japanese Pokémon Red disassembly](https://github.com/luckytyphlosion/pokered-jp) | Disassembly of the Japanese Pokémon Red (Game Boy) | 18 | 🔴 | Assembly |
 | [Kingdom Hearts: Chain of Memories (KH_COM_VITA)](https://github.com/ggdrn/KH_COM_VITA) | Decompilation of Kingdom Hearts: Chain of Memories (GBA) | 18 | 🟢 | C |
@@ -1960,11 +1960,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Tetris decomp](https://github.com/Normmatt/agbtetris) | Decompilation and GBA port of Tetris (Game Boy, 1989) | 18 | 🔴 | C |
 | [Dragon Quest IV](https://github.com/GoldieLeGenie/DQIV-DECOMP) | Matching decompilation of Dragon Quest IV (Nintendo DS, 2007) | 17 | 🟢 | C++ |
 | [Fire Emblem: Shadow Dragon](https://github.com/Eebit/fe11-us) | Matching decompilation of Fire Emblem: Shadow Dragon (Nintendo DS, 2008) | 17 | 🟢 | C++ |
+| [Kingdom Hearts Re:coded decomp](https://github.com/Yokimitsuro/khrecoded-decomp) | Matching decompilation of Kingdom Hearts Re:coded (Nintendo DS) | 17 | 🟢 | C |
 | [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp) | Matching decompilation of Klonoa: Empire of Dreams (Game Boy Advance, 2001) | 17 | 🟢 | C |
 | [Yu-Gi-Oh! The Eternal Duelist Soul](https://github.com/CosmicScribe64/eds-decomp) | Matching decompilation of Yu-Gi-Oh! The Eternal Duelist Soul (Game Boy Advance, 2002) | 17 | 🟢 | Assembly |
 | [Advance Wars 2: Black Hole Rising](https://github.com/Eebit/aw2bhr) | Matching decompilation of Advance Wars 2: Black Hole Rising (Game Boy Advance, 2003) | 16 | 🟡 | Assembly |
 | [AGS Aging Cartridge 7.0 GBA test cartridge decomp](https://github.com/Normmatt/ags_aging) | Decompilation of the AGS Aging Cartridge 7.0 GBA test cartridge | 16 | 🔴 | C |
-| [Kingdom Hearts Re:coded decomp](https://github.com/Yokimitsuro/khrecoded-decomp) | Matching decompilation of Kingdom Hearts Re:coded (Nintendo DS) | 16 | 🟢 | C |
 | [Mario & Luigi: Partners in Time](https://github.com/Rainchus/PartnersInTime-Decomp) | Matching decompilation of Mario & Luigi: Partners in Time (Nintendo DS, 2005) | 16 | 🟢 | Python |
 | [Mario & Luigi: Superstar Saga disassembly](https://github.com/nstearns96/MLSuperstarSaga) | Disassembly of Mario & Luigi: Superstar Saga (GBA) | 16 | 🔴 | Assembly |
 | [medarot4](https://github.com/Medabots/medarot4) | Disassembly and translation of Medarot 4 (Game Boy Color) | 16 | 🟡 | Assembly |
@@ -1984,19 +1984,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Dragon Warrior III disassembly](https://github.com/VariantXYZ/dragon-warrior-3-gbc) | Disassembly of Dragon Warrior III (Game Boy Color) | 13 | 🟡 | Assembly |
 | [Mario & Luigi: Dream Team decomp](https://github.com/Mario-and-Luigi-3Ds-R-D/MILLI4C) | Decompilation of Mario & Luigi: Dream Team (3DS, 1.0 US) | 13 | 🟢 | Python |
 | [Pokémon Pinball: Ruby & Sapphire disassembly](https://github.com/Normmatt/Pokemon-Pinball-RS-Disassembly-Project) | Disassembly of Pokémon Pinball: Ruby & Sapphire (GBA) | 13 | 🔴 | Assembly |
+| [Rockman World 2 / Mega Man II disassembly](https://github.com/Kak2X/rw2) | Disassembly of Rockman World 2 / Mega Man II (Game Boy) | 13 | 🟢 | Assembly |
 | [Sonic Advance 2 disassembly](https://github.com/froggestspirit/SoAdvance2) | Disassembly of Sonic Advance 2 (GBA) | 13 | 🗄️ | Assembly |
 | [Sonic Battle](https://github.com/cypressru/SonicBattleDecomp) | Matching decompilation of Sonic Battle (Game Boy Advance, 2003) | 13 | 🟢 | C++ |
 | [Tetris disassembly](https://github.com/davFaithid/tetris-disassembly) | Disassembly of Tetris (Game Boy) buildable with RGBDS | 13 | 🔴 | Assembly |
 | [Wario Land 4 (lilDavid)](https://github.com/lilDavid/warioland4) | Matching decompilation of Wario Land 4 (Game Boy Advance, 2001) | 13 | 🟢 | Assembly |
 | [WarioWare, Inc.: Mega Microgames!](https://github.com/ShaffySwitcher/wariowareinc) | Matching decompilation of WarioWare, Inc.: Mega Microgames! (Game Boy Advance, 2003) | 13 | 🟢 | Assembly |
 | [Advance Wars decomp](https://github.com/ketsuban/advancewars) | Decompilation of Advance Wars (GBA) | 12 | 🗄️ | Assembly |
+| [Animal Crossing: Wild World decomp](https://github.com/banatic/acww-decomp) | Matching decompilation of Animal Crossing: Wild World (Nintendo DS, Korea) ARM9 code | 12 | 🟢 | C |
 | [Paper Mario: Sticker Star](https://github.com/Darxoon/leaflitter) | Matching decompilation of Paper Mario: Sticker Star (Nintendo 3DS, 2012) | 12 | 🗄️ | Python |
 | [Pokémon Gold/Silver disassembly](https://github.com/Narishma-gb/pokesilver) | Disassembly of Pokémon Gold/Silver (Game Boy Color, Japan) | 12 | 🟢 | Assembly |
-| [Rockman World 2 / Mega Man II disassembly](https://github.com/Kak2X/rw2) | Disassembly of Rockman World 2 / Mega Man II (Game Boy) | 12 | 🟢 | Assembly |
 | [pokefirered](https://github.com/cosarara/pokefirered) | Early disassembly project of Pokémon FireRed (GBA) | 11 | 🔴 | Assembly |
 | [Pokémon Yellow disassembly](https://github.com/Narishma-gb/pokeyellow-jp) | Disassembly of Pokémon Yellow (Game Boy, Japan) | 11 | 🟢 | Assembly |
 | [The Legend of Zelda: Ocarina of Time 3D decomp](https://github.com/gamestabled/oot3d_before_public) | Decompilation of The Legend of Zelda: Ocarina of Time 3D (3DS) | 11 | 🟡 | C++ |
-| [Animal Crossing: Wild World decomp](https://github.com/banatic/acww-decomp) | Matching decompilation of Animal Crossing: Wild World (Nintendo DS, Korea) ARM9 code | 10 | 🟢 | C |
 | [Dragon Warrior Monsters](https://github.com/NiyaDev/DWM) | Matching decompilation of Dragon Warrior Monsters (Game Boy Color, 1998) | 10 | 🟢 | Assembly |
 | [Keitai Denjuu Telefang Speed and Power disassembly](https://github.com/PikalaxALT/telefang_gb) | Disassembly of Keitai Denjuu Telefang Speed and Power (Game Boy Color) | 10 | 🔴 | Assembly |
 | [Kirby's Dream Land disassembly](https://github.com/Cleverking2003/kdreamlanddis) | Disassembly of Kirby's Dream Land (Game Boy) | 10 | 🔴 | Assembly |
@@ -2215,34 +2215,34 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Super Smash Bros. Melee](https://github.com/doldecomp/melee) | Matching decompilation of Super Smash Bros. Melee (GameCube, 2001) | 2,459 | 🟢 | C |
+| [Super Smash Bros. Melee](https://github.com/doldecomp/melee) | Matching decompilation of Super Smash Bros. Melee (GameCube, 2001) | 2,460 | 🟢 | C |
 | [Twilight Princess decomp](https://github.com/zeldaret/tp) | Decompilation of The Legend of Zelda: Twilight Princess | 2,126 | 🟢 | C++ |
 | [ac-decomp](https://github.com/ACreTeam/ac-decomp) | Decompilation of Animal Crossing for GameCube | 1,438 | 🟢 | C |
-| [Super Mario Galaxy](https://github.com/SMGCommunity/Petari) | Matching decompilation of Super Mario Galaxy (Wii, 2007) | 1,343 | 🟢 | C++ |
-| [Wind Waker decomp](https://github.com/zeldaret/tww) | Decompilation of The Legend of Zelda: The Wind Waker | 1,158 | 🟢 | C++ |
-| [Mario Party 4](https://github.com/mariopartyrd/marioparty4) | Matching decompilation of Mario Party 4 (GameCube, 2002) | 888 | 🟢 | C |
+| [Super Mario Galaxy](https://github.com/SMGCommunity/Petari) | Matching decompilation of Super Mario Galaxy (Wii, 2007) | 1,345 | 🟢 | C++ |
+| [Wind Waker decomp](https://github.com/zeldaret/tww) | Decompilation of The Legend of Zelda: The Wind Waker | 1,161 | 🟢 | C++ |
+| [Mario Party 4](https://github.com/mariopartyrd/marioparty4) | Matching decompilation of Mario Party 4 (GameCube, 2002) | 889 | 🟢 | C |
 | [Mario Kart Wii (riidefi)](https://github.com/snailspeed3/mkw) | Decompilation of Mario Kart Wii (riidefi) | 478 | 🟡 | C |
 | [Pikmin 2](https://github.com/projectPiki/pikmin2) | Matching decompilation of Pikmin 2 (GameCube, 2004) | 393 | 🟢 | C++ |
 | [Super Mario Sunshine](https://github.com/doldecomp/sms) | Matching decompilation of Super Mario Sunshine (GameCube, 2002) | 385 | 🟢 | C++ |
 | [re4 decomp](https://github.com/adonis-singh/re4) | Byte-identical decompilation of Resident Evil 4 (GameCube debug build) to C/C++ | 375 | 🟢 | C++ |
 | [Pikmin](https://github.com/projectPiki/pikmin) | Matching decompilation of Pikmin (GameCube, 2001) | 333 | 🟢 | C |
 | [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) | Matching decompilation of The Legend of Zelda: Skyward Sword (Wii, 2011) | 227 | 🟢 | C++ |
-| [Wii Menu](https://github.com/koopthekoopa/wii-ipl) | Decompilation of Wii Menu | 225 | 🟢 | C |
-| [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) | Matching decompilation of Mario Kart: Double Dash!! (GameCube, 2003) | 213 | 🟢 | C++ |
+| [Wii Menu](https://github.com/koopthekoopa/wii-ipl) | Decompilation of Wii Menu | 226 | 🟢 | C |
+| [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) | Matching decompilation of Mario Kart: Double Dash!! (GameCube, 2003) | 214 | 🟢 | C++ |
 | [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) | Matching decompilation of SpongeBob SquarePants: Battle for Bikini Bottom (GameCube, 2003) | 195 | 🟢 | C++ |
 | [Wii Sports](https://github.com/doldecomp/ogws) | Decompilation of Wii Sports | 184 | 🟢 | C |
-| [New Super Mario Bros. Wii](https://github.com/NSMBW-Community/NSMBW-Decomp) | Decompilation of New Super Mario Bros. Wii | 156 | 🟢 | C |
+| [New Super Mario Bros. Wii](https://github.com/NSMBW-Community/NSMBW-Decomp) | Decompilation of New Super Mario Bros. Wii | 155 | 🟢 | C |
 | [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) | Matching decompilation of Paper Mario: The Thousand-Year Door (GameCube, 2004) | 153 | 🟢 | C |
 | [Xenoblade Chronicles](https://github.com/xbret/xenoblade) | Matching decompilation of Xenoblade Chronicles (Wii, 2010) | 152 | 🟢 | C |
 | [Rock Band 3 decomp](https://github.com/DarkRTA/rb3) | Decompilation of Rock Band 3 (Wii) | 129 | 🟢 | C++ |
 | [Super Smash Bros. Brawl](https://github.com/doldecomp/brawl) | Matching decompilation of Super Smash Bros. Brawl (Wii, 2008) | 117 | 🟢 | C |
-| [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp) | Matching decompilation of Super Mario Strikers (GameCube, 2005) | 110 | 🟢 | C++ |
+| [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp) | Matching decompilation of Super Mario Strikers (GameCube, 2005) | 109 | 🟢 | C++ |
 | [Super Paper Mario](https://github.com/SeekyCt/spm-decomp) | Matching decompilation of Super Paper Mario (Wii, 2007) | 106 | 🟢 | C |
 | [SMGDecompilation](https://github.com/snailspeed3/SMGDecompilation) | Work-in-progress decompilation of Super Mario Galaxy | 97 | 🔴 | Assembly |
 | [Super Mario Galaxy 2](https://github.com/SMGCommunity/Garigari) | Matching decompilation of Super Mario Galaxy 2 (Wii, 2010) | 97 | 🟢 | C |
 | [FRAY](https://github.com/PsiLupan/FRAY) | Recompilable Super Smash Bros. Melee 1.02 based on libOGC | 94 | 🔴 | C |
 | [Kirby Air Ride (doldecomp)](https://github.com/doldecomp/kar) | Matching decompilation of Kirby Air Ride (GameCube, 2003) | 91 | 🟡 | Assembly |
-| [Star Fox Adventures](https://github.com/zcanann/SFA-Decomp) | Matching decompilation of Star Fox Adventures (GameCube, 2002) | 85 | 🟢 | C |
+| [Star Fox Adventures](https://github.com/zcanann/SFA-Decomp) | Matching decompilation of Star Fox Adventures (GameCube, 2002) | 86 | 🟢 | C |
 | [Pokémon Battle Revolution decomp](https://github.com/pret/pokerevo) | Decompilation of Pokémon Battle Revolution (Wii, PAL) | 79 | 🟡 | Assembly |
 | [Paper Mario: The Thousand-Year Door decomp](https://github.com/NWPlayer123/PaperMario2) | Decompilation of Paper Mario: The Thousand-Year Door (GameCube) | 72 | 🔴 | C |
 | [smb-decomp](https://github.com/camthesaxman/smb-decomp) | Decompilation of Super Monkey Ball | 66 | 🔴 | Assembly |
@@ -2250,20 +2250,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Kirby's Epic Yarn](https://github.com/Swiftshine/key) | Matching decompilation of Kirby's Epic Yarn (Wii, 2010) | 57 | 🟢 | C++ |
 | [Animal Forest e+](https://github.com/ACreTeam/afe-decomp) | Matching decompilation of Animal Forest e+ (GameCube, 2003) | 54 | 🟢 | C |
 | [Sonic Adventure DX](https://github.com/doldecomp/sadx) | Matching decompilation of Sonic Adventure DX (GameCube, 2003) | 53 | 🟡 | Python |
-| [Pokémon Colosseum](https://github.com/dougchansan/pkmn-colosseum) | Matching decompilation of Pokémon Colosseum (GameCube, 2003) | 51 | 🟢 | C |
-| [New Super Mario Bros. U](https://github.com/aboood40091/red-pro2) | Matching decompilation of New Super Mario Bros. U (Wii U, 2012; v1.3.0) | 49 | 🟢 | C++ |
+| [Pokémon Colosseum](https://github.com/dougchansan/pkmn-colosseum) | Matching decompilation of Pokémon Colosseum (GameCube, 2003) | 52 | 🟢 | C |
+| [New Super Mario Bros. U](https://github.com/aboood40091/red-pro2) | Matching decompilation of New Super Mario Bros. U (Wii U, 2012; v1.3.0) | 50 | 🟢 | C++ |
 | [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) | Matching decompilation of Pokémon XD: Gale of Darkness (GameCube, 2005) | 49 | 🟢 | C |
 | [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) | Matching decompilation of Final Fantasy Crystal Chronicles (GameCube, 2003) | 46 | 🟢 | C |
 | [Mario Party 5](https://github.com/mariopartyrd/marioparty5) | Matching decompilation of Mario Party 5 (GameCube, 2003) | 44 | 🟢 | C |
 | [The Legend of Zelda: The Wind Waker HD decomp](https://github.com/ZeldaWWHDDecomp/wwhd) | Decompilation of The Legend of Zelda: The Wind Waker HD (Wii U) | 43 | 🟢 | C++ |
 | [Mario Strikers Charged](https://github.com/yannicksuter/mscharged-decomp) | Matching decompilation of Mario Strikers Charged (Wii, 2007) | 42 | 🟢 | C++ |
 | [Sonic Heroes](https://github.com/Jovinull/sonicheroes) | Matching decompilation of Sonic Heroes (GameCube, 2003) | 42 | 🟢 | C++ |
+| [Sonic Riders](https://github.com/doldecomp/sonicriders) | Matching decompilation of Sonic Riders (GameCube, 2006) | 40 | 🔴 | Assembly |
 | [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) | Matching decompilation of Need for Speed: Underground (GameCube, 2003) | 39 | 🟢 | C |
 | [Phantasy Star Online Episode I & II Plus decomp](https://github.com/zeroz41/pso-decomp) | Decompilation of Phantasy Star Online Episode I & II Plus (GameCube) | 39 | 🟢 | C++ |
-| [Sonic Riders](https://github.com/doldecomp/sonicriders) | Matching decompilation of Sonic Riders (GameCube, 2006) | 39 | 🔴 | Assembly |
+| [Ratchet & Clank: Going Commando (USA v1.01)](https://github.com/OpenRAC/rac2-decomp) | Decompilation of Ratchet & Clank: Going Commando (USA v1.01) | 38 | 🟢 | C |
 | [recvx-gc-decomp](https://github.com/fmil95/recvx-gc-decomp) | Decompilation of Resident Evil Code: Veronica X (GameCube) | 38 | 🟢 | C |
-| [Luigi's Mansion (zmansion)](https://github.com/Sage-of-Mirrors/zmansion) | Matching decompilation of Luigi's Mansion (GameCube, 2001) | 37 | 🟡 | C |
-| [Ratchet & Clank: Going Commando (USA v1.01)](https://github.com/OpenRAC/rac2-decomp) | Decompilation of Ratchet & Clank: Going Commando (USA v1.01) | 37 | 🟢 | C |
+| [Luigi's Mansion (zmansion)](https://github.com/Sage-of-Mirrors/zmansion) | Matching decompilation of Luigi's Mansion (GameCube, 2001) | 37 | 🔴 | C |
 | [TY the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) | Matching decompilation of TY the Tasmanian Tiger (GameCube, 2002) | 37 | 🟢 | C++ |
 | [lm-decomp](https://github.com/ThePlayerRolo/lm-decomp) | Decompilation of Luigi's Mansion | 36 | 🗄️ | C |
 | [Mario Party 7](https://github.com/mariopartyrd/marioparty7) | Matching decompilation of Mario Party 7 (GameCube, 2005) | 33 | 🟢 | C |
@@ -2276,9 +2276,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Eternal Darkness: Sanity's Requiem decomp](https://github.com/psdwizzard/Eternal-Darkness---Decompile) | Matching decompilation of Eternal Darkness: Sanity's Requiem (GameCube, GEDE01) | 27 | 🟢 | C |
 | [Pokémon Battle Revolution](https://github.com/pbr-ret/pbr-decomp) | Matching decompilation of Pokémon Battle Revolution (Wii, 2006) | 27 | 🟢 | C |
 | [Star Fox Adventures (sfadebug)](https://github.com/RenaKunisaki/sfadebug) | Matching decompilation of Star Fox Adventures (GameCube, 2002; debug version) | 27 | 🟢 | C |
+| [The Incredibles](https://github.com/seilc/incredibles) | Matching decompilation of The Incredibles (GameCube, 2004) | 27 | 🟢 | C |
 | [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) | Matching decompilation of Harvest Moon: A Wonderful Life (GameCube, 2003) | 26 | 🔴 | Assembly |
 | [Mario Party 9 (mariopartyrd)](https://github.com/mariopartyrd/marioparty9) | Matching decompilation of Mario Party 9 (Wii, 2012) | 26 | 🟡 | C |
-| [The Incredibles](https://github.com/seilc/incredibles) | Matching decompilation of The Incredibles (GameCube, 2004) | 26 | 🟢 | C |
 | [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) | Matching decompilation of The SpongeBob SquarePants Movie (GameCube, 2004) | 26 | 🟢 | C++ |
 | [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) | Matching decompilation of Naruto: Gekitō Ninja Taisen! 4 (GameCube, 2005) | 25 | 🔴 | Assembly |
 | [Forecast Channel (Wii)](https://github.com/doldecomp/forecast) | Decompilation of Forecast Channel (Wii) | 24 | 🟢 | C |
@@ -2287,10 +2287,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii) | Matching decompilation of New Play Control! Pikmin 2 (Wii, 2009) | 22 | 🟢 | C++ |
 | [open_rvl](https://github.com/kiwi515/open_rvl) | Decompilation of the Wii RVL SDK | 22 | 🗄️ | C |
 | [LEGO Star Wars III: The Clone Wars (Wii)](https://github.com/ThePlayerRolo/LegoCloneWarsWii) | Decompilation of LEGO Star Wars III: The Clone Wars (Wii) | 21 | 🟢 | C |
+| [Luigi's Mansion](https://github.com/SomeJakeGuy/lm-decomp) | Matching decompilation of Luigi's Mansion (GameCube, 2001) | 21 | 🟢 | C |
 | [Splatoon decomp](https://github.com/sdlfoundation/splatoon-decomp) | Decompilation of Splatoon (Wii U) | 21 | 🟡 | Lua |
 | [Wii Virtual Console N64 emulator used disassembly](https://github.com/nim-ka/vc64-decomp) | Disassembly of the Wii Virtual Console N64 emulator used by Ocarina of Time | 21 | 🟡 | Assembly |
 | [April 2004 Dolphin SDK libraries decomp](https://github.com/doldecomp/dolsdk2004) | Decompilation of the April 2004 Dolphin SDK libraries (GameCube) | 20 | 🟡 | C |
-| [Luigi's Mansion](https://github.com/SomeJakeGuy/lm-decomp) | Matching decompilation of Luigi's Mansion (GameCube, 2001) | 20 | 🟢 | C |
 | [main DOL of Super Mario Sunshine disassembly](https://github.com/JimB16/SMS) | Disassembly of the main DOL of Super Mario Sunshine (GameCube) | 20 | 🔴 | Assembly |
 | [Mario Kart Wii disassembly](https://github.com/aplumafreak500/DisMKW) | pret-style disassembly of Mario Kart Wii (Wii) | 20 | 🔴 | Assembly |
 | [The Legend of Zelda: Twilight Princess](https://github.com/BgbrhrWatchinOVO/dusklight-ps4) | Decompilation of The Legend of Zelda: Twilight Princess (GameCube) | 20 | 🟢 | Python |
@@ -2299,13 +2299,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [RFL decomp](https://github.com/koopthekoopa/RFL) | Decompilation of RFL, the Mii library used in Wii games | 19 | 🟢 | C |
 | [Wii Play](https://github.com/akiramusic000/Rhae) | Decompilation of Wii Play | 19 | 🟢 | C |
 | [Crash Bandicoot: The Wrath of Cortex (GameCube)](https://github.com/denzi-gh/crashwoc-decomp-gc) | Decompilation of Crash Bandicoot: The Wrath of Cortex (GameCube) | 18 | 🟢 | C |
+| [Disney's Piglet's Big Game](https://github.com/tgsm/pbg) | Matching decompilation of Disney's Piglet's Big Game (GameCube, 2003) | 18 | 🟢 | C |
 | [Hagi (GameCube/Wii emulator in Super Mario 3D All-Stars)](https://github.com/GRAnimated/Hagi) | Decompilation of Hagi (GameCube/Wii emulator in Super Mario 3D All-Stars) | 18 | 🟢 | C |
 | [PokéPark Wii: Pikachu's Adventure](https://github.com/SephDB/pokepark-wii-decomp) | Decompilation of PokéPark Wii: Pikachu's Adventure | 18 | 🟢 | C |
 | [Sonic Adventure 2: Battle](https://github.com/roeming/SA2B) | Matching decompilation of Sonic Adventure 2: Battle (GameCube, 2001) | 18 | 🟢 | C |
 | [Splatoon](https://github.com/Dexx-io/Splatoon-Decomp) | Matching decompilation of Splatoon (Wii U, 2015) | 18 | 🟡 |  |
 | [Tiger Woods PGA Tour 2004](https://github.com/mitsevox/tw2004) | Matching decompilation of Tiger Woods PGA Tour 2004 (GameCube, 2003) | 18 | 🟢 | C |
 | [Crash Tag Team Racing](https://github.com/bluisblu/cttr) | Matching decompilation of Crash Tag Team Racing (GameCube, 2005) | 17 | 🟢 | C |
-| [Disney's Piglet's Big Game](https://github.com/tgsm/pbg) | Matching decompilation of Disney's Piglet's Big Game (GameCube, 2003) | 17 | 🟢 | C |
 | [Skies of Arcadia Legends](https://github.com/Rainchus/SkiesOfArcadiaLegends) | Matching decompilation of Skies of Arcadia Legends (GameCube, 2002) | 17 | 🟡 | Python |
 | [Inazuma Eleven Strikers](https://github.com/SwareJonge/IEStrikers) | Matching decompilation of Inazuma Eleven Strikers (Wii, 2012) | 16 | 🟡 | C |
 | [Mario Superstar Baseball (dtk)](https://github.com/roeming/mssb-dtk) | Matching decompilation of Mario Superstar Baseball (GameCube, 2005) | 16 | 🟢 | C |
@@ -2324,13 +2324,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Sonic Riders Tournament Edition disassembly](https://github.com/RidersBoulevard/sonicriderste) | Disassembly and decompilation of Sonic Riders Tournament Edition (GameCube) | 12 | 🟢 | Assembly |
 | [Super Mario Sunshine](https://github.com/griches/PS5_Sunshine) | Decompilation of Super Mario Sunshine (GameCube) | 12 | 🟢 | C |
 | [F-Zero GX](https://github.com/rayanht/fzgx) | Matching decompilation of F-Zero GX (GameCube, 2003) | 11 | 🟢 | C |
+| [Gradius ReBirth decomp](https://github.com/darkuni/gradius-rebirth-recomp) | Decompilation and recompilation of Gradius ReBirth (WiiWare) | 11 | 🟢 | C++ |
 | [Mario Kart Wii decomp](https://github.com/vabold/mkw) | Decompilation of Mario Kart Wii (Wii) | 11 | 🟢 | C |
 | [Medal of Honor: Rising Sun](https://github.com/lifewillbeokay/moh-rising-sun) | Matching decompilation of Medal of Honor: Rising Sun (GameCube, 2003) | 11 | 🟢 | C++ |
 | [Digimon World 4](https://github.com/ivanno4317/dw4-gc) | Decompilation of Digimon World 4 | 10 | 🟢 | C |
 | [EGG library used across Wii games decomp](https://github.com/vabold/EGG) | Decompilation of Nintendo's EGG library used across Wii games | 10 | 🟡 | Python |
 | [Eternal Darkness: Sanity's Requiem](https://github.com/PattyTrish/unending-occlusion) | Matching decompilation of Eternal Darkness: Sanity's Requiem (GameCube, 2002) | 10 | 🟢 | C |
 | [GameCube tech demo NDDEMO decomp](https://github.com/cualquiercosa327/nddemo) | Decompilation of the GameCube tech demo NDDEMO | 10 | 🔴 | C++ |
-| [Gradius ReBirth decomp](https://github.com/darkuni/gradius-rebirth-recomp) | Decompilation and recompilation of Gradius ReBirth (WiiWare) | 10 | 🟢 | C++ |
 | [Peach's Castle GameCube tech demo decomp](https://github.com/CelestialAmber/nddemo) | Decompilation of the Peach's Castle GameCube tech demo | 10 | 🟢 | Assembly |
 | [Donkey Kong Country Returns](https://github.com/Wexos/DKCR-Decompilation) | Matching decompilation of Donkey Kong Country Returns (Wii, 2010) | 9 | 🟡 | Python |
 | [Mario Party 6](https://github.com/iirg4x/marioparty6) | Matching decompilation of Mario Party 6 (GameCube, 2004) | 9 | 🟢 | C |
@@ -2447,13 +2447,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Decompilation of Cut the Rope (Mobile) | 143 | 🟢 | C# |
 | [DoomIIRPG-RE](https://github.com/Erick194/DoomIIRPG-RE) | Reverse engineered source of Doom II RPG | 101 | 🟡 | C++ |
 | [PvZ-TV-Touch](https://github.com/WuDi-ZhanShen/PvZ-TV-Touch) | Decompiled Java source of Android Plants vs. Zombies TV edition, adapted for touch | 82 | 🟡 |  |
-| [Ultimate Mortal Kombat 3 decomp](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Decompilation of Ultimate Mortal Kombat 3 for iOS (EA Mobile, 2011) | 62 | 🟢 | C |
+| [Ultimate Mortal Kombat 3 decomp](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Decompilation of Ultimate Mortal Kombat 3 for iOS (EA Mobile, 2011) | 64 | 🟢 | C |
 | [Angry Birds](https://github.com/jooapa/Angry_Birds_Decompilation) | Decompilation scripts and instructions for the six classic Angry Birds games (Mobile, 2009–2014) | 56 | 🟡 | Python |
-| [BounceTales](https://github.com/HelloOO7/BounceTales) | Decompilation of Rovio's Bounce Tales (2008) for Nokia phones | 52 | 🔴 | Java |
-| [Geometry Dash](https://github.com/aloaf812/GD) | Decompilation of Geometry Dash v1.710 (Mobile, 2013) | 42 | 🟢 | C++ |
+| [BounceTales](https://github.com/HelloOO7/BounceTales) | Decompilation of Rovio's Bounce Tales (2008) for Nokia phones | 53 | 🔴 | Java |
+| [Geometry Dash](https://github.com/aloaf812/GD) | Decompilation of Geometry Dash v1.710 (Mobile, 2013) | 44 | 🟢 | C++ |
 | [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation) | Matching decompilation of Sonic the Hedgehog (J2ME mobile, 2005) | 36 | 🔴 | Java |
 | [Samurai vs Zombies Defense](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Decompilation of Samurai vs Zombies Defense by Glu (Mobile, 2012) | 27 | 🟢 | C# |
-| [Samurai-Vs-Zombies-2](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies-2) | Decompiled Samurai vs Zombies 2 mobile game made playable on PC | 26 | 🟢 | C# |
+| [Samurai-Vs-Zombies-2](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies-2) | Decompiled Samurai vs Zombies 2 mobile game made playable on PC | 27 | 🟢 | C# |
 | [DiamondRushSource](https://github.com/kubikaugustyn/DiamondRushSource) | Decompilation of Gameloft's Diamond Rush (2006) for Nokia phones | 25 | 🟡 | Java |
 | [Bounce decomp](https://github.com/rndtrash/nokia-bounce-decomp) | Decompiled and commented source of Bounce for Nokia J2ME phones | 19 | 🔴 | Java |
 | [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends) | APK decompilation of Dragon Ball Legends (Mobile, 2018) | 17 | 🟡 | Smali |
@@ -2516,13 +2516,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Super Mario 64 decomp](https://github.com/n64decomp/sm64) | Matching decompilation of Super Mario 64 | 8,964 | 🟡 | C |
-| [Ocarina of Time decomp](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time | 5,683 | 🟢 | C |
-| [Perfect Dark PC port](https://github.com/perfect-dark-pc-port/perfect_dark) | Port of the Perfect Dark N64 decompilation to modern platforms | 2,108 | 🟢 | C |
-| [Majora's Mask decomp](https://github.com/zeldaret/mm) | Decompilation of The Legend of Zelda: Majora's Mask | 1,779 | 🟢 | C |
-| [Paper Mario](https://github.com/pmret/papermario) | Matching decompilation of Paper Mario (Nintendo 64, 2000) | 1,637 | 🟢 | C |
-| [Mario Kart 64](https://github.com/n64decomp/mk64) | Matching decompilation of Mario Kart 64 (Nintendo 64, 1996) | 1,317 | 🟢 | C |
-| [Perfect Dark decompilation (n64decomp)](https://github.com/n64decomp/perfect_dark) | Matching decompilation of Perfect Dark (N64) | 882 | 🟡 | C |
+| [Super Mario 64 decomp](https://github.com/n64decomp/sm64) | Matching decompilation of Super Mario 64 | 8,966 | 🟡 | C |
+| [Ocarina of Time decomp](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time | 5,696 | 🟢 | C |
+| [Perfect Dark PC port](https://github.com/perfect-dark-pc-port/perfect_dark) | Port of the Perfect Dark N64 decompilation to modern platforms | 2,111 | 🟢 | C |
+| [Majora's Mask decomp](https://github.com/zeldaret/mm) | Decompilation of The Legend of Zelda: Majora's Mask | 1,780 | 🟢 | C |
+| [Paper Mario](https://github.com/pmret/papermario) | Matching decompilation of Paper Mario (Nintendo 64, 2000) | 1,638 | 🟢 | C |
+| [Mario Kart 64](https://github.com/n64decomp/mk64) | Matching decompilation of Mario Kart 64 (Nintendo 64, 1996) | 1,316 | 🟢 | C |
+| [Perfect Dark decompilation (n64decomp)](https://github.com/n64decomp/perfect_dark) | Matching decompilation of Perfect Dark (N64) | 884 | 🟡 | C |
 | [GoldenEye 007 decomp](https://github.com/n64decomp/007) | Matching decompilation of GoldenEye 007 | 814 | 🟢 | C |
 | [banjo-kazooie](https://github.com/n64decomp/banjo-kazooie) | Decompilation of Banjo-Kazooie | 658 | 🟢 | C |
 | [HackerSM64](https://github.com/HackerN64/HackerSM64) | Super Mario 64 decompilation fork tuned for romhacking | 540 | 🟢 | C |
@@ -2538,7 +2538,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) | Matching decompilation of Harvest Moon 64 (Nintendo 64, 1999) | 224 | 🟢 | C |
 | [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) | Matching decompilation of Dinosaur Planet (Nintendo 64, unreleased 2000 build) | 217 | 🟢 | C |
 | [Pokémon Stadium](https://github.com/pret/pokestadium) | Matching decompilation of Pokémon Stadium (Nintendo 64, 1999) | 215 | 🟢 | C |
-| [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) | Matching decompilation of Snowboard Kids 2 (Nintendo 64, 1999) | 197 | 🟢 | C |
+| [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) | Matching decompilation of Snowboard Kids 2 (Nintendo 64, 1999) | 198 | 🟢 | C |
 | [libreultra](https://github.com/n64decomp/libreultra) | Matching decompilation of the N64 libultra SDK library | 185 | 🔴 | C |
 | [Banjo-Tooie](https://github.com/Mr-Wiseguy/banjo-tooie) | Matching decompilation of Banjo-Tooie (Nintendo 64, 2000) | 157 | 🟢 | C |
 | [N64 Emulator for GameCube (OoT Master Quest)](https://github.com/zeldaret/oot-gc) | Decompilation of N64 Emulator for GameCube (OoT Master Quest) | 150 | 🟡 | C |
@@ -2606,9 +2606,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Turok 2: Seeds of Evil decomp](https://github.com/mgrz18/turok2-decomp) | Decompilation of Turok 2: Seeds of Evil (N64) | 12 | 🟢 | C |
 | [Hey You decomp](https://github.com/farisawan-2000/hey_you_pikachu) | Decompilation of Hey You, Pikachu! (N64) | 11 | 🔴 | Assembly |
 | [Mystical Ninja Starring Goemon](https://github.com/klorfmorf/mnsg) | Matching decompilation of Mystical Ninja Starring Goemon (Nintendo 64, 1997) | 11 | 🟢 | C |
+| [Tony Hawk's Pro Skater decomp](https://github.com/andrewnakas/thps64) | Matching decompilation of Tony Hawk's Pro Skater (N64) | 11 | 🟢 | C |
 | [BattleTanx decomp](https://github.com/TheGh0stShip/BattleTanx) | Matching decompilation of BattleTanx (N64, USA Rev 0) | 10 | 🟢 | C |
 | [Conker's Bad Fur Day decomp](https://github.com/gipson-dev/64CBFD) | Decompilation of Conker's Bad Fur Day (N64) | 10 | 🟢 | C |
-| [Tony Hawk's Pro Skater decomp](https://github.com/andrewnakas/thps64) | Matching decompilation of Tony Hawk's Pro Skater (N64) | 10 | 🟢 | C |
 | [Turok: Rage Wars decomp](https://github.com/JohnSams165/Turok-Rage-Wars-Decomp) | Matching decompilation of Turok: Rage Wars (N64), all releases | 10 | 🟢 | C |
 | [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/adipocira/doraemon1) | Matching decompilation of Doraemon: Nobita to Mittsu no Seireiseki (Nintendo 64, 1997) | 9 | 🟢 | C |
 | [The Legend of Zelda: Ocarina of Time 1.0 disassembly](https://github.com/Roman971/oot-disassembly) | Disassembly of The Legend of Zelda: Ocarina of Time 1.0 (N64) | 9 | 🔴 | Assembly |
@@ -2662,18 +2662,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) | Decompiled C# source of the Unity editor and engine assemblies (now superseded by official reference source) | 1,484 | 🗄️ |  |
 | [sm64-port](https://github.com/sm64-port/sm64-port) | Port of the SM64 decompilation to modern devices | 1,333 | 🟡 | C |
-| [RSDKv4 Decompilation](https://github.com/RSDKModding/RSDKv4-Decompilation) | Decompilation of Sonic 1 & 2 (2013) and Retro Engine v4 | 1,158 | 🟢 | C++ |
+| [RSDKv4 Decompilation](https://github.com/RSDKModding/RSDKv4-Decompilation) | Decompilation of Sonic 1 & 2 (2013) and Retro Engine v4 | 1,159 | 🟢 | C++ |
 | [RSDKv5-Decompilation](https://github.com/RSDKModding/RSDKv5-Decompilation) | Complete decompilation of Retro Engine v5 (Sonic Mania) | 575 | 🟢 | C++ |
-| [Elite decomp](https://github.com/markmoxon/elite-source-code-commodore-64) | Fully documented reverse-engineered source code of Elite (Commodore 64) | 477 | 🟢 | Assembly |
-| [bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled) | Decompiled GSC scripts of Call of Duty: Black Ops 1 Zombies | 335 | 🟢 | C++ |
+| [Elite decomp](https://github.com/markmoxon/elite-source-code-commodore-64) | Fully documented reverse-engineered source code of Elite (Commodore 64) | 478 | 🟢 | Assembly |
+| [bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled) | Decompiled GSC scripts of Call of Duty: Black Ops 1 Zombies | 337 | 🟢 | C++ |
 | [Metal Gear disassembly](https://github.com/GuillianSeed/MetalGear) | Fully annotated disassembly of Metal Gear (MSX2, Konami) | 328 | 🔴 | Assembly |
 | [overpy](https://github.com/Zezombye/overpy) | High-level language for the Overwatch Workshop with compile and decompile support | 239 | 🟢 | OverPy |
-| [Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Decompilation of Bloodborne v1.09 with its own runtime | 164 | 🟢 | Python |
+| [Paleblood](https://github.com/Yharnam-Hunters/Paleblood) | Decompilation of Bloodborne v1.09 with its own runtime | 165 | 🟢 | Python |
 | [v-decompiled-scripts](https://github.com/root-cause/v-decompiled-scripts) | Decompiled GTA V game scripts | 159 | 🗄️ | C |
 | [RSDKv4-Script-Decompilation](https://github.com/RSDKModding/RSDKv4-Script-Decompilation) | Decompiled scripts of Retro Engine v4 games (Sonic 1/2 mobile) | 140 | 🟢 |  |
 | [RSDKv3-Script-Decompilation](https://github.com/RSDKModding/RSDKv3-Script-Decompilation) | Decompiled scripts of Retro Engine v3 (Sonic CD) | 139 | 🟢 |  |
 | [RuneScape Classic client (2003scape rsc-c)](https://github.com/2003scape/rsc-c) | RuneScape Classic client ported to C, with builds for PC, Wii, 3DS and Switch | 136 | 🟢 | C |
-| [Lander decomp](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | Fully documented reverse-engineered source code of Lander (Acorn Archimedes) | 113 | 🟢 | Assembly |
+| [Lander decomp](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | Fully documented reverse-engineered source code of Lander (Acorn Archimedes) | 114 | 🟢 | Assembly |
 | [ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse) | Full reverse engineered source of the Apple II game Choplifter | 100 | 🟡 | Assembly |
 | [elite-harmless](https://github.com/Kroc/elite-harmless) | Disassembly (CA65) of the Commodore 64 port of Elite | 100 | 🗄️ |  |
 | [lode_runner_reveng](https://github.com/XekriRedmane/lode_runner_reveng) | Reverse engineering of Lode Runner for the Apple II | 98 | 🟢 | TeX |
@@ -2682,7 +2682,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [jetpac-disassembly](https://github.com/mrcook/jetpac-disassembly) | Fully annotated disassembly of JETPAC (ZX Spectrum) | 77 | 🟢 | Assembly |
 | [gridrunner](https://github.com/mwenge/gridrunner) | Reverse-engineered source of Gridrunner (1982) by Jeff Minter | 75 | 🔴 | Assembly |
 | [Terraria (Old-Gen Console)](https://github.com/PPrism/TerrariaOGC) | Functional decompilation and PC port of the Xbox 360 / PS3 version of Terraria (2013) | 69 | 🟢 | C# |
-| [The Sentinel decomp](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | Fully documented reverse-engineered source code of The Sentinel (BBC Micro) | 61 | 🟢 | Assembly |
+| [The Sentinel decomp](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | Fully documented reverse-engineered source code of The Sentinel (BBC Micro) | 62 | 🟢 | Assembly |
 | [Aviator decomp](https://github.com/markmoxon/aviator-source-code-bbc-micro) | Fully documented reverse-engineered source code of Aviator (BBC Micro) | 60 | 🟢 | Assembly |
 | [Elite-A decomp](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | Fully documented reverse-engineered source code of Elite-A (BBC Micro) | 60 | 🟢 | Assembly |
 | [classic arcade disassembly](https://github.com/topherCantrell/computerarcheology) | Commented disassemblies of classic arcade, console and computer games behind computerarcheology.com | 57 | 🟢 | Assembly |
@@ -2693,18 +2693,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [fe2-intro](https://github.com/watsonmw/fe2-intro) | Reverse-engineered renderer and audio of Frontier: Elite II (Amiga) | 52 | 🟡 | C++ |
 | [music drivers of various video games disassembly](https://github.com/loveemu/vgm-disasm) | Disassemblies of the music drivers of various video games | 52 | 🟢 | Assembly |
 | [Maniac Mansion disassembly](https://github.com/pditincho/mm-explained) | Explained disassembly of Maniac Mansion (Commodore 64) | 50 | 🟢 | Assembly |
-| [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Decompilation of Stunt Car Racer (Amiga) | 48 | 🟢 | Assembly |
+| [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Decompilation of Stunt Car Racer (Amiga) | 49 | 🟢 | Assembly |
 | [Cobra decomp](https://github.com/Paulie68000/ZXSpectrumCobra) | Reverse-engineered source code of Cobra by Jonathan Smith (ZX Spectrum) | 47 | 🟡 | Assembly |
 | [Elite decomp](https://github.com/markmoxon/elite-source-code-apple-ii) | Fully documented reverse-engineered source code of Elite (Apple II) | 43 | 🟢 | Assembly |
 | [Maniac Mansion game scripts disassembly](https://github.com/segrax/Maniac.Mansion.Disassembly) | Commented disassembly of Maniac Mansion game scripts (Commodore 64) | 43 | 🔴 | C |
 | [Revs decomp](https://github.com/markmoxon/revs-source-code-bbc-micro) | Fully documented reverse-engineered source code of Revs (BBC Micro) | 43 | 🟢 | Assembly |
-| [Elite decomp](https://github.com/markmoxon/elite-source-code-6502-second-processor) | Fully documented reverse-engineered source code of Elite (BBC Micro 6502 Second Processor) | 41 | 🟢 | Assembly |
+| [Elite decomp](https://github.com/markmoxon/elite-source-code-6502-second-processor) | Fully documented reverse-engineered source code of Elite (BBC Micro 6502 Second Processor) | 42 | 🟢 | Assembly |
 | [GD-2.206-Decompiled](https://github.com/CallocGD/GD-2.206-Decompiled) | Decompilation attempt of Geometry Dash 2.206 | 40 | 🟡 | C++ |
-| [newer 4J Studios Minecraft Legacy Console Edition releases decomp](https://github.com/Patoke/LCERenewed) | Decompilation of newer 4J Studios Minecraft Legacy Console Edition releases | 40 | 🟢 | C++ |
+| [newer 4J Studios Minecraft Legacy Console Edition releases decomp](https://github.com/Patoke/LCERenewed) | Decompilation of newer 4J Studios Minecraft Legacy Console Edition releases | 39 | 🟢 | C++ |
 | [habbo_src](https://github.com/Quackster/habbo_src) | Archive of decompiled Habbo client files from 2001-2009 | 37 | 🟢 | LiveScript |
 | [C64 Wizard of Wor Disassembly](https://github.com/dabadab/wizardofwor) | Wizard of Wor for C64 disassembly | 35 | 🔴 | Assembly |
+| [Elite decomp](https://github.com/markmoxon/elite-source-code-acorn-electron) | Fully documented reverse-engineered source code of Elite (Acorn Electron) | 35 | 🟢 | Assembly |
 | [Elite decomp](https://github.com/markmoxon/elite-source-code-bbc-master) | Fully documented reverse-engineered source code of Elite (BBC Master) | 35 | 🟢 | Assembly |
-| [Elite decomp](https://github.com/markmoxon/elite-source-code-acorn-electron) | Fully documented reverse-engineered source code of Elite (Acorn Electron) | 34 | 🟢 | Assembly |
 | [Pyramid Warp Ex disassembly](https://github.com/theNestruo/msx-pyramidwarpex) | Disassembly and reverse engineering of Pyramid Warp Ex (MSX) | 34 | 🗄️ | Assembly |
 | [Nether Earth disassembly](https://github.com/santiontanon/netherearth-disassembly) | Disassembly of Nether Earth (ZX Spectrum, 1986) | 33 | 🔴 | HTML |
 | [Head Over Heels decomp](https://github.com/simon-frankau/head-over-heels) | Reverse engineering of Head Over Heels (ZX Spectrum) | 32 | 🔴 | Assembly |
@@ -2760,7 +2760,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Disassembly of Boulder Dash for the BBC Micro](https://github.com/TobyLobster/Boulderdash) | Disassembly of the game Boulderdash on the BBC Micro | 9 | 🟡 | Assembly |
 | [Jetpac disassembly](https://github.com/phillipeaton/JETPAC_VIC-20_disassembly) | Reverse-engineered disassembly of Jetpac (VIC-20) | 9 | 🟡 | Assembly |
 | [Road Rash decomp](https://github.com/trapexit/3do-decomp-road-rash) | Decompilation and reconstruction of Road Rash (3DO, USA) | 9 | 🟢 | C |
-| [Soulcalibur II](https://github.com/Soulcalibur-II-Research-Group/scII_re) | Decompilation of Soulcalibur II | 9 | 🟢 |  |
+| [Soulcalibur II](https://github.com/Soulcalibur-II-Research-Group/scII_re) | Decompilation of Soulcalibur II | 9 | 🟡 |  |
 | [UridiumFraktion](https://github.com/mwenge/UridiumFraktion) | Annotated code, data and pixels of Uridium (Commodore 64) | 9 | 🟢 | Jupyter Notebook |
 | [Antarctic Adventure disassembly](https://github.com/ricbit/antarctic) | Disassembly of Antarctic Adventure (MSX) | 8 | 🟢 | Assembly |
 | [Apple II games disassembly](https://github.com/Michaelangel007/apple2_games_disassembly_project) | Reverse engineering and disassembly of Apple II games | 8 | 🟢 | Assembly |
@@ -2784,6 +2784,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Alien vs Predator decomp](https://github.com/Joshua-1248/Alien-V.S.-Predator-Atari-Jaguar-C-Decompilation) | C decompilation of Alien vs Predator (Atari Jaguar) | 6 | 🟢 | C |
 | [Alphabet Park Adventure](https://github.com/unspDecomp/abcParkDecomp) | Matching decompilation of Alphabet Park Adventure (V.Smile, 2004) | 6 | 🟡 | C |
 | [Back to Skool disassembly](https://github.com/skoolkid/backtoskool) | A disassembly of Back to Skool, created using SkoolKit. | 6 | 🟢 | Python |
+| [Battlezone disassembly (ZX Spectrum)](https://github.com/pobtastic/battlezone) | A disassembly of Battlezone, created using SkoolKit. | 6 | 🟢 | Visual Basic 6.0 |
 | [Booty disassembly](https://github.com/pobtastic/booty) | A disassembly of Booty, created using SkoolKit. | 6 | 🟢 | Visual Basic 6.0 |
 | [Eric and the Floaters disassembly](https://github.com/Bedazzle/EATF) | Disassembly of Eric and the Floaters (ZX Spectrum) | 6 | 🟢 | Assembly |
 | [Everyone's A Wally disassembly](https://github.com/Ritchie333/wally) | Disassembly of Everyone's A Wally (ZX Spectrum) | 6 | 🟡 | Visual Basic 6.0 |
@@ -2795,7 +2796,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Technician Ted disassembly](https://github.com/Ritchie333/chipfact) | Annotated disassembly of Technician Ted (ZX Spectrum, 1984) | 6 | 🔴 | Visual Basic 6.0 |
 | [Wanted: Monty Mole disassembly](https://github.com/Ritchie333/monty) | Disassembly of Wanted: Monty Mole (ZX Spectrum, 1984) | 6 | 🔴 | Visual Basic 6.0 |
 | [Antarctic Adventure disassembly](https://github.com/antxiko/AntarcticAdventure-disassembly) | Commented byte-exact disassembly of Antarctic Adventure (MSX) | 5 | 🟢 | Assembly |
-| [Battlezone disassembly (ZX Spectrum)](https://github.com/pobtastic/battlezone) | A disassembly of Battlezone, created using SkoolKit. | 5 | 🟢 | Visual Basic 6.0 |
 | [Colt 36 disassembly](https://github.com/antxiko/Colt36-disassembly) | Commented byte-exact disassembly of Colt 36 (MSX) | 5 | 🟢 | Assembly |
 | [dungeons-of-avalon](https://github.com/tetracorp/dungeons-of-avalon) | Disassembly and analysis of Dungeons of Avalon (Amiga, 1991) | 5 | 🟢 | HTML |
 | [Hunchback disassembly](https://github.com/Ritchie333/hunch) | Disassembly of Hunchback (ZX Spectrum) | 5 | 🔴 | Visual Basic 6.0 |
@@ -2943,6 +2943,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Extra Bases disassembly](https://github.com/astrocadester/ExtraBases) | Disassembly of Extra Bases (Bally Astrocade) | 1 | 🟢 | Assembly |
 | [Green Beret disassembly](https://github.com/1888games/GreenBeretC16) | Disassembly of Green Beret (Commodore 16) | 1 | 🟡 | Assembly |
 | [Heartlight disassembly](https://github.com/Quaerendir/Heartlight) | Disassembly of Heartlight (Atari 8-bit, 1990) | 1 | 🟢 | Python |
+| [Karateka disassembly](https://github.com/gmegidish/karateka-disassembly) | Disassembly of Karateka | 1 | 🟢 | Assembly |
 | [King's Valley 2 disassembly](https://github.com/0xe1f/KingsValley2) | Disassembly of King's Valley 2 (MSX) | 1 | 🟢 | Assembly |
 | [Percy the Potty Pigeon disassembly](https://github.com/pobtastic/percythepottypigeon) | A disassembly of Percy The Potty Pigeon, created using SkoolKit. | 1 | 🟢 | Visual Basic 6.0 |
 | [Rally-X disassembly](https://github.com/ricbit/rallyx) | Full disassembly of Rally-X (MSX) | 1 | 🟢 | Assembly |
@@ -2978,7 +2979,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Indy 500 Disassembly](https://www.qotile.net/minidig/disassembly/indy_500_pass_01.asm) | Disassembly of Indy 500 (Assembly) |  | ⚪ |  |
 | [Jawbreaker Disassembly](https://www.qotile.net/minidig/disassembly/jaw_breaker.asm) | Disassembly of Jawbreaker (Assembly) |  | ⚪ |  |
 | [Kaboom! Disassembly](https://www.qotile.net/minidig/disassembly/kaboom.asm) | Disassembly of Kaboom! (Assembly) |  | ⚪ |  |
-| [Karateka disassembly](https://github.com/gmegidish/karateka-disassembly) | Disassembly of Karateka | 0 | 🟢 | Assembly |
 | [m1-decomp](https://codeberg.org/marathon-speedrun-developers/m1-decomp) | Decompilation of PPC Marathon to compare Aleph One with the original Mac version |  | ⚪ |  |
 | [Maniac Mansion decomp](https://github.com/kernaltrap8/mansiondecomp) | Reverse engineering and decompilation of Maniac Mansion (Enhanced) | 0 | 🟡 |  |
 | [Moonlight Madness disassembly](https://github.com/pobtastic/moonlightmadness) | SkoolKit disassembly of Moonlight Madness (ZX Spectrum) | 0 | 🟢 | Visual Basic 6.0 |
@@ -3002,27 +3002,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Devilution](https://github.com/diasurgical/devilution) | Reverse-engineered Diablo 1 source reconstructed from the original binary | 9,017 | 🟡 | C++ |
-| [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) | PC port of Ocarina of Time built on the OoT decompilation | 5,914 | 🟢 | C |
-| [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Decompilation of 3D Pinball for Windows – Space Cadet (PC, 1995) | 4,774 | 🟡 | C++ |
+| [Devilution](https://github.com/diasurgical/devilution) | Reverse-engineered Diablo 1 source reconstructed from the original binary | 9,018 | 🟡 | C++ |
+| [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) | PC port of Ocarina of Time built on the OoT decompilation | 5,947 | 🟢 | C |
+| [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Decompilation of 3D Pinball for Windows – Space Cadet (PC, 1995) | 4,779 | 🟡 | C++ |
 | [LEGO Island](https://github.com/isledecomp/isle) | Matching decompilation of LEGO Island (PC, 1997) | 3,499 | 🟢 | C++ |
-| [2 Ship 2 Harkinian](https://github.com/2ship2harkinian/2ship2harkinian) | PC port of Majora's Mask built on the MM decompilation | 2,432 | 🟢 | C |
-| [SDLPoP](https://github.com/NagyD/SDLPoP) | An open-source port of Prince of Persia, based on the disassembly of the DOS version. | 1,316 | 🟢 | C |
-| [gta-reversed](https://github.com/gta-reversed/gta-reversed) | Reimplementation of GTA San Andreas 1.0 US via reverse engineering | 1,230 | 🟢 | C++ |
-| [Touhou (PC-98) (ReC98)](https://github.com/nmlgc/ReC98) | Decompilation of Touhou (PC-98) (ReC98) | 885 | 🟢 | Assembly |
-| [Sonic Mania (RSDKModding)](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | Matching decompilation of Sonic Mania and its Retro Engine (RSDKv5) (PC, 2017) | 829 | 🟢 | C |
+| [2 Ship 2 Harkinian](https://github.com/2ship2harkinian/2ship2harkinian) | PC port of Majora's Mask built on the MM decompilation | 2,434 | 🟢 | C |
+| [SDLPoP](https://github.com/NagyD/SDLPoP) | An open-source port of Prince of Persia, based on the disassembly of the DOS version. | 1,315 | 🟢 | C |
+| [gta-reversed](https://github.com/gta-reversed/gta-reversed) | Reimplementation of GTA San Andreas 1.0 US via reverse engineering | 1,233 | 🟢 | C++ |
+| [Touhou (PC-98) (ReC98)](https://github.com/nmlgc/ReC98) | Decompilation of Touhou (PC-98) (ReC98) | 886 | 🟢 | Assembly |
+| [Sonic Mania (RSDKModding)](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | Matching decompilation of Sonic Mania and its Retro Engine (RSDKv5) (PC, 2017) | 830 | 🟢 | C |
 | [nox-decomp (Nox)](https://github.com/opennox/opennox) | Decompilation of Nox (Westwood, 2000) | 647 | 🟢 | C |
 | [Touhou 06: The Embodiment of Scarlet Devil](https://github.com/GensokyoClub/th06) | Matching decompilation of Touhou 06: The Embodiment of Scarlet Devil (PC, 2002) | 630 | 🟢 | C++ |
-| [reVC](https://github.com/mrxenginner/reVC) | Reverse engineered source of GTA Vice City (reVC) | 466 | 🟢 | C++ |
+| [reVC](https://github.com/mrxenginner/reVC) | Reverse engineered source of GTA Vice City (reVC) | 468 | 🟢 | C++ |
 | [Fallout 2 (fallout2-re)](https://github.com/alexbatalov/fallout2-re) | Reverse-engineered source of Fallout 2 (PC, 1998) | 415 | 🟡 | C |
 | [reconstruction-of-zzt](https://github.com/asiekierka/reconstruction-of-zzt) | Reconstructed source code of ZZT | 386 | 🟡 | Pascal |
 | [Deus Ex: Human Revolution (cdcEngine)](https://github.com/rrika/cdcEngineDXHR) | Decompilation of Deus Ex: Human Revolution and its cdcEngine (PC, 2011) | 329 | 🟢 | C++ |
-| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | Matching decompilation of Need for Speed: Most Wanted (PC, 2005) | 251 | 🟢 | C++ |
+| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | Matching decompilation of Need for Speed: Most Wanted (PC, 2005) | 253 | 🟢 | C++ |
 | [re-plants-vs-zombies](https://github.com/Patoke/re-plants-vs-zombies) | Rebuild of Plants vs. Zombies GOTY functionality via reverse engineering | 246 | 🟢 | C++ |
 | [starflight-reverse](https://github.com/s-macke/starflight-reverse) | Reverse-engineered Forth source of the 1986 DOS game Starflight | 244 | 🟢 | C |
-| [D2MOO](https://github.com/ThePhrozenKeep/D2MOO) | Reimplementation of Diablo II game code with patching facilities for modders | 203 | 🟢 | C++ |
+| [D2MOO](https://github.com/ThePhrozenKeep/D2MOO) | Reimplementation of Diablo II game code with patching facilities for modders | 206 | 🟢 | C++ |
 | [Crimsonland](https://github.com/banteg/crimson) | Matching decompilation of Crimsonland (PC, 2003) | 199 | 🟢 | Python |
-| [resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp) | Decompilation of the Resident Evil 1 PC port | 191 | 🟢 | C++ |
+| [resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp) | Decompilation of the Resident Evil 1 PC port | 193 | 🟢 | C++ |
 | [fallout1-re](https://github.com/alexbatalov/fallout1-re) | Reverse engineered source of Fallout 1 | 180 | 🔴 | C |
 | [Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift) | Open source reimplementation of Red Alert in C++ | 175 | 🗄️ | C++ |
 | [Command & Conquer: Red Alert 2 (Ares)](https://github.com/Ares-Developers/Ares) | Decompilation of Command & Conquer: Red Alert 2 (PC) | 169 | 🟡 | HTML |
@@ -3031,7 +3031,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SA-MP](https://github.com/dashr9230/SA-MP) | Matching decompilation of San Andreas Multiplayer 0.3.7 | 155 | 🟢 | C |
 | [WorldOfTanks-Decompiled](https://github.com/StranikS-Scan/WorldOfTanks-Decompiled) | Unpacked and decompiled versions of xml- and pyc-files of WorldOfTanks | 154 | 🟢 | Python |
 | [Chinese board game Richman 4 decomp](https://github.com/mytbk/rich4) | Reverse engineering of the Chinese board game Richman 4 (DOS) | 152 | 🟢 | Assembly |
-| [Neverwinter Nights: Enhanced Edition (NWNX:EE unified)](https://github.com/nwnxee/unified) | Decompilation of Neverwinter Nights: Enhanced Edition (PC) | 151 | 🟢 | C++ |
+| [Neverwinter Nights: Enhanced Edition (NWNX:EE unified)](https://github.com/nwnxee/unified) | Decompilation of Neverwinter Nights: Enhanced Edition (PC) | 152 | 🟢 | C++ |
 | [Cosmo's Cosmic Adventure](https://github.com/smitelli/cosmore) | Matching decompilation of Cosmo's Cosmic Adventure (DOS, 1992) | 147 | 🟡 | C |
 | [GD-Decompiled](https://github.com/Wyliemaster/GD-Decompiled) | Attempt to recover Geometry Dash 2.11 source through reverse engineering | 146 | 🗄️ | C++ |
 | [Spider-Man (2000)](https://github.com/krystalgamer/spidey-decomp) | Decompilation of the PC port of Neversoft's Spider-Man (PC, 2000) | 140 | 🟢 | C |
@@ -3044,46 +3044,46 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Tomb Raider III decomp](https://github.com/Trxyebeep/tomb3) | Decompilation of Tomb Raider III (PC) | 119 | 🟡 | C++ |
 | [nolfsrc](https://github.com/nolffan/nolfsrc) | Decompiled source code of No One Lives Forever | 114 | 🟢 | C++ |
 | [The Temple of Elemental Evil (TemplePlus)](https://github.com/GrognardsFromHell/TemplePlus) | Decompilation of The Temple of Elemental Evil (PC) | 111 | 🟢 | C++ |
-| [RBXGSdecomp](https://github.com/RBLXDecomp/RBXGSdecomp) | Decompilation of the November 2007 Roblox client | 109 | 🟢 | C++ |
+| [RBXGSdecomp](https://github.com/RBLXDecomp/RBXGSdecomp) | Decompilation of the November 2007 Roblox client | 110 | 🟢 | C++ |
 | [Magic: The Gathering – Shandalar (Shandalar (patched))](https://github.com/ShandalarMagic/Shandalar) | Decompilation of Magic: The Gathering – Shandalar (PC) | 108 | 🔴 | C |
 | [racers](https://github.com/isledecomp/racers) | Decompilation of LEGO Racers (1999) | 107 | 🟢 | C++ |
+| [YandereSimulatorDecompiled](https://github.com/LordEnma/YandereSimulatorDecompiled) | Decompiled code of the game Yandere Simulator | 106 | 🟢 | C# |
 | [CircleShootApp](https://github.com/alula/CircleShootApp) | Zuma Deluxe 1.0.0 decompilation | 105 | 🟢 | C++ |
-| [YandereSimulatorDecompiled](https://github.com/LordEnma/YandereSimulatorDecompiled) | Decompiled code of the game Yandere Simulator | 105 | 🟢 | C# |
 | [Baldur's Gate: Enhanced Edition (EEex)](https://github.com/Bubb13/EEex) | Decompilation of Baldur's Gate: Enhanced Edition (PC) | 101 | 🟢 | Lua |
 | [Tomb Raider: The Last Revelation decomp](https://github.com/Trxyebeep/TOMB4) | Decompilation of Tomb Raider: The Last Revelation (PC) | 99 | 🟡 | C++ |
 | [Command & Conquer: Tiberian Sun (Vinifera)](https://github.com/Vinifera-Developers/Vinifera) | Decompilation of Command & Conquer: Tiberian Sun (PC) | 98 | 🟢 | C++ |
 | [Vermintide-2-Source-Code](https://github.com/Aussiemon/Vermintide-2-Source-Code) | Decompiled LuaJIT game scripts of Warhammer: Vermintide 2 (PC) | 98 | 🟢 | Lua |
 | [Tomb Raider Chronicles decomp](https://github.com/Trxyebeep/TOMB5) | Decompilation of Tomb Raider Chronicles (PC) | 97 | 🟡 | C++ |
 | [msgi](https://github.com/MrSapps/msgi) | Metal Gear Solid Integral PC reverse engineering | 95 | 🗄️ | C++ |
+| [dx-ball](https://github.com/N0zoM1z0/dx-ball) | Source reconstruction of DX-Ball 1.07 verified against the original binary | 94 | 🟢 | Python |
 | [dangerous-dave-re](https://github.com/gmegidish/dangerous-dave-re) | Reverse engineering of Dangerous Dave in the Haunted Mansion | 91 | 🔴 | Python |
 | [iwd2-re](https://github.com/alexbatalov/iwd2-re) | Reverse engineered source of Icewind Dale 2 | 90 | 🟡 | C++ |
-| [dx-ball](https://github.com/N0zoM1z0/dx-ball) | Source reconstruction of DX-Ball 1.07 verified against the original binary | 89 | 🟢 | Python |
 | [OpenLRR](https://github.com/trigger-segfault/OpenLRR) | Open source reimplementation of LEGO Rock Raiders | 88 | 🟡 | C++ |
+| [StardewValleyDecompiled](https://github.com/Dannode36/StardewValleyDecompiled) | Stardew Valley 1.6 decompiled to .NET 6 | 88 | 🟡 | C# |
 | [Star Wars Episode I: Racer](https://github.com/tim-tim707/SW_RACER_RE) | Matching decompilation of Star Wars Episode I: Racer (PC, 1999) | 87 | 🟢 | C |
-| [StardewValleyDecompiled](https://github.com/Dannode36/StardewValleyDecompiled) | Stardew Valley 1.6 decompiled to .NET 6 | 87 | 🟡 | C# |
 | [Stronghold Crusader (Unofficial Crusader Patch)](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch) | Decompilation of Stronghold Crusader (PC) | 87 | 🟢 |  |
 | [chocolatekeen](https://github.com/jamesfmackenzie/chocolatekeen) | Reverse engineered Commander Keen in C/C++ and SDL | 84 | 🟢 | C |
-| [saga](https://github.com/opensagadev/saga) | Matching decompilation of LEGO Star Wars: The Complete Saga | 76 | 🟢 | C++ |
+| [saga](https://github.com/opensagadev/saga) | Matching decompilation of LEGO Star Wars: The Complete Saga | 77 | 🟢 | C++ |
+| [gdp](https://github.com/camila314/gdp) | Decompilations of Geometry Dash physics functions | 74 | 🟡 | C++ |
 | [re47](https://github.com/0danny/re47) | Hitman: Codename 47 decompilation project (archived) | 74 | 🗄️ | C++ |
 | [ReHitman](https://github.com/ReGlacier/ReHitman) | Hitman Codename 47 reverse engineering project | 74 | 🟢 | C++ |
-| [gdp](https://github.com/camila314/gdp) | Decompilations of Geometry Dash physics functions | 73 | 🟡 | C++ |
-| [Jones3D engine of Indiana Jones and the Infernal Machine decomp](https://github.com/smlu/OpenJones3D) | Reverse engineering of the Jones3D engine of Indiana Jones and the Infernal Machine (PC) | 72 | 🟢 | C |
+| [Jones3D engine of Indiana Jones and the Infernal Machine decomp](https://github.com/smlu/OpenJones3D) | Reverse engineering of the Jones3D engine of Indiana Jones and the Infernal Machine (PC) | 73 | 🟢 | C |
 | [TR2X](https://github.com/LostArtefacts/TR2X) | Decompilation project for Tomb Raider II (1997) | 72 | 🗄️ | C |
 | [SkiFree](https://github.com/yuv422/skifree_decomp) | Matching decompilation of SkiFree (PC, 1991) | 71 | 🔴 | Assembly |
 | [Curse of the Azure Bonds decomp](https://github.com/simeonpilgrim/coab) | Reverse-engineered source of Curse of the Azure Bonds (DOS) converted to C# | 70 | 🟡 | C |
 | [DokiDoki-Decompile](https://github.com/judge2020/DokiDoki-Decompile) | Decompiled Ren'Py scripts of Doki Doki Literature Club (PC) | 66 | 🗄️ | Ren'Py |
-| [half-life1_win32_722](https://github.com/ScriptedSnark/half-life1_win32_722) | Reverse-engineered source of Half-Life 1 Net Test 1 (build 722) | 64 | 🟢 | C |
+| [half-life1_win32_722](https://github.com/ScriptedSnark/half-life1_win32_722) | Reverse-engineered source of Half-Life 1 Net Test 1 (build 722) | 66 | 🟢 | C |
+| [Space Rangers HD: A War Apart](https://github.com/pakompom/SpaceRangersHD_decomp) | Matching decompilation of Space Rangers HD: A War Apart (PC, 2013) | 64 | 🟢 | Pascal |
 | [LEGO1.DLL disassembly](https://github.com/itsmattkc/LEGO1Disassemble) | Machine-automated compilable disassembly of LEGO1.DLL from LEGO Island (PC) | 63 | 🗄️ | C++ |
-| [Space Rangers HD: A War Apart](https://github.com/pakompom/SpaceRangersHD_decomp) | Matching decompilation of Space Rangers HD: A War Apart (PC, 2013) | 63 | 🟢 | Pascal |
 | [th07](https://github.com/some100/th07) | Decompilation of Touhou 7 Perfect Cherry Blossom 1.00b | 63 | 🟢 | C++ |
 | [bookstory-en](https://github.com/xraymemory/bookstory-en) | Decompilation and English translation of the game BookStory | 61 | 🔴 | VBA |
+| [Carmageddon II: Carpocalypse Now decomp](https://github.com/dethrace-labs/rec2) | Reverse engineering of Carmageddon II: Carpocalypse Now (PC) | 59 | 🟢 | C |
 | [classic DOS game Digger decomp](https://github.com/sobomax/digger) | Digger Remastered, a source reconstruction of the classic DOS game Digger | 59 | 🟢 | C |
 | [BldMystery](https://github.com/smartblade/BldMystery) | Source code recovery of Severance: Blade of Darkness | 58 | 🟢 | Assembly |
-| [Carmageddon II: Carpocalypse Now decomp](https://github.com/dethrace-labs/rec2) | Reverse engineering of Carmageddon II: Carpocalypse Now (PC) | 58 | 🟢 | C |
+| [Freelancer-Decomp](https://github.com/FreelancerDecomp/Freelancer-Decomp) | Source code of Freelancer (2003) restored from the original binaries | 58 | 🟢 | C++ |
 | [Thunderball](https://github.com/teampopwork/Thunderball) | Decompilation of Peggle Deluxe 1.01 | 57 | 🟢 | C++ |
 | [RimWorld alpha builds made decomp](https://github.com/josh-m/RW-Decompile) | Decompiled source of RimWorld alpha builds made with ILSpy (PC) | 56 | 🔴 | C# |
 | [th08](https://github.com/N0zoM1z0/th08) | Source reconstruction of Touhou 8 Imperishable Night | 55 | 🟢 | C++ |
-| [Freelancer-Decomp](https://github.com/FreelancerDecomp/Freelancer-Decomp) | Source code of Freelancer (2003) restored from the original binaries | 54 | 🟢 | C++ |
 | [byte-tactics](https://github.com/HectorBailey/byte-tactics) | Matching decompilation of Total Annihilation | 53 | 🟢 | C++ |
 | [Buckshot Roulette](https://github.com/uncreativeCultist/buckshot-decomp-public) | Decompilation of Buckshot Roulette (PC, 2023) | 52 | 🟡 | GDScript |
 | [FEZ 1.0.6 decomp](https://github.com/dptug/FEZ) | Decompiled source code of FEZ 1.0.6 (PC) | 52 | 🔴 | C# |
@@ -3091,17 +3091,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ballanced](https://github.com/doyaGu/Ballanced) | Reversed source code of the game Ballance | 49 | 🟢 | CMake |
 | [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos) | Matching decompilation of Battlefield 2 and Battlefield 2142 (PC, 2005) | 49 | 🟢 | C++ |
 | [FlatOut 2](https://github.com/ZackWilde27/FlatOut-2-decomp) | Decompilation of FlatOut 2 (PC, 2006) | 49 | 🟡 | C |
+| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | Matching decompilation of Mafia: The City of Lost Heaven (PC, 2002) | 46 | 🟢 | C++ |
 | [Super ZZT decomp](https://github.com/asiekierka/reconstruction-of-super-zzt) | Source reconstruction of Super ZZT (DOS) | 46 | 🟡 | Pascal |
 | [Age of Wonders (aow-patch)](https://github.com/int19h/aow-patch) | Decompilation of Age of Wonders (PC) | 45 | 🔴 | C++ |
 | [Celeste_Decompiled](https://github.com/TheCyndaquilDecompilers/Celeste_Decompiled) | Decompiled source of Celeste (XNA build 1.4.0.0) | 45 | 🔴 | C# |
 | [Colin McRae Rally 2.0 (CMR2Decomp)](https://github.com/CMR2Decomp/CMR2Decomp) | Matching decompilation of Colin McRae Rally 2.0 (PC, 2000) | 45 | 🟢 | HTML |
-| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | Matching decompilation of Mafia: The City of Lost Heaven (PC, 2002) | 45 | 🟢 | C++ |
+| [Diablo II decomp](https://github.com/psi29a/d2decomped) | Decompilation of Diablo II (PC) | 45 | 🟢 | C++ |
 | [Source-2-Decompiler](https://github.com/Dingf/Source-2-Decompiler) | Decompiler for Source 2 file formats | 45 | 🔴 | C++ |
 | [samp-source](https://github.com/Dryxio/samp-source) | Byte-for-byte source rebuild of SA-MP 0.3.7 R5 | 44 | 🟢 | C++ |
 | [ShortLine (reSL)](https://github.com/konovalov-aleks/reSL) | Reversed source code of ShortLine v1.1 (DOS) | 44 | 🟢 | C++ |
 | [EoSDecomp](https://github.com/wearrrrr/EoSDecomp) | Byte-accurate decompilation of Touhou 6 Embodiment of Scarlet Devil | 42 | 🟡 | C++ |
 | [SCI-Decompilation-Archive](https://github.com/EricOakford/SCI-Decompilation-Archive) | Collection of decompiled source code for Sierra's SCI games | 42 | 🟡 | Scala |
-| [Diablo II decomp](https://github.com/psi29a/d2decomped) | Decompilation of Diablo II (PC) | 41 | 🟢 | C++ |
 | [SCUMM-Decompilation-Archive](https://github.com/EricOakford/SCUMM-Decompilation-Archive) | Collection of decompiled source code for Lucasfilm's SCUMM games | 41 | 🟡 | C |
 | [Carmageddon (dethrace-ported-to-web)](https://github.com/Carter54git/dethrace-ported-to-web) | Decompilation of Carmageddon (DOS) | 39 | 🟢 | C |
 | [MapleStory GMS v95 client decomp](https://github.com/jon-zu/shroom95-decomp) | Decompilation of the MapleStory GMS v95 client (PC) | 39 | 🟡 | C++ |
@@ -3117,12 +3117,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SADX-cutscene-decompilation](https://github.com/X-Hax/SADX-cutscene-decompilation) | Decompilation of Sonic Adventure DX cutscenes | 31 | 🟡 | C++ |
 | [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08) | Matching decompilation of Touhou 08: Imperishable Night (PC, 2004) | 31 | 🟢 | C++ |
 | [Bullfrog's Tube decomp](https://github.com/rep-stosw/tube-game-dos) | Reverse engineering and decompilation of Bullfrog's Tube (DOS) | 30 | 🔴 | C++ |
+| [Crusader: No Remorse decomp](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | Decompilation of Crusader: No Remorse (DOS) | 30 | 🟢 | C++ |
+| [Sid Meier's Civilization decomp](https://github.com/sjmelia/civd) | Reverse-engineered source code of Sid Meier's Civilization (DOS, 1991) | 30 | 🟢 | C |
 | [Buckshot Roulette decomp](https://github.com/uncreativeCultist/buckshot-decomp-private) | Decompilation of Buckshot Roulette (PC) | 29 | 🟡 | GDScript |
 | [Colin McRae Rally 2.0](https://github.com/pablocpas/CMR2Decomp) | Matching decompilation of Colin McRae Rally 2.0 (PC, 2000) | 29 | 🟢 | C++ |
 | [Deltarune](https://github.com/TeamBlossomDevs/DeltaruneDecomp_beta) | Decompilation of Deltarune (PC, 2018) | 29 | 🟡 | Game Maker Language |
-| [Sid Meier's Civilization decomp](https://github.com/sjmelia/civd) | Reverse-engineered source code of Sid Meier's Civilization (DOS, 1991) | 29 | 🟢 | C |
-| [Crusader: No Remorse decomp](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | Decompilation of Crusader: No Remorse (DOS) | 28 | 🟢 | C++ |
 | [Heroes of Might and Magic III decomp](https://github.com/sushi-shi/homm3-decomp) | Matching decompilation of Heroes of Might and Magic III (PC) | 28 | 🟢 | C++ |
+| [Carmageddon 2 decomp](https://github.com/Link4Electronics/Carpocalypse2) | Decompilation and native port of Carmageddon 2 (PC) | 27 | 🟢 | C |
 | [Dungeon Master II: Skullkeep decomp](https://github.com/gbsphenx/skproject) | Reverse-engineered port of Dungeon Master II: Skullkeep for Windows | 27 | 🟢 | C++ |
 | [Pizza-Tower-EXtracted](https://github.com/setupwitch/Pizza-Tower-EXtracted) | Semi-accurate decompilation of Pizza Tower | 27 | 🟢 | Game Maker Language |
 | [Tube](https://github.com/rep-stosw/tube64) | 64-bit port of the decompiled DOS game Tube (DOS, 1994) | 27 | 🟡 | C++ |
@@ -3131,7 +3132,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Nocturne](https://github.com/NearlyTRex/NocturneDecomp) | Decompilation of Nocturne (PC, 1999) | 25 | 🟢 | Assembly |
 | [Sonic & Knuckles Collection disassembly](https://github.com/sonicretro/skc_disasm) | Disassembly of Sonic & Knuckles Collection (PC) | 25 | 🔴 | Batchfile |
 | [Alien vs. Predator 2](https://github.com/lemiur/AVP2-Reconstructed) | Matching decompilation of Alien vs. Predator 2 (PC, 2001) | 24 | 🟢 | C++ |
-| [Carmageddon 2 decomp](https://github.com/Link4Electronics/Carpocalypse2) | Decompilation and native port of Carmageddon 2 (PC) | 24 | 🟢 | C |
 | [Sonic Dream Team](https://github.com/dev-camo/project-lucid) | Decompilation of Sonic Dream Team (Mac) | 24 | 🟢 | C# |
 | [Tomb Raider: Legend (cdcEngine)](https://github.com/TheIndra55/cdcEngine) | Decompilation of Tomb Raider: Legend (PC, 2006) | 24 | 🟡 | C++ |
 | [Chip's Challenge disassembly](https://github.com/magical/CHIPS.EXE) | Disassembly of Chip's Challenge for Windows (1992) | 23 | 🔴 | Assembly |
@@ -3142,28 +3142,28 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Sheep decomp](https://github.com/SDW-Community/sdw-decomp) | Byte-matching decompilation of Sheep, Dog 'n' Wolf (PC, 2001) | 23 | 🟢 | C++ |
 | [Stunts decomp](https://github.com/4d-stunts/restunts) | Reverse engineering of Stunts (DOS) into reassemblable source | 23 | 🟢 | Assembly |
 | [bl-decompiled](https://github.com/Elletra/bl-decompiled) | Decompiled default TorqueScript files of Blockland (PC) | 22 | 🟡 | C# |
+| [psychonauts-decomp](https://github.com/DrDecki/psychonauts-decomp) | Decompilation project for Psychonauts | 22 | 🟢 | C |
 | [2.0.7 client decomp](https://github.com/xrip/uo-client) | Ultima Online T2A client recreated from a decompilation of the 2.0.7 client (PC) | 21 | 🟢 | C++ |
 | [BBTools](https://github.com/JonMagon/BBTools) | Disassembly analysis and collection of tools for Beasts and Bumpkins (1997) | 21 | 🟢 | C++ |
 | [Indiana Jones and the Infernal Machine decomp](https://github.com/andrewspode/infernal-machine-decomp-public) | Byte-matched decompilation of Indiana Jones and the Infernal Machine (PC) | 21 | 🟢 | C |
-| [psychonauts-decomp](https://github.com/DrDecki/psychonauts-decomp) | Decompilation project for Psychonauts | 21 | 🟢 | C |
 | [Restunts](https://github.com/xor2003/restunts) | Reverse-engineered source of Stunts (4D Sports Driving) for DOS | 21 | 🔴 | Assembly |
 | [Sonic CD disassembly](https://github.com/sonicretro/scdpc_disasm) | Disassembly of Sonic CD (PC) | 21 | 🔴 | C# |
 | [Bugs Bunny: Lost in Time](https://github.com/quantumdude836/BugsDecomp) | Matching decompilation of Bugs Bunny: Lost in Time (PC, 1999) | 20 | 🟡 | C |
 | [Cave-Story-Decompilation](https://github.com/GabrielRavier/Cave-Story-Decompilation) | Decompilation of Cave Story | 20 | 🗄️ | Assembly |
+| [Civilization II decomp](https://github.com/richardpenman/civ2) | Decompilation of Civilization II (PC) | 20 | 🟢 | C |
 | [Ikachan 1.5.2 decomp](https://github.com/cuckydev/Ikachan) | Decompilation of Ikachan 1.5.2 (PC) | 20 | 🔴 | C++ |
 | [Syndicate (SyndicatFX)](https://github.com/swfans/syndicatfx) | Disassembly of Syndicate (DOS) | 20 | 🟢 | C |
-| [Civilization II decomp](https://github.com/richardpenman/civ2) | Decompilation of Civilization II (PC) | 19 | 🟢 | C |
 | [Disney's Toontown Online decomp](https://github.com/open-toontown/toontown-online-2013-decompiled) | Reverse-engineered client and server source of Disney's Toontown Online (2013) | 19 | 🗄️ | Python |
 | [Fallout Tactics: Brotherhood of Steel (FTSE)](https://github.com/melindil/FTSE) | Decompilation of Fallout Tactics: Brotherhood of Steel (PC) | 19 | 🟢 | C++ |
 | [MicroProse's Magic: The Gathering decomp](https://github.com/benprew/microprose-shandalar-source) | Decompilation of MicroProse's Magic: The Gathering (Shandalar) | 19 | 🟢 | C |
 | [Space Rangers](https://github.com/pakompom/SpaceRangers1_decomp) | Matching decompilation of Space Rangers (PC, 2002) | 19 | 🟢 | Pascal |
 | [th105](https://github.com/N0zoM1z0/th105) | Source reconstruction of Touhou Scarlet Weather Rhapsody 1.06a | 18 | 🟢 | C++ |
 | [FableDecomp](https://github.com/BuffJesus/FableDecomp) | Reconstruction of Fable: The Lost Chapters for 32-bit Windows | 17 | 🟢 | C++ |
+| [LEGO Rock Raiders decomp](https://github.com/ProjectReversio/LegoRockRaiders) | Reverse engineering of LEGO Rock Raiders (PC) | 17 | 🟢 | C |
 | [Zuma Deluxe (ZumaTAS)](https://github.com/9933fa/Zuma-Deluxe-TAS) | Decompilation of Zuma Deluxe (PC) | 17 | 🟢 | JavaScript |
 | [Bio Menace](https://github.com/lethal-guitar/BioMenaceDecomp) | Matching decompilation of Bio Menace (DOS, 1993) | 16 | 🟡 | C |
 | [Bloons TD 5](https://github.com/NKHook/BTD5-Decomp) | Matching decompilation of Bloons TD 5 (PC, 2011) | 16 | 🟡 | C++ |
 | [FlatOut: Ultimate Carnage](https://github.com/ZackWilde27/FlatOut-UC-Decomp) | Decompilation of FlatOut: Ultimate Carnage (PC, 2008) | 16 | 🟡 | C++ |
-| [LEGO Rock Raiders decomp](https://github.com/ProjectReversio/LegoRockRaiders) | Reverse engineering of LEGO Rock Raiders (PC) | 16 | 🟢 | C |
 | [Mortal Kombat 4 decomp](https://github.com/nathan-casabieille/mk4decomp) | Decompilation of Mortal Kombat 4 (PC, 1998) | 16 | 🟢 | C |
 | [Final Fantasy XIV 1.23b Windows client decomp](https://github.com/swstegall/meteor-decomp) | Clean-room decompilation of the Final Fantasy XIV 1.23b Windows client | 15 | 🟢 | C++ |
 | [Objects in Space decomp](https://github.com/Voidless7125/OIS-Decompile) | Decompilation of Objects in Space (PC) | 15 | 🟢 | C |
@@ -3184,6 +3184,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Touhou 8: Imperishable Night (th08-web)](https://github.com/N0zoM1z0/th08-web) | Decompilation of Touhou 8: Imperishable Night (PC) | 13 | 🟢 | C++ |
 | [Arc System Works' Team Red battle engine decomp](https://github.com/WistfulHopes/REDEngine) | Decompilation of Arc System Works' Team Red battle engine (PC) | 12 | 🔴 | C++ |
 | [Happy Wheels](https://github.com/Afterflash/HappyWheels) | Decompilation of Happy Wheels (Flash, 2010) | 12 | 🟡 | ActionScript |
+| [MechWarrior 2 decomp](https://github.com/anpage/demech2) | Decompilation of MechWarrior 2 (Windows 95, 1996) | 12 | 🟢 | C |
 | [Purble Place (PurblePlaceDecomp)](https://github.com/simontime/PurblePlaceDecomp) | Decompilation of Purble Place (PC) | 12 | 🔴 | C++ |
 | [Sonic Mania (Sonic-Mania-Decompilation)](https://github.com/DropSonic0/Sonic-Mania-Decompilation) | Decompilation of Sonic Mania (PC) | 12 | 🟢 | C |
 | [Undertale Yellow](https://github.com/burnedpopcorn/UnderTale-Yellow-Decompilation) | Decompilation of Undertale Yellow v1.2.1 (PC, 2023) | 12 | 🟡 | Game Maker Language |
@@ -3192,7 +3193,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Duke1Decomp](https://github.com/lethal-guitar/Duke1Decomp) | Decompiled and reconstructed source snippets of Duke Nukem 1 (DOS) | 11 | 🟡 | Assembly |
 | [GDDecompProject](https://github.com/melowody/GDDecompProject) | Decompilation project for Geometry Dash (PC) | 11 | 🔴 | C++ |
 | [Legoland](https://github.com/marijnvdwerf/legoland) | Matching decompilation of Legoland (PC, 1999) | 11 | 🟢 | C |
-| [MechWarrior 2 decomp](https://github.com/anpage/demech2) | Decompilation of MechWarrior 2 (Windows 95, 1996) | 11 | 🟢 | C |
 | [Snail Mail](https://github.com/banteg/snail) | Matching decompilation of Snail Mail (PC) | 11 | 🟢 | C |
 | [The King of Fighters XIV decomp](https://github.com/WistfulHopes/KOFXIVDecomp) | Decompilation of The King of Fighters XIV (PC) | 11 | 🔴 | C++ |
 | [Bloodborne PSX (BBPSX-Decompilation)](https://github.com/SonyEntertainmentNetwork/BBPSX-Decompilation) | Decompilation of Bloodborne PSX, Lilith Walther's demake of Bloodborne (PC) | 10 | 🔴 |  |
@@ -3208,26 +3208,27 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [PangYa decomp](https://github.com/hsreina/YaPang) | Decompilation of PangYa (PC) | 9 | 🟢 | C++ |
 | [SCP - Containment Breach Multiplayer decomp](https://github.com/juanjp600/SCPCB-Multiplayer-decompiled) | Decompiled Blitz3D source of SCP - Containment Breach Multiplayer (PC) | 9 | 🟢 | BlitzBasic |
 | [Thandor: Die Invasion decomp](https://github.com/idkFoxes/open-thandor) | Decompilation of Thandor: Die Invasion (2000, PC) | 9 | 🟢 | C++ |
+| [Thief: Deadly Shadows](https://github.com/Veradictus/Thief3-Decomp) | Matching decompilation of Thief: Deadly Shadows (PC, 2004) | 9 | 🟢 | C++ |
 | [Ultima V: Warriors of Destiny decomp](https://github.com/wonst719/u5d) | Decompilation of Ultima V: Warriors of Destiny (DOS) | 9 | 🟢 | C |
 | [Vice City Multiplayer 0.3z decomp](https://github.com/dashr9230/VC-MP) | Matching decompilation of Vice City Multiplayer 0.3z (GTA Vice City mod, PC) | 9 | 🟡 | C |
 | [Final Fantasy IV (3D Remake)](https://github.com/GlitchedDeveloper/Babil-Decompilation-Project) | Decompilation of Final Fantasy IV (3D Remake) Steam version (PC, 2014) | 8 | 🟡 | C++ |
+| [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg) | Matching decompilation of LEGO Batman: The Videogame (PC, 2008) | 8 | 🟢 | C++ |
 | [LEGO Creator: Knights' Kingdom](https://github.com/DavidGrice/knightskingdom) | Matching decompilation of LEGO Creator: Knights' Kingdom (PC, 2000) | 8 | 🟢 | JavaScript |
 | [Lemmings Paintball](https://github.com/vonhoff/lemball-decomp) | Matching decompilation of Lemmings Paintball (PC, 1996) | 8 | 🟢 | C++ |
 | [Magic: The Gathering decomp](https://github.com/rlerrr/shandalar-decomp) | Decompilation of Magic: The Gathering (Shandalar, MicroProse) | 8 | 🟢 | C |
 | [Retro Engine v4 revision used decomp](https://github.com/RifiGD/RSDKv4-CD18) | Decompilation of the Retro Engine v4 revision used for Sonic CD (2018) | 8 | 🗄️ | C++ |
+| [Russian BYOND game Neekothing decomp](https://github.com/CryoSpacewalk/neekothing) | Decompiled source of the Russian BYOND game Neekothing | 8 | 🟢 | DM |
 | [Sierra's AGI adventure games decomp](https://github.com/EricOakford/AGI-Decompilation-Archive) | Decompiled source code of Sierra's AGI adventure games | 8 | 🟡 | C |
 | [StarCraft: Brood War 1.16.1 decomp](https://github.com/nicodlz/starcraft-match) | Matching decompilation research for StarCraft: Brood War 1.16.1 (PC) | 8 | 🟢 | C |
 | [th095](https://github.com/N0zoM1z0/th095) | Source reconstruction of Touhou Shoot the Bullet 1.02a | 8 | 🟢 | C++ |
-| [Thief: Deadly Shadows](https://github.com/Veradictus/Thief3-Decomp) | Matching decompilation of Thief: Deadly Shadows (PC, 2004) | 8 | 🟢 | C++ |
 | [Heroes of Might and Magic I decomp](https://github.com/sushi-shi/homm1-decomp) | Matching decompilation of Heroes of Might and Magic I (PC) | 7 | 🟢 | C++ |
-| [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg) | Matching decompilation of LEGO Batman: The Videogame (PC, 2008) | 7 | 🟢 | C++ |
 | [Motocross Madness 2 decomp](https://github.com/andrewboudreau/motocross-madness-2-decomp) | Decompilation of Motocross Madness 2 (PC) | 7 | 🟢 | C++ |
 | [OpenRED](https://github.com/WistfulHopes/OpenRED) | Decompilation and recreation of the Guilty Gear -Strive- battle system (PC) | 7 | 🔴 | C++ |
 | [PvZ-Decomp](https://github.com/lvplay2/PvZ-Decomp) | Original Plants vs. Zombies decompilation (PC) | 7 | 🟡 | C |
-| [Russian BYOND game Neekothing decomp](https://github.com/CryoSpacewalk/neekothing) | Decompiled source of the Russian BYOND game Neekothing | 7 | 🟢 | DM |
 | [SpaceRangersHD_CPP](https://github.com/pakompom/SpaceRangersHD_CPP) | C++ translation of the Space Rangers HD: A War Apart decompilation (PC) | 7 | 🟢 | C++ |
 | [Star Wars Episode I: Racer decomp](https://github.com/DeonPoncini/swep1r_decomp) | Decompilation of Star Wars Episode I: Racer (PC) | 7 | 🟡 | C |
 | [Touhou 10 Mountain of Faith 1.00a decomp](https://github.com/N0zoM1z0/th10) | Source reconstruction of Touhou 10 Mountain of Faith 1.00a (PC) | 7 | 🟢 | Python |
+| [touhou-reverse-engineering](https://github.com/N0zoM1z0/touhou-reverse-engineering) | Reverse engineering notes and runtime experiments for Touhou 8 and Touhou 10 (Windows) | 7 | 🟢 | Python |
 | [TrackMania United Forever physics decomp](https://github.com/Teero888/tmuf_physics) | 1:1 decompilation of the TrackMania United Forever physics (PC) | 7 | 🟢 | C |
 | [Age of Empires II decomp](https://github.com/samuelcaldas/age-of-empires-2-decomp) | Matching decompilation of Age of Empires II (PC and PS2) | 6 | 🟢 | C |
 | [BattleTech: The Crescent Hawk's Inception decomp](https://github.com/Elthial/Reko-Btech) | Decompilation of BattleTech: The Crescent Hawk's Inception (DOS) | 6 | 🔴 | C++ |
@@ -3239,7 +3240,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Supaplex](https://github.com/eigenco/Supaplex) | Disassembly and bug fixes for Supaplex (DOS) | 6 | 🔴 | Assembly |
 | [Touhou 7 Perfect Cherry Blossom 1.00b decomp](https://github.com/N0zoM1z0/th07) | Source reconstruction of Touhou 7 Perfect Cherry Blossom 1.00b (PC) | 6 | 🟢 | C++ |
 | [Touhou 9 Phantasmagoria of Flower View 1.50a decomp](https://github.com/N0zoM1z0/th09) | Source reconstruction of Touhou 9 Phantasmagoria of Flower View 1.50a (PC) | 6 | 🟢 | Python |
-| [touhou-reverse-engineering](https://github.com/N0zoM1z0/touhou-reverse-engineering) | Reverse engineering notes and runtime experiments for Touhou 8 and Touhou 10 (Windows) | 6 | 🟢 | Python |
 | [Vostok engine used decomp](https://github.com/srp-survarium/vostok) | Decompilation of the Vostok engine used by Survarium (PC) | 6 | 🟢 | C++ |
 | [Wizardry 8 decomp](https://github.com/agluszak/wizardry-8-decomp) | Source reconstruction of Wizardry 8 (2001) from the Windows binaries | 6 | 🟢 | C++ |
 | [Wizardry-6-reverse-engineering](https://github.com/martydill/Wizardry-6-reverse-engineering) | Reverse engineering of Wizardry 6: Bane of the Cosmic Forge | 6 | 🟢 | Python |
@@ -3256,6 +3256,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Touhou 12 Undefined Fantastic Object decomp](https://github.com/11NU0/th12-decomp) | Source reconstruction of Touhou 12 Undefined Fantastic Object (th12.exe) | 5 | 🟢 | C |
 | [TrackMania Nations Forever decomp](https://github.com/rockenrooster/TMNationsDecomp) | Clean-room reconstruction and Android port of TrackMania Nations Forever | 5 | 🟢 | C++ |
 | [a Will Rock beta build decomp](https://github.com/player0601/WillRock-Beta-Source-Reconstruction) | Source reconstruction of a Will Rock beta build (PC) | 4 | 🟢 | C++ |
+| [Achtung decomp](https://github.com/SimonAlling/zatacka-decomp) | Matching decompilation of Achtung, die Kurve! (ZATACKA.EXE, DOS) | 4 | 🟢 | C++ |
 | [Adventure Game Studio 2.x engine decomp](https://github.com/adm244/ags2_decomp) | Matching decompilation of the Adventure Game Studio 2.x engine (PC) | 4 | 🟢 | C |
 | [Alley Cat disassembly](https://github.com/gmegidish/alleycat-disassembly) | AI-assisted disassembly of Alley Cat (DOS, 1983) | 4 | 🟢 | Assembly |
 | [Blasterball Revolution 2](https://github.com/KoboDev/BBR2Decompile) | Decompilation of Blasterball Revolution 2 (PC) | 4 | 🟡 |  |
@@ -3263,6 +3264,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Gruntz decomp](https://github.com/sushi-shi/gruntz-decomp) | Matching decompilation of Gruntz (1999, PC) | 4 | 🟢 | C++ |
 | [Guxt v1.0.2.0 decomp](https://github.com/alula/GuxtDecomp) | Decompilation of Guxt v1.0.2.0 by Studio Pixel (PC, 2007) | 4 | 🔴 | C++ |
 | [Habbo Origins decomp](https://github.com/Quackster/habbo_origins_src) | Decompiled launch-day client source of Habbo Origins | 4 | 🗄️ | LiveScript |
+| [Hard Truck 2: King of the Road decomp](https://github.com/KudryavtsevDmitry/ht2-rev) | Source reconstruction and reverse engineering of Hard Truck 2: King of the Road (PC) | 4 | 🟢 | C++ |
+| [HOVER! decomp](https://github.com/Link4Electronics/FlyingDodgem) | Decompilation and native port of HOVER! (Windows) | 4 | 🟢 | C |
 | [Israeli DOS game Socher Hayam decomp](https://github.com/ashdnazg/socher) | Matching decompilation of the Israeli DOS game Socher Hayam | 4 | 🟢 | Pascal |
 | [Karlson decomp](https://github.com/1flxm3/KarlsonDecompiled) | Decompilation of Karlson by Dani (PC) | 4 | 🟢 | C# |
 | [Luxor decomp](https://github.com/HW12Dev/LuxorDecomp) | Decompilation of Luxor (PC) | 4 | 🟢 | C++ |
@@ -3281,19 +3284,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [2009 Portal 2 beta decomp](https://github.com/apersonwhomakesstuff/Portal-2-Beta-Decompilation) | Decompilation of the 2009 Portal 2 beta (PC) | 3 | 🟢 | C++ |
 | [2014 Steam release of Sonic Adventure DX decomp](https://github.com/LuckyLuke00/sadx-decomp) | Matching decompilation of the 2014 Steam release of Sonic Adventure DX | 3 | 🟢 | C |
 | [A2 Racer decomp](https://github.com/xvilo/a2-racer-davilex-decomp) | Decompilation of A2 Racer by Davilex (PC) | 3 | 🟢 | C |
-| [Achtung decomp](https://github.com/SimonAlling/zatacka-decomp) | Matching decompilation of Achtung, die Kurve! (ZATACKA.EXE, DOS) | 3 | 🟢 | C++ |
 | [castle-crashers-decomp](https://github.com/genizy/castle-crashers-decomp) | Decompilation attempt of Castle Crashers (PC) | 3 | 🟡 |  |
 | [cod4map.exe decomp](https://github.com/prd0nja/cod4map) | Source reconstruction of cod4map.exe from the Call of Duty 4 mod tools | 3 | 🟢 | C++ |
 | [Creatures 2](https://github.com/adamcolquhoun/Creatures-2-Decompilation) | Matching decompilation of Creatures 2 (PC, 1998) | 3 | 🟢 |  |
+| [DAGGER.EXE decomp](https://github.com/DecompFall/DAGGER) | Decompilation of DAGGER.EXE from The Elder Scrolls II: Daggerfall (DOS) | 3 | 🟡 |  |
 | [Die Gilde / Europa 1400 decomp](https://github.com/maci0/gilde-decomp) | Decompilation of Die Gilde / Europa 1400 (PC) | 3 | 🟡 | C |
 | [DOMA Days](https://github.com/iestyn129/DOMADays) | Decompilation of the Ren'Py game DOMA Days by Big Blue Bubble (PC) | 3 | 🟡 | Ren'Py |
 | [Fire & Forget II decomp](https://github.com/n0isy/fire-and-forget-2-recomp) | Decompilation and recompilation of Fire & Forget II (DOS, Titus, 1990) | 3 | 🟢 | C |
 | [Ford Racing](https://github.com/dashr9230/Gt2) | Non-matching decompilation of Ford Racing (PC, 2000) | 3 | 🟢 | C |
 | [Fuzzy's World of Miniature Space Golf decomp](https://github.com/mills32/Fuzzy-s-World-of-Miniature-Space-Golf-Decomp) | Decompilation of Fuzzy's World of Miniature Space Golf (DOS) | 3 | 🟢 | C |
-| [Hard Truck 2: King of the Road decomp](https://github.com/KudryavtsevDmitry/ht2-rev) | Source reconstruction and reverse engineering of Hard Truck 2: King of the Road (PC) | 3 | 🟢 | C++ |
 | [Harvest: Massive Encounter](https://github.com/banteg/harvest) | Matching decompilation of Harvest: Massive Encounter (PC, 2008) | 3 | 🟢 | C++ |
 | [Heartbound demo decomp](https://github.com/genizy/Heartbound-Source-Code) | Decompilation of the Heartbound demo (PC) | 3 | 🟡 | Game Maker Language |
-| [HOVER! decomp](https://github.com/Link4Electronics/FlyingDodgem) | Decompilation and native port of HOVER! (Windows) | 3 | 🟢 | C |
 | [Jazz Jackrabbit 2](https://github.com/Mustafa1177/jazzjackrabbit2-decompiled) | Ghidra decompilation project of Jazz Jackrabbit 2: The Secret Files (PC, 1998) | 3 | 🟡 |  |
 | [Jurassic Park: Operation Genesis and the Toshi Engine 1.0 decomp](https://github.com/TekRantGaming/OpenJPOG) | Decompilation of Jurassic Park: Operation Genesis and the Toshi Engine 1.0 (PC) | 3 | 🟢 | C++ |
 | [LineWarsII-DOS](https://github.com/fredangstadt-lang/LineWarsII-DOS) | LineWars II (1994, DOS) reconstructed in C from its shipped binary | 3 | 🟢 | C |
@@ -3321,7 +3322,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ascendancy decomp](https://github.com/coco875/ascendancy-decomp) | Decompilation of Ascendancy (DOS) | 2 | 🟡 | Assembly |
 | [boss code of Sonic Adventure DX decomp](https://github.com/Sora-yx/SADX-Boss-Decompilation) | Decompilation of the boss code of Sonic Adventure DX (PC) | 2 | 🔴 | C++ |
 | [Crazy Cattle 3D decomp](https://github.com/Desyncfy/CrazyCattle3Decomp) | Decompiled source of Crazy Cattle 3D (PC) | 2 | 🟢 | GDScript |
-| [DAGGER.EXE decomp](https://github.com/DecompFall/DAGGER) | Decompilation of DAGGER.EXE from The Elder Scrolls II: Daggerfall (DOS) | 2 | 🟡 |  |
 | [DOS version of Karateka decomp](https://github.com/ergonomy-joe/karateka-decompiled) | Buildable decompiled source of the DOS version of Karateka | 2 | 🟡 | Assembly |
 | [Europa 1400: The Guild server.dll decomp](https://github.com/maci0/guild-rebrew) | Byte-identical C89 reconstruction of Europa 1400: The Guild server.dll (PC) | 2 | 🟢 | C |
 | [Farming Simulator 15 and GIANTS Engine 6 decomp](https://github.com/nat649/fs15-reconstruction) | Decompilation and reconstruction of Farming Simulator 15 and GIANTS Engine 6 (PC) | 2 | 🟢 | C++ |
@@ -3442,23 +3442,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | Matching decompilation of Castlevania: Symphony of the Night (PlayStation, 1997) | 1,236 | 🟢 | C |
+| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | Matching decompilation of Castlevania: Symphony of the Night (PlayStation, 1997) | 1,240 | 🟢 | C |
 | [Silent Hill](https://github.com/shdecompilations/silent-hill-decomp) | Matching decompilation of Silent Hill (PlayStation, 1999) | 965 | 🟢 | C |
-| [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing) | Reimplementation of Metal Gear Solid (PlayStation, 1998) | 828 | 🟢 | C |
-| [Crash Team Racing (CTR-ModSDK)](https://github.com/CTR-tools/CTR-ModSDK) | Mod SDK and decompilation of Crash Team Racing (PlayStation, 1999) | 456 | 🟢 | C |
+| [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing) | Reimplementation of Metal Gear Solid (PlayStation, 1998) | 829 | 🟢 | C |
+| [Crash Team Racing (CTR-ModSDK)](https://github.com/CTR-tools/CTR-ModSDK) | Mod SDK and decompilation of Crash Team Racing (PlayStation, 1999) | 457 | 🟢 | C |
 | [Vagrant Story](https://github.com/ser-pounce/rood-reverse) | Matching decompilation of Vagrant Story (PlayStation, 2000) | 194 | 🟢 | C |
-| [Final Fantasy VII](https://github.com/Xeeynamo/ff7-decomp) | Matching decompilation of Final Fantasy VII (PlayStation, 1997) | 182 | 🟢 | C |
-| [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) | Matching decompilation of Spyro the Dragon (PlayStation, 1998) | 182 | 🟢 | C |
+| [Final Fantasy VII](https://github.com/Xeeynamo/ff7-decomp) | Matching decompilation of Final Fantasy VII (PlayStation, 1997) | 183 | 🟢 | C |
+| [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) | Matching decompilation of Spyro the Dragon (PlayStation, 1998) | 183 | 🟢 | C |
 | [PSX Doom (PSXDOOM-RE)](https://github.com/Erick194/PSXDOOM-RE) | Decompilation of PSX Doom (PSXDOOM-RE) | 163 | 🟡 | C |
-| [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled) | Decompilation of Serial Experiments Lain | 152 | 🟢 | C |
+| [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled) | Decompilation of Serial Experiments Lain | 154 | 🟢 | C |
 | [Xenogears](https://github.com/ladysilverberg/xenogears-decomp) | Matching decompilation of Xenogears (PlayStation, 1998) | 126 | 🗄️ | C |
 | [Crash Bandicoot 2: Cortex Strikes Back](https://github.com/ughman/c2c) | Matching decompilation of Crash Bandicoot 2: Cortex Strikes Back (PlayStation, 1997) | 95 | 🔴 | C |
-| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | Matching decompilation of Brave Fencer Musashi (PlayStation, 1998) | 93 | 🟢 | C |
+| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | Matching decompilation of Brave Fencer Musashi (PlayStation, 1998) | 94 | 🟢 | C |
 | [Digimon World](https://github.com/jype0/dw_decomp) | Matching decompilation of Digimon World (PlayStation, 1999) | 89 | 🟢 | C |
-| [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) | Matching decompilation of Legacy of Kain: Soul Reaver (PlayStation, 1999) | 88 | 🟢 | C |
+| [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) | Matching decompilation of Legacy of Kain: Soul Reaver (PlayStation, 1999) | 89 | 🟢 | C |
 | [mml1](https://github.com/ChrisNonyminus/mml1) | Decompilation of Mega Man Legends for PlayStation | 87 | 🔴 | C |
-| [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) | Matching decompilation of Chrono Cross (PlayStation, 1999) | 81 | 🟢 | C |
-| [Parasite Eve II](https://github.com/GabeRealB/parasite-eve-2-decomp) | Matching decompilation of Parasite Eve II (PlayStation, 1999) | 78 | 🟢 | C |
+| [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) | Matching decompilation of Chrono Cross (PlayStation, 1999) | 82 | 🟢 | C |
+| [Parasite Eve II](https://github.com/GabeRealB/parasite-eve-2-decomp) | Matching decompilation of Parasite Eve II (PlayStation, 1999) | 79 | 🟢 | C |
 | [MediEvil](https://github.com/MediEvilDecompilation/medievil-decomp) | Matching decompilation of MediEvil (PlayStation, 1998) | 73 | 🟢 | C |
 | [Parasite Eve](https://github.com/khasinski/parasite-eve-decomp) | Matching decompilation of Parasite Eve (PlayStation, 1998) | 70 | 🟢 | C |
 | [Final Fantasy VIII](https://github.com/roengstrom/ff8-decomp) | Matching decompilation of Final Fantasy VIII (PlayStation, 1999) | 62 | 🟢 | C |
@@ -3470,19 +3470,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Legend of Mana](https://github.com/celophi/lom-decomp) | Matching decompilation of Legend of Mana (PlayStation, 1999) | 48 | 🟢 | C |
 | [Digimon World 3 (ddw3)](https://github.com/markisha64/ddw3) | Matching decompilation of Digimon World 3 (PlayStation, 2002) | 46 | 🟢 | Assembly |
 | [ffvii](https://github.com/Drahsid/ffvii) | In-progress matching decompilation of Final Fantasy VII (PSX) | 43 | 🗄️ | C |
-| [Gran Turismo 2 decomp](https://github.com/ginryuoku/gt2-reversing) | Reverse engineering of Gran Turismo 2 (PS1) | 42 | 🟡 | C |
+| [Gran Turismo 2 decomp](https://github.com/ginryuoku/gt2-reversing) | Reverse engineering of Gran Turismo 2 (PS1) | 43 | 🟡 | C |
 | [PlayStation Final Doom decomp](https://github.com/Erick194/PSXFINALDOOM-RE) | Reverse engineering of PlayStation Final Doom by GEC | 41 | 🟡 | C |
 | [Croc: Legend of the Gobbos](https://github.com/Xeeynamo/croc) | Matching decompilation of Croc: Legend of the Gobbos (PlayStation, 1997) | 40 | 🟡 | C |
-| [Mega Man X4](https://github.com/sozud/mmx4) | Matching decompilation of Mega Man X4 (PlayStation, 1997) | 39 | 🟢 | C |
+| [Mega Man X4](https://github.com/sozud/mmx4) | Matching decompilation of Mega Man X4 (PlayStation, 1997) | 38 | 🟢 | C |
 | [PaRappaSource](https://github.com/cuckydev/PaRappaSource) | PaRappa the Rapper decompilation | 34 | 🔴 | C |
 | [Brightis-fan-translation](https://github.com/Dickdebonair/Brightis-fan-translation) | Decompilation and fan translation of the PSX game Brightis | 33 | 🟢 | Assembly |
+| [fft_decomp](https://github.com/adamrt/fft_decomp) | Decompilation of Final Fantasy Tactics (PlayStation, NA) | 33 | 🟢 | C |
 | [Rage Racer](https://github.com/khasinski/rage-racer-decomp) | Matching decompilation of Rage Racer (PlayStation, 1996) | 33 | 🟢 | C |
-| [fft_decomp](https://github.com/adamrt/fft_decomp) | Decompilation of Final Fantasy Tactics (PlayStation, NA) | 32 | 🟢 | C |
 | [Final Fantasy VII decomp](https://github.com/ergonomy-joe/ff7-worldmap) | Decompiled world map engine of Final Fantasy VII (PS1) | 31 | 🟡 | C++ |
 | [PS1 Psy-Q SDK Libraries](https://github.com/sozud/psy-q-decomp) | Decompilation of PS1 Psy-Q SDK Libraries | 31 | 🟢 | C |
 | [Vandal Hearts](https://github.com/shao113/vh) | Matching decompilation of Vandal Hearts (PlayStation, 1996) | 31 | 🟡 | C |
-| [spyro-3](https://github.com/TheMobyCollective/spyro-3) | Spyro: Year of the Dragon decompilation project | 29 | 🟢 | Assembly |
-| [dw2003recomp](https://github.com/gascarcella/dw2003recomp) | Decompilation of Digimon World 2003 (PS1, EU) with reference tests; PC port in progress | 28 | 🟢 | C |
+| [spyro-3](https://github.com/TheMobyCollective/spyro-3) | Spyro: Year of the Dragon decompilation project | 30 | 🟢 | Assembly |
+| [dw2003recomp](https://github.com/gascarcella/dw2003recomp) | Decompilation of Digimon World 2003 (PS1, EU) with reference tests; PC port in progress | 29 | 🟢 | C |
 | [q-gears_reverse](https://github.com/Akari1982/q-gears_reverse) | Reverse-engineered code and data of Final Fantasy VII and Xenogears (PS1) | 28 | 🟢 | Assembly |
 | [Tomba!](https://github.com/hansbonini/psx_tomba) | Decompilation of Tomba! | 28 | 🟢 | C |
 | [Twisted Metal](https://github.com/OpenTrac/tm1_Re-Arc) | Matching decompilation of Twisted Metal (PlayStation, 1995) | 28 | 🟢 | C |
@@ -3499,22 +3499,24 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Evo's Space Adventures](https://github.com/mkst/esa) | Matching decompilation of Evo's Space Adventures (PlayStation, 1999) | 14 | 🟢 | C |
 | [Megami Ibunroku Persona](https://github.com/daanhenke/persona-psx) | Decompilation of Megami Ibunroku Persona | 14 | 🟢 | C |
 | [Shin Megami Tensei decomp](https://github.com/TheCommandoChicken/smt-decomp) | Decompilation of Shin Megami Tensei (PS1) | 14 | 🗄️ | C |
+| [Spyro 2: Ripto's Rage decomp](https://github.com/TheMobyCollective/spyro-2) | Decompilation of Spyro 2: Ripto's Rage (PS1) | 14 | 🟢 | Assembly |
 | [Xenogears decomp](https://github.com/Blizz127/xenogears-decomp-port) | Decompilation and port of Xenogears (PS1) | 14 | 🟢 | C |
 | [Yu-Gi-Oh! Forbidden Memories decomp](https://github.com/krystalgamer/memories-decomp) | Decompilation of Yu-Gi-Oh! Forbidden Memories (PS1) | 14 | 🟢 | C |
 | [ff7-coaster](https://github.com/ergonomy-joe/ff7-coaster) | Decompiled code of the Final Fantasy VII Jet Coaster minigame (PS1) | 13 | 🟡 | C++ |
-| [Spyro 2: Ripto's Rage decomp](https://github.com/TheMobyCollective/spyro-2) | Decompilation of Spyro 2: Ripto's Rage (PS1) | 13 | 🟢 | Assembly |
 | [Parasite Eve decomp](https://github.com/Blizz127/parasite-eve-decomp-port) | Decompilation and Linux/Windows port of Parasite Eve (PS1) | 12 | 🟢 | C |
 | [Spyro the Dragon decomp](https://github.com/C0mposer/spyro1-reverse-engineering) | Reverse engineering of Spyro the Dragon (PS1) | 12 | 🟡 | C |
 | [Brave Fencer Musashi decomp](https://github.com/Blizz127/Brave-Fencer-Musashi-decomp-port) | Decompilation and port of Brave Fencer Musashi (PS1) | 11 | 🟢 | C |
 | [Digimon World (solidheron)](https://github.com/solidheron/Digimon_World_1_decompolation) | Matching decompilation of Digimon World (PlayStation, 1999) | 11 | 🟡 | C |
+| [Harvest Moon: Back to Nature decomp](https://github.com/beruanglaut-com/backtonature-decompiled) | Decompiled source of Harvest Moon: Back to Nature (PS1, SLUS-01115) | 11 | 🟢 | C |
 | [Legacy of Kain: Soul Reaver disassembly](https://github.com/MicroTransactionsMatterToo/Kain-Disassembly) | Disassembly of Legacy of Kain: Soul Reaver (PS1) | 11 | 🔴 | C |
 | [Ace Combat 3: Electrosphere decomp](https://github.com/vzepec/ac3-decomp) | Reverse engineering and decompilation of Ace Combat 3: Electrosphere (PS1) | 10 | 🟢 | C |
 | [Alien Trilogy decomp](https://github.com/lemiur/alien-trilogy-decomp) | Matching decompilation of Alien Trilogy (PS1, SLUS-00007) | 10 | 🟢 | C |
 | [Armored Core](https://github.com/Wyrelade/Armored-Core-Decomp) | Matching decompilation of Armored Core (PlayStation, 1997) | 10 | 🟢 | C |
 | [Azure Dreams](https://github.com/forestbelton/azure) | Matching decompilation of Azure Dreams (PlayStation, 1997) | 10 | 🟢 | C |
-| [Harvest Moon: Back to Nature decomp](https://github.com/beruanglaut-com/backtonature-decompiled) | Decompiled source of Harvest Moon: Back to Nature (PS1, SLUS-01115) | 10 | 🟢 | C |
 | [Pop'n Music](https://github.com/Erizur/slpm86183) | Matching decompilation of Pop'n Music (PlayStation, 1999) | 9 | 🟢 | C |
 | [Resident Evil: Director's Cut Dual Shock Ver. decomp](https://github.com/ThePerfectVale/Resident-Evil-Directors-Cut-Dualshock-Decompilation) | Decompilation of Resident Evil: Director's Cut Dual Shock Ver. (PS1) | 9 | 🟢 | C |
+| [Final Fantasy IX decomp](https://github.com/maurizi/ff9-decomp) | Matching decompilation of Final Fantasy IX (PS1, NTSC-U) | 8 | 🟢 | C |
+| [Kula World decomp](https://github.com/dezgeg/kula-world-decomp) | Decompilation of Kula World (PS1) | 8 | 🟢 | C |
 | [LSD: Dream Emulator decomp](https://github.com/cawfee/lsd_decompiled) | Decompilation of LSD: Dream Emulator (PlayStation) | 8 | 🟢 | C |
 | [Spyro the Dragon decomp](https://github.com/theMagicalKarp/open-spyro) | Decompilation of Spyro the Dragon (PS1, NTSC SCUS-94228) | 8 | 🟢 | Assembly |
 | [Team Buddies decomp](https://github.com/hcbt/tbuddies-decomp) | Matching decompilation of Team Buddies (PS1, SLUS-00869) | 8 | 🟢 | Assembly |
@@ -3522,8 +3524,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Digimon Rumble Arena](https://github.com/ReGame-Labs/dtbe_decomp) | Matching decompilation of Digimon Rumble Arena (PlayStation, 2001) | 7 | 🟢 | C |
 | [Digimon: Digital Card Battle](https://github.com/ReGame-Labs/dcb_decomp) | Matching decompilation of Digimon: Digital Card Battle (PlayStation, 2000) | 7 | 🟢 | C |
 | [Driver: You Are the Wheelman decomp](https://github.com/olink9/driver1-decomp) | Matching decompilation of Driver: You Are the Wheelman (PS1, 1999) | 7 | 🟢 | C |
-| [Final Fantasy IX decomp](https://github.com/maurizi/ff9-decomp) | Matching decompilation of Final Fantasy IX (PS1, NTSC-U) | 7 | 🟢 | C |
-| [Kula World decomp](https://github.com/dezgeg/kula-world-decomp) | Decompilation of Kula World (PS1) | 7 | 🟢 | C |
 | [Tony Hawk's Pro Skater 2 (Competition Demo)](https://github.com/emoluvjd2/thps2-demo-decomp) | Matching decompilation of Tony Hawk's Pro Skater 2 (PlayStation, 2000; competition demo) | 7 | 🟢 | C++ |
 | [Aironauts](https://github.com/bismurphy/Aironauts-decomp) | Matching decompilation of Aironauts (PlayStation, 1999) | 6 | 🟡 | C |
 | [BattleTanx: Global Assault decomp](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1) | Matching decompilation of BattleTanx: Global Assault (PS1) | 6 | 🟢 | C |
@@ -3536,12 +3536,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Dino Crisis 2](https://github.com/anzaldoivan/dino-crisis-2-decomp) | Matching decompilation of Dino Crisis 2 (PlayStation, 2000) | 5 | 🟢 | Python |
 | [SHDecompilation](https://github.com/nikita600/SHDecompilation) | Decompilation attempt of Silent Hill (PS1) | 5 | 🔴 | C# |
 | [Tokimeki Memorial: Forever with You](https://github.com/CosmicScribe64/tokimemo-ps1-decomp) | Decompilation of Tokimeki Memorial: Forever with You | 5 | 🟢 | C |
+| [Tombi!](https://github.com/afsenovilla/Tombi-Decomp) | Matching decompilation of Tombi! (PlayStation, 1997) | 5 | 🟢 | C |
 | [WCW Nitro](https://github.com/martinbean/nitro) | Matching decompilation of WCW Nitro (PlayStation, 1998) | 5 | 🟢 | C |
 | [Azure Dreams decomp](https://github.com/thingstuffs/azure-dreams-decomp) | Byte-exact C decompilation of Azure Dreams (PS1, SLUS-00614) | 4 | 🟢 | C |
 | [Bushido Blade decomp](https://github.com/tgg12321/BushidoBladeDecompile) | Decompilation of Bushido Blade (PS1) | 4 | 🟢 | Assembly |
 | [Gran Turismo 2 Simulation Mode decomp](https://github.com/vairacing-tech/GT2-DECOMP) | Decompilation of the Gran Turismo 2 Simulation Mode (PS1) | 4 | 🟢 | C |
 | [Moto Racer World Tour decomp](https://github.com/Almamu/MotoRacerWorldTour-decomp) | Decompilation of Moto Racer World Tour (PS1) | 4 | 🟢 | Assembly |
-| [Tombi!](https://github.com/afsenovilla/Tombi-Decomp) | Matching decompilation of Tombi! (PlayStation, 1997) | 4 | 🟢 | C |
 | [Winning Eleven 3: Final Ver. decomp](https://github.com/coffeeconleche/winning-eleven-3-final-ver-decomp) | Decompilation of Winning Eleven 3: Final Ver. (PS1) | 4 | 🟢 | Assembly |
 | [Yu-Gi-Oh! Forbidden Memories decomp](https://github.com/gonzaloberteri/ygofm-decomp) | Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PS1, SLUS-01411) | 4 | 🟢 | Python |
 | [Diablo decomp](https://github.com/diabpsx/psx_decomp) | Decompilation of Diablo (PS1) | 3 | 🟢 | Assembly |
@@ -3564,6 +3564,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [The Flintstones: Bedrock Bowling decomp](https://github.com/thearchivalone/YabaDaba-Bowling-Decomp) | Byte-matched decompilation of The Flintstones: Bedrock Bowling (PS1) | 1 | 🟢 | Makefile |
 | [Tomba! 2: The Evil Swine Return decomp](https://github.com/erneztox/tomba2-decomp) | Matching decompilation of Tomba! 2: The Evil Swine Return (PS1) | 1 | 🟢 | C |
 | [Toy Story Racer decomp](https://github.com/mateusfavarin/tsr) | Decompilation of Toy Story Racer (PS1) | 1 | 🟢 | C |
+| [Xena: Warrior Princess decomp](https://github.com/filippgl/xena-psx-decomp) | Decompilation and native PC port of Xena: Warrior Princess (PS1, SLUS-00977) | 1 | 🟢 | C# |
 | [Ape Escape decomp](https://github.com/SSZero88/apes-escaped) | Decompilation of Ape Escape (PS1) | 0 | 🟢 | C |
 | [Ape Escape decomp](https://github.com/DeprivedPeasant/ape-escape-decomp-port) | Readable decompilation and native port of Ape Escape (PS1, SCUS-94423) | 0 | 🟢 | C |
 | [Civilization II decomp](https://github.com/nikitastaf1996/civ2_decomp) | Matching decompilation of Civilization II (PS1, SLUS-00792) | 0 | 🟢 | Assembly |
@@ -3580,7 +3581,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [tactical-decomp](https://github.com/Kyagara/tactical-decomp) | Final Fantasy Tactics decompilation and recompilation projects (PS1) | 0 | 🟢 | C |
 | [Valkyrie Profile decomp](https://github.com/waterrr1389/valkyrie-profile-decomp) | Partial matching decompilation of Valkyrie Profile (PS1, Japan Rev 1) | 0 | 🟢 | C |
 | [WWF SmackDown! 2: Know Your Role decomp](https://github.com/martinbean/smackdown2) | Decompilation of WWF SmackDown! 2: Know Your Role (PS1) | 0 | 🟡 | BitBake |
-| [Xena: Warrior Princess decomp](https://github.com/filippgl/xena-psx-decomp) | Decompilation and native PC port of Xena: Warrior Princess (PS1, SLUS-00977) | 0 | 🟢 | C# |
 
 ## Matching Decompilations — PlayStation 2
 
@@ -3589,53 +3589,53 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Resident Evil – Code: Veronica X](https://github.com/AshfordFamily/recvx-decomp) | Matching decompilation of Resident Evil – Code: Veronica X (PlayStation 2, 2001) | 309 | 🟢 | C |
 | [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1) | Matching decompilation of Sly Cooper and the Thievius Raccoonus (PlayStation 2, 2002) | 288 | 🟢 | C++ |
 | [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp) | Matching decompilation of Street Fighter III: 3rd Strike (PlayStation 2, 2004) | 286 | 🟢 | C |
-| [PaRappa the Rapper 2](https://github.com/parappadev/parappa2) | Matching decompilation of PaRappa the Rapper 2 (PlayStation 2, 2001) | 208 | 🟢 | C |
+| [PaRappa the Rapper 2](https://github.com/parappadev/parappa2) | Matching decompilation of PaRappa the Rapper 2 (PlayStation 2, 2001) | 209 | 🟢 | C |
 | [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa) | Matching decompilation of Silent Hill 3 (PlayStation 2, 2003) | 169 | 🟢 | C |
-| [OpenRAC](https://github.com/OpenRAC/OpenRAC) | Matching decompilation and PC port effort for the Ratchet & Clank series (PS2) | 166 | 🟢 | C++ |
-| [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) | Matching decompilation of Shadow of the Colossus (PlayStation 2, 2005; preview build) | 149 | 🟢 | C |
+| [OpenRAC](https://github.com/OpenRAC/OpenRAC) | Matching decompilation and PC port effort for the Ratchet & Clank series (PS2) | 168 | 🟢 | C++ |
+| [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) | Matching decompilation of Shadow of the Colossus (PlayStation 2, 2005; preview build) | 150 | 🟢 | C |
 | [Fatal Frame](https://github.com/Mikompilation/Himuro) | Matching decompilation of Fatal Frame (PlayStation 2, 2001) | 136 | 🟢 | C |
 | [Gran Turismo 4](https://github.com/gustavocanepa/gt4-decomp) | Matching decompilation of Gran Turismo 4 (PlayStation 2, 2004) | 127 | 🟢 | C |
-| [Dark Cloud](https://github.com/TheMoonPeople/Chronicle) | Matching decompilation of Dark Cloud (PlayStation 2, 2000) | 116 | 🟢 | C++ |
-| [Kingdom Hearts](https://github.com/ethteck/kh1) | Matching decompilation of Kingdom Hearts (PlayStation 2, 2002) | 114 | 🟢 | C |
-| [Crash Twinsanity](https://github.com/GioPixelGH/Crash-Twinsanity-Windows) | Decompilation of Crash Twinsanity (PS2) | 112 | 🟢 | C++ |
+| [Crash Twinsanity](https://github.com/GioPixelGH/Crash-Twinsanity-Windows) | Decompilation of Crash Twinsanity (PS2) | 118 | 🟢 | C++ |
+| [Dark Cloud](https://github.com/TheMoonPeople/Chronicle) | Matching decompilation of Dark Cloud (PlayStation 2, 2000) | 118 | 🟢 | C++ |
+| [Kingdom Hearts](https://github.com/ethteck/kh1) | Matching decompilation of Kingdom Hearts (PlayStation 2, 2002) | 115 | 🟢 | C |
 | [God Hand](https://github.com/LucasPicoli/god-hand-decomp) | Matching decompilation of God Hand (PlayStation 2, 2006) | 96 | 🟢 | C |
-| [Silent Hill 2 (sh23ds)](https://github.com/ankushKun/sh23ds) | Decompilation of Silent Hill 2 (PS2) | 77 | 🟢 | C |
-| [Ratchet & Clank (PAL)](https://github.com/OpenRAC/rac1-decomp) | Matching decompilation of Ratchet & Clank (PlayStation 2, 2002; PAL version) | 76 | 🟢 | C |
+| [Silent Hill 2 (sh23ds)](https://github.com/ankushKun/sh23ds) | Decompilation of Silent Hill 2 (PS2) | 79 | 🟢 | C |
+| [Ratchet & Clank (PAL)](https://github.com/OpenRAC/rac1-decomp) | Matching decompilation of Ratchet & Clank (PlayStation 2, 2002; PAL version) | 77 | 🟢 | C |
 | [Persona3-FES-Decompilation](https://github.com/snaku/Persona3-FES-Decompilation) | Decompilation of Shin Megami Tensei: Persona 3 FES | 73 | 🟢 | C |
-| [Shin Megami Tensei: Persona 4](https://github.com/Raikaru/Persona4-Decompilation) | Matching decompilation of Shin Megami Tensei: Persona 4 (PlayStation 2, 2008) | 56 | 🟢 | C |
-| [Dark Cloud 2](https://github.com/TheMoonPeople/ChronicleTwo) | Matching decompilation of Dark Cloud 2 (PlayStation 2, 2002) | 52 | 🟢 | Luau |
+| [Shin Megami Tensei: Persona 4](https://github.com/Raikaru/Persona4-Decompilation) | Matching decompilation of Shin Megami Tensei: Persona 4 (PlayStation 2, 2008) | 57 | 🟢 | C |
+| [Dark Cloud 2](https://github.com/TheMoonPeople/ChronicleTwo) | Matching decompilation of Dark Cloud 2 (PlayStation 2, 2002) | 53 | 🟢 | Luau |
 | [ico](https://github.com/nathanialf/ico) | Decompilation of ICO (PS2) | 51 | 🟢 | C |
 | [Ratchet & Clank (USA)](https://github.com/lombyte-project/Lombyte) | Matching decompilation of Ratchet & Clank (PlayStation 2, 2002; USA version) | 51 | 🟢 | C |
-| [Monster Hunter (JP)](https://github.com/2Tie/mh1j) | Matching decompilation of Monster Hunter (PlayStation 2, 2004; Japanese version) | 48 | 🟢 | C |
+| [Monster Hunter (JP)](https://github.com/2Tie/mh1j) | Matching decompilation of Monster Hunter (PlayStation 2, 2004; Japanese version) | 49 | 🟢 | C |
 | [twinsanity-reversed](https://github.com/Smartkin/twinsanity-reversed) | Reverse-engineered code of Crash Twinsanity (PS2) | 46 | 🟢 | C++ |
 | [Klonoa 2: Lunatea's Veil](https://github.com/entriphy/kl2_lv_decomp) | Matching decompilation of Klonoa 2: Lunatea's Veil (PlayStation 2, 2001) | 45 | 🟡 | C |
-| [Shin Megami Tensei: Digital Devil Saga](https://github.com/Megami-Decomps/dds-decomp) | Matching decompilation of Shin Megami Tensei: Digital Devil Saga (PlayStation 2, 2004) | 44 | 🟢 | C |
+| [Shin Megami Tensei: Digital Devil Saga](https://github.com/Megami-Decomps/dds-decomp) | Matching decompilation of Shin Megami Tensei: Digital Devil Saga (PlayStation 2, 2004) | 45 | 🟢 | C |
 | [SSX 3](https://github.com/ssxdecomp/ssx3) | Matching decompilation of SSX 3 (PlayStation 2, 2003) | 42 | 🟢 | Python |
 | [SSX 3 decomp](https://github.com/andersfischernielsen/ssx3-decomp) | Decompilation and Rust port of SSX 3 (PS2) | 39 | 🟢 | Rust |
+| [Xenosaga Episode I](https://github.com/OpokXeno/xsg-i-decomp) | Matching decompilation of Xenosaga Episode I (PlayStation 2, 2002) | 39 | 🟢 | Java |
 | [Shadow of the Colossus decomp](https://github.com/TheRealestNwah/sotc-decomp) | Matching decompilation of Shadow of the Colossus (PS2, NTSC-U) | 38 | 🟢 | C |
-| [Xenosaga Episode I](https://github.com/OpokXeno/xsg-i-decomp) | Matching decompilation of Xenosaga Episode I (PlayStation 2, 2002) | 37 | 🟢 | Java |
 | [Ratchet & Clank 3: Up Your Arsenal decomp](https://github.com/vetusmagnus/rac3-uya-decomp) | Decompilation of Ratchet & Clank 3: Up Your Arsenal (PS2) | 36 | 🟢 | C |
-| [REOF2](https://github.com/caprado/REOF2) | Resident Evil Outbreak File #2 (PS2) decompilation and preservation project | 35 | 🟢 | C |
-| [BT3-Decompiled](https://github.com/z3xox/BT3-Decompiled) | Matching decompilation of Dragon Ball Z: Budokai Tenkaichi 3 (PS2) | 34 | 🟢 | C |
+| [BT3-Decompiled](https://github.com/z3xox/BT3-Decompiled) | Matching decompilation of Dragon Ball Z: Budokai Tenkaichi 3 (PS2) | 35 | 🟢 | C |
 | [Ico](https://github.com/RossyDoubleUnderscore/ICO-decomp) | Matching decompilation of Ico (PlayStation 2, 2001) | 34 | 🟢 | C |
-| [OpenHuey](https://github.com/ArnautDaniel/OpenHuey) | Haunting Ground (PS2) decompilation, PC port and actor-based rewrite | 33 | 🟢 | C |
+| [OpenHuey](https://github.com/ArnautDaniel/OpenHuey) | Haunting Ground (PS2) decompilation, PC port and actor-based rewrite | 34 | 🟢 | C |
+| [REOF2](https://github.com/caprado/REOF2) | Resident Evil Outbreak File #2 (PS2) decompilation and preservation project | 34 | 🟢 | C |
 | [Yakuza](https://github.com/Hamzaxx370/Ogre-Decomp) | Matching decompilation of Yakuza (PlayStation 2, 2005) | 33 | 🟢 | C++ |
 | [Metal Gear Solid 3 decomp](https://github.com/GirianSeed/mgs3) | Decompilation of Metal Gear Solid 3 (PS2) | 31 | 🟢 | C |
-| [Crash Bandicoot: The Wrath of Cortex (PS2)](https://github.com/denzi-gh/crashwoc-decomp-ps2) | Decompilation of Crash Bandicoot: The Wrath of Cortex (PS2) | 26 | 🟢 | C |
+| [Crash Bandicoot: The Wrath of Cortex (PS2)](https://github.com/denzi-gh/crashwoc-decomp-ps2) | Decompilation of Crash Bandicoot: The Wrath of Cortex (PS2) | 27 | 🟢 | C |
+| [Ratchet: Deadlocked](https://github.com/OpenRAC/rac4-decomp) | Matching decompilation of Ratchet: Deadlocked (PlayStation 2, 2005) | 25 | 🟢 | C |
 | [Twisted Metal: Black](https://github.com/OpenTrac/tmb_Re-Arc) | Matching decompilation of Twisted Metal: Black (PlayStation 2, 2001) | 25 | 🟢 | C |
-| [Ratchet: Deadlocked](https://github.com/OpenRAC/rac4-decomp) | Matching decompilation of Ratchet: Deadlocked (PlayStation 2, 2005) | 23 | 🟢 | C |
+| [Saint Seiya: The Hades decomp](https://github.com/matpdev/SaintSeiyaRecomp) | Matching decompilation of Saint Seiya: The Hades (PS2, Europe SLES-54162) | 24 | 🟢 | C |
 | [SSX](https://github.com/ssxdecomp/ssx) | Matching decompilation of SSX (PlayStation 2, 2000) | 23 | 🟢 | Python |
-| [Baroque-Decomp](https://github.com/Arch61s/Baroque-Decomp) | Decompilation of Baroque (2004) with quality-of-life features (PS2) | 22 | 🟢 | C++ |
 | [Resident Evil: Dead Aim](https://github.com/cakehonolulu/Bullseye) | Matching decompilation of Resident Evil: Dead Aim (PlayStation 2, 2003) | 22 | 🟢 | C++ |
+| [Baroque-Decomp](https://github.com/Arch61s/Baroque-Decomp) | Decompilation of Baroque (2004) with quality-of-life features (PS2) | 21 | 🟢 | C++ |
 | [King's Field: The Ancient City decomp](https://github.com/Voicedrew11/kfiv-decomp) | Decompilation of King's Field: The Ancient City (PS2) | 21 | 🟢 | C |
 | [SNESstation-Decomp](https://github.com/ReyFxck/SNESstation-Decomp) | Decompilation of the SNESStation PS2 emulator based on SNES9X 1.41 | 20 | 🟢 | Python |
 | [Twisted Metal: Harbor City](https://github.com/jacobleeharris/tmhc) | Matching decompilation of Twisted Metal: Harbor City (PlayStation 2, unreleased) | 20 | 🟢 | C |
 | [Way of the Samurai 2 decomp](https://github.com/acklavidian/decomp_wots2) | Decompilation and native Linux port of Way of the Samurai 2 (PS2) | 20 | 🟢 | C++ |
-| [Saint Seiya: The Hades decomp](https://github.com/matpdev/SaintSeiyaRecomp) | Matching decompilation of Saint Seiya: The Hades (PS2, Europe SLES-54162) | 19 | 🟢 | C |
-| [Star Ocean: Till the End of Time](https://github.com/celophi/so3-decomp) | Matching decompilation of Star Ocean: Till the End of Time (PlayStation 2, 2003) | 18 | 🟢 | C++ |
+| [Marvel vs. Capcom 2 (PS2)](https://github.com/g-guthrie/mvc2-port-and-decomp) | Decompilation of Marvel vs. Capcom 2 (PS2) | 19 | 🟢 | C |
+| [Star Ocean: Till the End of Time](https://github.com/celophi/so3-decomp) | Matching decompilation of Star Ocean: Till the End of Time (PlayStation 2, 2003) | 19 | 🟢 | C++ |
 | [Xenosaga Episode I (squareman)](https://github.com/SquareMan/xenosaga) | Matching decompilation of Xenosaga Episode I (PlayStation 2, 2002) | 18 | 🟡 | C |
 | [Dog's Life](https://github.com/IWILLCRAFT-M0d/dogcomp) | Matching decompilation of Dog's Life (PlayStation 2, 2003) | 17 | 🟢 | C++ |
-| [Marvel vs. Capcom 2 (PS2)](https://github.com/g-guthrie/mvc2-port-and-decomp) | Decompilation of Marvel vs. Capcom 2 (PS2) | 17 | 🟢 | C |
 | [Resident Evil Outbreak and File 2 decomp](https://github.com/GalaxyNostalgia/Outbreak-decomp) | Decompilation of Resident Evil Outbreak and File 2 (PS2) | 17 | 🟢 | C |
 | [Gran Turismo 3: A-Spec decomp](https://github.com/gustavocanepa/gt3-decomp) | Matching decompilation of Gran Turismo 3: A-Spec (PS2) | 16 | 🟢 | C |
 | [Silent Hill 2](https://github.com/dreamingmoths/mirror-of-alessa) | Matching decompilation of Silent Hill 2 (PlayStation 2, 2001) | 16 | 🟢 |  |
@@ -3651,9 +3651,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ratchet & Clank PS2 quadrilogy (Pyrocitor)](https://github.com/VELD-Dev/Pyrocitor) | Decompilation of Ratchet & Clank PS2 quadrilogy (Pyrocitor) | 11 | 🗄️ | C++ |
 | [Yu-Gi-Oh! The Duelists of the Roses decomp](https://github.com/kira-502/dotr-decomp) | Matching decompilation of Yu-Gi-Oh! The Duelists of the Roses (PS2, SLUS-20515) | 10 | 🟢 | C |
 | [Kingdom Hearts II decomp](https://github.com/GovanifY/kh2) | Decompilation of Kingdom Hearts II (PS2) | 9 | 🟢 | C++ |
+| [Ratchet & Clank: Up Your Arsenal decomp](https://github.com/OpenRAC/rac3-decomp) | Decompilation of Ratchet & Clank: Up Your Arsenal (PS2) | 9 | 🟢 | C |
 | [Shaun Palmer's Pro Snowboarder](https://github.com/Daniel-McCarthy/SPPS) | Matching decompilation of Shaun Palmer's Pro Snowboarder (PlayStation 2, 2001) | 9 | 🟢 | C |
 | [.hack//IMOQ games decomp](https://github.com/dothacktranslate/dothack-decompilation) | Decompilation of the .hack//IMOQ games (PS2) | 8 | 🟢 | Python |
-| [Ratchet & Clank: Up Your Arsenal decomp](https://github.com/OpenRAC/rac3-decomp) | Decompilation of Ratchet & Clank: Up Your Arsenal (PS2) | 8 | 🟢 | C |
 | [Sonic Riders: Zero Gravity (PS2 prototype)](https://github.com/KidWizardOfTheWeb/SR2) | Decompilation of Sonic Riders: Zero Gravity (PS2 prototype) | 8 | 🟢 | C++ |
 | [Ratchet & Clank: Size Matters decomp](https://github.com/OpenRAC/rac5-sm-decomp) | Matching decompilation of Ratchet & Clank: Size Matters (PS2, USA) | 7 | 🟢 | C |
 | [Zone of the Enders decomp](https://github.com/GirianSeed/zoe1) | Decompilation of Zone of the Enders (PS2) | 7 | 🟢 | C |
@@ -3686,10 +3686,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Champions: Return to Arms decomp](https://github.com/Open-Champions/champions-return-to-arms) | Byte-exact C++ source reconstruction of Champions: Return to Arms (PS2) | 2 | 🟢 | Python |
 | [Chulip](https://github.com/aaaaaaaaaaway/chulip-decomp) | Matching decompilation of Chulip (PlayStation 2, 2002) | 2 | 🟢 | C |
 | [EverQuest Online Adventures: Frontiers decomp](https://github.com/DabDavis/eqoa-decomp) | Matching decompilation of EverQuest Online Adventures: Frontiers (PS2) | 2 | 🟢 | C++ |
+| [Fate/Unlimited Codes decomp](https://github.com/Harskov/fate-unlimited-codes-jp) | Matching decompilation of Fate/Unlimited Codes (PS2, Japan) | 2 | 🟢 | C |
 | [The Sims 2: Castaways decomp](https://github.com/simdecomp/ts2c) | Decompilation of The Sims 2: Castaways | 2 | 🔴 | Assembly |
 | [Ar tonelico II: Melody of Metafalica](https://github.com/USED255/artonelico2-decomp) | Matching decompilation of Ar tonelico II: Melody of Metafalica (PlayStation 2, 2007) | 1 | 🟢 | C |
 | [Extermination decomp](https://github.com/FastestMolasses/Extermination) | Decompilation of Extermination (PS2, 2001) | 1 | 🟢 | C |
-| [Fate/Unlimited Codes decomp](https://github.com/Harskov/fate-unlimited-codes-jp) | Matching decompilation of Fate/Unlimited Codes (PS2, Japan) | 1 | 🟢 | C |
 | [FreQuency decomp](https://github.com/Tatsh/resonance) | Reconstructed source of FreQuency (PS2) | 1 | 🟢 | C++ |
 | [George of the Jungle and the Search for the Secret](https://github.com/2gifts/george-decomp) | Matching decompilation of George of the Jungle and the Search for the Secret (PlayStation 2, 2008) | 1 | 🟢 | C |
 | [Gregory Horror Show decomp](https://github.com/Nathan-R-Og/ghs) | Decompilation of Gregory Horror Show (PS2) | 1 | 🟢 | C |
@@ -3708,14 +3708,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [Elite decomp](https://github.com/markmoxon/elite-source-code-nes) | Fully documented reverse-engineered source code of Elite (NES) | 413 | 🟢 | Assembly |
 | [Battle City (NES disassembly)](https://github.com/cyneprepou4uk/NES-Games-Disassembly) | Disassembly / decompilation of Battle City (NES disassembly) | 306 | 🟢 | Assembly |
-| [zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) | A complete disassembly of The Legend of Zelda | 281 | 🔴 | Assembly |
-| [smb3](https://github.com/captainsouthbird/smb3) | Disassembly of Super Mario Bros 3 | 257 | 🟡 | Assembly |
-| [Contra (NES)](https://github.com/vermiceli/nes-contra-us) | Decompilation of Contra (NES) | 244 | 🟢 | Assembly |
+| [zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly) | A complete disassembly of The Legend of Zelda | 282 | 🔴 | Assembly |
+| [smb3](https://github.com/captainsouthbird/smb3) | Disassembly of Super Mario Bros 3 | 258 | 🟡 | Assembly |
+| [Contra (NES)](https://github.com/vermiceli/nes-contra-us) | Decompilation of Contra (NES) | 246 | 🟢 | Assembly |
 | [EarthBound](https://github.com/Herringway/ebsrc) | Source code recreation of EarthBound (SNES, 1994) | 188 | 🟢 | Assembly |
 | [SMWDisX](https://github.com/IsoFrieze/SMWDisX) | Super Mario World disassembly X (SNES) | 185 | 🟢 | Assembly |
 | [Super Mario World 2: Yoshi's Island (SNES) Disassembly](https://github.com/brunovalads/yoshisisland-disassembly) | Full disassembly of Yoshi's Island (SNES) version U 1.0 | 164 | 🟢 | Assembly |
 | [supermetroid](https://github.com/strager/supermetroid) | Super Metroid SNES disassembly | 162 | 🔴 | Assembly |
-| [Star Fox](https://github.com/kandowontu2/starfox-enhanced) | Decompilation of Star Fox (SNES) | 135 | 🟢 | C++ |
+| [Star Fox](https://github.com/kandowontu2/starfox-enhanced) | Decompilation of Star Fox (SNES) | 137 | 🟢 | C++ |
 | [superbomberman](https://github.com/LIJI32/superbomberman) | Disassembly and remade build system for SNES game Super Bomberman | 112 | 🟢 | Assembly |
 | [TetrisNESDisasm](https://github.com/CelestialAmber/TetrisNESDisasm) | Disassembly of Tetris (NES) | 111 | 🟡 | Assembly |
 | [FF Disassembly](https://github.com/Entroper/FF1Disassembly) | Disassembly of Final Fantasy (Assembly) | 110 | 🟢 | Assembly |
@@ -3939,9 +3939,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Puyo Puyo disassembly](https://github.com/Nasina7/puyodisasm) | Disassembly of Puyo Puyo (Mega Drive) | 16 | 🟢 | Assembly |
 | [Simon Wai prototype of Sonic the Hedgehog 2 disassembly](https://github.com/AlexField442/Sonic-2-Simon-Wai-Disassembly) | Disassembly of the Simon Wai prototype of Sonic the Hedgehog 2 (Mega Drive) | 16 | 🗄️ | Assembly |
 | [Sonic the Hedgehog 2 targeting ASM68K disassembly](https://github.com/OrionNavattan/Sonic-2-ASM68K) | Disassembly of Sonic the Hedgehog 2 targeting ASM68K (Mega Drive) | 15 | 🟡 | Assembly |
+| [Virtua Fighter 2 v2.1 decomp](https://github.com/celsowm/vf2-decomp) | Clean-room C decompilation of Virtua Fighter 2 v2.1 (Sega Saturn) | 15 | 🟢 | C |
 | [QuackShot Starring Donald Duck decomp](https://github.com/lab313ru/quackshot_src) | Reassemblable source of QuackShot Starring Donald Duck (Mega Drive) | 14 | 🔴 | Assembly |
 | [Sonic the Hedgehog prototype disassembly](https://github.com/Filter011/s1-proto-disasm) | Split disassembly of the Sonic the Hedgehog prototype (Mega Drive) | 14 | 🟢 | Assembly |
-| [Virtua Fighter 2 v2.1 decomp](https://github.com/celsowm/vf2-decomp) | Clean-room C decompilation of Virtua Fighter 2 v2.1 (Sega Saturn) | 14 | 🟢 | C |
 | [Sonic the Hedgehog disassembly](https://github.com/TheRavenfreak/Sonic-1-Game-Gear-Disassembly) | Split disassembly of Sonic the Hedgehog (Game Gear) | 12 | 🔴 | Assembly |
 | [Landstalker disassembly](https://github.com/lordmir/landstalker_disasm) | Disassembly of Landstalker (Mega Drive) | 11 | 🟢 | Assembly |
 | [Sonic the Hedgehog 2 Nick Arcade prototype disassembly](https://github.com/AlexField442/Sonic-2-Nick-Arcade-Disassembly) | Disassembly of the Sonic the Hedgehog 2 Nick Arcade prototype (Mega Drive) | 11 | 🟢 | Assembly |
@@ -3960,12 +3960,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Earthworm Jim disassembly](https://github.com/anatsvit/erathworm-jim-disasm) | Disassembly of Earthworm Jim (Sega Genesis) | 6 | 🟢 | Assembly |
 | [Landstalker disassembly](https://github.com/LandstalkerCentral/LSUSDISASM) | Disassembly of Landstalker (Mega Drive, US) | 6 | 🔴 | Assembly |
 | [Phantasy Star IV Disassembly](https://github.com/squidfeatures/ps4disasm) | Phantasy Star IV Disassembly | 6 | 🔴 | Assembly |
+| [Virtua Fighter 3tb decomp](https://github.com/celsowm/vf3-decomp) | Clean-room C source of Virtua Fighter 3tb (Sega Dreamcast) | 6 | 🟢 | C |
 | [Dr. Robotnik's Mean Bean Machine disassembly](https://github.com/DevsArchive/mean-bean-machine-disassembly) | Disassembly of Dr. Robotnik's Mean Bean Machine (Mega Drive) | 5 | 🗄️ | Assembly |
 | [Lord of the Sword disassembly](https://github.com/Isotarge/lotsdisasm) | Disassembly of Lord of the Sword (Sega Master System) | 5 | 🔴 | Assembly |
 | [Puyo Puyo Tsuu disassembly](https://github.com/Nasina7/puyo2disasm) | Disassembly of Puyo Puyo Tsuu (Mega Drive) | 5 | 🟡 | Assembly |
 | [Sonic Adventure decomp](https://github.com/consolesplayingconsoles/sonic-adventure-decomp) | Decompilation of Sonic Adventure (Sega Dreamcast) | 5 | 🟢 | Python |
 | [Streets of Rage disassembly](https://github.com/Dandaman955/Streets-of-Rage-1-Disassembly-Redux) | Disassembly of Streets of Rage (Mega Drive) | 5 | 🔴 | Assembly |
-| [Virtua Fighter 3tb decomp](https://github.com/celsowm/vf3-decomp) | Clean-room C source of Virtua Fighter 3tb (Sega Dreamcast) | 5 | 🟢 | C |
 | [Virtua Tennis decomp](https://github.com/consolesplayingconsoles/virtua-tennis-decomp) | Decompilation of Virtua Tennis (Sega Dreamcast) | 5 | 🟢 | C |
 | [Altered Beast disassembly](https://github.com/hansbonini/smd_alteredbeast) | Disassembly of Altered Beast (Sega Genesis) | 4 | 🟡 | GLSL |
 | [Columns disassembly](https://github.com/lhsazevedo/columns) | Disassembly of Columns (Sega Master System) | 4 | 🔴 | Assembly |
@@ -4018,10 +4018,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Breath of the Wild decomp](https://github.com/zeldaret/botw) | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) | 2,450 | 🟢 | C++ |
-| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Decompilation of Minecraft: Nintendo Switch Edition | 628 | 🟢 | C++ |
-| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Matching decompilation of Super Mario Odyssey (Switch, 2017) | 507 | 🟢 | C++ |
-| [sead](https://github.com/open-ead/sead) | Decompilation of sead, Nintendo's first-party C++ standard library | 257 | 🟢 | C++ |
+| [Breath of the Wild decomp](https://github.com/zeldaret/botw) | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) | 2,458 | 🟢 | C++ |
+| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Decompilation of Minecraft: Nintendo Switch Edition | 629 | 🟢 | C++ |
+| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Matching decompilation of Super Mario Odyssey (Switch, 2017) | 509 | 🟢 | C++ |
+| [sead](https://github.com/open-ead/sead) | Decompilation of sead, Nintendo's first-party C++ standard library | 258 | 🟢 | C++ |
 | [agl](https://github.com/open-ead/agl) | Decompilation of agl, a graphics library used in first-party Nintendo games | 48 | 🟢 | C++ |
 | [LEGO City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation) | Matching decompilation of LEGO City Undercover (Switch, 2017) | 31 | 🟢 | C++ |
 | [RedCarpet-S](https://github.com/fruityloops1/RedCarpet-S) | Super Mario 3D World + Bowser's Fury 1.1 decompilation | 31 | 🟡 | C++ |
@@ -4084,82 +4084,82 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | Visual novel translator that hooks game text from running Windows games | 14,048 | 🟢 | C++ |
-| [BepInEx](https://github.com/BepInEx/BepInEx) | Plugin/modding framework for Unity Mono, IL2CPP and XNA games | 8,993 | 🟢 | C# |
-| [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) | Modding API and loader for Minecraft: Java Edition | 7,852 | 🟢 | Java |
-| [Harmony](https://github.com/pardeike/Harmony) | Library for patching and decorating .NET/Mono methods at runtime, widely used for game mods | 6,727 | 🟢 | C# |
-| [tModLoader](https://github.com/tModLoader/tModLoader) | Mod loader and API for Terraria | 5,771 | 🟢 | C# |
-| [REFramework](https://github.com/praydog/REFramework) | Mod loader, scripting platform and VR support for Capcom RE Engine games | 5,735 | 🟢 | C++ |
+| [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | Visual novel translator that hooks game text from running Windows games | 14,066 | 🟢 | C++ |
+| [BepInEx](https://github.com/BepInEx/BepInEx) | Plugin/modding framework for Unity Mono, IL2CPP and XNA games | 8,998 | 🟢 | C# |
+| [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) | Modding API and loader for Minecraft: Java Edition | 7,854 | 🟢 | Java |
+| [Harmony](https://github.com/pardeike/Harmony) | Library for patching and decorating .NET/Mono methods at runtime, widely used for game mods | 6,730 | 🟢 | C# |
+| [tModLoader](https://github.com/tModLoader/tModLoader) | Mod loader and API for Terraria | 5,773 | 🟢 | C# |
+| [REFramework](https://github.com/praydog/REFramework) | Mod loader, scripting platform and VR support for Capcom RE Engine games | 5,739 | 🟢 | C++ |
 | [dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) | Replaces DLSS Frame Generation with FSR 3 frame generation in games | 4,972 | 🟡 | C++ |
-| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) | Cyberpunk 2077 scripting framework and fixes | 4,844 | 🟢 | C++ |
-| [UEVR](https://github.com/praydog/UEVR) | Universal VR mod injector for Unreal Engine 4.8-5.x games | 4,667 | 🟢 | C++ |
-| [MelonLoader](https://github.com/LavaGang/MelonLoader) | Universal mod loader for Unity games (Il2Cpp and Mono) | 4,330 | 🟢 | C# |
-| [FiveM / Cfx.re](https://github.com/citizenfx/fivem) | Multiplayer modification frameworks for GTA V (FiveM) and RDR2 (RedM) | 4,314 | 🟢 | C++ |
-| [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | DirectDraw reimplementation fixing old games such as Command & Conquer on modern systems | 3,581 | 🟢 | C |
-| [FusionFix (GTA IV)](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | Fixes and enhancements for Grand Theft Auto IV: Complete Edition | 3,497 | 🟢 | Assembly |
-| [Widescreen Fixes Pack](https://github.com/ThirteenAG/WidescreenFixesPack) | Plugins adding or fixing widescreen support and bugs in many PC games | 3,307 | 🟢 | C++ |
-| [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) | Injectable Lua scripting, SDK generator and live property editor for UE4/UE5 games | 3,145 | 🟢 | C++ |
+| [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) | Cyberpunk 2077 scripting framework and fixes | 4,847 | 🟢 | C++ |
+| [UEVR](https://github.com/praydog/UEVR) | Universal VR mod injector for Unreal Engine 4.8-5.x games | 4,672 | 🟢 | C++ |
+| [MelonLoader](https://github.com/LavaGang/MelonLoader) | Universal mod loader for Unity games (Il2Cpp and Mono) | 4,331 | 🟢 | C# |
+| [FiveM / Cfx.re](https://github.com/citizenfx/fivem) | Multiplayer modification frameworks for GTA V (FiveM) and RDR2 (RedM) | 4,315 | 🟢 | C++ |
+| [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | DirectDraw reimplementation fixing old games such as Command & Conquer on modern systems | 3,585 | 🟢 | C |
+| [FusionFix (GTA IV)](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | Fixes and enhancements for Grand Theft Auto IV: Complete Edition | 3,519 | 🟢 | Assembly |
+| [Widescreen Fixes Pack](https://github.com/ThirteenAG/WidescreenFixesPack) | Plugins adding or fixing widescreen support and bugs in many PC games | 3,312 | 🟢 | C++ |
+| [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) | Injectable Lua scripting, SDK generator and live property editor for UE4/UE5 games | 3,149 | 🟢 | C++ |
 | [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) | In-game UI for exploring and modifying IL2CPP and Mono Unity games | 3,144 | 🗄️ | C# |
-| [TShock](https://github.com/Pryaxis/TShock) | Terraria server modification and plugin API | 2,905 | 🟢 | C# |
+| [TShock](https://github.com/Pryaxis/TShock) | Terraria server modification and plugin API | 2,906 | 🟢 | C# |
 | [SMAPI](https://github.com/Pathoschild/SMAPI) | Modding API and loader for Stardew Valley | 2,793 | 🟢 | C# |
-| [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) | Proxy DLL that loads custom .asi plugins into any game process | 2,430 | 🟢 | C++ |
-| [Special K](https://github.com/SpecialKO/SpecialK) | Game modding and enhancement framework for Windows games | 2,160 | 🟢 | C++ |
-| [NeoForge (Minecraft)](https://github.com/neoforged/NeoForge) | Modding API and loader for Minecraft: Java Edition | 2,137 | 🟢 | Java |
+| [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) | Proxy DLL that loads custom .asi plugins into any game process | 2,433 | 🟢 | C++ |
+| [Special K](https://github.com/SpecialKO/SpecialK) | Game modding and enhancement framework for Windows games | 2,161 | 🟢 | C++ |
+| [NeoForge (Minecraft)](https://github.com/neoforged/NeoForge) | Modding API and loader for Minecraft: Java Edition | 2,141 | 🟢 | Java |
 | [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) | Multiplayer engine for GTA: San Andreas | 1,891 | 🟢 | C++ |
 | [BWAPI](https://github.com/bwapi/bwapi) | Brood War API for writing StarCraft: Brood War AI bots | 1,723 | 🟢 | C++ |
-| [LeviLamina](https://github.com/LiteLDev/LeviLamina) | Mod loader for Minecraft Bedrock Edition dedicated server | 1,708 | 🟢 | C++ |
+| [LeviLamina](https://github.com/LiteLDev/LeviLamina) | Mod loader for Minecraft Bedrock Edition dedicated server | 1,711 | 🟢 | C++ |
 | [Dalamud](https://github.com/goatcorp/Dalamud) | Plugin framework and API for Final Fantasy XIV | 1,647 | 🟢 | C |
-| [MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) | Modern Mod Coder Pack for decompiling and modding Minecraft Java | 1,574 | 🟢 |  |
-| [BG3SE](https://github.com/Norbyte/bg3se) | Baldur's Gate 3 Script Extender | 1,537 | 🟢 | C++ |
-| [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | C# server plugin framework for Counter-Strike 2 built on reverse engineered Source 2 internals | 1,388 | 🟢 | C# |
+| [MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) | Modern Mod Coder Pack for decompiling and modding Minecraft Java | 1,575 | 🟢 |  |
+| [BG3SE](https://github.com/Norbyte/bg3se) | Baldur's Gate 3 Script Extender | 1,536 | 🟢 | C++ |
+| [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | C# server plugin framework for Counter-Strike 2 built on reverse engineered Source 2 internals | 1,391 | 🟢 | C# |
 | [ScriptHookVDotNet (GTA V)](https://github.com/scripthookvdotnet/scripthookvdotnet) | .NET scripting runtime for Grand Theft Auto V on top of Script Hook V | 1,379 | 🟢 | C# |
-| [3Dmigoto](https://github.com/bo3b/3Dmigoto) | DirectX 11 wrapper for shader modding and stereo 3D fixes in games | 1,261 | 🟢 | C++ |
-| [SilentPatch (GTA)](https://github.com/CookiePLMonster/SilentPatch) | Fixes for GTA III, Vice City and San Andreas made by patching the game binaries | 1,239 | 🟢 | C++ |
+| [3Dmigoto](https://github.com/bo3b/3Dmigoto) | DirectX 11 wrapper for shader modding and stereo 3D fixes in games | 1,263 | 🟢 | C++ |
+| [SilentPatch (GTA)](https://github.com/CookiePLMonster/SilentPatch) | Fixes for GTA III, Vice City and San Andreas made by patching the game binaries | 1,241 | 🟢 | C++ |
 | [Yarn](https://github.com/FabricMC/yarn) | Open Minecraft deobfuscation mappings for modding | 1,226 | 🟢 | Java |
 | [TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) | Skyrim Together multiplayer mod built on reverse engineered engine internals | 1,200 | 🟢 | C++ |
 | [ModEngine2](https://github.com/soulsmods/ModEngine2) | Runtime injection library for modding FromSoftware Souls games | 1,142 | 🗄️ | C++ |
 | [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) | In-game inspector and debugging tools for Unity games | 1,133 | 🟢 | C# |
-| [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) | Universal .NET-powered modding framework for native x86/x64 games | 1,048 | 🟢 | C# |
-| [Steamodded](https://github.com/Steamodded/smods) | Mod loader for Balatro | 1,012 | 🟢 | Lua |
-| [libsm64](https://github.com/libsm64/libsm64) | Super Mario 64 (N64) as a library for use in other game engines, from the decompilation | 969 | 🟢 | C |
+| [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) | Universal .NET-powered modding framework for native x86/x64 games | 1,049 | 🟢 | C# |
+| [Steamodded](https://github.com/Steamodded/smods) | Mod loader for Balatro | 1,013 | 🟢 | Lua |
+| [libsm64](https://github.com/libsm64/libsm64) | Super Mario 64 (N64) as a library for use in other game engines, from the decompilation | 970 | 🟢 | C |
 | [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) | Steam Play compatibility tool that runs games with native Linux engine reimplementations | 956 | 🗄️ | Rust |
 | [2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) | Rust mashup of the IW4L Modern Warfare 2 rewrite with Skate 3 and Minecraft modes (PC) | 945 | 🟢 | Rust |
-| [Fabric Loader (Minecraft)](https://github.com/FabricMC/fabric-loader) | Mod loader for Minecraft: Java Edition | 901 | 🟢 | Java |
+| [Fabric Loader (Minecraft)](https://github.com/FabricMC/fabric-loader) | Mod loader for Minecraft: Java Edition | 902 | 🟢 | Java |
 | [xNVSE](https://github.com/xNVSE/NVSE) | New Vegas Script Extender | 859 | 🟢 | C++ |
 | [Penumbra](https://github.com/xivdev/Penumbra) | Runtime mod loader for Final Fantasy XIV | 794 | 🟢 | C# |
 | [thcrap (Touhou)](https://github.com/thpatch/thcrap) | Touhou Community Reliant Automatic Patcher: patching and translation framework for Touhou games | 778 | 🟢 | C++ |
-| [Pengu Loader](https://github.com/PenguLoader/PenguLoader) | JavaScript plugin loader for the League of Legends client | 758 | 🟢 | C++ |
+| [Pengu Loader](https://github.com/PenguLoader/PenguLoader) | JavaScript plugin loader for the League of Legends client | 757 | 🟢 | C++ |
 | [Godot Mod Loader](https://github.com/GodotModding/godot-mod-loader) | Generic mod loader for Godot games | 695 | 🟢 | GDScript |
 | [plugin-sdk](https://github.com/DK22Pac/plugin-sdk) | SDK for ASI/CLEO plugins for GTA III, Vice City and San Andreas | 681 | 🟢 | C |
 | [me3](https://github.com/garyttierney/me3) | Mod Engine 3, a framework for modding and instrumenting FromSoftware games | 677 | 🟢 | Rust |
 | [open.mp](https://github.com/openmultiplayer/open.mp) | Multiplayer mod for GTA San Andreas, backwards compatible with SA-MP | 668 | 🟢 | C++ |
-| [Xenia game patches](https://github.com/xenia-canary/game-patches) | Game patches such as frame-rate and resolution fixes for the Xenia Xbox 360 emulator | 631 | 🟢 | Python |
+| [Xenia game patches](https://github.com/xenia-canary/game-patches) | Game patches such as frame-rate and resolution fixes for the Xenia Xbox 360 emulator | 632 | 🟢 | Python |
 | [Lovely](https://github.com/ethangreen-dev/lovely-injector) | Runtime Lua injector for LOVE2D games such as Balatro | 625 | 🟢 | Rust |
 | [Unity Mod Manager](https://github.com/newman55/unity-mod-manager) | Mod manager and loader for Unity games | 554 | 🟢 | C# |
-| [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) | Generates managed proxy assemblies for IL2CPP Unity games so they can be modded | 544 | 🗄️ | C# |
+| [Il2CppAssemblyUnhollower](https://github.com/knah/Il2CppAssemblyUnhollower) | Generates managed proxy assemblies for IL2CPP Unity games so they can be modded | 545 | 🗄️ | C# |
 | [FFNx](https://github.com/julianxhokaxhiu/FFNx) | Next-generation modding platform and driver for Final Fantasy VII and VIII PC | 533 | 🟢 | C++ |
 | [Everest](https://github.com/EverestAPI/Everest) | Celeste mod loader and mod API | 523 | 🟢 | C# |
 | [ModTheSpire](https://github.com/kiooeht/ModTheSpire) | External mod loader for Slay the Spire | 520 | 🟡 | Java |
-| [RED4ext](https://github.com/wopss/RED4ext) | Script extender for REDengine 4 (Cyberpunk 2077) | 513 | 🟢 | C++ |
+| [RED4ext](https://github.com/wopss/RED4ext) | Script extender for REDengine 4 (Cyberpunk 2077) | 515 | 🟢 | C++ |
 | [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) | Mod loader and manager for Sonic Hedgehog Engine games | 505 | 🟢 | C# |
 | [Phobos](https://github.com/Phobos-developers/Phobos) | Engine extension for C&C Red Alert 2: Yuri's Revenge | 503 | 🟢 | C++ |
 | [BDSX](https://github.com/bdsx/bdsx) | Minecraft Bedrock Dedicated Server modding with Node.js | 489 | 🗄️ | TypeScript |
 | [mint (Deep Rock Galactic)](https://github.com/trumank/mint) | Mod loader and integration for Deep Rock Galactic | 458 | 🟢 | Rust |
 | [sfall](https://github.com/sfall-team/sfall) | sfall - Engine modifications for Fallout 2 | 450 | 🟢 | C++ |
-| [Mod Loader (GTA III / VC / SA)](https://github.com/thelink2012/modloader) | Mod loader for Grand Theft Auto III, Vice City and San Andreas | 439 | 🟢 | C++ |
+| [Mod Loader (GTA III / VC / SA)](https://github.com/thelink2012/modloader) | Mod loader for Grand Theft Auto III, Vice City and San Andreas | 440 | 🟢 | C++ |
 | [KH-ReFined](https://github.com/KH-ReFined/KH-ReFined) | Fixes and improvements for the PC ports of Kingdom Hearts | 435 | 🗄️ |  |
 | [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java) | Mod Coder Pack for decompiling and recompiling old Minecraft versions | 416 | 🟢 | Java |
-| [DivaModLoader](https://github.com/blueskythlikesclouds/DivaModLoader) | Mod loader for Hatsune Miku: Project DIVA Mega Mix+ | 413 | 🟡 | C++ |
-| [ARCropolis](https://github.com/Raytwo/ARCropolis) | Modding framework for Super Smash Bros. Ultimate file replacement | 394 | 🟢 | Rust |
+| [DivaModLoader](https://github.com/blueskythlikesclouds/DivaModLoader) | Mod loader for Hatsune Miku: Project DIVA Mega Mix+ | 414 | 🟡 | C++ |
+| [ARCropolis](https://github.com/Raytwo/ARCropolis) | Modding framework for Super Smash Bros. Ultimate file replacement | 395 | 🟢 | Rust |
 | [Oxide.Rust](https://github.com/OxideMod/Oxide.Rust) | Rust game extension for the Oxide modding framework | 387 | 🟢 | C# |
 | [anno1800-mod-loader](https://github.com/magicalcookie/anno1800-mod-loader) | Mod loader for Anno 1800 | 368 | 🗄️ | C++ |
-| [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | Script extender for The Binding of Isaac: Repentance | 361 | 🟢 | C++ |
+| [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | Script extender for The Binding of Isaac: Repentance | 362 | 🟢 | C++ |
 | [SKSE64](https://github.com/ianpatt/skse64) | Skyrim Special Edition Script Extender | 361 | 🟢 | C++ |
 | [SFSE](https://github.com/ianpatt/sfse) | Starfield Script Extender | 359 | 🟢 | C++ |
-| [Hollow Knight Modding API](https://github.com/hk-modding/api) | Modding API for Hollow Knight built by patching game assemblies | 347 | 🟢 | C# |
+| [Hollow Knight Modding API](https://github.com/hk-modding/api) | Modding API for Hollow Knight built by patching game assemblies | 348 | 🟢 | C# |
 | [SatisfactoryModLoader](https://github.com/satisfactorymodding/SatisfactoryModLoader) | Unofficial mod loader for Satisfactory | 346 | 🟢 | C++ |
 | [FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs) | Reverse engineered native class layouts of the Final Fantasy XIV client | 344 | 🟢 | C# |
-| [VorpalFix](https://github.com/Wemino/VorpalFix) | Binary patch that fixes technical issues in American McGee's Alice (PC) | 343 | 🟢 | C++ |
+| [VorpalFix](https://github.com/Wemino/VorpalFix) | Binary patch that fixes technical issues in American McGee's Alice (PC) | 344 | 🟢 | C++ |
 | [BCML (Breath of the Wild)](https://github.com/NiceneNerd/BCML) | Cross-platform mod loader and merger for The Legend of Zelda: Breath of the Wild | 333 | 🟢 | Python |
 | [xOBSE](https://github.com/llde/xOBSE) | Oblivion Script Extender | 318 | 🟢 | C++ |
 | [Better-Endfield](https://github.com/Dr-hydra/Better-Endfield) | Modding toolkit for Arknights: Endfield on Windows and Android | 316 | 🟢 | C# |
@@ -4169,13 +4169,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BakkesModSDK](https://github.com/bakkesmodorg/BakkesModSDK) | Unofficial SDK for Rocket League modding with BakkesMod | 285 | 🟢 | C++ |
 | [MetaHookSv](https://github.com/MetaHookSv/MetaHookSv) | MetaHook plugin loader ported to the Sven Co-op GoldSrc engine | 262 | 🟢 | Python |
 | [Reactor](https://github.com/NuclearPowered/Reactor) | Modding API for Among Us | 257 | 🟢 | C# |
-| [The Legend of Zelda: Majora's Mask 3D (mm3d-dekui)](https://github.com/tgacquin/mm3d-dekui) | Single-screen and frame interpolation patch for Majora's Mask 3D (3DS) | 249 | 🟢 | C++ |
-| [UnrealModLoader](https://github.com/RussellJerome/UnrealModLoader) | Universal mod loader for Unreal Engine 4 games | 247 | 🔴 | C++ |
+| [The Legend of Zelda: Majora's Mask 3D (mm3d-dekui)](https://github.com/tgacquin/mm3d-dekui) | Single-screen and frame interpolation patch for Majora's Mask 3D (3DS) | 254 | 🟢 | C++ |
+| [UnrealModLoader](https://github.com/RussellJerome/UnrealModLoader) | Universal mod loader for Unreal Engine 4 games | 246 | 🔴 | C++ |
 | [CommonLibSSE](https://github.com/Ryan-rsm-McKenzie/CommonLibSSE) | Reverse-engineered C++ library of Skyrim SE game types for plugin development | 241 | 🔴 | C++ |
 | [umamusume-localify](https://github.com/GEEKiDoS/umamusume-localify) | Localization hook for the Umamusume Pretty Derby DMM client | 241 | 🗄️ | C++ |
 | [MetaMystia](https://github.com/MetaMystia/MetaMystia) | Multiplayer mod for Touhou Mystia's Izakaya | 212 | 🟢 | C# |
+| [D2RMM](https://github.com/olegbl/d2rmm) | Mod manager for Diablo II: Resurrected | 205 | 🟢 | TypeScript |
 | [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded) | Unity mod injector built for Beat Saber | 204 | 🟢 | C# |
-| [D2RMM](https://github.com/olegbl/d2rmm) | Mod manager for Diablo II: Resurrected | 204 | 🟢 | TypeScript |
 | [Hedge Mod Manager](https://github.com/hedge-dev/HedgeModManager) | Mod manager and code loader for Sonic the Hedgehog PC games | 201 | 🟢 | C# |
 | [Engine Fixes (Skyrim SE)](https://github.com/aers/EngineFixesSkyrim64) | SKSE plugin that fixes Skyrim Special Edition engine bugs | 200 | 🟢 | C++ |
 | [ER Mario](https://github.com/deltarooo/er-mario) | Elden Ring mod that adds Super Mario 64's Mario via libsm64 (PC) | 196 | 🟢 | C |
@@ -4185,8 +4185,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [CLEO 5](https://github.com/cleolibrary/CLEO5) | Script extension library for GTA San Andreas | 189 | 🟢 | C++ |
 | [MSCLoader (My Summer Car)](https://github.com/piotrulos/MSCModLoader) | Mod loader for My Summer Car and My Winter Car | 182 | 🟢 | C# |
 | [ThunderKit](https://github.com/PassivePicasso/ThunderKit) | Mod project development environment for Unity games | 182 | 🟢 | C# |
-| [ArkWeb](https://github.com/luki-1/ArkWeb) | Experiment that runs Spider-Man Remastered and Arkham Knight together with shared collision | 181 | 🟢 | C++ |
 | [UXM (FromSoftware)](https://github.com/JKAnderson/UXM) | Unpacks FromSoftware game archives so mods can load loose files | 181 | 🗄️ | C# |
+| [ArkWeb](https://github.com/luki-1/ArkWeb) | Experiment that runs Spider-Man Remastered and Arkham Knight together with shared collision | 180 | 🟢 | C++ |
 | [EldenRingModLoader](https://github.com/techiew/EldenRingModLoader) | Mod loader for Elden Ring | 173 | 🟡 | C++ |
 | [RE_Kenshi](https://github.com/BFrizzleFoShizzle/RE_Kenshi) | Plugin loader and engine fixes for Kenshi | 171 | 🟢 | C++ |
 | [Retro64](https://github.com/Retro64Mod/Retro64Mod) | Minecraft mod that adds Super Mario 64's Mario via libsm64 (PC) | 170 | 🟢 | Java |
@@ -4201,12 +4201,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [W2-Plus (Worms 2)](https://github.com/Carlmundo/W2-Plus) | Patch that makes Worms 2 run on modern computers with extra features | 153 | 🟢 | Inno Setup |
 | [Jötunn (Valheim)](https://github.com/Valheim-Modding/Jotunn) | Modding library for Valheim | 152 | 🟢 | C# |
 | [Creation-Kit-Platform-Extended](https://github.com/Perchik71/Creation-Kit-Platform-Extended) | Fixes and extensions for Bethesda's Creation Kit built from reverse engineering | 150 | 🟢 | C++ |
+| [WorldBox ModLoader](https://github.com/WorldBoxOpenMods/ModLoader) | Mod loader for WorldBox | 150 | 🟢 | C# |
 | [QModManager (Subnautica)](https://github.com/SubnauticaModding/QModManager) | Mod loader for Subnautica and Below Zero | 149 | 🗄️ | C# |
-| [WorldBox ModLoader](https://github.com/WorldBoxOpenMods/ModLoader) | Mod loader for WorldBox | 149 | 🟢 | C# |
+| [CLEO-iOS (GTA San Andreas)](https://github.com/squ1dd13/CLEO-iOS) | Mod loader for GTA: San Andreas on iOS | 147 | 🗄️ | Rust |
 | [ArchiveXL (Cyberpunk 2077)](https://github.com/psiberx/cp2077-archive-xl) | Cyberpunk 2077 modding tool for loading custom resources without archive conflicts | 146 | 🟢 | C++ |
-| [CLEO-iOS (GTA San Andreas)](https://github.com/squ1dd13/CLEO-iOS) | Mod loader for GTA: San Andreas on iOS | 146 | 🗄️ | Rust |
-| [Dark-Souls-1-Overhaul](https://github.com/metal-crow/Dark-Souls-1-Overhaul) | Gameplay overhaul mod for Dark Souls built via reverse engineering | 145 | 🟢 | C++ |
-| [TweakXL (Cyberpunk 2077)](https://github.com/psiberx/cp2077-tweak-xl) | Cyberpunk 2077 modding tool for TweakDB edits | 142 | 🟢 | C++ |
+| [Dark-Souls-1-Overhaul](https://github.com/metal-crow/Dark-Souls-1-Overhaul) | Gameplay overhaul mod for Dark Souls built via reverse engineering | 146 | 🟢 | C++ |
+| [TweakXL (Cyberpunk 2077)](https://github.com/psiberx/cp2077-tweak-xl) | Cyberpunk 2077 modding tool for TweakDB edits | 143 | 🟢 | C++ |
 | [AutomataMP](https://github.com/praydog/AutomataMP) | NieR: Automata multiplayer mod | 138 | 🟡 | C++ |
 | [FF8_demaster](https://github.com/MaKiPL/FF8_demaster) | Unofficial Final Fantasy VIII Remastered core mod | 137 | 🟢 | C |
 | [skyrimse-test](https://github.com/Nukem9/skyrimse-test) | Reverse engineering and fixes for Skyrim Special Edition | 137 | 🟡 | C++ |
@@ -4219,7 +4219,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ACUFixes](https://github.com/NameTaken3125/ACUFixes) | Add-on and fixes for Assassin's Creed Unity | 117 | 🟡 | C++ |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](https://github.com/headshot2017/sm64-san-andreas) | GTA San Andreas mod that adds Super Mario 64's Mario via libsm64 (PC) | 116 | 🟡 | C |
 | [TRLAU-menu-hook](https://github.com/TheIndra55/TRLAU-menu-hook) | Reverse engineering, menu and patches for Tomb Raider Legend/Anniversary/Underworld | 115 | 🟢 | C++ |
-| [AndroidModLoader (AML)](https://github.com/RusJJ/AndroidModLoader) | Mod loader for Android games and applications | 113 | 🟢 | C++ |
+| [AndroidModLoader (AML)](https://github.com/RusJJ/AndroidModLoader) | Mod loader for Android games and applications | 114 | 🟢 | C++ |
 | [OWML](https://github.com/ow-mods/owml) | Mod loader and library for Outer Wilds | 113 | 🟢 | C# |
 | [RedLoader (Sons of the Forest)](https://github.com/ToniMacaroni/RedLoader) | Mod loader for Sons of the Forest | 112 | 🟡 | C# |
 | [umamusume-localify](https://github.com/Kimjio/umamusume-localify) | Localization and enhancement mod for the Uma Musume Windows client | 111 | 🟢 | C++ |
@@ -4236,29 +4236,29 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [GDPatch](https://github.com/GDPatch/GDPatch) | Cross-platform, cross-version mod loader for Godot games | 91 | 🟢 | Rust |
 | [sh2cammod (Silent Hill 2)](https://github.com/zealottormunds/sh2cammod) | Silent Hill 2 mod loader and camera mod | 90 | 🟡 |  |
 | [FA2sp](https://github.com/secsome/FA2sp) | Extension for the Red Alert 2 Final Alert 2 map editor | 88 | 🗄️ | C++ |
+| [OneLoader (OMORI)](https://github.com/rphsoftware/OneLoader) | Mod loader for OMORI | 88 | 🟡 | JavaScript |
 | [Spore ModAPI](https://github.com/Spore-Community/Spore-ModAPI) | C++ SDK for creating code mods for Spore | 88 | 🟢 | C++ |
 | [unrealmodding](https://github.com/AstroTechies/unrealmodding) | Rust tools and integrator for modding Unreal Engine games | 88 | 🟢 | Rust |
-| [OneLoader (OMORI)](https://github.com/rphsoftware/OneLoader) | Mod loader for OMORI | 87 | 🟡 | JavaScript |
 | [MuseDashModLoader](https://github.com/mo10/MuseDashModLoader) | Mod loader for Muse Dash | 85 | 🔴 | C |
+| [fromsoftware-rs](https://github.com/vswarte/fromsoftware-rs) | Rust bindings to Elden Ring, Dark Souls 3, Nightreign and Sekiro internals | 82 | 🟢 | Rust |
 | [PitCrew (The Crew)](https://github.com/Telonof/PitCrew) | Mod loader for The Crew and The Crew 2 | 82 | 🟢 | C# |
-| [fromsoftware-rs](https://github.com/vswarte/fromsoftware-rs) | Rust bindings to Elden Ring, Dark Souls 3, Nightreign and Sekiro internals | 80 | 🟢 | Rust |
 | [Chairloader (Prey)](https://github.com/thelivingdiamond/Chairloader) | Modding framework for Prey (2017) | 78 | 🟢 | C++ |
 | [libER](https://github.com/Dasaav-dsv/libER) | Elden Ring API library focused on binary compatibility | 77 | 🟡 | C++ |
+| [Multivoid](https://github.com/VOTV-MP/Multivoid) | Multiplayer co-op mod for Voices of the Void (UE4SS) | 77 | 🟢 | C++ |
 | [ONI-Modloader](https://github.com/javisar/ONI-Modloader) | Mod loader for Oxygen Not Included | 75 | 🟡 | C# |
-| [Multivoid](https://github.com/VOTV-MP/Multivoid) | Multiplayer co-op mod for Voices of the Void (UE4SS) | 74 | 🟢 | C++ |
-| [zmod](https://github.com/Fragonite/zmod) | Mod loader for Dynasty Warriors 8: Xtreme Legends and Warriors Orochi 4 | 73 | 🟡 | C++ |
+| [zmod](https://github.com/Fragonite/zmod) | Mod loader for Dynasty Warriors 8: Xtreme Legends and Warriors Orochi 4 | 74 | 🟡 | C++ |
 | [ModLoader64](https://github.com/hylian-modding/ModLoader64) | Game-agnostic N64 mod loader built on Mupen64Plus | 71 | 🔴 | TypeScript |
 | [SADX Mod Loader](https://github.com/X-Hax/sadx-mod-loader) | Mod loader for Sonic Adventure DX PC | 70 | 🟢 | C |
 | [BallanceModLoader](https://github.com/Gamepiaynmo/BallanceModLoader) | Mod loader for Ballance | 66 | 🔴 | C++ |
+| [OBSE64](https://github.com/ianpatt/obse64) | Oblivion Remastered Script Extender | 66 | 🟡 | C++ |
 | [SharpPluginLoader](https://github.com/Fexty12573/SharpPluginLoader) | C# plugin loader for Monster Hunter World | 66 | 🟢 | C# |
 | [ITB-ModLoader](https://github.com/itb-community/ITB-ModLoader) | Lua mod loader for Into the Breach | 65 | 🟢 | Lua |
-| [OBSE64](https://github.com/ianpatt/obse64) | Oblivion Remastered Script Extender | 65 | 🟡 | C++ |
+| [Riftwii](https://github.com/KakarottoCake/Riftwii) | Clean-room Wii disc mod loader with SD packages, runtime patching and save redirection | 65 | 🟢 | C++ |
 | [bg3se-macos](https://github.com/tdimino/bg3se-macos) | Baldur's Gate 3 Script Extender replication for macOS | 64 | 🟢 | C |
 | [CCLoader (CrossCode)](https://github.com/CCDirectLink/CCLoader) | Mod loader for CrossCode | 64 | 🟢 | JavaScript |
 | [SA2 Mod Loader](https://github.com/X-Hax/sa2-mod-loader) | Mod loader for Sonic Adventure 2 PC | 64 | 🟢 | C++ |
 | [MGE XE (Morrowind)](https://github.com/Hrnchamd/MGE-XE) | Morrowind Graphics Extender XE: renderer and engine extensions for The Elder Scrolls III: Morrowind | 63 | 🟡 | C++ |
 | [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android) | Android port of the umamusume-localify localization mod | 63 | 🟢 | C++ |
-| [Riftwii](https://github.com/KakarottoCake/Riftwii) | Clean-room Wii disc mod loader with SD packages, runtime patching and save redirection | 62 | 🟢 | C++ |
 | [SRML (Slime Rancher)](https://github.com/SlimeRancherModding/SRML) | Mod loader for Slime Rancher | 62 | 🟡 | C# |
 | [EDFModLoader](https://github.com/BlueAmulet/EDFModLoader) | Mod loader for Earth Defense Force 4.1, 5 and 6 | 61 | 🟡 | C++ |
 | [besiege-modloader](https://github.com/spaar/besiege-modloader) | Mod loader for Besiege | 57 | 🔴 | C# |
@@ -4289,9 +4289,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [yrpp-spawner (Red Alert 2)](https://github.com/CnCNet/yrpp-spawner) | CnCNet spawner DLL for Command & Conquer: Yuri's Revenge | 39 | 🟢 | C++ |
 | [plugin-sdk-sa](https://github.com/Dryxio/plugin-sdk-sa) | GTA San Andreas plugin SDK extended from a fully reverse-engineered codebase | 38 | 🟢 | C |
 | [Stationeers.Addons](https://github.com/StationeersAddons/Stationeers.Addons) | Modding framework for Stationeers | 38 | 🔴 | C# |
-| [Faucet (Minecraft LCE)](https://github.com/ytsodacan/Faucet) | Mod loader for Minecraft Legacy Console Edition | 37 | 🟢 | C++ |
 | [VostokMods](https://github.com/Ryhon0/VostokMods) | Mod loader for Road to Vostok | 37 | 🟢 | GDScript |
 | [fastman92 limit adjuster (GTA)](https://github.com/abhiaiyer91/recompose-apollo) | Limit adjuster that patches GTA III, Vice City and San Andreas executables | 36 | 🟡 | JavaScript |
+| [Faucet (Minecraft LCE)](https://github.com/ytsodacan/Faucet) | Mod loader for Minecraft Legacy Console Edition | 36 | 🟢 | C++ |
 | [alien-shooter-multiplayer](https://github.com/ep1h/alien-shooter-multiplayer) | Multiplayer mode for Alien Shooter (2003) | 35 | 🟢 | C |
 | [p5rpc.modloader](https://github.com/Sewer56/p5rpc.modloader) | Mod loader for the PC versions of Persona 3, 4 and 5 Royal | 35 | 🟢 | C# |
 | [pulsar-mod-loader](https://github.com/PULSAR-Modders/pulsar-mod-loader) | Unofficial mod support for PULSAR: Lost Colony | 35 | 🟡 | C# |
@@ -4300,10 +4300,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [shroudtopia](https://github.com/s0t7x/shroudtopia) | Experimental mod loader for Enshrouded | 34 | 🟢 | C++ |
 | [CrabeLoader](https://github.com/LucasLhomme/CrabeLoader) | Mod loader for Disney Infinity 3.0 (PC, Octane engine) | 33 | 🟢 | C++ |
 | [Synapse (SCP:SL)](https://github.com/SynapseSL/Synapse) | Mod loader for SCP: Secret Laboratory | 33 | 🗄️ | C# |
+| [Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) | Native mod loader for Baldur's Gate 3 | 33 | 🟢 | Rust |
 | [gdmod](https://github.com/arthuro555/gdmod) | Mod loader and modding API for GDevelop games | 32 | 🔴 | TypeScript |
 | [ggxrd-mod](https://github.com/super-continent/ggxrd-mod) | Character script mod loader and QoL mod for Guilty Gear Xrd Rev 2 | 32 | 🟢 | C++ |
 | [NoMansSky.Api](https://github.com/gurrenm3/NoMansSky.Api) | C# modding API for No Man's Sky built on Reloaded II | 32 | 🔴 | C# |
-| [Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) | Native mod loader for Baldur's Gate 3 | 32 | 🟢 | Rust |
 | [EmperorReborn](https://github.com/azmawee/EmperorReborn) | Widescreen and compatibility patch for Emperor: Battle for Dune on modern Windows (PC) | 31 | 🟢 | C |
 | [crus-modloader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) | Mod loader for Cruelty Squad | 30 | 🟡 | GDScript |
 | [DemonsSoulsDebug](https://github.com/gibbed/DemonsSoulsDebug) | Patches for Demon's Souls that enable debug menus and other functions | 30 | 🔴 | C# |
@@ -4329,10 +4329,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Resident-Doom](https://github.com/Drelvak/Resident-Doom) | Resident Evil 1 gameplay systems ported into GZDoom using the RE1 PC decompilation | 23 | 🟢 | ZenScript |
 | [X4-rest-server](https://github.com/Alia5/X4-rest-server) | REST server for X4: Foundations game state | 23 | 🔴 | C++ |
 | [CivilizationVI_CommunityExtension](https://github.com/Wild-W/CivilizationVI_CommunityExtension) | Script extender DLL patch for Civilization VI | 22 | 🟢 | C++ |
-| [OpenModManager (A Hat in Time)](https://github.com/mcu8/OpenModManager) | Mod manager and loader for A Hat in Time | 22 | 🟡 | C# |
 | [Quintessential (Opus Magnum)](https://github.com/QuintessentialOM/Quintessential) | Mod loader for Opus Magnum | 22 | 🟢 | C# |
 | [ror2-modloader](https://github.com/meepen/ror2-modloader) | Mod loader for Risk of Rain 2 | 22 | 🔴 | C# |
 | [FallenOrderModLoader](https://github.com/RussellJerome/FallenOrderModLoader) | Loads blueprint pak mods for Star Wars Jedi: Fallen Order | 21 | 🔴 | C++ |
+| [OpenModManager (A Hat in Time)](https://github.com/mcu8/OpenModManager) | Mod manager and loader for A Hat in Time | 21 | 🟡 | C# |
 | [Playlunky (Spelunky 2)](https://github.com/spelunky-fyi/Playlunky) | Mod management for Spelunky 2 via DLL injection | 21 | 🟢 | C |
 | [PSPModBase](https://github.com/xan1242/PSPModBase) | Plugin base for PSP game modding and code injection | 21 | 🟢 | C |
 | [RatataR (Ratatouille)](https://github.com/0x5abe/RatataR) | Custom launcher for Ratatouille (PC) | 21 | 🟢 | C++ |
@@ -4381,30 +4381,30 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V. | 11,539 | 🟢 | Kotlin |
-| [Spring (Total Annihilation)](https://github.com/spring/spring) | Open-source remake of Total Annihilation | 4,030 | 🟡 | C++ |
+| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V. | 11,549 | 🟢 | Kotlin |
+| [Spring (Total Annihilation)](https://github.com/spring/spring) | Open-source remake of Total Annihilation | 4,032 | 🟡 | C++ |
 | [Space Station 14](https://github.com/space-wizards/space-station-14) | Space Station 14 is a revived attempt at a Space Station 13 remake. | 3,900 | 🟢 | C# |
 | [TrueCraft (Minecraft)](https://github.com/ddevault/TrueCraft) | TrueCraft, a clean-room implementation of Minecraft beta 1.7.3 | 2,455 | 🗄️ | C# |
 | [Taisei](https://github.com/taisei-project/taisei) | Fan-made, open-source clone of the Touhou series. | 1,669 | 🟢 | C |
-| [Pacman 吃豆游戏](https://github.com/mumuy/pacman) | Open-source remake of Pac-Man | 1,643 | 🟢 | JavaScript |
-| [KeeperFX](https://github.com/dkfans/keeperfx) | Open source remake and Fan Expansion of Dungeon Keeper. | 1,039 | 🟢 | C |
+| [Pacman 吃豆游戏](https://github.com/mumuy/pacman) | Open-source remake of Pac-Man | 1,644 | 🟢 | JavaScript |
+| [KeeperFX](https://github.com/dkfans/keeperfx) | Open source remake and Fan Expansion of Dungeon Keeper. | 1,040 | 🟢 | C |
 | [Command & Conquer - HTML5](https://github.com/adityaravishankar/command-and-conquer) | Open-source remake of Command & Conquer | 810 | 🔴 | JavaScript |
 | [pacman (Pac-Man)](https://github.com/daleharvey/pacman) | Open-source remake of Pac-Man | 734 | 🔴 | JavaScript |
-| [OpenCiv3](https://github.com/C7-Game/OpenCiv3) | OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community... | 690 | 🟢 | C# |
+| [OpenCiv3](https://github.com/C7-Game/OpenCiv3) | OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community... | 691 | 🟢 | C# |
 | [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) | Open-source remake of Duck Hunt | 636 | 🟢 | JavaScript |
 | [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) | Rebuild of the X-COM: Apocalypse engine. | 606 | 🟢 | C++ |
 | [pacman.c (Pac-Man)](https://github.com/floooh/pacman.c) | Pac-Man clone written in C99 | 596 | 🟢 | C |
-| [ZQuest Classic](https://github.com/ZQuestClassic/ZQuestClassic) | Open-source remake of Legend of Zelda | 567 | 🟢 | C++ |
+| [ZQuest Classic](https://github.com/ZQuestClassic/ZQuestClassic) | Open-source remake of Legend of Zelda | 568 | 🟢 | C++ |
 | [skifree.js](https://github.com/basicallydan/skifree.js) | Open-source remake of SkiFree | 552 | 🟢 | JavaScript |
 | [OpenKeeper](https://github.com/tonihele/OpenKeeper) | Dungeon Keeper II remake in Java. | 514 | 🟢 | Java |
 | [openomf](https://github.com/omf2097/openomf) | One Must Fall 2097 Remake. | 506 | 🟢 | C |
-| [rich4-renew-app](https://github.com/iam567/rich4-renew-app) | Remake of the Richman 4 (Da Fu Weng 4) board game as a web and iOS app | 451 | 🟢 | TypeScript |
+| [rich4-renew-app](https://github.com/iam567/rich4-renew-app) | Remake of the Richman 4 (Da Fu Weng 4) board game as a web and iOS app | 459 | 🟢 | TypeScript |
 | [KaM Remake](https://github.com/Kromster80/kam_remake) | RTS game remake of Knights and Merchants written in Delphi from scratch. | 378 | 🗄️ | Pascal |
 | [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) | A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: hig... | 376 | 🟢 | C++ |
 | [pacman-canvas (Pac-Man)](https://github.com/platzhersh/pacman-canvas) | Open-source remake of Pac-Man | 350 | 🟢 | JavaScript |
-| [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) | Remake of C&C Red Alert 2 based on the OpenRA engine | 345 | 🟡 | C# |
+| [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) | Remake of C&C Red Alert 2 based on the OpenRA engine | 346 | 🟡 | C# |
+| [vera20k](https://github.com/YuriPlanet/vera20k) | Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles. | 328 | 🟢 | Rust |
 | [Ballance (Unity remake)](https://github.com/imengyu/Ballance) | Unity remake of the classic Ballance game | 318 | 🟢 | C# |
-| [vera20k](https://github.com/YuriPlanet/vera20k) | Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles. | 310 | 🟢 | Rust |
 | [Sonic and the Secret Rings (Project Reignition)](https://github.com/kumapauz/project-reignition) | Open-source remake of Sonic and the Secret Rings (Wii) | 309 | 🟢 | C# |
 | [OpenLieroX](https://github.com/openlierox/openlierox) | Open-source remake of Liero | 305 | 🟢 | C++ |
 | [pacman.zig (Pac-Man)](https://github.com/floooh/pacman.zig) | Pac-Man clone written in Zig | 298 | 🟢 | Zig |
@@ -4412,23 +4412,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Syndicate Wars](https://github.com/swfans/syndwarsfx) | Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game. | 273 | 🟢 | C |
 | [orona (Bolo)](https://github.com/stephank/orona) | Open-source remake of Bolo | 272 | 🗄️ | CoffeeScript |
 | [pypvz](https://github.com/wszqkzqk/pypvz) | Open-source Python implementation of Plants vs. Zombies | 262 | 🟡 | Python |
-| [FVM-Reborn](https://github.com/Spring-SG/FVM-Reborn) | GameMaker fan remake of the Chinese web game Food vs Mice (Meishi Dazhan Laoshu) | 254 | 🟢 | Game Maker Language |
+| [FVM-Reborn](https://github.com/Spring-SG/FVM-Reborn) | GameMaker fan remake of the Chinese web game Food vs Mice (Meishi Dazhan Laoshu) | 257 | 🟢 | Game Maker Language |
 | [Counter-Strike-Nintendo-DS](https://github.com/Fewnity/Counter-Strike-Nintendo-DS) | Counter-Strike demake for the Nintendo DS | 241 | 🟢 | C |
 | [Lode Runner - Total Recall](https://github.com/SimonHung/LodeRunner_TotalRecall) | Open-source remake of Lode Runner (Arcade) | 234 | 🟡 | JavaScript |
 | [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) | 8-player Bomberman clone for RetroArch/Libretro. | 231 | 🟢 | C |
 | [GoldenEye: Source](https://github.com/goldeneye-source/ges-code) | Open-source remake of GoldenEye 007 (N64) | 208 | 🗄️ | C++ |
 | [Mir2 (JS)](https://github.com/c-zhuo/Mir2) | JavaScript and Node recreation of The Legend of Mir 2 characters, equipment and combat | 197 | 🔴 |  |
 | [LegacyGwent](https://github.com/LegacyGwent/LegacyGwent) | Recreation of the closed-beta version of Gwent: The Witcher Card Game with its own server | 191 | 🟢 | C# |
-| [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) | C# library that emulates Pokémon battles | 189 | 🔴 | C# |
+| [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) | C# library that emulates Pokémon battles | 190 | 🔴 | C# |
 | [PvZ-Unity](https://github.com/dkheng/PvZ-Unity) | Unity recreation of Plants vs. Zombies | 189 | 🔴 | C# |
-| [freeserf.net](https://github.com/Pyrdacor/freeserf.net) | Settlers 1 clone written in C# | 179 | 🟢 | C# |
+| [freeserf.net](https://github.com/Pyrdacor/freeserf.net) | Settlers 1 clone written in C# | 180 | 🟢 | C# |
 | [BattleCity (Battle City)](https://github.com/newagebegins/BattleCity) | Open-source remake of Battle City (Arcade) | 173 | 🟢 | JavaScript |
 | [UAlbion](https://github.com/csinkers/ualbion) | Remake of 1995 Albion. | 172 | 🟢 | C# |
 | [Enigma (Oxyd)](https://github.com/Enigma-Game/Enigma) | Open-source remake of Oxyd | 171 | 🟢 | C++ |
-| [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) | Open-source remake of Tails Adventure (Game Gear) | 160 | 🟢 | C++ |
+| [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) | Open-source remake of Tails Adventure (Game Gear) | 161 | 🟢 | C++ |
 | [war1](https://github.com/acoto87/war1) | A remake of Warcraft: Orcs & Humans written in C | 156 | 🟢 | C |
 | [OpenGoo (World of Goo)](https://github.com/Mandarancio/OpenGOO) | Open-source remake of World of Goo | 154 | 🔴 | C |
-| [OPHD](https://github.com/OutpostUniverse/OPHD) | OutpostHD - Open source remake of Sierra On-Line's Outpost. | 147 | 🟢 | C++ |
+| [OPHD](https://github.com/OutpostUniverse/OPHD) | OutpostHD - Open source remake of Sierra On-Line's Outpost. | 148 | 🟢 | C++ |
 | [Mininim (Prince of Persia)](https://github.com/oitofelix/mininim) | Open-source remake of Prince of Persia | 142 | 🔴 | C |
 | [TVTower (Mad TV)](https://github.com/TVTower/TVTower) | Open-source remake of Mad TV | 135 | 🟢 | BlitzMax |
 | [Armor Alley: Remastered](https://github.com/scottschiller/ArmorAlley) | Open-source remake of Armor Alley | 132 | 🟢 | JavaScript |
@@ -4442,31 +4442,31 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Antares](https://github.com/arescentral/antares) | Remake of Ares, a tactical space combat game. | 113 | 🟢 | C++ |
 | [stuntcarremake (Stunt Car Racer)](https://github.com/ptitSeb/stuntcarremake) | Open-source remake of Stunt Car Racer (C64) | 111 | 🟢 | C++ |
 | [Castle of the Winds in Elm](https://github.com/mordrax/cotwelm) | Open-source remake of Castle of the Winds | 109 | 🟢 | Elm |
-| [genius-invokation](https://github.com/piovium/genius-invokation) | TypeScript simulator of Genshin Impact's Genius Invokation TCG | 107 | 🟢 | TypeScript |
+| [genius-invokation](https://github.com/piovium/genius-invokation) | TypeScript simulator of Genshin Impact's Genius Invokation TCG | 108 | 🟢 | TypeScript |
 | [Jactorio (Factorio)](https://github.com/jaihysc/Jactorio) | Open-source remake of Factorio | 104 | 🟢 | C++ |
 | [OutRun](https://github.com/ZgzInfinity/OutRun) | Open-source remake of OutRun (PC) | 98 | 🟢 | C++ |
 | [Metroid for MMC3](https://github.com/ZaneDubya/MetroidMMC3) | Open-source remake of Metroid (Arcade) | 97 | 🟡 | Assembly |
+| [OpenZ](https://github.com/playopenz/OpenZ) | Open-source 3D fan remake of Z (The Bitmap Brothers, 1996) (PC) | 97 | 🟢 | C# |
+| [janitorial-android (LEGO Junkbot)](https://github.com/1j01/janitorial-android) | Detailed remake of LEGO Junkbot with a level editor | 96 | 🟡 | JavaScript |
 | [Digger (Boulder Dash)](https://github.com/lutzroeder/digger) | Open-source remake of Boulder Dash (Arcade) | 95 | 🗄️ | HTML |
-| [janitorial-android (LEGO Junkbot)](https://github.com/1j01/janitorial-android) | Detailed remake of LEGO Junkbot with a level editor | 95 | 🟡 | JavaScript |
 | [Orbium (Log!cal)](https://github.com/bni/orbium) | Open-source remake of Log!cal | 90 | 🟡 | JavaScript |
 | [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) | Java remake of Lionheart Amiga game. | 88 | 🟢 | Java |
 | [Hurrican (Turrican)](https://github.com/HurricanGame/Hurrican) | Open-source remake of Turrican | 86 | 🟢 | C++ |
 | [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) | Remake of C&C Tiberian Sun based on the OpenRA engine | 84 | 🟡 | C# |
 | [Moon Child (Moon Child FE)](https://github.com/MorsGames/MoonChildFE) | Open-source remake of Moon Child (PC) | 82 | 🟢 | C++ |
 | [OpenEtG (Elements)](https://github.com/serprex/openEtG) | Open-source remake of Elements | 82 | 🟢 | Rust |
-| [OpenZ](https://github.com/playopenz/OpenZ) | Open-source 3D fan remake of Z (The Bitmap Brothers, 1996) (PC) | 82 | 🟢 | C# |
 | [OpenDR (Dark Reign: The Future of War)](https://github.com/drogoganor/OpenDR) | Open-source remake of Dark Reign: The Future of War (Windows) | 79 | 🟢 | C# |
+| [OpenE2140](https://github.com/OpenE2140/OpenE2140) | Remake of Earth 2140 based on the OpenRA engine | 77 | 🟢 | C# |
 | [BaKGL (Betrayal at Krondor)](https://github.com/xavieran/BaKGL) | Open-source remake of Betrayal at Krondor | 76 | 🟢 | C++ |
-| [OpenE2140](https://github.com/OpenE2140/OpenE2140) | Remake of Earth 2140 based on the OpenRA engine | 76 | 🟢 | C# |
 | [coUclient (Glitch)](https://github.com/ChildrenOfUr/coUclient) | Open-source remake of Glitch (Web) | 75 | 🗄️ | Dart |
 | [Zatacka X](https://github.com/simenheg/zatackax) | Open-source remake of Achtung, die Kurve! | 70 | 🟡 | C |
 | [Dijeweled Remastered](https://github.com/LDinos/Dijeweled) | Open-source remake of Bejeweled (Windows) | 69 | 🟡 | Game Maker Language |
 | [FreeRails (Railroad Tycoon)](https://github.com/Trilarion/freerails) | Open-source remake of Railroad Tycoon | 69 | 🟢 | Java |
 | [Dune 2 - The Maker - Java version](https://github.com/Fundynamic/dune2themaker4j) | Open-source remake of Dune 2 | 63 | 🔴 | Java |
 | [rd-131655 (Minecraft)](https://github.com/thecodeofnotch/rd-131655) | Remake of the first version of Minecraft (rd-131655 cave game tech test) | 63 | 🟡 | Java |
+| [rebellion2](https://github.com/davidadas/rebellion2) | Remake of the classic Star Wars Rebellion game for PC using Unity | 61 | 🟢 | C# |
 | [Imperialism Remake](https://github.com/Trilarion/imperialism-remake) | Open-source remake of Imperialism | 59 | 🔴 | Python |
 | [DRRP (Doom RPG)](https://github.com/DRRP-Team/DRRP) | Doom RPG Remake Project, a total conversion of the mobile Doom RPG for GZDoom | 58 | 🔴 | HTML |
-| [rebellion2](https://github.com/davidadas/rebellion2) | Remake of the classic Star Wars Rebellion game for PC using Unity | 58 | 🟢 | C# |
 | [Alien Breed 3D II The Killing Grounds](https://github.com/mheyer32/alienbreed3d2) | Open-source remake of Alien Breed 3D II: The Killing Grounds (Amiga) | 57 | 🟢 | Assembly |
 | [Cattle Bity](https://github.com/dogballs/cattle-bity) | Open-source remake of Battle City (Arcade) | 57 | 🔴 | TypeScript |
 | [Digimon World Project Ark](https://github.com/dwProjectark/Digimon-World-Project-Ark) | Open-source remake of Digimon World | 55 | 🔴 | ASP |
@@ -4533,6 +4533,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Castle-Combat (Rampart)](https://github.com/karlb/castle-combat) | Open-source remake of Rampart | 18 | 🟢 | Python |
 | [Taipan (Taipan!)](https://github.com/ebassett/taipan) | Open-source remake of Taipan! (Apple II) | 18 | 🔴 | C |
 | [Castle Adventure](https://github.com/elishacloud/Castle-Adventure) | Open-source remake of Castle Adventure (DOS) | 17 | 🔴 | C |
+| [Dizgruntled (Gruntz)](https://github.com/Dizgruntled/Dizgruntled) | Open-source remake of Gruntz (Windows) | 17 | 🔴 | TypeScript |
 | [Jet Set Willy 2021 Edition (BBC Micro)](https://github.com/TobyLobster/jsw2021) | Open-source remake of Jet Set Willy (C64) | 17 | 🟡 | C# |
 | [OpenMOO2 (Master of Orion 2)](https://github.com/mimi1vx/openmoo2) | Open-source remake of Master of Orion 2 | 17 | 🔴 | Python |
 | [Space Empires 4](https://github.com/lowlevelmetal/OpenSE4) | Spec-based remake of Space Empires 4. | 17 | 🟢 | C++ |
@@ -4541,7 +4542,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Atari Asteroids](https://github.com/TheBeachLab/asteroids) | Open-source remake of Asteroids | 16 | 🔴 | Python |
 | [BloonsTowerDefense6 (Bloons Tower Defense)](https://github.com/wtfaremyinitials/BloonsTowerDefense6) | Open-source remake of Bloons Tower Defense | 16 | 🔴 | Java |
 | [chipdx (Chip's Challenge)](https://github.com/CasualX/chipdx) | Browser-playable Chip's Challenge remaster | 16 | 🟢 | Rust |
-| [Dizgruntled (Gruntz)](https://github.com/Dizgruntled/Dizgruntled) | Open-source remake of Gruntz (Windows) | 16 | 🔴 | TypeScript |
 | [Mr.Bomber (Bomberman)](https://github.com/rinrab/mr-bomber) | Open-source remake of Bomberman | 16 | 🟡 | C# |
 | [OpenGL Test Drive Remake](https://github.com/capnramses/opengl_test_drive_clone) | Open-source remake of Test Drive | 16 | 🗄️ | C |
 | [Phantasy (Phantasy Star)](https://github.com/rafael-esper/Phantasy) | Open-source remake of Phantasy Star (Mega Drive) | 16 | 🔴 | Java |
@@ -4561,6 +4561,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Football Manager](https://github.com/autismuk/Football-Manager) | Open-source remake of Football Manager | 12 | 🔴 | C |
 | [KnightOfWor (Wizard of Wor)](https://github.com/Sanguinik/KnightOfWor) | Open-source remake of Wizard of Wor (Arcade) | 12 | 🔴 | Java |
 | [Mayhem](https://github.com/devpack/mayhem) | Open-source remake of Mayhem (Amiga) | 12 | 🔴 | C |
+| [Z-Steel-Soldiers](https://github.com/sha5b/Z-Steel-Soldiers) | Fan remake of Z (The Bitmap Brothers, 1996) in Godot 4 | 12 | 🟢 | GDScript |
 | [div-pitfall (Pitfall!)](https://github.com/MikeDX/div-pitfall) | Open-source remake of Pitfall! | 11 | 🔴 | xBase |
 | [Duck Rehunt](https://github.com/Serioussam24/Duck-Rehunt) | Open-source remake of Duck Hunt | 11 | 🔴 | Python |
 | [galaxian](https://github.com/codedrive/galaxian) | Open-source remake of Galaxian | 11 | 🔴 | ActionScript |
@@ -4570,7 +4571,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [spaceroads (SkyRoads)](https://github.com/sebhd/spaceroads) | Open-source remake of SkyRoads (DOS) | 11 | 🔴 | C++ |
 | [Star-Wars-III (Star Wars (1983 arcade game))](https://github.com/abhinandanramesh/Star-Wars-III) | Open-source remake of Star Wars (1983 arcade game) (Arcade) | 11 | 🔴 | Python |
 | [viper](https://github.com/bjornharrtell/viper) | Open-source remake of Viper | 11 | 🗄️ | CoffeeScript |
-| [Z-Steel-Soldiers](https://github.com/sha5b/Z-Steel-Soldiers) | Fan remake of Z (The Bitmap Brothers, 1996) in Godot 4 | 11 | 🟢 | GDScript |
+| [Archaos (Chaos: The Battle of Wizards)](https://github.com/lewster32/archaos) | Open-source remake of Chaos: The Battle of Wizards (ZX Spectrum) | 10 | 🟢 | TypeScript |
 | [BOMBERWARRIORS OF WOR](https://github.com/vranki/Warriors-of-Wor) | Open-source remake of Wizard of Wor (Arcade) | 10 | 🟢 | C++ |
 | [Daggerfall.NET (The Elder Scrolls II: Daggerfall)](https://github.com/JohnathanGreen/Daggerfall.NET) | Open-source remake of The Elder Scrolls II: Daggerfall | 10 | 🔴 | C# |
 | [DCNebulous (Nebulus)](https://github.com/LemonHaze420/DCNebulous) | Open-source remake of Nebulus (NES) | 10 | 🔴 | C |
@@ -4583,7 +4584,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Spongebob_Resurrected_Remake](https://github.com/ParallelProductions/Spongebob_Resurrected_Remake) | Remake of SpongeBob SquarePants: Revenge of the Flying Dutchman | 10 | 🔴 |  |
 | [The Legend of Zelda: A Link to the Past](https://github.com/KaKaShUruKioRa/A-Link-to-the-Past-Project) | Open-source remake of Legend of Zelda - A Link to the Past | 10 | 🟡 | Lua |
 | [Wizball](https://github.com/craigchandler/wizball-remake) | Open-source remake of Wizball (C64) | 10 | 🟢 | C++ |
-| [Archaos (Chaos: The Battle of Wizards)](https://github.com/lewster32/archaos) | Open-source remake of Chaos: The Battle of Wizards (ZX Spectrum) | 9 | 🟢 | TypeScript |
 | [c64-nuclearreaction (Nuclear Reaction)](https://github.com/maikmerten/c64-nuclearreaction) | Open-source remake of Nuclear Reaction (Amiga) | 9 | 🔴 | C |
 | [CrystalQuest (Crystal Quest)](https://github.com/haleymt/CrystalQuest) | Open-source remake of Crystal Quest | 9 | 🔴 | JavaScript |
 | [datastorm (Turmoil)](https://github.com/haroldo-ok/datastorm) | Open-source remake of Turmoil | 9 | 🔴 | C |
@@ -4622,6 +4622,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [chainreaction (Nuclear Reaction)](https://github.com/maikmerten/chainreaction) | Open-source remake of Nuclear Reaction (Amiga) | 6 | 🔴 | Java |
 | [DetectiveDS](https://github.com/benbaker76/DetectiveDS) | A remake of the original C64 classic The Detective Game for Nintendo DS. | 6 | 🟢 | C++ |
 | [F-1 Spirit](https://github.com/ptitSeb/f1spirit) | Open-source remake of F-1 Spirit | 6 | 🔴 | C++ |
+| [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) | Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period jo... | 6 | 🟢 | JavaScript |
 | [Historyline (History Line: 1914-1918)](https://github.com/oliverdb/Historyline) | Open-source remake of History Line: 1914-1918 | 6 | 🔴 | C# |
 | [Inertia Blast](https://github.com/dulsi/thrust) | Open-source remake of Thrust (C64) | 6 | 🟡 | C |
 | [mewl (M.U.L.E.)](https://github.com/LionsPhil/mewl) | Open-source remake of M.U.L.E. | 6 | 🔴 | C++ |
@@ -4636,7 +4637,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [div-columns](https://github.com/MikeDX/div-columns) | Open-source remake of Columns (Arcade) | 5 | 🔴 | xBase |
 | [Donkey Kong 500](https://github.com/jotd666/donkey_kong) | Open-source remake of Donkey Kong (Arcade) | 5 | 🟢 | Assembly |
 | [Galaxian500](https://github.com/jotd666/galaxian500) | Open-source remake of Galaxian | 5 | 🟢 | Assembly |
-| [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) | Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period jo... | 5 | 🟢 | JavaScript |
 | [Kye for C64](https://github.com/cobbpg/kye-c64) | Open-source remake of Kye (Windows) | 5 | 🔴 | Assembly |
 | [luminesk5](https://github.com/kaikai2/luminesk5) | Open-source remake of Lumines | 5 | 🔴 | C |
 | [magiccarpet (Magic Carpet)](https://github.com/wonea/magiccarpet) | Open-source remake of Magic Carpet (PlayStation) | 5 | 🔴 | C++ |
@@ -4677,17 +4677,17 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [VoxelSpace](https://github.com/s-macke/VoxelSpace) | Reverse engineered Comanche Voxel Space terrain rendering algorithm | 6,827 | 🟡 | C |
+| [VoxelSpace](https://github.com/s-macke/VoxelSpace) | Reverse engineered Comanche Voxel Space terrain rendering algorithm | 6,829 | 🟡 | C |
 | [libdragon](https://github.com/DragonMinded/libdragon) | libdragon, an open-source Nintendo 64 SDK written without Nintendo's libultra | 1,251 | 🗄️ | C |
-| [pspsdk](https://github.com/pspdev/pspsdk) | Open-source PSP SDK for homebrew development, written without Sony's SDK | 1,204 | 🟢 | C |
+| [pspsdk](https://github.com/pspdev/pspsdk) | Open-source PSP SDK for homebrew development, written without Sony's SDK | 1,206 | 🟢 | C |
 | [rust-psp](https://github.com/overdrivenpotato/rust-psp) | Rust on the PSP with access to the system libraries | 831 | 🟢 | Rust |
-| [GameTracking-Dota2](https://github.com/SteamTracking/GameTracking-Dota2) | Automated tracker of Dota 2 game file and protobuf changes | 772 | 🟢 | C++ |
+| [GameTracking-Dota2](https://github.com/SteamTracking/GameTracking-Dota2) | Automated tracker of Dota 2 game file and protobuf changes | 771 | 🟢 | C++ |
 | [vitaGL](https://github.com/Rinnegatamante/vitaGL) | OpenGL wrapper for PS Vita built on the reverse-engineered sceGxm GPU API | 657 | 🟢 | C |
-| [Roblox-Client-Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) | Automated tracker extracting information about each Roblox client version | 575 | 🟢 | Assembly |
+| [Roblox-Client-Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) | Automated tracker extracting information about each Roblox client version | 576 | 🟢 | Assembly |
 | [ps2dev](https://github.com/ps2dev/ps2dev) | Open-source PlayStation 2 SDK (ps2sdk and toolchain) written without Sony's SDK | 504 | 🟢 | Shell |
 | [Prepare Carefully](https://github.com/edbmods/EdBPrepareCarefully) | EdB Prepare Carefully, a RimWorld mod | 249 | 🟡 | C# |
 | [gb-photo](https://github.com/untoxa/gb-photo) | Photo!, a full custom replacement ROM for the Game Boy Camera | 226 | 🟢 | C |
-| [psx-spx.github.io](https://github.com/psx-spx/psx-spx.github.io) | Technical reference for the original PlayStation hardware | 169 | 🟢 | Awk |
+| [psx-spx.github.io](https://github.com/psx-spx/psx-spx.github.io) | Technical reference for the original PlayStation hardware | 170 | 🟢 | Awk |
 | [wiki](https://github.com/xboxoneresearch/wiki) | Xbox One research wiki | 155 | 🟢 | Dockerfile |
 | [ReversingMinesweeper](https://github.com/repnz/ReversingMinesweeper) | Reverse Engineering Minesweeper: Reconstruct Minesweeper Source Code | 147 | 🔴 | C |
 | [x360-research](https://github.com/InvoxiPlayGames/x360-research) | Xbox 360 reverse engineering notes and utilities | 139 | 🟢 |  |
@@ -4706,7 +4706,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [xbox-board-re](https://github.com/LoveMHz/xbox-board-re) | Board-level reverse engineering of the original Xbox | 62 | 🔴 | Python |
 | [mkw-structures](https://github.com/SeekyCt/mkw-structures) | Documentation of Mario Kart Wii internal structures | 47 | 🟡 | C++ |
 | [Super-Mario-64-DS-Remastered](https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered) | **OPEN SOURCE EPIC** | 46 | 🔴 | C |
-| [psp-media-engine-custom-core](https://github.com/mcidclan/psp-media-engine-custom-core) | PSP Media Engine library exposing the ME core's native functions | 44 | 🟢 | C |
+| [psp-media-engine-custom-core](https://github.com/mcidclan/psp-media-engine-custom-core) | PSP Media Engine library exposing the ME core's native functions | 45 | 🟢 | C |
 | [ExCrypt](https://github.com/emoose/ExCrypt) | Open-source replacement for the Xbox 360 XeCrypt suite | 39 | 🟢 | C |
 | [lba-engine-architecture](https://github.com/LBALab/lba-engine-architecture) | Little Big Adventure engine architecture documentation | 35 | 🟡 | Ruby |
 | [osdbits](https://github.com/aap/osdbits) | Parts of the PlayStation 2 OSDSYS reverse engineered | 33 | 🟢 | C |
@@ -4730,49 +4730,49 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [TrinityCore](https://github.com/TrinityCore/TrinityCore) | World of Warcraft server emulator (MaNGOS fork) | 10,867 | 🟢 | C++ |
-| [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) | Modular World of Warcraft 3.3.5a server emulator | 9,158 | 🟢 | C++ |
+| [TrinityCore](https://github.com/TrinityCore/TrinityCore) | World of Warcraft server emulator (MaNGOS fork) | 10,868 | 🟢 | C++ |
+| [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) | Modular World of Warcraft 3.3.5a server emulator | 9,164 | 🟢 | C++ |
 | [Cuberite](https://github.com/cuberite/cuberite) | Lightweight extensible Minecraft server in C++ | 5,456 | 🟢 | C++ |
-| [rAthena](https://github.com/rathena/rathena) | Ragnarok Online server emulator in C++ | 3,647 | 🟢 | C++ |
+| [rAthena](https://github.com/rathena/rathena) | Ragnarok Online server emulator in C++ | 3,646 | 🟢 | C++ |
 | [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | Minecraft Bedrock server software built from scratch in PHP | 3,576 | 🗄️ | PHP |
 | [Minestom](https://github.com/Minestom/Minestom) | Lightweight Minecraft Java server written from scratch without vanilla code | 3,321 | 🟢 | Java |
 | [Valence](https://github.com/valence-rs/valence) | Rust framework for building Minecraft Java servers | 3,288 | 🟢 | Rust |
-| [FerrumC](https://github.com/ferrumc-rs/ferrumc) | Reimplementation of the Minecraft server in Rust | 2,473 | 🟢 | Rust |
+| [FerrumC](https://github.com/ferrumc-rs/ferrumc) | Reimplementation of the Minecraft server in Rust | 2,472 | 🟢 | Rust |
 | [Impostor](https://github.com/Impostor/Impostor) | Open-source reimplementation of the Among Us game server | 2,379 | 🟢 | C# |
 | [Glowstone](https://github.com/GlowstoneMC/Glowstone) | Open-source Minecraft Java server implementation | 2,015 | 🟢 | Java |
-| [The Forgotten Server](https://github.com/otland/forgottenserver) | Open Tibia MMORPG server emulator in C++ | 1,845 | 🟢 | C++ |
-| [LunarCore](https://github.com/Melledy/LunarCore) | A game server reimplementation for a certain turn-based anime game | 1,432 | 🟢 | Java |
-| [YgoMaster](https://github.com/pixeltris/YgoMaster) | Offline Yu-Gi-Oh! Master Duel | 1,405 | 🟢 | C# |
+| [The Forgotten Server](https://github.com/otland/forgottenserver) | Open Tibia MMORPG server emulator in C++ | 1,844 | 🟢 | C++ |
+| [LunarCore](https://github.com/Melledy/LunarCore) | A game server reimplementation for a certain turn-based anime game | 1,433 | 🟢 | Java |
+| [YgoMaster](https://github.com/pixeltris/YgoMaster) | Offline Yu-Gi-Oh! Master Duel | 1,404 | 🟢 | C# |
 | [Nukkit](https://github.com/CloudburstMC/Nukkit) | Minecraft Bedrock Edition server software in Java | 1,361 | 🟢 | Java |
-| [OpenMU](https://github.com/MUnique/OpenMU) | Server for the MMORPG MU Online | 1,281 | 🟢 | C# |
-| [HeavenMS](https://github.com/ronancpl/HeavenMS) | MapleStory v83 private server emulator (archived) | 1,215 | 🗄️ | Java |
+| [OpenMU](https://github.com/MUnique/OpenMU) | Server for the MMORPG MU Online | 1,283 | 🟢 | C# |
+| [HeavenMS](https://github.com/ronancpl/HeavenMS) | MapleStory v83 private server emulator (archived) | 1,214 | 🗄️ | Java |
 | [DWC Network Server Emulator](https://github.com/barronwaffles/dwc_network_server_emulator) | Nintendo Wi-Fi Connection server emulator for DS and Wii games | 1,187 | 🟡 | Python |
-| [Dad's MMO Lab](https://github.com/DadsMmoLab/dads-mmo-lab) | Docker scripts and installers to run classic MMO private servers offline on Steam Deck | 1,166 | 🟢 | Shell |
+| [Dad's MMO Lab](https://github.com/DadsMmoLab/dads-mmo-lab) | Docker scripts and installers to run classic MMO private servers offline on Steam Deck | 1,168 | 🟢 | Shell |
 | [Cultivation](https://github.com/Grasscutters/Cultivation) | Launcher that redirects Genshin Impact traffic to Grasscutter private servers | 1,157 | 🟢 | TypeScript |
-| [lunar-tear](https://github.com/Walter-Sparrow/lunar-tear) | Private server research project for a certain discontinued mobile game | 1,105 | 🟢 | Go |
+| [lunar-tear](https://github.com/Walter-Sparrow/lunar-tear) | Private server research project for a certain discontinued mobile game | 1,107 | 🟢 | Go |
 | [CMaNGOS Classic](https://github.com/cmangos/mangos-classic) | Continued MaNGOS World of Warcraft Classic server emulator | 1,100 | 🟢 | C++ |
 | [MaNGOS Zero](https://github.com/mangoszero/server) | World of Warcraft vanilla server emulator | 1,037 | 🟢 | C++ |
-| [Hercules](https://github.com/HerculesWS/Hercules) | Ragnarok Online server emulator | 1,026 | 🟢 | C++ |
-| [VMaNGOS](https://github.com/vmangos/core) | Progressive vanilla World of Warcraft server emulator for patches 1.2-1.12 | 975 | 🟢 | C++ |
-| [Dragonfly](https://github.com/df-mc/dragonfly) | Minecraft Bedrock Edition server software in Go | 858 | 🟢 | Go |
-| [Sapphire](https://github.com/SapphireServer/Sapphire) | Final Fantasy XIV server emulator (4.0+) in C++ | 850 | 🟢 | C++ |
+| [Hercules](https://github.com/HerculesWS/Hercules) | Ragnarok Online server emulator | 1,027 | 🟢 | C++ |
+| [VMaNGOS](https://github.com/vmangos/core) | Progressive vanilla World of Warcraft server emulator for patches 1.2-1.12 | 976 | 🟢 | C++ |
+| [Dragonfly](https://github.com/df-mc/dragonfly) | Minecraft Bedrock Edition server software in Go | 859 | 🟢 | Go |
+| [Sapphire](https://github.com/SapphireServer/Sapphire) | Final Fantasy XIV server emulator (4.0+) in C++ | 849 | 🟢 | C++ |
 | [ds3os](https://github.com/TLeonardUK/ds3os) | Dark Souls 3 and Dark Souls 2 private server emulator | 792 | 🟢 | CMake |
 | [Darkflame Server](https://github.com/DarkflameUniverse/DarkflameServer) | LEGO Universe server emulator | 764 | 🟢 | C++ |
 | [ServUO](https://github.com/ServUO/ServUO) | Ultima Online server emulator in C# | 762 | 🟢 | C# |
-| [ageLANServer](https://github.com/luskaner/ageServer) | Web server and launcher for offline/LAN multiplayer in Age of Empires titles | 756 | 🟢 | Go |
+| [ageLANServer](https://github.com/luskaner/ageServer) | Web server and launcher for offline/LAN multiplayer in Age of Empires titles | 757 | 🟢 | Go |
 | [Peacock](https://github.com/thepeacockproject/Peacock) | Server replacement for the HITMAN World of Assassination trilogy | 710 | 🟢 | TypeScript |
 | [NexusForever](https://github.com/NexusForever/NexusForever) | Server emulator for the defunct MMORPG WildStar | 683 | 🟢 | C# |
-| [Canary](https://github.com/opentibiabr/canary) | OpenTibia server emulator for modern Tibia protocol versions | 668 | 🟢 | Lua |
+| [Canary](https://github.com/opentibiabr/canary) | OpenTibia server emulator for modern Tibia protocol versions | 667 | 🟢 | Lua |
 | [PvPGN](https://github.com/pvpgn/pvpgn-server) | Player vs Player Gaming Network: Battle.net and Westwood Online server emulator | 655 | 🟢 | C++ |
 | [EQEmu](https://github.com/EQEmu/EQEmu) | EverQuest server emulator | 638 | 🟢 | C++ |
 | [flying-squid](https://github.com/PrismarineJS/flying-squid) | Minecraft Java server implemented in Node.js | 609 | 🟢 | JavaScript |
 | [Arcaea 6.15.0c server](https://github.com/Moli13337/Arcaea-6.15.0c) | Private server for the rhythm game Arcaea | 596 | 🟢 | Python |
-| [EpinelPS](https://github.com/EpinelPS/EpinelPS) | A private server for some anime game | 592 | 🟢 | C# |
+| [EpinelPS](https://github.com/EpinelPS/EpinelPS) | A private server for some anime game | 596 | 🟢 | C# |
 | [MHServerEmu](https://github.com/Crypto137/MHServerEmu) | Server emulator for Marvel Heroes | 569 | 🟢 | C# |
 | [CMaNGOS WotLK](https://github.com/cmangos/mangos-wotlk) | World of Warcraft 3.3.5 server emulator (C(ontinued)-MaNGOS) | 562 | 🟢 | C++ |
-| [CMaNGOS TBC](https://github.com/cmangos/mangos-tbc) | World of Warcraft 2.4.3 server emulator (C(ontinued)-MaNGOS) | 527 | 🟢 | C++ |
+| [CMaNGOS TBC](https://github.com/cmangos/mangos-tbc) | World of Warcraft 2.4.3 server emulator (C(ontinued)-MaNGOS) | 528 | 🟢 | C++ |
 | [LandSandBoat](https://github.com/LandSandBoat/server) | Final Fantasy XI server emulator | 523 | 🟢 | Lua |
-| [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) | 一个微型的 Arcaea 本地服务器 A small local server for Arcaea | 497 | 🟢 | Python |
+| [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) | 一个微型的 Arcaea 本地服务器 A small local server for Arcaea | 498 | 🟢 | Python |
 | [GMDprivateServer](https://github.com/Cvolton/GMDprivateServer) | Private server for Geometry Dash | 491 | 🟢 | PHP |
 | [OpenCoreMMO](https://github.com/OpenCoreMMO/OpenCoreMMO) | Modern C# MMORPG server emulator for an OpenTibia-style client | 490 | 🟢 | C# |
 | [POGOserver](https://github.com/maierfelix/POGOserver) | Pokemon GO server emulator | 479 | 🔴 | JavaScript |
@@ -4780,7 +4780,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Darkstar Project](https://github.com/DarkstarProject/darkstar) | Deprecated Final Fantasy XI server emulator | 451 | 🗄️ | TSQL |
 | [Houdini](https://github.com/solero/houdini) | Club Penguin private server written in Python 3 | 432 | 🟢 | Python |
 | [2004Scape server](https://github.com/2004Scape/Server) | Server emulator for RuneScape 2 as it was in 2004 | 388 | 🗄️ | TypeScript |
-| [OpenKO](https://github.com/Open-KO/KnightOnline) | Knight Online server and client reimplementation project | 378 | 🟢 | C++ |
+| [OpenKO](https://github.com/Open-KO/KnightOnline) | Knight Online server and client reimplementation project | 379 | 🟢 | C++ |
 | [ModernUO](https://github.com/modernuo/ModernUO) | High-performance Ultima Online server emulator in C# | 365 | 🟢 | C# |
 | [ACE](https://github.com/ACEmulator/ACE) | Asheron's Call server emulator | 347 | 🟢 | C# |
 | [Lost City Server](https://github.com/LostCityRS/Server) | RuneScape 2004-era server emulator | 337 | 🟢 | JavaScript |
@@ -4789,7 +4789,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Melia](https://github.com/NoCode-NoLife/Melia) | Open-source MMORPG server emulator (Tree of Savior) | 302 | 🟢 | C# |
 | [starpoint](https://github.com/duosii/starpoint) | Server emulator for a mobile pinball game. | 292 | 🟡 | TypeScript |
 | [bancho.py](https://github.com/osuAkatsuki/bancho.py) | A private osu! server for everyone. Simpler than Akatsuki's production stack, while maintaining core functionality, p... | 286 | 🟢 | Python |
-| [newserv](https://github.com/fuzziqersoftware/newserv) | Phantasy Star Online game server, proxy and reverse-engineering tools | 283 | 🟢 | C++ |
+| [newserv](https://github.com/fuzziqersoftware/newserv) | Phantasy Star Online game server, proxy and reverse-engineering tools | 284 | 🟢 | C++ |
 | [Erupe](https://github.com/Mezeporta/Erupe) | Monster Hunter Frontier server emulator in Go | 278 | 🗄️ | Go |
 | [dndserver](https://github.com/Snaacky/dndserver) | Dark and Darker private server implementation in Python | 274 | 🗄️ | Python |
 | [RPCN](https://github.com/RipleyTom/rpcn) | PSN-compatible server used by RPCS3 for online play | 274 | 🟢 | Rust |
@@ -4799,13 +4799,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MCGalaxy](https://github.com/ClassiCube/MCGalaxy) | Minecraft Classic protocol server software | 233 | 🟢 | C# |
 | [PayCheck3](https://github.com/SlejmUr/PayCheck3) | Payday 3 server emulator | 216 | 🟢 | C# |
 | [Open Toontown](https://github.com/open-toontown/open-toontown) | Open-source Toontown Online based on the final Disney client version | 209 | 🟢 | Python |
-| [afterhours-2015](https://github.com/afterhours-crew/afterhours-2015) | Server emulator for Need for Speed (2015) for custom servers and offline play | 207 | 🟢 | Rust |
+| [afterhours-2015](https://github.com/afterhours-crew/afterhours-2015) | Server emulator for Need for Speed (2015) for custom servers and offline play | 208 | 🟢 | Rust |
 | [bravo](https://github.com/bravoserver/bravo) | Reverse engineered Minecraft server implementation (1.4.x protocol) | 205 | 🔴 | Python |
 | [Apollo](https://github.com/apollo-rsps/apollo) | RuneScape private server suite in Java | 195 | 🔴 | Java |
 | [rsmod](https://github.com/rsmod/rsmod) | Old School RuneScape game server emulator | 195 | 🟡 | Kotlin |
+| [Maple2](https://github.com/MS2Community/Maple2) | Server emulator for MapleStory 2 | 192 | 🟢 | C# |
 | [OpenSpy Core](https://github.com/openspy/openspy-core) | GameSpy replacement backend services (master server, NAT negotiation, presence) | 192 | 🟢 | C++ |
 | [LawinServer](https://github.com/Lawin0129/LawinServer) | Local single-user Fortnite backend server emulator | 191 | 🟢 | JavaScript |
-| [Maple2](https://github.com/MS2Community/Maple2) | Server emulator for MapleStory 2 | 191 | 🟢 | C# |
 | [SWGEmu Core3](https://github.com/swgemu/Core3) | Star Wars Galaxies pre-CU server emulator core | 190 | 🟢 | Lua |
 | [Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) | Python Brawl Stars server emulator for v26 | 187 | 🟡 | Python |
 | [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC) | A server software implementation, ineroperable with a certain anime game client. The code in this repository is fully... | 181 | 🟢 | Java |
@@ -4824,8 +4824,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [POL](https://github.com/polserver/polserver) | PenUltima Online server compatible with most Ultima Online clients | 148 | 🟢 | C++ |
 | [Nebula](https://github.com/Melledy/Nebula) | A server emulator for the game Stella Sora | 142 | 🟢 | Java |
 | [BeatTogether.Quest](https://github.com/BeatTogether/BeatTogether.Quest) | Quest mod that connects Beat Saber to BeatTogether multiplayer servers | 141 | 🟡 | C++ |
+| [belfast](https://github.com/catgirl-systems/belfast) | Reimplementation of a server for Azur Lane | 138 | 🟢 | Go |
 | [Dawn of Light](https://github.com/Dawn-of-Light/DOLSharp) | Dark Age of Camelot server emulator | 138 | 🟢 | C# |
-| [belfast](https://github.com/catgirl-systems/belfast) | Reimplementation of a server for Azur Lane | 137 | 🟢 | Go |
 | [server](https://github.com/sp-tarkov/server) | The Server project for SPT | 133 | 🗄️ | TypeScript |
 | [WiiLink WFC Server](https://github.com/WiiLink24/wfc-server) | Nintendo Wi-Fi Connection replacement server by WiiLink | 132 | 🟢 | Go |
 | [Kawari](https://github.com/redstrate/Kawari) | Unofficial Final Fantasy XIV server emulator for 7.x | 127 | 🗄️ | Rust |
@@ -4843,7 +4843,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [kinoko](https://github.com/iw2d/kinoko) | MapleStory v95 server emulator | 103 | 🟢 | Java |
 | [butterfly](https://github.com/skogaby/butterfly) | e-amusement server emulator for Dance Dance Revolution A | 99 | 🔴 | Java |
 | [Prospect](https://github.com/AeonLucid/Prospect) | Server emulation for The Cycle: Frontier | 99 | 🟡 | C# |
-| [AscNet](https://github.com/rafi1212122/AscNet) | Punishing: Gray Raven private server! | 96 | 🟢 | C# |
+| [AscNet](https://github.com/rafi1212122/AscNet) | Punishing: Gray Raven private server! | 98 | 🟢 | C# |
 | [Pirates-Online-Rewritten](https://github.com/PiratesOnlineRewritten/Pirates-Online-Rewritten) | Revival of Disney's Pirates of the Caribbean Online with a rewritten server | 96 | 🔴 | Python |
 | [RestoRoom](https://github.com/RestoRoom/RestoRoom) | Community reimplementation of the Rec Room servers | 96 | 🟢 |  |
 | [soapbox-race-core](https://github.com/SoapboxRaceWorld/soapbox-race-core) | Need for Speed: World server emulator core | 92 | 🔴 | Java |
@@ -4863,18 +4863,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Hitman-5-Server](https://github.com/LennardF1989/Hitman-5-Server) | Emulated server for Hitman: Absolution and Hitman: Sniper Challenge | 71 | 🗄️ | HTML |
 | [OpenDAoC](https://github.com/OpenDAoC/OpenDAoC-Core) | Free Dark Age of Camelot server emulator | 70 | 🟢 | C# |
 | [w3l](https://github.com/w3lh/w3l) | Warcraft III loader that connects the game to PvPGN Battle.net servers | 67 | 🔴 | C |
-| [perlica-rs](https://github.com/Yoshk4e/perlica-rs) | A server software reimplementation for an old version of a certain anime game about factories. | 66 | 🟢 | Rust |
+| [NFS-Online-Server](https://github.com/moio9/NFS-Online-Server) | Online server emulator for NFS Most Wanted, Underground 2 and Carbon | 66 | 🟢 | Python |
 | [mxoemu](https://github.com/rajkosto/mxoemu) | Server emulator for the shut-down MMO The Matrix Online | 65 | 🔴 | C |
-| [NFS-Online-Server](https://github.com/moio9/NFS-Online-Server) | Online server emulator for NFS Most Wanted, Underground 2 and Carbon | 65 | 🟢 | Python |
+| [perlica-rs](https://github.com/Yoshk4e/perlica-rs) | A server software reimplementation for an old version of a certain anime game about factories. | 65 | 🟢 | Rust |
 | [DragonFable-Private-Server](https://github.com/hiperesp/DragonFable-Private-Server) | DragonFable private server emulator for the current client | 63 | 🟢 | PHP |
+| [LibreKO](https://github.com/ZeusAFK/LibreKO) | From-scratch reimplementation of the Knight Online game server and client | 63 | 🟢 | C# |
 | [cwk-server](https://github.com/shishkabob27/cwk-server) | Reverse engineered server for Card Wars Kingdom | 62 | 🗄️ | Python |
 | [Freya](https://github.com/ubis/Freya) | Cabal Online server emulator | 62 | 🟡 | Go |
-| [LibreKO](https://github.com/ZeusAFK/LibreKO) | From-scratch reimplementation of the Knight Online game server and client | 62 | 🟢 | C# |
 | [puniemu](https://github.com/SuperTavor/puniemu) | Server emulator for Yo-kai Watch Puni Puni | 61 | 🟢 | C# |
 | [rsc-client (RuneScape Classic)](https://github.com/2003scape/rsc-client) | RuneScape Classic web client | 61 | 🔴 | JavaScript |
-| [remielle](https://github.com/thexeondev/remielle) | Zenless Zone Zero server emulator focused on efficiency, stability and correctness. | 59 | 🟢 | Zig |
 | [NTRSimulator](https://github.com/raphaeIl/NTRSimulator) | Server Emulator for a certain NTR game | 58 | 🟢 | C# |
 | [OpenRS2](https://github.com/openrs2/openrs2) | Open-source multiplayer game server compatible with the RuneScape client | 58 | 🟢 | Kotlin |
+| [remielle](https://github.com/thexeondev/remielle) | Zenless Zone Zero server emulator focused on efficiency, stability and correctness. | 58 | 🟢 | Zig |
 | [BetrockPlusPlus](https://github.com/OpenBetaGroup/BetrockPlusPlus) | Minecraft Beta 1.7.3 compatible server written in C++ | 57 | 🟢 | C++ |
 | [titanic](https://github.com/osuTitanic/titanic) | A private server that supports all osu! clients (2007-2026) | 57 | 🟢 | Go |
 | [CycloneIO](https://github.com/itsezc/CycloneIO) | HTML5 Habbo Hotel package with server, client and CMS | 56 | 🔴 | TypeScript |
@@ -4949,7 +4949,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Finlay](https://github.com/Quackster/Finlay) | Habbo Hotel emulator for the V9 protocol, based on Kepler | 5 | 🗄️ | Java |
 | [Pangya-Mobile](https://github.com/victti/Pangya-Mobile) | Private server for the shut-down mobile game Pangya Mobile | 5 | 🟢 | TypeScript |
 | [D2DBSDotNet](https://github.com/tesseract2048/D2DBSDotNet) | C# reconstruction of d2dbs, the Diablo II database server from bnetd/PvPGN | 4 | 🔴 | C# |
-| [garcia](https://github.com/yoncodes/garcia) | server for a random 2d game | 2 | 🟢 | Rust |
+| [garcia](https://github.com/yoncodes/garcia) | server for a random 2d game | 3 | 🟢 | Rust |
 | [dev_wow_auth_server](https://github.com/gtker/dev_wow_auth_server) | World of Warcraft authentication server for development | 1 | 🟡 | Rust |
 | [2009scape](https://gitlab.com/2009scape/2009scape) | Open-source 2009-era RuneScape server remake |  | ⚪ |  |
 | [ACEmulator](https://emulator.ac) | A custom, completely from-scratch open source server emulator for Asheron’s Call built on C#. |  | ⚪ |  |
@@ -4962,697 +4962,700 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [N64Recomp](https://github.com/N64Recomp/N64Recomp) | Static recompiler that turns N64 binaries into portable C code | 8,365 | 🟢 | C++ |
-| [Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) | Static recompilation of Majora's Mask for PC | 7,610 | 🟢 | C |
-| [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) | Converts Xbox 360 PowerPC executables into C++ for recompilation on modern platforms | 6,682 | 🟡 | C++ |
-| [dusk](https://github.com/TwilitRealm/dusklight) | Twilight Princess PC port based on the zeldaret tp decompilation | 6,281 | 🟢 | C++ |
-| [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) | Unofficial PC port of Xbox 360 Sonic Unleashed via static recompilation | 5,357 | 🟢 | C++ |
-| [BloodBorne for Windows](https://github.com/Supermedo/bloodborne_pc) | Recomp of BloodBorne (PS4) to Windows. | 5,241 | 🟢 | Python |
-| [D2R Mobile](https://github.com/jhaizhou-ops/d2r-mobile) | Runs the Switch build of Diablo II: Resurrected natively on iPhone, iPad and Apple silicon Macs | 5,215 | 🟢 | C |
-| [gen1recomp](https://github.com/bryanthaboi/gen1recomp) | Native recompilation of Pokemon Red/Blue/Yellow with mods | 4,124 | 🟢 | Lua |
-| [SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | Static recompilation of Zelda: Breath of the Wild (Switch 1.8.2) for Windows and Linux | 3,521 | 🟢 | C |
-| [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | Browser (WebAssembly) port of Diablo (PC) | 2,894 | 🔴 | JavaScript |
-| [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | Mario Kart 64 PC port based on the mk64 decompilation, with track editor | 2,488 | 🟢 | C |
-| [P.T. for PC](https://github.com/LoreanXavier/pt-pc) | Native PC port of Kojima's P.T. with game logic rebuilt in C++, runs from your own PS4 files | 2,435 | 🟢 | C++ |
-| [Uncharted: The Nathan Drake Collection](https://github.com/Supermedo/uncharted_pc) | Unofficial native port of Uncharted: The Nathan Drake Collection (PS4) | 2,235 | 🟢 | C++ |
-| [LASRecomp](https://github.com/peiikai/LASRecomp) | Static recompilation of Link's Awakening (Switch) to native macOS and Windows | 2,227 | 🟢 | C |
-| [Starship](https://github.com/HarbourMasters/Starship) | Star Fox 64 PC port based on the sf64 decompilation | 2,135 | 🟢 | C |
-| [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) | Banjo-Kazooie static recompilation with mod support | 2,123 | 🟢 | C |
-| [N64RecompLauncher](https://github.com/SirDiabo/GithubLauncher) | Installs and updates N64 static recompilation ports in one place | 2,069 | 🟢 | C# |
-| [OpenCE](https://github.com/OpenCommunityEdition/OpenCE) | Enhanced recomp of the original Xbox Halo: Combat Evolved to all Windows, Linux and Android. | 1,963 | 🟢 | C |
-| [sm64ex](https://github.com/sm64pc/sm64ex) | Super Mario 64 PC port fork focused on easier modding | 1,881 | 🟡 | C |
-| [skate3recomp](https://github.com/mchughalex/skate3recomp) | Native Windows/Linux/macOS port of Skate 3 via static recompilation | 1,809 | 🟢 | C++ |
-| [Shadow of the Colossus](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | Unofficial native port of Shadow of the Colossus (PS4) | 1,791 | 🟢 | C++ |
-| [rt64](https://github.com/rt64/rt64) | N64 graphics renderer used by emulators and native recomp ports | 1,634 | 🟢 | C++ |
-| [Bloodborne](https://github.com/Awakenchan/LanternEngine) | Unofficial native port of Bloodborne (PS4) | 1,626 | 🟢 | C++ |
-| [ACGC-PC-Port](https://github.com/flyngmt/Nookery) | Animal Crossing (GameCube) PC port from the ac-decomp decompilation | 1,560 | 🟢 | C |
-| [sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) | Online multiplayer Super Mario 64 PC port based on the decompilation | 1,523 | 🟢 | C |
-| [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) | Driver 2 PlayStation reverse engineering and PC port | 1,453 | 🟢 | C |
-| [ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | PS2 games statically recompiled to WebAssembly with a native runtime to run in the browser | 1,412 | 🟢 | C++ |
-| [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | Static recompilation of The Wind Waker HD (Wii U) | 1,377 | 🟢 | C++ |
-| [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) | Unofficial native port of Mario Kart Wii (Wii) | 1,348 | 🟢 | C# |
-| [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk) | SDK for static recompilation of Xbox 360 games from PowerPC to portable C++ | 1,261 | 🟢 | C |
-| [inFAMOUS Second Son](https://github.com/HayatoG/iss_pc) | Unofficial native port of inFAMOUS Second Son (PS4) | 1,127 | 🟢 | C++ |
-| [isle-portable](https://github.com/isledecomp/isle-portable) | Portable LEGO Island source port built from the isle decompilation | 1,092 | 🟢 | C++ |
-| [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) | Static recompilation of Castlevania: Symphony of the Night | 1,089 | 🟢 | C# |
-| [pinyon-shift](https://github.com/arcanite24/pinyon-shift) | A playable preview of Forza Horizon static recompilation | 1,023 | 🟢 | Python |
-| [WipEout Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | WipEout PC port that runs from the original disc image | 991 | 🟡 |  |
-| [DriveClub (DriveClub Recomp)](https://github.com/OverkillLabs3/driveclub-recomp) | Static recompilation of DriveClub (PS4) into a native PC port | 961 | 🟢 | C++ |
-| [LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp) | Experimental native PC port of Lost Odyssey using static recompilation. No game assets included. | 945 | 🟢 | C++ |
-| [GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp) | Recompilation of the cancelled Xbox 360 GoldenEye 007 for PC | 936 | 🟢 | C |
+| [N64Recomp](https://github.com/N64Recomp/N64Recomp) | Static recompiler that turns N64 binaries into portable C code | 8,372 | 🟢 | C++ |
+| [Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) | Static recompilation of Majora's Mask for PC | 7,628 | 🟢 | C |
+| [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) | Converts Xbox 360 PowerPC executables into C++ for recompilation on modern platforms | 6,690 | 🟡 | C++ |
+| [dusk](https://github.com/TwilitRealm/dusklight) | Twilight Princess PC port based on the zeldaret tp decompilation | 6,299 | 🟢 | C++ |
+| [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) | Unofficial PC port of Xbox 360 Sonic Unleashed via static recompilation | 5,359 | 🟢 | C++ |
+| [BloodBorne for Windows](https://github.com/Supermedo/bloodborne_pc) | Recomp of BloodBorne (PS4) to Windows. | 5,283 | 🟢 | Python |
+| [D2R Mobile](https://github.com/jhaizhou-ops/d2r-mobile) | Runs the Switch build of Diablo II: Resurrected natively on iPhone, iPad and Apple silicon Macs | 5,232 | 🟢 | C |
+| [gen1recomp](https://github.com/bryanthaboi/gen1recomp) | Native recompilation of Pokemon Red/Blue/Yellow with mods | 4,126 | 🟢 | Lua |
+| [SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) | Static recompilation of Zelda: Breath of the Wild (Switch 1.8.2) for Windows and Linux | 3,671 | 🟢 | C |
+| [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | Browser (WebAssembly) port of Diablo (PC) | 2,895 | 🔴 | JavaScript |
+| [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | Mario Kart 64 PC port based on the mk64 decompilation, with track editor | 2,489 | 🟢 | C |
+| [P.T. for PC](https://github.com/LoreanXavier/pt-pc) | Native PC port of Kojima's P.T. with game logic rebuilt in C++, runs from your own PS4 files | 2,443 | 🟢 | C++ |
+| [LASRecomp](https://github.com/peiikai/LASRecomp) | Static recompilation of Link's Awakening (Switch) to native macOS and Windows | 2,262 | 🟢 | C |
+| [Uncharted: The Nathan Drake Collection](https://github.com/Supermedo/uncharted_pc) | Unofficial native port of Uncharted: The Nathan Drake Collection (PS4) | 2,240 | 🟢 | C++ |
+| [Starship](https://github.com/HarbourMasters/Starship) | Star Fox 64 PC port based on the sf64 decompilation | 2,136 | 🟢 | C |
+| [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) | Banjo-Kazooie static recompilation with mod support | 2,124 | 🟢 | C |
+| [N64RecompLauncher](https://github.com/SirDiabo/GithubLauncher) | Installs and updates N64 static recompilation ports in one place | 2,072 | 🟢 | C# |
+| [OpenCE](https://github.com/OpenCommunityEdition/OpenCE) | Enhanced recomp of the original Xbox Halo: Combat Evolved to all Windows, Linux and Android. | 1,969 | 🟢 | C |
+| [sm64ex](https://github.com/sm64pc/sm64ex) | Super Mario 64 PC port fork focused on easier modding | 1,882 | 🟡 | C |
+| [Shadow of the Colossus](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | Unofficial native port of Shadow of the Colossus (PS4) | 1,814 | 🟢 | C++ |
+| [skate3recomp](https://github.com/mchughalex/skate3recomp) | Native Windows/Linux/macOS port of Skate 3 via static recompilation | 1,813 | 🟢 | C++ |
+| [Bloodborne](https://github.com/Awakenchan/LanternEngine) | Unofficial native port of Bloodborne (PS4) | 1,644 | 🟢 | C++ |
+| [rt64](https://github.com/rt64/rt64) | N64 graphics renderer used by emulators and native recomp ports | 1,635 | 🟢 | C++ |
+| [ACGC-PC-Port](https://github.com/flyngmt/Nookery) | Animal Crossing (GameCube) PC port from the ac-decomp decompilation | 1,562 | 🟢 | C |
+| [sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) | Online multiplayer Super Mario 64 PC port based on the decompilation | 1,528 | 🟢 | C |
+| [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) | Driver 2 PlayStation reverse engineering and PC port | 1,455 | 🟢 | C |
+| [ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | PS2 games statically recompiled to WebAssembly with a native runtime to run in the browser | 1,415 | 🟢 | C++ |
+| [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | Static recompilation of The Wind Waker HD (Wii U) | 1,401 | 🟢 | C++ |
+| [Mario Kart Wii](https://github.com/patchzyy/Wiicompiled) | Unofficial native port of Mario Kart Wii (Wii) | 1,363 | 🟢 | C# |
+| [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk) | SDK for static recompilation of Xbox 360 games from PowerPC to portable C++ | 1,264 | 🟢 | C |
+| [inFAMOUS Second Son](https://github.com/HayatoG/iss_pc) | Unofficial native port of inFAMOUS Second Son (PS4) | 1,139 | 🟢 | C++ |
+| [isle-portable](https://github.com/isledecomp/isle-portable) | Portable LEGO Island source port built from the isle decompilation | 1,093 | 🟢 | C++ |
+| [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) | Static recompilation of Castlevania: Symphony of the Night | 1,092 | 🟢 | C# |
+| [pinyon-shift](https://github.com/arcanite24/pinyon-shift) | A playable preview of Forza Horizon static recompilation | 1,028 | 🟢 | Python |
+| [WipEout Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | WipEout PC port that runs from the original disc image | 990 | 🟡 |  |
+| [DriveClub (DriveClub Recomp)](https://github.com/OverkillLabs3/driveclub-recomp) | Static recompilation of DriveClub (PS4) into a native PC port | 977 | 🟢 | C++ |
+| [LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp) | Experimental native PC port of Lost Odyssey using static recompilation. No game assets included. | 948 | 🟢 | C++ |
+| [GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp) | Recompilation of the cancelled Xbox 360 GoldenEye 007 for PC | 937 | 🟢 | C |
+| [Black (Black - XBE Recomp)](https://github.com/TGP482/BLACK-XBERecomp) | Static recompilation of Black (og xbox) into a native PC port | 915 | 🟢 | C++ |
 | [Blue Dragon (re:Blue)](https://github.com/zolaware/reblue) | Xbox 360 static recompilation of Blue Dragon (re:Blue) | 910 | 🟢 | C++ |
-| [Black (Black - XBE Recomp)](https://github.com/TGP482/BLACK-XBERecomp) | Static recompilation of Black (og xbox) into a native PC port | 908 | 🟢 | C++ |
-| [Ghostship](https://github.com/HarbourMasters/Ghostship) | Harbour Masters Super Mario 64 source port with mods and modern graphics | 901 | 🟢 | C |
+| [Ghostship](https://github.com/HarbourMasters/Ghostship) | Harbour Masters Super Mario 64 source port with mods and modern graphics | 905 | 🟢 | C |
 | [devilution-nx](https://github.com/lantus/devilution-nx) | Diablo port for Nintendo Switch based on Devilution | 889 | 🔴 | C++ |
-| [hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) | Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation) | 862 | 🟢 | C++ |
-| [ultratears](https://github.com/kuraeow/ultratears) | Native Windows port of Zelda: Tears of the Kingdom 1.4.3 via static recompilation | 836 | 🟢 | C |
-| [Silent Hill native PC port](https://github.com/SlickAmogus/silent-hill-decomp) | Multiplatform port of the Silent Hill 1 PSX decompilation | 832 | 🟢 | C |
-| [The Legend of Zelda: The Minish Cap based on Project Picori port](https://github.com/EstebanPdN/zelda-tmc-3ds) | Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori | 806 | 🟢 | C |
-| [zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) | Nintendo 3DS port of Zelda: A Link to the Past based on zelda3 | 783 | 🟢 | C |
-| [Uncharted: The Nathan Drake Collection](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | Unofficial native port of Uncharted: The Nathan Drake Collection (PS4) | 772 | 🟢 | C++ |
-| [Marathon Recompiled](https://github.com/sonicnext-dev/MarathonRecomp) | Static recompilation PC port of Sonic the Hedgehog (2006) | 748 | 🟢 | C++ |
-| [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) | Unofficial native port of Mario Kart Wii (Wii) | 743 | 🟢 | Python |
-| [Crash Team Racing Nitro-Fueled](https://github.com/GetLostIn/CTR-NitroFueled-PC) | Unofficial native port of Crash Team Racing Nitro-Fueled (PS4) | 731 | 🟢 | C++ |
-| [Pokémon Emerald](https://github.com/ZallaxDev/emerald-3ds) | Unofficial native port of Pokémon Emerald (GBA) | 727 | 🟢 | Python |
-| [Tenkaichi3Decomp](https://github.com/z3xox/Tenkaichi3Decomp) | PC port of Dragon Ball Z: Budokai Tenkaichi 3 built on its decompilation | 722 | 🟢 | C |
+| [hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) | Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation) | 874 | 🟢 | C++ |
+| [ultratears](https://github.com/kuraeow/ultratears) | Native Windows port of Zelda: Tears of the Kingdom 1.4.3 via static recompilation | 847 | 🟢 | C |
+| [Silent Hill native PC port](https://github.com/SlickAmogus/silent-hill-decomp) | Multiplatform port of the Silent Hill 1 PSX decompilation | 837 | 🟢 | C |
+| [The Legend of Zelda: The Minish Cap based on Project Picori port](https://github.com/EstebanPdN/zelda-tmc-3ds) | Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori | 810 | 🟢 | C |
+| [Uncharted: The Nathan Drake Collection](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | Unofficial native port of Uncharted: The Nathan Drake Collection (PS4) | 786 | 🟢 | C++ |
+| [zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) | Nintendo 3DS port of Zelda: A Link to the Past based on zelda3 | 785 | 🟢 | C |
+| [Marathon Recompiled](https://github.com/sonicnext-dev/MarathonRecomp) | Static recompilation PC port of Sonic the Hedgehog (2006) | 750 | 🟢 | C++ |
+| [Mario Kart Wii](https://github.com/chrissotraidis/kartpad) | Unofficial native port of Mario Kart Wii (Wii) | 742 | 🟢 | Python |
+| [Crash Team Racing Nitro-Fueled](https://github.com/GetLostIn/CTR-NitroFueled-PC) | Unofficial native port of Crash Team Racing Nitro-Fueled (PS4) | 735 | 🟢 | C++ |
+| [Pokémon Emerald](https://github.com/ZallaxDev/emerald-3ds) | Unofficial native port of Pokémon Emerald (GBA) | 733 | 🟢 | Python |
+| [Tenkaichi3Decomp](https://github.com/z3xox/Tenkaichi3Decomp) | PC port of Dragon Ball Z: Budokai Tenkaichi 3 built on its decompilation | 724 | 🟢 | C |
 | [The Legend of Zelda: Ocarina of Time](https://github.com/blawar/ooot) | Unofficial native port of The Legend of Zelda: Ocarina of Time (N64) | 703 | 🟡 | C++ |
-| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | Recomp of Metroid Prime to PC and Android. | 669 | 🟢 | C++ |
-| [TriAevum](https://github.com/coccofresco/TriAevum) | Native PC recompilation runtime for Ocarina of Time 3D | 661 | 🟢 | C++ |
-| [BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | Static recompilation of Zelda: Breath of the Wild (Switch) for Android | 659 | 🟢 | C |
-| [ps3recomp](https://github.com/sp00nznet/ps3recomp) | Static recompilation runtime libraries for PlayStation 3 titles | 653 | 🟢 | C |
+| [BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | Static recompilation of Zelda: Breath of the Wild (Switch) for Android | 697 | 🟢 | C |
+| [TriAevum](https://github.com/coccofresco/TriAevum) | Native PC recompilation runtime for Ocarina of Time 3D | 678 | 🟢 | C++ |
+| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | Recomp of Metroid Prime to PC and Android. | 676 | 🟢 | C++ |
+| [ps3recomp](https://github.com/sp00nznet/ps3recomp) | Static recompilation runtime libraries for PlayStation 3 titles | 663 | 🟢 | C |
+| [speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker) | Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Stea... | 662 | 🟢 | C++ |
 | [smw](https://github.com/snesrev/smw) | Super Mario World reimplementation in C | 651 | 🟡 | C |
-| [speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker) | Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Stea... | 649 | 🟢 | C++ |
-| [Fable-2-Recomp](https://github.com/himdo/Fable-2-Recomp) | Fable-2-Recomp | 629 | 🟢 | C++ |
-| [Mario Kart 64: Recompiled](https://github.com/sonicdcer/MarioKart64Recomp) | Static recompilation of Mario Kart 64 using N64Recomp and RT64 | 627 | 🟢 | C++ |
-| [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp) | Xbox 360 static recompilation of Ace Combat 6: Fires of Liberation | 595 | 🟢 | C++ |
-| [ssbu-recomp](https://github.com/OpenSmash-Ultimate/ssbu-recomp) | Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program | 595 | 🟢 | C |
-| [Yakumo](https://github.com/TeamGDB/Yakumo) | Static recompilation of a PSP game into a native executable. Vulkan and SDL3. Bring your own copy of the game. | 595 | 🟢 | C++ |
-| [MeleePC](https://github.com/999sian/melee-pc) | Recomp of Super Smash Bros Melee to PC. | 592 | 🟢 | C |
+| [Fable-2-Recomp](https://github.com/himdo/Fable-2-Recomp) | Fable-2-Recomp | 635 | 🟢 | C++ |
+| [Mario Kart 64: Recompiled](https://github.com/sonicdcer/MarioKart64Recomp) | Static recompilation of Mario Kart 64 using N64Recomp and RT64 | 630 | 🟢 | C++ |
+| [Yakumo](https://github.com/TeamGDB/Yakumo) | Static recompilation of a PSP game into a native executable. Vulkan and SDL3. Bring your own copy of the game. | 598 | 🟢 | C++ |
+| [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp) | Xbox 360 static recompilation of Ace Combat 6: Fires of Liberation | 597 | 🟢 | C++ |
+| [ssbu-recomp](https://github.com/OpenSmash-Ultimate/ssbu-recomp) | Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program | 596 | 🟢 | C |
+| [MeleePC](https://github.com/999sian/melee-pc) | Recomp of Super Smash Bros Melee to PC. | 595 | 🟢 | C |
+| [BlueWake](https://github.com/chrissotraidis/bluewake) | The Wind Waker (GameCube) static recompilation | 589 | 🟢 | C |
 | [The Legend of Zelda: The Wind Waker](https://github.com/elliotttate/Wind-Waker-Recomp) | Static recompilation of The Legend of Zelda: The Wind Waker (GameCube) into a native PC port | 588 | 🟢 | C |
+| [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) | Static recompilation of Bayonetta 2 (Switch) into a native PC port | 585 | 🟢 | C |
+| [Burnout 3: Takedown](https://github.com/xenophobentx/takedawn) | Static recompilation of Burnout 3: Takedown (Xbox) into a native PC port | 583 | 🟢 | C |
+| [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) | Static recompilation of The Legend of Zelda: Skyward Sword HD (Switch) into a native PC port | 579 | 🟢 | C |
 | [Donkey Kong 64: Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) | Donkey Kong 64 static recompilation with high-framerate support | 578 | 🟢 | C |
-| [BlueWake](https://github.com/chrissotraidis/bluewake) | The Wind Waker (GameCube) static recompilation | 577 | 🟢 | C |
-| [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) | Static recompilation of Bayonetta 2 (Switch) into a native PC port | 575 | 🟢 | C |
-| [Burnout 3: Takedown](https://github.com/xenophobentx/takedawn) | Static recompilation of Burnout 3: Takedown (Xbox) into a native PC port | 575 | 🟢 | C |
-| [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) | Static recompilation of The Legend of Zelda: Skyward Sword HD (Switch) into a native PC port | 567 | 🟢 | C |
-| [SMS Launcher](https://github.com/chasem-dev/sms-launcher) | Recomp of Super Mario Sunshine. | 562 | 🟢 | JavaScript |
-| [nebula](https://github.com/keepvaibin/nebula) | Recompilation of Super Mario Galaxy targeting Windows, with macOS and Android planned | 561 | 🟢 | C++ |
-| [The Last Guardian](https://github.com/HayatoG/tlg_pc) | Unofficial native port of The Last Guardian (PS4) | 561 | 🟢 | C++ |
-| [PaperBoat](https://github.com/HarbourMasters/PaperBoat) | Paper Mario source port based on the decompilation | 555 | 🟢 | C |
+| [SMS Launcher](https://github.com/chasem-dev/sms-launcher) | Recomp of Super Mario Sunshine. | 575 | 🟢 | JavaScript |
+| [nebula](https://github.com/keepvaibin/nebula) | Recompilation of Super Mario Galaxy targeting Windows, with macOS and Android planned | 569 | 🟢 | C++ |
+| [The Last Guardian](https://github.com/HayatoG/tlg_pc) | Unofficial native port of The Last Guardian (PS4) | 569 | 🟢 | C++ |
+| [PaperBoat](https://github.com/HarbourMasters/PaperBoat) | Paper Mario source port based on the decompilation | 558 | 🟢 | C |
 | [PsyDoom](https://github.com/BodbDearg/PsyDoom) | PC backport of PlayStation Doom based on reverse engineering of the original code | 552 | 🟡 | C++ |
-| [Lighthouse](https://github.com/HarbourMasters/Lighthouse) | Banjo-Kazooie PC port with multiplayer, romhacks and randomizer | 547 | 🟢 | C |
-| [BattleShip](https://github.com/JRickey/BattleShip) | AI-assisted decomp-based PC/Mac/Linux port of Super Smash Bros | 538 | 🟢 | C++ |
-| [Ico-PC](https://github.com/nathanialf/ico-pc) | Recomp of ICO (PS2) to PC. | 508 | 🟢 | C |
-| [fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port) | Experimental Windows PC port of FIFA Street (2012, Xbox 360) built with ReXGlue | 500 | 🟢 | C# |
-| [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) | GUI tool to download, build and launch the zelda3 C reimplementation of A Link to the Past | 492 | 🟢 | C# |
-| [Edge Of Time Recomp](https://github.com/goliathret/EdgeOfTimeRecomp) | Recomp of Spider Man: Edge of Time from Xbox 360. | 491 | 🟢 | C++ |
+| [Lighthouse](https://github.com/HarbourMasters/Lighthouse) | Banjo-Kazooie PC port with multiplayer, romhacks and randomizer | 548 | 🟢 | C |
+| [BattleShip](https://github.com/JRickey/BattleShip) | AI-assisted decomp-based PC/Mac/Linux port of Super Smash Bros | 540 | 🟢 | C++ |
+| [Ico-PC](https://github.com/nathanialf/ico-pc) | Recomp of ICO (PS2) to PC. | 516 | 🟢 | C |
+| [fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port) | Experimental Windows PC port of FIFA Street (2012, Xbox 360) built with ReXGlue | 504 | 🟢 | C# |
+| [Edge Of Time Recomp](https://github.com/goliathret/EdgeOfTimeRecomp) | Recomp of Spider Man: Edge of Time from Xbox 360. | 495 | 🟢 | C++ |
+| [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) | GUI tool to download, build and launch the zelda3 C reimplementation of A Link to the Past | 495 | 🟢 | C# |
 | [gtasa_vita](https://github.com/TheOfficialFloW/gtasa_vita) | Port of GTA: San Andreas to PS Vita by loading and patching the Android binaries | 467 | 🟡 | C |
-| [MadnessPatch](https://github.com/Wemino/MadnessPatch) | Unofficial native port of MadnessPatch (PC) | 465 | 🟢 | C++ |
-| [Tekken6-native-online](https://github.com/Ekspym/Tekken6-native-online) | Unofficial native port of Tekken 6 (Xbox 360) | 465 | 🟢 |  |
-| [WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) | Native Windows porting toolkit for Super Smash Bros. Ultimate via static AArch64 recompilation | 459 | 🟢 | C |
+| [MadnessPatch](https://github.com/Wemino/MadnessPatch) | Unofficial native port of MadnessPatch (PC) | 466 | 🟢 | C++ |
+| [Tekken6-native-online](https://github.com/Ekspym/Tekken6-native-online) | Unofficial native port of Tekken 6 (Xbox 360) | 466 | 🟢 |  |
+| [SCDA-XBERecomp](https://github.com/TGP482/SCDA-XBERecomp) | Unofficial PC port of Splinter Cell: Double Agent (original Xbox) via static recompilation | 460 | 🟢 | C++ |
+| [WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) | Native Windows porting toolkit for Super Smash Bros. Ultimate via static AArch64 recompilation | 460 | 🟢 | C |
 | [gb-recompiled](https://github.com/arcanite24/gb-recompiled) | Static recompiler for Game Boy/Color ROMs to portable C with SDL2 runtime | 458 | 🟢 | Python |
-| [SCDA-XBERecomp](https://github.com/TGP482/SCDA-XBERecomp) | Unofficial PC port of Splinter Cell: Double Agent (original Xbox) via static recompilation | 456 | 🟢 | C++ |
-| [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) | Static recompilation of Pokemon Gold / Silver / Crystal (Game Boy Color) into a native PC port | 449 | 🟢 | Lua |
-| [CTR Native](https://github.com/CTR-tools/ctr-native) | Native PC port based on the Crash Team Racing decompilation | 435 | 🟢 | C |
+| [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) | Static recompilation of Pokemon Gold / Silver / Crystal (Game Boy Color) into a native PC port | 455 | 🟢 | Lua |
+| [CTR Native](https://github.com/CTR-tools/ctr-native) | Native PC port based on the Crash Team Racing decompilation | 437 | 🟢 | C |
+| [inFamous](https://github.com/whompay/inFAMOUSreborn) | Static recompilation of inFamous (PS3) into a native PC port | 436 | 🟢 | C |
 | [SR](https://github.com/M-HT/SR) | A project to statically recompile following games to create Windows or Linux (x86 or arm) versions of the games - Alb... | 434 | 🟢 | C |
-| [inFamous](https://github.com/whompay/inFAMOUSreborn) | Static recompilation of inFamous (PS3) into a native PC port | 431 | 🟢 | C |
-| [NocturneRecomp](https://github.com/birabittoh/NocturneRecomp) | Static recompilation of Castlevania: Symphony of the Night (XBLA) for Windows and Linux, built on the ReXGlue SDK. | 422 | 🟢 | C++ |
-| [psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | Static recompilation of PSP games (God of War) to WebAssembly with HLE kernel | 421 | 🟢 | C++ |
-| [Fable2Recomp](https://github.com/Fable2Recomp/Fable2Remake) | A Fable 2 Recomp | 420 | 🟢 | C++ |
-| [ForzaHorizon1-ReImagined](https://github.com/FH1-ReImagined/ForzaHorizon1-ReImagined) | Forza Horizon (Xbox 360) running natively on PC, rebuilt with online free roam and leaderboards | 419 | 🟢 | Python |
-| [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) | The Simpsons Game Xbox 360 static recompilation | 419 | 🟢 | C++ |
-| [God of War: Ascension](https://github.com/arnaldolima1/gow-ascension-pc) | Static recompilation of God of War: Ascension (PS3) into a native PC port | 411 | 🟢 | Python |
-| [CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp) | Static recompilation of Call of Duty 3 (Xbox 360) with host runtime and tools | 409 | 🟢 | C++ |
-| [GoldenEye 007 port](https://github.com/murkantor/Project-Midas) | PC port of GoldenEye 007 for Windows and Linux built from the N64 decompilation | 409 | 🟢 | C |
-| [harkinianpad (Ocarina of Time)](https://github.com/chrissotraidis/harkinianpad) | Ocarina of Time on iOS and iPadOS via Ship of Harkinian with Metal rendering | 407 | 🟢 | Python |
-| [Star Fox 64: Recompiled](https://github.com/sonicdcer/Starfox64Recomp) | Static recompilation of Star Fox 64 for Windows/Linux | 403 | 🟢 | C |
-| [psxrecomp](https://github.com/RetroPortingToolKit/psxrecomp) | PlayStation 1 game static recompiler ecosystem | 400 | 🟢 | C |
-| [The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) | The Darkness Xbox 360 static recompilation | 399 | 🟢 | C++ |
-| [strikers](https://github.com/new-coke/strikers) | Mario Strikers Charged native PC port / recompilation | 393 | 🟢 | C++ |
-| [Dragon's Crown Pro](https://github.com/saulob/dragons-crown-pro-pc) | Unofficial native port of Dragon's Crown Pro (PS4) | 390 | 🟢 | C++ |
-| [sm64rt](https://github.com/DarioSamo/sm64rt) | Super Mario 64 PC port with ray tracing | 385 | 🟡 | C |
-| [d2r-mobile](https://github.com/d2r-mobile/d2r-mobile) | Native ARM port of Diablo II: Resurrected for iOS, Android, macOS and HarmonyOS using Switch game files | 384 | 🟢 | C |
-| [Grand-V](https://github.com/SebasKitten/Grand-V) | GTA V reverse engineered to run in a Chromium browser with WebAssembly and WebGPU | 382 | 🟢 | Rust |
+| [ForzaHorizon1-ReImagined](https://github.com/FH1-ReImagined/ForzaHorizon1-ReImagined) | Forza Horizon (Xbox 360) running natively on PC, rebuilt with online free roam and leaderboards | 426 | 🟢 | Python |
+| [psp-web-recomp](https://github.com/snuri00/psp-web-recomp) | Static recompilation of PSP games (God of War) to WebAssembly with HLE kernel | 424 | 🟢 | C++ |
+| [NocturneRecomp](https://github.com/birabittoh/NocturneRecomp) | Static recompilation of Castlevania: Symphony of the Night (XBLA) for Windows and Linux, built on the ReXGlue SDK. | 423 | 🟢 | C++ |
+| [Fable2Recomp](https://github.com/Fable2Recomp/Fable2Remake) | A Fable 2 Recomp | 421 | 🟢 | C++ |
+| [God of War: Ascension](https://github.com/arnaldolima1/gow-ascension-pc) | Static recompilation of God of War: Ascension (PS3) into a native PC port | 420 | 🟢 | Python |
+| [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) | The Simpsons Game Xbox 360 static recompilation | 420 | 🟢 | C++ |
+| [GoldenEye 007 port](https://github.com/murkantor/Project-Midas) | PC port of GoldenEye 007 for Windows and Linux built from the N64 decompilation | 413 | 🟢 | C |
+| [CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp) | Static recompilation of Call of Duty 3 (Xbox 360) with host runtime and tools | 410 | 🟢 | C++ |
+| [harkinianpad (Ocarina of Time)](https://github.com/chrissotraidis/harkinianpad) | Ocarina of Time on iOS and iPadOS via Ship of Harkinian with Metal rendering | 409 | 🟢 | Python |
+| [Star Fox 64: Recompiled](https://github.com/sonicdcer/Starfox64Recomp) | Static recompilation of Star Fox 64 for Windows/Linux | 404 | 🟢 | C |
+| [psxrecomp](https://github.com/RetroPortingToolKit/psxrecomp) | PlayStation 1 game static recompiler ecosystem | 401 | 🟢 | C |
+| [The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) | The Darkness Xbox 360 static recompilation | 401 | 🟢 | C++ |
+| [strikers](https://github.com/new-coke/strikers) | Mario Strikers Charged native PC port / recompilation | 400 | 🟢 | C++ |
+| [Dragon's Crown Pro](https://github.com/saulob/dragons-crown-pro-pc) | Unofficial native port of Dragon's Crown Pro (PS4) | 396 | 🟢 | C++ |
+| [d2r-mobile](https://github.com/d2r-mobile/d2r-mobile) | Native ARM port of Diablo II: Resurrected for iOS, Android, macOS and HarmonyOS using Switch game files | 389 | 🟢 | C |
+| [sm64rt](https://github.com/DarioSamo/sm64rt) | Super Mario 64 PC port with ray tracing | 386 | 🟡 | C |
+| [Grand-V](https://github.com/SebasKitten/Grand-V) | GTA V reverse engineered to run in a Chromium browser with WebAssembly and WebGPU | 385 | 🟢 | Rust |
+| [nfsu2-recompiled](https://github.com/codepdbh/nfsu2-recompiled) | Static recompilation of Need for Speed Underground 2 (PC) | 384 | 🟢 | C++ |
 | [BLACK (black-pc)](https://github.com/Spark198rus/black-pc) | Unofficial native port of BLACK (og xbox) | 380 | 🟢 | C++ |
-| [nfsu2-recompiled](https://github.com/codepdbh/nfsu2-recompiled) | Static recompilation of Need for Speed Underground 2 (PC) | 374 | 🟢 | C++ |
-| [ProjectCane](https://github.com/theclub654/ProjectCane) | Playable PC port of Sly Cooper and the Thievius Raccoonus rebuilt via reverse engineering | 374 | 🟢 | C++ |
+| [Demon's Souls](https://github.com/JonathanDC64/Soulbrandt) | Static recompilation of Demon's Souls (PS3) into a native PC port | 378 | 🟢 | C++ |
+| [ProjectCane](https://github.com/theclub654/ProjectCane) | Playable PC port of Sly Cooper and the Thievius Raccoonus rebuilt via reverse engineering | 376 | 🟢 | C++ |
 | [libultraship](https://github.com/Kenix3/libultraship) | Library for porting N64 decompilations to PC, used by Ship of Harkinian and other ports | 367 | 🟢 | C++ |
 | [DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) | Silent Hill: Downpour Xbox 360 static recompilation | 363 | 🟢 | C++ |
-| [OpenTIE](https://github.com/elyosh/OpenTIE) | Open-source recomp of TIE Fighter. | 357 | 🟢 | C |
-| [Demon's Souls](https://github.com/JonathanDC64/Soulbrandt) | Static recompilation of Demon's Souls (PS3) into a native PC port | 352 | 🟢 | C++ |
-| [Killzone: Shadow Fall (killzone-shadowfall-pc)](https://github.com/lesca-191204/killzone-shadowfall-pc) | Unofficial native port of Killzone: Shadow Fall (PlayStation 4) | 352 | 🟢 | C++ |
+| [OpenTIE](https://github.com/elyosh/OpenTIE) | Open-source recomp of TIE Fighter. | 359 | 🟢 | C |
+| [Killzone: Shadow Fall (killzone-shadowfall-pc)](https://github.com/lesca-191204/killzone-shadowfall-pc) | Unofficial native port of Killzone: Shadow Fall (PlayStation 4) | 354 | 🟢 | C++ |
 | [MinecraftC](https://github.com/johnpayne-dev/MinecraftC) | C port of Minecraft Classic 0.0.30a with ray tracing, based on the decompiled Java game | 350 | 🟡 | C |
+| [Mortal Kombat: Shaolin Monks](https://github.com/OAleex/OpenShao) | Static recompilation of Mortal Kombat: Shaolin Monks (Xbox) into a native PC port | 345 | 🟢 | C++ |
 | [Dinosaur Planet: Recompiled](https://github.com/DinosaurPlanetRecomp/dino-recomp) | Static recompilation of the unreleased N64 Dinosaur Planet | 337 | 🟢 | C++ |
 | [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) | Mystical Ninja Starring Goemon static recompilation | 336 | 🟢 | C |
-| [Mortal Kombat: Shaolin Monks](https://github.com/OAleex/OpenShao) | Static recompilation of Mortal Kombat: Shaolin Monks (Xbox) into a native PC port | 336 | 🟢 | C++ |
-| [CBFD-Recompiled](https://github.com/sciaschi/CBFD-Recompiled) | Static recompilation of Conker's Bad Fur Day (N64) to native PC | 333 | 🟢 | C |
-| [Luigi's Mansion (Luigi's Mansion Recompiled)](https://github.com/rob646464/luigis-mansion-recompiled) | Static recompilation of Luigi's Mansion (GameCube) into a native PC port | 327 | 🟢 | C++ |
-| [G-Diffuser](https://github.com/Zorkats/G-Diffuser) | Unofficial PC port of F-Zero X based on its decompilation | 326 | 🟢 | C |
-| [Xerenge](https://github.com/shipa-2/Xerenge) | Burnout Revenge recompilation based on ReXGlue | 323 | 🟢 | C++ |
-| [Midnight Club: Los Angeles](https://github.com/mzzvxm/LARecomp) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) into a native PC port | 321 | 🟢 | C++ |
-| [pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) | Pokemon Emerald decompilation recompiled to WebAssembly for the browser | 318 | 🟢 | C |
-| [Pikmin & Pikmin 2 (Open Nectar)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | Unofficial native port of Pikmin & Pikmin 2 (GameCube) | 312 | 🟢 | Assembly |
-| [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) | Bomberman 64 static recompilation with mod support | 311 | 🟢 | C++ |
-| [GoldenEye PC Port](https://github.com/jkdansereau/goldeneye-pc-port) | Recomp of GoldenEye 007 (N64). | 305 | 🟢 | C |
-| [Paper Mario](https://github.com/SMCGames/Paper-Mario-ReCut-Deprecated) | Unofficial native port of Paper Mario (N64) | 304 | 🟢 | C++ |
-| [Ninja Gaiden Black (Ninja Gaiden Black Recompiled)](https://github.com/gamboozino/ngbrecomp) | Static recompilation of Ninja Gaiden Black (og xbox) into a native PC port | 302 | 🟢 | C |
-| [Condemned2Recomp](https://github.com/psxrestore/Condemned2Recomp) | A static recompilation of Condemned 2: Bloodshot done with RexGlue. | 301 | 🟢 | C++ |
-| [Yu-Gi-Oh! Forbidden Memories Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) | Yu-Gi-Oh! Forbidden Memories PlayStation static recompilation | 296 | 🟢 | C |
-| [DKC1Recomp](https://github.com/elliotttate/DKC1Recomp) | Static recompilation of Donkey Kong Country (SNES) with widescreen | 294 | 🟢 | C |
-| [LCS Recomp](https://github.com/elmasas/lcs-recomp) | Recomp of the PSP game GTA: Liberty City Stories to PC. | 294 | 🟢 | C++ |
+| [CBFD-Recompiled](https://github.com/sciaschi/CBFD-Recompiled) | Static recompilation of Conker's Bad Fur Day (N64) to native PC | 334 | 🟢 | C |
+| [Luigi's Mansion (Luigi's Mansion Recompiled)](https://github.com/rob646464/luigis-mansion-recompiled) | Static recompilation of Luigi's Mansion (GameCube) into a native PC port | 330 | 🟢 | C++ |
+| [G-Diffuser](https://github.com/Zorkats/G-Diffuser) | Unofficial PC port of F-Zero X based on its decompilation | 327 | 🟢 | C |
+| [Midnight Club: Los Angeles](https://github.com/mzzvxm/LARecomp) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) into a native PC port | 327 | 🟢 | C++ |
+| [Xerenge](https://github.com/shipa-2/Xerenge) | Burnout Revenge recompilation based on ReXGlue | 327 | 🟢 | C++ |
+| [pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) | Pokemon Emerald decompilation recompiled to WebAssembly for the browser | 320 | 🟢 | C |
+| [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) | Bomberman 64 static recompilation with mod support | 312 | 🟢 | C++ |
+| [Pikmin & Pikmin 2 (Open Nectar)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | Unofficial native port of Pikmin & Pikmin 2 (GameCube) | 311 | 🟢 | Assembly |
+| [Ninja Gaiden Black (Ninja Gaiden Black Recompiled)](https://github.com/gamboozino/ngbrecomp) | Static recompilation of Ninja Gaiden Black (og xbox) into a native PC port | 308 | 🟢 | C |
+| [GoldenEye PC Port](https://github.com/jkdansereau/goldeneye-pc-port) | Recomp of GoldenEye 007 (N64). | 307 | 🟢 | C |
+| [Condemned2Recomp](https://github.com/psxrestore/Condemned2Recomp) | A static recompilation of Condemned 2: Bloodshot done with RexGlue. | 303 | 🟢 | C++ |
+| [Paper Mario](https://github.com/SMCGames/Paper-Mario-ReCut-Deprecated) | Unofficial native port of Paper Mario (N64) | 303 | 🟢 | C++ |
+| [Yu-Gi-Oh! Forbidden Memories Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) | Yu-Gi-Oh! Forbidden Memories PlayStation static recompilation | 302 | 🟢 | C |
+| [DKC1Recomp](https://github.com/elliotttate/DKC1Recomp) | Static recompilation of Donkey Kong Country (SNES) with widescreen | 297 | 🟢 | C |
+| [LCS Recomp](https://github.com/elmasas/lcs-recomp) | Recomp of the PSP game GTA: Liberty City Stories to PC. | 296 | 🟢 | C++ |
 | [Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) | Quest 64 static recompilation with mod support | 289 | 🟢 | C++ |
 | [MKW-3DS](https://github.com/MiniBandit/MKW-3DS) | Native Nintendo 3DS port of Mario Kart Wii, built from your own disc | 286 | 🟢 | C++ |
-| [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled) | Mega Man 64 static recompilation with mod support | 283 | 🟢 | C++ |
+| [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled) | Mega Man 64 static recompilation with mod support | 284 | 🟢 | C++ |
+| [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) | Static recompilation of Pokémon: Let's Go, Eevee! (Switch) into a native PC port | 284 | 🟢 | C |
 | [Metroid Prime Hunters](https://github.com/mstan/MetroidPrimeHuntersRecomp) | Static recompilation of Metroid Prime Hunters (DS) into a native PC port | 283 | 🟢 | Python |
-| [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) | Static recompilation of Pokémon: Let's Go, Eevee! (Switch) into a native PC port | 277 | 🟢 | C |
-| [King Kong: Recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | Peter Jackson's King Kong Xbox 360 static recompilation | 274 | 🟢 | C++ |
+| [King Kong: Recompiled](https://github.com/TekRantGaming/king-kong-recompiled) | Peter Jackson's King Kong Xbox 360 static recompilation | 279 | 🟢 | C++ |
 | [Parasite-Eve-2-HD-Remaster (Parasite Eve II)](https://github.com/faligame/Parasite-Eve-2-HD-Remaster) | Static recompilation of Parasite Eve II (PS1) into a native port | 271 | 🟢 |  |
-| [Skate3-Mobile](https://github.com/Buku313/Skate3-Mobile) | Play Skate 3 natively on Android. Download one APK, select your own ISO, and skate. ARM64 recompilation with Vulkan r... | 267 | 🟢 | C++ |
-| [Tekken Tag Tournament 2](https://github.com/shihabal3amri/tekken-tag-tournament-2-pc) | Static recompilation of Tekken Tag Tournament 2 (Xbox 360) into a native PC port | 266 | 🟢 | C++ |
-| [MediEvil](https://github.com/BlackLabelHQ/MediEvilRecomp) | Static recompilation of MediEvil (PS1) into a native PC port | 265 | 🟢 | C# |
-| [Diddy Kong Racing](https://github.com/ThatGuyMcd/DKR-R) | Static recompilation of Diddy Kong Racing (N64) into a native PC port | 263 | 🟢 | C++ |
-| [Drakengard 3 (Drakengard 3 Recompiled)](https://github.com/soyjxck/dod3-recomp) | Static recompilation of Drakengard 3 (PS3) into a native PC port | 263 | 🟢 | C++ |
-| [Need for Speed: Most Wanted](https://github.com/StevensND/nfsmw-nx) | Static recompilation of Need for Speed: Most Wanted (Xbox 360) into a native PC port | 263 | 🟢 | C |
-| [Jet Set Radio Future (Jet Set Radio Future Unleashed)](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | Unofficial native port of Jet Set Radio Future (og xbox) | 258 | 🟢 | C |
-| [Ratchet & Clank (rac-rs)](https://github.com/AsobiCodes/rac-rs) | Static recompilation of Ratchet & Clank (PS2) into a native PC port | 258 | 🟢 | Rust |
-| [DimensionsRecomp](https://github.com/NeverCookFirst/DimensionsRecomp) | Proof that a toys-to-life game can be recompiled. A native PC build of LEGO Dimensions, made by statically recompilin... | 256 | 🟢 | C++ |
-| [mario-kart-64-3ds](https://github.com/EstebanPdN/mario-kart-64-3ds) | Native Nintendo 3DS port based on the Mario Kart 64 decompilation | 256 | 🟢 | C++ |
-| [PSPRecomp](https://github.com/jessicanataliagta/PSPRecomp) | Static recompilation framework for PSP software | 254 | 🟢 | C++ |
-| [doaxvb-re](https://github.com/NoRain211/doaxvb-re) | Dead or Alive Xtreme Beach Volleyball original-Xbox static recompilation | 253 | 🟢 | C |
+| [Skate3-Mobile](https://github.com/Buku313/Skate3-Mobile) | Play Skate 3 natively on Android. Download one APK, select your own ISO, and skate. ARM64 recompilation with Vulkan r... | 271 | 🟢 | C++ |
+| [MediEvil](https://github.com/BlackLabelHQ/MediEvilRecomp) | Static recompilation of MediEvil (PS1) into a native PC port | 267 | 🟢 | C# |
+| [Tekken Tag Tournament 2](https://github.com/shihabal3amri/tekken-tag-tournament-2-pc) | Static recompilation of Tekken Tag Tournament 2 (Xbox 360) into a native PC port | 267 | 🟢 | C++ |
+| [Drakengard 3 (Drakengard 3 Recompiled)](https://github.com/soyjxck/dod3-recomp) | Static recompilation of Drakengard 3 (PS3) into a native PC port | 265 | 🟢 | C++ |
+| [Diddy Kong Racing](https://github.com/ThatGuyMcd/DKR-R) | Static recompilation of Diddy Kong Racing (N64) into a native PC port | 264 | 🟢 | C++ |
+| [Need for Speed: Most Wanted](https://github.com/StevensND/nfsmw-nx) | Static recompilation of Need for Speed: Most Wanted (Xbox 360) into a native PC port | 264 | 🟢 | C |
+| [Jet Set Radio Future (Jet Set Radio Future Unleashed)](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | Unofficial native port of Jet Set Radio Future (og xbox) | 263 | 🟢 | C |
+| [Ratchet & Clank (rac-rs)](https://github.com/AsobiCodes/rac-rs) | Static recompilation of Ratchet & Clank (PS2) into a native PC port | 259 | 🟢 | Rust |
+| [DimensionsRecomp](https://github.com/NeverCookFirst/DimensionsRecomp) | Proof that a toys-to-life game can be recompiled. A native PC build of LEGO Dimensions, made by statically recompilin... | 257 | 🟢 | C++ |
+| [mario-kart-64-3ds](https://github.com/EstebanPdN/mario-kart-64-3ds) | Native Nintendo 3DS port based on the Mario Kart 64 decompilation | 257 | 🟢 | C++ |
+| [PSPRecomp](https://github.com/jessicanataliagta/PSPRecomp) | Static recompilation framework for PSP software | 256 | 🟢 | C++ |
+| [doaxvb-re](https://github.com/NoRain211/doaxvb-re) | Dead or Alive Xtreme Beach Volleyball original-Xbox static recompilation | 255 | 🟢 | C |
+| [Resident Evil - Code: Veronica X (recvx-enhanced-recomp)](https://github.com/aikatore/recvx-enhanced-port) | Static recompilation of Resident Evil - Code: Veronica X (PS2) into a native PC port | 253 | 🟢 | C |
+| [wipeout_pc (WipEout Omega Collection)](https://github.com/AbdelmoumenDeghbouche/wipeout_pc) | Native Windows port of WipEout Omega Collection (PS4) | 253 | 🟢 | C++ |
 | [Half-Life (Lambda1VR (Xash3D VR port))](https://github.com/Team-Beef-Studios/Lambda1VR) | Unofficial native port of Half-Life (PC) | 252 | 🟢 | C |
-| [wipeout_pc (WipEout Omega Collection)](https://github.com/AbdelmoumenDeghbouche/wipeout_pc) | Native Windows port of WipEout Omega Collection (PS4) | 251 | 🟢 | C++ |
+| [SpelunkyClassicHD](https://github.com/yancharkin/SpelunkyClassicHD) | Unofficial native port of Spelunky (PC) | 252 | 🟢 | Game Maker Language |
+| [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) | Static recompilation of Super Mario Maker 2 (Switch) into a native PC port | 251 | 🟢 | C |
 | [Crash Bandicoot](https://github.com/wurlyfox/c1) | Unofficial native port of Crash Bandicoot (PS1) | 250 | 🟢 | C |
-| [Resident Evil - Code: Veronica X (recvx-enhanced-recomp)](https://github.com/aikatore/recvx-enhanced-port) | Static recompilation of Resident Evil - Code: Veronica X (PS2) into a native PC port | 248 | 🟢 | C |
-| [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) | Static recompilation of Super Mario Maker 2 (Switch) into a native PC port | 248 | 🟢 | C |
+| [EA Sports UFC 3](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS) | Unofficial native port of EA Sports UFC 3 (PS4) | 250 | 🟢 | C++ |
+| [Viva Piñata: Trouble in Paradise](https://github.com/SolarCookies/TiP-Recomp) | Xbox 360 static recompilation of Viva Piñata: Trouble in Paradise | 248 | 🟢 | C++ |
 | [WHITE ALBUM2 recomp](https://github.com/dorakyuraduang/whitealbum2-Android) | Static recompilation of the WHITE ALBUM2 visual novel for Windows x64 and Android ARM64 | 248 | 🟢 | C |
-| [EA Sports UFC 3](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS) | Unofficial native port of EA Sports UFC 3 (PS4) | 247 | 🟢 | C++ |
-| [Viva Piñata: Trouble in Paradise](https://github.com/SolarCookies/TiP-Recomp) | Xbox 360 static recompilation of Viva Piñata: Trouble in Paradise | 247 | 🟢 | C++ |
+| [DefJamFFNY-recomp](https://github.com/vyanhursky/DefJamFFNY-recomp) | Def Jam: Fight for NY PC port — static recompilation of the original Xbox game for native Windows and macOS (Direct3D... | 246 | 🟢 | Python |
+| [Dragon Ball Z: Budokai HD Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) | Static recompilation of Dragon Ball Z: Budokai HD Collection (Xbox 360) into a native PC port | 245 | 🟢 | C++ |
 | [Sonic Unleashed](https://github.com/SansNope/UnleashedRecomp-Android) | Static recompilation of Sonic Unleashed (Xbox 360) into a native PC port | 245 | 🟢 | C |
-| [DefJamFFNY-recomp](https://github.com/vyanhursky/DefJamFFNY-recomp) | Def Jam: Fight for NY PC port — static recompilation of the original Xbox game for native Windows and macOS (Direct3D... | 244 | 🟢 | Python |
+| [SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | Wind Waker HD (Wii U) static recompilation for Nintendo Switch, deko3d renderer. Requires your own game dump. | 245 | 🟢 | C++ |
 | [naruto-rise-recomp](https://github.com/jorjbarbosa/naruto-rise-recomp) | Static PC recompilation of Naruto: Rise of a Ninja (Xbox 360) via ReXGlue | 243 | 🟢 | C++ |
 | [PGR4-Recomp](https://github.com/beatrixzy/PGR4-Recomp) | A Recompilation of Project Gotham Racing 4 | 242 | 🟢 | C++ |
-| [SpelunkyClassicHD](https://github.com/yancharkin/SpelunkyClassicHD) | Unofficial native port of Spelunky (PC) | 241 | 🟢 | Game Maker Language |
-| [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) | Recomp of Daytona Racing to PC. | 240 | 🟢 | C |
-| [Dragon Ball Z: Budokai HD Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) | Static recompilation of Dragon Ball Z: Budokai HD Collection (Xbox 360) into a native PC port | 240 | 🟢 | C++ |
-| [SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | Wind Waker HD (Wii U) static recompilation for Nintendo Switch, deko3d renderer. Requires your own game dump. | 240 | 🟢 | C++ |
+| [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) | Recomp of Daytona Racing to PC. | 241 | 🟢 | C |
+| [MediEvil](https://github.com/bc160201983/medievil_2019_pc_port) | Unofficial native port of MediEvil (PS4) | 238 | 🟢 | C++ |
 | [sms-pc-port](https://github.com/chasem-dev/sms-pc-port) | Native PC port of Super Mario Sunshine | 238 | 🟢 | C++ |
-| [khdays-port](https://github.com/Yokimitsuro/khdays-port) | Experimental native PC runtime for Kingdom Hearts 358/2 Days | 237 | 🟢 | C |
-| [mcla-recomp](https://github.com/holdmysocks/mcla-recomp) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) for PC and PS5 | 236 | 🟢 | C++ |
+| [Black-2006-Recomp](https://github.com/portingpete/Black-2006-Recomp) | Native Windows static recompilation of BLACK (2006) for the original Xbox | 236 | 🟢 | C |
+| [khdays-port](https://github.com/Yokimitsuro/khdays-port) | Experimental native PC runtime for Kingdom Hearts 358/2 Days | 236 | 🟢 | C |
+| [mcla-recomp](https://github.com/holdmysocks/mcla-recomp) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) for PC and PS5 | 235 | 🟢 | C++ |
+| [NFSMW-Recompiled](https://github.com/madelrandel-blip/NFSMW-Recompiled) | Static native recompilation of Need for Speed: Most Wanted (Xbox 360) | 235 | 🟢 | C |
 | [Banjo-Kazooie: Nuts & Bolts](https://github.com/masterspike52/reNut) | Xbox 360 static recompilation of Banjo-Kazooie: Nuts & Bolts | 234 | 🟢 | C++ |
-| [Black-2006-Recomp](https://github.com/portingpete/Black-2006-Recomp) | Native Windows static recompilation of BLACK (2006) for the original Xbox | 233 | 🟢 | C |
-| [MediEvil](https://github.com/bc160201983/medievil_2019_pc_port) | Unofficial native port of MediEvil (PS4) | 233 | 🟢 | C++ |
-| [NFSMW-Recompiled](https://github.com/madelrandel-blip/NFSMW-Recompiled) | Static native recompilation of Need for Speed: Most Wanted (Xbox 360) | 232 | 🟢 | C |
-| [god-of-war-recomp](https://github.com/KIexster/god-of-war-recomp) | Native PC port of God of War (PS2) via static recompilation with PS2Recomp | 231 | 🟢 | C++ |
-| [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) | Recomp and enhancement of the PS1 game Parasite Eve. | 230 | 🟢 |  |
-| [Marble Blast Gold](https://github.com/RandomityGuy/MBHaxe) | Unofficial native port of Marble Blast Gold (PC) | 226 | 🟢 | Haxe |
+| [god-of-war-recomp](https://github.com/KIexster/god-of-war-recomp) | Native PC port of God of War (PS2) via static recompilation with PS2Recomp | 232 | 🟢 | C++ |
+| [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) | Recomp and enhancement of the PS1 game Parasite Eve. | 231 | 🟢 |  |
+| [Marble Blast Gold](https://github.com/RandomityGuy/MBHaxe) | Unofficial native port of Marble Blast Gold (PC) | 228 | 🟢 | Haxe |
+| [Unicorn Overlord (unicorn_overlord_pc)](https://github.com/hachi23/unicorn_overlord_pc) | Unofficial native port of Unicorn Overlord (PlayStation 4) | 228 | 🟢 | C++ |
+| [Darkwatch (DarkwatchDarkerEdition)](https://github.com/linkssy2/DarkwatchDarkerEdition) | Static recompilation of Darkwatch (Xbox) into a native PC port | 226 | 🟢 | C++ |
+| [BrawlRecompiled](https://github.com/josiahg2502-glitch/BrawlRecompiled) | Native PC port of Super Smash Bros. Brawl (Wii) via static recompilation | 223 | 🟢 | C++ |
+| [FFTARecomp](https://github.com/Jorge262007/FFTARecomp) | Native Windows port of Final Fantasy Tactics Advance (GBA) with widescreen | 223 | 🟢 | Rust |
 | [Silent Hill](https://github.com/Sezzary/SilentEngine) | Unofficial native port of Silent Hill (PS1) | 223 | 🟢 | C++ |
 | [Crash Team Racing: High Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) | CTR source port for PC, PS Vita and web | 222 | 🟢 | C |
-| [FFTARecomp](https://github.com/Jorge262007/FFTARecomp) | Native Windows port of Final Fantasy Tactics Advance (GBA) with widescreen | 222 | 🟢 | Rust |
-| [BrawlRecompiled](https://github.com/josiahg2502-glitch/BrawlRecompiled) | Native PC port of Super Smash Bros. Brawl (Wii) via static recompilation | 221 | 🟢 | C++ |
 | [daytona-xbla-recomp](https://github.com/Subarasheese/daytona-xbla-recomp) | A static recompilation of Daytona USA (Xbox 360 / XBLA, 2011) | 221 | 🟢 | C++ |
+| [Saints Row](https://github.com/whompay/SaintsReborn) | Unofficial native port of Saints Row (Xbox 360) | 221 | 🟢 | C++ |
 | [GoldenRecomp](https://github.com/kholdfuzion/GoldenRecomp) | WIP Recompilation of a game about a special agent who saves the world from a traitor. | 219 | 🟢 | C++ |
 | [Perfect Dark](https://github.com/DabDavis/perfect-dark-dabs-mod) | Recomp of the N64 game Perfect Dark to PC, with enhancements. | 219 | 🟢 | C |
-| [Saints Row](https://github.com/whompay/SaintsReborn) | Unofficial native port of Saints Row (Xbox 360) | 219 | 🟢 | C++ |
 | [Super Mario 64 (libsm64-godot)](https://github.com/Brawmario/libsm64-godot) | Unofficial native port of Super Mario 64 (N64) | 219 | 🟢 | C++ |
-| [Unicorn Overlord (unicorn_overlord_pc)](https://github.com/hachi23/unicorn_overlord_pc) | Unofficial native port of Unicorn Overlord (PlayStation 4) | 219 | 🟢 | C++ |
-| [Darkwatch (DarkwatchDarkerEdition)](https://github.com/linkssy2/DarkwatchDarkerEdition) | Static recompilation of Darkwatch (Xbox) into a native PC port | 217 | 🟢 | C++ |
-| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | Unofficial native port of Minecraft: Java Edition (PC) | 215 | 🟢 | C++ |
+| [mscharged-port](https://github.com/previouslevelgames/recharged) | Mario Strikers Charged ported to PC, Mac and Linux from decompiled code | 218 | 🟢 | C++ |
+| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | Unofficial native port of Minecraft: Java Edition (PC) | 216 | 🟢 | C++ |
+| [cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) | EA Sports Cricket 07 statically recompiled from x86 to C and WebAssembly for the browser | 215 | 🟢 | C |
 | [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) | GUI tool to download, build and launch the Super Metroid C reimplementation (sm) | 215 | 🟢 | C# |
 | [yoyoloader_vita](https://github.com/Rinnegatamante/yoyoloader_vita) | Loader that runs Android GameMaker (YoYo Runner) games natively on PS Vita | 215 | 🟢 | C |
-| [cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) | EA Sports Cricket 07 statically recompiled from x86 to C and WebAssembly for the browser | 210 | 🟢 | C |
-| [mscharged-port](https://github.com/previouslevelgames/recharged) | Mario Strikers Charged ported to PC, Mac and Linux from decompiled code | 209 | 🟢 | C++ |
-| [burnout3-pc](https://github.com/danielgomesvieira2000/burnout3-pc) | Burnout 3: Takedown as a native Windows port via a PS2 decompilation toolchain | 208 | 🟢 | C++ |
-| [Duke Nukem Zero Hour: Recompiled](https://github.com/sonicdcer/DNZHRecomp) | Duke Nukem: Zero Hour static recompilation with gyro aiming and high FPS | 208 | 🟡 | C++ |
+| [NFSU2Recomp](https://github.com/TalhaMudo/NFSU2Recomp) | Need for Speed: Underground 2 (PC) statically recompiled for Apple Silicon Macs | 210 | 🟢 | C |
+| [burnout3-pc](https://github.com/danielgomesvieira2000/burnout3-pc) | Burnout 3: Takedown as a native Windows port via a PS2 decompilation toolchain | 209 | 🟢 | C++ |
+| [Duke Nukem Zero Hour: Recompiled](https://github.com/sonicdcer/DNZHRecomp) | Duke Nukem: Zero Hour static recompilation with gyro aiming and high FPS | 209 | 🟡 | C++ |
 | [The Legend of Zelda: A Link to the Past](https://github.com/Waterdish/zelda3-android) | Unofficial native port of The Legend of Zelda: A Link to the Past (SNES) | 208 | 🟡 | C |
 | [DolRecomp](https://github.com/ExpansionPak/DolRecomp) | Static recompiler for GameCube and Wii games | 207 | 🟢 | C |
-| [hl360-forza4 (Forza Motorsport 4)](https://github.com/0herculabs/hl360-forza4) | Forza Motorsport 4 (Xbox 360) running natively on PC | 204 | 🟢 | C++ |
+| [hl360-forza4 (Forza Motorsport 4)](https://github.com/0herculabs/hl360-forza4) | Forza Motorsport 4 (Xbox 360) running natively on PC | 207 | 🟢 | C++ |
+| [Need for Speed: Underground 2 (Switch port)](https://github.com/antoxa2584x/nfsu2-sw) | Unofficial native port of Need for Speed: Underground 2 (Xbox) | 203 | 🟢 | C |
 | [Eternal Sonata](https://github.com/birabittoh/EternalSonataReprise) | Static recompilation of Eternal Sonata (Xbox 360) into a native PC port | 202 | 🟢 | C++ |
-| [sunpad](https://github.com/chrissotraidis/sunpad) | Super Mario Sunshine on iOS, macOS and tvOS via static recompilation | 202 | 🟢 | Objective-C++ |
-| [Need for Speed: Underground 2 (Switch port)](https://github.com/antoxa2584x/nfsu2-sw) | Unofficial native port of Need for Speed: Underground 2 (Xbox) | 200 | 🟢 | C |
-| [NFSU2Recomp](https://github.com/TalhaMudo/NFSU2Recomp) | Need for Speed: Underground 2 (PC) statically recompiled for Apple Silicon Macs | 198 | 🟢 | C |
-| [Eternal Darkness: Sanity's Requiem](https://github.com/griches/EternalDarknessRecomp) | Static recompilation of Eternal Darkness: Sanity's Requiem (GameCube) into a native PC port | 197 | 🟢 | C |
-| [Killzone](https://github.com/drakolordx7/KillzoneRecomp) | Static recompilation of Killzone (PS2) into a native PC port | 196 | 🟢 | C++ |
+| [sunpad](https://github.com/chrissotraidis/sunpad) | Super Mario Sunshine on iOS, macOS and tvOS via static recompilation | 201 | 🟢 | Objective-C++ |
+| [NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Recompilation) | Static recompilation of New Super Mario Bros. Wii for Android and Windows | 199 | 🟢 | C++ |
+| [Eternal Darkness: Sanity's Requiem](https://github.com/griches/EternalDarknessRecomp) | Static recompilation of Eternal Darkness: Sanity's Requiem (GameCube) into a native PC port | 198 | 🟢 | C |
+| [God of War: Chains of Olympus (God of War PSP: native PC ports)](https://github.com/DrummingBird1/gow-psp-recomp) | Static recompilation of God of War: Chains of Olympus (PSP) into a native PC port | 198 | 🟢 | C |
+| [redalert2-recomp](https://github.com/sp00nznet/redalert2-recomp) | Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to native C, with the rem... | 198 | 🟢 | C |
+| [Killzone](https://github.com/drakolordx7/KillzoneRecomp) | Static recompilation of Killzone (PS2) into a native PC port | 196 | 🗄️ | C++ |
+| [goldenballoon](https://github.com/akratch/goldenballoon) | Native and browser port of the 1997 N64 kart racer Diddy Kong Racing | 195 | 🟢 | C |
 | [SkyRoads-Codex](https://github.com/ammaarreshi/SkyRoads-Codex) | SkyRoads DOS game reverse engineered without source using Codex | 195 | 🟢 | Rust |
-| [goldenballoon](https://github.com/akratch/goldenballoon) | Native and browser port of the 1997 N64 kart racer Diddy Kong Racing | 194 | 🟢 | C |
-| [Super Paper Mario](https://github.com/josiahg2502-glitch/NewSuperPaperBros) | Static recompilation of Super Paper Mario (Wii) into a native PC port | 194 | 🟢 | C++ |
-| [God of War: Chains of Olympus (God of War PSP: native PC ports)](https://github.com/DrummingBird1/gow-psp-recomp) | Static recompilation of God of War: Chains of Olympus (PSP) into a native PC port | 192 | 🟢 | C |
-| [redalert2-recomp](https://github.com/sp00nznet/redalert2-recomp) | Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to native C, with the rem... | 192 | 🟢 | C |
-| [RingOut](https://github.com/jackpoison-prog/RingOut) | Native PC port of a GameCube fighting game via static recompilation | 192 | 🟢 | C |
-| [NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Recompilation) | Static recompilation of New Super Mario Bros. Wii for Android and Windows | 191 | 🟢 | C++ |
-| [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged) | CTR PC source port with native 3D renderer and high frame rates | 190 | 🟢 | C |
-| [Forza Horizon 2](https://github.com/Gabrick75/fh2-recompiled) | Static recompilation of Forza Horizon 2 (Xbox 360) into a native PC port | 190 | 🟢 | C |
+| [Downhill Domination port](https://github.com/skuza-oss/downhill-revived) | PC port of Downhill Domination (PS2) built on a matching decompilation | 193 | 🟢 | C |
+| [RingOut](https://github.com/jackpoison-prog/RingOut) | Native PC port of a GameCube fighting game via static recompilation | 193 | 🟢 | C |
+| [Super Paper Mario](https://github.com/josiahg2502-glitch/NewSuperPaperBros) | Static recompilation of Super Paper Mario (Wii) into a native PC port | 193 | 🟢 | C++ |
+| [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged) | CTR PC source port with native 3D renderer and high frame rates | 192 | 🟢 | C |
+| [Forza Horizon 2](https://github.com/Gabrick75/fh2-recompiled) | Static recompilation of Forza Horizon 2 (Xbox 360) into a native PC port | 192 | 🟢 | C |
+| [GoldenEye 007](https://github.com/chrissotraidis/goldenpad) | Unofficial native port of GoldenEye 007 (N64) | 191 | 🟢 | Swift |
 | [God of War: Sons of Sparta (Sons Of Sparta PS5 Native)](https://github.com/OverkillLabs3/SoS-PS5) | Unofficial native port of God of War: Sons of Sparta (PS5) | 190 | 🟢 | C++ |
-| [GoldenEye 007](https://github.com/chrissotraidis/goldenpad) | Unofficial native port of GoldenEye 007 (N64) | 190 | 🟢 | Swift |
-| [Downhill Domination port](https://github.com/skuza-oss/downhill-revived) | PC port of Downhill Domination (PS2) built on a matching decompilation | 187 | 🟢 | C |
 | [DPRecomp](https://github.com/LittleBitUA/DPRecomp) | Deadly Premonition Xbox 360 static recompilation | 187 | 🟢 | C++ |
+| [ModernGekko](https://github.com/ExpansionPak/ModernGekko) | Runtime for recompilations of GameCube games | 187 | 🟢 | C++ |
 | [sega-vr-disasm](https://github.com/matiaszanolli/sega-vr-disasm) | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) | 187 | 🟢 | Assembly |
-| [ModernGekko](https://github.com/ExpansionPak/ModernGekko) | Runtime for recompilations of GameCube games | 186 | 🟢 | C++ |
-| [mw2-recompiled](https://github.com/PaulCombal/mw2-recompiled) | Call of Duty: Modern Warfare 2 (2009) for Xbox 360 recompiled for Windows & Linux | 185 | 🟢 | C++ |
+| [mw2-recompiled](https://github.com/PaulCombal/mw2-recompiled) | Call of Duty: Modern Warfare 2 (2009) for Xbox 360 recompiled for Windows & Linux | 186 | 🟢 | C++ |
 | [halo-64](https://github.com/JackTulli/halo-64) | Halo: Combat Evolved multiplayer on the N64, built from the Halo CE decompilation | 183 | 🟢 | C |
 | [N64ModernRuntime](https://github.com/N64Recomp/N64ModernRuntime) | Runtime for traditional ports and recompilations of N64 games | 183 | 🟢 | C++ |
+| [gr2_pc (Gravity Rush 2)](https://github.com/HayatoG/gr2_pc) | Native PC port (Linux/Windows) of Gravity Rush 2 (PS4) that runs your own game dump | 182 | 🟢 | C++ |
 | [HarvestMoon64Recomp](https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp) | PC Port of Harvest Moon 64 made using N64: Recompiled (Windows/Linux/Mac) | 182 | 🟢 | C++ |
 | [Mercenaries-Recompiled](https://github.com/KraftMacAndChee/Mercenaries-Recompiled) | Recompilation of Mercenaries: Playground of Destruction | 182 | 🟢 | C |
 | [SDOJ-Recomp](https://github.com/eandis/SDOJ-Recomp) | SDOJ-Recomp | 182 | 🟢 | C++ |
 | [Half-Life (webXash))](https://github.com/x8BitRain/webXash) | Unofficial native port of Half-Life (webXash)) (PC) | 181 | 🟢 | TypeScript |
-| [gr2_pc (Gravity Rush 2)](https://github.com/HayatoG/gr2_pc) | Native PC port (Linux/Windows) of Gravity Rush 2 (PS4) that runs your own game dump | 180 | 🟢 | C++ |
 | [Wipeout](https://github.com/jnmartin84/wipeout-dc) | Unofficial native port of Wipeout (PS1) | 180 | 🟢 | C |
-| [ConkerBFDReloaded](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) | Conker's Bad Fur Day running natively on PC: an N64 recompilation with a Classic mode true to the N64 and a Modern mo... | 178 | 🟢 | C++ |
-| [Gran Turismo 2 (gt-2-pc)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | Unofficial native port of Gran Turismo 2 (PS1) | 177 | 🟢 | C++ |
-| [Retro-Launcher](https://github.com/RetroPortingToolKit/Retro-Launcher) | Launcher that updates, manages and distributes static recompilation projects | 176 | 🟢 | C++ |
-| [snesrecomp](https://github.com/RetroPortingToolKit/snesrecomp) | Super Nintendo static recompiler ecosystem | 176 | 🟢 | C |
-| [Xbox360-Native-Ports](https://github.com/CrownParkComputing/Xbox360-Native-Ports) | Xbox 360 titles recompiled to native Linux with Vulkan renderer; launchers only | 173 | 🟢 | C++ |
+| [ConkerBFDReloaded](https://github.com/DahSidiAbdallah/ConkerBFDReloaded) | Conker's Bad Fur Day running natively on PC: an N64 recompilation with a Classic mode true to the N64 and a Modern mo... | 179 | 🟢 | C++ |
+| [Gran Turismo 2 (gt-2-pc)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | Unofficial native port of Gran Turismo 2 (PS1) | 179 | 🟢 | C++ |
+| [Retro-Launcher](https://github.com/RetroPortingToolKit/Retro-Launcher) | Launcher that updates, manages and distributes static recompilation projects | 179 | 🟢 | C++ |
+| [snesrecomp](https://github.com/RetroPortingToolKit/snesrecomp) | Super Nintendo static recompiler ecosystem | 178 | 🟢 | C |
+| [wwe-svr2011-pc](https://github.com/KaikoClanworth1/wwe-svr2011-pc) | Unofficial native PC port of WWE SmackDown vs. Raw 2011 (Xbox 360). Bring your own disc. | 174 | 🟢 | C++ |
+| [Xbox360-Native-Ports](https://github.com/CrownParkComputing/Xbox360-Native-Ports) | Xbox 360 titles recompiled to native Linux with Vulkan renderer; launchers only | 174 | 🟢 | C++ |
+| [CPS-2 Recomp](https://github.com/tmcleroy/cps2recomp) | Static recompilation of Capcom CPS-2 arcade games into native PC ports | 172 | 🟢 | C++ |
 | [hit-and-run-web (The Simpsons: Hit & Run)](https://github.com/Vheissu/hit-and-run-web) | Browser (WebAssembly) port of The Simpsons: Hit & Run | 172 | 🟢 | TypeScript |
+| [OpenXWA](https://github.com/elyosh/OpenXWA) | Open-source recomp of X-Wing Alliance. | 172 | 🟢 | C |
 | [Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-) | Native SH-4 AOT recompilation of Initial D Arcade Stage 3 (NAOMI 2) — BIOS-free Vulkan public early demo (WIP). | 171 | 🟢 | C++ |
-| [OpenXWA](https://github.com/elyosh/OpenXWA) | Open-source recomp of X-Wing Alliance. | 171 | 🟢 | C |
-| [CPS-2 Recomp](https://github.com/tmcleroy/cps2recomp) | Static recompilation of Capcom CPS-2 arcade games into native PC ports | 169 | 🟢 | C++ |
-| [Skies of Arcadia Legends](https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp) | Static recompilation of Skies of Arcadia Legends (GameCube) into a native PC port | 169 | 🟢 | C |
-| [wwe-svr2011-pc](https://github.com/KaikoClanworth1/wwe-svr2011-pc) | Unofficial native PC port of WWE SmackDown vs. Raw 2011 (Xbox 360). Bring your own disc. | 169 | 🟢 | C++ |
-| [Army of Two](https://github.com/OpenPortroid/ArmyOfTwoRecompilation) | Static recompilation of Army of Two (Xbox 360) into a native PC port | 164 | 🟢 | C++ |
-| [SuperMarioWorldRecomp](https://github.com/mstan/SuperMarioWorldRecomp) | Super Mario World recompiled using snesrecomp | 164 | 🟢 | C |
+| [Skies of Arcadia Legends](https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp) | Static recompilation of Skies of Arcadia Legends (GameCube) into a native PC port | 170 | 🟢 | C |
+| [Army of Two](https://github.com/OpenPortroid/ArmyOfTwoRecompilation) | Static recompilation of Army of Two (Xbox 360) into a native PC port | 169 | 🟢 | C++ |
+| [SuperMarioWorldRecomp](https://github.com/mstan/SuperMarioWorldRecomp) | Super Mario World recompiled using snesrecomp | 169 | 🟢 | C |
+| [gears-of-war-2-pc-port](https://github.com/santiquiroz/gears-of-war-2-pc-port) | Static recompilation of Gears of War 2 (Xbox 360) into a native PC port | 164 | 🟢 | C++ |
 | [Burnout 3: Takedown](https://github.com/sp00nznet/burnout3) | Static recompilation of Burnout 3: Takedown (Xbox) into a native PC port | 162 | 🟢 | C |
+| [WWE SmackDown vs. Raw 2007](https://github.com/HollywoodAkeem/SVR07-Recomp) | Static recompilation of WWE SmackDown vs. Raw 2007 (Xbox 360) into a native PC port | 162 | 🟢 | C++ |
 | [Dr. Mario 64 Recomp Plus](https://github.com/theboy181/drmario64_recomp_plus) | Dr. Mario 64 static recompilation with 4-player support | 161 | 🟢 | C++ |
-| [gears-of-war-2-pc-port](https://github.com/santiquiroz/gears-of-war-2-pc-port) | Static recompilation of Gears of War 2 (Xbox 360) into a native PC port | 161 | 🟢 | C++ |
 | [Super Smash Bros. Melee (OpenSmash (Melee engine: opensmash-melee-pc))](https://github.com/turtlesoupy/opensmash) | Unofficial native port of Super Smash Bros. Melee (GameCube) | 161 | 🟢 | HTML |
-| [WWE SmackDown vs. Raw 2007](https://github.com/HollywoodAkeem/SVR07-Recomp) | Static recompilation of WWE SmackDown vs. Raw 2007 (Xbox 360) into a native PC port | 161 | 🟢 | C++ |
-| [nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) | Need for Speed: Most Wanted native on Apple Silicon via static recompilation | 156 | 🟢 | Python |
-| [DKC3Recomp](https://github.com/elliotttate/DKC3Recomp) | Native recompilation of Donkey Kong Country 3 (SNES) | 154 | 🟢 | C |
-| [melee-unlocked](https://github.com/Hero88go/melee-unlocked) | Native Windows source port of Super Smash Bros. Melee built from its decompiled C source | 154 | 🟢 | C++ |
-| [mk8-recomp](https://github.com/dougchansan/mk8-recomp) | Static recompilation of Mario Kart 8 AArch64 code to native x86-64 | 152 | 🟢 | C++ |
-| [ac3-remix](https://github.com/i5han/ac3-remix) | PC port and remaster of Ace Combat 3: Electrosphere | 151 | 🟢 |  |
-| [Super Metroid](https://github.com/mstan/SuperMetroidRecomp) | Static recompilation of Super Metroid (SNES) into a native PC port | 151 | 🟢 | C |
+| [TLG-Port (The Last Guardian)](https://github.com/SulphurS16/TLG-Port) | Unofficial native Windows port of The Last Guardian (PS4) | 160 | 🟢 | Rust |
+| [New Super Mario Bros. U](https://github.com/nsmbu-recomp/nsmbu-recomp) | Static recompilation of New Super Mario Bros. U (Wii U) into a native PC port | 158 | 🟢 | C++ |
+| [nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) | Need for Speed: Most Wanted native on Apple Silicon via static recompilation | 158 | 🟢 | Python |
+| [DKC3Recomp](https://github.com/elliotttate/DKC3Recomp) | Native recompilation of Donkey Kong Country 3 (SNES) | 157 | 🟢 | C |
+| [melee-unlocked](https://github.com/Hero88go/melee-unlocked) | Native Windows source port of Super Smash Bros. Melee built from its decompiled C source | 155 | 🟢 | C++ |
+| [ac3-remix](https://github.com/i5han/ac3-remix) | PC port and remaster of Ace Combat 3: Electrosphere | 153 | 🟢 |  |
+| [mk8-recomp](https://github.com/dougchansan/mk8-recomp) | Static recompilation of Mario Kart 8 AArch64 code to native x86-64 | 153 | 🟢 | C++ |
+| [Super Metroid](https://github.com/mstan/SuperMetroidRecomp) | Static recompilation of Super Metroid (SNES) into a native PC port | 153 | 🟢 | C |
 | [F-15 II](https://github.com/neuviemeporte/f15se2-re) | Recomp of MicroProse F-15 II. | 149 | 🟢 | C |
-| [New Super Mario Bros. U](https://github.com/nsmbu-recomp/nsmbu-recomp) | Static recompilation of New Super Mario Bros. U (Wii U) into a native PC port | 149 | 🟢 | C++ |
 | [YuGiOhForbiddenMemoriesRecomp](https://github.com/Unchiga/YuGiOhForbiddenMemoriesRecomp) | Static recompilation of Yu-Gi-Oh! Forbidden Memories (PS1) into a native executable - with a live duel-rank meter, a... | 149 | 🟢 | C |
+| [AloneInTheDarkReHaunted](https://github.com/spacefarergames/AloneInTheDarkReHaunted) | A heavily enhanced port and dynamic recomp of Alone In The Dark 1, with Textured Models, HD-4K background replacement... | 148 | 🟢 | C++ |
 | [Castlevania: Legacy of Darkness](https://github.com/fliperama86/cvlod_recomp) | Static recompilation of Castlevania: Legacy of Darkness (N64) into a native PC port | 147 | 🟢 | C |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | Browser (WebAssembly) port of Half-Life (PC) | 147 | 🔴 | HTML |
-| [AloneInTheDarkReHaunted](https://github.com/spacefarergames/AloneInTheDarkReHaunted) | A heavily enhanced port and dynamic recomp of Alone In The Dark 1, with Textured Models, HD-4K background replacement... | 146 | 🟢 | C++ |
-| [fm4-recomp](https://github.com/Alexbeav/fm4-recomp) | Experimental static recompilation of Forza Motorsport 4 using ReXGlue. No game files included. | 146 | 🟢 | PowerShell |
-| [OpenTricky](https://github.com/GiZcesi/OpenTricky) | OpenTricky is an unofficial PC port of SSX Tricky, made by static recompilation. Bring your own disc. | 146 | 🟢 | C |
-| [driftdroid](https://github.com/dorPXP/driftdroid) | A native Android port of Mario Kart Wii and Retro Rewind. Fast, easy. | 145 | 🟢 | C++ |
+| [OpenTricky](https://github.com/GiZcesi/OpenTricky) | OpenTricky is an unofficial PC port of SSX Tricky, made by static recompilation. Bring your own disc. | 147 | 🟢 | C |
+| [driftdroid](https://github.com/dorPXP/driftdroid) | A native Android port of Mario Kart Wii and Retro Rewind. Fast, easy. | 146 | 🟢 | C++ |
 | [Syphon Filter (PC Recomp)](https://github.com/Madxbio97/SF-pc-port) | Static recompilation of Syphon Filter (PS1) into a native PC port | 145 | 🟢 | C++ |
+| [fm4-recomp](https://github.com/Alexbeav/fm4-recomp) | Experimental static recompilation of Forza Motorsport 4 using ReXGlue. No game files included. | 144 | 🟢 | PowerShell |
 | [Phase Distorter](https://github.com/TheRunaway5/Phase-Distorter) | Native C++20 PC port of EarthBound / Mother 2 for Linux and Windows | 144 | 🟢 | C++ |
+| [Estacado-The-Darkness-Recomp](https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp) | Estacado: a native PC recompilation of The Darkness (Xbox 360). Unofficial fan port; bring your own copy of the game. | 141 | 🟢 | C++ |
+| [nesrecomp](https://github.com/mstan/nesrecomp) | Static recompiler for NES games | 141 | 🟢 | C |
 | [RaceWave46](https://github.com/DomazinUS/RaceWave46) | AI-assisted Wave Race 64 recompilation for Windows | 141 | 🟢 | C++ |
-| [nesrecomp](https://github.com/mstan/nesrecomp) | Static recompiler for NES games | 139 | 🟢 | C |
-| [Ace-Combat-5-Static-recompilation](https://github.com/sal063/Ace-Combat-5-Static-recompilation) | Static recompilation of Ace Combat 5 with native rendering | 138 | 🟢 | C |
-| [Estacado-The-Darkness-Recomp](https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp) | Estacado: a native PC recompilation of The Darkness (Xbox 360). Unofficial fan port; bring your own copy of the game. | 138 | 🟢 | C++ |
+| [Ace-Combat-5-Static-recompilation](https://github.com/sal063/Ace-Combat-5-Static-recompilation) | Static recompilation of Ace Combat 5 with native rendering | 140 | 🟢 | C |
+| [infamous-first-light-pc](https://github.com/VantageEX/infamous-first-light-pc) | Unofficial native PC port of inFAMOUS First Light (PS4) | 139 | 🟢 | C++ |
 | [Rage Racer port](https://github.com/khasinski/rage-racer-pc) | Native PC port of Rage Racer (PS1) built from a decompilation | 138 | 🟢 | C |
-| [infamous-first-light-pc](https://github.com/VantageEX/infamous-first-light-pc) | Unofficial native PC port of inFAMOUS First Light (PS4) | 137 | 🟢 | C++ |
+| [Halo: Combat Evolved based on the Halo CE decomp port](https://github.com/ChupathingyCE/chupathingyce) | Native Windows, Mac, Linux and Android port of Halo: Combat Evolved based on the Halo CE decomp | 137 | 🟢 | C |
+| [Need for Speed: Most Wanted (NFS Most Wanted PC Recompiled (NFS Android Evolved))](https://github.com/codepdbh/nfsmwpc-recompiled) | Static recompilation of Need for Speed: Most Wanted (PC) into a native PC port | 137 | 🟢 | C++ |
+| [pcrecomp](https://github.com/sp00nznet/pcrecomp) | Toolbox for statically recompiling old PC (DOS/Windows) software to native code | 136 | 🟢 | C |
 | [Pokémon SoulSilver](https://github.com/ClickingMaster/ssrecomp) | Static recompilation of Pokémon SoulSilver (DS) into a native PC port | 135 | 🟢 | C++ |
 | [projectreach](https://github.com/chrissotraidis/projectreach) | Halo: Combat Evolved on iPhone, iPad and Mac. The Xbox edition with online matches of up to 128 players and the origi... | 135 | 🟢 | C |
 | [DBZ1](https://github.com/WistfulHopes/DBZ1) | Dragon Ball Z Budokai HD Recompiled | 134 | 🟢 | C++ |
 | [Flame](https://github.com/DiaLight/Flame) | Dungeon Keeper II partial recompilation with bug fixes. | 134 | 🟢 | C++ |
-| [Halo: Combat Evolved based on the Halo CE decomp port](https://github.com/ChupathingyCE/chupathingyce) | Native Windows, Mac, Linux and Android port of Halo: Combat Evolved based on the Halo CE decomp | 134 | 🟢 | C |
-| [pcrecomp](https://github.com/sp00nznet/pcrecomp) | Toolbox for statically recompiling old PC (DOS/Windows) software to native code | 133 | 🟢 | C |
+| [gears-judgement-recomp](https://github.com/OverkillLabs3/gears-judgement-recomp) | Native Windows recompilation of Gears of War: Judgment (Xbox 360) | 133 | 🟢 | C++ |
+| [OpenCMR2](https://github.com/pablocpas/OpenCMR2) | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation | 133 | 🟢 | C++ |
 | [ValkyrieRecomp](https://github.com/Ed1z19/ValkyrieRecomp) | Native PC recompilation of Valkyrie Profile (PS1) | 133 | 🟢 | Python |
-| [Need for Speed: Most Wanted (NFS Most Wanted PC Recompiled (NFS Android Evolved))](https://github.com/codepdbh/nfsmwpc-recompiled) | Static recompilation of Need for Speed: Most Wanted (PC) into a native PC port | 132 | 🟢 | C++ |
 | [Snap64Recomp](https://github.com/JackandBeans/Snap64Recomp) | Pokémon Snap static recompilation | 132 | 🟢 | C++ |
-| [gears-judgement-recomp](https://github.com/OverkillLabs3/gears-judgement-recomp) | Native Windows recompilation of Gears of War: Judgment (Xbox 360) | 131 | 🟢 | C++ |
+| [Driveclub](https://github.com/BlackLineInteractive/Driveclub-Port) | Unofficial native port of Driveclub (PS4) | 130 | 🗄️ | C++ |
 | [OpenXW](https://github.com/elyosh/OpenXW) | Open-source recomp of X-Wing. | 130 | 🟢 | C |
-| [Driveclub](https://github.com/BlackLineInteractive/Driveclub-Port) | Unofficial native port of Driveclub (PS4) | 129 | 🗄️ | C++ |
-| [OpenCMR2](https://github.com/pablocpas/OpenCMR2) | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation | 129 | 🟢 | C++ |
-| [TLG-Port (The Last Guardian)](https://github.com/SulphurS16/TLG-Port) | Unofficial native Windows port of The Last Guardian (PS4) | 129 | 🟢 | Rust |
+| [UrbanChaosRiotResponseBurnerEdition](https://github.com/linkssy2/UrbanChaosRiotResponseBurnerEdition) | Urban Chaos: Riot Response hybrid recompilation for Windows PC from the Xbox version | 129 | 🟢 | C++ |
 | [BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp) | Bomberman Hero static recompilation with mod support | 128 | 🟢 | C++ |
 | [GalaxyQuest](https://github.com/bigmak94/GalaxyQuest) | Super Mario Galaxy native VR port for Meta Quest 3 | 128 | 🟢 | C++ |
-| [UrbanChaosRiotResponseBurnerEdition](https://github.com/linkssy2/UrbanChaosRiotResponseBurnerEdition) | Urban Chaos: Riot Response hybrid recompilation for Windows PC from the Xbox version | 127 | 🟢 | C++ |
-| [Forza Motorsport 2 (hl360-Forza2)](https://github.com/0herculabs/hl360-Forza2) | Unofficial native port of Forza Motorsport 2 (Xbox 360) | 126 | 🟢 | C++ |
+| [Forza Motorsport 2 (hl360-Forza2)](https://github.com/0herculabs/hl360-Forza2) | Unofficial native port of Forza Motorsport 2 (Xbox 360) | 127 | 🟢 | C++ |
+| [BT3-Recomp](https://github.com/z3xox/BT3-Recomp) | Dragon Ball Z: Budokai Tenkaichi 3 PC port via static recompilation | 126 | 🟢 | C++ |
 | [ShaolinMonks-Android](https://github.com/RanggaCasper/ShaolinMonks-Android) | Android port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp | 126 | 🟢 | C++ |
+| [WindWakerHD-Android-Plus](https://github.com/Nycolazs/WindWakerHD-Android-Plus) | The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portugu... | 126 | 🟢 | C++ |
 | [doukutsupsx (Cave Story)](https://github.com/fgsfdsfgs/doukutsupsx) | Port of Cave Story to the PlayStation, based on the CSE2 decompilation | 125 | 🔴 | C |
+| [DQ8-Recompiled](https://github.com/Sinan-Karakaya/DQ8-Recompiled) | Recompilation of Dragon Quest VIII (PS2) to run natively on PC and Mac | 125 | 🟢 | C++ |
 | [DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) | Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation | 124 | 🟢 | C++ |
-| [RidgeRacer6-Recompilation](https://github.com/Sirhalo23/RidgeRacer6-Recompilation) | Recompilation of Ridge Racer 6 (Xbox 360) for PC | 124 | 🟢 | C++ |
+| [RidgeRacer6-Recompilation](https://github.com/Sirhalo23/RidgeRacer6-Recompilation) | Recompilation of Ridge Racer 6 (Xbox 360) for PC | 123 | 🟢 | C++ |
+| [SARecomp](https://github.com/sonicfreak1337/SARecomp) | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRe... | 123 | 🟢 | C++ |
 | [wwe13-recomp](https://github.com/PromethenDev/wwe13-recomp) | Static recompilation of WWE '13 (Xbox 360) for Windows and Linux via ReXGlue | 123 | 🟢 | C++ |
-| [BT3-Recomp](https://github.com/z3xox/BT3-Recomp) | Dragon Ball Z: Budokai Tenkaichi 3 PC port via static recompilation | 122 | 🟢 | C++ |
-| [DQ8-Recompiled](https://github.com/Sinan-Karakaya/DQ8-Recompiled) | Recompilation of Dragon Quest VIII (PS2) to run natively on PC and Mac | 122 | 🟢 | C++ |
-| [SARecomp](https://github.com/sonicfreak1337/SARecomp) | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRe... | 122 | 🟢 | C++ |
+| [hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Native PC port and decompilation of Disney's Hercules (PlayStation, 1997) | 122 | 🟢 | Python |
 | [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | Browser (WebAssembly) port of Half-Life (PC) | 121 | 🔴 | HTML |
-| [WindWakerHD-Android-Plus](https://github.com/Nycolazs/WindWakerHD-Android-Plus) | The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portugu... | 121 | 🟢 | C++ |
-| [hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) | Native PC port and decompilation of Disney's Hercules (PlayStation, 1997) | 120 | 🟢 | Python |
 | [Pokémon Stadium](https://github.com/mstan/PokemonStadiumRecomp) | Static recompilation of Pokémon Stadium (N64) into a native PC port | 120 | 🗄️ | C++ |
 | [psxrecomp-ports](https://github.com/alexbeavs-ps1-ports/psxrecomp-ports) | Unofficial noncommercial PlayStation recompilation releases | 120 | 🟢 | PowerShell |
 | [skate3-ios-setup](https://github.com/andrewnakas/skate3-ios-setup) | Builds the Skate 3 recompilation for iOS from your own disc image | 120 | 🟢 | Shell |
-| [SWROTS-PC](https://github.com/jedijosh920/SWROTS-PC) | Unofficial native Windows port of Star Wars Episode III: Revenge of the Sith (Xbox) | 119 | 🟢 | C++ |
-| [cartridge](https://github.com/TriwindBryan/fulton) | Launcher for decomp, recomp and remake PC ports of classic games | 118 | 🟢 | JavaScript |
+| [SWROTS-PC](https://github.com/jedijosh920/SWROTS-PC) | Unofficial native Windows port of Star Wars Episode III: Revenge of the Sith (Xbox) | 120 | 🟢 | C++ |
+| [cartridge](https://github.com/TriwindBryan/fulton) | Launcher for decomp, recomp and remake PC ports of classic games | 119 | 🟢 | JavaScript |
+| [Forza Motorsport 3 (hl360-forza3)](https://github.com/0herculabs/hl360-forza3) | Unofficial native port of Forza Motorsport 3 (Xbox 360) | 118 | 🟢 | C++ |
 | [Prince of Persia: The Sands of Time (reSOT)](https://github.com/FulGerNet/rePOP) | Static recompilation of Prince of Persia: The Sands of Time (Xbox) into a native PC port | 118 | 🟢 | C |
-| [Theft4](https://github.com/KoreanSeats1/Theft4) | Experimental static AOT recompilation of GTA IV's Xbox 360 build for ARM | 118 | 🟢 | C++ |
-| [Forza Motorsport 3 (hl360-forza3)](https://github.com/0herculabs/hl360-forza3) | Unofficial native port of Forza Motorsport 3 (Xbox 360) | 117 | 🟢 | C++ |
 | [The Legend of Zelda: Oracle of Ages/Seasons](https://github.com/thibautbus/top) | Unofficial native port of The Legend of Zelda: Oracle of Ages/Seasons (Game Boy Color) | 117 | 🟢 | C |
+| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Unofficial native port of Hollow Knight: Silksong (Mobile) | 116 | 🟢 | C# |
+| [Theft4](https://github.com/KoreanSeats1/Theft4) | Experimental static AOT recompilation of GTA IV's Xbox 360 build for ARM | 116 | 🟢 | C++ |
 | [beanRecomp](https://github.com/Fable2Recomp/beanRecomp) | A static Recomp of 007 Goldeneye Remaster XBLA | 115 | 🟡 | C++ |
-| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Unofficial native port of Hollow Knight: Silksong (Mobile) | 115 | 🟢 | C# |
+| [Dead Rising 2: Case Zero Recomp](https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp) | Dead Rising 2: Case Zero Xbox 360 static recompilation | 115 | 🟢 | C++ |
 | [snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp) | Snowboard Kids 2 static recompilation with mod support | 115 | 🟢 | C |
 | [wet-recomp](https://github.com/Supermedo/wet-recomp) | Fan PC port of WET (Xbox 360) via ReXGlue static recompilation | 115 | 🟢 | C# |
-| [Dead Rising 2: Case Zero Recomp](https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp) | Dead Rising 2: Case Zero Xbox 360 static recompilation | 114 | 🟢 | C++ |
 | [MOTHER 3](https://github.com/josiahg2502-glitch/Mother3Recomp) | Static recompilation of MOTHER 3 (GBA) into a native PC port | 113 | 🟢 | C |
+| [Paper Mario port](https://github.com/SecondaryLifer/StarHaven) | Native Nintendo 3DS port of Paper Mario (N64) built from the decompilation | 113 | 🟢 | C |
+| [Super Street Fighter II Turbo HD Remix](https://github.com/saulob/ssf2t-hd-remix-recompiled) | Static recompilation of Super Street Fighter II Turbo HD Remix (Xbox 360) into a native PC port | 113 | 🟢 | C++ |
+| [Tekken Tag Tournament 2 Wii U Edition](https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition) | Static recompilation of Tekken Tag Tournament 2 Wii U Edition (Wii U) into a native PC port | 113 | 🟢 | Python |
 | [Dead Rising 2: Case West Recomp](https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp) | Dead Rising 2: Case West Xbox 360 static recompilation | 112 | 🟢 | C++ |
+| [Earthworm Jim HD: Recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) | Earthworm Jim HD (XBLA) static recompilation | 112 | 🟢 | C++ |
+| [Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | Unofficial static recompilation of Sonic Free Riders for Windows, Linux and Android, with controller/keyboard support... | 112 | 🟢 | C++ |
 | [NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | Static recompilation of Need for Speed Carbon (Xbox 360) for Windows and Android | 112 | 🟢 | JavaScript |
-| [Paper Mario port](https://github.com/SecondaryLifer/StarHaven) | Native Nintendo 3DS port of Paper Mario (N64) built from the decompilation | 112 | 🟢 | C |
-| [Earthworm Jim HD: Recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) | Earthworm Jim HD (XBLA) static recompilation | 111 | 🟢 | C++ |
-| [Roller](https://github.com/FatalDecomp/ROLLER) | Recomp of the game Whiplash/Fatal Racing. Adds enhancements. Playable on PC or online. | 111 | 🟢 | C |
-| [Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | Unofficial static recompilation of Sonic Free Riders for Windows, Linux and Android, with controller/keyboard support... | 110 | 🟢 | C++ |
-| [oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp) | Native app for the Game Boy Color Zelda Oracle games | 110 | 🟢 | C |
-| [doa3-recomp](https://github.com/parkerallan/doa3-recomp) | Dead or Alive 3 PC Port | 109 | 🟢 | Assembly |
-| [The Legend of Zelda: Echoes of Wisdom (EoWRecomp)](https://github.com/Nycolazs/EoWRecomp) | Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) into a native PC port | 109 | 🟢 | C |
-| [doa2u-re](https://github.com/NoRain211/doa2u-re) | Native Windows port of Dead or Alive 2 Ultimate (Xbox) by static recompilation | 107 | 🟢 | C |
+| [Roller](https://github.com/FatalDecomp/ROLLER) | Recomp of the game Whiplash/Fatal Racing. Adds enhancements. Playable on PC or online. | 112 | 🟢 | C |
+| [The Legend of Zelda: Echoes of Wisdom (EoWRecomp)](https://github.com/Nycolazs/EoWRecomp) | Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) into a native PC port | 112 | 🟢 | C |
+| [oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp) | Native app for the Game Boy Color Zelda Oracle games | 111 | 🟢 | C |
+| [doa2u-re](https://github.com/NoRain211/doa2u-re) | Native Windows port of Dead or Alive 2 Ultimate (Xbox) by static recompilation | 110 | 🟢 | C |
+| [doa3-recomp](https://github.com/parkerallan/doa3-recomp) | Dead or Alive 3 PC Port | 110 | 🟢 | Assembly |
+| [New Super Mario Bros. Wii](https://github.com/ral1009/NSMBWiicompiled) | Static recompilation of New Super Mario Bros. Wii (Wii) into a native PC port | 110 | 🟢 | C++ |
+| [mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | Midnight Club 3: DUB Edition recompiled to run natively on Switch, Linux and Mac | 108 | 🟢 | C |
+| [Astral Chain (Astral Chain PC)](https://github.com/Puddz/AstralChain-PC) | Static recompilation of Astral Chain (Switch) into a native PC port | 107 | 🟢 | C |
+| [banjo-tooie-scurvy-dog-port](https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port) | Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and... | 107 | 🟢 | C++ |
 | [Fight Night Champion](https://github.com/whompay/FNCReborn) | Static recompilation of Fight Night Champion (Xbox 360) into a native PC port | 107 | 🟢 | Rust |
-| [Tekken Tag Tournament 2 Wii U Edition](https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition) | Static recompilation of Tekken Tag Tournament 2 Wii U Edition (Wii U) into a native PC port | 107 | 🟢 | Python |
-| [banjo-tooie-scurvy-dog-port](https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port) | Banjo-Tooie Recompiled: a native Windows PC port with widescreen, resolution and FPS options, controller support, and... | 106 | 🟢 | C++ |
 | [SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp) | Space Station Silicon Valley static recompilation | 106 | 🟢 | C++ |
 | [Mischief Makers](https://github.com/ThiagoLira/trouble-makers-pc-recomp) | Static recompilation of Mischief Makers (N64) into a native PC port | 105 | 🟢 | C++ |
-| [Super Street Fighter II Turbo HD Remix](https://github.com/saulob/ssf2t-hd-remix-recompiled) | Static recompilation of Super Street Fighter II Turbo HD Remix (Xbox 360) into a native PC port | 105 | 🟢 | C++ |
+| [silent-hill-pc-nightly](https://github.com/SlickAmogus/silent-hill-pc-nightly) | Nightly builds of a Silent Hill 1 PC port based on the PSX decompilation | 105 | 🟢 |  |
 | [ArmyOfTwoRecomp](https://github.com/nikolaygorb/ArmyOfTwoRecomp) | Army of Two (Army of 2) 2008 [Xbox360] game static recompilation project based on RexGlue-SDK | 104 | 🟢 | C++ |
-| [mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | Midnight Club 3: DUB Edition recompiled to run natively on Switch, Linux and Mac | 104 | 🟢 | C |
-| [silent-hill-pc-nightly](https://github.com/SlickAmogus/silent-hill-pc-nightly) | Nightly builds of a Silent Hill 1 PC port based on the PSX decompilation | 104 | 🟢 |  |
+| [Project Gotham Racing 2 (pgr2-recomp)](https://github.com/hk21x/pgr2-recomp) | Static recompilation of Project Gotham Racing 2 (Xbox) into a native PC port | 104 | 🟢 | C++ |
 | [Ace-Combat-X-Recompilation](https://github.com/sal063/Ace-Combat-X-Recompilation) | Static recompilation of ACE COMBAT X with a native renderer | 103 | 🟢 | C |
+| [asuras-wrath-recomp](https://github.com/PauloUbirajara/asuras-wrath-recomp) | Recomp of Asura's Wrath using RexGlue for PC (wip) | 103 | 🟢 | C++ |
 | [Splatterhouse Recompiled](https://github.com/0c0de/splatterhouse-decomp) | Native PC port of Splatterhouse (2010, Xbox 360) via ReXGlue static recompilation | 103 | 🟢 | C++ |
 | [Ape Escape](https://github.com/mstan/ApeEscapeRecomp) | Static recompilation of Ape Escape (PS1) into a native PC port | 102 | 🟢 | C++ |
-| [Astral Chain (Astral Chain PC)](https://github.com/Puddz/AstralChain-PC) | Static recompilation of Astral Chain (Switch) into a native PC port | 102 | 🟢 | C |
 | [Crash2Recomp](https://github.com/Zumbo06/Crash2Recomp) | Crash Bandicoot 2 (PS1) translated to native code instead of emulated | 102 | 🟢 | Python |
-| [Project Gotham Racing 2 (pgr2-recomp)](https://github.com/hk21x/pgr2-recomp) | Static recompilation of Project Gotham Racing 2 (Xbox) into a native PC port | 102 | 🟢 | C++ |
+| [The Legend of Zelda: The Wind Waker](https://github.com/centollOS/SwitchWaker) | Unofficial native port of The Legend of Zelda: The Wind Waker (GameCube) | 102 | 🟢 | C++ |
+| [TooTawersRecomp](https://github.com/Gumpolas/TooTawersRecomp) | Native Windows port of The Lord of the Rings: The Two Towers (Xbox, 2002) via static recompilation | 102 | 🟢 | C |
 | [Ultima 7 Decomp](https://github.com/Kitrinx/Ultima7_Decomp) | Recomp of Ultima 7. Bit exact to original. | 102 | 🟢 | C++ |
+| [fukami](https://github.com/danisandoval/fukami) | Native macOS / Steam Deck port of Ridge Racer V by static recompilation | 101 | 🟢 | C++ |
 | [gow2-recomp](https://github.com/andrebrumdev/gow2-recomp) | God of War II HD static recompilation — curated work artifacts (lift boundaries, SPU lift sources, scripts, findings)... | 101 | 🟢 | Python |
-| [The Legend of Zelda: The Wind Waker](https://github.com/centollOS/SwitchWaker) | Unofficial native port of The Legend of Zelda: The Wind Waker (GameCube) | 101 | 🟢 | C++ |
-| [asuras-wrath-recomp](https://github.com/PauloUbirajara/asuras-wrath-recomp) | Recomp of Asura's Wrath using RexGlue for PC (wip) | 100 | 🟢 | C++ |
-| [SpaceRangersHD_FPC](https://github.com/pakompom/SpaceRangersHD_FPC) | Cross-platform port of Space Rangers HD: A War Apart based on its decompilation | 100 | 🟢 | Pascal |
+| [SpaceRangersHD_FPC](https://github.com/pakompom/SpaceRangersHD_FPC) | Cross-platform port of Space Rangers HD: A War Apart based on its decompilation | 101 | 🟢 | Pascal |
+| [Einhänder](https://github.com/strider973/Einhander-Recompiled) | Static recompilation of Einhänder (PS1) into a native PC port | 100 | 🟢 | Python |
+| [naruto-storm-generations-port](https://github.com/Masterllgod/naruto-storm-generations-port-nativo) | Naruto Shippuden: Ultimate Ninja Storm Generations (Xbox 360) running natively on Android and PC | 100 | 🟢 |  |
 | [Super Mario Galaxy ( PS4 recomp)](https://github.com/chrissotraidis/galaxypad) | Static recompilation of Super Mario Galaxy (Wii) into a native PC port | 100 | 🟢 | Python |
 | [The Legend of Zelda: Breath of the Wild (BotW Recompiled)](https://github.com/IshaanKalra2103/BotWRecomp) | Static recompilation of The Legend of Zelda: Breath of the Wild (Switch) into a native PC port | 100 | 🟢 | C++ |
-| [TooTawersRecomp](https://github.com/Gumpolas/TooTawersRecomp) | Native Windows port of The Lord of the Rings: The Two Towers (Xbox, 2002) via static recompilation | 100 | 🟢 | C |
-| [Einhänder](https://github.com/strider973/Einhander-Recompiled) | Static recompilation of Einhänder (PS1) into a native PC port | 99 | 🟢 | Python |
-| [fukami](https://github.com/danisandoval/fukami) | Native macOS / Steam Deck port of Ridge Racer V by static recompilation | 99 | 🟢 | C++ |
+| [The Legend of Zelda: Ocarina of Time (oot-PSP)](https://github.com/z2442/oot-PSP) | Unofficial native port of The Legend of Zelda: Ocarina of Time (N64) | 100 | 🟢 | C |
 | [halo-ce-vita](https://github.com/BirchWoodGod/halo-ce-vita) | PS Vita port of Halo: Combat Evolved built on the decompilation | 99 | 🟢 | C |
+| [NHL 24 PC](https://github.com/HajDEO/nhl24pc) | Unofficial native port of NHL 24 PC (PS4) | 99 | 🟢 | C++ |
+| [RoadRash64Recompiled](https://github.com/linkssy2/RoadRash64Recompiled) | Unofficial PC recompilation of Road Rash 64 | 99 | 🟢 | C++ |
 | [Sundog: Frozen Legacy](https://github.com/laanwj/sundog) | Port of the Atari ST game SunDog: Frozen Legacy (1984) to modern systems | 99 | 🟢 | C |
-| [RoadRash64Recompiled](https://github.com/linkssy2/RoadRash64Recompiled) | Unofficial PC recompilation of Road Rash 64 | 98 | 🟢 | C++ |
-| [The Legend of Zelda: Ocarina of Time (oot-PSP)](https://github.com/z2442/oot-PSP) | Unofficial native port of The Legend of Zelda: Ocarina of Time (N64) | 98 | 🟢 | C |
 | [Wave Race 64 Recomp](https://github.com/danielgomesvieira2000/wave-race-64-recomp) | Native PC port of Wave Race 64 via N64 static recompilation | 98 | 🟢 | C++ |
-| [naruto-storm-generations-port](https://github.com/Masterllgod/naruto-storm-generations-port-nativo) | Naruto Shippuden: Ultimate Ninja Storm Generations (Xbox 360) running natively on Android and PC | 97 | 🟢 |  |
+| [WWE 2K14 (WWE 2K14 Recomp)](https://github.com/PromethenDev/wwe2k14-recomp) | Static recompilation of WWE 2K14 (Xbox 360) into a native PC port | 98 | 🟢 | C++ |
+| [Ratchet & Clank (rac1-native)](https://github.com/RAC-Native/rac1-native-game) | Unofficial native port of Ratchet & Clank (PS2) | 97 | 🟢 | C++ |
 | [Shin Megami Tensei IV (smt4-recomp)](https://github.com/Invictus-potens/smt4-recomp) | Static recompilation of Shin Megami Tensei IV (3DS) into a native PC port | 97 | 🟢 | Rust |
-| [WWE 2K14 (WWE 2K14 Recomp)](https://github.com/PromethenDev/wwe2k14-recomp) | Static recompilation of WWE 2K14 (Xbox 360) into a native PC port | 97 | 🟢 | C++ |
 | [BloodyRoar2Recomp](https://github.com/novapowers0/BloodyRoar2Recomp) | Bloody Roar II PlayStation static recompilation | 96 | 🟢 | C |
-| [Ratchet & Clank (rac1-native)](https://github.com/RAC-Native/rac1-native-game) | Unofficial native port of Ratchet & Clank (PS2) | 96 | 🟢 | C++ |
-| [vf2-recomp](https://github.com/mr-finster/vf2-recomp) | Virtua Fighter 2 (Sega Model 2) arcade i960 program recompiled to native code for Mac, Windows, Steam Deck | 96 | 🟢 | C++ |
-| [NHL 24 PC](https://github.com/HajDEO/nhl24pc) | Unofficial native port of NHL 24 PC (PS4) | 95 | 🟢 | C++ |
+| [vf2-recomp](https://github.com/mr-finster/vf2-recomp) | Virtua Fighter 2 (Sega Model 2) arcade i960 program recompiled to native code for Mac, Windows, Steam Deck | 95 | 🟢 | C++ |
+| [2014 FIFA World Cup Brazil](https://github.com/HossEz/fifa-world-cup-2014-recompiled) | Static recompilation of 2014 FIFA World Cup Brazil (Xbox 360) into a native PC port | 94 | 🟢 | C++ |
 | [UFO50AndroidUnofficial](https://github.com/Skyline969/UFO50AndroidUnofficial) | Tool to build your own Android version of UFO 50 | 94 | 🟡 | Shell |
 | [Max_Vita](https://github.com/fgsfdsfgs/max_vita) | Tool for Max Payne game data (osgameclones) (C) | 93 | 🔴 | C |
 | [nfsu1-recompiled](https://github.com/codepdbh/nfsu1-recompiled) | Need for Speed: Underground (2003) statically recompiled for Windows and Android | 93 | 🟢 | C++ |
+| [Ogre Battle 64 Recompiled](https://github.com/lfarroco/ogre-battle-64-recomp) | Static recompilation of Ogre Battle 64 to native PC | 93 | 🟢 | Assembly |
+| [pocket-native](https://github.com/whovian64/pocket-native) | Nintendo 3DS games recompiled for the R36S and other Linux handhelds | 93 | 🟢 | Rust |
 | [Ports-Launcher](https://github.com/Nyaldee/Ports-Launcher) | Library manager and installer for unofficial native game ports | 93 | 🟢 | Rust |
-| [2014 FIFA World Cup Brazil](https://github.com/HossEz/fifa-world-cup-2014-recompiled) | Static recompilation of 2014 FIFA World Cup Brazil (Xbox 360) into a native PC port | 92 | 🟢 | C++ |
+| [Project-RE-Visited-RE3](https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3) | Static recompilation and native PC port of Resident Evil 3: Nemesis (PS1) | 93 | 🟢 | C++ |
+| [foxhollow](https://github.com/JackPriceBurns/foxhollow) | Star Fox Adventures decompilation powering the FoxHollow native PC port | 92 | 🟢 | C |
 | [goldeneye-metal](https://github.com/ysrdevs/goldeneye-metal) | Experimental source-only static recompilation of GoldenEye 007 | 92 | 🟢 | C |
-| [Project-RE-Visited-RE3](https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3) | Static recompilation and native PC port of Resident Evil 3: Nemesis (PS1) | 92 | 🟢 | C++ |
+| [Grand Theft Auto IV (GTA IV for PS5)](https://github.com/elripalda/gta4-ps5) | Static recompilation of Grand Theft Auto IV (Xbox 360) into a native PC port | 92 | 🟢 | C++ |
+| [GSRecomp](https://github.com/Shmargus/GSRecomp) | Golden Sun GBA static recompilation | 92 | 🟢 | C++ |
 | [F-Zero](https://github.com/RetroPortingToolKit/FZeroSNESRecomp) | Static recompilation of F-Zero (SNES) into a native PC port | 91 | 🟢 | C |
-| [foxhollow](https://github.com/JackPriceBurns/foxhollow) | Star Fox Adventures decompilation powering the FoxHollow native PC port | 91 | 🟢 | C |
-| [GSRecomp](https://github.com/Shmargus/GSRecomp) | Golden Sun GBA static recompilation | 91 | 🟢 | C++ |
-| [Ogre Battle 64 Recompiled](https://github.com/lfarroco/ogre-battle-64-recomp) | Static recompilation of Ogre Battle 64 to native PC | 91 | 🟢 | Assembly |
-| [Grand Theft Auto IV (GTA IV for PS5)](https://github.com/elripalda/gta4-ps5) | Static recompilation of Grand Theft Auto IV (Xbox 360) into a native PC port | 90 | 🟢 | C++ |
+| [TWIPE_00Sheven](https://github.com/riseio/TWIPE_00Sheven) | Static recompilation of the N64 game The World Is Not Enough | 91 | 🟢 | C++ |
 | [snprecomp](https://github.com/wootbeer/snprecomp) | Static recompilation of Sin and Punishment (N64) | 90 | 🟢 | C++ |
-| [TWIPE_00Sheven](https://github.com/riseio/TWIPE_00Sheven) | Static recompilation of the N64 game The World Is Not Enough | 90 | 🟢 | C++ |
-| [pocket-native](https://github.com/whovian64/pocket-native) | Nintendo 3DS games recompiled for the R36S and other Linux handhelds | 89 | 🟢 | Rust |
+| [FIFA 09 (FIFA 09 PC)](https://github.com/ChunchunQ/fifa09-recomp) | Static recompilation of FIFA 09 (Xbox 360) into a native PC port | 89 | 🟢 | C++ |
+| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | Unofficial native port of Vagrant Story (PS1) | 89 | 🟢 | C |
 | [Far Cry Instincts (fci-recomp)](https://github.com/VinceIP/fci-recomp) | Static recompilation of Far Cry Instincts (Xbox) into a native PC port | 88 | 🟢 | C++ |
+| [Open Annihilation](https://github.com/open-annihilation/open-annihilation) | Recomp of Total Annihilation and Total Annihilation: Kingdoms (RTS). | 88 | 🟢 | C++ |
 | [Project-2099](https://github.com/GenryTheFox0/Project-2099) | Spider-Man: Edge of Time Xbox 360 static recompilation | 88 | 🟢 | C# |
-| [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) | Static recompilation of Virtua Fighter 3 (Arcade) into a native PC port | 88 | 🟢 | C++ |
-| [Open Annihilation](https://github.com/open-annihilation/open-annihilation) | Recomp of Total Annihilation and Total Annihilation: Kingdoms (RTS). | 87 | 🟢 | C++ |
-| [SSX 3](https://github.com/koenhendriks/SSX3-recomp) | Static recompilation of SSX 3 (Xbox) into a native PC port | 87 | 🟢 | C |
-| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | Unofficial native port of Vagrant Story (PS1) | 87 | 🟢 | C |
+| [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) | Static recompilation of Tekken 6 (Arcade) into a native PC port | 87 | 🟢 | C++ |
+| [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) | Static recompilation of Virtua Fighter 3 (Arcade) into a native PC port | 87 | 🟢 | C++ |
 | [3dpinball-nds](https://github.com/headshot2017/3dpinball-nds) | Nintendo DS port of the Space Cadet Pinball decompilation | 86 | 🟡 | C++ |
 | [Jet Force Gemini](https://github.com/TK22-26/JetForceGemini-Recomp) | Static recompilation of Jet Force Gemini (N64) into a native PC port | 86 | 🟢 | Python |
 | [PoN_PC (Rockman EXE Phantom of Network)](https://github.com/StraDaMa/PoN_PC) | Unofficial native port of Rockman EXE Phantom of Network (Mobile) | 86 | 🟢 |  |
-| [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) | Static recompilation of Tekken 6 (Arcade) into a native PC port | 86 | 🟢 | C++ |
+| [SSX 3](https://github.com/koenhendriks/SSX3-recomp) | Static recompilation of SSX 3 (Xbox) into a native PC port | 86 | 🟢 | C |
 | [Tekken3Recompiled](https://github.com/FishB0nes98/Tekken3Recompiled) | Tekken 3 hybrid recompilation preview with Jun Kazama, widescreen, custom skins and local asset import tools. | 86 | 🟢 | C++ |
+| [Underworld Exhumed](https://github.com/abedegno/underworld-exhumed) | Bit-exact recomp of Ultima Underworld I and II. | 86 | 🟢 | C |
+| [God of War: Ghost of Sparta](https://github.com/arnaldolima1/gow-ghost-of-sparta-pc) | Static recompilation of God of War: Ghost of Sparta (PSP) into a native PC port | 85 | 🟢 | Shell |
+| [Rallisport Challenge 2 decomp](https://github.com/Mortify7612/RallisportChallenge2-decomp) | Recompilation of Rallisport Challenge 2 (2004) for Linux and Windows | 85 | 🟢 | C |
 | [skate2-recompile-pc](https://github.com/christianortel/skate2-recompile-pc) | Community Windows PC port of Skate 2 (Xbox 360) built with ReXGlue static recompilation | 85 | 🟢 | PowerShell |
-| [Underworld Exhumed](https://github.com/abedegno/underworld-exhumed) | Bit-exact recomp of Ultima Underworld I and II. | 85 | 🟢 | C |
-| [FIFA 09 (FIFA 09 PC)](https://github.com/ChunchunQ/fifa09-recomp) | Static recompilation of FIFA 09 (Xbox 360) into a native PC port | 84 | 🟢 | C++ |
-| [New Super Mario Bros. Wii](https://github.com/ral1009/NSMBWiicompiled) | Static recompilation of New Super Mario Bros. Wii (Wii) into a native PC port | 84 | 🟢 | C++ |
+| [GoldenEye 007 (GoldenEye 007 XBLA PC Recomp)](https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp) | Static recompilation of GoldenEye 007 (Xbox 360) into a native PC port | 84 | 🟢 | C++ |
+| [MarioKartSuperCircuitRecomp](https://github.com/mstan/MarioKartSuperCircuitRecomp) | Static recompilation of Mario Kart: Super Circuit | 84 | 🟢 | C++ |
 | [PerfectDarkZeroRecomp](https://github.com/nikolaygorb/PerfectDarkZeroRecomp) | Perfect Dark Zero [Xbox360] game static recompilation project based on RexGlue-SDK | 84 | 🟢 | C++ |
 | [Street Fighter Alpha 3](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp) | Static recompilation of Street Fighter Alpha 3 (PS1) into a native PC port | 84 | 🟢 | C |
-| [vf1-recomp](https://github.com/mr-finster/vf1-recomp) | Virtua Fighter (Sega Model 1) statically recompiled for Mac, Windows and Steam Deck | 84 | 🟢 | C++ |
-| [God of War: Ghost of Sparta](https://github.com/arnaldolima1/gow-ghost-of-sparta-pc) | Static recompilation of God of War: Ghost of Sparta (PSP) into a native PC port | 83 | 🟢 | Shell |
-| [MarioKartSuperCircuitRecomp](https://github.com/mstan/MarioKartSuperCircuitRecomp) | Static recompilation of Mario Kart: Super Circuit | 83 | 🟢 | C++ |
-| [GoldenEye 007 (GoldenEye 007 XBLA PC Recomp)](https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp) | Static recompilation of GoldenEye 007 (Xbox 360) into a native PC port | 82 | 🟢 | C++ |
+| [Mario Party 4 (Party Board (zeranemesis port))](https://github.com/zeranemesis/Marioparty4) | Unofficial native port of Mario Party 4 (GameCube) | 83 | 🟢 | C |
+| [vf1-recomp](https://github.com/mr-finster/vf1-recomp) | Virtua Fighter (Sega Model 1) statically recompiled for Mac, Windows and Steam Deck | 83 | 🟢 | C++ |
+| [King's Field](https://github.com/Voicedrew11/verdite2) | Static recompilation of King's Field (PS1) into a native PC port | 82 | 🟢 | C# |
 | [lost-odyssey-hd-remaster](https://github.com/faligame/lost-odyssey-hd-remaster) | Lost Odyssey HD Remaster: a native PC build of Lost Odyssey (Xbox 360) via static recompilation. 720p to 4K with an e... | 82 | 🗄️ | C |
+| [MojoRecomp](https://github.com/OAleex/MojoRecomp) | Native PC recompilation project for Crash of the Titans | 82 | 🟢 | C++ |
 | [Pilotwings 64 Recomp](https://github.com/danielgomesvieira2000/pilotwings-64-recomp) | Native PC port of Pilotwings 64 statically recompiled with N64Recomp, widescreen and high FPS | 82 | 🟢 | C++ |
-| [Rallisport Challenge 2 decomp](https://github.com/Mortify7612/RallisportChallenge2-decomp) | Recompilation of Rallisport Challenge 2 (2004) for Linux and Windows | 82 | 🟢 | C |
+| [IsaacRecomp](https://github.com/whylurking/IsaacRecomp) | Native C++ recompilation of The Binding of Isaac (Flash) for Windows, Linux and Switch | 81 | 🟢 | C++ |
 | [Kameo: Elements of Power](https://github.com/MaxDeadBear/KameoRePowered) | Static recompilation of Kameo: Elements of Power (Xbox 360) into a native PC port | 81 | 🟢 | Python |
-| [King's Field](https://github.com/Voicedrew11/verdite2) | Static recompilation of King's Field (PS1) into a native PC port | 81 | 🟢 | C# |
-| [MojoRecomp](https://github.com/OAleex/MojoRecomp) | Native PC recompilation project for Crash of the Titans | 81 | 🟢 | C++ |
-| [Mario Party 4 (Party Board (zeranemesis port))](https://github.com/zeranemesis/Marioparty4) | Unofficial native port of Mario Party 4 (GameCube) | 80 | 🟢 | C |
 | [urban-reign-recomp](https://github.com/thiagordsfx/urban-reign-recomp) | Urban Reign (PS2) static recompilation: native PC port with 60 FPS and high resolution | 80 | 🟢 | C++ |
-| [IsaacRecomp](https://github.com/whylurking/IsaacRecomp) | Native C++ recompilation of The Binding of Isaac (Flash) for Windows, Linux and Switch | 79 | 🟢 | C++ |
-| [Armored Core: For Answer (ACFA-Port)](https://github.com/SulphurS16/ACFA-Port) | Unofficial native port of Armored Core: For Answer (Xbox 360) | 78 | 🟢 | C++ |
-| [OpenPhantom](https://github.com/OpenPhantom/OpenPhantom) | Star Wars Episode I: The Phantom Menace (1999) PC modernized with online co-op multiplayer for up to 4 players. Play... | 77 | 🟢 | C |
-| [Super Mario Odyssey (smo-recomp)](https://github.com/Coz-0/smo-recomp) | Static recompilation of Super Mario Odyssey (Switch) into a native PC port | 77 | 🟢 | C |
-| [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) | Static recompilation of Super Mario Bros. Wonder (Switch) into a native PC port | 76 | 🟢 | C |
-| [50 Cent: Blood on the Sand](https://github.com/nlwstein/skullburglar) | Static recompilation of 50 Cent: Blood on the Sand (Xbox 360) into a native PC port | 75 | 🟢 | C++ |
-| [beetle-adventure-racing-recomp](https://github.com/danielgomesvieira2000/beetle-adventure-racing-recomp) | Static recompilation port of Beetle Adventure Racing (N64) to native PC, with widescreen, high-FPS and modern input | 75 | 🟢 | C++ |
-| [DAORecomp](https://github.com/96dot/Dragon-Age-Origins-Recomp) | Static recompilation of Dragon Age: Origins (Xbox 360) to native PC | 75 | 🟢 | C |
+| [Armored Core: For Answer (ACFA-Port)](https://github.com/SulphurS16/ACFA-Port) | Unofficial native port of Armored Core: For Answer (Xbox 360) | 79 | 🟢 | C++ |
+| [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) | Static recompilation of Super Mario Bros. Wonder (Switch) into a native PC port | 79 | 🟢 | C |
+| [voldorium](https://github.com/enrique363/voldorium) | Native Windows port of SoulCalibur (Dreamcast) by static recompilation with rollback netcode | 79 | 🟢 | C |
+| [OpenPhantom](https://github.com/OpenPhantom/OpenPhantom) | Star Wars Episode I: The Phantom Menace (1999) PC modernized with online co-op multiplayer for up to 4 players. Play... | 78 | 🟢 | C |
+| [rush2recompiled](https://github.com/bryantmh/rush2recompiled) | Recompilation of the N64 game Rush 2 | 78 | 🟢 | C++ |
+| [Super Mario Odyssey (smo-recomp)](https://github.com/Coz-0/smo-recomp) | Static recompilation of Super Mario Odyssey (Switch) into a native PC port | 78 | 🟢 | C |
+| [50 Cent: Blood on the Sand](https://github.com/nlwstein/skullburglar) | Static recompilation of 50 Cent: Blood on the Sand (Xbox 360) into a native PC port | 76 | 🟢 | C++ |
+| [beetle-adventure-racing-recomp](https://github.com/danielgomesvieira2000/beetle-adventure-racing-recomp) | Static recompilation port of Beetle Adventure Racing (N64) to native PC, with widescreen, high-FPS and modern input | 76 | 🟢 | C++ |
+| [DAORecomp](https://github.com/96dot/Dragon-Age-Origins-Recomp) | Static recompilation of Dragon Age: Origins (Xbox 360) to native PC | 76 | 🟢 | C |
+| [wc1-re](https://github.com/neuromancer/wc1-re) | Open-source recomp of Wing Commander I. | 76 | 🟢 | C |
+| [Championship Manager: Season 01/02 (02: Bosman Edition)](https://github.com/maxevans60/cm0102-bosman-edition) | Static recompilation of Championship Manager: Season 01/02 (PC) into a native PC port | 75 | 🟢 | C |
+| [xenogears-recomp](https://github.com/OpokXeno/xenogears-recomp) | Static recompilation of Xenogears for PC | 75 | 🟢 | C |
+| [Geometry Wars: Retro Evolved 2 Recompiled](https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled) | Native PC port of Geometry Wars: Retro Evolved 2 (Xbox 360) via static recompilation | 74 | 🟢 | C++ |
+| [Parasite Eve port](https://github.com/khasinski/parasite-eve-pc) | Native PC port of Parasite Eve (PS1) built on the matching decompilation | 74 | 🟢 | C |
 | [Rayman3Readvanced](https://github.com/RayCarrot/Rayman3Readvanced) | PC port of Rayman 3 GBA | 74 | 🟢 | C# |
 | [Re-Cherry](https://github.com/MaxDeadBear/Re-Cherry) | Re-Cherry | 74 | 🟢 | C++ |
-| [rush2recompiled](https://github.com/bryantmh/rush2recompiled) | Recompilation of the N64 game Rush 2 | 74 | 🟢 | C++ |
 | [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Unofficial native port of Sensible World of Soccer 96/97 (Amiga) | 74 | 🟢 | C |
-| [xenogears-recomp](https://github.com/OpokXeno/xenogears-recomp) | Static recompilation of Xenogears for PC | 74 | 🟢 | C |
+| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | Unofficial native port of Diablo (diablo_web)) (PC) | 73 | 🟢 | TypeScript |
 | [gbarecomp (mstan)](https://github.com/mstan/gbarecomp) | Static recompiler for Game Boy Advance games | 73 | 🟢 | C++ |
+| [hard-corps-uprising-recompiled](https://github.com/saulob/hard-corps-uprising-recompiled) | Native PC port of Hard Corps: Uprising (Xbox Live Arcade) via static recompilation, with the TRG launcher | 73 | 🟢 | C++ |
 | [NaughtyBear_ReStuff](https://github.com/MaxDeadBear/NaughtyBear_ReStuff) | NaughtyBear_ReStuff | 73 | 🟢 | C++ |
-| [OpenCrossing-Anbernic](https://github.com/TechProGabe/OpenCrossing-Anbernic) | Animal Crossing running natively on Anbernic handhelds | 73 | 🟢 | C |
-| [Parasite Eve port](https://github.com/khasinski/parasite-eve-pc) | Native PC port of Parasite Eve (PS1) built on the matching decompilation | 73 | 🟢 | C |
+| [SM2-Recomp](https://github.com/SirSymo/SM2-Recomp) | Native recompilation of Spider-Man 2 (original Xbox) | 73 | 🟢 |  |
 | [The Legend of Zelda: A Link to the Past](https://github.com/mstan/ZeldaAlttPSNESRecomp) | Static recompilation of The Legend of Zelda: A Link to the Past (SNES) into a native PC port | 73 | 🟢 | C |
-| [Championship Manager: Season 01/02 (02: Bosman Edition)](https://github.com/maxevans60/cm0102-bosman-edition) | Static recompilation of Championship Manager: Season 01/02 (PC) into a native PC port | 72 | 🟢 | C |
-| [hard-corps-uprising-recompiled](https://github.com/saulob/hard-corps-uprising-recompiled) | Native PC port of Hard Corps: Uprising (Xbox Live Arcade) via static recompilation, with the TRG launcher | 72 | 🟢 | C++ |
-| [voldorium](https://github.com/enrique363/voldorium) | Native Windows port of SoulCalibur (Dreamcast) by static recompilation with rollback netcode | 72 | 🟢 | C |
-| [auto-tmc (The Minish Cap)](https://github.com/StonedModder/auto-tmc) | GUI that automates building the Minish Cap decompilation PC port from your own ROM | 71 | 🟢 | Python |
-| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | Unofficial native port of Diablo (diablo_web)) (PC) | 71 | 🟢 | TypeScript |
+| [auto-tmc (The Minish Cap)](https://github.com/StonedModder/auto-tmc) | GUI that automates building the Minish Cap decompilation PC port from your own ROM | 72 | 🟢 | Python |
+| [midtown-madness-3-PC-Native](https://github.com/lakshya16157/midtown-madness-3-PC-Native) | Midtown Madness 3 native Windows port via Xbox static recompilation with Direct3D 11 | 72 | 🟢 | Python |
+| [OpenCrossing-Anbernic](https://github.com/TechProGabe/OpenCrossing-Anbernic) | Animal Crossing running natively on Anbernic handhelds | 72 | 🟢 | C |
 | [dusklight](https://github.com/HayatoG/dusklight) | Switch port of the Twilight Princess decompilation | 71 | 🟢 | C++ |
-| [Geometry Wars: Retro Evolved 2 Recompiled](https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled) | Native PC port of Geometry Wars: Retro Evolved 2 (Xbox 360) via static recompilation | 71 | 🟢 | C++ |
-| [wc1-re](https://github.com/neuromancer/wc1-re) | Open-source recomp of Wing Commander I. | 71 | 🟢 | C |
+| [Forza Motorsport 2 (Forza Motorsport 2 ReGPU)](https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU) | Static recompilation of Forza Motorsport 2 (Xbox 360) into a native PC port | 71 | 🟢 | C++ |
 | [Diablo III](https://github.com/Boron853/Souls-of-the-Reaper) | Unofficial native port of Diablo III (Xbox 360) | 70 | 🟢 | HTML |
-| [Forza Motorsport 2 (Forza Motorsport 2 ReGPU)](https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU) | Static recompilation of Forza Motorsport 2 (Xbox 360) into a native PC port | 70 | 🟢 | C++ |
-| [midtown-madness-3-PC-Native](https://github.com/lakshya16157/midtown-madness-3-PC-Native) | Midtown Madness 3 native Windows port via Xbox static recompilation with Direct3D 11 | 70 | 🟢 | Python |
+| [Rockstar Table Tennis](https://github.com/davidptrssvea/Table-Tennis-Rockstar-PC) | Static recompilation of Rockstar Table Tennis (Xbox 360) into a native PC port | 70 | 🟢 | C++ |
+| [SuperMarioAllStarsRecomp](https://github.com/TanookiStudios/SuperMarioAllStarsRecomp) | Static recompilation of Super Mario All-Stars (SNES) for Mac, Windows and Linux | 70 | 🟢 | Java |
 | [ndsrecomp](https://github.com/RetroPortingToolKit/ndsrecomp) | Early Nintendo DS static recompiler research | 69 | 🟢 | C++ |
-| [SM2-Recomp](https://github.com/SirSymo/SM2-Recomp) | Native recompilation of Spider-Man 2 (original Xbox) | 69 | 🟢 |  |
 | [smash64r](https://github.com/zestydevy/smash64r) | Static recompilation of Super Smash Bros. for PC (Windows/Linux) | 69 | 🟡 | C++ |
-| [Rockstar Table Tennis](https://github.com/davidptrssvea/Table-Tennis-Rockstar-PC) | Static recompilation of Rockstar Table Tennis (Xbox 360) into a native PC port | 68 | 🟢 | C++ |
-| [WWE '12 (wwe12-pc)](https://github.com/iMrBurn/wwe12-pc) | Static recompilation of WWE '12 (Xbox 360) into a native PC port | 68 | 🟢 | C++ |
-| [MHForever](https://github.com/Mango77x/MHForever) | Static recompilation of Monster Hunter Freedom Unite (PSP) into a native PC port | 67 | 🟢 | C++ |
-| [SuperMarioAllStarsRecomp](https://github.com/TanookiStudios/SuperMarioAllStarsRecomp) | Static recompilation of Super Mario All-Stars (SNES) for Mac, Windows and Linux | 67 | 🟢 | Java |
-| [ChaotixRecompiled](https://github.com/YuutaTsubasa/ChaotixRecompiled) | Static recompilation of the Sega 32X game Knuckles' Chaotix into native C++ (Windows/Linux/macOS/Android), with true... | 66 | 🟢 | C++ |
-| [HaloCE DecompRemix VR](https://github.com/moistman42069/HaloCE-DecompRemix-VR-PC-Android) | OpenCE-based Halo: Combat Evolved port for standalone VR headsets, PC and Android | 66 | 🟢 | C |
-| [DQIV-Recompiled](https://github.com/GoldieLeGenie/DQIV-Recompiled) | Native PC version of Dragon Quest IV (DS) via recompilation | 65 | 🟢 | C++ |
-| [Grand Theft Auto: Vice City Stories (Vice City Stories Recomp)](https://github.com/OverkillLabs3/vice-city-stories-recomp) | Static recompilation of Grand Theft Auto: Vice City Stories (PSP) into a native PC port | 65 | 🟢 | C++ |
+| [WWE '12 (wwe12-pc)](https://github.com/iMrBurn/wwe12-pc) | Static recompilation of WWE '12 (Xbox 360) into a native PC port | 69 | 🟢 | C++ |
+| [ChaotixRecompiled](https://github.com/YuutaTsubasa/ChaotixRecompiled) | Static recompilation of the Sega 32X game Knuckles' Chaotix into native C++ (Windows/Linux/macOS/Android), with true... | 68 | 🟢 | C++ |
+| [MHForever](https://github.com/Mango77x/MHForever) | Static recompilation of Monster Hunter Freedom Unite (PSP) into a native PC port | 68 | 🟢 | C++ |
+| [DQIV-Recompiled](https://github.com/GoldieLeGenie/DQIV-Recompiled) | Native PC version of Dragon Quest IV (DS) via recompilation | 67 | 🟢 | C++ |
+| [Grand Theft Auto: Vice City Stories (Vice City Stories Recomp)](https://github.com/OverkillLabs3/vice-city-stories-recomp) | Static recompilation of Grand Theft Auto: Vice City Stories (PSP) into a native PC port | 67 | 🟢 | C++ |
+| [HaloCE DecompRemix VR](https://github.com/moistman42069/HaloCE-DecompRemix-VR-PC-Android) | OpenCE-based Halo: Combat Evolved port for standalone VR headsets, PC and Android | 67 | 🟢 | C |
+| [SMB-Vanilla](https://github.com/nukep/SMB-Vanilla) | C decompilation and port of NES Super Mario Bros and The Lost Levels | 67 | 🟢 | C |
+| [time-crisis-2-vr](https://github.com/DR-89/time-crisis-2-vr) | Native Time Crisis II VR port for Quest 3 and PCVR built on the Namco System 22 decompilation | 67 | 🟢 | C |
+| [NHL Legacy Recomp](https://github.com/puckhead73/nhl-legacy-recomp) | Xbox 360 NHL Legacy recompiled to PC with ReXGlue | 66 | 🟢 | C++ |
+| [Alien Resurrection (AlienReRecomp)](https://github.com/DiegoDeDios/AlienReRecomp) | Static recompilation of Alien Resurrection (PS1) into a native PC port | 65 | 🟢 | C |
 | [Naruto: The Broken Bond PC Port](https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port) | Static recompilation of Naruto: The Broken Bond (Xbox 360) into a native PC port | 65 | 🟢 | C++ |
-| [NHL Legacy Recomp](https://github.com/puckhead73/nhl-legacy-recomp) | Xbox 360 NHL Legacy recompiled to PC with ReXGlue | 65 | 🟢 | C++ |
 | [OpenXvT](https://github.com/elyosh/OpenXvT) | Open-source recomp of X-Wing vs Tie Fighter. | 65 | 🟢 | C |
-| [SMB-Vanilla](https://github.com/nukep/SMB-Vanilla) | C decompilation and port of NES Super Mario Bros and The Lost Levels | 65 | 🟢 | C |
-| [time-crisis-2-vr](https://github.com/DR-89/time-crisis-2-vr) | Native Time Crisis II VR port for Quest 3 and PCVR built on the Namco System 22 decompilation | 65 | 🟢 | C |
 | [Super Mario 64 (libsm64-unity)](https://github.com/libsm64/libsm64-unity) | Unofficial native port of Super Mario 64 (N64) | 64 | 🔴 | C# |
 | [Super Mario World (SMAS_Launcher)](https://github.com/stephini/SMAS_Launcher) | Unofficial native port of Super Mario World (SNES) | 64 | 🔴 | Python |
+| [TimeSplitters 2](https://github.com/phobos665/split2-recomp) | Static recompilation of TimeSplitters 2 (Xbox) into a native PC port | 64 | 🟢 | Python |
+| [Armored Core 4 (AC4-Port)](https://github.com/SulphurS16/AC4-Port) | Unofficial native port of Armored Core 4 (PS3) | 63 | 🟢 | C++ |
 | [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) | Chameleon Twist static recompilation | 63 | 🟡 | C++ |
+| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | Unofficial native port of Metal Gear Solid (PS1) | 63 | 🟢 | C |
 | [nfs-carbon-recomp](https://github.com/Sampreeth004/nfs-carbon-recomp) | Static recompilation of Need for Speed: Carbon (Xbox 360) to native C++ | 63 | 🟢 | C++ |
-| [TimeSplitters 2](https://github.com/phobos665/split2-recomp) | Static recompilation of TimeSplitters 2 (Xbox) into a native PC port | 63 | 🟢 | Python |
+| [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) | Recomp of Spider-Man PS1 and Spider-Man 2: Enter Electro to PC. | 63 | 🟢 | C# |
 | [WetRecomp](https://github.com/nikolaygorb/WetRecomp) | Wet [Xbox360] game static recompilation project based on RexGlue-SDK | 63 | 🟢 | C++ |
-| [Armored Core 4 (AC4-Port)](https://github.com/SulphurS16/AC4-Port) | Unofficial native port of Armored Core 4 (PS3) | 62 | 🟢 | C++ |
+| [X-Men Legends](https://github.com/GTTeancum/XML1-recomp) | Static recompilation of X-Men Legends (Xbox) into a native PC port | 63 | 🟢 | C |
 | [God of War](https://github.com/YYOzcan/Tobiichi-Port) | Unofficial native port of God of War (PS2) | 62 | 🟢 | C++ |
-| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | Unofficial native port of Metal Gear Solid (PS1) | 62 | 🟢 | C |
-| [X-Men Legends](https://github.com/GTTeancum/XML1-recomp) | Static recompilation of X-Men Legends (Xbox) into a native PC port | 62 | 🟢 | C |
-| [Alien Resurrection (AlienReRecomp)](https://github.com/DiegoDeDios/AlienReRecomp) | Static recompilation of Alien Resurrection (PS1) into a native PC port | 61 | 🟢 | C |
+| [P3P3DS](https://github.com/endercodezz/P3P3DS) | Persona 3 Portable port for the New Nintendo 3DS | 62 | 🟢 | C++ |
+| [VandalHearts-PcPort](https://github.com/HalmyLyseas/VandalHearts-PcPort) | Vandal Hearts native PC port based on a matching decompilation | 62 | 🟢 | C |
 | [iPodClickWheelRecomps](https://github.com/DogParty/iPodClickWheelRecomps) | An assortment of iPod Classic games that have been recompiled to run on modern systems | 61 | 🟢 | Rust |
 | [mkwii-ps5](https://github.com/Phi1ow/mkwii-ps5) | Mario Kart Wii PAL on PS5 via native static recompilation | 61 | 🟢 | C++ |
-| [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) | Recomp of Spider-Man PS1 and Spider-Man 2: Enter Electro to PC. | 61 | 🟢 | C# |
-| [P3P3DS](https://github.com/endercodezz/P3P3DS) | Persona 3 Portable port for the New Nintendo 3DS | 61 | 🟢 | C++ |
-| [regaiden-recomp](https://github.com/sergiomanzur/regaiden-recomp) | Native static recompilation of Resident Evil Gaiden (GBC) for PC | 61 | 🟢 | C |
+| [the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) | The Binding of Isaac: Repentance+ recompiled to WebAssembly, playable in the browser. | 61 | 🟢 | JavaScript |
+| [tomodachi-ltd-recomp](https://github.com/RussoPhone/tomodachi-ltd-recomp) | Native PC build of Tomodachi Life: Living the Dream via static recompilation. Bring your own copy — no game files inc... | 61 | 🟢 | C++ |
+| [Genesis 68K Static Recompiler](https://github.com/mstan/segagenesisrecomp) | Sega Genesis / Mega Drive game static recompiler ecosystem · Part of the R.A.I.D. community | 60 | 🟢 | C |
 | [God of War](https://github.com/Waffle565/God-Of-War-Native-Port) | Unofficial native port of God of War (PS2) | 60 | 🟢 | Python |
 | [MKVDCU-Recomp](https://github.com/KawaiiBunga/MKVDCU-Recomp) | Unofficial PC recompilation of Mortal Kombat vs. DC Universe | 60 | 🟢 | C++ |
 | [Need for Speed III: Hot Pursuit (nfs3recompiled-android)](https://github.com/ZloiKILLER/nfs3recompiled-android) | Static recompilation of Need for Speed III: Hot Pursuit (PC) into a native PC port | 60 | 🟢 | C++ |
+| [nfsmw-ios](https://github.com/bep1s69/nfsmw-ios) | Static recompilation port of Need for Speed Most Wanted (Xbox 360) for iOS | 60 | 🟢 | Python |
+| [regaiden-recomp](https://github.com/sergiomanzur/regaiden-recomp) | Native static recompilation of Resident Evil Gaiden (GBC) for PC | 60 | 🟢 | C |
 | [Rock Band 3 (Xbox 360)](https://github.com/ihatecompvir/band3_recomp) | Xbox 360 static recompilation of Rock Band 3 (Xbox 360) | 60 | 🟢 | C++ |
-| [spaghettipad (Mario Kart 64)](https://github.com/chrissotraidis/spaghettipad) | Mario Kart 64 on iPhone and iPad via SpaghettiKart with Metal rendering | 60 | 🟢 | Objective-C++ |
-| [the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) | The Binding of Isaac: Repentance+ recompiled to WebAssembly, playable in the browser. | 60 | 🟢 | JavaScript |
-| [Genesis 68K Static Recompiler](https://github.com/mstan/segagenesisrecomp) | Sega Genesis / Mega Drive game static recompiler ecosystem · Part of the R.A.I.D. community | 59 | 🟢 | C |
 | [max_nx (Max Payne)](https://github.com/fgsfdsfgs/max_nx) | Nintendo Switch port of Max Payne that loads the Android version's binaries | 59 | 🟢 | C |
-| [nfsmw-ios](https://github.com/bep1s69/nfsmw-ios) | Static recompilation port of Need for Speed Most Wanted (Xbox 360) for iOS | 59 | 🟢 | Python |
-| [VandalHearts-PcPort](https://github.com/HalmyLyseas/VandalHearts-PcPort) | Vandal Hearts native PC port based on a matching decompilation | 59 | 🟢 | C |
+| [spaghettipad (Mario Kart 64)](https://github.com/chrissotraidis/spaghettipad) | Mario Kart 64 on iPhone and iPad via SpaghettiKart with Metal rendering | 59 | 🟢 | Objective-C++ |
+| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Unofficial native port of Hollow Knight (Mobile) | 58 | 🟢 | C# |
+| [Mario Party 4](https://github.com/mariopartyrd/partyboard) | Unofficial native port of Mario Party 4 (GameCube) | 58 | 🟢 | C |
 | [OpenJam](https://github.com/GTTeancum/OpenJam) | Native PC port of NBA JAM: On Fire Edition (Xbox 360) via static recompilation | 58 | 🟢 | Python |
 | [sk82-recomp](https://github.com/Skate-2-Team/sk82-recomp) | A static recompilation of Skate 2 to build a PC port. | 58 | 🗄️ | C++ |
 | [Timesplitters recomp](https://github.com/GTTeancum/Timesplitters) | Static recompilation of TimeSplitters (PS2) | 58 | 🟢 | C++ |
-| [tomodachi-ltd-recomp](https://github.com/RussoPhone/tomodachi-ltd-recomp) | Native PC build of Tomodachi Life: Living the Dream via static recompilation. Bring your own copy — no game files inc... | 58 | 🟢 | C++ |
 | [GameCubeRecompiled](https://github.com/KaiserGranatapfel/GameCubeRecompiled) | Experimental static recompilation of GameCube games into Rust | 57 | 🟢 | Rust |
-| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Unofficial native port of Hollow Knight (Mobile) | 57 | 🟢 | C# |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | Browser (WebAssembly) port of LEGO Island (PC) | 57 | 🟢 | JavaScript |
-| [Mario Party 4](https://github.com/mariopartyrd/partyboard) | Unofficial native port of Mario Party 4 (GameCube) | 57 | 🟢 | C |
 | [Plants vs. Zombies (pvz-ps2-wii)](https://github.com/OptiJuegos/pvz-ps2-wii) | Unofficial native port of Plants vs. Zombies (PC) | 57 | 🟢 | C++ |
+| [.hack//Recompilation](https://github.com/dothacktranslate/dothack-recompilation) | Native recompilation project for the PS2 .hack//IMOQ quadrilogy | 56 | 🟢 | Python |
 | [meleepad (Super Smash Bros. Melee)](https://github.com/chrissotraidis/meleepad) | Super Smash Bros. Melee port running natively on iOS and iPadOS | 56 | 🟢 | Python |
+| [PerfectDarkRemasterRecomp](https://github.com/nikolaygorb/PerfectDarkRemasterRecomp) | Perfect Dark Remaster 2010 [Xbox360] game static recompilation project based on RexGlue-SDK | 56 | 🟢 | C++ |
 | [Project8Recomp](https://github.com/theokyr/Project8Recomp) | Tony Hawk's Project 8 Xbox 360 static recompilation | 56 | 🟢 | C++ |
+| [The Legend of Zelda](https://github.com/mstan/LegendOfZeldaNESRecomp) | Static recompilation of The Legend of Zelda (NES) into a native PC port | 56 | 🟢 | C |
 | [Wipeout XL (Wipeout XL Recompiled)](https://github.com/NJH-1001/Wipeout2K97XL) | Static recompilation of Wipeout XL (PS1) into a native PC port | 56 | 🟢 | C |
-| [PerfectDarkRemasterRecomp](https://github.com/nikolaygorb/PerfectDarkRemasterRecomp) | Perfect Dark Remaster 2010 [Xbox360] game static recompilation project based on RexGlue-SDK | 55 | 🟢 | C++ |
+| [WWE-AllStars-Recomp](https://github.com/shaneomac1337/WWE-AllStars-Recomp) | Unofficial Windows version of WWE All Stars (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 56 | 🟢 | C++ |
+| [gdx-3ds](https://github.com/cruxxxxxx/gdx-3ds) | Unofficial 3DS port of F-Zero X based on its decompilation | 55 | 🟢 | C |
 | [re-wor](https://github.com/ronniecloud/re-wor) | Native recompilation of Guitar Hero: Warriors of Rock (Xbox 360) for PC | 55 | 🟢 | C++ |
-| [Silent Hill 2 (sh2-nx)](https://github.com/cutarev/sh2-nx) | Static recompilation of Silent Hill 2 (PS2) into a native PC port | 55 | 🟢 | C |
+| [Shadow of the Colossus](https://github.com/HenryKun55/celosia) | Static recompilation of Shadow of the Colossus (PS2) into a native PC port | 55 | 🟢 | C++ |
 | [SotE-Recomp](https://github.com/GTTeancum/SotE-Recomp) | Static recompilation of Star Wars: Shadows of the Empire (N64) | 55 | 🟢 | C++ |
-| [The Legend of Zelda](https://github.com/mstan/LegendOfZeldaNESRecomp) | Static recompilation of The Legend of Zelda (NES) into a native PC port | 55 | 🟢 | C |
-| [WWE-AllStars-Recomp](https://github.com/shaneomac1337/WWE-AllStars-Recomp) | Unofficial Windows version of WWE All Stars (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 55 | 🟢 | C++ |
-| [.hack//Recompilation](https://github.com/dothacktranslate/dothack-recompilation) | Native recompilation project for the PS2 .hack//IMOQ quadrilogy | 54 | 🟢 | Python |
+| [Bloody Roar Extreme (Bloody Roar Extreme - XBE Recomp)](https://github.com/bromurok/BloodyRoarExtremeRecomp) | Static recompilation of Bloody Roar Extreme (Xbox) into a native PC port | 54 | 🟢 | C++ |
 | [buffy-chaos-bleeds-pc](https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc) | Unofficial native PC port of Buffy the Vampire Slayer: Chaos Bleeds (Xbox); bring your own disc | 54 | 🟢 | C |
-| [gdx-3ds](https://github.com/cruxxxxxx/gdx-3ds) | Unofficial 3DS port of F-Zero X based on its decompilation | 54 | 🟢 | C |
+| [doa3-re](https://github.com/NoRain211/doa3-re) | Native Windows port of Dead or Alive 3 (Xbox) via static recompilation with a hand-written runtime | 54 | 🟢 | C |
 | [hctp-recomp](https://github.com/BigDaddyJRich/hctp-recomp) | Static recompilation of WWE SmackDown! Here Comes the Pain (PS2) for PC | 54 | 🟢 | C++ |
+| [Silent Hill 2 (sh2-nx)](https://github.com/cutarev/sh2-nx) | Static recompilation of Silent Hill 2 (PS2) into a native PC port | 54 | 🟢 | C |
 | [Super Mario 64 in Scratch (sm64-scratch)](https://github.com/naegoxdev/sm64-scratch) | Unofficial native port of Super Mario 64 in Scratch (N64) | 54 | 🟢 | Python |
 | [Super Mario Bros.](https://github.com/mstan/SuperMarioBrosNESRecomp) | Static recompilation of Super Mario Bros. (NES) into a native PC port | 54 | 🟢 | C |
 | [The Legend of Zelda: Majora's Mask (MaskPad)](https://github.com/chrissotraidis/maskpad) | Unofficial native port of The Legend of Zelda: Majora's Mask (N64) | 54 | 🟢 | Objective-C++ |
-| [infinite-undiscovery-recomp](https://github.com/doc-haz/infinite-undiscovery-recomp) | Native PC recompilation of Infinite Undiscovery | 53 | 🟢 | C++ |
-| [Shadow of the Colossus](https://github.com/HenryKun55/celosia) | Static recompilation of Shadow of the Colossus (PS2) into a native PC port | 53 | 🟢 | C++ |
+| [Destroy All Humans! Path of the Furon](https://github.com/masterspike52/reDAHM) | Xbox 360 static recompilation of Destroy All Humans! Path of the Furon | 53 | 🟢 | C++ |
+| [skate3-android](https://github.com/andrewnakas/skate3-android) | Skate 3 on Android via native recompilation | 53 | 🟢 | Kotlin |
 | [SoulCalibur II HD Online (Soulcalibur2HD-recomp)](https://github.com/n0madic/Soulcalibur2HD-recomp) | Static recompilation of SoulCalibur II HD Online (Xbox 360) into a native PC port | 53 | 🟢 | C |
-| [Bloody Roar Extreme (Bloody Roar Extreme - XBE Recomp)](https://github.com/bromurok/BloodyRoarExtremeRecomp) | Static recompilation of Bloody Roar Extreme (Xbox) into a native PC port | 52 | 🟢 | C++ |
-| [Destroy All Humans! Path of the Furon](https://github.com/masterspike52/reDAHM) | Xbox 360 static recompilation of Destroy All Humans! Path of the Furon | 52 | 🟢 | C++ |
+| [Decomp Buddy](https://github.com/TanookiStudios/decomp-buddy) | Tool that sets up fan-made PC ports and decompilation builds from your own game files | 52 | 🟢 | JavaScript |
+| [infinite-undiscovery-recomp](https://github.com/doc-haz/infinite-undiscovery-recomp) | Native PC recompilation of Infinite Undiscovery | 52 | 🟢 | C++ |
 | [Little Planet](https://github.com/carl0srmz/littleplanet) | Sonic CD (Mega-CD) byte-identical disassembly plus static recompilation into a native PC port | 52 | 🟢 | Assembly |
-| [MegaManX2Recomp](https://github.com/mstan/MegaManX2Recomp) | Static recompilation of Mega Man X2 (SNES) | 52 | 🟢 | Python |
-| [doa3-re](https://github.com/NoRain211/doa3-re) | Native Windows port of Dead or Alive 3 (Xbox) via static recompilation with a hand-written runtime | 51 | 🟢 | C |
-| [outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | OutRun 2006: Coast 2 Coast decompilation ported to many platforms | 51 | 🟢 | C++ |
+| [MGS2 for Android](https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android) | Metal Gear Solid 2 HD (NVIDIA Shield build) statically recompiled from ARM32 to ARM64 Android | 52 | 🟢 | C |
+| [outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | OutRun 2006: Coast 2 Coast decompilation ported to many platforms | 52 | 🟢 | C++ |
+| [Pokémon Emerald](https://github.com/mstan/EmeraldRecomp) | Static recompilation of Pokémon Emerald (GBA) into a native PC port | 52 | 🟢 | C++ |
+| [Spider-Man-3-Recomp](https://github.com/b4ttycre4se/Spider-Man-3-Recomp) | ReXGlue recompilation of Spider-Man 3 (Xbox 360) for Windows x64 | 52 | 🟢 | CMake |
+| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | Unofficial native port of Animal Crossing (GameCube) | 51 | 🟢 | C |
+| [MegaManX2Recomp](https://github.com/mstan/MegaManX2Recomp) | Static recompilation of Mega Man X2 (SNES) | 51 | 🟢 | Python |
 | [pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) | Pokemon Emerald in 3D (in WebAssembly) | 51 | 🟢 | C |
-| [skate3-android](https://github.com/andrewnakas/skate3-android) | Skate 3 on Android via native recompilation | 51 | 🟢 | Kotlin |
-| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | Unofficial native port of Animal Crossing (GameCube) | 50 | 🟢 | C |
-| [Decomp Buddy](https://github.com/TanookiStudios/decomp-buddy) | Tool that sets up fan-made PC ports and decompilation builds from your own game files | 50 | 🟢 | JavaScript |
+| [ffta-recomp](https://github.com/james2doyle/ffta-recomp) | Native recompilation of Final Fantasy Tactics Advance (GBA) built on the gbarecomp framework | 50 | 🟢 | Python |
+| [Grand Theft Auto: Vice City Stories (PSPRecomp-VCS-Android)](https://github.com/codepdbh/PSPRecomp-VCS-Android) | Static recompilation of Grand Theft Auto: Vice City Stories (PSP) into a native PC port | 50 | 🟢 | C++ |
 | [Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp) | Kirby 64 Recomp (ok fine i'll use cmake) | 50 | 🟢 | C++ |
-| [MGS2 for Android](https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android) | Metal Gear Solid 2 HD (NVIDIA Shield build) statically recompiled from ARM32 to ARM64 Android | 50 | 🟢 | C |
+| [Mass Effect (masseffect-nx)](https://github.com/nebadasSwifty/masseffect-nx) | Static recompilation of Mass Effect (Xbox 360) into a native PC port | 50 | 🟢 | C++ |
 | [RB2](https://github.com/WistfulHopes/RB2) | Dragon Ball Raging Blast 2 Recompiled | 50 | 🟢 | C++ |
 | [sf64-dc](https://github.com/jnmartin84/sf64-dc) | Sega Dreamcast port of the Star Fox 64 decompilation | 50 | 🟢 | C |
-| [automobililamborghini-recomp](https://github.com/alondero/automobililamborghini-recomp) | Automobili Lamborghini (N64) static recompilation | 49 | 🟢 | C++ |
-| [ffta-recomp](https://github.com/james2doyle/ffta-recomp) | Native recompilation of Final Fantasy Tactics Advance (GBA) built on the gbarecomp framework | 49 | 🟢 | Python |
 | [Halo 3 (Delta)](https://github.com/twist84/halo3_cache_release_recomp) | Xbox 360 static recompilation of Halo 3 (Delta) | 49 | 🟢 | C++ |
-| [Mass Effect (masseffect-nx)](https://github.com/nebadasSwifty/masseffect-nx) | Static recompilation of Mass Effect (Xbox 360) into a native PC port | 49 | 🟢 | C++ |
-| [Pokémon Emerald](https://github.com/mstan/EmeraldRecomp) | Static recompilation of Pokémon Emerald (GBA) into a native PC port | 49 | 🟢 | C++ |
 | [Rocket-R](https://github.com/ThatGuyMcd/Rocket-R) | Rocket: Robot on Wheels static recompilation | 49 | 🟢 | C++ |
 | [SanRecomp](https://github.com/OZORDI/SanRecomp) | Unofficial PC port of GTA V (Xbox 360) through static recompilation | 49 | 🟢 | C++ |
-| [Spider-Man-3-Recomp](https://github.com/b4ttycre4se/Spider-Man-3-Recomp) | ReXGlue recompilation of Spider-Man 3 (Xbox 360) for Windows x64 | 49 | 🟢 | CMake |
 | [syphon-filter-2-recomp](https://github.com/alexbeavs-ps1-ports/syphon-filter-2-recomp) | Experimental Syphon Filter 2 static recompilation for Windows | 49 | 🟢 | Python |
 | [The Terminator: SkyNET (skynet-godot)](https://github.com/nautilusbits/skynet-godot) | Unofficial native port of The Terminator: SkyNET (DOS) | 49 | 🟢 | GDScript |
+| [automobililamborghini-recomp](https://github.com/alondero/automobililamborghini-recomp) | Automobili Lamborghini (N64) static recompilation | 48 | 🟢 | C++ |
+| [Def Jam Vendetta](https://github.com/jcsix694/def-jam-vendetta-recomp) | Static recompilation of Def Jam Vendetta (PS2) into a native PC port | 48 | 🟢 | C++ |
 | [FZeroRecomp](https://github.com/craigshaw/FZeroRecomp) | Static recompilation of F-Zero to native PC | 48 | 🟢 | C |
-| [Grand Theft Auto: Vice City Stories (PSPRecomp-VCS-Android)](https://github.com/codepdbh/PSPRecomp-VCS-Android) | Static recompilation of Grand Theft Auto: Vice City Stories (PSP) into a native PC port | 48 | 🟢 | C++ |
+| [King's Field II](https://github.com/Voicedrew11/verdite3) | Unofficial native port of King's Field II (PS1) | 48 | 🟢 | C# |
 | [Medal-Of-Honor-PSX-Recomp](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp) | Static recompilation of Medal of Honor (PS1) | 48 | 🟢 | C |
 | [nfs-carbon-mac](https://github.com/vasist15-source/nfs-carbon-mac) | Need for Speed: Carbon (PC) natively on Apple Silicon Macs via static recompilation | 48 | 🟢 | C++ |
 | [Sonic Adventure 2: Battle (OpenSA2)](https://github.com/kittycache9/OpenSA2) | Static recompilation of Sonic Adventure 2: Battle (GameCube) into a native PC port | 48 | 🟢 | Python |
 | [th06-sdl2](https://github.com/CNTianQi233/th06-sdl2) | Rebuild of the Touhou 6 decompilation on SDL2 and OpenGL | 48 | 🟢 | C++ |
 | [360tools](https://github.com/sp00nznet/360tools) | Toolkit to statically recompile Xbox 360 games to native PC executables | 47 | 🟢 | Python |
-| [King's Field II](https://github.com/Voicedrew11/verdite3) | Unofficial native port of King's Field II (PS1) | 47 | 🟢 | C# |
+| [Earthbound Companion](https://github.com/rages4calm/earthbound-companion) | Recomp of Earthbound (SNES) to PC. | 47 | 🟢 | Python |
 | [The Legend of Zelda: Majora's Mask (MMRecompRando)](https://github.com/RecompRando/MMRecompRando) | Static recompilation of The Legend of Zelda: Majora's Mask (N64) into a native PC port | 47 | 🟢 | C |
+| [WCWvsNWOWorldTourRecomp](https://github.com/jessetbh/WCWvsNWOWorldTourRecomp) | WCW vs. nWo: World Tour N64 static recompilation | 47 | 🟢 | C++ |
+| [WWFNoMercyRecomp](https://github.com/jessetbh/WWFNoMercyRecomp) | WWF No Mercy N64 static recompilation | 47 | 🟢 | C |
 | [aerogauge-recomp](https://github.com/alondero/aerogauge-recomp) | Static recompilation of AeroGauge for the Nintendo 64 | 46 | 🟢 | C++ |
+| [Birdman64](https://github.com/NoahVl/Birdman64) | Pilotwings 64 as a native PC game for Windows and Linux: widescreen, 144 Hz+, gamepads. Bring your own ROM, no emulator. | 46 | 🟢 | Rust |
+| [Burnout 2: Point of Impact](https://github.com/timftw21/burnout2-recompilation) | Static recompilation of Burnout 2: Point of Impact (Xbox) into a native PC port | 46 | 🟢 | C++ |
+| [CyPort](https://github.com/Thijs2004/CyPort) | Runs your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad | 46 | 🟢 | Objective-C |
+| [project-1944](https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon) | Unofficial native Windows PC port of Call of Duty 3 (Xbox 360) via static recompilation. Bring your own game. EN · RU... | 46 | 🟢 | Python |
+| [srw64-recomp](https://github.com/dyzz/srw64-recomp) | Experimental native recompilation of Super Robot Wars 64 with translations and HD mode | 46 | 🟢 | C++ |
 | [Street Fighter EX Plus Alpha](https://github.com/guimaraf/plusalpha-recomp) | Static recompilation of Street Fighter EX Plus Alpha (PS1) into a native PC port | 46 | 🟢 | C |
-| [WCWvsNWOWorldTourRecomp](https://github.com/jessetbh/WCWvsNWOWorldTourRecomp) | WCW vs. nWo: World Tour N64 static recompilation | 46 | 🟢 | C++ |
-| [WWFNoMercyRecomp](https://github.com/jessetbh/WWFNoMercyRecomp) | WWF No Mercy N64 static recompilation | 46 | 🟢 | C |
-| [Yakuza-Dead-Souls-EX](https://github.com/canersaka/Yakuza-Dead-Souls-Recompiled) | Yakuza: Dead Souls recompilation effort | 46 | 🟢 | C |
-| [Birdman64](https://github.com/NoahVl/Birdman64) | Pilotwings 64 as a native PC game for Windows and Linux: widescreen, 144 Hz+, gamepads. Bring your own ROM, no emulator. | 45 | 🟢 | Rust |
-| [Burnout 2: Point of Impact](https://github.com/timftw21/burnout2-recompilation) | Static recompilation of Burnout 2: Point of Impact (Xbox) into a native PC port | 45 | 🟢 | C++ |
-| [Def Jam Vendetta](https://github.com/jcsix694/def-jam-vendetta-recomp) | Static recompilation of Def Jam Vendetta (PS2) into a native PC port | 45 | 🟢 | C++ |
+| [Strider 2](https://github.com/strider973/STRIDER-2-Recompiled) | Static recompilation of Strider 2 (PS1) into a native PC port | 46 | 🟢 | Python |
+| [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) | Wii U static recompilation framework, starting with Breath of the Wild | 45 | 🟢 | C |
 | [Grand Theft Auto IV](https://github.com/luisxl15/GTA-IV-RECOMP-XBOX-360) | Static recompilation of Grand Theft Auto IV (Xbox 360) into a native PC port | 45 | 🟢 | Python |
+| [halo-ce-anbernic-rg35xx](https://github.com/kirklandsig/halo-ce-anbernic-rg35xx) | Halo: Combat Evolved running natively on Anbernic RG35XX H handhelds | 45 | 🟢 | C |
+| [miyoo64](https://github.com/mr-finster/miyoo64) | N64 games built for the Miyoo Mini handheld from community decompilation projects | 45 | 🟢 | C |
 | [pokerecomp](https://github.com/Decryptu/pokerecomp) | A native Godot 4 reimplementation of the Gen 1 and 2 Game Boy Color games. Not an emulator, bring your own ROM. | 45 | 🟢 | GDScript |
-| [project-1944](https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon) | Unofficial native Windows PC port of Call of Duty 3 (Xbox 360) via static recompilation. Bring your own game. EN · RU... | 45 | 🟢 | Python |
-| [srw64-recomp](https://github.com/dyzz/srw64-recomp) | Experimental native recompilation of Super Robot Wars 64 with translations and HD mode | 45 | 🟢 | C++ |
-| [Strider 2](https://github.com/strider973/STRIDER-2-Recompiled) | Static recompilation of Strider 2 (PS1) into a native PC port | 45 | 🟢 | Python |
 | [Super Mario 64 (libsm64-rust)](https://github.com/nickmass/libsm64-rust) | Unofficial native port of Super Mario 64 (N64) | 45 | 🟢 | Rust |
+| [Yakuza-Dead-Souls-EX](https://github.com/canersaka/Yakuza-Dead-Souls-Recompiled) | Yakuza: Dead Souls recompilation effort | 45 | 🟢 | C |
 | [Yoshi's Story (DinoTale)](https://github.com/wootbeer/dinotale) | Static recompilation of Yoshi's Story (N64) into a native PC port | 45 | 🟢 | C++ |
-| [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) | Wii U static recompilation framework, starting with Breath of the Wild | 44 | 🟢 | C |
-| [CyPort](https://github.com/Thijs2004/CyPort) | Runs your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad | 44 | 🟢 | Objective-C |
-| [Earthbound Companion](https://github.com/rages4calm/earthbound-companion) | Recomp of Earthbound (SNES) to PC. | 44 | 🟢 | Python |
-| [halo-ce-anbernic-rg35xx](https://github.com/kirklandsig/halo-ce-anbernic-rg35xx) | Halo: Combat Evolved running natively on Anbernic RG35XX H handhelds | 44 | 🟢 | C |
+| [EcstaticaRecompiled](https://github.com/spacefarergames/EcstaticaRecompiled) | This is a recomplimation and modern port of Ecstatica 1 and Ecstatica 2 that runs on modern Windows 10 / 11 systems f... | 44 | 🟢 | Assembly |
 | [HuntersRecomp](https://github.com/aabrole/HuntersRecomp) | Metroid Prime Hunters (DS) recompiled to a native dual-screen Android port | 44 | 🟢 | Java |
-| [miyoo64](https://github.com/mr-finster/miyoo64) | N64 games built for the Miyoo Mini handheld from community decompilation projects | 44 | 🟢 | C |
 | [PlayStunts](https://github.com/ACatWithEbola/playstunts) | Recomp of Stunts to TypeScript, playable online. | 44 | 🟢 | TypeScript |
 | [smt-nine-recomp](https://github.com/gymzatan/smt-nine-recomp) | Native Windows recompilation of Shin Megami Tensei NINE (Xbox) | 44 | 🟢 | C |
 | [Ace Combat 3](https://github.com/sal063/Ace-Combat-3-static-recompilation) | Static recompilation of Ace Combat 3 (PS1) into a native PC port | 43 | 🟢 | C |
-| [EcstaticaRecompiled](https://github.com/spacefarergames/EcstaticaRecompiled) | This is a recomplimation and modern port of Ecstatica 1 and Ecstatica 2 that runs on modern Windows 10 / 11 systems f... | 43 | 🟢 | Assembly |
 | [paperpad (Paper Mario)](https://github.com/chrissotraidis/paperpad) | Paper Mario (N64) port for macOS, iOS and iPadOS | 43 | 🟢 | Objective-C++ |
 | [RecompiledHaloReach](https://github.com/Dyotson/RecompiledHaloReach) | Native PC port of Halo: Reach (Xbox 360) via static recompilation with ReXGlue | 43 | 🟢 | C++ |
+| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Unofficial native port of Resident Evil 4 (Dreamcast) | 43 | 🟢 | C++ |
+| [wc2-re](https://github.com/neuromancer/wc2-re) | Open-source recomp of Wing Commander II. | 43 | 🟢 | C |
 | [WWE-SVR2010-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP) | Native PC port of WWE SmackDown vs. Raw 2010 (Xbox 360) via static recompilation | 43 | 🟢 | C++ |
 | [Call of Duty 4: Modern Warfare (kisakcod-port (web))](https://github.com/slqntdevss/kisakcod-port) | Unofficial native port of Call of Duty 4: Modern Warfare (PC) | 42 | 🟢 | GSC |
+| [ds2-nx (Dead Space 2)](https://github.com/VasilkovND/ds2-nx) | Dead Space 2 (Xbox 360) running natively on Nintendo Switch | 42 | 🟢 | C++ |
+| [issd-native](https://github.com/sergiomanzur/issd-native) | Native recompilation of International Superstar Soccer Deluxe (SNES) | 42 | 🟢 | C |
 | [Klonoa: Door to Phantomile](https://github.com/TechnicallyComputers/Klonoa-Door-to-Phantomile) | Static recompilation of Klonoa: Door to Phantomile (PS1) into a native PC port | 42 | 🟢 | C |
-| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Unofficial native port of Resident Evil 4 (Dreamcast) | 42 | 🟢 | C++ |
-| [ds2-nx (Dead Space 2)](https://github.com/VasilkovND/ds2-nx) | Dead Space 2 (Xbox 360) running natively on Nintendo Switch | 41 | 🟢 | C++ |
 | [GoldenEye007ReloadedRecomp](https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp) | RexGlue static recompilation of GoldenEye 007: Reloaded (Xbox 360) | 41 | 🟢 | C++ |
 | [Magic-Sushi (MTK)](https://github.com/EXL/Magic-Sushi) | Port of the Magic Sushi game from MediaTek feature-phone OS to SDL and the web | 41 | 🔴 | C |
+| [Metal Gear Solid: The Twin Snakes](https://github.com/alphanu1/msg-twinsnakes-recomp) | Static recompilation of Metal Gear Solid: The Twin Snakes (GameCube) into a native PC port | 41 | 🟢 | C |
 | [Metal Slug XX](https://github.com/FluffyQuack/rexglue-MetalSlugXX) | Static recompilation of Metal Slug XX (Xbox 360) into a native PC port | 41 | 🟢 | C |
+| [Pokémon FireRed and Pokémon LeafGreen](https://github.com/mstan/FireRedLeafGreenRecomp) | Static recompilation of Pokémon FireRed and Pokémon LeafGreen (GBA) into a native PC port | 41 | 🟢 | Python |
 | [raider-vita (Tomb Raider)](https://github.com/Rinnegatamante/raider-vita) | PS Vita port of Tomb Raider I and II Classic (Android) via the Android version loader | 41 | 🟡 | C |
 | [Silent Hill 3 (sh3-nx, Switch)](https://github.com/cutarev/sh3-nx) | Static recompilation of Silent Hill 3 (PC) into a native PC port | 41 | 🟢 | C |
-| [wc2-re](https://github.com/neuromancer/wc2-re) | Open-source recomp of Wing Commander II. | 41 | 🟢 | C |
+| [StarCraft 64](https://github.com/n0madic/StarCraft64-recomp) | Static recompilation of StarCraft 64 (N64) into a native PC port | 41 | 🟢 | C++ |
+| [The Sims 2](https://github.com/abilliontokens/sims2-recomp) | Static recompilation of The Sims 2 (Xbox) into a native PC port | 41 | 🟢 | C++ |
 | [Animal Crossing ( animalcrossing-visionos)](https://github.com/chrissotraidis/bellpad) | Unofficial native port of Animal Crossing (GameCube) | 40 | 🟢 | Objective-C++ |
 | [Dark Cloud 2 (DC2-PS2RECOMP)](https://github.com/Red-tv141/DC2-PS2RECOMP) | Static recompilation of Dark Cloud 2 (PS2) into a native PC port | 40 | 🟢 | C++ |
 | [deviltouch (Diablo)](https://github.com/chrissotraidis/deviltouch) | DevilutionX (Diablo) port for iPad with direct touch controls | 40 | 🟢 | Python |
 | [ff4_vita (Final Fantasy IV)](https://github.com/Rinnegatamante/ff4_vita) | PS Vita port of Final Fantasy IV (3D remake) via the Android version loader | 40 | 🔴 | C |
-| [issd-native](https://github.com/sergiomanzur/issd-native) | Native recompilation of International Superstar Soccer Deluxe (SNES) | 40 | 🟢 | C |
-| [Metal Gear Solid: The Twin Snakes](https://github.com/alphanu1/msg-twinsnakes-recomp) | Static recompilation of Metal Gear Solid: The Twin Snakes (GameCube) into a native PC port | 40 | 🟢 | C |
+| [MindOver-Recomp](https://github.com/Maxilure/MindOver-Recomp) | Unofficial native PC port of Crash: Mind Over Mutant (Xbox 360) via recompilation | 40 | 🟢 | C++ |
 | [nfsmw-recomp](https://github.com/veritr1x/nfsmw-recomp) | Recompilation of Need for Speed: Most Wanted (the 2005 PC Black Edition) built on recomp-kit: macOS, iPad, Linux, Win... | 40 | 🟢 | C |
 | [skyroads-sdl](https://github.com/pedrocatalao/skyroads-sdl) | SkyRoads (1993) reverse-engineered and ported natively to SDL2 | 40 | 🟢 | C |
 | [Sonic the Hedgehog 2](https://github.com/mstan/SonicTheHedgehog2Recomp) | Static recompilation of Sonic the Hedgehog 2 (Genesis) into a native PC port | 40 | 🟢 | C |
+| [Streets of Rage](https://github.com/RuiNelson/StreetsOfRageProject) | Static recompilation of Streets of Rage (Genesis) into a native PC port | 40 | 🟢 | Python |
 | [WWE-SVR2008-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP) | Native PC port of WWE SmackDown vs. Raw 2008 (Xbox 360) via static recompilation | 40 | 🟢 | C++ |
+| [castlevania-chronicles-recomp](https://github.com/Spicywonda/castlevania-chronicles-recomp) | Experimental Castlevania Chronicles (PS1) recompilation | 39 | 🟢 | C# |
+| [conker64-recompiled](https://github.com/Conker64Recomp/conker64-recompiled) | Native PC port of Conker's Bad Fur Day (N64) via Static MIPS Recompilation. SDL2 engine with 3D UV texturing, N64 aud... | 39 | 🟢 | C |
 | [Genma Onimusha (Genma Onimusha - PC port)](https://github.com/rafaelkenedy/genma-recomp) | Static recompilation of Genma Onimusha (Xbox) into a native PC port | 39 | 🟢 | C++ |
+| [infamous2-pc](https://github.com/ThiagoFraga761/infamous2-pc) | Static recompilation of inFAMOUS 2 (PS3) for Linux with a Vulkan renderer | 39 | 🟢 | C |
+| [Jet Force Gemini](https://github.com/VibinToast/JetForceGemini-Recompiled) | Static recompilation of Jet Force Gemini (N64) into a native PC port | 39 | 🟢 | C++ |
 | [Knightmare (KnightmareAmiga (h0ffman))](https://github.com/djh0ffman/KnightmareAmiga) | Unofficial native port of Knightmare (Amiga) | 39 | 🔴 | Assembly |
-| [MindOver-Recomp](https://github.com/Maxilure/MindOver-Recomp) | Unofficial native PC port of Crash: Mind Over Mutant (Xbox 360) via recompilation | 39 | 🟢 | C++ |
 | [project-bumble (Buck Bumble)](https://github.com/riseio/project-bumble) | Static recompilation of Buck Bumble (N64) into a native port | 39 | 🟢 |  |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Unofficial native port of Sensible World of Soccer 96/97 (Amiga) | 39 | 🟢 | Assembly |
-| [StarCraft 64](https://github.com/n0madic/StarCraft64-recomp) | Static recompilation of StarCraft 64 (N64) into a native PC port | 39 | 🟢 | C++ |
-| [The Sims 2](https://github.com/abilliontokens/sims2-recomp) | Static recompilation of The Sims 2 (Xbox) into a native PC port | 39 | 🟢 | C++ |
-| [castlevania-chronicles-recomp](https://github.com/Spicywonda/castlevania-chronicles-recomp) | Experimental Castlevania Chronicles (PS1) recompilation | 38 | 🟢 | C# |
-| [conker64-recompiled](https://github.com/Conker64Recomp/conker64-recompiled) | Native PC port of Conker's Bad Fur Day (N64) via Static MIPS Recompilation. SDL2 engine with 3D UV texturing, N64 aud... | 38 | 🟢 | C |
+| [Soulcalibur IV](https://github.com/FluffyQuack/rexglue-SoulCaliburIV) | Static recompilation of Soulcalibur IV (Xbox 360) into a native PC port | 39 | 🟢 | C |
 | [DragonBallZBuusFuryRecomp](https://github.com/mstan/DragonBallZBuusFuryRecomp) | Static recompilation of Dragon Ball Z: Buu's Fury with Adaptive Widescreen · Part of the R.A.I.D. community | 38 | 🟢 | C++ |
 | [Guitar Hero II](https://github.com/YoshiCrystal9/re-gh2) | Xbox 360 static recompilation of Guitar Hero II | 38 | 🟢 | C++ |
-| [Pokémon FireRed and Pokémon LeafGreen](https://github.com/mstan/FireRedLeafGreenRecomp) | Static recompilation of Pokémon FireRed and Pokémon LeafGreen (GBA) into a native PC port | 38 | 🟢 | Python |
+| [MK64 Portable](https://github.com/beckerd/psp_mk64_portable) | Native PSP port of Mario Kart 64 built on the n64decomp/mk64 decompilation | 38 | 🟢 | C |
 | [Skate (2007)](https://github.com/cookingwithsimon/Skate1Recompiled) | Static recompilation of Skate (Xbox 360) into a native PC port | 38 | 🟢 | PowerShell |
 | [socom-unzipped](https://github.com/Scotho/socom-unzipped) | SOCOM II: U.S. Navy SEALs, statically recompiled for PC with self-hosted online play | 38 | 🟢 | Python |
-| [Soulcalibur IV](https://github.com/FluffyQuack/rexglue-SoulCaliburIV) | Static recompilation of Soulcalibur IV (Xbox 360) into a native PC port | 38 | 🟢 | C |
+| [Starfox Recomp](https://github.com/mstan/StarFoxSNESRecomp) | Recomp + enhancement of Starfox (SNES). | 38 | 🟢 | C |
 | [WWE 2K14 (WWE2K14-PC)](https://github.com/itsbybanshee/wwe2k14-pc) | Static recompilation of WWE 2K14 (Xbox 360) into a native PC port | 38 | 🟢 | C# |
 | [3dpinball-dc](https://github.com/headshot2017/3dpinball-dc) | Port of the Space Cadet Pinball decompilation to Dreamcast | 37 | 🟡 | C++ |
 | [Alien Resurrection](https://github.com/Heromachine/AlienResurrection-Recompilation) | Static recompilation of Alien Resurrection (PS1) into a native PC port | 37 | 🟢 | C# |
-| [infamous2-pc](https://github.com/ThiagoFraga761/infamous2-pc) | Static recompilation of inFAMOUS 2 (PS3) for Linux with a Vulkan renderer | 37 | 🟢 | C |
-| [Jet Force Gemini](https://github.com/VibinToast/JetForceGemini-Recompiled) | Static recompilation of Jet Force Gemini (N64) into a native PC port | 37 | 🟢 | C++ |
+| [betrayal-at-krondor](https://github.com/canassa/betrayal-at-krondor) | Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic. | 37 | 🟢 | Assembly |
+| [godhand-recomp](https://github.com/LasVola/godhand-recomp) | Native PC port of God Hand (PS2) via static recompilation | 37 | 🟢 | C++ |
 | [Prototype (Prototype and Prototype 2 for Nintendo Switch)](https://github.com/fungalspores/prototype-switch) | Static recompilation of Prototype (Xbox 360) into a native PC port | 37 | 🟢 | C++ |
 | [racers-portable](https://github.com/isledecomp/racers-portable) | Portable version of LEGO Racers (1999) built from its decompilation | 37 | 🟢 | C++ |
 | [reo](https://github.com/sp00nznet/reo) | Static recompilation of Resident Evil Outbreak for modern Windows | 37 | 🟢 | C++ |
 | [repentogxm](https://github.com/0xl0cal/repentogxm) | PS Vita port of The Binding of Isaac: Repentance by static recompilation of the PC executable to ARM. | 37 | 🟢 | C |
+| [RidgeRacer4Recomp](https://github.com/omegakatana92/RidgeRacer4Recomp) | Native PC port of R4: Ridge Racer Type 4 (PS1) built with PSXRecomp | 37 | 🟢 | PowerShell |
 | [Simpsons Wrestling Recompiled](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) | Recomp of Simpsons Wrestling (PS1) to PC. | 37 | 🟢 | C++ |
+| [SSBU (PS4)](https://github.com/iHaiDeeZ/SSBU) | Super Smash Bros. Ultimate WindowSmash recompilation ported to jailbroken PS4 | 37 | 🟢 | C++ |
 | [WWE-SVR2009-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP) | Native PC port of WWE SmackDown vs. Raw 2009 (Xbox 360) via static recompilation | 37 | 🟢 | C++ |
+| [wwe2k14-recomp (Jarrodfeng)](https://github.com/Jarrodfeng/wwe2k14-recomp) | Native PC recompilation of WWE 2K14 (Xbox 360) | 37 | 🟢 | C++ |
 | [3dpinball-ps2](https://github.com/headshot2017/3dpinball-ps2) | Port of the Space Cadet Pinball decompilation to PlayStation 2 | 36 | 🟡 | C++ |
-| [godhand-recomp](https://github.com/LasVola/godhand-recomp) | Native PC port of God Hand (PS2) via static recompilation | 36 | 🟢 | C++ |
-| [MK64 Portable](https://github.com/beckerd/psp_mk64_portable) | Native PSP port of Mario Kart 64 built on the n64decomp/mk64 decompilation | 36 | 🟢 | C |
-| [RidgeRacer4Recomp](https://github.com/omegakatana92/RidgeRacer4Recomp) | Native PC port of R4: Ridge Racer Type 4 (PS1) built with PSXRecomp | 36 | 🟢 | PowerShell |
-| [Starfox Recomp](https://github.com/mstan/StarFoxSNESRecomp) | Recomp + enhancement of Starfox (SNES). | 36 | 🟢 | C |
-| [Streets of Rage](https://github.com/RuiNelson/StreetsOfRageProject) | Static recompilation of Streets of Rage (Genesis) into a native PC port | 36 | 🟢 | Python |
+| [Digimon World 2 port](https://github.com/Wyrelade/DW2-PC) | PC port of Digimon World 2 (PS1) built from the matching decompilation | 36 | 🟢 | C++ |
+| [ForzaRecomp](https://github.com/NerunSmarts/ForzaRecomp) | In-progress static recompilation of Forza Horizon 1 | 36 | 🟢 | C++ |
+| [fuc-recomp](https://github.com/elprogramadorloco-arch/fuc-recomp) | Hybrid native Fate/unlimited codes project: PSP static-recompilation/gameplay base with PS2 assets and controls in de... | 36 | 🟢 | C++ |
+| [Metal Gear Solid Recompiled](https://github.com/alexbeavs-ps1-ports/metal-gear-solid-recomp) | PSXRecomp native PC port of Metal Gear Solid (PS1) | 36 | 🟢 | Python |
+| [Scooby-Doo! Night of 100 Frights](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened) | Static recompilation of Scooby-Doo! Night of 100 Frights (GameCube) into a native PC port | 36 | 🟢 | C++ |
 | [stunts-hd](https://github.com/mr-finster/stunts-hd) | Stunts / 4D Sports Driving (DOS, 1990) recompiled for browser and desktop with HD 3D and widescreen | 36 | 🟢 | JavaScript |
 | [Super Mario Bros. (UEFI_SuperMario)](https://github.com/MikeWuPing/UEFI_SuperMario) | Unofficial native port of Super Mario Bros. (NES) | 36 | 🟢 | C |
-| [wwe2k14-recomp (Jarrodfeng)](https://github.com/Jarrodfeng/wwe2k14-recomp) | Native PC recompilation of WWE 2K14 (Xbox 360) | 36 | 🟢 | C++ |
-| [betrayal-at-krondor](https://github.com/canassa/betrayal-at-krondor) | Betrayal at Krondor: A byte-perfect recompilation of the 1993 classic. | 35 | 🟢 | Assembly |
-| [Digimon World 2 port](https://github.com/Wyrelade/DW2-PC) | PC port of Digimon World 2 (PS1) built from the matching decompilation | 35 | 🟢 | C++ |
-| [ForzaRecomp](https://github.com/NerunSmarts/ForzaRecomp) | In-progress static recompilation of Forza Horizon 1 | 35 | 🟢 | C++ |
-| [fuc-recomp](https://github.com/elprogramadorloco-arch/fuc-recomp) | Hybrid native Fate/unlimited codes project: PSP static-recompilation/gameplay base with PS2 assets and controls in de... | 35 | 🟢 | C++ |
-| [OpenCrossing-Xbox](https://github.com/TechProGabe/OpenCrossing-Xbox) | Native original Xbox port of Animal Crossing built from the GameCube decompilation | 35 | 🟢 | C |
+| [the-3rd-birthday-recomp](https://github.com/BasedYuki/the-3rd-birthday-recomp) | Native PC port of The 3rd Birthday (PSP) via static recompilation | 36 | 🟢 | C |
+| [Bloodborne](https://github.com/bloodborne-native/bloodborne-recomp) | Static recompilation of Bloodborne (PS4) into a native PC port | 35 | 🟢 | C |
+| [Marvel Nemesis: Rise of the Imperfects (Marvel Nemesis: Rise of the Imperfects - PC Recomp)](https://github.com/15Cyber/marvel-nemesis-recomp) | Static recompilation of Marvel Nemesis: Rise of the Imperfects (Xbox) into a native PC port | 35 | 🟢 | C++ |
+| [NBA Street V3](https://github.com/recomp-code/street-recomp-v3) | Static recompilation of NBA Street V3 (GameCube) into a native PC port | 35 | 🟢 | PowerShell |
 | [pokemon-red-sdl2](https://github.com/zacharyvincze/pokemon-red-sdl2) | Pokémon Red reconstructed in C with SDL2 | 35 | 🔴 | C++ |
 | [prototype-pc (PS4)](https://github.com/petrishevgeorgii-debug/prototype-pc-slop) | Experimental native PC port of PROTOTYPE and PROTOTYPE 2 from the PS4 bundle | 35 | 🟢 | C++ |
 | [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Unofficial native port of Rayman (Atari Jaguar) | 35 | 🟢 | C++ |
+| [ReShadowTower](https://github.com/JFryy/reshadowtower) | Recompiled native port of Shadow Tower (PS1) with modern PC controls | 35 | 🟢 | Python |
 | [Sonic the Hedgehog](https://github.com/foreverWIP/s1-port) | Unofficial native port of Sonic the Hedgehog (Genesis) | 35 | 🟡 | C |
-| [SSBU (PS4)](https://github.com/iHaiDeeZ/SSBU) | Super Smash Bros. Ultimate WindowSmash recompilation ported to jailbroken PS4 | 35 | 🟢 | C++ |
 | [Stuntman: Ignition (Stunt Double: Reignition)](https://github.com/giangra/stuntdouble-reignition) | Static recompilation of Stuntman: Ignition (Xbox 360) into a native PC port | 35 | 🟢 | C++ |
-| [the-3rd-birthday-recomp](https://github.com/BasedYuki/the-3rd-birthday-recomp) | Native PC port of The 3rd Birthday (PSP) via static recompilation | 35 | 🟢 | C |
 | [xmd-recompiled](https://github.com/florinp93/xmd-recompiled) | Native PC port of X-Men Destiny via static recompilation | 35 | 🟢 | C |
-| [Bloodborne](https://github.com/bloodborne-native/bloodborne-recomp) | Static recompilation of Bloodborne (PS4) into a native PC port | 34 | 🟢 | C |
 | [Gauntlet-Dark-Legacy-PC-Port](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port) | Fan-made unofficial PC port of Gauntlet: Dark Legacy | 34 | 🟢 | C++ |
-| [jsrf-recomp](https://github.com/andeecollard/jsrf-recomp) | Static recompilation of Jet Set Radio Future (Xbox) to native macOS — playable into chapter 2 at 60 fps via a Direct3... | 34 | 🟢 | C |
-| [Marvel Nemesis: Rise of the Imperfects (Marvel Nemesis: Rise of the Imperfects - PC Recomp)](https://github.com/15Cyber/marvel-nemesis-recomp) | Static recompilation of Marvel Nemesis: Rise of the Imperfects (Xbox) into a native PC port | 34 | 🟢 | C++ |
-| [NBA Street V3](https://github.com/recomp-code/street-recomp-v3) | Static recompilation of NBA Street V3 (GameCube) into a native PC port | 34 | 🟢 | PowerShell |
+| [OpenCrossing-Xbox](https://github.com/TechProGabe/OpenCrossing-Xbox) | Native original Xbox port of Animal Crossing built from the GameCube decompilation | 34 | 🟢 | C |
 | [pinball-fantasies-encore](https://github.com/pedrocatalao/pinball-fantasies-encore) | Native remake of Pinball Fantasies (1994 DOS) for macOS, Linux and Windows | 34 | 🟢 | C++ |
 | [Prince of Persia 2](https://github.com/Supermedo/prince-of-persia-2-windows) | Static recompilation of Prince of Persia 2 (DOS) into a native PC port | 34 | 🟢 | C |
 | [psprecomp](https://github.com/sp00nznet/psprecomp) | Static recompilation toolkit for PSP games (Allegrex MIPS to C) | 34 | 🟢 | C |
-| [ReShadowTower](https://github.com/JFryy/reshadowtower) | Recompiled native port of Shadow Tower (PS1) with modern PC controls | 34 | 🟢 | Python |
-| [Scooby-Doo! Night of 100 Frights](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened) | Static recompilation of Scooby-Doo! Night of 100 Frights (GameCube) into a native PC port | 34 | 🟢 | C++ |
+| [RogueSquadron64Recomp](https://github.com/MikeSemicolonD/RogueSquadron64Recomp) | A fully playable (AI assisted) static recompilation of Star Wars: Rogue Squadron on N64 for the PC, Linux & Android | 34 | 🟢 | C++ |
 | [snowboardkids-recomp](https://github.com/cdlewis/snowboardkids-recomp) | Native PC port of Snowboard Kids (N64) for Windows, Linux and macOS | 34 | 🟢 | C |
 | [Strikers-Quest-MR](https://github.com/LanceSweatpants/Strikers-Quest-MR) | Super Mario Strikers (GameCube) built from its decompilation as a native Meta Quest 3 mixed-reality app | 34 | 🟢 | C++ |
 | [tekken6-native-online-source](https://github.com/Ekspym/tekken6-native-online-source) | Launcher, rollback netplay runtime and build tools for the native PC port of Tekken 6 (Xbox 360) | 34 | 🟢 | C++ |
+| [White Knight Chronicles II (White Knight Chronicles II Recomp)](https://github.com/WK2D/White-Knight-Chronicles-2-Recomp) | Static recompilation of White Knight Chronicles II (PS3) into a native PC port | 34 | 🟢 | C++ |
 | [BadCompanyRecomp](https://github.com/crabinacrabic/BadCompanyRecomp) | ReXGlue static recompilation of Battlefield: Bad Company (Xbox 360) | 33 | 🟢 | C++ |
 | [BlackKnightRecomp](https://github.com/yunophilia/BlackKnightRecomp) | Static recompilation of Sonic and the Black Knight (Wii) for Windows | 33 | 🟢 | C++ |
 | [CV64-Recomp](https://github.com/spacefarergames/CV64-Recomp) | Static Recomp and Remaster of Castlevania 64 | 33 | 🟢 | C++ |
 | [DB-Final-Bout-Recomp](https://github.com/novapowers0/DB-Final-Bout-Recomp) | Static recompilation of Dragon Ball GT: Final Bout (PS1) for Windows | 33 | 🟢 | Python |
 | [f15se2-ex](https://github.com/neuviemeporte/f15se2-ex) | Port of the reconstructed DOS game F-15 Strike Eagle II to modern platforms | 33 | 🟢 | C |
-| [Metal Gear Solid Recompiled](https://github.com/alexbeavs-ps1-ports/metal-gear-solid-recomp) | PSXRecomp native PC port of Metal Gear Solid (PS1) | 33 | 🟢 | Python |
+| [jsrf-recomp](https://github.com/andeecollard/jsrf-recomp) | Static recompilation of Jet Set Radio Future (Xbox) to native macOS — playable into chapter 2 at 60 fps via a Direct3... | 33 | 🟢 | C |
 | [moonpearl](https://github.com/DoutorRaposo/moonpearl) | Android port of snesrev/zelda3 (ALttP reimplementation): widescreen, rewind, shaders, MSU-1, save states, controller... | 33 | 🟢 | Kotlin |
 | [ResidentEvilOutbreakRecompiled](https://github.com/RaccoonRecomp/ResidentEvilOutbreakRecompiled) | Static recompilation of Resident Evil Outbreak (PS2) into a native port | 33 | 🟢 |  |
 | [sonic-r-android](https://github.com/ZinexDa/sonic-r-android) | Native Android port of the Sonic R PC decompilation with GLES2 renderer | 33 | 🟢 | C |
-| [Super Smash Bros. Melee](https://github.com/TechProGabe/Melee-X) | Unofficial native port of Super Smash Bros. Melee (GameCube) | 33 | 🟢 | C |
+| [Super Mario 64 (SM64-PC-Port-WebGL)](https://github.com/NotAn127/SM64-PC-Port-WebGL) | Unofficial native port of Super Mario 64 (N64) | 33 | 🟢 | JavaScript |
 | [The Legend of Zelda: The Minish Cap](https://github.com/mstan/MinishCapRecomp) | Static recompilation of The Legend of Zelda: The Minish Cap (GBA) into a native PC port | 33 | 🟢 | C++ |
 | [Twisted Metal 4 (TwistedMetal4 Recompiled)](https://github.com/TechnicallyComputers/TwistedMetal4Recomp) | Static recompilation of Twisted Metal 4 (PS1) into a native PC port | 33 | 🟢 | C |
 | [Vagrant Story port](https://github.com/noprompt/rood-boi) | Native PC port of Vagrant Story built on the rood-reverse decompilation | 33 | 🟢 | C |
 | [WCWnWoRevengeRecomp](https://github.com/jessetbh/WCWnWoRevengeRecomp) | WCW/nWo Revenge N64 static recompilation | 33 | 🟢 | Python |
-| [White Knight Chronicles II (White Knight Chronicles II Recomp)](https://github.com/WK2D/White-Knight-Chronicles-2-Recomp) | Static recompilation of White Knight Chronicles II (PS3) into a native PC port | 33 | 🟢 | C++ |
 | [beanRecomp](https://github.com/kholdfuzion/beanRecomp) | In-progress recomp repo for Bean | 32 | 🟡 |  |
 | [F1-Race (MTK)](https://github.com/EXL/F1-Race) | Port of the F1 Race game from MediaTek feature-phone OS to SDL2 and the web | 32 | 🔴 | C |
 | [fahrenheit-vita (Fahrenheit)](https://github.com/Rinnegatamante/fahrenheit-vita) | PS Vita port of Fahrenheit: Indigo Prophecy via the Android version loader | 32 | 🟢 | C |
 | [goo_vita (World of Goo)](https://github.com/Rinnegatamante/goo_vita) | PS Vita port of World of Goo via the Android version loader | 32 | 🔴 | C |
 | [Guitar Hero II (reGH2)](https://github.com/jillsandwich1998/reGH2) | Static recompilation of Guitar Hero II (PS2) into a native PC port | 32 | 🟢 | C++ |
 | [Mother3Recomp](https://github.com/agray0425/Mother3Recomp) | Static recompilation of MOTHER 3 (GBA) to native PC on the gbarecomp framework | 32 | 🟢 | C++ |
-| [RogueSquadron64Recomp](https://github.com/MikeSemicolonD/RogueSquadron64Recomp) | A fully playable (AI assisted) static recompilation of Star Wars: Rogue Squadron on N64 for the PC, Linux & Android | 32 | 🟢 | C++ |
-| [Super Mario 64 (SM64-PC-Port-WebGL)](https://github.com/NotAn127/SM64-PC-Port-WebGL) | Unofficial native port of Super Mario 64 (N64) | 32 | 🟢 | JavaScript |
+| [Parasite Eve](https://github.com/alexbeavs-ps1-ports/parasite-eve-recomp) | Static recompilation of Parasite Eve (PS1) into a native PC port | 32 | 🟢 | Shell |
+| [Super Smash Bros. Melee](https://github.com/TechProGabe/Melee-X) | Unofficial native port of Super Smash Bros. Melee (GameCube) | 32 | 🟢 | C |
 | [Tenchu: Stealth Assassins](https://github.com/Heromachine/Tenchu-SA-Recomp) | Static recompilation of Tenchu: Stealth Assassins (PS1) into a native PC port | 32 | 🟢 | C# |
 | [GoW2-nativo-PS2 (God of War II)](https://github.com/cxldsakeb/GoW2-nativo-PS2) | Native PC port of God of War II (PS2) via PS2Recomp | 31 | 🟢 | C++ |
+| [HydroThunderPORT](https://github.com/monscriser/HydroThunderPORT) | Experimental Windows and Linux recompilation of Hydro Thunder Hurricane (Xbox 360) | 31 | 🟢 | GLSL |
 | [Metroid](https://github.com/mstan/MetroidNESRecomp) | Static recompilation of Metroid (NES) into a native PC port | 31 | 🟢 | C |
 | [naruto-rise-of-a-ninja-port](https://github.com/Masterllgod/naruto-rise-of-a-ninja-port-nativo) | Naruto: Rise of a Ninja (Xbox 360) running natively on Android ARM64 via static recompilation | 31 | 🟢 |  |
-| [Parasite Eve](https://github.com/alexbeavs-ps1-ports/parasite-eve-recomp) | Static recompilation of Parasite Eve (PS1) into a native PC port | 31 | 🟢 | Shell |
+| [Sonic 3 & Knuckles](https://github.com/mstan/Sonic3AndKnucklesRecomp) | Static recompilation of Sonic 3 & Knuckles (Genesis) into a native PC port | 31 | 🟢 | C |
 | [Tiny Toon Adventures: Buster Busts Loose! (Buster Busts Loose! (PC port))](https://github.com/Darhkfox/BusterBustsLoose) | Unofficial native port of Tiny Toon Adventures: Buster Busts Loose! (SNES) | 31 | 🟢 | C |
 | [Gran Turismo 2 (gt2-multiplayer)](https://github.com/ianitsky/gt2-multiplayer) | Static recompilation of Gran Turismo 2 (PS1) into a native PC port | 30 | 🟢 | C# |
+| [Guitar Hero III: Legends of Rock](https://github.com/luisxl15/Guitar-Hero-3-Recomp-) | Static recompilation of Guitar Hero III: Legends of Rock (Xbox 360) into a native PC port | 30 | 🟢 | Java |
 | [StarWars-RenegadeSquadron-PC](https://github.com/GTTeancum/StarWars-RenegadeSquadron-PC) | Native Windows port of Star Wars Battlefront: Renegade Squadron (PSP) via static recompilation | 30 | 🟢 | C++ |
 | [Street-Fighter-EX2-Plus-Recompiled](https://github.com/strider973/Street-Fighter-EX2-Plus-Recompiled) | Static recompilation of Street Fighter EX2 Plus (PS1) | 30 | 🟢 | Python |
 | [Super Smash Bros. 64 via the BattleShip decompilation decomp](https://github.com/rockenrooster/Smash64DS_Port) | Nintendo DS port of Super Smash Bros. 64 via the BattleShip decompilation | 30 | 🟢 | C |
+| [superman_returns_recomp](https://github.com/MrPowerUp82/superman_returns_recomp) | ReXGlue static recompilation of Superman Returns (Xbox 360) for PC | 30 | 🟢 | C++ |
 | [Blinx 2: Masters of Time and Space](https://github.com/apexJCL/blinx2-recomp) | Static recompilation of Blinx 2: Masters of Time and Space (Xbox) into a native PC port | 29 | 🟢 | C |
 | [defjam_recomp](https://github.com/comoria08/defjam_recomp) | Static recompilation of Def Jam: Fight for NY (Xbox) for Windows | 29 | 🟢 | C |
 | [FFCCEOT-Recomp](https://github.com/JonathanDC64/FFCCEOT-Recomp) | Native PC port of Final Fantasy Crystal Chronicles: Echoes of Time (DS) by static recompilation. Bring your own ROM:... | 29 | 🟢 | C++ |
-| [Guitar Hero III: Legends of Rock](https://github.com/luisxl15/Guitar-Hero-3-Recomp-) | Static recompilation of Guitar Hero III: Legends of Rock (Xbox 360) into a native PC port | 29 | 🟢 | Java |
-| [HydroThunderPORT](https://github.com/monscriser/HydroThunderPORT) | Experimental Windows and Linux recompilation of Hydro Thunder Hurricane (Xbox 360) | 29 | 🟢 | GLSL |
 | [mgb64](https://github.com/akratch/mgb64) | Decompilation-based native PC runtime for GoldenEye 007 | 29 | 🗄️ | C |
 | [oot-dc](https://github.com/jnmartin84/oot-dc) | Port of the Ocarina of Time decompilation to the Sega Dreamcast | 29 | 🟢 | C |
-| [Sonic 3 & Knuckles](https://github.com/mstan/Sonic3AndKnucklesRecomp) | Static recompilation of Sonic 3 & Knuckles (Genesis) into a native PC port | 29 | 🟢 | C |
+| [SacredStonesRecomp](https://github.com/Lordingard/SacredStonesRecomp) | Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA). | 29 | 🟢 | C++ |
+| [Sonic the Hedgehog](https://github.com/mstan/SonicTheHedgehogRecomp) | Static recompilation of Sonic the Hedgehog (Genesis) into a native PC port | 29 | 🟢 | Python |
 | [Tomba! 2: The Evil Swine Return](https://github.com/mstan/Tomba2Recomp) | Static recompilation of Tomba! 2: The Evil Swine Return (PS1) into a native PC port | 29 | 🟢 | C++ |
 | [annepad](https://github.com/chrissotraidis/annepad) | Pokémon Stadium for iPhone and iPad via static recompilation, with native Metal rendering, touch controls, and ROM-fr... | 28 | 🟢 | Shell |
 | [ar-recomp](https://github.com/DerrickGold/ar-recomp) | ActRaiser (SNES) recompilation project | 28 | 🟢 | C |
@@ -5662,125 +5665,124 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [haze-recomp](https://github.com/zdiemer/haze-recomp) | Experimental native Windows port of Haze (PS3) using ps3recomp | 28 | 🟢 | C++ |
 | [htrecomp (Hydro Thunder Hurricane)](https://github.com/visibou/htrecomp) | Native PC build of Hydro Thunder Hurricane (Xbox 360) | 28 | 🟢 | C++ |
 | [Jiggle-or-Physics (Dead or Alive ++)](https://github.com/3dge7161/Jiggle-or-Physics) | Static recompilation of Dead or Alive ++ (Arcade) into a native port | 28 | 🟢 |  |
+| [Mario Party 6 port](https://github.com/iirg4x/mp6-native-port) | Native Windows and Android port of Mario Party 6 built on the GameCube decompilation | 28 | 🟢 | Python |
+| [mh3u-port](https://github.com/glinesbdev/mh3u-port) | Static recompilation of Monster Hunter 3 Ultimate (Wii U) for Windows and Linux | 28 | 🟢 | Rust |
 | [nox-decomp](https://github.com/neuromancer/nox-decomp) | Unofficial Linux port of Nox (2000) from decompiled code | 28 | 🗄️ | C |
-| [SacredStonesRecomp](https://github.com/Lordingard/SacredStonesRecomp) | Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA). | 28 | 🟢 | C++ |
-| [Sonic the Hedgehog](https://github.com/mstan/SonicTheHedgehogRecomp) | Static recompilation of Sonic the Hedgehog (Genesis) into a native PC port | 28 | 🟢 | Python |
+| [Super Mario Advance 2: Super Mario World](https://github.com/mstan/SuperMarioAdvance2Recomp) | Static recompilation of Super Mario Advance 2: Super Mario World (GBA) into a native PC port | 28 | 🟢 | PowerShell |
+| [Super Mario Galaxy (PS5_MarioGalaxy)](https://github.com/griches/PS5_MarioGalaxy) | Static recompilation of Super Mario Galaxy (Wii) into a native PC port | 28 | 🟢 | C++ |
 | [Super Mario Strikers (BallPad)](https://github.com/chrissotraidis/ballpad) | Unofficial native port of Super Mario Strikers (GameCube) | 28 | 🟢 | Objective-C++ |
 | [Vampire Savior: The Lord of Vampire](https://github.com/tmcleroy/vampire-savior-recomp) | Static recompilation of Vampire Savior: The Lord of Vampire (Arcade) into a native PC port | 28 | 🟢 | C++ |
+| [War of the Monsters](https://github.com/yanm1103/War_of_the_Monsters_recomp) | Static recompilation of War of the Monsters (PS2) into a native PC port | 28 | 🟢 | C++ |
 | [Wario Land: Super Mario Land 3](https://github.com/GABRIELNNK/Bigodao) | Static recompilation of Wario Land: Super Mario Land 3 (Game Boy) into a native PC port | 28 | 🟢 | C |
 | [Zombies Ate My Neighbors (Zombies Ate My Neighbors PC Port)](https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port) | Unofficial native port of Zombies Ate My Neighbors (SNES) | 28 | 🟢 | C |
+| [Castlevania](https://github.com/rumbleminze/castlevania-snes) | Unofficial native port of Castlevania (NES) | 27 | 🟢 | Assembly |
 | [doa2u-recomp](https://github.com/parkerallan/doa2u-recomp) | PC port of Dead or Alive 2 Ultimate (Xbox), in progress | 27 | 🟢 | Assembly |
 | [gt4-native](https://github.com/gustavocanepa/gt4-native) | Native PC port of Gran Turismo 4 built on the decompilation (early planning) | 27 | 🟢 | C++ |
 | [Halo 3: Mythic](https://github.com/GTTeancum/OpenH3M) | Static recompilation of Halo 3: Mythic (Xbox 360) into a native PC port | 27 | 🟢 | Python |
 | [MCX360-EDITION](https://github.com/DevZer0D4Y/MCX360-EDITION) | ReXGlue recompilation of Minecraft Xbox 360 Edition running on iOS | 27 | 🟢 | C++ |
-| [mh3u-port](https://github.com/glinesbdev/mh3u-port) | Static recompilation of Monster Hunter 3 Ultimate (Wii U) for Windows and Linux | 27 | 🟢 | Rust |
 | [mm3-recomp](https://github.com/MattSG/mm3-recomp) | Static recompilation of Midtown Madness 3 (Xbox) to native Windows x64 with a Direct3D 11 renderer | 27 | 🟢 | C |
+| [Pokémon Platinum port](https://github.com/GabeSud0/pokeplatinum-3ds) | Native Nintendo 3DS port of Pokémon Platinum built from the pret decompilation | 27 | 🟢 | C |
+| [soulcalibur_vita (Soulcalibur)](https://github.com/Rinnegatamante/soulcalibur_vita) | PS Vita port of Soulcalibur (mobile) via the Android version loader | 27 | 🟢 | C |
 | [Super Mario 64 (SMUE5)](https://github.com/TheEnbyWitch/SMUE5) | Unofficial native port of Super Mario 64 (N64) | 27 | 🔴 | C++ |
-| [Super Mario Advance 2: Super Mario World](https://github.com/mstan/SuperMarioAdvance2Recomp) | Static recompilation of Super Mario Advance 2: Super Mario World (GBA) into a native PC port | 27 | 🟢 | PowerShell |
-| [Super Mario Galaxy (PS5_MarioGalaxy)](https://github.com/griches/PS5_MarioGalaxy) | Static recompilation of Super Mario Galaxy (Wii) into a native PC port | 27 | 🟢 | C++ |
-| [War of the Monsters](https://github.com/yanm1103/War_of_the_Monsters_recomp) | Static recompilation of War of the Monsters (PS2) into a native PC port | 27 | 🟢 | C++ |
 | [arcade-js](https://github.com/qarl/arcade-js) | Arcade ROMs decompiled to idiomatic JavaScript with LLMs, validated against MAME | 26 | 🟢 | JavaScript |
 | [arwing](https://github.com/carl0srmz/arwing) | Star Fox recompilation and PC port with quality-of-life improvements | 26 | 🟢 | Assembly |
 | [Astral Chain (AC-Recomp)](https://github.com/swaymun/AC-Recomp) | Static recompilation of Astral Chain (Switch) into a native PC port | 26 | 🟢 | Python |
-| [Castlevania](https://github.com/rumbleminze/castlevania-snes) | Unofficial native port of Castlevania (NES) | 26 | 🟢 | Assembly |
 | [dk64-recomp-android (Donkey Kong 64)](https://github.com/deivid22srk/dk64-recomp-android) | Android port of Donkey Kong 64: Recompiled using RT64 and N64ModernRuntime | 26 | 🟢 | C |
+| [Final Fantasy XI](https://github.com/rubymatrix/xi-on-anything) | Static recompilation of Final Fantasy XI (PC) into a native PC port | 26 | 🟢 | C |
 | [FinFanTacRecomp](https://github.com/NJH-1001/FinFanTacRecomp) | PSXRecomp native Windows port of Final Fantasy Tactics (PS1) with 16:9 option | 26 | 🟢 | Python |
 | [KillzoneLiberation-Recomp](https://github.com/Tzeentchnet/KillzoneLiberation-Recomp) | Static recompilation of Killzone: Liberation (PSP) for Windows/Direct3D 12 | 26 | 🟢 | Python |
-| [Mario Party 6 port](https://github.com/iirg4x/mp6-native-port) | Native Windows and Android port of Mario Party 6 built on the GameCube decompilation | 26 | 🟢 | Python |
 | [master-chef](https://github.com/mitchaiet/master-chef) | Unofficial native Halo: Combat Evolved for Apple Vision Pro. Immersive panorama, controller support, and visual mods.... | 26 | 🟢 | C |
 | [midnightclub](https://github.com/zarif98/midnightclub) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) using rexGlu SDK | 26 | 🟢 | C++ |
-| [Pokémon Platinum port](https://github.com/GabeSud0/pokeplatinum-3ds) | Native Nintendo 3DS port of Pokémon Platinum built from the pret decompilation | 26 | 🟢 | C |
 | [Pokémon Ruby and Pokémon Sapphire](https://github.com/mstan/RubySapphireRecomp) | Static recompilation of Pokémon Ruby and Pokémon Sapphire (GBA) into a native PC port | 26 | 🟢 | Python |
-| [soulcalibur_vita (Soulcalibur)](https://github.com/Rinnegatamante/soulcalibur_vita) | PS Vita port of Soulcalibur (mobile) via the Android version loader | 26 | 🟢 | C |
-| [superman_returns_recomp](https://github.com/MrPowerUp82/superman_returns_recomp) | ReXGlue static recompilation of Superman Returns (Xbox 360) for PC | 26 | 🟢 | C++ |
+| [Road Trip](https://github.com/silentsudin/RoadTripAdventure-recomp) | Static recompilation of Road Trip (PS2) into a native PC port | 26 | 🟢 | C++ |
+| [Saints Row](https://github.com/sp00nznet/saintsrow) | Static recompilation of Saints Row (Xbox 360) into a native PC port | 26 | 🟢 | C++ |
+| [Space-Channel-5](https://github.com/ZoomiesZaggy/Space-Channel-5) | Unofficial native Space Channel 5 port for Windows, Linux and macOS. Compiler-free downloads, display options, contro... | 26 | 🟢 | C |
 | [The Legend of Zelda: Oracle of Ages / Oracle of Seasons](https://github.com/ZakyPew/epoch-equinox) | Static recompilation of The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Game Boy Color) into a... | 26 | 🟢 | C |
+| [The Urbz: Sims in the City](https://github.com/abilliontokens/urbz-recomp) | Static recompilation of The Urbz: Sims in the City (Xbox) into a native PC port | 26 | 🟢 | C++ |
 | [trials-hd-recompiled](https://github.com/snufflyyy/trials-hd-recompiled) | Static recompilation of Trials HD (Xbox 360) | 26 | 🟢 | C++ |
 | [Ace Combat 3: Electrosphere](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp) | Static recompilation of Ace Combat 3: Electrosphere (PS1) into a native PC port | 25 | 🟢 | Python |
 | [Breath of Fire III (Breath of Fire III - PC Port)](https://github.com/kerokline/BreathOfFire3PCPort) | Unofficial native port of Breath of Fire III (PS1) | 25 | 🟢 | C++ |
-| [Final Fantasy XI](https://github.com/rubymatrix/xi-on-anything) | Static recompilation of Final Fantasy XI (PC) into a native PC port | 25 | 🟢 | C |
 | [Forza Horizon](https://github.com/deivid22srk/pinyon-shift-android) | Static recompilation of Forza Horizon (Xbox 360) into a native PC port | 25 | 🟢 | C++ |
 | [Life Force](https://github.com/rumbleminze/lifeforce-snes) | Unofficial native port of Life Force (NES) | 25 | 🟡 | Assembly |
 | [Mega Man Zero](https://github.com/mstan/MegaManZeroRecomp) | Static recompilation of Mega Man Zero (GBA) into a native PC port | 25 | 🟢 | C++ |
-| [nfs-mw](https://github.com/47PADO47/nfs-mw) | 🦀 Rust rewrite of Need for Speed: Most Wanted (2005, PC v1.3 / Black Edition) with bevy engine | 25 | 🟢 | Rust |
 | [OpenEmperor](https://github.com/oliverjessner/OpenEmperor) | 🤴🏼 Clean-room reimplementation of Emperor: Rise of the Middle Kingdom in C++20 and SDL3. Built for modern systems, st... | 25 | 🟢 | C++ |
-| [Road Trip](https://github.com/silentsudin/RoadTripAdventure-recomp) | Static recompilation of Road Trip (PS2) into a native PC port | 25 | 🟢 | C++ |
-| [Saints Row](https://github.com/sp00nznet/saintsrow) | Static recompilation of Saints Row (Xbox 360) into a native PC port | 25 | 🟢 | C++ |
-| [Space-Channel-5](https://github.com/ZoomiesZaggy/Space-Channel-5) | Unofficial native Space Channel 5 port for Windows, Linux and macOS. Compiler-free downloads, display options, contro... | 25 | 🟢 | C |
+| [ps1-recomp](https://github.com/PS1Recomp/ps1-recomp) | Tool that statically recompiles PS1 game binaries into native C++ executables | 25 | 🟢 | C++ |
+| [psp_jgr_portable](https://github.com/beckerd/psp_jgr_portable) | Native PSP port of Jet Grind Radio | 25 | 🟢 | C |
+| [ReCompiledSteel](https://github.com/tokeneffortports/ReCompiledSteel) | Real Steel (Xbox 360) recompiled to native code for Windows, Linux and Android | 25 | 🟢 | C++ |
 | [starwing-3ds (Star Fox)](https://github.com/EstebanPdN/starwing-3ds) | Nintendo 3DS dual-screen port of Star Fox / Starwing (SNES) | 25 | 🟢 | C++ |
 | [The Legend of Zelda: The Wind Waker HD (Wind Waker HD for PlayStation 5)](https://github.com/griches/PS5_WindWakerHD) | Static recompilation of The Legend of Zelda: The Wind Waker HD (Wii U) into a native PC port | 25 | 🟢 | C |
-| [The Urbz: Sims in the City](https://github.com/abilliontokens/urbz-recomp) | Static recompilation of The Urbz: Sims in the City (Xbox) into a native PC port | 25 | 🟢 | C++ |
 | [twisted-metal-2012-ps3-native-port](https://github.com/franklincg/twisted-metal-2012-ps3-native-port) | Community native PC recompilation of Twisted Metal (2012, PS3) | 25 | 🟢 | C |
 | [WarioWare: Twisted!](https://github.com/mstan/WarioWareTwistedRecomp) | Static recompilation of WarioWare: Twisted! (GBA) into a native PC port | 25 | 🟢 | Python |
 | [Wii Party](https://github.com/arelkair/wiiparty-recomp) | Static recompilation of Wii Party (Wii) into a native PC port | 25 | 🟢 | C++ |
+| [WWFWrestleMania2000Recomp](https://github.com/jessetbh/WWFWrestleMania2000Recomp) | WWF WrestleMania 2000 N64 static recompilation | 25 | 🟢 | Python |
+| [Breakdown](https://github.com/Heromachine/Breakdown-Recompilation) | Static recompilation of Breakdown (Xbox) into a native PC port | 24 | 🟢 | C |
 | [Burnout 3](https://github.com/mxmstr/Burnout3Recomp) | Static recompilation of Burnout 3 (Xbox) into a native PC port | 24 | 🟢 | C++ |
 | [Earthworm Jim 2 (Earthworm Jim 2 Recompiled)](https://github.com/elprogramadorloco-arch/jim2-recomp) | Static recompilation of Earthworm Jim 2 (PS1) into a native PC port | 24 | 🟢 | PowerShell |
 | [Glover-R](https://github.com/ThatGuyMcd/Glover-R) | Static recompilation of the N64 game Glover to native PC | 24 | 🟢 | Python |
 | [keensource456tandy (Commander Keen in Goodbye, Galaxy!)](https://github.com/FrenkelS/keensource456tandy) | Unofficial native port of Commander Keen in Goodbye, Galaxy! (DOS) | 24 | 🟡 | C |
 | [LibertyRecomp](https://github.com/hamishakl/LibertyRecomp) | Unofficial PC port of the Xbox 360 version of GTA IV via static recompilation | 24 | 🟢 | C++ |
+| [nfs-mw](https://github.com/47PADO47/nfs-mw) | 🦀 Rust rewrite of Need for Speed: Most Wanted (2005, PC v1.3 / Black Edition) with bevy engine | 24 | 🟢 | Rust |
 | [Project Arwing 2](https://github.com/carl0srmz/arwing2) | Native rebuild of Star Fox 2 (SNES) from a 65816 and SuperFX disassembly | 24 | 🟢 | Assembly |
-| [ps1-recomp](https://github.com/PS1Recomp/ps1-recomp) | Tool that statically recompiles PS1 game binaries into native C++ executables | 24 | 🟢 | C++ |
-| [psp_jgr_portable](https://github.com/beckerd/psp_jgr_portable) | Native PSP port of Jet Grind Radio | 24 | 🟢 | C |
 | [skifree_sdl](https://github.com/jeff-1amstudios/skifree_sdl) | SkiFree decompiled and ported to SDL2 | 24 | 🟢 | C |
+| [Super Mario Advance 4: Super Mario Bros. 3](https://github.com/mstan/SuperMarioAdvance4Recomp) | Static recompilation of Super Mario Advance 4: Super Mario Bros. 3 (GBA) into a native PC port | 24 | 🟢 | PowerShell |
 | [testdrive-enhanced (Test Drive)](https://github.com/kylofon/testdrive-enhanced) | Enhanced native SDL3 port of Test Drive (1987, DOS) | 24 | 🟢 | C |
+| [Thrill Drive 2 (konami-viper-recomp)](https://github.com/spita90/konami-viper-recomp) | Static recompilation of Thrill Drive 2 (Arcade) into a native PC port | 24 | 🟢 | C++ |
+| [Twisted Metal](https://github.com/sp00nznet/twistedmetal) | Static recompilation of Twisted Metal (PS3) into a native PC port | 24 | 🟢 | C++ |
 | [WWE-SVR2007-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP) | Static recompilation of WWE SmackDown vs. Raw 2007 (Xbox 360) for Windows | 24 | 🟢 | C++ |
-| [WWFWrestleMania2000Recomp](https://github.com/jessetbh/WWFWrestleMania2000Recomp) | WWF WrestleMania 2000 N64 static recompilation | 24 | 🟢 | Python |
 | [Animal Crossing (Animal Crossing PC Port - Deluxe Edition)](https://github.com/imcynic/ACGC-Deluxe-PC-Port) | Unofficial native port of Animal Crossing (GameCube) | 23 | 🟢 | C |
+| [BOTWRecomp](https://github.com/vasist15-source/BOTWRecomp) | Breath of the Wild (Wii U 1.5.0) statically recompiled to native macOS/Metal | 23 | 🟢 | C |
 | [BullyRecomp](https://github.com/coole42-pixel/BullyRecomp) | Static recompilation of Bully: Scholarship Edition (Xbox 360) to native Windows x64 using ReXGlue | 23 | 🟢 | C++ |
+| [BurnoutDominatorReversed](https://github.com/literalynn/BurnoutDominatorReversed) | Burnout Dominator (PS2) recompiled into a native PC game | 23 | 🟢 | C++ |
 | [Crash Bandicoot 3: Warped](https://github.com/alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp) | Static recompilation of Crash Bandicoot 3: Warped (PS1) into a native PC port | 23 | 🟢 | Python |
 | [demoscene-recomp](https://github.com/treylorswift/demoscene-recomp) | Classic DOS demoscene productions recompiled to run natively in the browser | 23 | 🟢 | JavaScript |
 | [Dragon Ball Z: Super Saiya Densetsu](https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust) | Static recompilation of Dragon Ball Z: Super Saiya Densetsu (SNES) into a native PC port | 23 | 🟢 | Rust |
 | [Final Fantasy VIII](https://github.com/alexbeavs-ps1-ports/final-fantasy-viii-recomp) | Static recompilation of Final Fantasy VIII (PS1) into a native PC port | 23 | 🟢 | Python |
+| [gd-melee-workspace](https://github.com/GurekamDhillon/gd-melee-workspace) | Native PC port of Super Smash Bros. Melee with rollback netplay and mod support | 23 | 🟢 | Python |
 | [kotor-recomp](https://github.com/sp00nznet/kotor-recomp) | Static recompilation of Star Wars: Knights of the Old Republic (PC) to native C | 23 | 🟢 | C |
 | [Mabecs International Superstar Soccer 2000](https://github.com/Mabec-games/iss2000-recomp) | Static recompilation of Mabecs International Superstar Soccer 2000 (N64) into a native PC port | 23 | 🟢 | C++ |
+| [Mario's Tennis](https://github.com/mstan/MarioTennisVirtualBoyRecomp) | Static recompilation of Mario's Tennis (Virtual Boy) into a native PC port | 23 | 🟢 | C |
+| [Metal Gear Solid (mgsone-recomp)](https://github.com/coccofresco/mgsone-recomp) | Static recompilation of Metal Gear Solid (PS1) into a native PC port | 23 | 🟢 | C++ |
 | [MidnightclubLA-Recomp](https://github.com/BeemerCodes/MidnightclubLA-Recomp) | Unofficial native PC port of Midnight Club: Los Angeles (Xbox 360) via static recompilation | 23 | 🟢 | C++ |
 | [pspoke](https://github.com/IbrahimIrfan/pspoke) | Pokemon Platinum and SoulSilver running natively on the PSP | 23 | 🟢 | C |
-| [ReCompiledSteel](https://github.com/tokeneffortports/ReCompiledSteel) | Real Steel (Xbox 360) recompiled to native code for Windows, Linux and Android | 23 | 🟢 | C++ |
 | [Scooby-Doo! Unmasked](https://github.com/josiahg2502-glitch/Scooby-Doo-ReMasked) | Static recompilation of Scooby-Doo! Unmasked (GameCube) into a native PC port | 23 | 🟢 | C++ |
 | [Sonic Adventure 2: Battle (sa2-nx)](https://github.com/ChanseyIsTheBest/sa2-nx) | Static recompilation of Sonic Adventure 2: Battle (GameCube) into a native PC port | 23 | 🟢 | C++ |
 | [SpaceRanger](https://github.com/woodys-workshop/SpaceRanger) | Native PC port of Toy Story 2: Buzz Lightyear to the Rescue (N64) via static recompilation | 23 | 🟢 | C++ |
-| [Super Mario Advance 4: Super Mario Bros. 3](https://github.com/mstan/SuperMarioAdvance4Recomp) | Static recompilation of Super Mario Advance 4: Super Mario Bros. 3 (GBA) into a native PC port | 23 | 🟢 | PowerShell |
 | [Super Mario Bros.](https://github.com/pwsqrd/lynx_smb) | Unofficial native port of Super Mario Bros. (NES) | 23 | 🟢 | Assembly |
-| [Twisted Metal](https://github.com/sp00nznet/twistedmetal) | Static recompilation of Twisted Metal (PS3) into a native PC port | 23 | 🟢 | C++ |
+| [VagrantStory](https://github.com/riotashley81-jpg/vagrantstory_recomp) | Static recompilation of VagrantStory (PS1) into a native PC port | 23 | 🟢 | C |
 | [X-Men Mutant Academy 2](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) | Recomp of the PS1 game X-Men Mutant Academy 2. | 23 | 🟢 | Python |
+| [AkiLauncher](https://github.com/jessetbh/AkiLauncher) | Launcher for the AKI N64 wrestling static recompilations | 22 | 🟢 | C++ |
 | [ArmyOfTwo-Recomp](https://github.com/Genesis5500/ArmyOfTwo-Recomp) | Experimental native PC port of Army of Two (Xbox 360) via ReXGlue static recompilation | 22 | 🟢 | C++ |
 | [AstroSmash (J2ME)](https://github.com/EXL/AstroSmash) | Port of the AstroSmash J2ME game to Android | 22 | 🔴 | Java |
-| [BOTWRecomp](https://github.com/vasist15-source/BOTWRecomp) | Breath of the Wild (Wii U 1.5.0) statically recompiled to native macOS/Metal | 22 | 🟢 | C |
-| [Breakdown](https://github.com/Heromachine/Breakdown-Recompilation) | Static recompilation of Breakdown (Xbox) into a native PC port | 22 | 🟢 | C |
 | [Dino Crisis 2](https://github.com/alexbeavs-ps1-ports/dino-crisis-2-recomp) | Static recompilation of Dino Crisis 2 (PS1) into a native PC port | 22 | 🟢 | Python |
+| [DoomSNESRecomp](https://github.com/Cacodemontube/DoomSNESRecomp) | This is a PC Recomp of the SNES Version of Doom using SNESrecomp. | 22 | 🟢 | C |
 | [ff4a_vita (Final Fantasy IV: The After Years)](https://github.com/Rinnegatamante/ff4a_vita) | PS Vita port of Final Fantasy IV: The After Years via the Android version loader | 22 | 🔴 | C |
 | [Final Fantasy IX](https://github.com/alexbeavs-ps1-ports/final-fantasy-ix-recomp) | Static recompilation of Final Fantasy IX (PS1) into a native PC port | 22 | 🟢 | Python |
-| [gd-melee-workspace](https://github.com/GurekamDhillon/gd-melee-workspace) | Native PC port of Super Smash Bros. Melee with rollback netplay and mod support | 22 | 🟢 | Python |
 | [GoldenEye 007](https://github.com/cblock85/GoldenEye64Recomp) | Static recompilation of GoldenEye 007 (N64) into a native PC port | 22 | 🟢 | C++ |
 | [layton-vita (Professor Layton)](https://github.com/Rinnegatamante/layton-vita) | PS Vita port of Professor Layton and the Curious Village HD via the Android version loader | 22 | 🔴 | C |
 | [Legend of Legaia](https://github.com/SamSteProjects/legend-of-legaia-recomp) | Static recompilation of Legend of Legaia (PS1) into a native PC port | 22 | 🟢 | PowerShell |
-| [Mario's Tennis](https://github.com/mstan/MarioTennisVirtualBoyRecomp) | Static recompilation of Mario's Tennis (Virtual Boy) into a native PC port | 22 | 🟢 | C |
 | [Modern Combat 2: Black Pegasus ( BackStabRecomp)](https://github.com/jessicanataliagta/AndroidRecomp) | Static recompilation of Modern Combat 2: Black Pegasus (Mobile) into a native PC port | 22 | 🟢 | Python |
 | [Prehistorik 2 (missingno7 pre2_port (dos_re))](https://github.com/missingno7/pre2_port) | Unofficial native port of Prehistorik 2 (DOS) | 22 | 🟢 | Python |
 | [Project-Iron-6](https://github.com/GenryTheFox0/Project-Iron-6) | Unofficial Tekken 6 Xbox 360 to Windows static recompilation | 22 | 🟢 |  |
 | [Sonic Generations (Sonic-Generations-recomp-android-and-pc-edition)](https://github.com/Player124413/Sonic-Generations-recomp-android-and-pc-edition) | Static recompilation of Sonic Generations (Xbox 360) into a native PC port | 22 | 🟢 | C++ |
 | [StarCraft: Ghost](https://github.com/aknavj/scghost-recomp) | Static recompilation of StarCraft: Ghost (Xbox) into a native PC port | 22 | 🟢 | C |
-| [Thrill Drive 2 (konami-viper-recomp)](https://github.com/spita90/konami-viper-recomp) | Static recompilation of Thrill Drive 2 (Arcade) into a native PC port | 22 | 🟢 | C++ |
+| [The Legend of Zelda: A Link to the Past](https://github.com/YeOldPress/alttp-dx) | Unofficial native port of The Legend of Zelda: A Link to the Past (SNES) | 22 | 🟢 | Zig |
+| [Wild9Recomp](https://github.com/plinkr/Wild9Recomp) | Native PC port of Wild 9 (PS1) via static recompilation | 22 | 🟢 | C |
 | [Wipeout Pure](https://github.com/erreib/pure-recomp) | Static recompilation of Wipeout Pure (PSP) into a native PC port | 22 | 🟢 | Python |
 | [wwe2k16-pc](https://github.com/itsbybanshee/wwe2k16-pc) | Static recompilation of WWE 2K16 for PC | 22 | 🟢 | C# |
-| [AkiLauncher](https://github.com/jessetbh/AkiLauncher) | Launcher for the AKI N64 wrestling static recompilations | 21 | 🟢 | C++ |
 | [Armored Core](https://github.com/omegakatana92/Armored-Core-Recomp) | Static recompilation of Armored Core (PS1) into a native PC port | 21 | 🟢 | C |
 | [BattleTanx: Global Assault (Native PC Port)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port) | Unofficial native port of BattleTanx: Global Assault (N64) | 21 | 🟢 | C |
-| [BurnoutDominatorReversed](https://github.com/literalynn/BurnoutDominatorReversed) | Burnout Dominator (PS2) recompiled into a native PC game | 21 | 🟢 | C++ |
 | [Dino Crisis](https://github.com/alexbeavs-ps1-ports/dino-crisis-recomp) | Static recompilation of Dino Crisis (PS1) into a native PC port | 21 | 🟢 | Python |
-| [DoomSNESRecomp](https://github.com/Cacodemontube/DoomSNESRecomp) | This is a PC Recomp of the SNES Version of Doom using SNESrecomp. | 21 | 🟢 | C |
 | [fear-nx](https://github.com/infriker/fear-nx) | F.E.A.R. (Xbox 360) running natively on Switch with ReXGlue and Vulkan | 21 | 🟢 | C++ |
 | [Flappy Bird (reFlappy)](https://github.com/THEN00P/reFlappy) | Static recompilation of Flappy Bird (Mobile) into a native PC port | 21 | 🟡 | Java |
 | [Hybrid Heaven](https://github.com/ogdanimal/HybridHeaven-Recomp) | Static recompilation of Hybrid Heaven (N64) into a native PC port | 21 | 🟢 | C++ |
-| [Metal Gear Solid (mgsone-recomp)](https://github.com/coccofresco/mgsone-recomp) | Static recompilation of Metal Gear Solid (PS1) into a native PC port | 21 | 🟢 | C++ |
 | [re-stunts](https://github.com/CommonLoon102/restunts-bb11) | Recomp of the game Stunts. Original and enhanced versions. | 21 | 🟢 | C |
 | [Sega Superstars Tennis](https://github.com/m1ndcrap/Sega-Superstars-Tennis-ReMatch) | Static recompilation of Sega Superstars Tennis (Xbox 360) into a native PC port | 21 | 🟢 | C++ |
 | [Shadow of the Colossus](https://github.com/sp00nznet/shadowofthecolossus) | Static recompilation of Shadow of the Colossus (PS3) into a native PC port | 21 | 🟢 | CMake |
+| [SVR2011-Recomp](https://github.com/shaneomac1337/SVR2011-Recomp) | Unofficial Windows version of WWE SmackDown vs. Raw 2011 (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 21 | 🟢 | C++ |
 | [Test Drive Unlimited](https://github.com/testdriveupgrade/TDURE) | Xbox 360 static recompilation of Test Drive Unlimited | 21 | 🟢 | C++ |
-| [The Legend of Zelda: A Link to the Past](https://github.com/YeOldPress/alttp-dx) | Unofficial native port of The Legend of Zelda: A Link to the Past (SNES) | 21 | 🟢 | Zig |
-| [VagrantStory](https://github.com/riotashley81-jpg/vagrantstory_recomp) | Static recompilation of VagrantStory (PS1) into a native PC port | 21 | 🟢 | C |
-| [Wild9Recomp](https://github.com/plinkr/Wild9Recomp) | Native PC port of Wild 9 (PS1) via static recompilation | 21 | 🟢 | C |
 | [Apocalypse-PC-Native-Port](https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port) | Unofficial native port of Apocalypse (PS1) | 20 | 🟢 |  |
 | [Black & White](https://github.com/sp00nznet/bw) | Static recompilation of Black & White (PC) into a native PC port | 20 | 🟢 | C++ |
+| [Burnout CRASH!](https://github.com/kiesxoxo/burnout-crash-recomp) | Static recompilation of Burnout CRASH! (Xbox 360) into a native PC port | 20 | 🟢 | C++ |
 | [Call of Duty: Future Warfare](https://github.com/goshavindtburg/NX1recomp) | Static recompilation of Call of Duty: Future Warfare (Xbox 360) into a native PC port | 20 | 🟢 | C |
 | [callofrecomp](https://github.com/Dr3amyBerry/callofrecomp) | Static recompilation of Call of Duty 1.5 (PC) for Android | 20 | 🟢 | Python |
 | [Die Hard Trilogy](https://github.com/alexbeavs-ps1-ports/die-hard-trilogy-recomp) | Static recompilation of Die Hard Trilogy (PS1) into a native PC port | 20 | 🟢 | Python |
@@ -5790,19 +5792,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Gow2HD-Windows](https://github.com/sethlikepie/Gow2HD-Windows) | Static recompilation of God of War II HD (PS3) to Windows | 20 | 🟢 | Python |
 | [Herculan](https://github.com/kevinfoley/Herculan) | Recomp of Earthsiege 2 by Dynamix. | 20 | 🟢 | C# |
 | [Hexagon-recomp](https://github.com/arvo-concept/Hexagon-recomp) | Static recompiler that turns PS3 PowerPC executables into native Android (AArch64) apps | 20 | 🟢 |  |
+| [Legends-Recomp (Rayman Legends)](https://github.com/edeegg/Legends-Recomp) | Static recompilation of Rayman Legends (Xbox 360) into a native port | 20 | 🟢 |  |
 | [lego-dimensions-pc](https://github.com/vascon-es/lego-dimensions-pc) | Unofficial native Windows port of LEGO Dimensions (PS4) | 20 | 🟢 | C++ |
 | [Mario Party 3](https://github.com/Rainchus/MarioParty3-Recomp) | Static recompilation of Mario Party 3 (N64) into a native PC port | 20 | 🟢 | C++ |
 | [muscle-march-recomp](https://github.com/tmcleroy/muscle-march-recomp) | Unofficial native PC port of Muscle March (WiiWare) via static recompilation: macOS, Linux, Steam Deck, Windows. Requ... | 20 | 🟢 | C++ |
+| [neogeorecomp](https://github.com/sp00nznet/neogeorecomp) | Static recompilation runtime for SNK Neo Geo MVS/AES games | 20 | 🟢 | C |
 | [scooby-doo-mystery port](https://github.com/janezkranjc/scooby-doo-mistery-mouse-version) | Native SFML port of Sega Genesis Scooby-Doo Mystery from reverse-engineered 68000 code | 20 | 🟢 | C++ |
 | [snesrecomp (sp00nznet)](https://github.com/sp00nznet/snesrecomp) | SNES hardware layer for static recompilation projects | 20 | 🟢 | C |
 | [Sonic Advance](https://github.com/smiluredev/SonicAdvanceRecomp) | Static recompilation of Sonic Advance (GBA) into a native PC port | 20 | 🟢 | C |
 | [starshippad (Star Fox 64)](https://github.com/chrissotraidis/starshippad) | Star Fox 64 (Starship) port for iPhone and iPad with Metal rendering | 20 | 🟢 | Shell |
 | [Super Mario Land 2: 6 Golden Coins (SuperMarioLand2Recomp)](https://github.com/mstan/SuperMarioLand2Recomp) | Static recompilation of Super Mario Land 2: 6 Golden Coins (Game Boy) into a native PC port | 20 | 🟢 | Python |
-| [SVR2011-Recomp](https://github.com/shaneomac1337/SVR2011-Recomp) | Unofficial Windows version of WWE SmackDown vs. Raw 2011 (Xbox 360), recompiled with ReXGlue. Bring your own disc image. | 20 | 🟢 | C++ |
+| [Super Mario RPG: Legend of the Seven Stars](https://github.com/mstan/SuperMarioRPGRecomp) | Static recompilation of Super Mario RPG: Legend of the Seven Stars (SNES) into a native PC port | 20 | 🟢 | C |
 | [weltendaemmerung](https://github.com/s-macke/weltendaemmerung) | Reverse engineering a C64 game with AI and porting it to the web | 20 | 🟢 | Assembly |
+| [Battle Arena Toshinden (Battle Arena Toshinden Recompiled)](https://github.com/mstan/BattleArenaToshindenRecomp) | Static recompilation of Battle Arena Toshinden (PS1) into a native PC port | 19 | 🟢 | C |
 | [brawlerpad (Super Smash Bros.)](https://github.com/chrissotraidis/brawlerpad) | Super Smash Bros. (N64) port for macOS, iOS and iPadOS | 19 | 🟢 | Shell |
 | [Breath of Fire III](https://github.com/kerokline/BreathOfFire3Recomp) | Static recompilation of Breath of Fire III (PS1) into a native PC port | 19 | 🟢 | Python |
-| [Burnout CRASH!](https://github.com/kiesxoxo/burnout-crash-recomp) | Static recompilation of Burnout CRASH! (Xbox 360) into a native PC port | 19 | 🟢 | C++ |
 | [clockwork](https://github.com/watchmakerers/clockwork) | Native PC versions of the Yo-kai Watch 3DS games by static recompilation | 19 | 🟢 | C++ |
 | [Conan](https://github.com/crazyriddler/Conan2007Recomp) | Static recompilation of Conan (Xbox 360) into a native PC port | 19 | 🟢 | HLSL |
 | [CV64Recomp](https://github.com/RevoSucks/CV64Recomp) | A recompilation of Castlevania for the N64. | 19 | 🟢 | C |
@@ -5810,64 +5814,65 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [drmario64_recomp (Dr. Mario 64)](https://github.com/AngheloAlf/drmario64_recomp) | Static recompilation of Dr. Mario 64 (N64) | 19 | 🗄️ | C++ |
 | [Forza Horizon 2](https://github.com/fabioap-cpu/Forza-Horizon-2-Recomp) | Static recompilation of Forza Horizon 2 (Xbox 360) into a native PC port | 19 | 🟢 | C |
 | [GoldenEye 007 (GoldenEye-Recomp-Server (online play for GoldenEye recomp))](https://github.com/SunJaycy/GoldenEye-Recomp-Server) | Static recompilation of GoldenEye 007 (N64) into a native PC port | 19 | 🟢 | C++ |
+| [Import Tuner Challenge](https://github.com/Spooky098529/ITC-Recomp) | Static recompilation of Import Tuner Challenge (Xbox 360) into a native PC port | 19 | 🟢 | C++ |
 | [infamous2-recomp](https://github.com/erikomis/infamous2-recomp) | Static recompilation of inFAMOUS 2 (PS3) to native macOS with ps3recomp | 19 | 🟢 | Rust |
-| [Legends-Recomp (Rayman Legends)](https://github.com/edeegg/Legends-Recomp) | Static recompilation of Rayman Legends (Xbox 360) into a native port | 19 | 🟢 |  |
 | [Marble Blast Gold (OpenMBG)](https://github.com/The-New-Platinum-Team/OpenMBG) | Unofficial native port of Marble Blast Gold (PC) | 19 | 🟢 | C++ |
 | [Mario Kart 64 (MK64Recomp)](https://github.com/arefdsg/MK64Recomp) | Static recompilation of Mario Kart 64 (N64) into a native PC port | 19 | 🟢 | C++ |
 | [MediEvil II](https://github.com/alexbeavs-ps1-ports/medievil-ii-recomp) | Static recompilation of MediEvil II (PS1) into a native PC port | 19 | 🟢 | C++ |
-| [neogeorecomp](https://github.com/sp00nznet/neogeorecomp) | Static recompilation runtime for SNK Neo Geo MVS/AES games | 19 | 🟢 | C |
+| [Mystical Ninja Starring Goemon](https://github.com/ogdanimal/Goemon64Recomp-Android) | Static recompilation of Mystical Ninja Starring Goemon (N64) into a native PC port | 19 | 🟢 | C |
+| [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/Asphaltian/pmd-green) | Static recompilation of Pokémon Mystery Dungeon: Red Rescue Team (GBA) into a native PC port | 19 | 🟢 | C# |
+| [racer (Star Wars Episode I: Racer)](https://github.com/sp00nznet/racer) | Static recompilation of Star Wars Episode I: Racer (N64) to native PC | 19 | 🟢 | C++ |
 | [Sonic Advance decomp](https://github.com/ImmutableOctet/sonicgba) | Cross-platform port of Sonic Advance (GBA) | 19 | 🔴 | Monkey |
 | [Sonic CD (SonicCD-DC)](https://github.com/DCRSDK/SonicCD-DC) | Unofficial native port of Sonic CD (PC) | 19 | 🟢 | C++ |
 | [Super Mario Bros. 35 (SM35 Recomp)](https://github.com/sm35recomp/sm35recomp) | Static recompilation of Super Mario Bros. 35 (Switch) into a native PC port | 19 | 🟢 | C |
-| [Super Mario RPG: Legend of the Seven Stars](https://github.com/mstan/SuperMarioRPGRecomp) | Static recompilation of Super Mario RPG: Legend of the Seven Stars (SNES) into a native PC port | 19 | 🟢 | C |
+| [Tekken 3](https://github.com/Mabec-games/Tekken-3-for-Linux) | Static recompilation of Tekken 3 (PS1) into a native PC port | 19 | 🟢 | C++ |
 | [The Simpsons Game (the-simpsons-game-nx)](https://github.com/R-drg/the-simpsons-game-nx) | Static recompilation of The Simpsons Game (Xbox 360) into a native PC port | 19 | 🟢 | C++ |
 | [tiberiansun-recomp](https://github.com/sp00nznet/tiberiansun-recomp) | Static recompilation of Command & Conquer: Tiberian Sun and Firestorm | 19 | 🟢 | C |
-| [Battle Arena Toshinden (Battle Arena Toshinden Recompiled)](https://github.com/mstan/BattleArenaToshindenRecomp) | Static recompilation of Battle Arena Toshinden (PS1) into a native PC port | 18 | 🟢 | C |
+| [Top-Gear-SNES-Static-Recomp](https://github.com/Junior-Jones/Top-Gear-SNES-Static-Recomp) | Static recompilation of Top Gear (SNES) for Windows 10 and 11. ROM not included. | 19 | 🟢 | C |
 | [bearbirdpad (Banjo-Kazooie)](https://github.com/chrissotraidis/bearbirdpad) | Banjo-Kazooie on iPhone and iPad via BanjoRecomp with Metal rendering | 18 | 🟢 | Objective-C++ |
 | [cod3-recomp](https://github.com/jxnplays/cod3-recomp) | Call of Duty 3 (Xbox 360) recompiled to native x86-64 for Windows | 18 | 🟢 | C++ |
 | [Death-Road-to-Canada-Lite](https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite) | PS Vita port of Death Road to Canada via the Android version loader | 18 | 🔴 | C |
 | [Digimon World 3 (D-W-3-Recomp)](https://github.com/Xive080/D-W-3-Recomp) | Static recompilation of Digimon World 3 (PS1) into a native PC port | 18 | 🟢 |  |
+| [Duck Hunt](https://github.com/mstan/DuckHuntNESRecomp) | Static recompilation of Duck Hunt (NES) into a native PC port | 18 | 🟢 | C |
+| [FuseRecomp](https://github.com/nikolaygorb/FuseRecomp) | RexGlue static recompilation of Fuse (Xbox 360) | 18 | 🟢 | C++ |
 | [ido-static-recomp](https://github.com/Emill/ido-static-recomp) | Static recompilation of the SGI IDO compiler used to build N64 decompilations | 18 | 🔴 | C++ |
-| [Import Tuner Challenge](https://github.com/Spooky098529/ITC-Recomp) | Static recompilation of Import Tuner Challenge (Xbox 360) into a native PC port | 18 | 🟢 | C++ |
 | [Manic Miner (mrcook manic-miner (Manic Miner: Retro!))](https://github.com/mrcook/manic-miner) | Unofficial native port of Manic Miner (ZX Spectrum) | 18 | 🔴 | C++ |
-| [Mystical Ninja Starring Goemon](https://github.com/ogdanimal/Goemon64Recomp-Android) | Static recompilation of Mystical Ninja Starring Goemon (N64) into a native PC port | 18 | 🟢 | C |
-| [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/Asphaltian/pmd-green) | Static recompilation of Pokémon Mystery Dungeon: Red Rescue Team (GBA) into a native PC port | 18 | 🟢 | C# |
+| [mariokartdd-recomp](https://github.com/ethannicholas/mariokartdd-recomp) | Recompilation of Mario Kart: Double Dash (GameCube) | 18 | 🟢 | C++ |
+| [NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | Need for Speed Carbon (Xbox 360) statically recompiled for Nintendo Switch | 18 | 🟢 | C++ |
+| [opencmr2-vr (Colin McRae Rally 2.0)](https://github.com/DR-89/opencmr2-vr) | Experimental native Colin McRae Rally 2.0 VR port for Meta Quest 3 and PCVR | 18 | 🟢 | C++ |
+| [payne-recomp](https://github.com/phobos665/payne-recomp) | Recompilation of Max Payne (Xbox) | 18 | 🟢 | C |
 | [Quest 64 (Quest 64 Tale: Recompiled)](https://github.com/boricuapab/quest64tale-recompiled) | Static recompilation of Quest 64 (N64) into a native PC port | 18 | 🟢 | C++ |
-| [racer (Star Wars Episode I: Racer)](https://github.com/sp00nznet/racer) | Static recompilation of Star Wars Episode I: Racer (N64) to native PC | 18 | 🟢 | C++ |
 | [San Francisco Rush 2049](https://github.com/n64hub/rush-2049-recomp) | Static recompilation of San Francisco Rush 2049 (N64) into a native PC port | 18 | 🟢 | C++ |
 | [Skate3-Port](https://github.com/darchap/Skate3-Port) | Skate 3 running natively on ARM64 without emulation | 18 | 🟢 | C++ |
 | [sm64-gba](https://github.com/Kodoque1/sm64-gba) | Super Mario 64 movement and collision code on the GBA, bit-exact with the original | 18 | 🟢 | C |
 | [Sonic '06 Demo](https://github.com/PranchaD/re-Sonic06Demo) | Xbox 360 static recompilation of Sonic '06 Demo | 18 | 🟢 | CMake |
-| [Tekken 3](https://github.com/Mabec-games/Tekken-3-for-Linux) | Static recompilation of Tekken 3 (PS1) into a native PC port | 18 | 🟢 | C++ |
-| [Top-Gear-SNES-Static-Recomp](https://github.com/Junior-Jones/Top-Gear-SNES-Static-Recomp) | Static recompilation of Top Gear (SNES) for Windows 10 and 11. ROM not included. | 18 | 🟢 | C |
+| [ToyStory2](https://github.com/PeriBluGaming/ToyStory2Recomp) | Static recompilation of ToyStory2 (PS1) into a native PC port | 18 | 🟢 | C |
 | [Vigilante 8 / Vigilante 8: 2nd Offense](https://github.com/GTTeancum/Vigilante-8-recomp) | Static recompilation of Vigilante 8 / Vigilante 8: 2nd Offense (PS1) into a native PC port | 18 | 🟢 | C |
 | [xboxdashboard](https://github.com/sp00nznet/xboxdashboard) | The first-ever native PC port of the original Xbox Dashboard (build 3944) — static recompilation of xboxdash.xbe (x86... | 18 | 🟢 | C |
+| [Yoshi's Island: Super Mario Advance 3 (SMA3 Recomp Android – Yoshi's Island: Super Mario Advance 3 PC port)](https://github.com/Edwin2929/sma3-recomp-android.) | Static recompilation of Yoshi's Island: Super Mario Advance 3 (GBA) into a native PC port | 18 | 🟢 | C++ |
+| [BattleTanx: Global Assault (BTGARecomp)](https://github.com/wootbeer/btgarecomp) | Static recompilation of BattleTanx: Global Assault (N64) into a native PC port | 17 | 🟢 | C++ |
 | [bo2-recompiled](https://github.com/officialmelon/bo2-recompiled) | Call of Duty: Black Ops II (Xbox 360) recompiled to native PC | 17 | 🟢 | C++ |
 | [Crash Twinsanity](https://github.com/menaman123/NativeEE) | Static recompilation of Crash Twinsanity (PS2) into a native PC port | 17 | 🟢 | C++ |
 | [Dance Dance Revolution 1st Mix](https://github.com/bmbelo87/ddr-1st-recomp) | Static recompilation of Dance Dance Revolution 1st Mix (PS1) into a native PC port | 17 | 🟢 | C |
 | [Dead or Alive Extreme 2](https://github.com/Revan67/DOAX2-Recomp) | Static recompilation of Dead or Alive Extreme 2 (Xbox 360) into a native PC port | 17 | 🟢 | PowerShell |
 | [DisruptorRecomp](https://github.com/RecompTeam/DisruptorRecomp) | Static recompilation of Disruptor (PS1) | 17 | 🟢 | C++ |
-| [Duck Hunt](https://github.com/mstan/DuckHuntNESRecomp) | Static recompilation of Duck Hunt (NES) into a native PC port | 17 | 🟢 | C |
-| [FuseRecomp](https://github.com/nikolaygorb/FuseRecomp) | RexGlue static recompilation of Fuse (Xbox 360) | 17 | 🟢 | C++ |
 | [gsrandroid](https://github.com/wootbeer/gsrandroid) | Golden Sun (GBA) recompiled as a native Android port | 17 | 🟢 | C++ |
 | [Hybrid Heaven](https://github.com/danielgomesvieira2000/hybrid-heaven-recomp) | Static recompilation of Hybrid Heaven (N64) into a native PC port | 17 | 🟢 | C++ |
-| [opencmr2-vr (Colin McRae Rally 2.0)](https://github.com/DR-89/opencmr2-vr) | Experimental native Colin McRae Rally 2.0 VR port for Meta Quest 3 and PCVR | 17 | 🟢 | C++ |
+| [Kirby's Dream Land](https://github.com/omegakatana92/Kirby-Dream-Land-Recomp) | Static recompilation of Kirby's Dream Land (Game Boy) into a native PC port | 17 | 🟢 | C |
+| [Pac-Man](https://github.com/Mr-Shizzy/PacManRecomp) | Static recompilation of Pac-Man (NES) into a native PC port | 17 | 🟢 | C |
 | [Pacman-CE-PC-Recomp](https://github.com/jedeyesniv-art/Pacman-CE-PC-Recomp) | Recompilation of Pac-Man Championship Edition (Xbox 360) for PC and Steam Deck | 17 | 🟢 | C++ |
-| [payne-recomp](https://github.com/phobos665/payne-recomp) | Recompilation of Max Payne (Xbox) | 17 | 🟢 | C |
 | [rawpsx (Another World)](https://github.com/fgsfdsfgs/rawpsx) | Port of the rawgl Another World engine to the PlayStation | 17 | 🔴 | C |
 | [ssx-tricky-recomp](https://github.com/reindance/ssx-tricky-recomp) | Linux-first native recompilation of SSX Tricky for the original Xbox | 17 | 🟢 | C |
 | [Super Dodge Ball (super-super-dodgeball)](https://github.com/rumbleminze/super-super-dodgeball) | Unofficial native port of Super Dodge Ball (NES) | 17 | 🟡 | Assembly |
 | [Super Mario 64 DS](https://github.com/mstan/supermario64dsrecomp) | Static recompilation of Super Mario 64 DS (DS) into a native PC port | 17 | 🟢 | Python |
 | [Test Drive](https://github.com/kylofon/test-drive-sdl3) | Open-source recomp of Test Drive (1987). | 17 | 🟢 | C |
+| [testdrive2-enhanced (Test Drive II)](https://github.com/kylofon/testdrive2-enhanced) | Enhanced native SDL3 port of Test Drive II: The Duel (1989, DOS) | 17 | 🟢 | C |
 | [The Legend of Zelda: The Wind Waker](https://github.com/sp00nznet/ww) | Static recompilation of The Legend of Zelda: The Wind Waker (GameCube) into a native PC port | 17 | 🟢 | C++ |
 | [The Legend of Zelda: Twilight Princess (tp-port (mbayonal))](https://github.com/mbayonal/tp-port) | Unofficial native port of The Legend of Zelda: Twilight Princess (GameCube) | 17 | 🟢 | C++ |
-| [ToyStory2](https://github.com/PeriBluGaming/ToyStory2Recomp) | Static recompilation of ToyStory2 (PS1) into a native PC port | 17 | 🟢 | C |
+| [tribespad (Tribes 2)](https://github.com/chrissotraidis/tribespad) | Tribes 2 on iPad, iPhone and Mac, with the x86 game code translated ahead of time to ARM | 17 | 🟢 | Python |
 | [Viva Piñata](https://github.com/crabinacrabic/VivaPinataRecomp) | Static recompilation of Viva Piñata (Xbox 360) into a native PC port | 17 | 🟢 | C++ |
 | [Warthog](https://github.com/ChupathingyCE/warthog-xbox) | Halo: Combat Evolved decompilation rebuilt for the original Xbox, playing online with PC builds | 17 | 🟢 | C |
-| [Yoshi's Island: Super Mario Advance 3 (SMA3 Recomp Android – Yoshi's Island: Super Mario Advance 3 PC port)](https://github.com/Edwin2929/sma3-recomp-android.) | Static recompilation of Yoshi's Island: Super Mario Advance 3 (GBA) into a native PC port | 17 | 🟢 | C++ |
 | [Alisa-Vita](https://github.com/Rinnegatamante/Alisa-Vita) | PS Vita port of Alisa: Developer's Cut | 16 | 🟢 |  |
-| [ArmyOfTwo40thDay-Recomp](https://github.com/crabscrab650-sketch/ArmyOfTwo40thDay-Recomp) | ReXGlue PC recompilation of Army of Two: The 40th Day (Xbox 360) | 16 | 🟢 | C++ |
-| [BattleTanx: Global Assault (BTGARecomp)](https://github.com/wootbeer/btgarecomp) | Static recompilation of BattleTanx: Global Assault (N64) into a native PC port | 16 | 🟢 | C++ |
 | [Blast Corps (Power Dozer)](https://github.com/djultra64/Power-Dozer) | Static recompilation of Blast Corps (N64) into a native PC port | 16 | 🟢 | C++ |
 | [Bomberman Fantasy Race (Bomberman Fantasy Race Recompiled)](https://github.com/TechnicallyComputers/Bomberman-Fantasy-Race-Recomp) | Static recompilation of Bomberman Fantasy Race (PS1) into a native PC port | 16 | 🟢 | C |
 | [Burnout](https://github.com/Heromachine/Burnout-Recompilation) | Static recompilation of Burnout (Xbox) into a native PC port | 16 | 🟢 | C++ |
@@ -5875,13 +5880,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Dr. Mario](https://github.com/mstan/DrMarioNesRecomp) | Static recompilation of Dr. Mario (NES) into a native PC port | 16 | 🟢 | C |
 | [Dragon Ball Z: Budokai Tenkaichi 2 (BT2 Recomp)](https://github.com/oric212/BT2-Recomp) | Static recompilation of Dragon Ball Z: Budokai Tenkaichi 2 (PS2) into a native PC port | 16 | 🟢 | C++ |
 | [gravityrush_pc](https://github.com/Prathewsh/gravityrush_pc) | Experimental native Windows runtime for Gravity Rush Remastered and Gravity Rush 2 (PS4) | 16 | 🟢 | C++ |
-| [Kirby's Dream Land](https://github.com/omegakatana92/Kirby-Dream-Land-Recomp) | Static recompilation of Kirby's Dream Land (Game Boy) into a native PC port | 16 | 🟢 | C |
-| [mariokartdd-recomp](https://github.com/ethannicholas/mariokartdd-recomp) | Recompilation of Mario Kart: Double Dash (GameCube) | 16 | 🟢 | C++ |
-| [Mega Man X3](https://github.com/mstan/MegamanX3SNESRecomp) | Static recompilation of Mega Man X3 (SNES) into a native PC port | 16 | 🟢 | C |
+| [MCLA-4iOS](https://github.com/KoreanSeats1/MCLA-4iOS) | Midnight Club: Los Angeles on iPhone and iPad — ARM64 static recompilation, native Metal, and an experimental 60 FPS... | 16 | 🟢 | Objective-C++ |
 | [Midnight Club: Los Angeles](https://github.com/luisxl15/Midnight-Club-L.A-RECOMP) | Static recompilation of Midnight Club: Los Angeles (Xbox 360) into a native PC port | 16 | 🟢 | C |
 | [nes-to-snes-template](https://github.com/rumbleminze/nes-to-snes-template) | Template for porting NES games to the SNES | 16 | 🟢 | Assembly |
-| [NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | Need for Speed Carbon (Xbox 360) statically recompiled for Nintendo Switch | 16 | 🟢 | C++ |
-| [Pac-Man](https://github.com/Mr-Shizzy/PacManRecomp) | Static recompilation of Pac-Man (NES) into a native PC port | 16 | 🟢 | C |
 | [PSP2I_Recomp](https://github.com/zmbkilla/PSP2I_Recomp) | Recompilation of Phantasy Star Portable 2 Infinity (PSP) | 16 | 🟢 | C |
 | [pvz-console-edition](https://github.com/ITSeniy/pvz-console-edition) | Unofficial Windows port of Plants vs. Zombies (Xbox 360), statically recompiled with ReXGlue | 16 | 🟢 | C++ |
 | [Ratchet-and-Clank-Recomp](https://github.com/MarcPique/Ratchet-and-Clank-Recomp) | Native PC port of Ratchet & Clank (PS2) based on ReRAC, with an ISO installer | 16 | 🟢 | Rust |
@@ -5891,10 +5892,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Super Smash Bros.](https://github.com/beigeceleron/ssb64-dc) | Unofficial native port of Super Smash Bros. (N64) | 16 | 🟢 | C |
 | [Tekken: Dark Resurrection (tkdr-recomp)](https://github.com/gasparegas/tkdr-recomp) | Static recompilation of Tekken: Dark Resurrection (PSP) into a native PC port | 16 | 🟢 | C |
 | [Test Drive III](https://github.com/kylofon/test-drive-3-sdl3) | Recomp of Test Drive III: The Passion. | 16 | 🟢 | C |
-| [testdrive2-enhanced (Test Drive II)](https://github.com/kylofon/testdrive2-enhanced) | Enhanced native SDL3 port of Test Drive II: The Duel (1989, DOS) | 16 | 🟢 | C |
+| [The Simpsons Arcade Game](https://github.com/sp00nznet/simpsonsarcade-ps3) | Static recompilation of The Simpsons Arcade Game (PS3) into a native PC port | 16 | 🟢 | C |
 | [themepark-recomp](https://github.com/sp00nznet/themepark-recomp) | Static recompilation of Bullfrog's Theme Park (DOS) to native Windows with pcrecomp | 16 | 🟢 | C |
 | [Ace Combat 6: Fires of Liberation](https://github.com/rapidsamphire/AC6Recomp) | Static recompilation of Ace Combat 6: Fires of Liberation (Xbox 360) into a native PC port | 15 | 🟢 | C++ |
 | [Alone in the Dark: The New Nightmare](https://github.com/alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp) | Static recompilation of Alone in the Dark: The New Nightmare (PS1) into a native PC port | 15 | 🟢 | Shell |
+| [ArmyOfTwo40thDay-Recomp](https://github.com/crabscrab650-sketch/ArmyOfTwo40thDay-Recomp) | ReXGlue PC recompilation of Army of Two: The 40th Day (Xbox 360) | 15 | 🟢 | C++ |
+| [Bak-Again](https://github.com/stellargames/bakagain) | Recomp + enhancement of Betrayal At Krondor by Dynamix. | 15 | 🟢 | C# |
 | [burnout-revenge](https://github.com/secretpray/burnout-revenge) | Native Burnout Revenge (Xbox 360) port for Apple silicon Macs by static recompilation | 15 | 🟢 | C++ |
 | [Dead Space 2](https://github.com/bifftannen1/Dead-Space-2-Recomp) | Static recompilation of Dead Space 2 (Xbox 360) into a native PC port | 15 | 🟢 | C++ |
 | [Exit / Exit 2](https://github.com/FluffyQuack/ReXGlue-EXIT) | Static recompilation of Exit / Exit 2 (Xbox 360) into a native PC port | 15 | 🟢 | C |
@@ -5904,37 +5907,36 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [hazard-vita (Beat Hazard 2)](https://github.com/Rinnegatamante/hazard-vita) | PS Vita port of Beat Hazard 2 | 15 | 🟢 | C |
 | [Into-The-Breach-Vita](https://github.com/Rinnegatamante/Into-The-Breach-Vita) | PS Vita port of Into the Breach | 15 | 🟡 | C |
 | [Marvel vs. Capcom: Clash of Super Heroes (Marvel vs. Capcom: Clash of Super Heroes Recompiled)](https://github.com/TechnicallyComputers/Marvel-vs.-Capcom-Clash-of-Super-Heroes-Recomp) | Static recompilation of Marvel vs. Capcom: Clash of Super Heroes (PS1) into a native PC port | 15 | 🟢 | C |
-| [MCLA-4iOS](https://github.com/KoreanSeats1/MCLA-4iOS) | Midnight Club: Los Angeles on iPhone and iPad — ARM64 static recompilation, native Metal, and an experimental 60 FPS... | 15 | 🟢 | Objective-C++ |
 | [MediEvil](https://github.com/alexbeavs-ps1-ports/medievil-recomp) | Static recompilation of MediEvil (PS1) into a native PC port | 15 | 🟢 | Python |
+| [Mega Man X3](https://github.com/mstan/MegamanX3SNESRecomp) | Static recompilation of Mega Man X3 (SNES) into a native PC port | 15 | 🟢 | C |
 | [NFS3-HP-AndroidEvolved](https://github.com/codepdbh/NFS3-HP-AndroidEvolved) | Android ARM64 port of Need for Speed III: Hot Pursuit based on nfs-recompiled | 15 | 🟢 | C++ |
 | [Nightmare Creatures II](https://github.com/alexbeavs-ps1-ports/nightmare-creatures-ii-recomp) | Static recompilation of Nightmare Creatures II (PS1) into a native PC port | 15 | 🟢 | Python |
+| [pc-thelaststory](https://github.com/vs-sr-dev/pc-thelaststory) | Work toward a native PC port of The Last Story (Wii) by recompiling its executable | 15 | 🟢 | Python |
 | [Point Blank](https://github.com/TekRantGaming/point-blank-recompiled) | Static recompilation of Point Blank (PS1) into a native PC port | 15 | 🟢 | PowerShell |
 | [PokeRecomp](https://github.com/sonsegajp/PokeRecomp) | Native PC ports of Pokémon games via static recompilation | 15 | 🟢 | C |
 | [Resident Evil 3: Nemesis](https://github.com/alexbeavs-ps1-ports/resident-evil-3-recomp) | Static recompilation of Resident Evil 3: Nemesis (PS1) into a native PC port | 15 | 🟢 | Python |
+| [Scooby-Doo! Mystery Mayhem](https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc) | Unofficial native port of Scooby-Doo! Mystery Mayhem (PS2) | 15 | 🟢 | Rust |
 | [sfiii-native](https://github.com/mattkuhnQAAI/sfiii-native) | Native Windows static recompilation of Shining Force III Scenario 1 (Saturn) | 15 | 🟢 | Python |
 | [smb2se-vita (Super Monkey Ball 2)](https://github.com/Rinnegatamante/smb2se-vita) | PS Vita port of Super Monkey Ball 2: Sakura Edition via the Android version loader | 15 | 🟢 | C |
 | [sms-android](https://github.com/jbcgames/sms-android) | Native Android port of Super Mario Sunshine (GameCube) with touch controls | 15 | 🟢 | C++ |
-| [The Simpsons Arcade Game](https://github.com/sp00nznet/simpsonsarcade-ps3) | Static recompilation of The Simpsons Arcade Game (PS3) into a native PC port | 15 | 🟢 | C |
 | [the-simpsons-game-android](https://github.com/codepdbh/the-simpsons-game-android) | Groundwork for a native Android port of The Simpsons Game via static recompilation | 15 | 🟢 | Java |
 | [tlou_pc (The Last of Us)](https://github.com/HayatoG/tlou_pc) | Native PC port of The Last of Us (PS4) | 15 | 🟢 | C++ |
 | [Tokyo Jungle](https://github.com/sp00nznet/tokyojungle) | Static recompilation of Tokyo Jungle (PS3) into a native PC port | 15 | 🟢 | C++ |
-| [tribespad (Tribes 2)](https://github.com/chrissotraidis/tribespad) | Tribes 2 on iPad, iPhone and Mac, with the x86 game code translated ahead of time to ARM | 15 | 🟢 | Python |
+| [Turok: Rage Wars (rage-wars-recompiled)](https://github.com/ArtfulRascal8/rage-wars-recompiled) | Static recompilation of Turok: Rage Wars (N64) into a native PC port | 15 | 🟢 | C++ |
 | [TwistedMetal1234Recomp](https://github.com/jcoker85/TwistedMetal1234Recomp) | Twisted Metal 1-4 (PS1) recompiled for PC using psxrecomp | 15 | 🟢 | C |
 | [UT99-Vita (Unreal Tournament)](https://github.com/Rinnegatamante/UT99-Vita) | Launcher for the Android port of Unreal Tournament 99 on PS Vita | 15 | 🟢 | C++ |
 | [Vigilante 8 Arcade](https://github.com/sp00nznet/vig8) | Static recompilation of Vigilante 8 Arcade (Xbox 360) into a native PC port | 15 | 🟢 | C++ |
 | [Animal Forest (animal_forest_psp)](https://github.com/bruder-grimm/animal_forest_psp) | Unofficial native port of Animal Forest (N64) | 14 | 🟢 | C |
-| [Bak-Again](https://github.com/stellargames/bakagain) | Recomp + enhancement of Betrayal At Krondor by Dynamix. | 14 | 🟢 | C# |
-| [bananapad (Donkey Kong 64)](https://github.com/chrissotraidis/bananapad) | Donkey Kong 64 recompilation running natively on iOS and iPadOS | 14 | 🟢 | Shell |
+| [Backstab HD (BackStabRecomp (AndroidRecomp))](https://github.com/jessicanataliagta/BackStabRecomp) | Static recompilation of Backstab HD (Mobile) into a native PC port | 14 | 🟢 | C++ |
 | [dcrecomp](https://github.com/sp00nznet/dcrecomp) | Static recompilation framework for Dreamcast and NAOMI games (SH-4 to C) | 14 | 🟢 | C |
 | [FrontschweineRecomp](https://github.com/Nero2611/FrontschweineRecomp) | Native PC port of Hogs of War (PS1) via static recompilation | 14 | 🟢 | C |
 | [Gears of War](https://github.com/SomeoneIsWorking/gears1) | Static recompilation of Gears of War (Xbox 360) into a native PC port | 14 | 🟢 | C++ |
 | [linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) | Link's Awakening DX statically recompiled to native C and ported to PlayStation 4, PlayStation 3, and Nintendo 3DS. N... | 14 | 🟢 | Shell |
 | [lordran-native](https://github.com/Nishikori-Yui/lordran-native) | Experimental native port of Dark Souls Remastered (Switch) to macOS and iOS | 14 | 🟢 | C |
+| [Lufia2SNESRecomp](https://github.com/Cellenseres/Lufia2SNESRecomp) | Static recompilation of Lufia II (SNES) | 14 | 🟢 | C |
 | [Mega Man Legends](https://github.com/alexbeavs-ps1-ports/mega-man-legends-recomp) | Static recompilation of Mega Man Legends (PS1) into a native PC port | 14 | 🟢 | Python |
-| [pc-thelaststory](https://github.com/vs-sr-dev/pc-thelaststory) | Work toward a native PC port of The Last Story (Wii) by recompiling its executable | 14 | 🟢 | Python |
 | [RaymanOriginsRecomp](https://github.com/XDanfr/RaymanOriginsRecomp) | Unofficial static recompilation of Rayman Origins (Xbox 360) for Switch via XenonRecomp | 14 | 🟢 | C++ |
 | [rct-vita (RollerCoaster Tycoon Classic)](https://github.com/Rinnegatamante/rct-vita) | PS Vita port of RollerCoaster Tycoon Classic via the Android version loader | 14 | 🟡 | C |
-| [Scooby-Doo! Mystery Mayhem](https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc) | Unofficial native port of Scooby-Doo! Mystery Mayhem (PS2) | 14 | 🟢 | Rust |
 | [SEGA Rally Championship 96](https://github.com/xandoxan65/segarally95-recomp) | Static recompilation of SEGA Rally Championship 96 (Arcade) into a native PC port | 14 | 🟢 | C |
 | [Sonic4Ep1-WindowsPhone-Decompilation](https://github.com/tge-was-taken/Sonic4Ep1-WindowsPhone-Decompilation) | Decompilation and PC port of Sonic 4 Episode 1 for Windows Phone 7 | 14 | 🔴 | C# |
 | [StarWars-CloneWars-PC](https://github.com/GTTeancum/StarWars-CloneWars-PC) | Native Windows port of Star Wars: The Clone Wars (Xbox) via static recompilation | 14 | 🟢 | C++ |
@@ -5943,29 +5945,29 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Tetris (Kirpich)](https://github.com/etroimcasso/Kirpich) | Unofficial native port of Tetris (Game Boy) | 14 | 🟢 | C++ |
 | [Tetrisphere](https://github.com/djultra64/Blocksphere) | Static recompilation of Tetrisphere (N64) into a native PC port | 14 | 🟢 | C++ |
 | [The Dishwasher: Dead Samurai (DishSoap)](https://github.com/Hdmaniak/DishSoap) | Unofficial native port of The Dishwasher: Dead Samurai (Xbox 360) | 14 | 🟢 | C# |
-| [Turok: Rage Wars (rage-wars-recompiled)](https://github.com/ArtfulRascal8/rage-wars-recompiled) | Static recompilation of Turok: Rage Wars (N64) into a native PC port | 14 | 🟢 | C++ |
 | [utp (Unreal Tournament)](https://github.com/chrissotraidis/utp) | Unreal Tournament 99 hosted natively on iPhone and iPad with Metal rendering | 14 | 🟢 | Swift |
-| [wwe2k14-recomp (mikeflare007)](https://github.com/mikeflare007/wwe2k14-recomp) | Unofficial native PC port of WWE 2K14 (Xbox 360) by static recompilation | 14 | 🟢 | C++ |
 | [Yoshi's Cookie](https://github.com/mstan/YoshisCookieRecomp) | Static recompilation of Yoshi's Cookie (NES) into a native PC port | 14 | 🟢 | C |
 | [YoshiNESRecomp (Yoshi)](https://github.com/mstan/YoshiNESRecomp) | Static recompilation of Yoshi (NES) | 14 | 🟢 | C |
 | [3on3NHL-recomp](https://github.com/Wndwsqrrl/3on3NHL-recomp) | 3 on 3 NHL Arcade Xbox 360 static recompilation | 13 | 🟢 | C++ |
 | [Alundra](https://github.com/alexbeavs-ps1-ports/alundra-recomp) | Static recompilation of Alundra (PS1) into a native PC port | 13 | 🟢 | Python |
-| [Backstab HD (BackStabRecomp (AndroidRecomp))](https://github.com/jessicanataliagta/BackStabRecomp) | Static recompilation of Backstab HD (Mobile) into a native PC port | 13 | 🟢 | C++ |
+| [bananapad (Donkey Kong 64)](https://github.com/chrissotraidis/bananapad) | Donkey Kong 64 recompilation running natively on iOS and iPadOS | 13 | 🟢 | Shell |
 | [Defender (Falcon)](https://github.com/therealsark02/defender) | Unofficial native port of Defender (Arcade) | 13 | 🟡 | C |
 | [Double Dragon (double-dragon-snes)](https://github.com/rumbleminze/double-dragon-snes) | Unofficial native port of Double Dragon (Arcade) | 13 | 🟢 | Assembly |
 | [DragonBallZLegacyOfGokuRecomp](https://github.com/mstan/DragonBallZLegacyOfGokuRecomp) | Static recompilation of Dragon Ball Z: The Legacy of Goku with Adaptive Widescreen · Part of the R.A.I.D. community | 13 | 🟢 | C++ |
 | [GoldenEye 007 (XBLA remaster) (GoldenEye-Recomp-rexglue)](https://github.com/SunJaycy/GoldenEye-Recomp-rexglue) | Static recompilation of GoldenEye 007 (XBLA remaster) (Xbox 360) into a native PC port | 13 | 🟢 | C |
-| [Lufia2SNESRecomp](https://github.com/Cellenseres/Lufia2SNESRecomp) | Static recompilation of Lufia II (SNES) | 13 | 🟢 | C |
 | [PaxDino](https://github.com/wootbeer/PaxDino) | Turok: Rage Wars recompilation and modern PC port | 13 | 🟢 | C++ |
 | [Ridge Racer port](https://github.com/kazuyette/rr-pc-port) | PC port of Ridge Racer (PS1) derived from the byte-matched rr-decomp | 13 | 🟢 | C |
 | [Shadow of the Colossus](https://github.com/InconspicuousCactus/SotCStaticRecompilation) | Static recompilation of Shadow of the Colossus (PS2) into a native PC port | 13 | 🟡 | C |
 | [so_util](https://github.com/Rinnegatamante/so_util) | Android ELF (.so) loader for running Android games on the PS Vita | 13 | 🟢 | C |
+| [South Park Tower Defense Recompiled](https://github.com/TekRantGaming/south-park-tower-defense-recompiled) | Static recompilation of South Park: Let's Go Tower Defense Play! (Xbox 360 XBLA) | 13 | 🟢 | C++ |
 | [SSB-X](https://github.com/Team-Resurgent/SSB-X) | Super Smash Bros. port to the original Xbox from the N64 decompilation | 13 | 🟢 | C |
 | [Super Mario 64 (libsm64-sharp)](https://github.com/MeltyPlayer/libsm64-sharp) | Unofficial native port of Super Mario 64 (N64) | 13 | 🟡 | C# |
+| [The Bigs 2](https://github.com/mdomangue26/The-Bigs-2-Recompiled) | Static recompilation of The Bigs 2 (Xbox 360) into a native PC port | 13 | 🟢 | C++ |
 | [tomodachi-native](https://github.com/kuosuko/tomodachi-native) | Tomodachi Life: Living the Dream running natively on Apple Silicon Macs and iPads | 13 | 🟢 | C |
 | [valiant-vita (Valiant Hearts)](https://github.com/Rinnegatamante/valiant-vita) | PS Vita port of Valiant Hearts: The Great War via the Android version loader | 13 | 🟡 | C |
 | [VeronicaRecomp](https://github.com/psxrestore/VeronicaRecomp) | A static recompilation of Resident Evil CODE:Veronica developed with RexGlue. | 13 | 🟢 | C++ |
 | [WhiteAlbum2_iOS](https://github.com/galhack/WhiteAlbum2_iOS) | Native port of WHITE ALBUM 2 for iPhone, iPad, Vision Pro, Apple TV and Mac | 13 | 🟢 | C# |
+| [wwe2k14-recomp (mikeflare007)](https://github.com/mikeflare007/wwe2k14-recomp) | Unofficial native PC port of WWE 2K14 (Xbox 360) by static recompilation | 13 | 🟢 | C++ |
 | [Xevious (xevious (arcade -> 68k transcode))](https://github.com/jotd666/xevious) | Unofficial native port of Xevious (Arcade) | 13 | 🟢 | C |
 | [AndroLayer](https://github.com/Rinnegatamante/AndroLayer) | HLE compatibility layer for porting Android games to PC | 12 | 🟢 | C |
 | [Balloon Fight (Balloon-fight-VS-for-NES)](https://github.com/tvoybro/Balloon-fight-VS-for-NES) | Unofficial native port of Balloon Fight (NES) | 12 | 🔴 | Assembly |
@@ -5984,47 +5986,48 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [simpsonsarcade (The Simpsons Arcade)](https://github.com/sp00nznet/simpsonsarcade) | Static recompilation of The Simpsons Arcade (Xbox 360 XBLA) to native Windows | 12 | 🟢 | C++ |
 | [Skate 3](https://github.com/HelmXGaming/Skate-3-Recompiled--Work-in-Progress-) | Static recompilation of Skate 3 (Xbox 360) into a native PC port | 12 | 🟢 | C++ |
 | [smsggrecomp](https://github.com/mstan/smsggrecomp) | Static recompiler for Sega Master System and Game Gear games | 12 | 🟢 | C |
-| [South Park Tower Defense Recompiled](https://github.com/TekRantGaming/south-park-tower-defense-recompiled) | Static recompilation of South Park: Let's Go Tower Defense Play! (Xbox 360 XBLA) | 12 | 🟢 | C++ |
-| [Star wars - Episode I - Jedi Power Battles](https://github.com/TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp) | Static recompilation of Star wars - Episode I - Jedi Power Battles (PS1) into a native PC port | 12 | 🟢 | C |
 | [Super Mario Kart](https://github.com/jvipond/super_mario_kart_recompilation) | Static recompilation of Super Mario Kart (SNES) into a native PC port | 12 | 🔴 | C++ |
 | [SuperBomberman5SNESRecomp](https://github.com/MauricioSuporte/SuperBomberman5SNESRecomp) | Super Bomberman 5 (SNES) Windows prototype using SNESRecomp | 12 | 🟢 | C |
-| [TDURecomp](https://github.com/testdriveupgrade/TDURecomp) | Recompilation of TDU | 12 | 🟢 | C++ |
-| [The Bigs 2](https://github.com/mdomangue26/The-Bigs-2-Recompiled) | Static recompilation of The Bigs 2 (Xbox 360) into a native PC port | 12 | 🟢 | C++ |
 | [the-simpsons-recomp](https://github.com/portingpete/the-simpsons-recomp) | Native Windows port of The Simpsons Game (Xbox 360) via PowerPC-to-C++ recompilation | 12 | 🟢 | C++ |
 | [Titanic: Adventure Out of Time](https://github.com/itskenny0/titanic-godot) | Recomp of Titanic Adventure Out of Time to Godot. | 12 | 🟢 | Go |
 | [unreal_nx (Unreal)](https://github.com/fgsfdsfgs/unreal_nx) | Nintendo Switch port and loader for Unreal (1998) and Unreal Gold | 12 | 🔴 | C |
+| [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/jessetbh/VPW2Recomp) | Static recompilation of Virtual Pro Wrestling 2: Ōdō Keishō (N64) into a native PC port | 12 | 🟢 | C |
 | [VPW64Recomp](https://github.com/jessetbh/VPW64Recomp) | Virtual Pro Wrestling 64 static recompilation | 12 | 🟢 | C++ |
 | [ace-combat-3-electrosphere-recomp](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-recomp) | Static recompilation setup for Ace Combat 3: Electrosphere (PS1, Japan) | 11 | 🟢 | Python |
 | [barrelpad (Diddy Kong Racing)](https://github.com/chrissotraidis/barrelpad) | Diddy Kong Racing recompilation for macOS, iOS and iPadOS | 11 | 🟢 | Objective-C++ |
 | [Blue Dragon (reblue)](https://github.com/WeiGustavo/reblue) | Static recompilation of Blue Dragon (Xbox 360) into a native PC port | 11 | 🟢 | C++ |
 | [Cars-Race-O-Rama-Recompiled](https://github.com/m1ndcrap/Cars-Race-O-Rama-Recompiled) | Recompilation of Cars Race-O-Rama (Xbox 360) with ReXGlue | 11 | 🟢 | CMake |
+| [DBZ-Budokai-1-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-1-HD-Collection) | Recompilation of Dragon Ball Z: Budokai HD (Xbox 360) with ReXGlue | 11 | 🟢 | C++ |
 | [defjam-sw](https://github.com/R-drg/defjam-sw) | Def Jam: Fight for NY (Xbox) statically recompiled for Switch and Linux | 11 | 🟢 | C |
 | [dinopad (Dinosaur Planet)](https://github.com/chrissotraidis/dinopad) | Dinosaur Planet recompilation for macOS, iOS and iPadOS | 11 | 🟢 | Objective-C++ |
 | [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/citrongames/Dora64) | Static recompilation of Doraemon: Nobita to Mittsu no Seireiseki (N64) into a native PC port | 11 | 🟢 | C++ |
 | [fc3-nx](https://github.com/barbaruiva25/fc3-nx) | Far Cry 3 (Xbox 360) statically recompiled with ReXGlue for Nintendo Switch | 11 | 🟢 | C |
 | [HPCOS-GC-RECOMP](https://github.com/ant0-blase/HPCOS-GC-RECOMP) | Static recompilation of Harry Potter and the Chamber of Secrets (GameCube) | 11 | 🟢 | C |
+| [kf1-enhanced](https://github.com/Acranon/kf1-enhanced) | Enhanced native PC port of King's Field based on reverse engineering | 11 | 🟢 | C++ |
 | [layton2-vita (Professor Layton)](https://github.com/Rinnegatamante/layton2-vita) | PS Vita port of Professor Layton and Pandora's Box HD via the Android version loader | 11 | 🔴 | C |
 | [LinksAwakening (Link's Awakening DX)](https://github.com/sp00nznet/LinksAwakening) | Static recompilation of The Legend of Zelda: Link's Awakening DX (GBC) to native code | 11 | 🟢 | C |
 | [MacioGalaxy](https://github.com/classicrob/MacioGalaxy) | Native macOS port of Super Mario Galaxy built on the Petari decompilation | 11 | 🟢 | C++ |
 | [Pokémon Red and Blue (PokemonRedAndBlueRecomp)](https://github.com/mstan/PokemonRedAndBlueRecomp) | Static recompilation of Pokémon Red and Blue (Game Boy) into a native PC port | 11 | 🟢 | C |
 | [PS5_Burnout3](https://github.com/griches/PS5_Burnout3) | Burnout 3: Takedown on PS5 homebrew, ported from the Takedawn static recompilation | 11 | 🟢 | C |
 | [PS5_Ghostship (Super Mario 64)](https://github.com/griches/PS5_Ghostship) | Super Mario 64 for PS5 homebrew, built from Ghostship (libultraship) | 11 | 🟢 | C |
+| [Puyo Puyo BOX](https://github.com/kirby1237/PuyoPuyoBoxRecomp) | Static recompilation of Puyo Puyo BOX (PS1) into a native PC port | 11 | 🟢 | Shell |
 | [Rampage Through Time (Rampage Through Time Recompiled)](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp) | Static recompilation of Rampage Through Time (PS1) into a native PC port | 11 | 🟢 | C |
 | [RROP](https://github.com/kruzeman/RROP) | Static recompilation of Rings of Power for Linux and Windows with widescreen and smooth scrolling | 11 | 🟢 | Python |
 | [Shantae](https://github.com/vibecodekun/shantaerecomp) | Static recompilation of Shantae (Game Boy Color) into a native PC port | 11 | 🟢 | C |
 | [snatcher-port](https://github.com/bgyss/snatcher-port) | Native Mac/Windows build of Konami's Snatcher (Sega CD) from reverse engineering | 11 | 🟢 | C++ |
 | [SonicTheHedgehogSMSRecomp](https://github.com/mstan/SonicTheHedgehogSMSRecomp) | Static recompilation of Sonic the Hedgehog (Master System) | 11 | 🟢 | PowerShell |
 | [South Park: Tenorman's Revenge Recompiled](https://github.com/TekRantGaming/south-park-tenormans-revenge-recompiled) | Static recompilation of South Park: Tenorman's Revenge (Xbox 360 XBLA) for Windows and Linux | 11 | 🟢 | C++ |
+| [Star wars - Episode I - Jedi Power Battles](https://github.com/TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp) | Static recompilation of Star wars - Episode I - Jedi Power Battles (PS1) into a native PC port | 11 | 🟢 | C |
 | [Street Rod](https://github.com/kylofon/street-rod-sdl3) | Recomp of Street Rod. | 11 | 🟢 | C |
 | [SuperRecomp](https://github.com/dreamsailing59-ops/SuperRecomp) | Tool to statically recompile SNES games into native executables | 11 | 🟢 | C++ |
+| [TDURecomp](https://github.com/testdriveupgrade/TDURecomp) | Recompilation of TDU | 11 | 🟢 | C++ |
 | [thimbleweed-vita (Thimbleweed Park)](https://github.com/Rinnegatamante/thimbleweed-vita) | PS Vita port of Thimbleweed Park via the Android version loader | 11 | 🟡 | C |
-| [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/jessetbh/VPW2Recomp) | Static recompilation of Virtual Pro Wrestling 2: Ōdō Keishō (N64) into a native PC port | 11 | 🟢 | C |
+| [twilight-princess-hd-recomp](https://github.com/AsadSi/twilight-princess-hd-recomp) | Twilight Princess HD (Wii U) statically recompiled for Apple Silicon macOS | 11 | 🟢 | C++ |
 | [wipeout-xl-recomp (Wipeout XL)](https://github.com/alexbeavs-ps1-ports/wipeout-xl-recomp) | Static recompilation setup for Wipeout XL (PS1) | 11 | 🟢 | Python |
 | [adam](https://github.com/evaa-01/adam) | Static recompilation of Neon Genesis Evangelion (N64) into a native Windows program | 10 | 🟢 | C++ |
 | [Bomberman Party Edition (Bomberman Party Edition Recomp)](https://github.com/TechnicallyComputers/BombermanPartyEditionRecomp) | Static recompilation of Bomberman Party Edition (PS1) into a native PC port | 10 | 🟢 | C |
 | [caesar2-port](https://github.com/second-impressions/caesar2-port) | Portable continuation of the Caesar II source reconstruction | 10 | 🟢 | C |
 | [chip8recompiled](https://github.com/arcanite24/chip8recompiled) | Static recompilation toolchain that turns CHIP-8 ROMs into native executables | 10 | 🟢 | C |
-| [DBZ-Budokai-1-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-1-HD-Collection) | Recompilation of Dragon Ball Z: Budokai HD (Xbox 360) with ReXGlue | 10 | 🟢 | C++ |
 | [dream-recomp](https://github.com/phobos665/dream-recomp) | Static recompilation tool for Dreamcast games | 10 | 🟢 | C++ |
 | [dreams-to-reality-re](https://github.com/jlagedo/dreams-to-reality-re) | Static recompilation of Dreams to Reality (Cryo, 1997) to C for modern PCs | 10 | 🟢 | Python |
 | [f0x (F-Zero X)](https://github.com/chrissotraidis/f0x) | Native F-Zero X source port via G-Diffuser for Apple Silicon Macs, iPhone and iPad | 10 | 🟢 | Shell |
@@ -6033,7 +6036,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [HobbitRecompiled](https://github.com/itsdunintime104/HobbitRecompiled) | LEGO The Hobbit recompiled to run natively on Apple Silicon Macs | 10 | 🟢 | Shell |
 | [Jak and Daxter port](https://github.com/chrissotraidis/ottsel) | Native iPad, iPhone and Mac port of Jak and Daxter built on OpenGOAL | 10 | 🟢 | C++ |
 | [Jet Moto 2](https://github.com/goodshepherd23/JetMoto2-Recomp) | Static recompilation of Jet Moto 2 (PS1) into a native PC port | 10 | 🟢 | C# |
-| [kf1-enhanced](https://github.com/Acranon/kf1-enhanced) | Enhanced native PC port of King's Field based on reverse engineering | 10 | 🟢 | C++ |
 | [layton3-vita (Professor Layton)](https://github.com/Rinnegatamante/layton3-vita) | PS Vita port of Professor Layton and the Lost Future HD via the Android version loader | 10 | 🔴 | C |
 | [Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp) | Static recompilation of Lord of the Rings; The Third Age (Xbox) into a native PC port | 10 | 🟢 | C |
 | [Mario-Kart-64-X](https://github.com/Team-Resurgent/Mario-Kart-64-X) | Mario Kart 64 port to the original Xbox from the N64 decompilation | 10 | 🟢 | C |
@@ -6041,10 +6043,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MLBPowerPros2008Recomp](https://github.com/HopeAero/MLBPowerPros2008Recomp) | Native recompilation of MLB Power Pros 2008 (Wii) on Wiicompiled | 10 | 🟢 | C++ |
 | [OpenPopTB-MacOS](https://github.com/iagodemacedo/OpenPopTB-MacOS) | Native Apple Silicon port of Populous: The Beginning via static recompilation | 10 | 🟢 | C |
 | [Paper Mario ( pmvita)](https://github.com/versacepapermario/papermario-pc-upload) | Unofficial native port of Paper Mario (N64) | 10 | 🟢 | C |
-| [Puyo Puyo BOX](https://github.com/kirby1237/PuyoPuyoBoxRecomp) | Static recompilation of Puyo Puyo BOX (PS1) into a native PC port | 10 | 🟢 | Shell |
 | [Suikoden II](https://github.com/alexbeavs-ps1-ports/suikoden-ii-recomp) | Static recompilation of Suikoden II (PS1) into a native PC port | 10 | 🟢 | Python |
 | [swordigo-vita (Swordigo)](https://github.com/Rinnegatamante/swordigo-vita) | PS Vita port of Swordigo via the Android version loader | 10 | 🟡 | C |
-| [twilight-princess-hd-recomp](https://github.com/AsadSi/twilight-princess-hd-recomp) | Twilight Princess HD (Wii U) statically recompiled for Apple Silicon macOS | 10 | 🟢 | C++ |
 | [Xenon-Recomp (nimauria)](https://github.com/nimauria/Xenon-Recomp) | Experimental Xbox 360 ahead-of-time recompilation framework and native runtime | 10 | 🟢 | C++ |
 | [afterburner-vita (After Burner Climax)](https://github.com/Rinnegatamante/afterburner-vita) | PS Vita port of After Burner Climax via the Android version loader | 9 | 🟢 | C |
 | [Animal Crossing decomp](https://github.com/TechProGabe/OpenCrossing-Dreamcast) | Dreamcast port of Animal Crossing (GameCube) built on the ACreTeam decompilation | 9 | 🟢 | C |
@@ -6084,7 +6084,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SNESRecomp (blueberry077)](https://github.com/blueberry077/SNESRecomp) | Experimental reassembler that rebuilds SNES games from execution traces | 9 | 🟢 | C++ |
 | [Star Wars: Masters of Teräs Käsi (MastersOfTerasKasiRecomp)](https://github.com/TechnicallyComputers/MastersOfTerasKasiRecomp) | Static recompilation of Star Wars: Masters of Teräs Käsi (PS1) into a native PC port | 9 | 🟢 | C |
 | [StrikersRecomp](https://github.com/aharonahdoot/StrikersRecomp) | Super Mario Strikers (G4QE01) recompilation project — the worked example for RecompCore and DolRuntime. No game data... | 9 | 🟢 | C |
+| [Super Smash Bros. Melee based on the decompilation port](https://github.com/sonsegajp/YAMPP) | Native PC port of Super Smash Bros. Melee based on the decompilation | 9 | 🟢 | C++ |
 | [SuperSmashBrosRecomp](https://github.com/sonicdcer/SuperSmashBrosRecomp) | Static recompilation of Super Smash Bros. (N64) for Windows, Linux and macOS | 9 | 🟢 | C++ |
+| [Test Drive II](https://github.com/kylofon/test-drive-2-sdl3) | Open-source recomp of Test Drive II: The Duel. | 9 | 🟢 | C |
 | [tony-hawk-s-pro-skater-recomp](https://github.com/alexbeavs-ps1-ports/tony-hawk-s-pro-skater-recomp) | Static recompilation setup for Tony Hawk's Pro Skater (PS1) | 9 | 🟢 | Python |
 | [007 recomp](https://github.com/furqanagwan/007) | Xbox 360 James Bond games statically recompiled for Windows with ReXGlue | 8 | 🟢 | PowerShell |
 | [2ship2harkinian-ps4](https://github.com/alechurri/2ship2harkinian-ps4) | Majora's Mask (2 Ship 2 Harkinian) native port for jailbroken PS4 | 8 | 🟢 | Shell |
@@ -6108,6 +6110,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [KnowYourRoleRecomp](https://github.com/Comfubar/KnowYourRoleRecomp) | WWF SmackDown! 2 PlayStation static recompilation | 8 | 🟢 | C# |
 | [mtm (Monster Truck Madness)](https://github.com/sp00nznet/mtm) | Static recompilation of Monster Truck Madness 1 and 2 (PC) to native modern Windows | 8 | 🟢 | C |
 | [MusashiRecomp](https://github.com/saironbusatto/MusashiRecomp) | Static recompilation of Brave Fencer Musashi (PS1) | 8 | 🟢 | C++ |
+| [oot-recompiled](https://github.com/JonB-Dev/oot-recompiled) | Static recompilation of Ocarina of Time into a native Windows executable | 8 | 🟢 | C++ |
 | [Outpost Kaloki X](https://github.com/TekRantGaming/outpost-kaloki-x-recompiled) | Static recompilation of Outpost Kaloki X (Xbox 360) into a native PC port | 8 | 🟢 | C++ |
 | [p3fes-recompiled](https://github.com/ppkkkkk/p3fes-recompiled) | AI-assisted static recompilation of Persona 3 FES (PS2, USA) | 8 | 🟢 | C++ |
 | [puzzleleague64_recomp](https://github.com/AngheloAlf/puzzleleague64_recomp) | Static recompilation of Pokémon Puzzle League (N64) | 8 | 🗄️ | C++ |
@@ -6117,7 +6120,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Spider-Man-2-PS2-Recomp](https://github.com/saltyboosack-blip/Spider-Man-2-PS2-Recomp) | Open-source PS2 recompilation research checkpoint for Spider-Man 2 (USA), no rom included. | 8 | 🟢 | C++ |
 | [Star-Fox-64-X](https://github.com/Team-Resurgent/Star-Fox-64-X) | Star Fox 64 port to the original Xbox from the N64 decompilation | 8 | 🟢 | C |
 | [Suikoden](https://github.com/alexbeavs-ps1-ports/suikoden-recomp) | Static recompilation of Suikoden (PS1) into a native PC port | 8 | 🟢 | Python |
-| [Test Drive II](https://github.com/kylofon/test-drive-2-sdl3) | Open-source recomp of Test Drive II: The Duel. | 8 | 🟢 | C |
 | [TLKRecomp](https://github.com/kinduff/TLKRecomp) | Static recompilation of The Lion King (SNES) with snesrecomp | 8 | 🟢 | C |
 | [Tony-Hawks-Project-8-Recomp](https://github.com/SunJaycy/Tony-Hawks-Project-8-Recomp) | Recompilation of Tony Hawk's Project 8 (Xbox 360) | 8 | 🟢 | CMake |
 | [Unwiished-Recomp (Sonic Unleashed Wii)](https://github.com/K-r0zen/Unwiished-Recomp) | Unofficial native PC port of the Wii version of Sonic Unleashed via static recompilation | 8 | 🟢 | C++ |
@@ -6141,10 +6143,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [in-cold-blood-recomp (In Cold Blood)](https://github.com/alexbeavs-ps1-ports/in-cold-blood-recomp) | Static recompilation setup for In Cold Blood (PS1) | 7 | 🟢 | Python |
 | [jumping-flash-collection](https://github.com/BluePointDigital/jumping-flash-collection) | Native recompilation of Jumping Flash! 1, 2 and Robbit Mon Dieu (PS1) | 7 | 🟢 | Python |
 | [JUSDecomp (Jump Ultimate Stars)](https://github.com/piuzera/JUSDecomp) | Static recompilation of Jump Ultimate Stars (Nintendo DS) | 7 | 🟢 | Assembly |
+| [LEGOLAND port](https://github.com/facundosterzerforino/legoland-port) | Native Windows 11 port of LEGOLAND (1999) built from its matching decompilation | 7 | 🟢 | C |
 | [luigismansion (Luigi's Mansion)](https://github.com/sp00nznet/luigismansion) | Static recompilation of Luigi's Mansion (GameCube) to native PC | 7 | 🟢 | C++ |
 | [MTR-GWRE2 (Geometry Wars)](https://github.com/MissingThePixel/MTR-GWRE2) | Recompilation of Geometry Wars: Retro Evolved 2 (Xbox 360) | 7 | 🟢 | Java |
 | [NumWorks-Super-Mario-64](https://github.com/Mason363/NumWorks-Super-Mario-64) | Super Mario 64 on the NumWorks calculator from the n64decomp decompilation | 7 | 🟢 | C |
-| [oot-recompiled](https://github.com/JonB-Dev/oot-recompiled) | Static recompilation of Ocarina of Time into a native Windows executable | 7 | 🟢 | C++ |
 | [pret decompilation decomp](https://github.com/dnllnoe/pokeemerald-ps2) | Pokémon Emerald on PlayStation 2, a port of the pret decompilation | 7 | 🟢 | C |
 | [PS5_EternalDarkness](https://github.com/griches/PS5_EternalDarkness) | Eternal Darkness on PS5 homebrew, built from Eternal Darkness Recomp | 7 | 🟢 | C |
 | [rexauto](https://github.com/Player124413/rexauto) | Desktop app and pipeline that turns an Xbox 360 game container into a recompiled PC build | 7 | 🟢 | Python |
@@ -6153,7 +6155,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SHO-GTA-VCS-PS2Recomp](https://github.com/BlackLineInteractive/SHO-GTA-VCS-PS2Recomp) | Playstation 2 Static Recompiler Silent Hill Origins & GTA Vice City Stories | 7 | 🗄️ | C++ |
 | [Sonic-Generations-Recomp](https://github.com/Player124413/Sonic-Generations-Recomp) | PC and Android recompilation of Sonic Generations (Xbox 360) with XenonRecomp | 7 | 🟢 | C++ |
 | [SonicBlastGGRecomp (Sonic Blast)](https://github.com/mstan/SonicBlastGGRecomp) | Static recompilation of Sonic Blast (Game Gear) | 7 | 🟢 | PowerShell |
-| [Super Smash Bros. Melee based on the decompilation port](https://github.com/sonsegajp/YAMPP) | Native PC port of Super Smash Bros. Melee based on the decompilation | 7 | 🟢 | C++ |
 | [Tekken3-PC](https://github.com/Muqaddas12/Tekken3-PC) | Native static recompilation PC port of Tekken 3 (PS1) | 7 | 🟢 | Python |
 | [vbrecomp](https://github.com/mstan/vbrecomp) | Static recompiler for Virtual Boy games | 7 | 🟢 | C |
 | [Vette](https://github.com/PlasticCog/Vette2026) | Recomp of the game Vette by Spectrum Holobyte. | 7 | 🟢 | C++ |
@@ -6168,14 +6169,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [castlevania-ii-snes](https://github.com/rumbleminze/castlevania-ii-snes) | SNES port of the NES game Castlevania II: Simon's Quest | 6 | 🟢 | Assembly |
 | [Daytona-USA-Web](https://github.com/johannruiz/Daytona-USA-Web) | Browser port of Daytona USA based on daytona-arcade-recomp, using WebAssembly and WebGPU | 6 | 🟢 | JavaScript |
 | [dbz-budokai-hd (PS3)](https://github.com/gnome41/dbz-budokai-hd) | Static recompilation of Dragon Ball Z: Budokai HD (PS3) to native Windows | 6 | 🟢 | C++ |
+| [DOA3 (Android)](https://github.com/Wannamingo/DOA3) | Unofficial native Android port of Dead or Alive 3 (Xbox) | 6 | 🟢 | C |
 | [FightersRecomp](https://github.com/Rayz0rum/FightersRecomp) | Sonic the Fighters (XBLA) recompiled on ReXGlue with path tracing | 6 | 🟢 | C++ |
 | [fm4-recomp (Forza Motorsport 4)](https://github.com/GabrielCRadu/fm4-recomp) | Native 64-bit Windows static recompilation of Forza Motorsport 4 (Xbox 360) | 6 | 🟢 | C++ |
-| [Gundam SEED: Battle Assault](https://github.com/omegakatana92/Gundam-Seed-Battle-Assault-Recomp) | Static recompilation of Gundam SEED: Battle Assault (GBA) into a native PC port | 6 | 🟢 | C++ |
 | [harvest-moon-64-recompiled](https://github.com/ai-tdd-labs/harvest-moon-64-recompiled) | Work-in-progress PC port of Harvest Moon 64 via recompilation | 6 | 🟢 | C++ |
 | [HarvestMoon64-Recomp](https://github.com/Rainchus/HarvestMoon64-Recomp) | Static recompilation of Harvest Moon 64 (N64) | 6 | 🟢 | C++ |
 | [HotelMarioRecomp (Hotel Mario)](https://github.com/mstan/HotelMarioRecomp) | Static recompilation of Hotel Mario (Philips CD-i) | 6 | 🟢 | PowerShell |
 | [L4D-PC-Recomp (Left 4 Dead)](https://github.com/KeithKirenai/L4D-PC-Recomp) | Left 4 Dead (Xbox 360) static recompilation runtime for PC with XenonRecomp | 6 | 🟢 | C++ |
-| [LEGOLAND port](https://github.com/facundosterzerforino/legoland-port) | Native Windows 11 port of LEGOLAND (1999) built from its matching decompilation | 6 | 🟢 | C |
 | [metal-slug-x-recomp](https://github.com/AlmazProud/metal-slug-x-recomp) | Native Windows port of Metal Slug X (Neo Geo) by static 68000 recompilation | 6 | 🟢 | C |
 | [minigore2-native-arm](https://github.com/EapRules/minigore2-native-arm) | Minigore 2: Zombies running natively on Linux ARM handhelds through an Android ELF loader | 6 | 🟢 | C++ |
 | [mpatrol (Moon Patrol)](https://github.com/jotd666/mpatrol) | Amiga port of the Moon Patrol arcade game, transcoded from the original code | 6 | 🟢 | C |
@@ -6196,9 +6196,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Bubble-Bobble-NES-Static-Recomp](https://github.com/Junior-Jones/Bubble-Bobble-NES-Static-Recomp) | Static recompilation of Bubble Bobble (NES) for Windows | 5 | 🟢 | C |
 | [comixzone (Comix Zone)](https://github.com/sp00nznet/comixzone) | Static recompilation of Comix Zone (Xbox 360 XBLA) to native PC | 5 | 🟢 | C++ |
 | [cosmo (Cosmo's Cosmic Adventure)](https://github.com/digows/cosmo) | Native source port of Cosmo's Cosmic Adventure (Apogee, 1992) | 5 | 🟢 | C |
-| [DOA3 (Android)](https://github.com/Wannamingo/DOA3) | Unofficial native Android port of Dead or Alive 3 (Xbox) | 5 | 🟢 | C |
+| [CyberMage Modern](https://github.com/RoninSan369/CyberMageModern) | Recomp of the DOS game CyberMage. | 5 | 🟢 |  |
 | [extremeg (Extreme-G)](https://github.com/sp00nznet/extremeg) | Static recompilation of Extreme-G (N64, 1998) to native PC | 5 | 🟢 | C++ |
 | [gh2 (Guitar Hero II)](https://github.com/sp00nznet/gh2) | Static recompilation of Guitar Hero II (Xbox 360) to native Windows | 5 | 🟢 | Python |
+| [Gundam SEED: Battle Assault](https://github.com/omegakatana92/Gundam-Seed-Battle-Assault-Recomp) | Static recompilation of Gundam SEED: Battle Assault (GBA) into a native PC port | 5 | 🟢 | C++ |
 | [imabikisou-pc](https://github.com/yasindevs/imabikisou-pc) | Experimental Imabikisou PS3-to-PC recompilation using ps3recomp | 5 | 🟢 | C++ |
 | [LineWars II SDL](https://github.com/fredangstadt-lang/LineWarsII-SDL) | SDL3 backend for a portable-C reconstruction of the 1994 DOS game LineWars II | 5 | 🟢 | C |
 | [megarocket (Commander Keen)](https://github.com/CrossplayGaming/megarocket) | All seven Commander Keen games in one native app for Windows and Android | 5 | 🟢 | GDScript |
@@ -6217,7 +6218,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [VivaPinataRecomp (org)](https://github.com/VivaPinataRecomp/VivaPinataRecomp) | Recompilation project for Viva Piñata (Xbox 360) | 5 | 🟡 | Python |
 | [Woody-Portable](https://github.com/wendersondiazx/reWoodpecker) | Native PSP port of Woody Woodpecker: Escape from Buzz Buzzard Park | 5 | 🟢 | C++ |
 | [WWF No Mercy for Meta Quest 3](https://github.com/VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-) | Standalone Meta Quest 3 port of the WWF No Mercy N64 recompilation (N64) | 5 | 🟢 |  |
-| [CyberMage Modern](https://github.com/RoninSan369/CyberMageModern) | Recomp of the DOS game CyberMage. | 4 | 🟢 |  |
 | [F-19](https://github.com/xor2003/f19re) | Recomp of MicroProse F-19. | 4 | 🟢 | Assembly |
 | [Kirby 64: The Crystal Shards port](https://github.com/JR3DFUL/HALBERD) | PC port of Kirby 64: The Crystal Shards built on the decompilation | 4 | 🟢 | C |
 | [Libre40 (Army of Two: The 40th Day)](https://github.com/automoto/Libre40) | Recompilation and preservation project for Army of Two: The 40th Day (Xbox 360) | 4 | 🟢 | Python |
@@ -6237,13 +6237,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ace Combat 3: Electrosphere port](https://github.com/psxports/AceCombat3-xport) | PC port of Ace Combat 3: Electrosphere (PS1) built from a decompilation | 1 | 🟢 | C |
 | [Airborn Ranger](https://github.com/xor2003/airborn-ranger) | Recomp of Airborn Ranger by MicroProse. | 1 | 🟢 | C |
 | [Apocalypse port](https://github.com/psxports/Apocalypse-xport) | PC port of Apocalypse (PS1) built from a decompilation | 1 | 🟢 | C++ |
+| [dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | Dante's Inferno (Xbox 360) running natively on Nintendo Switch | 1 | 🟢 | C++ |
 | [Diddy Kong Racing port](https://github.com/RyoSaeba89/DKR-GC) | Native GameCube port of Diddy Kong Racing built on the N64 decompilation | 1 | 🟢 | C |
 | [Fighting Force port](https://github.com/psxports/FightingForce-xport) | PC port of Fighting Force (PS1) built from a decompilation | 1 | 🟢 | C |
 | [Magic-Carpet-port](https://github.com/jessperler88/Magic-Carpet-port) | Bullfrog's Magic Carpet (1994) decompiled and ported to native Windows x64 | 1 | 🟢 | C++ |
 | [MechWarrior decomp](https://github.com/Elthial/Mechwarrior-sdl-port) | SDL3 port of MechWarrior (1989) from decompiled sources | 1 | 🟢 | C |
 | [Rapid Racer port](https://github.com/psxports/RapidRacer-xport) | PC port of Rapid Racer (PS1) built from a decompilation | 1 | 🟢 | C |
 | [Auto Destruct port](https://github.com/psxports/AutoDestruct-xport) | PC port of Auto Destruct (PS1) built from a decompilation | 0 | 🟢 | C |
-| [dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | Dante's Inferno (Xbox 360) running natively on Nintendo Switch | 0 | 🟢 | C++ |
 | [Demolition Racer port](https://github.com/psxports/DemolitionRacer-xport) | PC port of Demolition Racer (PS1) built from a decompilation | 0 | 🟢 | C |
 | [DNZHRecomp](https://gitlab.com/sonicdcer/DNZHRecomp) | DNZHRecomp |  | ⚪ |  |
 | [Extreme-G: Recompiled](https://gitlab.com/sonicdcer/ExtremeGRecomp) | Extreme-G N64 static recompilation |  | ⚪ |  |
