@@ -24,13 +24,13 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Freetar](https://github.com/kmille/freetar) | Alternative frontend for Ultimate Guitar tabs | 788 | 🟢 | HTML |
+| [Freetar](https://github.com/kmille/freetar) | Alternative frontend for Ultimate Guitar tabs | 789 | 🟢 | HTML |
 | [Quetre](https://github.com/zyachel/quetre) | Libre frontend for Quora | 503 | 🟡 | JavaScript |
 | [libremdb](https://github.com/zyachel/libremdb) | FOSS alternative frontend for IMDb | 441 | 🟢 | TypeScript |
 | [Dumb](https://github.com/rramiachraf/dumb) | Private alternative frontend for Genius lyrics | 422 | 🟢 | Go |
-| [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) | Private Stack Overflow frontend without tracking | 380 | 🟢 | Go |
+| [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) | Private Stack Overflow frontend without tracking | 381 | 🟢 | Go |
 | [BiblioReads](https://github.com/nesaku/BiblioReads) | Alternative privacy-focused Goodreads frontend | 359 | 🟢 | JavaScript |
-| [Neuters](https://github.com/HookedBehemoth/neuters) | Lightweight alternative frontend for Reuters | 162 | 🟢 | Rust |
+| [Neuters](https://github.com/HookedBehemoth/neuters) | Lightweight alternative frontend for Reuters | 163 | 🟢 | Rust |
 | [Wayback Classic](https://github.com/ticky/wayback-classic) | Wayback Machine frontend for old browsers | 136 | 🟢 | Ruby |
 | [LibMedium](https://github.com/realaravinth/libmedium) | Privacy-focused proxy frontend for Medium | 96 | 🟡 | HTML |
 | [Intellectual](https://github.com/Insprill/intellectual) | Alternative frontend for Genius focused on privacy and simplicity | 76 | 🟢 | Rust |
@@ -65,7 +65,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 920 | 🟢 | JavaScript |
+| [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) | Third-party Pixiv viewer web app | 921 | 🟢 | JavaScript |
 | [Binternet](https://github.com/Ahwxorg/Binternet) | Privacy-respecting Pinterest frontend | 306 | 🟢 | PHP |
 | [Pinless](https://github.com/bunk-im/pinless) | Alternative Pinterest frontend | 48 | 🟢 | Go |
 | [Omgur](https://github.com/geraldwuhoo/omgur) | Privacy-focused alternative Imgur frontend | 24 | 🟢 | Go |
@@ -88,7 +88,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [ProxiTok](https://github.com/pablouser1/ProxiTok) | Alternative frontend for TikTok (PHP) built on a reverse-engineered TikTok API | 2,151 | 🟡 | PHP |
+| [ProxiTok](https://github.com/pablouser1/ProxiTok) | Alternative frontend for TikTok (PHP) built on a reverse-engineered TikTok API | 2,154 | 🟡 | PHP |
 | [Offtiktok](https://github.com/MarsHeer/offtiktok) | View TikTok videos without the TikTok app or tracking | 112 | 🟢 | TypeScript |
 | [sticktock](https://github.com/PrivacySafe/sticktock) | Share TikToks Safely. No Ads, No Spyware, No Phone App. | 64 | 🗄️ | TypeScript |
 | [Bibliogram](https://sr.ht/~cadence/bibliogram/) | Alternative Instagram frontend (discontinued) that scraped Instagram pages |  | ⚪ |  |
@@ -132,10 +132,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [searxng](https://github.com/searxng/searxng) | Metasearch engine that scrapes and aggregates results from many search services | 39,337 | 🟢 | Python |
-| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,560 | 🟢 | Python |
-| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,555 | 🗄️ | Python |
-| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,533 | 🟢 | TypeScript |
+| [searxng](https://github.com/searxng/searxng) | Metasearch engine that scrapes and aggregates results from many search services | 39,383 | 🟢 | Python |
+| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine (predecessor of SearXNG) | 13,562 | 🟢 | Python |
+| [Whoogle Search](https://github.com/benbusby/whoogle-search) | Self-hosted ad-free Google search proxy that scrapes results | 11,554 | 🗄️ | Python |
+| [Degoog](https://github.com/degoog-org/degoog) | Search engine frontend that scrapes Google results | 2,536 | 🟢 | TypeScript |
 | [librex](https://github.com/hnhx/librex) | JavaScript-free privacy meta search engine scraping Google and others (LibreX) | 844 | 🟡 | PHP |
 | [araa-search](https://github.com/Extravi/araa-search) | Self-hosted privacy Google metasearch engine with API (scrapes Google results) | 335 | 🟢 | Python |
 | [LibreY](https://github.com/Ahwxorg/LibreY) | Privacy-respecting metasearch engine scraping Google and others | 325 | 🟢 | PHP |
@@ -154,7 +154,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) | Alternative frontend for Google Translate using scraped results | 1,851 | 🔴 | TypeScript |
+| [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) | Alternative frontend for Google Translate using scraped results | 1,850 | 🔴 | TypeScript |
 | [simplytranslate_mobile](https://github.com/ManeraKai/simplytranslate_mobile) | Android frontend to Google Translate via SimplyTranslate | 216 | 🟢 | Dart |
 | [Mozhi](https://codeberg.org/aryak/mozhi) | Translation frontend aggregating Google, DeepL, Yandex and others |  | ⚪ |  |
 | [SimplyTranslate](https://codeberg.org/ManeraKai/simplytranslate) | Alternative frontend for Google Translate, Reverso and others |  | ⚪ |  |
@@ -165,7 +165,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Xtra](https://github.com/crackededed/Xtra) | Twitch player and browser for Android using Twitch's GraphQL API | 2,345 | 🟢 | Kotlin |
+| [Xtra](https://github.com/crackededed/Xtra) | Twitch player and browser for Android using Twitch's GraphQL API | 2,346 | 🟢 | Kotlin |
 | [Twire](https://github.com/twireapp/Twire) | Alternative open-source Twitch client for Android | 1,309 | 🟢 | Kotlin |
 | [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) | Privacy-respecting Twitch frontend |  | ⚪ |  |
 | [safetwitch-backend](https://codeberg.org/SafeTwitch/safetwitch-backend) | SafeTwitch backend that queries Twitch's private GraphQL API |  | ⚪ |  |
@@ -175,7 +175,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Squawker](https://github.com/j-fbriere/squawker) | Maintained fork of Fritter: account-free Twitter client for Android | 1,496 | 🟢 | Dart |
+| [Squawker](https://github.com/j-fbriere/squawker) | Maintained fork of Fritter: account-free Twitter client for Android | 1,497 | 🟢 | Dart |
 | [Fritter](https://github.com/jonjomckay/fritter) | Twitter client for Android using the guest/private web API, no account | 1,450 | 🟢 | Dart |
 | [Shitter](https://codeberg.org/shitter/shitter) | Alternative Twitter/X frontend |  | ⚪ |  |
 | [yitter](https://codeberg.org/PrivacyDev/yitter) | Alternative frontend for Twitter/X |  | ⚪ |  |
@@ -185,20 +185,20 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [ytfzf](https://github.com/pystardust/ytfzf) | POSIX script to search and play YouTube videos without an API key | 4,163 | 🟡 | Shell |
-| [yattee](https://github.com/yattee/yattee) | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,794 | 🟢 | Swift |
-| [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | Open-source YouTube app for Android using NewPipeExtractor | 2,808 | 🟢 | Java |
-| [ViewTube](https://github.com/ViewTube/viewtube) | Privacy-friendly YouTube frontend that scrapes YouTube directly | 1,477 | 🟢 | TypeScript |
+| [yattee](https://github.com/yattee/yattee) | YouTube frontend for iOS, tvOS and macOS built on Invidious and Piped | 3,798 | 🟢 | Swift |
+| [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | Open-source YouTube app for Android using NewPipeExtractor | 2,809 | 🟢 | Java |
+| [ViewTube](https://github.com/ViewTube/viewtube) | Privacy-friendly YouTube frontend that scrapes YouTube directly | 1,478 | 🟢 | TypeScript |
 | [youtube-viewer](https://github.com/trizen/youtube-viewer) | Lightweight YouTube client for Linux (CLI and GTK) | 1,321 | 🟢 | Perl |
 | [Materialious](https://github.com/Materialious/Materialious) | Material Design YouTube client built on the Invidious API | 1,240 | 🟢 | Svelte |
 | [Beatbump](https://github.com/snuffyDev/Beatbump) | Alternative YouTube Music frontend in SvelteKit using the internal API | 1,129 | 🗄️ | TypeScript |
-| [my-yt](https://github.com/christian-fei/my-yt) | Clean, minimal self-hosted YouTube frontend | 1,097 | 🟢 | JavaScript |
-| [FreeTube PWA (FreeTubeCordova)](https://github.com/MarmadileManteater/FreeTubeAndroid) | Android/PWA build of FreeTube, a private YouTube client | 789 | 🟢 | Vue |
-| [youtube-local](https://github.com/user234683/youtube-local) | Browser-based YouTube client that fetches pages directly, no Google JS | 781 | 🟢 | JavaScript |
+| [my-yt](https://github.com/christian-fei/my-yt) | Clean, minimal self-hosted YouTube frontend | 1,123 | 🟢 | JavaScript |
+| [FreeTube PWA (FreeTubeCordova)](https://github.com/MarmadileManteater/FreeTubeAndroid) | Android/PWA build of FreeTube, a private YouTube client | 790 | 🟢 | Vue |
+| [youtube-local](https://github.com/user234683/youtube-local) | Browser-based YouTube client that fetches pages directly, no Google JS | 782 | 🟢 | JavaScript |
 | [yt2009](https://github.com/ftde0/yt2009) | Recreation of the 2009 YouTube frontend backed by live YouTube data | 588 | 🟢 | JavaScript |
 | [pipe-viewer](https://github.com/trizen/pipe-viewer) | Lightweight YouTube client that scrapes YouTube without an API key | 518 | 🟢 | Perl |
-| [TypeType](https://github.com/TypeType-Video/TypeType) | Privacy-respecting frontend for watching YouTube, Bilibili and NicoNico | 509 | 🟢 | Shell |
+| [TypeType](https://github.com/TypeType-Video/TypeType) | Privacy-respecting frontend for watching YouTube, Bilibili and NicoNico | 513 | 🟢 | Shell |
 | [ytify](https://github.com/n-ce/ytify) | Lightweight YouTube Music/YouTube audio streaming frontend | 467 | 🟢 | TypeScript |
-| [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) | Alternative YouTube frontend | 264 | 🟢 | JavaScript |
+| [OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) | Alternative YouTube frontend | 267 | 🟢 | JavaScript |
 | [invidious-companion](https://github.com/iv-org/invidious-companion) | Invidious companion service handling YouTube video streams via youtube.js | 218 | 🟢 | TypeScript |
 | [Piped-Material](https://github.com/mmjee/Piped-Material) | Material Design frontend for the Piped YouTube proxy | 172 | 🟢 | Vue |
 | [LightTube](https://github.com/lighttube-org/LightTube) | Lightweight, privacy-respecting YouTube frontend using InnerTube | 141 | 🗄️ | C# |
