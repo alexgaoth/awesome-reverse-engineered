@@ -2808,7 +2808,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [jEISCP](https://github.com/cljk/jEISCP) | Java implementation of the Onkyo eISCP/ISCP protocol | 15 | 🟢 | Java |
 | [pymediaroom](https://github.com/dgomes/pymediaroom) | Python remote control for Microsoft Mediaroom IPTV set-top boxes | 15 | 🔴 | Python |
 | [skyq_remote](https://github.com/RogerSelwyn/skyq_remote) | Python module for accessing Sky Q boxes and EPG and sending remote commands | 15 | 🟢 | Python |
-| [aiomusiccast](https://github.com/vigonotion/aiomusiccast) | Async Python library for Yamaha MusicCast devices | 14 | 🟢 | Python |
+| [aiomusiccast](https://github.com/vigonotion/aiomusiccast) | Async Python library for Yamaha MusicCast devices | 14 | 🟡 | Python |
 | [avrmqtt](https://github.com/yoo/avrmqtt) | Connects a Denon AVR receiver to an MQTT broker | 14 | 🔴 | Go |
 | [homebridge-vizio](https://github.com/JohnWickham/homebridge-vizio) | Homebridge plugin for Vizio SmartCast displays | 14 | 🔴 | JavaScript |
 | [androidtv-remote-shell](https://github.com/phhusson/androidtv-remote-shell) | Controls an Android TV device using Google's proprietary remote control protocol | 13 | 🔴 | Go |

@@ -1620,7 +1620,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SteamWebPipes](https://github.com/xPaw/SteamWebPipes) | Pipes Steam PICS changelist events to websockets using SteamKit | 133 | 🗄️ | C# |
 | [Kasumi](https://github.com/p0mpurin/Kasumi) | Unofficial native GeForce NOW and Xbox Cloud Gaming client for the New Nintendo 3DS | 125 | 🟢 | C |
 | [SAMP-Mobile](https://github.com/kuzia15/SAMP-Mobile) | Open-source SA:MP mobile multiplayer client | 125 | 🟢 |  |
-| [conning_tower](https://github.com/andychucs/conning_tower) | Kantai Collection browser for iPhone, iPad and Android | 124 | 🟢 | Dart |
+| [conning_tower](https://github.com/andychucs/conning_tower) | Kantai Collection browser for iPhone, iPad and Android | 124 | 🟡 | Dart |
 | [lcu-driver](https://github.com/sousa-andre/lcu-driver) | Python interface for the League of Legends client local API | 123 | 🟡 | Python |
 | [RefugeNext](https://github.com/summerkirakira/RefugeNext) | Third-party client app for Star Citizen | 120 | 🟢 | Dart |
 | [green-vita](https://github.com/Day-OS/green-vita) | Xbox Cloud Gaming client for PlayStation Vita | 119 | 🟢 | Rust |
@@ -3100,7 +3100,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Source-2-Decompiler](https://github.com/Dingf/Source-2-Decompiler) | Decompiler for Source 2 file formats | 45 | 🔴 | C++ |
 | [samp-source](https://github.com/Dryxio/samp-source) | Byte-for-byte source rebuild of SA-MP 0.3.7 R5 | 44 | 🟢 | C++ |
 | [ShortLine (reSL)](https://github.com/konovalov-aleks/reSL) | Reversed source code of ShortLine v1.1 (DOS) | 44 | 🟢 | C++ |
-| [EoSDecomp](https://github.com/wearrrrr/EoSDecomp) | Byte-accurate decompilation of Touhou 6 Embodiment of Scarlet Devil | 42 | 🟡 | C++ |
+| [EoSDecomp](https://github.com/wearrrrr/EoSDecomp) | Byte-accurate decompilation of Touhou 6 Embodiment of Scarlet Devil | 42 | 🔴 | C++ |
 | [SCI-Decompilation-Archive](https://github.com/EricOakford/SCI-Decompilation-Archive) | Collection of decompiled source code for Sierra's SCI games | 42 | 🟡 | Scala |
 | [SCUMM-Decompilation-Archive](https://github.com/EricOakford/SCUMM-Decompilation-Archive) | Collection of decompiled source code for Lucasfilm's SCUMM games | 41 | 🟡 | C |
 | [Carmageddon (dethrace-ported-to-web)](https://github.com/Carter54git/dethrace-ported-to-web) | Decompilation of Carmageddon (DOS) | 39 | 🟢 | C |
@@ -3314,7 +3314,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Theme Hospital decomp](https://github.com/matteo-pacini/theme-hospital-decomp) | Matching decompilation of Theme Hospital (DOS, 1997) | 3 | 🟢 | C++ |
 | [Touhou 20 Fossilized Wonders 1.00a decomp](https://github.com/N0zoM1z0/th20) | Source reconstruction of Touhou 20 Fossilized Wonders 1.00a (PC) | 3 | 🟢 | C++ |
 | [Touhou 3 Phantasmagoria of Dim.Dream decomp](https://github.com/N0zoM1z0/th03) | Source reconstruction of Touhou 3 Phantasmagoria of Dim.Dream (PC-98) | 3 | 🟢 | Python |
-| [Webfishing decomp](https://github.com/BlizzardfurMeow/Webfishing-Decompiled) | Decompiled source of Webfishing (PC) | 3 | 🟢 | GDScript |
+| [Webfishing decomp](https://github.com/BlizzardfurMeow/Webfishing-Decompiled) | Decompiled source of Webfishing (PC) | 3 | 🟡 | GDScript |
 | [wowdecomp (World of Warcraft)](https://github.com/SatyPardus/wowdecomp) | Decompilation of the World of Warcraft client | 3 | 🟢 |  |
 | [3D Pinball disassembly](https://github.com/Brian151/disassemball3d) | Disassembly of 3D Pinball for Windows | 2 | 🔴 | Assembly |
 | [3D Pinball Space Cadet decomp](https://github.com/Randomno/pinball-decomp) | Matching decompilation of 3D Pinball Space Cadet (Windows) | 2 | 🟢 | C++ |
@@ -4336,7 +4336,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Playlunky (Spelunky 2)](https://github.com/spelunky-fyi/Playlunky) | Mod management for Spelunky 2 via DLL injection | 21 | 🟢 | C |
 | [PSPModBase](https://github.com/xan1242/PSPModBase) | Plugin base for PSP game modding and code injection | 21 | 🟢 | C |
 | [RatataR (Ratatouille)](https://github.com/0x5abe/RatataR) | Custom launcher for Ratatouille (PC) | 21 | 🟢 | C++ |
-| [Construction-Set-Extender](https://github.com/shadeMe/Construction-Set-Extender) | OBSE plugin that overhauls the Oblivion Construction Set | 20 | 🟢 | C++ |
+| [Construction-Set-Extender](https://github.com/shadeMe/Construction-Set-Extender) | OBSE plugin that overhauls the Oblivion Construction Set | 20 | 🟡 | C++ |
 | [DW2ModLoader](https://github.com/DW2MC/DW2ModLoader) | Mod loader for Distant Worlds 2 | 20 | 🔴 | C# |
 | [nier-mod-loader](https://github.com/xxk-i/nier-mod-loader) | Loads CPK mods and DLL plugins into NieR:Automata | 20 | 🔴 | Rust |
 | [RED3ext (The Witcher 3)](https://github.com/wopss/RED3ext) | Script extender for REDengine 3 (The Witcher 3) | 20 | 🟡 | C++ |

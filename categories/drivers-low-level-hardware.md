@@ -187,7 +187,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [g-helper-linux (UdayaSri0)](https://github.com/UdayaSri0/g-helper-linux) | Open control tool for ASUS laptops and ROG Ally on Linux: modes, fans, lighting | 56 | 🟢 | Rust |
 | [omen-fan-control](https://github.com/arfelious/omen-fan-control) | HP Omen and Victus fan control CLI and GUI for Linux | 56 | 🟢 | Python |
 | [Zephyrus Control Center](https://github.com/vddCore/Zephyrus-Control-Center) | Armoury Crate replacement for ASUS Zephyrus laptops | 50 | 🟡 | C# |
-| [OmenHwCtl](https://github.com/GeographicCone/OmenHwCtl) | HP Omen hardware control via the BIOS WMI interface | 49 | 🟡 | PowerShell |
+| [OmenHwCtl](https://github.com/GeographicCone/OmenHwCtl) | HP Omen hardware control via the BIOS WMI interface | 49 | 🔴 | PowerShell |
 | [tuxedo-backlight-control](https://github.com/webketje/tuxedo-backlight-control) | CLI and UI for TUXEDO/Clevo keyboard backlight on Linux | 49 | 🗄️ | Python |
 | [openomen](https://github.com/openomen/openomen) | Unofficial Linux driver and daemon for HP OMEN hardware | 48 | 🟢 | Python |
 | [MsiFanControl](https://github.com/kykc/MsiFanControl) | Fan control utility for MSI laptops | 45 | 🔴 | C# |

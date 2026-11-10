@@ -1,10 +1,10 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 236 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 237 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Applications](#applications) (85)
+- [Applications](#applications) (86)
 - [Binary Translators](#binary-translators) (12)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (10)
 - [OS & Compatibility Layers](#os--compatibility-layers) (68)
@@ -63,6 +63,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [honeydew](https://github.com/daijro/honeydew) | Clean-room reimplementation of FL Studio Mobile in Rust | 123 | 🟢 | Rust |
 | [LibreShockwave](https://github.com/LibreShockwave/LibreShockwave) | Open-source SDK, decompiler and web player for Adobe Shockwave | 94 | 🟢 | C++ |
 | [paper-rs](https://github.com/michaelshimeles/sketch) | Clean-room Rust reimplementation of the Paper design app | 88 | 🟢 | Rust |
+| [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) | Independent desktop studio that reads and writes Figma .fig files and reimplements editor behaviour locally (PolyForm Shield, source-available) | 87 | 🟢 | Rust |
 | [geowrite](https://github.com/mist64/geowrite) | Reconstructed source code of geoWrite 2.1 for the Commodore 64 | 70 | 🔴 | Assembly |
 | [gnupoc-package](https://github.com/mstorsjo/gnupoc-package) | Patches and native Unix reimplementations of tools to use Symbian SDKs on Unix | 61 | 🔴 | Shell |
 | [Scmpoo](https://github.com/lwu309/Scmpoo) | Reverse engineering of STRAY SHEEP The Screen Mate, a 16-bit Windows application | 61 | 🔴 | C |

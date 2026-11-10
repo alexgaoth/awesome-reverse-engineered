@@ -468,7 +468,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [payload-server](https://github.com/WiiLink24/payload-server) | Payload server for WiiLink WFC, the Nintendo Wi-Fi Connection replacement | 2 | 🟢 | Go |
 | [rpg-maker-fes](https://github.com/PretendoNetwork/rpg-maker-fes) | Pretendo replacement server for RPG Maker Fes and RPG Maker Fes Player on 3DS | 2 | 🟡 | TypeScript |
 | [tetris-axis](https://github.com/PretendoNetwork/tetris-axis) | Pretendo NEX game server for Tetris Axis / Tetris Ultimate on 3DS | 2 | 🟢 | Go |
-| [tv-epg](https://github.com/WiiLink24/tv-epg) | TV guide (EPG) API for the revived Japanese Wii TV no Tomo Channel | 2 | 🟡 | HTML |
+| [tv-epg](https://github.com/WiiLink24/tv-epg) | TV guide (EPG) API for the revived Japanese Wii TV no Tomo Channel | 2 | 🔴 | HTML |
 | [Wii-no-Ma-Patcher](https://github.com/WiiLink24/Wii-no-Ma-Patcher) | Utility to patch the Japanese Wii no Ma channel for WiiLink servers | 2 | 🔴 | Go |
 | [WSR-Patcher](https://github.com/WiiLink24/WSR-Patcher) | Patches Wii Sports Resort to download Miis from the revived Check Mii Out Channel | 2 | 🟢 | C++ |
 | [wuc24](https://github.com/waffulzz/wuc24) | WiiConnect24 standby client for Wii U mode (Cafe OS) | 2 | 🟢 | C++ |

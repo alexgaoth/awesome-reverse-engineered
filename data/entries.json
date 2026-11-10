@@ -46143,6 +46143,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "DESIGN:OS Studio",
+  "url": "https://github.com/jangtrinh/design-os-studio",
+  "desc": "Independent desktop studio that reads and writes Figma .fig files and reimplements editor behaviour locally (PolyForm Shield, source-available)",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 87,
+  "archived": false,
+  "pushed": "2026-11-10",
+  "lang": "Rust",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-11-10"
+ },
+ {
   "name": "desktop-games-nostalgia",
   "url": "https://github.com/ucodia/desktop-games-nostalgia",
   "desc": "macOS and browser port of Gemtree's 2000 Desktop Games (Stress Reducers), rebuilt with REA and Ghidra",
