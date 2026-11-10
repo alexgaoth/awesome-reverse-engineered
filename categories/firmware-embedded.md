@@ -528,7 +528,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [aiounifi](https://github.com/Kane610/aiounifi) | Async Python library for the UniFi Controller API | 89 | 🟢 | Python |
 | [python-qnapstats](https://github.com/colinodell/python-qnapstats) | Python API for obtaining QNAP NAS system stats | 89 | 🟢 | Python |
 | [huawei_mesh_router](https://github.com/vmakeev/huawei_mesh_router) | Huawei mesh routers via their undocumented local web API | 81 | 🟢 | Python |
-| [SFPLiberate](https://github.com/josiah-nelson/SFPLiberate) | Community web tool to unlock the full potential of the Unifi SFP Wizard | 79 | 🟢 | TypeScript |
+| [SFPLiberate](https://github.com/josiah-nelson/SFPLiberate) | Community web tool to unlock the full potential of the Unifi SFP Wizard | 79 | 🟡 | TypeScript |
 | [linksys_velop](https://github.com/uvjim/linksys_velop) | Home Assistant integration for Linksys Velop mesh using its local JNAP API | 77 | 🟢 | Python |
 | [TP-Link-Archer-C6-EU-re](https://github.com/hacefresko/TP-Link-Archer-C6-EU-re) | Reverse engineering the TP-Link Archer C6 v4 bare-metal firmware | 77 | 🟡 | Python |
 | [hass_tplink_easy_smart](https://github.com/vmakeev/hass_tplink_easy_smart) | Home Assistant component controlling TP-Link Easy Smart switches over LAN | 74 | 🟢 | Python |
