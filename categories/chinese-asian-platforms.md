@@ -1,6 +1,6 @@
 # Chinese & Asian Platforms
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 772 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=chinese-asian-platforms) · 770 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
@@ -8,83 +8,83 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Cloud Drives](#cloud-drives) (66)
 - [Douyin & Kuaishou](#douyin--kuaishou) (59)
 - [Games (miHoYo etc.)](#games-mihoyo-etc) (31)
-- [Japan & Korea](#japan--korea) (87)
+- [Japan & Korea](#japan--korea) (86)
 - [Music (NetEase, QQ Music, Kugou)](#music-netease-qq-music-kugou) (85)
 - [Shopping & Services](#shopping--services) (38)
-- [WeChat & QQ](#wechat--qq) (148)
+- [WeChat & QQ](#wechat--qq) (147)
 - [Xiaohongshu & Weibo & Zhihu](#xiaohongshu--weibo--zhihu) (99)
 
 ## Bilibili
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | Userscript that extends the Bilibili web client using its internal APIs | 31,074 | 🟢 | TypeScript |
-| [downkyi](https://github.com/leiurayer/downkyi) | DownKyi: Windows Bilibili video downloader using reverse-engineered Bilibili APIs | 24,333 | 🟢 |  |
-| [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | 20,687 | 🟢 | Dart |
-| [BBLL](https://github.com/xiaye13579/BBLL) | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 | 17,518 | 🟡 |  |
-| [BBDown](https://github.com/nilaoda/BBDown) | Command-line Bilibili downloader built on the site's private web and app APIs | 13,823 | 🗄️ | C# |
-| [pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | 13,726 | 🗄️ | Dart |
-| [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) | Xposed module that patches the Bilibili Android app to remove region locks and add features | 11,525 | 🗄️ | Kotlin |
-| [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | Bilibili daily-task automation built on the site's private APIs | 9,209 | 🟢 | C# |
-| [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | Cross-platform Bilibili video downloader with danmaku and metadata support | 9,026 | 🟢 | Python |
+| [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | Userscript that extends the Bilibili web client using its internal APIs | 31,085 | 🟢 | TypeScript |
+| [downkyi](https://github.com/leiurayer/downkyi) | DownKyi: Windows Bilibili video downloader using reverse-engineered Bilibili APIs | 24,329 | 🟢 |  |
+| [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | 20,732 | 🟢 | Dart |
+| [BBLL](https://github.com/xiaye13579/BBLL) | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 | 17,516 | 🟡 |  |
+| [BBDown](https://github.com/nilaoda/BBDown) | Command-line Bilibili downloader built on the site's private web and app APIs | 13,824 | 🗄️ | C# |
+| [pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | 13,724 | 🗄️ | Dart |
+| [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) | Xposed module that patches the Bilibili Android app to remove region locks and add features | 11,530 | 🗄️ | Kotlin |
+| [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) | Bilibili daily-task automation built on the site's private APIs | 9,215 | 🟢 | C# |
+| [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) | Cross-platform Bilibili video downloader with danmaku and metadata support | 9,066 | 🟢 | Python |
 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 适用于新系统UI的哔哩 | 8,071 | 🗄️ | C# |
 | [downkyicore](https://github.com/yaobiao131/downkyicore) | Cross-platform port of the downkyi Bilibili video downloader | 7,499 | 🟢 |  |
-| [wiliwili](https://github.com/xfangfang/wiliwili) | 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上 | 5,687 | 🟢 | C++ |
-| [biliup](https://github.com/biliup/biliup) | Live stream recorder and command-line uploader for Bilibili | 5,617 | 🟢 | Rust |
-| [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) | GUI Bilibili video downloader for favorites, watch-later lists and uploaders | 5,364 | 🟢 | Java |
+| [wiliwili](https://github.com/xfangfang/wiliwili) | 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上 | 5,689 | 🟢 | C++ |
+| [biliup](https://github.com/biliup/biliup) | Live stream recorder and command-line uploader for Bilibili | 5,621 | 🟢 | Rust |
+| [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) | GUI Bilibili video downloader for favorites, watch-later lists and uploaders | 5,366 | 🟢 | Java |
 | [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) | B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用 | 5,217 | 🟢 | GLSL |
-| [BiliPai](https://github.com/jay3-yy/BiliPai) | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 5,178 | 🟢 | Kotlin |
-| [BiliTools](https://github.com/btjawa/BiliTools) | Cross-platform Bilibili toolbox for downloading video, audio and danmaku via private APIs | 5,006 | 🗄️ |  |
-| [JKVideo](https://github.com/tiajinsha/JKVideo) | 高颜值第三方 B 站 React Native 客户端 | 4,994 | 🟢 | TypeScript |
-| [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) | Bilibili live stream recorder | 4,901 | 🟢 | C# |
+| [BiliPai](https://github.com/jay3-yy/BiliPai) | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 5,192 | 🟢 | Kotlin |
+| [BiliTools](https://github.com/btjawa/BiliTools) | Cross-platform Bilibili toolbox for downloading video, audio and danmaku via private APIs | 5,004 | 🗄️ |  |
+| [JKVideo](https://github.com/tiajinsha/JKVideo) | 高颜值第三方 B 站 React Native 客户端 | 4,996 | 🟢 | TypeScript |
+| [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) | Bilibili live stream recorder | 4,902 | 🟢 | C# |
 | [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) | Unofficial Bilibili Android client | 4,459 | 🔴 | Java |
-| [bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | 3,946 | 🟢 | Kotlin |
-| [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) | ReVanced-based patches and integrations for the Bilibili Android app | 3,908 | 🟢 | Kotlin |
-| [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) | Unofficial Bilibili client for macOS | 3,836 | 🔴 | Objective-C |
+| [bv](https://github.com/aaa1115910/bv) | 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. | 3,945 | 🟢 | Kotlin |
+| [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) | ReVanced-based patches and integrations for the Bilibili Android app | 3,913 | 🟢 | Kotlin |
+| [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) | Unofficial Bilibili client for macOS | 3,835 | 🔴 | Objective-C |
 | [Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) | Python Bilibili video downloader | 3,659 | 🔴 | Python |
-| [BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) | Cross-platform desktop Bilibili video downloader | 3,545 | 🟡 | TypeScript |
-| [PiliPalaX](https://github.com/orz12/PiliPalaX) | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 | 3,391 | 🗄️ | Dart |
-| [bilive](https://github.com/timerring/bilive) | Bilibili live recorder with auto clipping, danmaku rendering and upload | 3,322 | 🟢 | Python |
+| [BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) | Cross-platform desktop Bilibili video downloader | 3,543 | 🟡 | TypeScript |
+| [PiliPalaX](https://github.com/orz12/PiliPalaX) | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 | 3,392 | 🗄️ | Dart |
+| [bilive](https://github.com/timerring/bilive) | Bilibili live recorder with auto clipping, danmaku rendering and upload | 3,323 | 🟢 | Python |
 | [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) | BiliBili Client Demo for Apple TV (tvOS) | 3,182 | 🟢 | Swift |
 | [bilibili-user](https://github.com/airingursb/bilibili-user) | Bilibili user profile crawler | 3,094 | 🔴 | Python |
-| [bilimiao2](https://github.com/10miaomiao/bilimiao2) | bilimiao 2.x | 3,002 | 🟢 | Kotlin |
-| [blbl](https://github.com/cat3399/blbl) | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 | 2,818 | 🟢 | Kotlin |
-| [biu](https://github.com/wood3n/biu) | Desktop music player that streams audio from Bilibili | 2,803 | 🟢 | TypeScript |
-| [blivechat](https://github.com/xfgryujk/blivechat) | YouTube-style Bilibili live chat overlay for OBS using the danmaku protocol | 2,762 | 🟢 | JavaScript |
+| [bilimiao2](https://github.com/10miaomiao/bilimiao2) | bilimiao 2.x | 3,005 | 🟢 | Kotlin |
+| [blbl](https://github.com/cat3399/blbl) | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 | 2,826 | 🟢 | Kotlin |
+| [biu](https://github.com/wood3n/biu) | Desktop music player that streams audio from Bilibili | 2,804 | 🟢 | TypeScript |
+| [blivechat](https://github.com/xfgryujk/blivechat) | YouTube-style Bilibili live chat overlay for OBS using the danmaku protocol | 2,761 | 🟢 | JavaScript |
 | [bili_you](https://github.com/lucinhu/bili_you) | 一个用flutter制作的第三方B站客户端. | 2,734 | 🗄️ | Dart |
-| [bili-sync](https://github.com/amtoaer/bili-sync) | Rust tool that syncs Bilibili favorites and collections to local storage | 2,660 | 🟢 | Rust |
-| [BT](https://github.com/chinasoul/BT) | bilibili TV client | 2,631 | 🟢 |  |
-| [BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) | Third-party documentation of Bilibili HTTP APIs | 2,522 | 🗄️ |  |
-| [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) | PotPlayer plugin that plays Bilibili videos, live streams and music | 2,455 | 🟡 | AngelScript |
-| [B23Downloader](https://github.com/vooidzero/B23Downloader) | Bilibili video, live and manga downloader (unmaintained) | 2,419 | 🔴 | C++ |
-| [bilibili-video-downloader (lanyeeee)](https://github.com/lanyeeee/bilibili-video-downloader) | GUI Bilibili downloader with NFO scraping, subtitles and danmaku | 2,362 | 🟢 | Rust |
-| [yutto](https://github.com/yutto-dev/yutto) | Command-line Bilibili video downloader | 2,157 | 🟢 | Python |
-| [bilibilias](https://github.com/1250422131/bilibilias) | Bilibili video parsing and download tool for Android | 1,811 | 🗄️ |  |
+| [bili-sync](https://github.com/amtoaer/bili-sync) | Rust tool that syncs Bilibili favorites and collections to local storage | 2,661 | 🟢 | Rust |
+| [BT](https://github.com/chinasoul/BT) | bilibili TV client | 2,649 | 🟢 |  |
+| [BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) | Third-party documentation of Bilibili HTTP APIs | 2,523 | 🗄️ |  |
+| [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) | PotPlayer plugin that plays Bilibili videos, live streams and music | 2,458 | 🟡 | AngelScript |
+| [B23Downloader](https://github.com/vooidzero/B23Downloader) | Bilibili video, live and manga downloader (unmaintained) | 2,418 | 🔴 | C++ |
+| [bilibili-video-downloader (lanyeeee)](https://github.com/lanyeeee/bilibili-video-downloader) | GUI Bilibili downloader with NFO scraping, subtitles and danmaku | 2,367 | 🟢 | Rust |
+| [yutto](https://github.com/yutto-dev/yutto) | Command-line Bilibili video downloader | 2,159 | 🟢 | Python |
+| [bilibilias](https://github.com/1250422131/bilibilias) | Bilibili video parsing and download tool for Android | 1,813 | 🗄️ |  |
 | [bilix (HFrost0)](https://github.com/HFrost0/bilix) | Fast async downloader for Bilibili and other sites | 1,781 | 🟡 | Python |
-| [biliLive-tools](https://github.com/renmu123/biliLive-tools) | Live recording, video processing, danmaku rendering and upload toolkit for Bilibili and others | 1,713 | 🟢 | TypeScript |
-| [BBLLV5](https://github.com/swyefun/BBLLV5) | 一个第三方哔哩哔哩客户端修复 | 1,551 | 🟢 |  |
+| [biliLive-tools](https://github.com/renmu123/biliLive-tools) | Live recording, video processing, danmaku rendering and upload toolkit for Bilibili and others | 1,714 | 🟢 | TypeScript |
+| [BBLLV5](https://github.com/swyefun/BBLLV5) | 一个第三方哔哩哔哩客户端修复 | 1,549 | 🟢 |  |
 | [DDTV](https://github.com/CHKZL/DDTV) | Cross-platform Bilibili live viewer, notifier and recorder | 1,496 | 🟢 | C# |
 | [BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) | BiliBili的UWP客户端，当然，是第三方的了 | 1,470 | 🗄️ | C# |
 | [biliup-app](https://github.com/biliup/biliup-app) | Desktop upload client for Bilibili with multi-part submissions | 1,425 | 🗄️ | Rust |
+| [BBPlayer](https://github.com/bbplayer-app/BBPlayer) | Bilibili music player app | 1,419 | 🟢 | TypeScript |
 | [blivedm](https://github.com/xfgryujk/blivedm) | Python client for the Bilibili live danmaku WebSocket protocol | 1,419 | 🟢 | Python |
-| [BBPlayer](https://github.com/bbplayer-app/BBPlayer) | Bilibili music player app | 1,414 | 🟢 | TypeScript |
 | [bililive_dm](https://github.com/copyliu/bililive_dm) | Bilibili live danmaku viewer that speaks the live-chat protocol | 1,401 | 🟢 | C# |
 | [iina-plus](https://github.com/xjbeta/iina-plus) | Adds Bilibili, Douyu and Huya live and danmaku support to the IINA player | 1,393 | 🟢 | Swift |
-| [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile) | Mobile audio player for Bilibili videos | 1,390 | 🟢 | TypeScript |
+| [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile) | Mobile audio player for Bilibili videos | 1,391 | 🟢 | TypeScript |
+| [bilibili-linux](https://github.com/msojocs/bilibili-linux) | Linux port of the official Bilibili desktop client | 1,371 | 🟢 | TypeScript |
 | [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) | 哔哩哔哩UWP Lite | 1,371 | 🗄️ | C# |
-| [bilibili-linux](https://github.com/msojocs/bilibili-linux) | Linux port of the official Bilibili desktop client | 1,370 | 🟢 | TypeScript |
 | [bilibili-api](https://github.com/Vespa314/bilibili-api) | Early collection and documentation of Bilibili APIs (unmaintained) | 1,356 | 🔴 | Python |
 | [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) | Documentation of Bilibili live and bangumi private APIs | 1,338 | 🟢 |  |
-| [pure-live-core](https://github.com/iyear/pure-live-core) | Ad-free core for watching Bilibili, Douyu and Huya live streams with danmaku | 1,211 | 🔴 | Go |
+| [pure-live-core](https://github.com/iyear/pure-live-core) | Ad-free core for watching Bilibili, Douyu and Huya live streams with danmaku | 1,210 | 🔴 | Go |
 | [bilili](https://github.com/yutto-dev/bilili) | Bilibili video and danmaku downloader (predecessor of yutto) | 1,176 | 🗄️ | Python |
-| [bilibili-cli](https://github.com/public-clis/bilibili-cli) | Terminal client for browsing Bilibili videos, users, search and feeds | 1,151 | 🟢 | Python |
-| [bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) | Real-time clipping tool for Bilibili live streams | 1,149 | 🟢 | Rust |
+| [bilibili-cli](https://github.com/public-clis/bilibili-cli) | Terminal client for browsing Bilibili videos, users, search and feeds | 1,152 | 🟢 | Python |
+| [bili-shadowreplay](https://github.com/powerlive-io/bili-shadowreplay) | Real-time clipping tool for Bilibili live streams | 1,150 | 🟢 | Rust |
 | [biliup-rs](https://github.com/biliup/biliup-rs) | Rust command-line Bilibili uploader and downloader | 1,072 | 🗄️ | Rust |
 | [bilimini](https://github.com/chitosai/bilimini) | 藏起来！哔哩哔哩 | 1,070 | 🔴 | JavaScript |
-| [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) | Bilibili live danmaku bot (thank-you, auto-reply) over the live WebSocket protocol | 952 | 🟢 | Java |
-| [BiliDownloader (Majjcom)](https://github.com/Majjcom/BiliDownloader) | GUI Bilibili video downloader | 914 | 🟢 | Python |
+| [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) | Bilibili live danmaku bot (thank-you, auto-reply) over the live WebSocket protocol | 953 | 🟢 | Java |
+| [BiliDownloader (Majjcom)](https://github.com/Majjcom/BiliDownloader) | GUI Bilibili video downloader | 916 | 🟢 | Python |
 | [Comen](https://github.com/3Shain/Comen) | Live danmaku overlay for Bilibili streams (formerly bilichat) | 901 | 🔴 | TypeScript |
-| [BiliDuang](https://github.com/kengwang/BiliDuang) | C# GUI Bilibili downloader with 4K, interactive video and danmaku support | 896 | 🔴 | C# |
+| [BiliDuang](https://github.com/kengwang/BiliDuang) | C# GUI Bilibili downloader with 4K, interactive video and danmaku support | 895 | 🔴 | C# |
 | [biliDownloader_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) | Bilibili video downloader with interactive video support | 865 | 🔴 | Python |
 | [HarukaBot](https://github.com/SK-415/HarukaBot) | Pushes Bilibili posts and live notifications to QQ (NoneBot2) | 860 | 🟢 | Python |
 | [bilibili_live_stream_code](https://github.com/ChaceQC/bilibili_live_stream_code) | Gets Bilibili live RTMP stream keys and manages titles and live state | 859 | 🟢 | Python |
@@ -99,43 +99,43 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bili-spider](https://github.com/chenjiandongx/bili-spider) | Site-wide Bilibili video metadata crawler | 703 | 🔴 | Python |
 | [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) | Userscript that restores old Bilibili page layouts | 687 | 🟢 | TypeScript |
 | [blrec](https://github.com/acgnhiki/blrec) | Bilibili live stream recorder (unmaintained) | 682 | 🗄️ | Python |
-| [BiliDesk](https://github.com/ABING1111/BiliDesk) | Third-party Bilibili desktop client for Windows (WPF, .NET 8) | 640 | 🟢 | C# |
+| [BiliDesk](https://github.com/ABING1111/BiliDesk) | Third-party Bilibili desktop client for Windows (WPF, .NET 8) | 644 | 🟢 | C# |
 | [danmaku2ass](https://github.com/m13253/danmaku2ass) | Converts Niconico, AcFun and Bilibili danmaku comments to ASS subtitles | 623 | 🟡 | Python |
 | [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Material Design third-party Bilibili Android client | 622 | 🔴 | Java |
 | [azusa-player](https://github.com/kenmingwang/azusa-player) | Third-party Bilibili audio player | 620 | 🟢 | TypeScript |
-| [obs-bilibili-stream](https://github.com/Zarosmm/obs-bilibili-stream) | OBS Studio plugin for QR login and starting Bilibili live streams | 605 | 🟢 | C++ |
-| [BiliDownload](https://github.com/KafuuNeko/BiliDownload) | Android Bilibili video downloader | 601 | 🟢 | Kotlin |
+| [obs-bilibili-stream](https://github.com/Zarosmm/obs-bilibili-stream) | OBS Studio plugin for QR login and starting Bilibili live streams | 606 | 🟢 | C++ |
+| [BiliDownload](https://github.com/KafuuNeko/BiliDownload) | Android Bilibili video downloader | 602 | 🟢 | Kotlin |
 | [bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) | Electron Bilibili video downloader | 590 | 🟢 | TypeScript |
-| [bilibili-backup](https://github.com/hzhilong/bilibili-backup) | Backs up and restores Bilibili account data (follows, favorites, history) | 583 | 🟢 | Java |
+| [bilibili-backup](https://github.com/hzhilong/bilibili-backup) | Backs up and restores Bilibili account data (follows, favorites, history) | 582 | 🟢 | Java |
 | [bilibili-live-helper](https://github.com/pandaGao/bilibili-live-helper) | Bilibili live danmaku library and viewer for Mac, Windows and Linux | 565 | 🔴 | Vue |
-| [BiliBiliMApp](https://github.com/TouchFriend/BiliBiliMApp) | 一个通过 iOS 逆向分析实现的 无广告版哔哩哔哩 客户端，感谢使用，欢迎Star。 | 544 | 🟢 | Objective-C |
+| [BiliBiliMApp](https://github.com/TouchFriend/BiliBiliMApp) | 一个通过 iOS 逆向分析实现的 无广告版哔哩哔哩 客户端，感谢使用，欢迎Star。 | 547 | 🟢 | Objective-C |
 | [bilibili-comment-analyzer](https://github.com/sansan0/bilibili-comment-analyzer) | Collects and visualizes Bilibili comment data | 534 | 🟡 | Python |
 | [bilibili-api](https://github.com/czp3009/bilibili-api) | Kotlin library for the Bilibili app API, including signing of requests | 525 | 🔴 | Kotlin |
-| [bili-music](https://github.com/AprDeci/bili-music) | Cross-platform music app that uses Bilibili as its source | 513 | 🟢 | Dart |
+| [bili-music](https://github.com/AprDeci/bili-music) | Cross-platform music app that uses Bilibili as its source | 515 | 🟢 | Dart |
 | [BiliDan](https://github.com/m13253/BiliDan) | Plays Bilibili videos in MPV with danmaku | 508 | 🔴 | Python |
-| [BiliHistoryFrontend](https://github.com/LifeArchiveProject/BiliHistoryFrontend) | Fetches Bilibili watch history and bulk downloads videos, posts and favorites | 506 | 🟢 | Vue |
-| [BilibiliCommentScraper](https://github.com/Ghauster/BilibiliCommentScraper) | Scrapes full Bilibili comment threads | 482 | 🟡 | Python |
-| [BiliMusic](https://github.com/HanversionOvO/BiliMusic) | Turns Bilibili into a music player | 473 | 🟢 | TypeScript |
+| [BiliHistoryFrontend](https://github.com/LifeArchiveProject/BiliHistoryFrontend) | Fetches Bilibili watch history and bulk downloads videos, posts and favorites | 507 | 🟢 | Vue |
+| [BilibiliCommentScraper](https://github.com/Ghauster/BilibiliCommentScraper) | Scrapes full Bilibili comment threads | 481 | 🟡 | Python |
+| [BiliMusic](https://github.com/HanversionOvO/BiliMusic) | Turns Bilibili into a music player | 478 | 🟢 | TypeScript |
 | [BiliSpider (uupers)](https://github.com/uupers/BiliSpider) | Bilibili site crawler for data analysis | 465 | 🔴 | Jupyter Notebook |
-| [bdl](https://github.com/Yuelioi/bdl) | Rust Bilibili downloader for Windows, macOS, Linux and Android | 460 | 🟢 | Rust |
+| [bdl](https://github.com/Yuelioi/bdl) | Rust Bilibili downloader for Windows, macOS, Linux and Android | 463 | 🟢 | Rust |
 | [DDRecorder](https://github.com/AsaChiri/DDRecorder) | Headless Bilibili live recorder, clipper and uploader | 459 | 🟢 | Python |
 | [bilive_client](https://github.com/bilive/bilive_client) | Node.js Bilibili account activity client implementing the live-stream protocol | 447 | 🔴 | TypeScript |
+| [MiniBili-WEB](https://github.com/ResistanceTo/MiniBili-WEB) | Third-party Bilibili client for iOS, iPadOS, watchOS, macOS (tvOS, visionOS) | 438 | 🟢 | TypeScript |
 | [hlbmerge](https://github.com/molihuan/hlbmerge_flutter) | Merges Bilibili app cache files into MP4 on Android, Windows, Linux and macOS | 437 | 🟢 | Dart |
-| [MiniBili-WEB](https://github.com/ResistanceTo/MiniBili-WEB) | Third-party Bilibili client for iOS, iPadOS, watchOS, macOS (tvOS, visionOS) | 436 | 🟢 | TypeScript |
 | [bilisoleil](https://github.com/yoyiyi/bilisoleil) | Unofficial Bilibili Android client | 434 | 🔴 | Java |
 | [biliroku](https://github.com/zyzsdy/biliroku) | Bilibili live stream recorder | 421 | 🔴 | C# |
 | [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) | Unattended Bilibili live streaming tool with auto login and stream URL retrieval | 420 | 🟢 | C# |
 | [pilipro](https://github.com/naaammme/pilipro) | 使用Flutter开发的BiliBili第三方安卓客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗。小字：pro是PeRsOnal的缩写，非professional（由于种种原因此项目已不再... | 407 | 🗄️ | Dart |
-| [bili-down-out](https://github.com/10miaomiao/bili-down-out) | Exports Bilibili app cached videos | 386 | 🟢 | Kotlin |
+| [bili-down-out](https://github.com/10miaomiao/bili-down-out) | Exports Bilibili app cached videos | 388 | 🟢 | Kotlin |
 | [bilitwin](https://github.com/liqi0816/bilitwin) | Bilibili userscript for FLV/MP4 download, FLV merging and danmaku ASS export | 371 | 🟢 | TypeScript |
-| [bili (lifegpc)](https://github.com/lifegpc/bili) | Downloader for Bilibili and AcFun videos and danmaku | 369 | 🟡 | Python |
+| [bili (lifegpc)](https://github.com/lifegpc/bili) | Downloader for Bilibili and AcFun videos and danmaku | 368 | 🟡 | Python |
 | [auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder) | Records Bilibili live streams, burns in danmaku and transcodes | 365 | 🟢 | Python |
 | [bilidown-reborn](https://github.com/MLChinoo/bilidown-reborn) | Revived Bilidown Bilibili video downloader | 352 | 🗄️ |  |
 | [BiliReveal](https://github.com/maxchang3/BiliReveal) | Shows commenter IP location on the Bilibili web site | 338 | 🟢 | TypeScript |
 | [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) | Android app that merges Bilibili cache files into MP4 | 335 | 🗄️ | Java |
 | [StartLive](https://github.com/Radekyspec/StartLive) | Gets Bilibili live RTMP stream URLs without the official Live Studio app | 319 | 🟢 | Python |
-| [bbspace](https://github.com/naaammme/bbspace) | Native third-party Bilibili client | 296 | 🟢 | Kotlin |
-| [FocuBili](https://github.com/L1Xu4n/FocuBili) | Distraction-free third-party Bilibili client | 292 | 🟢 | Dart |
+| [bbspace](https://github.com/naaammme/bbspace) | Native third-party Bilibili client | 297 | 🟢 | Kotlin |
+| [FocuBili](https://github.com/L1Xu4n/FocuBili) | Distraction-free third-party Bilibili client | 296 | 🟢 | Dart |
 | [BLiveWeb](https://github.com/ProgramRipper/BLiveWeb) | Starts Bilibili live streams from the web site | 290 | 🟡 | TypeScript |
 | [bilibili-download](https://github.com/lecepin/bilibili-download) | Simple Bilibili video download tool | 286 | 🔴 | JavaScript |
 | [biliuwp](https://github.com/xiaoyaocz/biliuwp) | bilibili uwp | 286 | 🗄️ | C# |
@@ -144,15 +144,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [abts](https://github.com/fengqiao57/abts) | Third-party Bilibili audiobook player without login or ads | 259 | 🟢 | Dart |
 | [bilive-danmaku](https://github.com/Beats0/bilive-danmaku) | Bilibili live danmaku viewer for Windows and macOS | 248 | 🟢 | TypeScript |
 | [crawler (wuYin)](https://github.com/wuYin/crawler) | Bilibili live danmaku and gift crawler with auto highlight clipping | 243 | 🔴 | PHP |
+| [Bili Music (Tauri)](https://github.com/Jmiao11/bili-music) | Tauri desktop music player for Bilibili music content | 236 | 🟢 | TypeScript |
 | [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) | Python tool that merges Bilibili cache files into MP4 | 236 | 🗄️ |  |
 | [bilibili_danmu](https://github.com/lyyyuna/bilibili_danmu) | Python Bilibili live danmaku client | 234 | 🗄️ | Python |
-| [Bili Music (Tauri)](https://github.com/Jmiao11/bili-music) | Tauri desktop music player for Bilibili music content | 233 | 🟢 | TypeScript |
 | [bilibili-report](https://github.com/airingursb/bilibili-report) | Bilibili user data report web app | 229 | 🟡 | JavaScript |
 | [biliup-app-new](https://github.com/biliup/biliup-app-new) | Rewrite of the biliup Bilibili upload desktop client | 209 | 🟢 | Vue |
 | [BACNext](https://github.com/BACNext/BACNext) | Bilibili API Collect Next: community continuation of Bilibili API documentation | 204 | 🟢 | Python |
 | [bilibili-comment-crawler](https://github.com/1dyer/bilibili-comment-crawler) | Bilibili video comment crawler | 202 | 🟢 | Python |
 | [blive-message-listener](https://github.com/ddiu8081/blive-message-listener) | Typed Bilibili live danmaku message listener for Node.js | 196 | 🟢 | TypeScript |
-| [cilicili](https://github.com/Rone89/cilicili) | A SwiftUI third-party iOS client experiment for Bilibili browsing, dynamics, video playback, and danmaku. | 183 | 🟢 | Swift |
+| [cilicili](https://github.com/Rone89/cilicili) | A SwiftUI third-party iOS client experiment for Bilibili browsing, dynamics, video playback, and danmaku. | 185 | 🟢 | Swift |
 | [bilistream](https://github.com/limitcool/bilistream) | Self-hosted tool that auto-relays live streams to Bilibili | 177 | 🟢 | TypeScript |
 | [bili_danmu](https://github.com/qydysky/bili_danmu) | Go Bilibili live and danmaku recorder and replayer | 169 | 🟢 | Go |
 | [BiliClient](https://github.com/huanli233/BiliClient) | Lightweight third-party Bilibili client for Android watches | 168 | 🟢 | Java |
@@ -163,7 +163,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BiliShareMall](https://github.com/mikumifa/BiliShareMall) | Finds the lowest prices on the Bilibili marketplace | 154 | 🟡 | TypeScript |
 | [BiliNeo](https://github.com/Predidit/BiliNeo) | Third-party Bilibili client for Android, Windows and Linux | 153 | 🗄️ | Dart |
 | [BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2) | Unofficial Bilibili Android client for tablets | 150 | 🗄️ | Kotlin |
-| [blblcd](https://github.com/WShihan/blblcd) | Command-line tool that downloads Bilibili video comments | 149 | 🟢 | Go |
+| [blblcd](https://github.com/WShihan/blblcd) | Command-line tool that downloads Bilibili video comments | 148 | 🟢 | Go |
 | [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) | Bilibili user crawler | 143 | 🔴 | Python |
 | [BiliScape](https://github.com/EZ118/BiliChrome) | Third-party Bilibili client as a browser extension | 142 | 🟢 | JavaScript |
 | [WristBilibili](https://github.com/luern0313/WristBilibili) | Bilibili client for smartwatches | 142 | 🔴 | Java |
@@ -171,7 +171,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bilisoleil-kotlin](https://github.com/yoyiyi/bilisoleil-kotlin) | Unofficial Kotlin Bilibili Android client | 140 | 🔴 | Kotlin |
 | [bili-fav-sniffer](https://github.com/SummerLiu95/bili-fav-sniffer) | Periodically downloads new videos from chosen Bilibili favorites | 136 | 🟡 | TypeScript |
 | [fav](https://github.com/kingwingfly/fav) | CLI that backs up Bilibili favorites and uploader videos | 134 | 🟢 | Rust |
-| [BBDownT](https://github.com/LOVAHE/BBDownT) | Maintained continuation of BBDown, a CLI Bilibili downloader | 115 | 🟢 | C# |
+| [BBDownT](https://github.com/LOVAHE/BBDownT) | Maintained continuation of BBDown, a CLI Bilibili downloader | 118 | 🟢 | C# |
 | [BilibiliApis](https://github.com/cv-cat/BilibiliApis) | Reverse-engineered Bilibili request signing algorithms | 103 | 🟢 | Python |
 | [biligo](https://github.com/iyear/biligo) | Go SDK for Bilibili APIs | 93 | 🔴 | Go |
 | [bpi-rs](https://github.com/Yuelioi/bpi-rs) | Rust SDK covering a wide range of Bilibili private APIs | 52 | 🟢 | Rust |
@@ -182,34 +182,34 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [alist](https://github.com/AlistGo/alist) | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,446 | 🟢 | Go |
-| [LinkSwift](https://github.com/hmjz100/LinkSwift) | Userscript that obtains direct download links from Baidu, Aliyun, Quark, Tianyi and other drives | 39,374 | 🟢 | JavaScript |
-| [OpenList](https://github.com/OpenListTeam/OpenList) | OpenList: community fork of AList for mounting cloud drives | 25,581 | 🟢 | Go |
-| [aliyunpan](https://github.com/liupan1890/aliyunpan) | Xiaobaiyang: third-party Aliyun Drive desktop client | 11,786 | 🔴 | TypeScript |
-| [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | WebDAV server for Aliyun Drive | 9,712 | 🗄️ | Rust |
+| [alist](https://github.com/AlistGo/alist) | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,452 | 🟢 | Go |
+| [LinkSwift](https://github.com/hmjz100/LinkSwift) | Userscript that obtains direct download links from Baidu, Aliyun, Quark, Tianyi and other drives | 39,548 | 🟢 | JavaScript |
+| [OpenList](https://github.com/OpenListTeam/OpenList) | OpenList: community fork of AList for mounting cloud drives | 25,600 | 🟢 | Go |
+| [aliyunpan](https://github.com/liupan1890/aliyunpan) | Xiaobaiyang: third-party Aliyun Drive desktop client | 11,783 | 🔴 | TypeScript |
+| [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | WebDAV server for Aliyun Drive | 9,713 | 🗄️ | Rust |
 | [bypy](https://github.com/houtianze/bypy) | Python command-line client for Baidu Netdisk (Baidu Yun) | 8,584 | 🟡 | Python |
 | [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | Baidu Netdisk command-line client with share-link and rapid-upload transfer | 5,923 | 🟢 | Go |
-| [aliyunpan](https://github.com/tickstep/aliyunpan) | Aliyun Drive (Alipan) command-line client with sync and JavaScript plugins | 5,137 | 🟢 | Go |
+| [aliyunpan](https://github.com/tickstep/aliyunpan) | Aliyun Drive (Alipan) command-line client with sync and JavaScript plugins | 5,138 | 🟢 | Go |
 | [iScript](https://github.com/PeterDing/iScript) | Scripts for Baidu Netdisk, 115, Xiami and NetEase Music private APIs | 5,133 | 🔴 | Python |
 | [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | Command-line tool for Baidu Netdisk | 3,542 | 🗄️ | Roff |
-| [netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) | Direct-link resolver for many Chinese cloud drives (Quark, UC, Lanzou, 123pan) | 3,473 | 🟢 | Java |
+| [netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) | Direct-link resolver for many Chinese cloud drives (Quark, UC, Lanzou, 123pan) | 3,475 | 🟢 | Java |
 | [BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) | Batch save, share and link-check tool for Baidu Netdisk | 2,025 | 🟡 | Python |
 | [xunlei-lixian](https://github.com/iambus/xunlei-lixian) | Command-line client for Xunlei (Thunder) offline download | 1,969 | 🗄️ | Python |
 | [bcloud](https://github.com/XuShaohua/bcloud) | Linux desktop client for Baidu Netdisk | 1,896 | 🗄️ | Python |
 | [lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) | Third-party Lanzou Cloud desktop client | 1,887 | 🟢 | TypeScript |
-| [QuarkPanTool](https://github.com/ihmily/QuarkPanTool) | Batch transfer, share and download tool for Quark cloud drive | 1,482 | 🟢 | Python |
+| [QuarkPanTool](https://github.com/ihmily/QuarkPanTool) | Batch transfer, share and download tool for Quark cloud drive | 1,483 | 🟢 | Python |
 | [baidupcsapi](https://github.com/ly0/baidupcsapi) | Unofficial Baidu Netdisk API for Python | 1,243 | 🗄️ | Python |
 | [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse) | FUSE filesystem for Aliyun Drive | 929 | 🗄️ | Rust |
 | [aligo](https://github.com/foyoux/aligo) | Simple, extensible Python Aliyun Drive API library | 928 | 🟢 | Python |
-| [BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) | Baidu Netdisk API and command-line client in Python | 879 | 🟡 | Python |
-| [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | 一个使用 Rust 和 Vue 3 构建的 百度网盘第三方客户端，提供多线程下载、多账号管理、自动备份与本地侧加密上传能力，并支持 Web 管理、访问密码与 TOTP 双因素认证。 | 839 | 🟢 | Rust |
+| [BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) | Baidu Netdisk API and command-line client in Python | 878 | 🟡 | Python |
+| [BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) | 一个使用 Rust 和 Vue 3 构建的 百度网盘第三方客户端，提供多线程下载、多账号管理、自动备份与本地侧加密上传能力，并支持 Web 管理、访问密码与 TOTP 双因素认证。 | 838 | 🟢 | Rust |
 | [fakeThunder](https://github.com/MartianZ/fakeThunder) | Unofficial Xunlei (Thunder) offline download client for OS X | 812 | 🔴 | Objective-C |
 | [LanZouCloud-API](https://github.com/zaxtyson/LanZouCloud-API) | Third-party Lanzou Cloud API for Python | 809 | 🟡 | Python |
 | [BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) | Syncs Baidu Netdisk files to Aliyun Drive | 758 | 🔴 | Python |
 | [aliyunpan](https://github.com/PingKuNet/aliyunpan) | 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver | 748 | 🟡 | TypeScript |
 | [cloudpan189-go](https://github.com/tickstep/cloudpan189-go) | China Telecom Tianyi Cloud (189) command-line client in Go | 653 | 🗄️ | Go |
 | [115drive-webdav](https://github.com/gaoyb7/115drive-webdav) | WebDAV server for 115 cloud drive | 632 | 🟡 | Go |
-| [123pan](https://github.com/123panNextGen/123pan) | Third-party 123pan cloud drive client | 597 | 🟢 | Python |
+| [123pan](https://github.com/123panNextGen/123pan) | Third-party 123pan cloud drive client | 596 | 🟢 | Python |
 | [cloud189](https://github.com/Aruelius/cloud189) | Tianyi Cloud (189) command-line client in Python | 576 | 🔴 | Python |
 | [rclone (115)](https://github.com/gaoyb7/rclone-release) | Modified rclone with 115 cloud drive support | 559 | 🟡 |  |
 | [SplitLanzou](https://github.com/Yu2002s/SplitLanzou) | Third-party dual-pane client for Lanzou cloud storage | 483 | 🟢 | Java |
@@ -219,19 +219,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav) | WebDAV server for Aliyun Drive | 433 | 🟡 | Go |
 | [JustList](https://github.com/txperl/JustList) | File listing tool for Tianyi Cloud, Aliyun Drive and OneDrive | 412 | 🟡 | Python |
 | [fake115uploader](https://github.com/orzogc/fake115uploader) | Emulates the 115 cloud drive client upload protocol | 384 | 🟢 | Go |
-| [quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) | WebDAV server for Quark cloud drive | 381 | 🟢 | Rust |
+| [quarkdrive-webdav](https://github.com/chenqimiao/quarkdrive-webdav) | WebDAV server for Quark cloud drive | 382 | 🟢 | Rust |
 | [alidrive-uploader](https://github.com/aoaostar/alidrive-uploader) | Upload tool for Aliyun Drive | 349 | 🔴 | Go |
-| [LanzouAPI](https://github.com/hanximeng/LanzouAPI) | Direct-link API for Lanzou cloud shares, including password-protected links | 338 | 🟢 | PHP |
-| [kuake_cli](https://github.com/zhangjingwei/kuake_cli) | Command-line file manager for Quark cloud drive | 337 | 🟢 | Go |
+| [LanzouAPI](https://github.com/hanximeng/LanzouAPI) | Direct-link API for Lanzou cloud shares, including password-protected links | 339 | 🟢 | PHP |
+| [kuake_cli](https://github.com/zhangjingwei/kuake_cli) | Command-line file manager for Quark cloud drive | 338 | 🟢 | Go |
 | [BaiduPCS_NET](https://github.com/GangZhuo/BaiduPCS_NET) | .NET GUI Baidu Netdisk upload and download tool built on BaiduPCS | 288 | 🗄️ | C# |
 | [qnap-aliyunpan-webdav](https://github.com/iranee/qnap-aliyunpan-webdav) | QNAP package that mounts Aliyun Drive over WebDAV | 273 | 🔴 | PHP |
 | [BaiduOldDriver](https://github.com/pengw0048/BaiduOldDriver) | C# library and tools for Baidu Netdisk private APIs | 262 | 🔴 | C# |
 | [189Cloud-Downloader](https://github.com/otokaze/189Cloud-Downloader) | Unthrottled Tianyi Cloud downloader including share links | 205 | 🔴 | Go |
 | [AliPCS-Py](https://github.com/PeterDing/AliPCS-Py) | Aliyun Drive API and command-line client | 175 | 🟡 | Python |
 | [PotplayerPanVideoSV](https://github.com/Bleu404/PotplayerPanVideoSV) | Plays Xunlei and Aliyun Drive videos in PotPlayer | 175 | 🔴 | JavaScript |
-| [115push](https://github.com/user1121114685/115push) | Imports files to 115 cloud by SHA1 without uploading | 170 | 🔴 | Go |
+| [115push](https://github.com/user1121114685/115push) | Imports files to 115 cloud by SHA1 without uploading | 171 | 🔴 | Go |
 | [go-micloud](https://github.com/wangbjun/go-micloud) | Go command-line client for Xiaomi Cloud drive | 168 | 🔴 | Go |
-| [QuarkPan](https://github.com/lich0821/QuarkPan) | Python client for Quark cloud drive | 162 | 🟢 | Python |
+| [QuarkPan](https://github.com/lich0821/QuarkPan) | Python client for Quark cloud drive | 163 | 🟢 | Python |
 | [115-for-kodi](https://github.com/feelfar/115-for-kodi) | Kodi add-on for 115 cloud drive | 161 | 🟡 | Python |
 | [falco-docker](https://github.com/goodmangll/falco-docker) | Direct-link proxy for 115 and Aliyun Drive used with Jellyfin and Emby | 158 | 🟡 |  |
 | [115-strm](https://github.com/suixing8/115-strm) | Generates directory trees and STRM files from 115 cloud for media servers | 154 | 🟡 | Shell |
@@ -253,88 +253,88 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | Douyin and TikTok downloader and data collector using reverse-engineered web APIs | 17,452 | 🟢 | JavaScript |
-| [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 简简单单的看直播 | 16,237 | 🟢 | Dart |
-| [douyin-downloader](https://github.com/jiji262/douyin-downloader) | Douyin video downloader for single posts and whole profiles | 12,599 | 🟢 | Python |
-| [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) | Live recorder for Douyin, TikTok, Kuaishou, Huya, Douyu, Bilibili and more via their stream APIs | 11,206 | 🟢 | Python |
+| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | Douyin and TikTok downloader and data collector using reverse-engineered web APIs | 17,458 | 🟢 | JavaScript |
+| [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 简简单单的看直播 | 16,241 | 🟢 | Dart |
+| [douyin-downloader](https://github.com/jiji262/douyin-downloader) | Douyin video downloader for single posts and whole profiles | 12,604 | 🟢 | Python |
+| [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) | Live recorder for Douyin, TikTok, Kuaishou, Huya, Douyu, Bilibili and more via their stream APIs | 11,208 | 🟢 | Python |
 | [TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) | Douyin watermark-free batch downloader for user posts, likes and collections | 8,899 | 🟡 | Python |
-| [real-url](https://github.com/wbt5/real-url) | Extracts real stream URLs and danmaku from 58 Chinese live platforms (Douyu, Huya, Bilibili, Douyin) | 7,831 | 🟡 | Python |
-| [DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) | Douyin reverse-engineered API client: posts, DMs and live-room listening | 3,641 | 🟢 | Python |
+| [real-url](https://github.com/wbt5/real-url) | Extracts real stream URLs and danmaku from 58 Chinese live platforms (Douyu, Huya, Bilibili, Douyin) | 7,830 | 🟡 | Python |
+| [DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) | Douyin reverse-engineered API client: posts, DMs and live-room listening | 3,646 | 🟢 | Python |
 | [video_spider](https://github.com/5ime/video_spider) | Watermark remover and parser for Douyin, Kuaishou, Weibo and many Chinese short-video apps | 3,001 | 🟢 | PHP |
-| [f2](https://github.com/Johnserf-Seed/f2) | F2: high-speed multi-platform downloader with Douyin/TikTok signature (X-Bogus, a_bogus) support | 2,733 | 🟢 | Python |
+| [f2](https://github.com/Johnserf-Seed/f2) | F2: high-speed multi-platform downloader with Douyin/TikTok signature (X-Bogus, a_bogus) support | 2,734 | 🟢 | Python |
 | [amemv-crawler](https://github.com/loadchange/amemv-crawler) | Downloads all videos from a given Douyin account | 2,673 | 🔴 | Python |
-| [DTV](https://github.com/chen-zeong/DTV) | Lightweight desktop client for Douyin, Bilibili, Douyu and Huya live streams | 2,044 | 🟢 | TypeScript |
+| [DTV](https://github.com/chen-zeong/DTV) | Lightweight desktop client for Douyin, Bilibili, Douyu and Huya live streams | 2,048 | 🟢 | TypeScript |
 | [DouyinLiveWebFetcher](https://github.com/saermart/DouyinLiveWebFetcher) | Fetches Douyin live-room danmaku from the web protocol | 1,902 | 🟢 | Python |
-| [DouyinBarrageGrab](https://github.com/ape-byte/DouyinBarrageGrab) | Captures Douyin live danmaku WebSocket traffic through a system proxy | 1,707 | 🟢 | C# |
+| [DouyinBarrageGrab](https://github.com/ape-byte/DouyinBarrageGrab) | Captures Douyin live danmaku WebSocket traffic through a system proxy | 1,709 | 🟢 | C# |
 | [douyin](https://github.com/erma0/douyin) | Douyin crawler for profiles, likes, music, topics and search results | 1,621 | 🟢 |  |
-| [DY-Data](https://github.com/VideoData/DY-Data) | Douyin search, comment, live and danmaku data API collection | 1,576 | 🔴 | JavaScript |
-| [Crawler](https://github.com/ShilongLee/Crawler) | Crawler API server for Douyin (a_bogus), Kuaishou, Bilibili, Xiaohongshu, Taobao, JD and Weibo | 1,481 | 🟢 | JavaScript |
+| [DY-Data](https://github.com/VideoData/DY-Data) | Douyin search, comment, live and danmaku data API collection | 1,578 | 🔴 | JavaScript |
+| [Crawler](https://github.com/ShilongLee/Crawler) | Crawler API server for Douyin (a_bogus), Kuaishou, Bilibili, Xiaohongshu, Taobao, JD and Weibo | 1,483 | 🟢 | JavaScript |
 | [douyin (cnbattle)](https://github.com/cnbattle/douyin) | Douyin recommendation and search feed crawler driving the app over adb (Go) | 1,232 | 🟢 | Go |
 | [better-douyin](https://github.com/anYuJia/better-douyin) | Alternative Douyin desktop client with downloads, playback, likes and DMs via private API | 1,075 | 🟢 | TypeScript |
-| [DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder) | Monitors and records Douyin live streams and danmaku | 938 | 🟡 | Python |
+| [DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder) | Monitors and records Douyin live streams and danmaku | 939 | 🟡 | Python |
 | [KS-Downloader](https://github.com/JoeanAmier/KS-Downloader) | Kuaishou video and image downloader using its web API | 896 | 🟢 | Python |
-| [pure_live](https://github.com/liuchuancong/pure_live_TV) | Live stream app for Bilibili, Huya, Douyu, Kuaishou, Douyin and NetEase CC | 877 | 🟢 | Dart |
-| [dycast](https://github.com/skmcj/dycast) | Douyin live danmaku client that relays live-room messages | 860 | 🟢 | TypeScript |
+| [pure_live](https://github.com/liuchuancong/pure_live_TV) | Live stream app for Bilibili, Huya, Douyu, Kuaishou, Douyin and NetEase CC | 878 | 🟢 | Dart |
+| [dycast](https://github.com/skmcj/dycast) | Douyin live danmaku client that relays live-room messages | 862 | 🟢 | TypeScript |
 | [douyin-live](https://github.com/Sjj1024/douyin-live) | Douyin live stream tool for stream URLs and danmaku (Python) | 824 | 🟡 | Python |
-| [HuYaTv](https://github.com/jayjd/HuYaTv) | 聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 | 799 | 🟢 |  |
+| [HuYaTv](https://github.com/jayjd/HuYaTv) | 聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 | 800 | 🟢 |  |
 | [TikTok](https://github.com/SyntaxSparkk/TikTok) | Documentation of TikTok reverse engineering | 750 | 🟡 | Python |
-| [douyin-favorite-MyLike](https://github.com/Hannah2227/douyin-favorite-MyLike) | Windows app to organize, search and replay Douyin likes and favorites | 744 | 🟢 | TypeScript |
-| [douyin_parse](https://github.com/DLWangSan/douyin_parse) | Douyin short video URL parser | 614 | 🟢 | Python |
+| [douyin-favorite-MyLike](https://github.com/Hannah2227/douyin-favorite-MyLike) | Windows app to organize, search and replay Douyin likes and favorites | 748 | 🟢 | TypeScript |
+| [douyin_parse](https://github.com/DLWangSan/douyin_parse) | Douyin short video URL parser | 617 | 🟢 | Python |
 | [douyin-downloader (fly-studio)](https://github.com/fly-studio/douyin-downloader) | Downloads Douyin videos without watermark | 595 | 🗄️ | Java |
 | [douyin-downloader (lecepin)](https://github.com/lecepin/douyin-downloader) | Douyin video downloader for single posts or whole accounts | 567 | 🔴 | Rust |
 | [X-Bogus](https://github.com/B1gM8c/X-Bogus) | Douyin X-Bogus signature generation service | 553 | 🔴 | JavaScript |
-| [douyinLive](https://github.com/jwwsjlm/douyinLive) | Douyin live danmaku capture | 544 | 🟢 | Go |
+| [douyinLive](https://github.com/jwwsjlm/douyinLive) | Douyin live danmaku capture | 546 | 🟢 | Go |
 | [douyin stream key tool](https://github.com/wwengg/douyin) | Gets Douyin live companion stream keys and danmaku via WebSocket | 526 | 🔴 | Go |
-| [TiktokDouyinCrawler](https://github.com/NearHuiwen/TiktokDouyinCrawler) | TikTok and Douyin crawler with a_bogus and X-Bogus algorithm reimplementation | 514 | 🟡 | JavaScript |
+| [TiktokDouyinCrawler](https://github.com/NearHuiwen/TiktokDouyinCrawler) | TikTok and Douyin crawler with a_bogus and X-Bogus algorithm reimplementation | 515 | 🟡 | JavaScript |
 | [aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) | Implementations of the encryption algorithms used in the Douyin app protocol | 498 | 🔴 | Objective-C |
 | [BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) | Desktop Douyin and Kuaishou video downloader | 496 | 🟡 | C# |
 | [Douyin_spider](https://github.com/AmazingUU/Douyin_spider) | Douyin crawler | 483 | 🔴 | Python |
 | [douyin_downloader (renyijiu)](https://github.com/renyijiu/douyin_downloader) | Downloads all Douyin videos and favorites of a user | 482 | 🗄️ | Python |
 | [BarrageGrab (wushuaihua520)](https://github.com/wushuaihua520/BarrageGrab) | Direct WebSocket danmaku capture for Douyin, Kuaishou and Bilibili live | 426 | 🟢 | C# |
 | [dYm](https://github.com/Everless321/dYm) | Douyin video downloader and AI analysis manager | 385 | 🟢 | TypeScript |
-| [douyinVd](https://github.com/pwh-pwh/douyinVd) | Deno-based Douyin video and image downloader deployable to Cloudflare Workers or Vercel | 375 | 🟢 | TypeScript |
+| [douyinVd](https://github.com/pwh-pwh/douyinVd) | Deno-based Douyin video and image downloader deployable to Cloudflare Workers or Vercel | 376 | 🟢 | TypeScript |
 | [douyinhelper](https://github.com/kun775/douyinhelper) | Douyin batch download helper | 366 | 🔴 | Python |
-| [tiktok-api](https://github.com/armxe/tiktok-api) | Overview of TikTok anti-bot values (X-Argus, X-Bogus) and their encryption algorithms | 361 | 🟢 | Python |
-| [douyin-chat-export](https://github.com/TeamBreakerr/douyin-chat-export) | Exports full Douyin web DM chat history to a local viewer | 341 | 🟢 | Python |
+| [tiktok-api](https://github.com/armxe/tiktok-api) | Overview of TikTok anti-bot values (X-Argus, X-Bogus) and their encryption algorithms | 360 | 🟢 | Python |
+| [douyin-chat-export](https://github.com/TeamBreakerr/douyin-chat-export) | Exports full Douyin web DM chat history to a local viewer | 344 | 🟢 | Python |
 | [TikTok-Scheme](https://github.com/Oct1a/TikTok-Scheme) | Collection of Douyin, Douyin Lite and TikTok app URL schemes | 336 | 🔴 |  |
 | [douyin-rtmp](https://github.com/heplex/douyin-rtmp) | GUI tool that gets Douyin live RTMP push URLs | 333 | 🟢 | Python |
 | [Tiktok_Signature](https://github.com/5ime/Tiktok_Signature) | Generates Douyin X-Bogus, msToken and ttwid values | 318 | 🔴 | JavaScript |
-| [DySpider](https://github.com/zhonghangAlex/DySpider) | Douyin live danmaku crawler using WebSocket, protobuf and JS reverse engineering | 311 | 🟡 | Python |
-| [Douyin_Spider (cvv-cat)](https://github.com/cvv-cat/Douyin_Spider) | Reverse-engineered Douyin API crawler with live room monitoring | 285 | 🟢 | JavaScript |
+| [DySpider](https://github.com/zhonghangAlex/DySpider) | Douyin live danmaku crawler using WebSocket, protobuf and JS reverse engineering | 312 | 🟡 | Python |
+| [Douyin_Spider (cvv-cat)](https://github.com/cvv-cat/Douyin_Spider) | Reverse-engineered Douyin API crawler with live room monitoring | 286 | 🟢 | JavaScript |
 | [douyin-sign](https://github.com/HackAppSign/douyin-sign) | Douyin as/cp/mas request signing algorithms and API protocol | 240 | 🔴 | Python |
 | [douyin-api-1](https://github.com/jackspeng/douyin-api-1) | Douyin data, live and video API wrappers | 236 | 🔴 |  |
-| [DouyinComments](https://github.com/alphaply/DouyinComments) | Fetches Douyin comments and replies | 211 | 🟡 | Python |
+| [DouyinComments](https://github.com/alphaply/DouyinComments) | Fetches Douyin comments and replies | 212 | 🟡 | Python |
 | [douyin_downloader (HeLiangHIT)](https://github.com/HeLiangHIT/douyin_downloader) | Batch downloads liked and uploaded Douyin videos | 191 | 🔴 | Python |
-| [tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 174 | 🟢 | JavaScript |
+| [tiktok-reverse-engineering](https://github.com/notemrovsky/tiktok-reverse-engineering) | Reverse engineering of the TikTok JavaScript VM: opcodes, string deobfuscation, disassembly | 175 | 🟢 | JavaScript |
 | [douyin_spider (raindrop-hb)](https://github.com/raindrop-hb/douyin_spider) | Douyin crawler | 168 | 🟡 | Python |
 | [douyin-live-go](https://github.com/XiaoMiku01/douyin-live-go) | Douyin web live danmaku crawler in Go | 154 | 🔴 | Go |
-| [ReaCut](https://github.com/Xiangyu-CAS/rea-capcut) | Independent video editor built from REA-assisted study of Jianying/CapCut behavior | 142 | 🟢 | TypeScript |
+| [ReaCut](https://github.com/Xiangyu-CAS/rea-capcut) | Independent video editor built from REA-assisted study of Jianying/CapCut behavior | 144 | 🟢 | TypeScript |
 | [douyin_sign](https://github.com/ylcangel/douyin_sign) | Implementations of Douyin web a_bogus, X-Bogus and msToken algorithms | 81 | 🟢 | JavaScript |
-| [KuaiShou-Spider](https://github.com/cv-cat/KuaiShou-Spider) | Kuaishou reverse engineering: full API and live-room listener | 79 | 🟢 | Python |
+| [KuaiShou-Spider](https://github.com/cv-cat/KuaiShou-Spider) | Kuaishou reverse engineering: full API and live-room listener | 80 | 🟢 | Python |
 | [acfunsdk](https://github.com/dolacmeo/acfunsdk) | Unofficial Python SDK for the AcFun video site | 14 | 🟢 | Python |
 
 ## Games (miHoYo etc.)
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | Server reimplementation for Genshin Impact | 16,814 | 🟢 | Java |
-| [Starward](https://github.com/Scighost/Starward) | Third-party game launcher for miHoYo games | 4,580 | 🟢 | C# |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | Server reimplementation for Genshin Impact | 16,816 | 🟢 | Java |
+| [Starward](https://github.com/Scighost/Starward) | Third-party game launcher for miHoYo games | 4,582 | 🟢 | C# |
 | [genshin-wish-export](https://github.com/biuuu/genshin-wish-export) | Exports Genshin Impact wish history from game logs and APIs | 3,831 | 🟢 | JavaScript |
-| [AssetStudioMod](https://github.com/aelurum/AssetStudioMod) | Modified AssetStudio for exploring and extracting Unity game assets | 2,191 | 🟢 | C# |
+| [AssetStudioMod](https://github.com/aelurum/AssetStudioMod) | Modified AssetStudio for exploring and extracting Unity game assets | 2,194 | 🟢 | C# |
 | [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) | Arknights game data extracted from the client | 1,900 | 🟢 | Lua |
-| [AssetStudio](https://github.com/zhangjiequan/AssetStudio) | Maintained continuation of Perfare's AssetStudio Unity asset extractor | 1,859 | 🟡 | C# |
+| [AssetStudio](https://github.com/zhangjiequan/AssetStudio) | Maintained continuation of Perfare's AssetStudio Unity asset extractor | 1,860 | 🟡 | C# |
 | [UnityPy](https://github.com/K0lb3/UnityPy) | Python module to extract, unpack and edit Unity assets | 1,528 | 🟢 | Python |
 | [MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools) | miHoYo BBS (Miyoushe) automation scripts using its private APIs | 1,382 | 🟢 | Python |
-| [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID) | Multi-platform chat bot plugin that queries Genshin Impact account data via miHoYo APIs | 874 | 🟢 | Python |
+| [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID) | Multi-platform chat bot plugin that queries Genshin Impact account data via miHoYo APIs | 875 | 🟢 | Python |
 | [genshin-gacha-export](https://github.com/sunfkny/genshin-gacha-export) | Genshin Impact gacha record exporter | 871 | 🟡 | Python |
 | [Ark-Unpacker](https://github.com/isHarryh/Ark-Unpacker) | Batch unpacker for Arknights asset bundles | 721 | 🟢 | Python |
 | [HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha) | Unofficial tool that fetches and analyzes miHoYo gacha records (Genshin, Star Rail, ZZZ) | 568 | 🟢 | TypeScript |
 | [genshinhelper2](https://github.com/y1ndan/genshinhelper2) | Python library for miHoYo BBS and HoYoLAB check-ins and data | 535 | 🔴 | Python |
 | [hoyolab-auto-sign](https://github.com/canaria3406/hoyolab-auto-sign) | Script that collects HoYoLAB daily check-in rewards | 523 | 🟡 | JavaScript |
-| [genshin.py](https://github.com/seriaati/genshin.py) | Async API wrapper for the HoYoLAB and Miyoushe APIs | 484 | 🟢 | Python |
+| [genshin.py](https://github.com/seriaati/genshin.py) | Async API wrapper for the HoYoLAB and Miyoushe APIs | 485 | 🟢 | Python |
 | [mihoyo-api-collect](https://github.com/UIGF-org/mihoyo-api-collect) | Collection of APIs used by miHoYo games and apps | 484 | 🗄️ |  |
-| [Shittim-Server](https://github.com/Neoexm/Shittim-Server) | Private server reimplementation for Blue Archive (Steam) | 461 | 🟢 | C# |
-| [Ark-Studio](https://github.com/isHarryh/Ark-Studio) | Integrated Arknights asset management and extraction platform | 247 | 🟢 | Python |
+| [Shittim-Server](https://github.com/Neoexm/Shittim-Server) | Private server reimplementation for Blue Archive (Steam) | 463 | 🟢 | C# |
+| [Ark-Studio](https://github.com/isHarryh/Ark-Studio) | Integrated Arknights asset management and extraction platform | 248 | 🟢 | Python |
 | [MiHOYO-MiXED-Launcher](https://github.com/HoraceHuang-ui/MiHOYO-MiXED-Launcher) | Unified launcher for Genshin, Star Rail, Honkai 3rd and ZZZ | 206 | 🟡 | Vue |
 | [blue-archive-viewer](https://github.com/respectZ/blue-archive-viewer) | Blue Archive resource viewer | 200 | 🟢 | Rust |
 | [BA-AD](https://github.com/Deathemonic/BA-AD) | Tool and library that downloads the latest Blue Archive assets | 195 | 🟢 | Rust |
@@ -353,30 +353,30 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | Third-party Pixiv Flutter client using the Pixiv app API | 13,322 | 🟢 | Dart |
-| [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Third-party Pixiv Android client | 8,297 | 🟢 | Kotlin |
-| [Bangumi](https://github.com/czy0729/Bangumi) | Unofficial bgm.tv (Bangumi) anime tracking client for Android and iOS, built with React Native | 6,236 | 🟢 | TypeScript |
-| [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Browser extension for batch downloading Pixiv artworks and novels | 5,780 | 🟢 | TypeScript |
-| [Pixeval](https://github.com/Pixeval/Pixeval) | Third-party Pixiv desktop client for Windows | 3,196 | 🟢 | C# |
+| [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | Third-party Pixiv Flutter client using the Pixiv app API | 13,332 | 🟢 | Dart |
+| [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | Third-party Pixiv Android client | 8,301 | 🟢 | Kotlin |
+| [Bangumi](https://github.com/czy0729/Bangumi) | Unofficial bgm.tv (Bangumi) anime tracking client for Android and iOS, built with React Native | 6,240 | 🟢 | TypeScript |
+| [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Browser extension for batch downloading Pixiv artworks and novels | 5,784 | 🟢 | TypeScript |
+| [Pixeval](https://github.com/Pixeval/Pixeval) | Third-party Pixiv desktop client for Windows | 3,199 | 🟢 | C# |
 | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | Downloader for Pixiv, Fanbox and related sites | 2,699 | 🟢 | Python |
-| [Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) | Third-party Pixiv Android client | 2,639 | 🔴 | Java |
+| [Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) | Third-party Pixiv Android client | 2,638 | 🔴 | Java |
 | [pixiv-toolkit](https://github.com/leoding86/webextension-pixiv-toolkit) | Browser extension for downloading Pixiv illustrations, ugoira and novels | 1,789 | 🟡 | JavaScript |
-| [PixivBiu](https://github.com/txperl/PixivBiu) | A Pixiv client. Easy to search, browse, and download artworks. | 1,485 | 🟢 | Go |
-| [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) | 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 \| A third-party Pixiv Android client with modern design and many other enh... | 1,298 | 🟢 | Kotlin |
+| [PixivBiu](https://github.com/txperl/PixivBiu) | A Pixiv client. Easy to search, browse, and download artworks. | 1,486 | 🟢 | Go |
+| [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) | 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 \| A third-party Pixiv Android client with modern design and many other enh... | 1,300 | 🟢 | Kotlin |
 | [PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) | Userscript plus aria2 batch downloader for Pixiv artists | 1,199 | 🟡 | JavaScript |
-| [PixivFanboxDownloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) | Browser extension for batch downloading Pixiv Fanbox files | 1,117 | 🟢 | TypeScript |
+| [PixivFanboxDownloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) | Browser extension for batch downloading Pixiv Fanbox files | 1,119 | 🟢 | TypeScript |
 | [Pxer](https://github.com/pea3nut/Pxer) | Pixiv crawler and batch downloader in the browser | 1,011 | 🟡 | JavaScript |
 | [PxView](https://github.com/alphasp/pxview) | Unofficial Pixiv client for Android and iOS, built with React Native | 838 | 🟡 | JavaScript |
-| [KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) | Unofficial cross-platform KakaoTalk client (TypeScript and Rust) | 765 | 🟢 | Rust |
+| [KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) | Unofficial cross-platform KakaoTalk client (TypeScript and Rust) | 766 | 🟢 | Rust |
 | [KakaoTalkAdBlock](https://github.com/blurfx/KakaoTalkAdBlock) | Ad blocker patch for the KakaoTalk Windows desktop client | 642 | 🟢 | Go |
-| [pixiv-viewer-app](https://github.com/asadahimeka/pixiv-viewer-app) | Third-party Pixiv app for browsing illustrations without login | 638 | 🟢 | JavaScript |
+| [pixiv-viewer-app](https://github.com/asadahimeka/pixiv-viewer-app) | Third-party Pixiv app for browsing illustrations without login | 640 | 🟢 | JavaScript |
 | [pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) | Pixiv client for Windows UWP | 465 | 🗄️ | C# |
 | [pansy](https://github.com/niuhuan/pansy) | Pixiv illustration client built with Flutter and Rust | 452 | 🟢 | Dart |
 | [PixivDeck](https://github.com/akameco/PixivDeck) | TweetDeck-style desktop Pixiv client | 449 | 🔴 | JavaScript |
 | [pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) | Pixiv browsing web app | 359 | 🟡 | Vue |
 | [py-hanspell](https://github.com/ssut/py-hanspell) | Python Korean spell checker using Naver's spell check web service | 359 | 🟡 | Python |
 | [XZPixivDownloader](https://github.com/xuejianxianzun/XZPixivDownloader) | Feature-rich Pixiv batch downloader browser extension | 334 | 🗄️ | JavaScript |
-| [nndownload](https://github.com/AlexAplin/nndownload) | Downloads and processes links from Niconico (nicovideo.jp) | 319 | 🟢 | Python |
+| [nndownload](https://github.com/AlexAplin/nndownload) | Downloads and processes links from Niconico (nicovideo.jp) | 320 | 🟢 | Python |
 | [pixes](https://github.com/pixes-app/pixes) | Unofficial pixiv app | 318 | 🟢 | Dart |
 | [pixiv-omina](https://github.com/leoding86/pixiv-omina) | Desktop downloader for Pixiv artworks and comics | 311 | 🔴 | JavaScript |
 | [PixivNow](https://github.com/FreeNowOrg/PixivNow) | Serverless Pixiv backend proxy and frontend | 287 | 🟢 | Vue |
@@ -401,14 +401,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pixivpy-async](https://github.com/Mikubill/pixivpy-async) | Async Python client for the Pixiv API | 162 | 🔴 | Python |
 | [pykakao](https://github.com/hallazzang/pykakao) | Python wrapper for the KakaoTalk LOCO and HTTP protocols | 162 | 🗄️ | Python |
 | [rec_radiko_ts](https://github.com/uru2/rec_radiko_ts) | Recorder for radiko timefree programs | 160 | 🟢 | Shell |
-| [pixiv-api-client](https://github.com/alphasp/pixiv-api-client) | Pixiv API client for Node.js and React Native | 153 | 🟡 | JavaScript |
-| [openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli) | Unofficial KakaoTalk CLI for macOS | 146 | 🟢 | Rust |
+| [pixiv-api-client](https://github.com/alphasp/pixiv-api-client) | Pixiv API client for Node.js and React Native | 154 | 🟡 | JavaScript |
+| [openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli) | Unofficial KakaoTalk CLI for macOS | 147 | 🟢 | Rust |
 | [Pixiv-Clover](https://github.com/CeuiLiSA/Pixiv-Clover) | Third-party Pixiv client | 145 | 🟢 | Kotlin |
 | [core](https://github.com/remote-kakao/core) | A Node.js module to make unofficial KakaoTalk bots | 136 | 🟢 | TypeScript |
 | [pixiv-cli](https://github.com/FlanChanXwO/pixiv-cli) | Pixiv terminal client, MCP server and Go SDK | 132 | 🟢 | Go |
 | [pixiv-api](https://github.com/azuline/pixiv-api) | Documented and tested wrapper around Pixiv's app API | 131 | 🟡 | Python |
+| [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) | 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS | 122 | 🟢 | Swift |
 | [niconicomments](https://github.com/xpadev-net/niconicomments) | Comment renderer compatible with Niconico's official player | 121 | 🟢 | TypeScript |
-| [Pixiv-SwiftUI](https://github.com/Eslzzyl/Pixiv-SwiftUI) | 为现代 Apple 平台设计的第三方 Pixiv 客户端，支持 iOS/iPadOS/macOS | 121 | 🟢 | Swift |
 | [LINE-instant-messenger-protocol](https://github.com/ruyaoyao/LINE-instant-messenger-protocol) | It is work of Matti Virkkunen, link to http://altrepo.eu/git/line-protocol.git for latest update. | 114 | 🔴 | Thrift |
 | [pixivcat-backend](https://github.com/pixiv-cat/pixivcat-backend) | Backend of the Pixiv.cat image proxy | 104 | 🟢 | JavaScript |
 | [FANBOX Viewer](https://github.com/matsumo0922/PixiView-KMP) | Unofficial Android and iOS client for pixivFANBOX | 100 | 🟢 | Kotlin |
@@ -429,7 +429,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Hanairo](https://github.com/youshen2/Hanairo) | 一款使用 SwiftUI 构建的，为 iOS 原生开发的第三方 Pixiv 客户端 | 46 | 🟢 | Swift |
 | [line-cli](https://github.com/kongesque/line-cli) | Unofficial LINE CLI for personal accounts: send messages, share files, automate with JSON | 44 | 🟢 | Go |
 | [soop](https://github.com/reindeer002/soop) | Unofficial API library for the SOOP (AfreecaTV) live streaming platform | 38 | 🟢 | TypeScript |
-| [paypax](https://github.com/EdamAme-x/paypax) | Unofficial PayPay API wrapper library | 34 | 🗄️ | TypeScript |
 | [LineApiGo](https://github.com/sakura-rip/LineApiGo) | Unofficial LINE API in Go | 26 | 🔴 | Go |
 | [pixivts](https://github.com/book000/pixivts) | Unofficial TypeScript library for the pixiv app API | 20 | 🟢 | TypeScript |
 | [jsline-api](https://github.com/CYBAI/jsline-api) | Unofficial Naver LINE API for JavaScript (deprecated) | 14 | 🗄️ | JavaScript |
@@ -445,59 +444,59 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | LX Music: desktop music player aggregating Chinese music platform sources | 55,260 | 🟢 | TypeScript |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | Third-party NetEase Cloud Music desktop player built on the unofficial API | 33,621 | 🟢 | Vue |
-| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | Third-party desktop music player built on the NetEase Cloud Music API | 17,525 | 🟢 | Vue |
-| [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) | Browser extension that plays music from NetEase, QQ Music, Kugou, Kuwo, Bilibili and Migu | 12,127 | 🟡 | JavaScript |
-| [musicbox](https://github.com/darknessomi/musicbox) | Command-line client for NetEase Cloud Music | 9,872 | 🟢 | Python |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | LX Music: desktop music player aggregating Chinese music platform sources | 55,294 | 🟢 | TypeScript |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | Third-party NetEase Cloud Music desktop player built on the unofficial API | 33,626 | 🟢 | Vue |
+| [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | Third-party desktop music player built on the NetEase Cloud Music API | 17,555 | 🟢 | Vue |
+| [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) | Browser extension that plays music from NetEase, QQ Music, Kugou, Kuwo, Bilibili and Migu | 12,122 | 🟡 | JavaScript |
+| [musicbox](https://github.com/darknessomi/musicbox) | Command-line client for NetEase Cloud Music | 9,874 | 🟢 | Python |
 | [ieaseMusic](https://github.com/trazyn/ieaseMusic) | Third-party desktop client for NetEase Cloud Music (Electron) | 8,738 | 🗄️ | JavaScript |
-| [server](https://github.com/UnblockNeteaseMusic/server) | Refactored UnblockNeteaseMusic proxy that replaces unavailable NetEase songs with other sources | 7,852 | 🟢 | JavaScript |
-| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop &... | 7,357 | 🗄️ | TypeScript |
-| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Win... | 7,138 | 🟢 | Vue |
-| [musicdl](https://github.com/CharlesPikachu/musicdl) | Python music downloader for dozens of Chinese music and audio platforms | 6,950 | 🟢 | Python |
-| [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) | Tool that fetches and converts lyrics from NetEase Cloud Music and QQ Music | 4,205 | 🟢 | C# |
-| [EchoMusic](https://github.com/hoowhoami/EchoMusic) | 🎉 一个简约的第三方酷狗概念版音乐播放器 | 3,884 | 🟢 | TypeScript |
-| [go-musicfox](https://github.com/go-musicfox/go-musicfox) | Terminal client for NetEase Cloud Music written in Go | 2,648 | 🟢 | Go |
-| [GoMusic](https://github.com/Bistutu/GoMusic) | Migrates NetEase, Qishui and QQ Music playlists to Apple Music, YouTube Music or Spotify | 2,531 | 🟢 | Go |
-| [MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) | Song downloader for Chinese music platforms (archived) | 2,440 | 🗄️ |  |
+| [server](https://github.com/UnblockNeteaseMusic/server) | Refactored UnblockNeteaseMusic proxy that replaces unavailable NetEase songs with other sources | 7,853 | 🟢 | JavaScript |
+| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop &... | 7,356 | 🗄️ | TypeScript |
+| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Win... | 7,154 | 🟢 | Vue |
+| [musicdl](https://github.com/CharlesPikachu/musicdl) | Python music downloader for dozens of Chinese music and audio platforms | 6,964 | 🟢 | Python |
+| [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) | Tool that fetches and converts lyrics from NetEase Cloud Music and QQ Music | 4,206 | 🟢 | C# |
+| [EchoMusic](https://github.com/hoowhoami/EchoMusic) | 🎉 一个简约的第三方酷狗概念版音乐播放器 | 3,891 | 🟢 | TypeScript |
+| [go-musicfox](https://github.com/go-musicfox/go-musicfox) | Terminal client for NetEase Cloud Music written in Go | 2,647 | 🟢 | Go |
+| [GoMusic](https://github.com/Bistutu/GoMusic) | Migrates NetEase, Qishui and QQ Music playlists to Apple Music, YouTube Music or Spotify | 2,533 | 🟢 | Go |
+| [MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) | Song downloader for Chinese music platforms (archived) | 2,441 | 🗄️ |  |
 | [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) | Linux NetEase Cloud Music player written in Rust and GTK | 2,411 | 🟢 | Rust |
+| [api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | Enhanced fork of the NetEase Cloud Music Node.js API | 2,221 | 🟢 | JavaScript |
 | [Meting](https://github.com/metowolf/Meting) | Music API framework for NetEase, QQ Music, Kugou, Kuwo and Baidu | 2,219 | 🟢 | JavaScript |
-| [api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | Enhanced fork of the NetEase Cloud Music Node.js API | 2,211 | 🟢 | JavaScript |
 | [netease-cloud](https://github.com/ZainCheung/netease-cloud) | Automated NetEase Cloud Music daily check-in and play-count tasks | 1,787 | 🟡 | Python |
 | [VutronMusic](https://github.com/stark81/VutronMusic) | Third-party NetEase Cloud Music desktop player with plugin support for other sources | 1,654 | 🟢 | Vue |
-| [bujuan](https://github.com/2697a/bujuan) | Third-party NetEase Cloud Music player for mobile and desktop (Flutter) | 1,558 | 🟢 | Dart |
+| [bujuan](https://github.com/2697a/bujuan) | Third-party NetEase Cloud Music player for mobile and desktop (Flutter) | 1,561 | 🟢 | Dart |
 | [DsoMusic](https://github.com/Moriafly/DsoMusic) | Android music player using NetEase, QQ Music, Kuwo and Bilibili as sources | 1,460 | 🗄️ | Kotlin |
 | [HyPlayer](https://github.com/HyPlayer/HyPlayer) | Third-party NetEase Cloud Music player for Windows (UWP) | 1,446 | 🟢 | C# |
-| [md3Music](https://github.com/zzyoxml/md3Music) | Third-party Kugou Concept music player (Flutter and Rust) | 1,396 | 🟢 | Dart |
+| [md3Music](https://github.com/zzyoxml/md3Music) | Third-party Kugou Concept music player (Flutter and Rust) | 1,405 | 🟢 | Dart |
 | [MusicBox (HuberTRoy)](https://github.com/HuberTRoy/MusicBox) | Cross-platform player for NetEase, Xiami and QQ Music streams | 1,348 | 🔴 | Python |
-| [qq-music-api](https://github.com/Rain120/qq-music-api) | QQ Music API implemented with Koa2 | 1,133 | 🟢 | TypeScript |
-| [KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) | Kugou Music Node.js API service | 1,093 | 🟢 | JavaScript |
-| [KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) | Cross-platform Kugou Music client built on .NET and Avalonia | 976 | 🟢 | C# |
+| [qq-music-api](https://github.com/Rain120/qq-music-api) | QQ Music API implemented with Koa2 | 1,134 | 🟢 | TypeScript |
+| [KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) | Kugou Music Node.js API service | 1,097 | 🟢 | JavaScript |
+| [KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) | Cross-platform Kugou Music client built on .NET and Avalonia | 977 | 🟢 | C# |
 | [NetEase-MusicBox](https://github.com/bluetomlee/NetEase-MusicBox) | Command-line NetEase Cloud Music client | 824 | 🔴 | Python |
 | [MyGo CloudMusic](https://github.com/egoist/mygo-cloudmusic) | Native third-party NetEase Cloud Music client | 821 | 🗄️ |  |
 | [Netease-to-Youtube-or-Spotify](https://github.com/yueyericardo/Netease-to-Youtube-or-Spotify) | Transfers NetEase Cloud Music playlists to Apple Music, YouTube or Spotify | 754 | 🟡 | JavaScript |
-| [kgka_Music_hl](https://github.com/umr-xiaomai/kgka_Music_hl) | Flutter Kugou Music client | 729 | 🟢 | Dart |
+| [kgka_Music_hl](https://github.com/umr-xiaomai/kgka_Music_hl) | Flutter Kugou Music client | 734 | 🟢 | Dart |
 | [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) | Qt desktop client for UnblockNeteaseMusic | 709 | 🟡 | C++ |
 | [music (Sherlockouo)](https://github.com/Sherlockouo/music) | Third-party NetEase Cloud Music desktop player based on YesPlayMusic | 702 | 🟢 | TypeScript |
 | [electron-cloud-music](https://github.com/disoul/electron-cloud-music) | Electron desktop client for NetEase Cloud Music | 652 | 🗄️ | JavaScript |
 | [cloud-uploader](https://github.com/lulu-ls/cloud-uploader) | macOS uploader for the NetEase Cloud Music cloud drive | 637 | 🟡 | JavaScript |
 | [netmusic-node](https://github.com/sqaiyan/netmusic-node) | Node.js NetEase Cloud Music API | 583 | 🔴 | JavaScript |
 | [spider163](https://github.com/chengyumeng/spider163) | Crawler for NetEase Cloud Music hot comments | 578 | 🔴 | Python |
-| [QQMusicApi](https://github.com/L-1124/QQMusicApi) | Python QQ Music API wrapper | 532 | 🟢 | Python |
+| [QQMusicApi](https://github.com/L-1124/QQMusicApi) | Python QQ Music API wrapper | 533 | 🟢 | Python |
 | [UnblockNeteaseMusic](https://github.com/cnsilvan/UnblockNeteaseMusic) | Go implementation of UnblockNeteaseMusic | 520 | 🟡 | Go |
 | [Meting-Fixed](https://github.com/ELDment/Meting-Fixed) | Music API framework for NetEase, QQ Music, Kugou and Kuwo | 482 | 🟡 | PHP |
 | [electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music) | Unofficial Electron desktop client for NetEase Cloud Music | 476 | 🟡 | Vue |
-| [LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper) | Converts NetEase and QQ Music playlists for local music servers | 426 | 🟢 | Kotlin |
-| [netease-cloud-music](https://github.com/chaunsin/netease-cloud-music) | Golang NetEase Cloud Music API client and CLI | 421 | 🟢 | Go |
-| [MeloX](https://github.com/youshen2/MeloX) | 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。 / A native th... | 410 | 🟢 | Swift |
-| [simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) | Simple third-party NetEase Cloud Music player | 408 | 🟡 | Svelte |
-| [Melodia](https://github.com/rinchao0721/Melodia) | Lightweight third-party NetEase Cloud Music client with a Spotify-like UI | 406 | 🟢 | Kotlin |
-| [Hydrogen Music (revived)](https://github.com/ldx123000/Hydrogen-Music) | Revived third-party NetEase Cloud Music player with fixed login, downloads and cloud drive | 387 | 🟢 | Vue |
+| [LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper) | Converts NetEase and QQ Music playlists for local music servers | 427 | 🟢 | Kotlin |
+| [netease-cloud-music](https://github.com/chaunsin/netease-cloud-music) | Golang NetEase Cloud Music API client and CLI | 422 | 🟢 | Go |
+| [Melodia](https://github.com/rinchao0721/Melodia) | Lightweight third-party NetEase Cloud Music client with a Spotify-like UI | 413 | 🟢 | Kotlin |
+| [MeloX](https://github.com/youshen2/MeloX) | 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。 / A native th... | 412 | 🟢 | Swift |
+| [simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) | Simple third-party NetEase Cloud Music player | 409 | 🟡 | Svelte |
+| [Hydrogen Music (revived)](https://github.com/ldx123000/Hydrogen-Music) | Revived third-party NetEase Cloud Music player with fixed login, downloads and cloud drive | 386 | 🟢 | Vue |
 | [CloudMusic-Crawler](https://github.com/GreatV/CloudMusic-Crawler) | NetEase Cloud Music crawler with data visualization | 374 | 🗄️ | Python |
 | [QQMusicSpider](https://github.com/yangjianxin1/QQMusicSpider) | Scrapy crawler for QQ Music songs, lyrics and comments | 371 | 🟡 | Python |
 | [Glee](https://github.com/nondanee/Glee) | Third-party NetEase Cloud Music client | 366 | 🔴 | JavaScript |
 | [Kanade](https://github.com/rcmiku/Kanade) | Third-party NetEase Cloud Music Android client | 364 | 🗄️ |  |
-| [open-orpheus](https://github.com/YUCLing/open-orpheus) | Open-source cross-platform implementation of the NetEase Cloud Music desktop client | 356 | 🟢 | TypeScript |
+| [open-orpheus](https://github.com/YUCLing/open-orpheus) | Open-source cross-platform implementation of the NetEase Cloud Music desktop client | 357 | 🟢 | TypeScript |
 | [music-163](https://github.com/RitterHou/music-163) | Crawls comment counts for all NetEase Cloud Music songs | 340 | 🔴 | Python |
 | [UnblockNeteaseMusic](https://github.com/ITJesse/UnblockNeteaseMusic) | Koa proxy unlocking NetEase Cloud Music abroad and replacing copyrighted tracks | 334 | 🗄️ | JavaScript |
 | [my_yesplaymusic](https://github.com/stark81/my_yesplaymusic) | Third-party NetEase Cloud Music player with offline playlists and desktop lyrics | 330 | 🗄️ | Vue |
@@ -511,7 +510,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Ncrust](https://github.com/GuitaristRin/Ncrust) | Cross-platform third-party NetEase Cloud Music client | 244 | 🟢 | Kotlin |
 | [netease-music-cloud-uploader](https://github.com/ovnrain/netease-music-cloud-uploader) | Uploads songs to the NetEase Cloud Music cloud drive from macOS | 240 | 🗄️ | TypeScript |
 | [TS3AudioBot NetEase plugin](https://github.com/ZHANGTIANYAO1/TS3AudioBot-NetEaseCloudmusic-plugin) | TS3AudioBot plugin that plays NetEase Cloud Music in TeamSpeak | 235 | 🗄️ | C# |
-| [Mei](https://github.com/ljyh223/Mei) | Third-party NetEase Cloud Music app | 231 | 🟢 | Kotlin |
+| [Mei](https://github.com/ljyh223/Mei) | Third-party NetEase Cloud Music app | 232 | 🟢 | Kotlin |
 | [LrcHelper](https://github.com/ludoux/LrcHelper) | Downloads translated lyrics from NetEase Cloud Music for Walkman players | 227 | 🔴 | C# |
 | [NeteaseCloudMusic_PythonSDK](https://github.com/2061360308/NeteaseCloudMusic_PythonSDK) | Multi-language bindings for the NetEase Cloud Music API | 208 | 🟢 | Python |
 | [NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) | PHP NetEase Cloud Music API (merged into Meting) | 205 | 🔴 | PHP |
@@ -519,11 +518,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [NetEase-Cloud-Music-DiscordRPC](https://github.com/Kxnrl/NetEase-Cloud-Music-DiscordRPC) | Discord Rich Presence for the NetEase Cloud Music and QQ Music desktop clients | 198 | 🟢 | C# |
 | [MusicAPI (javaswing)](https://github.com/javaswing/MusicAPI) | NetEase Cloud Music web API interfaces | 192 | 🔴 | C# |
 | [qq_music_aum](https://github.com/LightAPIs/qq_music_aum) | Synology Audio Station lyrics plugin using QQ Music | 185 | 🟡 | PHP |
-| [inflink-rs](https://github.com/apoint123/inflink-rs) | Adds Windows SMTC and Discord RPC support to NetEase Cloud Music | 171 | 🟢 | TypeScript |
+| [inflink-rs](https://github.com/apoint123/inflink-rs) | Adds Windows SMTC and Discord RPC support to NetEase Cloud Music | 172 | 🟢 | TypeScript |
 | [NLyric](https://github.com/wwh1004/NLyric) | Automatically searches and downloads lyrics from NetEase Cloud Music | 163 | 🔴 | C# |
 | [CloudMusicApi (MiChongGET)](https://github.com/MiChongGET/CloudMusicApi) | Analysis and retrieval of NetEase Cloud Music API endpoints | 159 | 🔴 | JavaScript |
 | [Mooic](https://github.com/kid-depress/Mooic) | Native Android third-party NetEase Cloud Music client | 139 | 🟢 | Kotlin |
-| [XCMusic](https://github.com/yiktllw/XCMusic) | Third-party NetEase Cloud Music desktop client | 138 | 🟢 | TypeScript |
+| [XCMusic](https://github.com/yiktllw/XCMusic) | Third-party NetEase Cloud Music desktop client | 139 | 🟢 | TypeScript |
 | [SaltPlayerConverter](https://github.com/Winnie0408/SaltPlayerConverter) | Converts NetEase and QQ Music playlists for Salt Player | 132 | 🟡 | Java |
 | [UnblockNeteaseMusic-Android](https://github.com/Flysky12138/UnblockNeteaseMusic-Android) | Android app version of UnblockNeteaseMusic | 131 | 🗄️ |  |
 | [NetEaseMusicApi](https://github.com/littlecodersh/NetEaseMusicApi) | Python NetEase Cloud Music API | 130 | 🔴 | Python |
@@ -535,19 +534,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [12306](https://github.com/testerSunshine/12306) | 12306 China Railway ticket grabbing and booking tool (archived) | 34,021 | 🗄️ | Python |
-| [py12306](https://github.com/pjialin/py12306) | 12306 China Railway ticket booking assistant with clustering and multi-account support | 14,969 | 🟢 | Python |
+| [12306](https://github.com/testerSunshine/12306) | 12306 China Railway ticket grabbing and booking tool (archived) | 34,019 | 🗄️ | Python |
+| [py12306](https://github.com/pjialin/py12306) | 12306 China Railway ticket booking assistant with clustering and multi-account support | 14,970 | 🟢 | Python |
 | [jd_sign_bot](https://github.com/ruicky/jd_sign_bot) | JD.com daily sign-in bot | 4,357 | 🗄️ |  |
 | [12306ForMac](https://github.com/fancymax/12306ForMac) | Unofficial China Railway 12306 ticketing client for Mac | 2,898 | 🔴 | Swift |
-| [Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一个基于 UWP 平台的第三方酷安客户端 | 2,690 | 🟢 | C# |
+| [Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) | 一个基于 UWP 平台的第三方酷安客户端 | 2,692 | 🟢 | C# |
 | [12306-mcp](https://github.com/Joooook/12306-mcp) | MCP server for 12306 train ticket search | 2,429 | 🟢 | JavaScript |
 | [Toutiao third-party client](https://github.com/iMeiji/Toutiao) | Third-party Android client for the Toutiao news app built on its private API | 2,240 | 🔴 | Java |
-| [XianYuApis](https://github.com/cv-cat/XianYuApis) | Reverse-engineered API signing and WebSocket client for the Xianyu (Goofish) second-hand marketplace | 1,708 | 🟢 | JavaScript |
-| [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | 酷安跨平台桌面版 | 1,688 | 🗄️ | Vue |
-| [bangumi (CMP)](https://github.com/xiaoyvyv/bangumi) | Unofficial Compose Multiplatform client for the Bangumi (bgm.tv) site | 1,175 | 🟢 | Kotlin |
-| [boss-cli](https://github.com/jackwener/boss-cli) | CLI for the BOSS Zhipin job platform via reverse-engineered APIs | 1,046 | 🟢 | Python |
-| [spider_reverse](https://github.com/0xAllenChen/spider_reverse) | Crawler reverse-engineering case studies including WeChat mini program decompilation | 943 | 🟢 | Python |
-| [c001apk](https://github.com/TG-Twilight/c001apk) | Lightweight unofficial Android client for Coolapk | 903 | 🟢 | Dart |
+| [XianYuApis](https://github.com/cv-cat/XianYuApis) | Reverse-engineered API signing and WebSocket client for the Xianyu (Goofish) second-hand marketplace | 1,718 | 🟢 | JavaScript |
+| [coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop) | 酷安跨平台桌面版 | 1,690 | 🗄️ | Vue |
+| [bangumi (CMP)](https://github.com/xiaoyvyv/bangumi) | Unofficial Compose Multiplatform client for the Bangumi (bgm.tv) site | 1,179 | 🟢 | Kotlin |
+| [boss-cli](https://github.com/jackwener/boss-cli) | CLI for the BOSS Zhipin job platform via reverse-engineered APIs | 1,048 | 🟢 | Python |
+| [spider_reverse](https://github.com/0xAllenChen/spider_reverse) | Crawler reverse-engineering case studies including WeChat mini program decompilation | 944 | 🟢 | Python |
+| [c001apk](https://github.com/TG-Twilight/c001apk) | Lightweight unofficial Android client for Coolapk | 913 | 🟢 | Dart |
 | [ACAC](https://github.com/xiaye13579/ACAC) | 一个第三方AcFun TV和Pad客户端，A third-party AcFun client for TV & Pad。 | 813 | 🔴 |  |
 | [12306_ticket_helper](https://github.com/iccfish/12306_ticket_helper) | Browser helper for booking tickets on 12306 | 801 | 🔴 | JavaScript |
 | [TSDK](https://github.com/xinlingqudongX/TSDK) | Taobao, Tmall and Alibaba crawler SDK with login support | 750 | 🗄️ | Python |
@@ -555,9 +554,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ithome-lite](https://github.com/F-loat/ithome-lite) | Third-party IT Home news mini program and web client | 526 | 🔴 | Vue |
 | [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) | Collection of reversed request-signing and encryption algorithms of Chinese apps and mini programs | 433 | 🟢 | Python |
 | [TaoBaoApis](https://github.com/cv-cat/TaoBaoApis) | Taobao signing algorithm reverse and API client with websocket automation | 365 | 🟢 | Python |
-| [TiebaPure](https://github.com/infinityf4p/TiebaPure-iOS) | Unofficial SwiftUI Baidu Tieba client for iOS | 354 | 🟢 | Swift |
+| [TiebaPure](https://github.com/infinityf4p/TiebaPure-iOS) | Unofficial SwiftUI Baidu Tieba client for iOS | 355 | 🟢 | Swift |
 | [pddSpider](https://github.com/SZFsir/pddSpider) | Pinduoduo crawler for products and reviews | 322 | 🗄️ | Python |
-| [HiPDA NG](https://github.com/GreenSkinMonster/hipda) | Unofficial Android client for the HiPDA forum | 285 | 🔴 | Java |
+| [HiPDA NG](https://github.com/GreenSkinMonster/hipda) | Unofficial Android client for the HiPDA forum | 284 | 🔴 | Java |
 | [doubean-public](https://github.com/Bumblebee202111/doubean-public) | Unofficial Douban client for Android | 273 | 🟢 | Kotlin |
 | [Pinduoduo crawler](https://github.com/Northxw/Pinduoduo) | Pinduoduo product information crawler | 215 | 🔴 | JavaScript |
 | [waimai-crawler](https://github.com/mudiyouyou/waimai-crawler) | Scheduled crawler for merchant orders on Meituan, Ele.me and Baidu food delivery | 188 | 🔴 | HTML |
@@ -567,7 +566,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [open-nga](https://github.com/mlzzen/open-nga) | Third-party client for the NGA forum (bbs.nga.cn) | 145 | 🟢 | Java |
 | [yue-spider](https://github.com/3394772548/yue-spider) | Crawlers for the Taobao and Xianyu mobile apps | 138 | 🔴 | Go |
 | [JdApis](https://github.com/cv-cat/JdApis) | Reverse-engineered JD.com request signing algorithms and APIs | 135 | 🟢 | Python |
-| [TiebaPure (Android)](https://github.com/infinityf4p/TiebaPure-Android) | Unofficial Kotlin Compose client for Baidu Tieba | 132 | 🟢 | Kotlin |
+| [TiebaPure (Android)](https://github.com/infinityf4p/TiebaPure-Android) | Unofficial Kotlin Compose client for Baidu Tieba | 134 | 🟢 | Kotlin |
 | [xsmth](https://github.com/Maxwin-z/xsmth-newsmth) | Third-party client for the Newsmth (Shuimu) BBS | 123 | 🔴 | Objective-C |
 | [DoubanMApp](https://github.com/TouchFriend/DoubanMApp) | Ad-free Douban iOS client built from iOS reverse analysis | 112 | 🟢 | Objective-C |
 | [goofish-client](https://github.com/11273/goofish-client) | Unofficial client for the Goofish (Xianyu) second-hand marketplace web API | 69 | 🟢 | TypeScript |
@@ -578,67 +577,67 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | Binary patcher that blocks message recall in desktop WeChat, QQ and TIM | 39,195 | 🟢 | C# |
-| [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | macOS WeChat plugin adding features through runtime hooking | 22,509 | 🗄️ | Objective-C |
-| [res-downloader](https://github.com/putyy/res-downloader) | Proxy-based downloader for WeChat Channels, mini programs, Douyin, Kuaishou and Xiaohongshu media | 21,215 | 🟢 | Go |
-| [WeFlow](https://github.com/hicccc77/WeFlow) | Local WeChat chat history exporter and annual-report generator | 15,990 | 🟢 | TypeScript |
-| [mirai](https://github.com/mamoe/mirai) | Mirai: Kotlin QQ bot library implementing the Android QQ protocol | 14,763 | 🟡 | Kotlin |
-| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | macOS WeChat assistant plugin injected into the client | 14,285 | 🟡 | Objective-C |
-| [WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | macOS WeChat tweak: anti-recall and multiple instances via binary injection | 13,839 | 🟢 | Swift |
+| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | Binary patcher that blocks message recall in desktop WeChat, QQ and TIM | 39,220 | 🟢 | C# |
+| [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | macOS WeChat plugin adding features through runtime hooking | 22,505 | 🗄️ | Objective-C |
+| [res-downloader](https://github.com/putyy/res-downloader) | Proxy-based downloader for WeChat Channels, mini programs, Douyin, Kuaishou and Xiaohongshu media | 21,244 | 🟢 | Go |
+| [WeFlow](https://github.com/hicccc77/WeFlow) | Local WeChat chat history exporter and annual-report generator | 16,018 | 🟢 | TypeScript |
+| [mirai](https://github.com/mamoe/mirai) | Mirai: Kotlin QQ bot library implementing the Android QQ protocol | 14,762 | 🟡 | Kotlin |
+| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | macOS WeChat assistant plugin injected into the client | 14,286 | 🟡 | Objective-C |
+| [WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | macOS WeChat tweak: anti-recall and multiple instances via binary injection | 13,840 | 🟢 | Swift |
 | [electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) | Electron WeChat client for macOS and Linux wrapping web WeChat | 13,810 | 🗄️ | JavaScript |
-| [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | Online batch exporter for WeChat Official Account articles with read and comment data | 13,148 | 🟢 | TypeScript |
-| [NapCatQQ](https://github.com/NapNeko/NapCatQQ) | NapCat: OneBot 11 bot framework built by hooking the NTQQ desktop client | 12,674 | 🟢 | TypeScript |
-| [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | Go implementation of the reverse-engineered QQ protocol exposing the OneBot API | 10,595 | 🟢 | Go |
-| [wx_channels_download](https://github.com/ltaoo/wx_channels_download) | Downloader for WeChat Channels (Shipinhao) videos | 10,491 | 🟢 | Go |
-| [wechatDownload](https://github.com/qiye45/wechatDownload) | Batch downloader for WeChat Official Account articles with comments and collections | 10,038 | 🟢 | HTML |
-| [wewe-rss](https://github.com/cooderl/wewe-rss) | Self-hosted RSS feeds for WeChat Official Accounts via the WeChat Read API | 9,621 | 🗄️ | TypeScript |
-| [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Exports WeChat chat history from iTunes/iOS backups | 8,586 | 🟡 | C++ |
+| [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | Online batch exporter for WeChat Official Account articles with read and comment data | 13,156 | 🟢 | TypeScript |
+| [NapCatQQ](https://github.com/NapNeko/NapCatQQ) | NapCat: OneBot 11 bot framework built by hooking the NTQQ desktop client | 12,756 | 🟢 |  |
+| [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | Go implementation of the reverse-engineered QQ protocol exposing the OneBot API | 10,597 | 🟢 | Go |
+| [wx_channels_download](https://github.com/ltaoo/wx_channels_download) | Downloader for WeChat Channels (Shipinhao) videos | 10,523 | 🟢 | Go |
+| [wechatDownload](https://github.com/qiye45/wechatDownload) | Batch downloader for WeChat Official Account articles with comments and collections | 10,047 | 🟢 | HTML |
+| [wewe-rss](https://github.com/cooderl/wewe-rss) | Self-hosted RSS feeds for WeChat Official Accounts via the WeChat Read API | 9,620 | 🗄️ | TypeScript |
+| [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Exports WeChat chat history from iTunes/iOS backups | 8,592 | 🟡 | C++ |
 | [wxauto](https://github.com/cluic/wxauto) | UI automation library for the Windows WeChat desktop client to send and receive messages | 7,448 | 🟢 | Python |
 | [WeixinBot](https://github.com/Urinx/WeixinBot) | Web WeChat API with a terminal client and bot | 7,420 | 🔴 | Python |
-| [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) | Plugin loader for the QQNT Electron client | 7,026 | 🗄️ | JavaScript |
+| [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) | Plugin loader for the QQNT Electron client | 7,025 | 🗄️ | JavaScript |
 | [WechatSogou](https://github.com/chyroc/WechatSogou) | WeChat Official Account crawler API based on Sogou WeChat search | 6,411 | 🟢 | Python |
-| [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) | Downloader for WeChat Channels videos, live replays and images | 6,048 | 🟢 |  |
+| [wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) | Downloader for WeChat Channels videos, live replays and images | 6,051 | 🟢 |  |
 | [weweChat](https://github.com/trazyn/weweChat) | Unofficial WeChat desktop client built on the web WeChat protocol | 5,698 | 🗄️ | JavaScript |
-| [openwechat](https://github.com/eatmoreapple/openwechat) | Go WeChat SDK built on the web/desktop login protocol | 5,464 | 🟡 | Go |
-| [wxBot](https://github.com/liuwons/wxBot) | Python WeChat personal-account bot framework on the web protocol (deprecated) | 5,315 | 🔴 | Python |
-| [we-mp-rss](https://github.com/rachelos/we-mp-rss) | WeChat Official Account subscriber that exports articles to RSS, Markdown and PDF | 5,169 | 🟢 | Python |
-| [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | Checks which WeChat contacts deleted or blocked you via the iPad protocol | 5,167 | 🗄️ | JavaScript |
+| [openwechat](https://github.com/eatmoreapple/openwechat) | Go WeChat SDK built on the web/desktop login protocol | 5,463 | 🟡 | Go |
+| [wxBot](https://github.com/liuwons/wxBot) | Python WeChat personal-account bot framework on the web protocol (deprecated) | 5,316 | 🔴 | Python |
+| [we-mp-rss](https://github.com/rachelos/we-mp-rss) | WeChat Official Account subscriber that exports articles to RSS, Markdown and PDF | 5,173 | 🟢 | Python |
+| [WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | Checks which WeChat contacts deleted or blocked you via the iPad protocol | 5,168 | 🗄️ | JavaScript |
 | [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) | Finds WeChat friends who deleted you via the web WeChat protocol | 4,771 | 🗄️ | Python |
 | [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) | Desktop downloader for WeChat Channels videos | 4,660 | 🗄️ |  |
-| [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) | WeChat PC client patch with multi-instance, anti-recall, voice backup and an SDK | 4,580 | 🔴 | C++ |
-| [wxapkg](https://github.com/wux1an/wxapkg) | Desktop GUI that unpacks WeChat mini-program .wxapkg packages | 4,374 | 🟢 | Vue |
-| [echotrace](https://github.com/ycccccccy/echotrace) | Local WeChat chat history export and analysis tool | 3,858 | 🟢 |  |
-| [LuckyLilliaBot](https://github.com/LuckyLilliaDev/LuckyLilliaBot) | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,736 | 🟢 | TypeScript |
+| [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) | WeChat PC client patch with multi-instance, anti-recall, voice backup and an SDK | 4,581 | 🔴 | C++ |
+| [wxapkg](https://github.com/wux1an/wxapkg) | Desktop GUI that unpacks WeChat mini-program .wxapkg packages | 4,376 | 🟢 | Vue |
+| [echotrace](https://github.com/ycccccccy/echotrace) | Local WeChat chat history export and analysis tool | 3,864 | 🟢 |  |
+| [LuckyLilliaBot](https://github.com/LuckyLilliaDev/LuckyLilliaBot) | LLOneBot: NTQQ plugin exposing OneBot 11, Satori and Milky bot protocols | 3,751 | 🟢 | TypeScript |
 | [openshare](https://github.com/100apps/openshare) | Share, login and pay via WeChat, QQ, Weibo and Alipay apps without official SDKs (iOS) | 3,611 | 🟢 | Objective-C |
-| [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | Crawler for WeChat Official Account articles | 3,486 | 🟡 | Python |
-| [wechat-backup](https://github.com/greycodee/wechat-backup) | Backs up WeChat chat history to local disk | 3,408 | 🟢 | Go |
+| [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | Crawler for WeChat Official Account articles | 3,485 | 🟡 | Python |
+| [wechat-backup](https://github.com/greycodee/wechat-backup) | Backs up WeChat chat history to local disk | 3,409 | 🟢 | Go |
 | [wechat-spider (bowenpay)](https://github.com/bowenpay/wechat-spider) | WeChat Official Account crawler | 3,400 | 🔴 | Python |
 | [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) | Third-party QQ desktop client built on reverse-engineered protocol libraries | 3,379 | 🟢 | TypeScript |
-| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | Pure C# implementation of the NTQQ protocol, derived from Konata.Core | 3,025 | 🟢 | C# |
+| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | Pure C# implementation of the NTQQ protocol, derived from Konata.Core | 3,037 | 🟢 | C# |
 | [wechat-spider (striver-ing)](https://github.com/striver-ing/wechat-spider) | Crawls all articles, reads, likes and comments of WeChat Official Accounts | 2,992 | 🟢 | Python |
-| [wx_channel](https://github.com/nobiyou/wx_channel) | WeChat Channels video download tool | 2,931 | 🟢 | Go |
-| [wechat_web_devtools (Linux)](https://github.com/cytle/wechat_web_devtools) | Linux port of the WeChat mini program developer tools | 2,652 | 🗄️ | HTML |
+| [wx_channel](https://github.com/nobiyou/wx_channel) | WeChat Channels video download tool | 2,938 | 🟢 | Go |
+| [wechat_web_devtools (Linux)](https://github.com/cytle/wechat_web_devtools) | Linux port of the WeChat mini program developer tools | 2,653 | 🗄️ | HTML |
 | [oicq](https://github.com/takayama-lily/oicq) | Node.js QQ bot library implementing the Android QQ protocol | 2,625 | 🗄️ | TypeScript |
 | [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) | iOS WeChat tweak that automatically grabs red envelopes | 2,293 | 🗄️ | Objective-C |
+| [WeChatBridge](https://github.com/freestylefly/WeChatBridge) | macOS tool that forwards WeChat chat history to AI agents and Obsidian | 2,217 | 🟢 | Swift |
 | [WeChat-Hook (aixed)](https://github.com/aixed/WeChat-Hook) | PC WeChat 3.9/4.x hook exposing send and receive message interfaces | 2,208 | 🟢 | C++ |
-| [WeChatBridge](https://github.com/freestylefly/WeChatBridge) | macOS tool that forwards WeChat chat history to AI agents and Obsidian | 2,201 | 🟢 | Swift |
 | [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) | HTTP webhook service for sending and receiving personal WeChat messages | 2,164 | 🗄️ | JavaScript |
 | [wechat-need-web](https://github.com/lqzhgood/wechat-need-web) | Browser extension that re-enables the WeChat web client | 2,154 | 🟢 | TypeScript |
 | [itchat4j](https://github.com/yaphone/itchat4j) | Java library for personal WeChat accounts via the web protocol | 2,106 | 🟡 | Java |
-| [BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) | Patcher adding multi-instance and anti-recall to WeChat, WeCom and DingTalk | 2,094 | 🟢 |  |
+| [BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) | Patcher adding multi-instance and anti-recall to WeChat, WeCom and DingTalk | 2,095 | 🟢 |  |
 | [wechat-dump](https://github.com/ppwwyyxx/wechat-dump) | Analyzing your wechat message history from android | 2,031 | 🟢 | Python |
-| [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) | Xposed module to control and extend WeChat on Android | 1,895 | 🔴 | Kotlin |
+| [WechatMagician](https://github.com/Gh0u1L5/WechatMagician) | Xposed module to control and extend WeChat on Android | 1,894 | 🔴 | Kotlin |
 | [wechat4u](https://github.com/nodeWechat/wechat4u) | JavaScript implementation of the WeChat web protocol | 1,861 | 🟡 | JavaScript |
-| [wx_key](https://github.com/ycccccccy/wx_key) | Extracts database and image keys from WeChat 4.0+ desktop | 1,843 | 🟢 |  |
+| [wx_key](https://github.com/ycccccccy/wx_key) | Extracts database and image keys from WeChat 4.0+ desktop | 1,845 | 🟢 |  |
 | [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) | PC WeChat robot via hooking, exposed as a COM interface | 1,809 | 🗄️ | C++ |
 | [WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook) | Kotlin WeChat plugin framework on Xposed | 1,730 | 🔴 | Kotlin |
 | [Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | Perl client framework for the WebQQ protocol (service shut down in 2019) | 1,702 | 🔴 | Perl |
 | [Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) | Converts WeChat Official Accounts to RSS feeds | 1,658 | 🟢 | Shell |
 | [wechat_spider (lqqyt2423)](https://github.com/lqqyt2423/wechat_spider) | MITM crawler for WeChat Official Account articles, reads, likes and comments | 1,597 | 🟢 | JavaScript |
-| [WeChatExporter (tsycnh)](https://github.com/tsycnh/WeChatExporter) | Exports and views WeChat chat history from iOS backups | 1,523 | 🔴 | JavaScript |
+| [WeChatExporter (tsycnh)](https://github.com/tsycnh/WeChatExporter) | Exports and views WeChat chat history from iOS backups | 1,522 | 🔴 | JavaScript |
 | [qqbot (xhan)](https://github.com/xhan/qqbot) | QQ bot and command-line client built on the WebQQ protocol | 1,438 | 🔴 | CoffeeScript |
-| [Stapxs QQ Lite](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | Third-party QQ web/desktop client built on the OneBot protocol | 1,365 | 🟢 | Vue |
-| [wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) | Linux port of the WeChat mini program developer tools | 1,340 | 🟢 | Shell |
+| [Stapxs QQ Lite](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) | Third-party QQ web/desktop client built on the OneBot protocol | 1,368 | 🟢 | Vue |
+| [wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) | Linux port of the WeChat mini program developer tools | 1,342 | 🟢 | Shell |
 | [Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin) | Perl client framework for personal WeChat accounts via the web protocol | 1,249 | 🔴 | Perl |
 | [MiraiGo](https://github.com/Mrs4s/MiraiGo) | Go port of the Mirai QQ protocol implementation | 1,211 | 🟡 | Go |
 | [smartqq](https://github.com/ScienJus/smartqq) | Java API for the SmartQQ (WebQQ) protocol | 1,133 | 🗄️ | Java |
@@ -650,11 +649,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [puppet-padlocal](https://github.com/wechaty/puppet-padlocal) | Wechaty puppet using the WeChat iPad protocol | 769 | 🔴 | TypeScript |
 | [ItChat-UOS](https://github.com/why2lyj/ItChat-UOS) | Revived ItChat WeChat web-protocol client using the UOS login path | 742 | 🔴 | Python |
 | [vscode-qq](https://github.com/takayama-lily/vscode-qq) | VS Code QQ extension based on the Android QQ protocol | 728 | 🔴 | TypeScript |
-| [wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) | Extracts WeChat WCDB/SQLCipher4 database keys on Linux | 705 | 🟢 | Python |
-| [weread-omni](https://github.com/teng-lin/weread-omni) | WeRead toolkit with agent, API, SDK, CLI and 40 operations over the private API | 704 | 🟢 | TypeScript |
-| [wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) | macOS WeChat send/receive messages by reverse engineering the client | 675 | 🟢 | JavaScript |
+| [wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) | Extracts WeChat WCDB/SQLCipher4 database keys on Linux | 709 | 🟢 | Python |
+| [weread-omni](https://github.com/teng-lin/weread-omni) | WeRead toolkit with agent, API, SDK, CLI and 40 operations over the private API | 705 | 🟢 | TypeScript |
+| [wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) | macOS WeChat send/receive messages by reverse engineering the client | 676 | 🟢 | JavaScript |
 | [wechatPc](https://github.com/chengciming/wechatPc) | PC WeChat hook and injection source code | 668 | 🔴 | C++ |
-| [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | macOS WeCom patch that blocks message recall and removes chat watermarks | 646 | 🗄️ |  |
+| [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | macOS WeCom patch that blocks message recall and removes chat watermarks | 645 | 🗄️ |  |
 | [ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) | ChatGPT WeChat bot built on a WeChat hook interface | 641 | 🟡 | Python |
 | [CPWechatXposed](https://github.com/coder-pig/CPWechatXposed) | Xposed hooks for WeChat and other Android apps | 628 | 🟢 | Kotlin |
 | [wequick](https://github.com/juguang2018/wequick) | WeChat PC hook API for personal accounts | 607 | 🔴 |  |
@@ -674,20 +673,19 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [WechatHook](https://github.com/duqian291902259/WechatHook) | Android WeChat hooking with Xposed and accessibility services | 385 | 🔴 | Java |
 | [QQImpl](https://github.com/EEEEhex/QQImpl) | Reverse-engineered calls into QQ's Mojo IPC and WeChat's XPlugin | 383 | 🟡 | C++ |
 | [DbkeyHook](https://github.com/gzygood/DbkeyHook) | Hook that gets the database key from PC WeChat 4.0.3.39 and later | 366 | 🟢 | C++ |
-| [wechat-mp-tools](https://github.com/x554960766/wechat-mp-tools) | Collector for WeChat Official Accounts and downloader for Channels, Douyin, Xiaohongshu and Bilibili | 359 | 🟢 | Python |
-| [wechat-ipad-protocol](https://github.com/wechat2ipad/wechat-ipad-protocol) | Implementation of the WeChat iPad protocol (version 861) | 349 | 🟢 |  |
+| [wechat-mp-tools](https://github.com/x554960766/wechat-mp-tools) | Collector for WeChat Official Accounts and downloader for Channels, Douyin, Xiaohongshu and Bilibili | 362 | 🟢 | Python |
+| [wechat-ipad-protocol](https://github.com/wechat2ipad/wechat-ipad-protocol) | Implementation of the WeChat iPad protocol (version 861) | 350 | 🟢 |  |
 | [weread-exporter (lbq110)](https://github.com/lbq110/weread-exporter) | Exports full WeRead books to Markdown via Playwright + Canvas hook | 342 | 🟢 | Python |
 | [wechat-pc-hook-api](https://github.com/wsbblyy/wechat-pc-hook-api) | WeChat PC hook API | 339 | 🔴 | C |
 | [webqq-core](https://github.com/iqq-team/webqq-core) | Java library for the WebQQ protocol | 329 | 🔴 | Java |
-| [NTQQAntiRecall](https://github.com/NapNeko/NTQQAntiRecall) | Anti-recall patch for the QQNT desktop client | 306 | 🟡 | C++ |
+| [wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) | MCP server that unpacks WeChat mini programs and recovers API signing logic | 301 | 🟢 | JavaScript |
 | [ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient) | OneBot 12 client for WeChat PC hooks via COM | 299 | 🗄️ | Python |
 | [WeChatHook (lyx102)](https://github.com/lyx102/WeChatHook) | WeChat and WeCom PC hook for WeChat 3.9.x | 299 | 🟢 | Python |
-| [wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) | MCP server that unpacks WeChat mini programs and recovers API signing logic | 297 | 🟢 | JavaScript |
 | [wechat-pc-hook-python](https://github.com/holdyeah/wechat-pc-hook-python) | WeChat PC hook with Python bindings | 296 | 🟡 | C |
 | [WeChatApi (mrsanshui)](https://github.com/mrsanshui/WeChatApi) | WeChat PC hook API for Python | 293 | 🟢 | C++ |
 | [qqbot (ScienJus)](https://github.com/ScienJus/qqbot) | QQ bot built on the SmartQQ (WebQQ) API | 276 | 🔴 | Ruby |
 | [wxwork_pc_api](https://github.com/linuxxx/wxwork_pc_api) | WeCom (WeChat Work) PC hook bot | 259 | 🟡 |  |
-| [miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp) | MCP server for WeChat mini program reverse engineering through Chrome DevTools | 253 | 🟢 | Python |
+| [miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp) | MCP server for WeChat mini program reverse engineering through Chrome DevTools | 254 | 🟢 | Python |
 | [LagrangeGo](https://github.com/LagrangeDev/LagrangeGo) | Go implementation of the NTQQ PC protocol | 234 | 🟢 | Go |
 | [wxappUnpacker](https://github.com/threecha/wxappUnpacker) | Node.js unpacker restoring WeChat mini program .wxapkg resources | 230 | 🟢 | JavaScript |
 | [Hook_WeChat_FaaS](https://github.com/FourTwooo/Hook_WeChat_FaaS) | Frida scripts that hook WeChat cloud functions | 226 | 🟡 | JavaScript |
@@ -720,7 +718,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [zhong-wechat-wmpf-debugger](https://github.com/netz888/zhong-wechat-wmpf-debugger) | Opens DevTools debugging for WeChat mini programs on Windows (WMPF) | 123 | 🟢 | Python |
 | [WeChat](https://github.com/smokingrain/WeChat) | Java WeChat desktop client built on the web WeChat protocol | 121 | 🟡 | Java |
 | [WeiXin-Private-API](https://github.com/lealife/WeiXin-Private-API) | WeChat Official Account platform private API wrapper | 112 | 🗄️ | PHP |
-| [acidify](https://github.com/LagrangeDev/acidify) | Kotlin Multiplatform implementation of the PC and Android NTQQ protocol | 106 | 🟢 | Kotlin |
+| [acidify](https://github.com/LagrangeDev/acidify) | Kotlin Multiplatform implementation of the PC and Android NTQQ protocol | 111 | 🟢 | Kotlin |
 | [pc-wechat-hook-http-api](https://github.com/daenmax/pc-wechat-hook-http-api) | PC WeChat hook service exposing HTTP and WebSocket APIs | 101 | 🟡 |  |
 | [wechat-ilink-client](https://github.com/photon-hq/wechat-ilink-client) | TypeScript client for WeChat iLink bot protocol, reversed from openclaw-weixin | 84 | 🟢 | TypeScript |
 | [androidqq-sniffer](https://github.com/yggo/androidqq-sniffer) | Tools for sniffing the Android QQ protocol | 55 | 🔴 | C# |
@@ -731,29 +729,29 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | Xiaohongshu (RedNote) link extractor and post downloader | 13,271 | 🟢 | JavaScript |
-| [weiboSpider](https://github.com/dataabc/weiboSpider) | Sina Weibo crawler for user posts and profile data | 9,752 | 🟢 | Python |
-| [Spider_XHS](https://github.com/cv-cat/Spider_XHS) | Xiaohongshu reverse-engineered crawler: signatures, DMs, live and data collection | 8,436 | 🟢 | Python |
+| [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | Xiaohongshu (RedNote) link extractor and post downloader | 13,285 | 🟢 | JavaScript |
+| [weiboSpider](https://github.com/dataabc/weiboSpider) | Sina Weibo crawler for user posts and profile data | 9,751 | 🟢 | Python |
+| [Spider_XHS](https://github.com/cv-cat/Spider_XHS) | Xiaohongshu reverse-engineered crawler: signatures, DMs, live and data collection | 8,454 | 🟢 | Python |
 | [Douya](https://github.com/zhanghai/Douya) | Open-source Material Design client for Douban | 4,530 | 🗄️ | Java |
-| [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | 贴吧 Lite | 4,481 | 🟢 | Kotlin |
-| [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 | 4,457 | 🟢 | Kotlin |
-| [WeiboSpider](https://github.com/nghuyong/WeiboSpider) | Maintained Sina Weibo data collection tool | 4,127 | 🟢 | Python |
+| [TiebaLite](https://github.com/HuanCheng65/TiebaLite) | 贴吧 Lite | 4,483 | 🟢 | Kotlin |
+| [zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 | 4,464 | 🟢 | Kotlin |
+| [WeiboSpider](https://github.com/nghuyong/WeiboSpider) | Maintained Sina Weibo data collection tool | 4,126 | 🟢 | Python |
 | [SinaSpider](https://github.com/LiuXingMing/SinaSpider) | Sina Weibo crawler built on Scrapy and Redis | 3,281 | 🔴 | Python |
 | [DouBanSpider](https://github.com/lanbing510/DouBanSpider) | Douban Books crawler | 2,790 | 🔴 | Python |
-| [xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) | Xiaohongshu CLI to search, read and interact via reverse-engineered API | 2,728 | 🟢 | Python |
+| [xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) | Xiaohongshu CLI to search, read and interact via reverse-engineered API | 2,729 | 🟢 | Python |
 | [weibo-search](https://github.com/dataabc/weibo-search) | Collects Weibo keyword and topic search results | 2,340 | 🟢 | Python |
 | [zhihu-python](https://github.com/egrcc/zhihu-python) | Python library for fetching Zhihu questions, answers, users and collections | 2,332 | 🔴 | Python |
 | [weibo_terminater](https://github.com/lucasjinreal/weibo_terminater) | Weibo crawler for posts, comments and followers | 2,315 | 🔴 | Python |
 | [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) | Third-party Android client for Sina Weibo | 1,871 | 🟡 | Java |
-| [Hydrogen](https://github.com/zhihulite/Hydrogen) | 一个基于luajvm开发的第三方知乎安卓客户端 | 1,805 | 🟢 | Lua |
+| [Hydrogen](https://github.com/zhihulite/Hydrogen) | 一个基于luajvm开发的第三方知乎安卓客户端 | 1,806 | 🟢 | Lua |
 | [WeiboSuperSpider](https://github.com/Python3Spiders/WeiboSuperSpider) | Weibo crawler toolbox for users, topics, comments and images | 1,706 | 🟢 | Python |
 | [WeiBo (wenmingvs)](https://github.com/wenmingvs/WeiBo) | Third-party Android client for Sina Weibo | 1,598 | 🔴 | Java |
-| [xhscrawl](https://github.com/submato/xhscrawl) | Xiaohongshu x-s signature reverse engineering and crawler | 1,530 | 🟢 |  |
+| [xhscrawl](https://github.com/submato/xhscrawl) | Xiaohongshu x-s signature reverse engineering and crawler | 1,529 | 🟢 |  |
 | [XHS-Spider](https://github.com/xisuo67/XHS-Spider) | Xiaohongshu data collector and image/video batch downloader | 1,454 | 🟢 |  |
-| [social-media-copilot](https://github.com/iszhouhua/social-media-copilot) | Browser extension that collects Xiaohongshu, Douyin and Kuaishou data with an API | 1,396 | 🟢 | TypeScript |
-| [dog-fucked-zhihu](https://github.com/wintercn/dog-fucked-zhihu) | Zhihu account tool to back up answers, remove likes and bulk-edit answers | 1,314 | 🔴 | CSS |
+| [social-media-copilot](https://github.com/iszhouhua/social-media-copilot) | Browser extension that collects Xiaohongshu, Douyin and Kuaishou data with an API | 1,397 | 🟢 | TypeScript |
+| [dog-fucked-zhihu](https://github.com/wintercn/dog-fucked-zhihu) | Zhihu account tool to back up answers, remove likes and bulk-edit answers | 1,313 | 🔴 | CSS |
 | [zhihu_spider (LiuRoy)](https://github.com/LiuRoy/zhihu_spider) | Zhihu user crawler | 1,293 | 🔴 | Python |
-| [xhshow](https://github.com/Cloxl/xhshow) | Pure-algorithm reimplementation of Xiaohongshu x-s, x-s-common and related signatures | 1,118 | 🟢 | Python |
+| [xhshow](https://github.com/Cloxl/xhshow) | Pure-algorithm reimplementation of Xiaohongshu x-s, x-s-common and related signatures | 1,119 | 🟢 | Python |
 | [stablog](https://github.com/YaoZeyuan/stablog) | Backs up and exports Weibo posts | 1,087 | 🟢 | JavaScript |
 | [zhihu-py3](https://github.com/7sDream/zhihu-py3) | Unofficial Zhihu Python API (archived; successor zhihu-oauth was DMCA'd) | 1,032 | 🗄️ | Python |
 | [zhihu-api](https://github.com/lzjun567/zhihu-api) | Zhihu API for Humans: unofficial Python client | 991 | 🔴 | Python |
@@ -765,12 +763,12 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | Unofficial Android client for Zhihu Zhuanlan columns | 721 | 🔴 | Java |
 | [xhs-cli](https://github.com/jackwener/xhs-cli) | Xiaohongshu command-line client for search, reading, likes and comments | 692 | 🟢 | Python |
 | [zhihu-download](https://github.com/chenluda/zhihu-download) | Converts Zhihu column articles to local Markdown files | 643 | 🟡 | Python |
-| [XHS_Downloader_Android](https://github.com/NEORUAA/XHS_Downloader_Android) | Android downloader for original Xiaohongshu images and videos | 635 | 🟢 | Kotlin |
+| [XHS_Downloader_Android](https://github.com/NEORUAA/XHS_Downloader_Android) | Android downloader for original Xiaohongshu images and videos | 636 | 🟢 | Kotlin |
 | [tofu](https://github.com/doufen-org/tofu) | Chrome extension that backs up Douban account data and exports to Excel | 627 | 🟡 | JavaScript |
 | [Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) | Emby metadata scraper plugin using Douban | 543 | 🟡 | C# |
 | [redbook](https://github.com/lucasygu/redbook) | CLI that reads and posts on Xiaohongshu (RedNote) through its private API | 541 | 🟢 | TypeScript |
 | [rss (zhu327)](https://github.com/zhu327/rss) | RSS generator for Weibo, WeChat Official Accounts and Zhihu Daily | 540 | 🗄️ | Python |
-| [zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus) | 知乎-- ｜zhihu-- ｜ zhihu-minus-minus｜一款轻量、简洁的第三方知乎客户端 | 516 | 🟢 | TypeScript |
+| [zhihu-minus-minus](https://github.com/huamurui/zhihu-minus-minus) | 知乎-- ｜zhihu-- ｜ zhihu-minus-minus｜一款轻量、简洁的第三方知乎客户端 | 528 | 🟢 | TypeScript |
 | [AntSpider](https://github.com/csuldw/AntSpider) | Crawler for Douban movies, reviews, people and ratings | 502 | 🔴 | Python |
 | [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver) | Userscript that exports and backs up Weibo posts | 493 | 🟢 | TypeScript |
 | [Weibo2RSS](https://github.com/DIYgod/Weibo2RSS) | RSS feeds for Weibo users | 477 | 🗄️ | JavaScript |
@@ -784,7 +782,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [WeiboBlackList](https://github.com/yu961549745/WeiboBlackList) | Bulk-blocks Weibo users | 332 | 🔴 | Python |
 | [python_zhihu](https://github.com/ladingwu/python_zhihu) | Zhihu crawler for answers and images | 310 | 🔴 | Python |
 | [weibo-topic-spider](https://github.com/czy1999/weibo-topic-spider) | Weibo super topic crawler with word frequency and sentiment analysis | 297 | 🔴 | Python |
-| [zhihu_obsidian](https://github.com/zimya/zhihu_obsidian) | Obsidian plugin for reading and publishing Zhihu content | 287 | 🟢 | TypeScript |
+| [zhihu_obsidian](https://github.com/zimya/zhihu_obsidian) | Obsidian plugin for reading and publishing Zhihu content | 288 | 🟢 | TypeScript |
 | [zhihu-backup-collect](https://github.com/qtqz/zhihu-backup-collect) | Userscript that saves Zhihu answers, articles and posts as Markdown | 275 | 🟢 | TypeScript |
 | [weiboPicDownloader](https://github.com/yAnXImIN/weiboPicDownloader) | Downloads Weibo images without logging in | 271 | 🟡 | Java |
 | [zhihu-terminal](https://github.com/lizhemingi/zhihu-terminal) | Terminal client for Zhihu | 268 | 🔴 | Python |
@@ -797,7 +795,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [weibot](https://github.com/Hanson/weibot) | Weibo crawler with simulated login | 231 | 🔴 | PHP |
 | [xhs (xiaoxiunique)](https://github.com/xiaoxiunique/xhs) | Nuxt web tool for browsing and downloading Xiaohongshu posts, videos and comments | 230 | 🟡 | Vue |
 | [zhihu-go](https://github.com/DeanThompson/zhihu-go) | Unofficial Zhihu API library in Go | 213 | 🗄️ | Go |
-| [Zhihu Fisher](https://github.com/crispyChicken999/zhihu-fisher-vscode) | VS Code extension for browsing Zhihu feeds and hot lists | 211 | 🟢 | TypeScript |
+| [Zhihu Fisher](https://github.com/crispyChicken999/zhihu-fisher-vscode) | VS Code extension for browsing Zhihu feeds and hot lists | 212 | 🟢 | TypeScript |
 | [weibo-follow](https://github.com/dataabc/weibo-follow) | Crawls the Weibo accounts in a user's follow list | 208 | 🟢 | Python |
 | [douban_crawler](https://github.com/JimSunJing/douban_crawler) | Backs up your Douban marks and reviews | 204 | 🔴 | Python |
 | [XiaohongshuSpider](https://github.com/Big-Buffer/XiaohongshuSpider) | Xiaohongshu crawler | 202 | 🔴 | Python |
@@ -826,7 +824,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [xhs (2044145178)](https://github.com/2044145178/xhs) | Xiaohongshu API wrapper for crawling | 123 | 🟡 | JavaScript |
 | [zhihu-rss](https://github.com/SimplyY/zhihu-rss) | Unofficial Zhihu client that turns user activity into RSS | 123 | 🔴 | Python |
 | [ANNO](https://github.com/NdYAG/ANNO) | Third-party Douban reading notes client | 101 | 🔴 | JavaScript |
-| [WeiboApis](https://github.com/cv-cat/WeiboApis) | Reverse-engineered Weibo request algorithms | 64 | 🟢 | Python |
-| [ZhihuApis](https://github.com/cv-cat/ZhihuApis) | Reverse-engineered Zhihu request signing algorithms | 56 | 🟢 | JavaScript |
+| [WeiboApis](https://github.com/cv-cat/WeiboApis) | Reverse-engineered Weibo request algorithms | 65 | 🟢 | Python |
+| [ZhihuApis](https://github.com/cv-cat/ZhihuApis) | Reverse-engineered Zhihu request signing algorithms | 57 | 🟢 | JavaScript |
 | [zhihuapi-py](https://github.com/syaning/zhihuapi-py) | Unofficial API for Zhihu | 46 | 🗄️ | Python |
-| [Huzai](https://github.com/Kanezikiiu/Huzai) | Unofficial third-party Android client for the Hupu community | 41 | 🟢 | Kotlin |
+| [Huzai](https://github.com/Kanezikiiu/Huzai) | Unofficial third-party Android client for the Hupu community | 42 | 🟢 | Kotlin |
