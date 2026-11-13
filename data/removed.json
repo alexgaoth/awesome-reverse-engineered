@@ -730,5 +730,47 @@
   "name": "WhatsAppPatcher",
   "removed": "2026-11-12",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ko4life-net/ko",
+  "name": "ko",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/SomeoneIsWorking/oot3d-decomp",
+  "name": "Ocarina of Time 3D decomp",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/klattalytic-converter/X-Treme-Boss-Engine-Restoration",
+  "name": "X-Treme-Boss-Engine-Restoration",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Open-KO/KnightOnline",
+  "name": "OpenKO",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ericksa1417/GoldenEye-Recomp",
+  "name": "GoldenEye-Recomp (XBLA)",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/xdzleo/xenon-jumptables",
+  "name": "xenon-jumptables",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Eimaen/libmxm",
+  "name": "libmxm",
+  "removed": "2026-11-13",
+  "reason": "not found on GitHub"
  }
 ]
