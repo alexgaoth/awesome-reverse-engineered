@@ -1,0 +1,39 @@
+name: Weekly digest
+
+# Every Monday, publishes a GitHub Release with this week's additions, the
+# projects that gained the most stars, and archived or removed repos. The
+# star snapshot (stars.json) is attached to each release, and the next run
+# downloads it from the latest release to compute "Rising this week".
+# Watchers get a notification; /releases.atom is the RSS feed.
+
+on:
+  schedule:
+    - cron: "30 14 * * 1"   # Monday 14:30 UTC, after the nightly refresh has merged
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Previous snapshot
+        run: |
+          mkdir -p prev
+          gh release download --pattern stars.json --dir prev 2>/dev/null || echo "no previous digest"
+
+      - name: Build digest
+        run: python3 scripts/digest.py prev/stars.json out
+
+      - name: Publish release
+        run: |
+          d=$(date -u +%Y-%m-%d)
+          gh release create "digest-$d" out/stars.json \
+            --title "This week in reverse engineering: $d" \
+            --notes-file out/notes.md --latest
