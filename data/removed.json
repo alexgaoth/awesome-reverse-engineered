@@ -772,5 +772,35 @@
   "name": "libmxm",
   "removed": "2026-11-13",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/SwagSoftware/KisakCOD",
+  "name": "KisakCOD",
+  "removed": "2026-11-15",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/tgg12321/BushidoBladeDecompile",
+  "name": "Bushido Blade decomp",
+  "removed": "2026-11-15",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Odrannnn/MetroidPrimePort",
+  "name": "Metroid Prime Port",
+  "removed": "2026-11-15",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/canersaka/Yakuza-Dead-Souls-Recompiled",
+  "name": "Yakuza-Dead-Souls-EX",
+  "removed": "2026-11-15",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ReSo7200/molt-dex",
+  "name": "molt-dex",
+  "removed": "2026-11-15",
+  "reason": "not found on GitHub"
  }
 ]
