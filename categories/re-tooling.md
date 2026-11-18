@@ -1,17 +1,17 @@
 # RE Tooling
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=re-tooling) · 1,170 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=re-tooling) · 1,172 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [AI-assisted RE](#ai-assisted-re) (179)
+- [AI-assisted RE](#ai-assisted-re) (180)
 - [Binary & Format Analysis](#binary--format-analysis) (174)
 - [Decompilation Project Tooling](#decompilation-project-tooling) (88)
 - [Disassemblers & Decompilers](#disassemblers--decompilers) (336)
 - [Dynamic Instrumentation](#dynamic-instrumentation) (120)
 - [Mobile RE](#mobile-re) (185)
 - [Other](#other) (26)
-- [Traffic Interception](#traffic-interception) (62)
+- [Traffic Interception](#traffic-interception) (63)
 
 ## AI-assisted RE
 
@@ -194,6 +194,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [bsu-tool](https://github.com/bsu-tool/bsu-tool) | AI-assisted USB protocol analysis tool and MCP server | 5 | 🟢 | Python |
 | [PistonDecompiler](https://github.com/AlexProgrammerDE/PistonDecompiler) | Persistent AI-assisted binary analysis with Ghidra and a web workbench | 5 | 🗄️ | Rust |
 | [rea-casebook](https://github.com/pablodiazjorge/rea-casebook) | Claude Code mod that collects REA evidence, tracks unknowns and records cited findings | 4 | 🟢 | TypeScript |
+| [harald](https://github.com/k0nnect/harald) | MCP server and CLI that helps coding agents reverse engineer the Bluetooth LE and Classic protocols of gadgets, starting with the Sony WH-1000XM5 | 1 | 🟢 | Python |
 | [mcp_reverse_engineering](https://github.com/daedalus/mcp_reverse_engineering) | MCP server exposing reverse engineering tools | 1 | 🟢 | Python |
 | [DAITK](https://github.com/Grien25/DAITK) | AI-assisted GameCube decompilation pipeline with objdiff verification | 0 | 🟡 | Assembly |
 
@@ -1213,6 +1214,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rever-browser](https://github.com/greekr4/rever-browser) | AI-agent browser for web API reverse engineering | 55 | 🟢 | TypeScript |
 | [Protocol Informatics](https://github.com/bitpeach/Protocol-Informatics) | Automatic network protocol reverse engineering from captured traffic | 52 | 🔴 |  |
 | [impersonate-proxy](https://github.com/ytkoka/impersonate-proxy) | Local MitM proxy to control TLS (JA3/JA4) and HTTP/2 fingerprints | 48 | 🟢 | Go |
+| [Gulpsuite](https://github.com/Aryma-f4/gulpsuite) | Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust | 44 | 🟢 | Rust |
 | [api-reverse-engineer](https://github.com/ctala/api-reverse-engineer) | Chrome extension capturing fetch/XHR calls to reverse engineer site APIs | 37 | 🟢 | JavaScript |
 | [Browser Reverse Engineering Toolkit](https://github.com/Dvurechensky/Browser.Reverse.Engineering.Toolkit) | Captures browser-session evidence and crawls sites to document web app architecture | 36 | 🟢 | JavaScript |
 | [fritm](https://github.com/louisabraham/fritm) | Cross-platform network reverse engineering framework hooking processes with Frida | 25 | 🔴 | Python |

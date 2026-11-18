@@ -1,12 +1,12 @@
 # Game Decompilations & Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 6,076 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=game-decompilations-reimplementations) · 6,078 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
 - [Asset & File-Format Tools](#asset--file-format-tools) (404)
 - [Console Emulators](#console-emulators) (224)
-- [Engine Reimplementations](#engine-reimplementations) (844)
+- [Engine Reimplementations](#engine-reimplementations) (845)
 - [Fan Patches & Enhancements](#fan-patches--enhancements) (23)
 - [Game Network Protocols & APIs](#game-network-protocols--apis) (149)
 - [Launchers & Store Clients](#launchers--store-clients) (48)
@@ -29,7 +29,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Open-source Game Clones](#open-source-game-clones) (291)
 - [Other](#other) (48)
 - [Private Servers](#private-servers) (225)
-- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (1284)
+- [Static Recompilations & PC Ports](#static-recompilations--pc-ports) (1285)
 
 ## Asset & File-Format Tools
 
@@ -1409,6 +1409,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [th11](https://github.com/Ritosa2333/th11) | Portable reimplementation of Touhou 11: Subterranean Animism 1.00a | 5 | 🟢 | JavaScript |
 | [v64tng](https://github.com/mattseabrook/v64tng) | Game Engine re-creation of The 7th Guest | 5 | 🟢 | Assembly |
 | [widebrim (Professor Layton)](https://github.com/bullbin/widebrim) | Playable reimplementation of the engine for Professor Layton and the Diabolical Box (DS) | 5 | 🔴 | Python |
+| [Battlefront Eternal](https://github.com/centrevilletech/battlefront-eternal) | Engine reimplementation of Star Wars: Battlefront (2004) in Rust, with a Linux dedicated server; runs on your own game files | 4 | 🟢 | Rust |
 | [GunZRs](https://github.com/OpenRsG/GunZRs) | Rust and Bevy rewrite of GunZ: The Duel that reads the Steam install | 4 | 🟢 | Rust |
 | [hugo.js](https://github.com/cyxx/hugo_js) | Hugo pa Nye Eventyr/Hugo Délire player (Emscripten) | 4 | 🗄️ | C |
 | [Jet-Story](https://github.com/adamenkov/jet-story) | Remake of the ZX Spectrum game "Jet-Story" | 4 | 🟢 | Assembly |
@@ -6190,6 +6191,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Gundam SEED: Battle Assault](https://github.com/omegakatana92/Gundam-Seed-Battle-Assault-Recomp) | Static recompilation of Gundam SEED: Battle Assault (GBA) into a native PC port | 5 | 🟢 | C++ |
 | [imabikisou-pc](https://github.com/yasindevs/imabikisou-pc) | Experimental Imabikisou PS3-to-PC recompilation using ps3recomp | 5 | 🟢 | C++ |
 | [LineWars II SDL](https://github.com/fredangstadt-lang/LineWarsII-SDL) | SDL3 backend for a portable-C reconstruction of the 1994 DOS game LineWars II | 5 | 🟢 | C |
+| [LostOdysseyRecomp-Android](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android port of LostOdysseyRecomp (Lost Odyssey, Xbox 360) with Vulkan, SGSR2 upscaling and TV/HDMI output | 5 | 🟢 | C++ |
 | [pc-virtualhydlide](https://github.com/vs-sr-dev/pc-virtualhydlide) | Work toward a native PC port of Virtual Hydlide (Saturn) with its programs recompiled to C++ | 5 | 🟢 | Python |
 | [peggle360-decomp](https://github.com/JosueMora918/peggle360-decomp) | ReXGlue static recompilation of Peggle (Xbox 360 XBLA) | 5 | 🟢 | CMake |
 | [pokemon](https://github.com/sp00nznet/pokemon) | Generation I Pokémon (Red/Blue/Yellow) statically recompiled to native C — no emulator at runtime. Plus a headless bu... | 5 | 🟢 | Python |
