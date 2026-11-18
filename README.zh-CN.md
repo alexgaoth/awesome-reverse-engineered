@@ -34,7 +34,7 @@
 
 ## 收录内容
 
-共 **17,676 个项目**，合计 **12.5M** 个 GitHub 星标：活跃 10,052 个，放缓 2,470 个，停滞 3,510 个，已归档 1,190 个。主要语言：Python (4,011), C++ (2,671), C (2,514), JavaScript (1,053), C# (956)。
+共 **17,676 个项目**，合计 **12.5M** 个 GitHub 星标：活跃 10,043 个，放缓 2,475 个，停滞 3,510 个，已归档 1,194 个。主要语言：Python (4,012), C++ (2,672), C (2,513), JavaScript (1,056), C# (956)。
 
 | 分类 | 项目数 | 精选 |
 |---|--:|---|
@@ -42,7 +42,7 @@
 | [**游戏反编译与重新实现**](categories/game-decompilations-reimplementations.md) | 6,078 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
 | [**设备、物联网与硬件**](categories/devices-iot-hardware.md) | 3,121 | [KOReader](https://github.com/koreader/koreader), [LibrePods](https://github.com/librepods-org/librepods), [OpenLogi](https://github.com/AprilNEA/OpenLogi) |
 | [**非官方 Web/应用 API 客户端**](categories/unofficial-web-app-api-clients.md) | 986 | [yt-dlp](https://github.com/yt-dlp/yt-dlp), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) |
-| [**即时通讯与社交应用**](categories/messaging-social-apps.md) | 310 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
+| [**即时通讯与社交应用**](categories/messaging-social-apps.md) | 311 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
 | [**第三方客户端**](categories/third-party-clients.md) | 208 | [spotify-tui](https://github.com/Rigellute/spotify-tui), [nuclear](https://github.com/nukeop/nuclear), [SimpMusic](https://github.com/maxrave-dev/SimpMusic) |
 | [**中国及亚洲平台**](categories/chinese-asian-platforms.md) | 770 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop), [alist](https://github.com/AlistGo/alist), [LinkSwift](https://github.com/hmjz100/LinkSwift) |
 | [**苹果生态**](categories/apple-ecosystem.md) | 347 | [fastlane](https://github.com/fastlane/fastlane), [homebridge](https://github.com/homebridge/homebridge), [OSX-KVM](https://github.com/kholia/OSX-KVM) |
@@ -57,7 +57,7 @@
 | [**替代前端**](categories/alternative-frontends.md) | 122 | [searxng](https://github.com/searxng/searxng), [searx](https://github.com/searx/searx), [Whoogle Search](https://github.com/benbusby/whoogle-search) |
 | [**移动应用**](categories/mobile-apps.md) | 111 | [revanced-manager](https://github.com/ReVanced/revanced-manager), [Metrolist](https://github.com/MetrolistGroup/Metrolist), [LibreTube](https://github.com/libre-tube/LibreTube) |
 | [**逆向工程工具**](categories/re-tooling.md) | 1,172 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
-| [**合集与 Awesome 列表**](categories/collections-awesome-lists.md) | 148 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
+| [**合集与 Awesome 列表**](categories/collections-awesome-lists.md) | 147 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
 
 ## 起死回生
 
@@ -130,56 +130,57 @@ python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/
 
 | 项目 | 用途 | ★ | 健康 | 语言 |
 |---|---|--:|:-:|---|
-| [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 465,674 | 🟢 | TypeScript |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 208,621 | 🟢 | Python |
-| [claw-code](https://github.com/ultraworkers/claw-code) | Clean-room Rust/Python rewrite of the Claude Code agent harness after the source leak | 194,764 | 🟢 | Rust |
-| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 100,431 | 🟢 | Java |
-| [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 80,016 | 🟢 | Rust |
-| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 71,620 | 🟢 | Python |
-| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 71,276 | 🟢 | Python |
-| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,890 | 🟢 | Rust |
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,579 | 🟢 | C |
-| [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,078 | 🟢 | Python |
+| [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 467,747 | 🟢 | TypeScript |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 208,858 | 🟢 | Python |
+| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 100,549 | 🟢 | Java |
+| [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 80,247 | 🟢 | Rust |
+| [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 71,685 | 🟢 | Python |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 71,337 | 🟢 | Python |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,945 | 🟢 | Rust |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,522 | 🟢 | C |
+| [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,079 | 🟢 | Python |
+| [openpilot](https://github.com/commaai/openpilot) | Open-source driver assistance system for 300+ car models | 64,167 | 🟢 | Python |
 
 ## 最新收录
 
 | 项目 | 用途 | ★ | 健康 | 语言 |
 |---|---|--:|:-:|---|
-| [TraceDraw](https://github.com/tracedraw/tracedraw) | Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27) | 769 | 🟢 | Rust |
-| [Gulpsuite](https://github.com/Aryma-f4/gulpsuite) | Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust | 44 | 🟢 | Rust |
+| [TraceDraw](https://github.com/tracedraw/tracedraw) | Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27) | 777 | 🟢 | Rust |
+| [Gulpsuite](https://github.com/Aryma-f4/gulpsuite) | Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust | 46 | 🟢 | Rust |
 | [LostOdysseyRecomp-Android](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android port of LostOdysseyRecomp (Lost Odyssey, Xbox 360) with Vulkan, SGSR2 upscaling and TV/HDMI output | 5 | 🟢 | C++ |
 | [Battlefront Eternal](https://github.com/centrevilletech/battlefront-eternal) | Engine reimplementation of Star Wars: Battlefront (2004) in Rust, with a Linux dedicated server; runs on your own game files | 4 | 🟢 | Rust |
 | [harald](https://github.com/k0nnect/harald) | MCP server and CLI that helps coding agents reverse engineer the Bluetooth LE and Classic protocols of gadgets, starting with the Sony WH-1000XM5 | 1 | 🟢 | Python |
+| [offsides-improved](https://github.com/darek225/offsides-improved) | Offsides+, maintained fork of Offsides: Android client for Sidechat and YikYak | 1 | 🟢 | JavaScript |
 
 ## 星标最多
 
 | # | 项目 | 用途 | ★ | 健康 | 语言 |
 |--:|---|---|--:|:-:|---|
-| 1 | [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 465,674 | 🟢 | TypeScript |
-| 2 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 208,621 | 🟢 | Python |
-| 3 | [claw-code](https://github.com/ultraworkers/claw-code) | Clean-room Rust/Python rewrite of the Claude Code agent harness after the source leak | 194,764 | 🟢 | Rust |
-| 4 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Extracted system prompts and tool definitions for Cursor, Claude Code, Devin, Windsurf, Kiro, v0, Lovable and more | 144,730 | 🟢 |  |
-| 5 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 141,592 | 🟢 | Python |
-| 6 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 100,431 | 🟢 | Java |
-| 7 | [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 80,016 | 🟢 | Rust |
-| 8 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 71,620 | 🟢 | Python |
-| 9 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 71,276 | 🟢 | Python |
-| 10 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,890 | 🟢 | Rust |
-| 11 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,579 | 🟢 | C |
-| 12 | [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,078 | 🟢 | Python |
-| 13 | [openpilot](https://github.com/commaai/openpilot) | Open-source driver assistance system for 300+ car models | 64,157 | 🟢 | Python |
-| 14 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wraps Codex, Claude Code, Antigravity, Grok and Gemini CLI OAuth backends as OpenAI/Claude-compatible APIs | 58,828 | 🟢 | Go |
-| 15 | [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers with a pattern language for binary formats | 55,903 | 🟢 | C++ |
-| 16 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | LX Music: desktop music player aggregating Chinese music platform sources | 55,442 | 🟢 | TypeScript |
-| 17 | [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Leaked system prompts and tool specs for ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit and others | 53,605 | 🟢 |  |
-| 18 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler for Android apps | 51,873 | 🟢 | Java |
-| 19 | [Spotube](https://github.com/team-spotube/spotube) | Cross-platform Spotify client that streams audio from other sources | 50,809 | 🟢 | Kotlin |
-| 20 | [alist](https://github.com/AlistGo/alist) | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,464 | 🟢 | Go |
-| 21 | [x64dbg](https://github.com/x64dbg/x64dbg) | Open source user-mode debugger for Windows | 50,336 | 🟢 | C++ |
-| 22 | [RSSHub](https://github.com/DIYgod/RSSHub) | RSS feed generator that scrapes hundreds of sites and apps, many via unofficial APIs | 47,076 | 🟢 | TypeScript |
-| 23 | [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy | 47,051 | 🟢 | Python |
-| 24 | [sub2api](https://github.com/Wei-Shaw/sub2api) | Relay that exposes Claude, OpenAI, Gemini and Grok subscriptions as unified APIs | 46,178 | 🟢 | Go |
-| 25 | [Sunshine](https://github.com/SunshineStream/Sunshine) | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 43,499 | 🟢 | C++ |
+| 1 | [rea](https://github.com/morluto/rea) | Agentic tool to reverse engineer apps from behavior down to native binaries | 467,747 | 🟢 | TypeScript |
+| 2 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 208,858 | 🟢 | Python |
+| 3 | [claw-code](https://github.com/ultraworkers/claw-code) | Clean-room Rust/Python rewrite of the Claude Code agent harness after the source leak | 194,763 | 🟢 | Rust |
+| 4 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Extracted system prompts and tool definitions for Cursor, Claude Code, Devin, Windsurf, Kiro, v0, Lovable and more | 144,743 | 🟢 |  |
+| 5 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 141,598 | 🟢 | Python |
+| 6 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | NSA's software reverse engineering framework with decompiler | 100,549 | 🟢 | Java |
+| 7 | [PhotoCraft](https://github.com/storytold/photocraft) | Clean-room Photoshop-style photo editor written from scratch in pure Rust | 80,247 | 🟢 | Rust |
+| 8 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Archive of extracted system prompts from ChatGPT, Claude, Gemini, Grok and others, per vendor with history | 71,685 | 🟢 | Python |
+| 9 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Crawler for Xiaohongshu, Douyin, Kuaishou, Bilibili and Weibo posts and comments | 71,337 | 🟢 | Python |
+| 10 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,945 | 🟢 | Rust |
+| 11 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,522 | 🟢 | C |
+| 12 | [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,079 | 🟢 | Python |
+| 13 | [openpilot](https://github.com/commaai/openpilot) | Open-source driver assistance system for 300+ car models | 64,167 | 🟢 | Python |
+| 14 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wraps Codex, Claude Code, Antigravity, Grok and Gemini CLI OAuth backends as OpenAI/Claude-compatible APIs | 58,929 | 🟢 | Go |
+| 15 | [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers with a pattern language for binary formats | 55,920 | 🟢 | C++ |
+| 16 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | LX Music: desktop music player aggregating Chinese music platform sources | 55,472 | 🟢 | TypeScript |
+| 17 | [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Leaked system prompts and tool specs for ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit and others | 53,668 | 🟢 |  |
+| 18 | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler for Android apps | 51,891 | 🟢 | Java |
+| 19 | [Spotube](https://github.com/team-spotube/spotube) | Cross-platform Spotify client that streams audio from other sources | 50,825 | 🟢 | Kotlin |
+| 20 | [alist](https://github.com/AlistGo/alist) | AList: file list and WebDAV server that mounts many cloud drives through their private APIs | 50,467 | 🟢 | Go |
+| 21 | [x64dbg](https://github.com/x64dbg/x64dbg) | Open source user-mode debugger for Windows | 50,343 | 🟢 | C++ |
+| 22 | [RSSHub](https://github.com/DIYgod/RSSHub) | RSS feed generator that scrapes hundreds of sites and apps, many via unofficial APIs | 47,104 | 🟢 | TypeScript |
+| 23 | [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy | 47,068 | 🟢 | Python |
+| 24 | [sub2api](https://github.com/Wei-Shaw/sub2api) | Relay that exposes Claude, OpenAI, Gemini and Grok subscriptions as unified APIs | 46,260 | 🟢 | Go |
+| 25 | [Sunshine](https://github.com/SunshineStream/Sunshine) | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 43,526 | 🟢 | C++ |
 
 ## 健康状态
 
@@ -216,8 +217,8 @@ flowchart LR
 | 351 | 个已有列表和合集被导入 |
 | 202 | 个仓库被范围过滤器排除（漏洞利用、越狱、绕过、DRM、外挂）。研究智能体在这一步之前也会跳过这类项目。 |
 | 17,676 | 个仓库收录在索引中，每个都经过 GitHub API 核验（是否存在、规范 URL、星标、许可证） |
-| 1,190 | 个已被所有者归档：保留并标记为 🗄️ |
-| 139 | 个因仓库被删除或设为私有，被每晚检查移除（[列表](data/removed.json)） |
+| 1,194 | 个已被所有者归档：保留并标记为 🗄️ |
+| 140 | 个因仓库被删除或设为私有，被每晚检查移除（[列表](data/removed.json)） |
 
 <p align="center"><img src="assets/categories.svg" alt="Projects per category" width="820"></p>
 
