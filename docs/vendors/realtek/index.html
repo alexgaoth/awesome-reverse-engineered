@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Realtek reverse engineered: 5 open-source tools, APIs and clients</title>
+<meta name="description" content="5 open-source projects built by reverse engineering Realtek chips and drivers: unofficial APIs, local control, clients and protocol docs. Includes rtl-sdr, LibreTiny, ltchiptool. Sorted by GitHub stars, refreshed nightly.">
+<link rel="canonical" href="https://awesome.alexgaoth.com/vendors/realtek/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Awesome Reverse-Engineered">
+<meta property="og:title" content="Realtek reverse engineered: 5 open-source tools, APIs and clients">
+<meta property="og:description" content="5 open-source projects built by reverse engineering Realtek chips and drivers: unofficial APIs, local control, clients and protocol docs. Includes rtl-sdr, LibreTiny, ltchiptool. Sorted by GitHub stars, refreshed nightly.">
+<meta property="og:url" content="https://awesome.alexgaoth.com/vendors/realtek/">
+<meta property="og:image" content="https://awesome.alexgaoth.com/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230e0f0d'/><text x='16' y='22' font-family='monospace' font-size='15' font-weight='700' fill='%23ffb000' text-anchor='middle'>0x</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&family=Geist+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>:root{color-scheme:light;--bg:#fafaf9;--surface:#fff;--raised:#f2f2ef;--line:#e4e4e0;--ink:#18181b;--ink-2:#52525b;--ink-3:#71717a;--accent:#a16207;--good:#15803d;--bad:#b91c1c;--sans:"Geist",ui-sans-serif,system-ui,sans-serif;--mono:"Geist Mono",ui-monospace,SFMono-Regular,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0e0f0d;--surface:#151613;--raised:#1c1d19;--line:#2a2b26;--ink:#f2f0e8;--ink-2:#b4b1a4;--ink-3:#8b8878;--accent:#ffb000;--good:#4ade80;--bad:#f87171}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}a{color:inherit}
+.wrap{max-width:1000px;margin:0 auto;padding:0 24px}nav{height:64px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);gap:12px}
+.mark{font:600 15px var(--mono);text-decoration:none}.mark b{color:var(--accent);font-weight:600}nav .links a{color:var(--ink-2);text-decoration:none;font-size:14px;margin-left:14px}
+.crumbs{font:13px var(--mono);color:var(--ink-3);margin:28px 0 8px}.crumbs a{color:var(--ink-3)}
+h1{font-size:clamp(28px,4vw,40px);line-height:1.1;letter-spacing:-1px;margin:0 0 12px}.lede{color:var(--ink-2);max-width:70ch;margin:0 0 24px}
+.cta{display:inline-block;margin:0 0 28px;color:var(--accent);font-weight:600;text-decoration:none}
+h2{font-size:20px;margin:36px 0 10px;letter-spacing:-.3px}h2 a{text-decoration:none}h2 span{font:13px var(--mono);color:var(--ink-3);margin-left:8px}
+ul.subs{list-style:none;padding:0;margin:0 0 24px;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px}
+ul.subs a{display:flex;justify-content:space-between;gap:8px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none}
+ul.subs span{font:12px var(--mono);color:var(--ink-3)}
+ol.items{list-style:none;padding:0;margin:0}ol.items li{padding:12px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr auto;gap:2px 16px}
+ol.items a{font-weight:600;text-decoration:none}ol.items a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+ol.items p{grid-column:1;margin:0;color:var(--ink-2);font-size:14px}ol.items .m{grid-column:2;grid-row:1/span 2;text-align:right;font:12px var(--mono);color:var(--ink-3);white-space:nowrap}
+.h-active{color:var(--good)}.h-archived,.h-dormant{color:var(--bad)}
+footer{border-top:1px solid var(--line);margin-top:48px;padding:24px 0 48px;color:var(--ink-3);font-size:14px}footer a{color:var(--accent)}
+@media (max-width:600px){.wrap{padding:0 16px}nav .links .hide-sm{display:none}ol.items li{grid-template-columns:1fr}ol.items .m{grid-column:1;grid-row:auto;text-align:left}}
+.facts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;padding:0;list-style:none}.facts li{font:12px var(--mono);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;background:var(--surface)}
+.groups h2{font-size:15px;color:var(--ink-3);text-transform:uppercase;letter-spacing:.6px;margin:28px 0 8px}
+.related{margin:32px 0 0;color:var(--ink-2);font-size:14px}.related a{color:var(--accent)}</style>
+</head>
+<body>
+<div class="wrap">
+<nav aria-label="Main"><a class="mark" href="../../"><b>awesome-</b>reverse-engineered</a>
+<div class="links"><a href="../../">Search</a><a class="hide-sm" href="../../vendors/">Vendors</a><a class="hide-sm" href="../../games/">Consoles</a><a class="hide-sm" href="../../resurrected/">Resurrected</a><a class="hide-sm" href="https://github.com/alexgaoth/awesome-reverse-engineered">GitHub</a></div></nav>
+<style>.facts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;padding:0;list-style:none}.facts li{font:12px var(--mono);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;background:var(--surface)}
+.groups h2{font-size:15px;color:var(--ink-3);text-transform:uppercase;letter-spacing:.6px;margin:28px 0 8px}
+.related{margin:32px 0 0;color:var(--ink-2);font-size:14px}.related a{color:var(--accent)}</style>
+<div class="crumbs"><a href="../../">Home</a> / <a href="../">Vendors</a> / Realtek</div>
+<h1>5 open-source Realtek projects built by reverse engineering</h1>
+<p class="lede">Open-source projects that exist because someone reverse engineered Realtek chips and drivers. 4 of 5 had a commit in the last 12 months. Most-starred: rtl-sdr, LibreTiny, ltchiptool, rtl8196e-gateway, realtek-libohwtc.</p>
+<ul class="facts"><li>Custom Firmware · 2</li><li>Wi-Fi &amp; Radios · 1</li><li>Firmware Analysis Tools · 1</li></ul>
+<a class="cta" href="../../#q=realtek">Search and filter in the full index →</a>
+<ol class="items"><li><a href="https://github.com/osmocom/rtl-sdr" rel="noopener">rtl-sdr</a><span class="m">★ 1,009 · <span class="h-active">active</span> · C</span><p>Turns RTL2832U DVB-T dongles into SDR receivers via reverse-engineered debug mode</p></li><li><a href="https://github.com/libretiny-eu/libretiny" rel="noopener">LibreTiny</a><span class="m">★ 553 · <span class="h-active">active</span> · C</span><p>Arduino/PlatformIO support for Beken/Realtek chips used in Tuya and other IoT devices</p></li><li><a href="https://github.com/libretiny-eu/ltchiptool" rel="noopener">ltchiptool</a><span class="m">★ 235 · <span class="h-active">active</span> · Python</span><p>GUI and CLI flashing and dumping tool for BK7231, RTL8710B and RTL8720C chips in Tuya devices</p></li><li><a href="https://github.com/jnilo1/rtl8196e-gateway" rel="noopener">rtl8196e-gateway</a><span class="m">★ 228 · <span class="h-active">active</span> · C</span><p>Open-source Linux firmware for RTL8196E smart home gateways like Lidl Silvercrest</p></li><li><a href="https://github.com/tripleoxygen/realtek-libohwtc" rel="noopener">realtek-libohwtc</a><span class="m">★ 16 · <span class="h-slow">slowing</span> · C</span><p>Library enabling Huawei proprietary OMCI MEs on Realtek RTL9601 GPON SFP sticks</p></li></ol>
+<p class="related">Related: <a href="../../c/firmware-embedded/custom-firmware/">Custom Firmware</a> · <a href="../../c/drivers-low-level-hardware/wi-fi-radios/">Wi-Fi &amp; Radios</a> · <a href="../../c/firmware-embedded/firmware-analysis-tools/">Firmware Analysis Tools</a> · <a href="../">All vendors</a> · <a href="../../games/">Games by console</a></p>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Realtek reverse engineered: 5 open-source tools, APIs and clients", "url": "https://awesome.alexgaoth.com/vendors/realtek/", "numberOfItems": 5, "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://github.com/osmocom/rtl-sdr", "name": "rtl-sdr"}, {"@type": "ListItem", "position": 2, "url": "https://github.com/libretiny-eu/libretiny", "name": "LibreTiny"}, {"@type": "ListItem", "position": 3, "url": "https://github.com/libretiny-eu/ltchiptool", "name": "ltchiptool"}, {"@type": "ListItem", "position": 4, "url": "https://github.com/jnilo1/rtl8196e-gateway", "name": "rtl8196e-gateway"}, {"@type": "ListItem", "position": 5, "url": "https://github.com/tripleoxygen/realtek-libohwtc", "name": "realtek-libohwtc"}]}</script><footer>Part of <a href="../../">Awesome Reverse-Engineered</a>: 17,671 open-source projects that exist because someone reverse engineered a closed product. Stars and activity refreshed nightly. Browse <a href="../../vendors/">by vendor</a> or <a href="../../games/">games by console</a>. Data <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/data/entries.json">CC0</a>. Missing a project? <a href="https://github.com/alexgaoth/awesome-reverse-engineered#contributing">Add it</a>.</footer>
+</div>
+</body>
+</html>
