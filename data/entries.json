@@ -238310,6 +238310,20 @@
   "added": "2026-10-11"
  },
  {
+  "name": "offsides-improved",
+  "url": "https://github.com/darek225/offsides-improved",
+  "desc": "Offsides+, maintained fork of Offsides: Android client for Sidechat and YikYak",
+  "category": "Messaging & Social Apps",
+  "subcategory": "Social Media Private APIs",
+  "stars": 1,
+  "archived": false,
+  "pushed": "2026-11-16",
+  "lang": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [],
+  "added": "2026-11-16"
+ },
+ {
   "name": "parler-tricks",
   "url": "https://github.com/d0nk/parler-tricks",
   "desc": "Reverse engineered Parler API client",
