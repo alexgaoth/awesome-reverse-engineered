@@ -6,11 +6,11 @@
 
 ## 同一个东西，不必逆向两次。
 
-17,671 个开源工具，它们之所以存在，是因为有人逆向了某个封闭的应用、API、设备、协议、文件格式、游戏或 AI 产品。
+17,676 个开源工具，它们之所以存在，是因为有人逆向了某个封闭的应用、API、设备、协议、文件格式、游戏或 AI 产品。
 
 **[搜索索引](https://alexgaoth.github.io/awesome-reverse-engineered/)**，或者交给你的智能体：`npx skills add alexgaoth/awesome-reverse-engineered`
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-17%2C671-ffb000?style=flat-square&labelColor=0e0f0d)](#收录内容) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/alexgaoth/awesome-reverse-engineered/stargazers) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-17%2C676-ffb000?style=flat-square&labelColor=0e0f0d)](#收录内容) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/alexgaoth/awesome-reverse-engineered/stargazers) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
 
 **[智能体技能](#让你的-ai-智能体使用整个索引)** · **[分类](#收录内容)** · **[本周热门](#本周热门)** · **[提交项目](#参与贡献)**
 
@@ -34,12 +34,12 @@
 
 ## 收录内容
 
-共 **17,671 个项目**，合计 **12.5M** 个 GitHub 星标：活跃 10,047 个，放缓 2,470 个，停滞 3,510 个，已归档 1,190 个。主要语言：Python (4,010), C++ (2,670), C (2,514), JavaScript (1,053), C# (956)。
+共 **17,676 个项目**，合计 **12.5M** 个 GitHub 星标：活跃 10,052 个，放缓 2,470 个，停滞 3,510 个，已归档 1,190 个。主要语言：Python (4,011), C++ (2,671), C (2,514), JavaScript (1,053), C# (956)。
 
 | 分类 | 项目数 | 精选 |
 |---|--:|---|
 | [**AI 工具与大模型客户端**](categories/ai-tools-llm-clients.md) | 752 | [claw-code](https://github.com/ultraworkers/claw-code), [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) |
-| [**游戏反编译与重新实现**](categories/game-decompilations-reimplementations.md) | 6,076 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
+| [**游戏反编译与重新实现**](categories/game-decompilations-reimplementations.md) | 6,078 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
 | [**设备、物联网与硬件**](categories/devices-iot-hardware.md) | 3,121 | [KOReader](https://github.com/koreader/koreader), [LibrePods](https://github.com/librepods-org/librepods), [OpenLogi](https://github.com/AprilNEA/OpenLogi) |
 | [**非官方 Web/应用 API 客户端**](categories/unofficial-web-app-api-clients.md) | 986 | [yt-dlp](https://github.com/yt-dlp/yt-dlp), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) |
 | [**即时通讯与社交应用**](categories/messaging-social-apps.md) | 310 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
@@ -53,10 +53,10 @@
 | [**网络与通信协议**](categories/network-wire-protocols.md) | 430 | [Sunshine](https://github.com/SunshineStream/Sunshine), [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt), [Impacket](https://github.com/fortra/impacket) |
 | [**文件格式**](categories/file-formats.md) | 444 | [FFmpeg](https://github.com/FFmpeg/FFmpeg), [ImHex](https://github.com/WerWolv/ImHex), [SheetJS](https://github.com/SheetJS/sheetjs) |
 | [**停服在线服务复活**](categories/online-service-revivals.md) | 634 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat), [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate), [DeskThing](https://github.com/ItsRiprod/DeskThing) |
-| [**桌面软件重新实现**](categories/desktop-software-reimplementations.md) | 236 | [PhotoCraft](https://github.com/storytold/photocraft), [vaultwarden](https://github.com/dani-garcia/vaultwarden), [Proton](https://github.com/ValveSoftware/Proton) |
+| [**桌面软件重新实现**](categories/desktop-software-reimplementations.md) | 237 | [PhotoCraft](https://github.com/storytold/photocraft), [vaultwarden](https://github.com/dani-garcia/vaultwarden), [Proton](https://github.com/ValveSoftware/Proton) |
 | [**替代前端**](categories/alternative-frontends.md) | 122 | [searxng](https://github.com/searxng/searxng), [searx](https://github.com/searx/searx), [Whoogle Search](https://github.com/benbusby/whoogle-search) |
 | [**移动应用**](categories/mobile-apps.md) | 111 | [revanced-manager](https://github.com/ReVanced/revanced-manager), [Metrolist](https://github.com/MetrolistGroup/Metrolist), [LibreTube](https://github.com/libre-tube/LibreTube) |
-| [**逆向工程工具**](categories/re-tooling.md) | 1,170 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
+| [**逆向工程工具**](categories/re-tooling.md) | 1,172 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
 | [**合集与 Awesome 列表**](categories/collections-awesome-lists.md) | 148 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
 
 ## 起死回生
@@ -118,7 +118,7 @@ python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/
 
 ## 在网页上搜索
 
-按分类、语言和健康状态筛选 17,671 个项目，可按星标数或最近活跃度排序。每次搜索都有可分享的链接。
+按分类、语言和健康状态筛选 17,676 个项目，可按星标数或最近活跃度排序。每次搜索都有可分享的链接。
 
 <p align="center"><a href="https://alexgaoth.github.io/awesome-reverse-engineered/"><img src="assets/site.png" alt="在网页上搜索" width="820"></a></p>
 
@@ -140,6 +140,16 @@ python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/
 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,890 | 🟢 | Rust |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,579 | 🟢 | C |
 | [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,078 | 🟢 | Python |
+
+## 最新收录
+
+| 项目 | 用途 | ★ | 健康 | 语言 |
+|---|---|--:|:-:|---|
+| [TraceDraw](https://github.com/tracedraw/tracedraw) | Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27) | 769 | 🟢 | Rust |
+| [Gulpsuite](https://github.com/Aryma-f4/gulpsuite) | Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust | 44 | 🟢 | Rust |
+| [LostOdysseyRecomp-Android](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android port of LostOdysseyRecomp (Lost Odyssey, Xbox 360) with Vulkan, SGSR2 upscaling and TV/HDMI output | 5 | 🟢 | C++ |
+| [Battlefront Eternal](https://github.com/centrevilletech/battlefront-eternal) | Engine reimplementation of Star Wars: Battlefront (2004) in Rust, with a Linux dedicated server; runs on your own game files | 4 | 🟢 | Rust |
+| [harald](https://github.com/k0nnect/harald) | MCP server and CLI that helps coding agents reverse engineer the Bluetooth LE and Classic protocols of gadgets, starting with the Sony WH-1000XM5 | 1 | 🟢 | Python |
 
 ## 星标最多
 
@@ -205,7 +215,7 @@ flowchart LR
 | 3,420 | 次搜索，覆盖 GitHub、Hacker News、Reddit 和网页 |
 | 351 | 个已有列表和合集被导入 |
 | 202 | 个仓库被范围过滤器排除（漏洞利用、越狱、绕过、DRM、外挂）。研究智能体在这一步之前也会跳过这类项目。 |
-| 17,671 | 个仓库收录在索引中，每个都经过 GitHub API 核验（是否存在、规范 URL、星标、许可证） |
+| 17,676 | 个仓库收录在索引中，每个都经过 GitHub API 核验（是否存在、规范 URL、星标、许可证） |
 | 1,190 | 个已被所有者归档：保留并标记为 🗄️ |
 | 139 | 个因仓库被删除或设为私有，被每晚检查移除（[列表](data/removed.json)） |
 

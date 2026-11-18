@@ -1,10 +1,10 @@
 # Desktop Software Reimplementations
 
-[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 236 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
+[← All categories](../README.md#whats-inside) · [Search this category on the website](https://alexgaoth.github.io/awesome-reverse-engineered/#c=desktop-software-reimplementations) · 237 projects · [Listed here? Get the badge](../README.md#is-your-project-listed)
 
 Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years · 🗄️ archived · ⚪ unknown
 
-- [Applications](#applications) (85)
+- [Applications](#applications) (86)
 - [Binary Translators](#binary-translators) (12)
 - [Flash, Shockwave & Legacy Runtimes](#flash-shockwave--legacy-runtimes) (10)
 - [OS & Compatibility Layers](#os--compatibility-layers) (68)
@@ -38,6 +38,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [BIMCraft](https://github.com/IPedrax/BIMCraft) | Clean-room take on the Autodesk Revit BIM workflow in Rust | 1,119 | 🟢 | Rust |
 | [Woxi](https://github.com/ad-si/Woxi) | Wolfram Language / Mathematica reimplementation in Rust | 991 | 🟢 | Rust |
 | [XwareDesktop](https://github.com/Xinkai/XwareDesktop) | Runs Xunlei's Xware router download firmware as a Linux desktop download client | 894 | 🗄️ | Python |
+| [TraceDraw](https://github.com/tracedraw/tracedraw) | Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27) | 769 | 🟢 | Rust |
 | [MailCraft](https://github.com/UCS-Care-Group/mailcraft) | Clean-room mail, calendar and contacts client in Rust for Microsoft 365 and Outlook.com | 763 | 🟢 | Rust |
 | [qcma](https://github.com/codestation/qcma) | Open-source cross-platform replacement for Sony's Content Manager Assistant for PS Vita | 673 | 🟢 | C++ |
 | [node-tap](https://github.com/Srar/node-tap) | Open-source TypeScript implementation of the SSTap game proxy client | 669 | 🗄️ | TypeScript |

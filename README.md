@@ -6,11 +6,11 @@
 
 ## Don't reverse engineer it twice.
 
-17,671 open-source tools that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
+17,676 open-source tools that exist because someone reverse engineered a closed app, API, device, protocol, file format, game or AI product.
 
 **[Search the index](https://alexgaoth.github.io/awesome-reverse-engineered/)** or give it to your agent: `npx skills add alexgaoth/awesome-reverse-engineered`
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-17%2C671-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/alexgaoth/awesome-reverse-engineered/stargazers) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-17%2C676-ffb000?style=flat-square&labelColor=0e0f0d)](#whats-inside) [![Nightly refresh](https://img.shields.io/github/actions/workflow/status/alexgaoth/awesome-reverse-engineered/refresh.yml?style=flat-square&label=nightly%20refresh&labelColor=0e0f0d)](.github/workflows/refresh.yml) [![Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered?style=flat-square&labelColor=0e0f0d&color=ffb000)](https://github.com/alexgaoth/awesome-reverse-engineered/stargazers) [![License: MIT + CC0 data](https://img.shields.io/badge/license-MIT%20%2B%20CC0%20data-30363d?style=flat-square&labelColor=0e0f0d)](LICENSE)
 
 **[Agent skill](#give-your-ai-agent-the-whole-index)** · **[Categories](#whats-inside)** · **[Hot this week](#hot-this-week)** · **[Add a project](#contributing)**
 
@@ -32,12 +32,12 @@ Can agents do this work themselves? [Interop-Bench](bench/) tests it on generate
 
 ## What's inside
 
-**17,671 projects** with **12.5M** GitHub stars between them: 10,047 active, 2,470 slowing down, 3,510 dormant, 1,190 archived. Top languages: Python (4,010), C++ (2,670), C (2,514), JavaScript (1,053), C# (956).
+**17,676 projects** with **12.5M** GitHub stars between them: 10,052 active, 2,470 slowing down, 3,510 dormant, 1,190 archived. Top languages: Python (4,011), C++ (2,671), C (2,514), JavaScript (1,053), C# (956).
 
 | Category | Projects | Top picks |
 |---|--:|---|
 | [**AI Tools & LLM Clients**](categories/ai-tools-llm-clients.md) | 752 | [claw-code](https://github.com/ultraworkers/claw-code), [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) |
-| [**Game Decompilations & Reimplementations**](categories/game-decompilations-reimplementations.md) | 6,076 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
+| [**Game Decompilations & Reimplementations**](categories/game-decompilations-reimplementations.md) | 6,078 | [shadPS4](https://github.com/shadps4-emu/shadPS4), [v86](https://github.com/copy/v86), [RPCS3](https://github.com/RPCS3/rpcs3) |
 | [**Devices, IoT & Hardware**](categories/devices-iot-hardware.md) | 3,121 | [KOReader](https://github.com/koreader/koreader), [LibrePods](https://github.com/librepods-org/librepods), [OpenLogi](https://github.com/AprilNEA/OpenLogi) |
 | [**Unofficial Web/App API Clients**](categories/unofficial-web-app-api-clients.md) | 986 | [yt-dlp](https://github.com/yt-dlp/yt-dlp), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) |
 | [**Messaging & Social Apps**](categories/messaging-social-apps.md) | 310 | [WeChatMsg](https://github.com/LC044/WeChatMsg), [ItChat](https://github.com/littlecodersh/ItChat), [wechaty](https://github.com/wechaty/wechaty) |
@@ -51,10 +51,10 @@ Can agents do this work themselves? [Interop-Bench](bench/) tests it on generate
 | [**Network & Wire Protocols**](categories/network-wire-protocols.md) | 430 | [Sunshine](https://github.com/SunshineStream/Sunshine), [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt), [Impacket](https://github.com/fortra/impacket) |
 | [**File Formats**](categories/file-formats.md) | 444 | [FFmpeg](https://github.com/FFmpeg/FFmpeg), [ImHex](https://github.com/WerWolv/ImHex), [SheetJS](https://github.com/SheetJS/sheetjs) |
 | [**Online Service Revivals**](categories/online-service-revivals.md) | 634 | [NoLongerEvil Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat), [Legacy Update](https://github.com/LegacyUpdate/LegacyUpdate), [DeskThing](https://github.com/ItsRiprod/DeskThing) |
-| [**Desktop Software Reimplementations**](categories/desktop-software-reimplementations.md) | 236 | [PhotoCraft](https://github.com/storytold/photocraft), [vaultwarden](https://github.com/dani-garcia/vaultwarden), [Proton](https://github.com/ValveSoftware/Proton) |
+| [**Desktop Software Reimplementations**](categories/desktop-software-reimplementations.md) | 237 | [PhotoCraft](https://github.com/storytold/photocraft), [vaultwarden](https://github.com/dani-garcia/vaultwarden), [Proton](https://github.com/ValveSoftware/Proton) |
 | [**Alternative Frontends**](categories/alternative-frontends.md) | 122 | [searxng](https://github.com/searxng/searxng), [searx](https://github.com/searx/searx), [Whoogle Search](https://github.com/benbusby/whoogle-search) |
 | [**Mobile Apps**](categories/mobile-apps.md) | 111 | [revanced-manager](https://github.com/ReVanced/revanced-manager), [Metrolist](https://github.com/MetrolistGroup/Metrolist), [LibreTube](https://github.com/libre-tube/LibreTube) |
-| [**RE Tooling**](categories/re-tooling.md) | 1,170 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
+| [**RE Tooling**](categories/re-tooling.md) | 1,172 | [rea](https://github.com/morluto/rea), [Ghidra](https://github.com/NationalSecurityAgency/ghidra), [jadx](https://github.com/skylot/jadx) |
 | [**Collections & Awesome Lists**](categories/collections-awesome-lists.md) | 148 | [Corkami pics](https://github.com/corkami/pics), [awesome reverse-engineering (wtsxDev)](https://github.com/wtsxDev/reverse-engineering), [android-security-awesome](https://github.com/ashishb/android-security-awesome) |
 
 ## Resurrected
@@ -116,7 +116,7 @@ python3 re_index.py clone make-all/tuya-local  # shallow clone into vendor/
 
 ## Search it on the web
 
-Filter 17,671 projects by category, language and health, sorted by stars or recent activity. Every search has a shareable link.
+Filter 17,676 projects by category, language and health, sorted by stars or recent activity. Every search has a shareable link.
 
 <p align="center"><a href="https://alexgaoth.github.io/awesome-reverse-engineered/"><img src="assets/site.png" alt="Search it on the web" width="820"></a></p>
 
@@ -138,6 +138,16 @@ The most-starred projects with commits in the last 7 days.
 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden-compatible server written in Rust | 70,890 | 🟢 | Rust |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia framework with many reverse-engineered proprietary codecs and containers | 67,579 | 🟢 | C |
 | [gpt4free](https://github.com/xtekky/gpt4free) | Reverse-engineered third-party provider APIs giving free access to GPT-4 and other LLMs | 67,078 | 🟢 | Python |
+
+## Just added
+
+| Project | What it does | ★ | Health | Lang |
+|---|---|--:|:-:|---|
+| [TraceDraw](https://github.com/tracedraw/tracedraw) | Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27) | 769 | 🟢 | Rust |
+| [Gulpsuite](https://github.com/Aryma-f4/gulpsuite) | Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust | 44 | 🟢 | Rust |
+| [LostOdysseyRecomp-Android](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android port of LostOdysseyRecomp (Lost Odyssey, Xbox 360) with Vulkan, SGSR2 upscaling and TV/HDMI output | 5 | 🟢 | C++ |
+| [Battlefront Eternal](https://github.com/centrevilletech/battlefront-eternal) | Engine reimplementation of Star Wars: Battlefront (2004) in Rust, with a Linux dedicated server; runs on your own game files | 4 | 🟢 | Rust |
+| [harald](https://github.com/k0nnect/harald) | MCP server and CLI that helps coding agents reverse engineer the Bluetooth LE and Classic protocols of gadgets, starting with the Sony WH-1000XM5 | 1 | 🟢 | Python |
 
 ## Most starred
 
@@ -203,7 +213,7 @@ Raw data: [`data/entries.json`](data/entries.json). Removed repos: [`data/remove
 | 3,420 | searches across GitHub, Hacker News, Reddit and the web |
 | 351 | existing lists and collections imported |
 | 202 | repos dropped by the scope filter (exploits, jailbreaks, bypasses, DRM, cheats). Research agents also skip these before this step. |
-| 17,671 | repos in the index, each checked against the GitHub API (exists, canonical URL, stars, license) |
+| 17,676 | repos in the index, each checked against the GitHub API (exists, canonical URL, stars, license) |
 | 1,190 | archived by their owners: kept and marked 🗄️ |
 | 139 | removed by the nightly check because the repo was deleted or made private ([list](data/removed.json)) |
 
