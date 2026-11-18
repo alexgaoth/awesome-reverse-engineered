@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dreame reverse engineered: 7 open-source tools, APIs and clients</title>
+<meta name="description" content="7 open-source projects built by reverse engineering Dreame robot vacuums: unofficial APIs, local control, clients and protocol docs. Includes Valetudo, dreame-vacuum, Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor. Sorted by GitHub stars, refreshed nightly.">
+<link rel="canonical" href="https://awesome.alexgaoth.com/vendors/dreame/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Awesome Reverse-Engineered">
+<meta property="og:title" content="Dreame reverse engineered: 7 open-source tools, APIs and clients">
+<meta property="og:description" content="7 open-source projects built by reverse engineering Dreame robot vacuums: unofficial APIs, local control, clients and protocol docs. Includes Valetudo, dreame-vacuum, Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor. Sorted by GitHub stars, refreshed nightly.">
+<meta property="og:url" content="https://awesome.alexgaoth.com/vendors/dreame/">
+<meta property="og:image" content="https://awesome.alexgaoth.com/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230e0f0d'/><text x='16' y='22' font-family='monospace' font-size='15' font-weight='700' fill='%23ffb000' text-anchor='middle'>0x</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&family=Geist+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>:root{color-scheme:light;--bg:#fafaf9;--surface:#fff;--raised:#f2f2ef;--line:#e4e4e0;--ink:#18181b;--ink-2:#52525b;--ink-3:#71717a;--accent:#a16207;--good:#15803d;--bad:#b91c1c;--sans:"Geist",ui-sans-serif,system-ui,sans-serif;--mono:"Geist Mono",ui-monospace,SFMono-Regular,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0e0f0d;--surface:#151613;--raised:#1c1d19;--line:#2a2b26;--ink:#f2f0e8;--ink-2:#b4b1a4;--ink-3:#8b8878;--accent:#ffb000;--good:#4ade80;--bad:#f87171}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}a{color:inherit}
+.wrap{max-width:1000px;margin:0 auto;padding:0 24px}nav{height:64px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);gap:12px}
+.mark{font:600 15px var(--mono);text-decoration:none}.mark b{color:var(--accent);font-weight:600}nav .links a{color:var(--ink-2);text-decoration:none;font-size:14px;margin-left:14px}
+.crumbs{font:13px var(--mono);color:var(--ink-3);margin:28px 0 8px}.crumbs a{color:var(--ink-3)}
+h1{font-size:clamp(28px,4vw,40px);line-height:1.1;letter-spacing:-1px;margin:0 0 12px}.lede{color:var(--ink-2);max-width:70ch;margin:0 0 24px}
+.cta{display:inline-block;margin:0 0 28px;color:var(--accent);font-weight:600;text-decoration:none}
+h2{font-size:20px;margin:36px 0 10px;letter-spacing:-.3px}h2 a{text-decoration:none}h2 span{font:13px var(--mono);color:var(--ink-3);margin-left:8px}
+ul.subs{list-style:none;padding:0;margin:0 0 24px;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px}
+ul.subs a{display:flex;justify-content:space-between;gap:8px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none}
+ul.subs span{font:12px var(--mono);color:var(--ink-3)}
+ol.items{list-style:none;padding:0;margin:0}ol.items li{padding:12px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr auto;gap:2px 16px}
+ol.items a{font-weight:600;text-decoration:none}ol.items a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+ol.items p{grid-column:1;margin:0;color:var(--ink-2);font-size:14px}ol.items .m{grid-column:2;grid-row:1/span 2;text-align:right;font:12px var(--mono);color:var(--ink-3);white-space:nowrap}
+.h-active{color:var(--good)}.h-archived,.h-dormant{color:var(--bad)}
+footer{border-top:1px solid var(--line);margin-top:48px;padding:24px 0 48px;color:var(--ink-3);font-size:14px}footer a{color:var(--accent)}
+@media (max-width:600px){.wrap{padding:0 16px}nav .links .hide-sm{display:none}ol.items li{grid-template-columns:1fr}ol.items .m{grid-column:1;grid-row:auto;text-align:left}}
+.facts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;padding:0;list-style:none}.facts li{font:12px var(--mono);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;background:var(--surface)}
+.groups h2{font-size:15px;color:var(--ink-3);text-transform:uppercase;letter-spacing:.6px;margin:28px 0 8px}
+.related{margin:32px 0 0;color:var(--ink-2);font-size:14px}.related a{color:var(--accent)}</style>
+</head>
+<body>
+<div class="wrap">
+<nav aria-label="Main"><a class="mark" href="../../"><b>awesome-</b>reverse-engineered</a>
+<div class="links"><a href="../../">Search</a><a class="hide-sm" href="../../vendors/">Vendors</a><a class="hide-sm" href="../../games/">Consoles</a><a class="hide-sm" href="../../resurrected/">Resurrected</a><a class="hide-sm" href="https://github.com/alexgaoth/awesome-reverse-engineered">GitHub</a></div></nav>
+<style>.facts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;padding:0;list-style:none}.facts li{font:12px var(--mono);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;background:var(--surface)}
+.groups h2{font-size:15px;color:var(--ink-3);text-transform:uppercase;letter-spacing:.6px;margin:28px 0 8px}
+.related{margin:32px 0 0;color:var(--ink-2);font-size:14px}.related a{color:var(--accent)}</style>
+<div class="crumbs"><a href="../../">Home</a> / <a href="../">Vendors</a> / Dreame</div>
+<h1>7 open-source Dreame projects built by reverse engineering</h1>
+<p class="lede">Open-source projects that exist because someone reverse engineered Dreame robot vacuums. 6 of 7 had a commit in the last 12 months. Most-starred: Valetudo, dreame-vacuum, Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor, dreame-mower, xiaomi-vac.</p>
+<ul class="facts"><li>Smart Home &amp; IoT · 5</li><li>Appliances &amp; Kitchen · 2</li></ul>
+<a class="cta" href="../../#q=dreame">Search and filter in the full index →</a>
+<ol class="items"><li><a href="https://github.com/Hypfer/Valetudo" rel="noopener">Valetudo</a><span class="m">★ 9,996 · <span class="h-active">active</span> · JavaScript</span><p>Cloud-free web UI and firmware replacement for robot vacuums (Roborock, Dreame)</p></li><li><a href="https://github.com/Tasshack/dreame-vacuum" rel="noopener">dreame-vacuum</a><span class="m">★ 2,298 · <span class="h-active">active</span> · Python</span><p>Home Assistant integration for Dreame robot vacuums with map support</p></li><li><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor" rel="noopener">Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor</a><span class="m">★ 1,438 · <span class="h-active">active</span> · Python</span><p>Live maps for Xiaomi, Roborock, Viomi and Dreame vacuums pulled from the undocumented Xiaomi cloud</p></li><li><a href="https://github.com/bhuebschen/dreame-mower" rel="noopener">dreame-mower</a><span class="m">★ 69 · <span class="h-slow">slowing</span> · Python</span><p>Home Assistant integration for Dreame lawn mowers via the Dreame cloud protocol</p></li><li><a href="https://github.com/letitbe-dull/xiaomi-vac" rel="noopener">xiaomi-vac</a><span class="m">★ 42 · <span class="h-active">active</span> · Python</span><p>Local control and room cleaning for ijai, Dreame, Viomi and Xiaomi robot vacuums</p></li><li><a href="https://github.com/EvotecIT/homeassistant-dreamelawnmower" rel="noopener">homeassistant-dreamelawnmower</a><span class="m">★ 35 · <span class="h-active">active</span> · Python</span><p>Home Assistant integration for Dreame and MOVA robotic lawn mowers</p></li><li><a href="https://github.com/TA2k/ioBroker.dreame" rel="noopener">ioBroker.dreame</a><span class="m">★ 18 · <span class="h-active">active</span> · TypeScript</span><p>ioBroker adapter for Dreame and Mova devices</p></li></ol>
+<p class="related">Related: <a href="../../c/devices-iot-hardware/smart-home-iot/">Smart Home &amp; IoT</a> · <a href="../../c/devices-iot-hardware/appliances-kitchen/">Appliances &amp; Kitchen</a> · <a href="../">All vendors</a> · <a href="../../games/">Games by console</a></p>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Dreame reverse engineered: 7 open-source tools, APIs and clients", "url": "https://awesome.alexgaoth.com/vendors/dreame/", "numberOfItems": 7, "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://github.com/Hypfer/Valetudo", "name": "Valetudo"}, {"@type": "ListItem", "position": 2, "url": "https://github.com/Tasshack/dreame-vacuum", "name": "dreame-vacuum"}, {"@type": "ListItem", "position": 3, "url": "https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor", "name": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor"}, {"@type": "ListItem", "position": 4, "url": "https://github.com/bhuebschen/dreame-mower", "name": "dreame-mower"}, {"@type": "ListItem", "position": 5, "url": "https://github.com/letitbe-dull/xiaomi-vac", "name": "xiaomi-vac"}, {"@type": "ListItem", "position": 6, "url": "https://github.com/EvotecIT/homeassistant-dreamelawnmower", "name": "homeassistant-dreamelawnmower"}, {"@type": "ListItem", "position": 7, "url": "https://github.com/TA2k/ioBroker.dreame", "name": "ioBroker.dreame"}]}</script><footer>Part of <a href="../../">Awesome Reverse-Engineered</a>: 17,676 open-source projects that exist because someone reverse engineered a closed product. Stars and activity refreshed nightly. Browse <a href="../../vendors/">by vendor</a> or <a href="../../games/">games by console</a>. Data <a href="https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/data/entries.json">CC0</a>. Missing a project? <a href="https://github.com/alexgaoth/awesome-reverse-engineered#contributing">Add it</a>.</footer>
+</div>
+</body>
+</html>

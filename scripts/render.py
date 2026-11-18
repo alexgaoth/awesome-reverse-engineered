@@ -255,7 +255,8 @@ def main():
     import pages
     pages.build(ROOT, by, cats, ccount, n, health)
     ip = os.path.join(ROOT, "docs", "index.html")
-    links = " ".join(f'<a href="c/{slug(c)}/">{esc(c)} ({ccount[c]:,})</a>' for c in cats)
+    links = " ".join(f'<a href="c/{slug(c)}/">{esc(c)} ({ccount[c]:,})</a>' for c in cats) + \
+        ' <a href="vendors/">Browse by vendor</a> <a href="games/">Game decompilations by console</a>'
     s = open(ip).read()
     open(ip, "w").write(re.sub(r"<!-- cats:start -->.*?<!-- cats:end -->",
                                lambda m: f"<!-- cats:start -->{links}<!-- cats:end -->", s, flags=re.S))
