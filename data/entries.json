@@ -46507,6 +46507,20 @@
   "added": "2026-10-22"
  },
  {
+  "name": "TraceDraw",
+  "url": "https://github.com/tracedraw/tracedraw",
+  "desc": "Clean-room CorelDRAW-style vector editor in Rust with an independent .cdr reader (versions 1-27) and writer (7-27)",
+  "category": "Desktop Software Reimplementations",
+  "subcategory": "Applications",
+  "stars": 769,
+  "archived": false,
+  "pushed": "2026-11-17",
+  "lang": "Rust",
+  "license": "NOASSERTION",
+  "topics": [],
+  "added": "2026-11-17"
+ },
+ {
   "name": "makemask",
   "url": "https://github.com/trhodeos/makemask",
   "desc": "Open-source replacement for the N64 SDK makemask.exe",
@@ -145924,6 +145938,28 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Battlefront Eternal",
+  "url": "https://github.com/centrevilletech/battlefront-eternal",
+  "desc": "Engine reimplementation of Star Wars: Battlefront (2004) in Rust, with a Linux dedicated server; runs on your own game files",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "platform": "PC / DOS / Windows",
+  "stars": 4,
+  "archived": false,
+  "pushed": "2026-11-16",
+  "lang": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+   "battlefront",
+   "dedicated-server",
+   "game-engine",
+   "gpl-3",
+   "linux",
+   "multiplayer"
+  ],
+  "added": "2026-11-17"
+ },
+ {
   "name": "OpenKingdoms",
   "url": "https://github.com/OpenKingdoms/OpenKingdoms",
   "desc": "Open-source engine reimplementation of Total Annihilation: Kingdoms (C11, native + WebAssembly). Bring your own game...",
@@ -217201,6 +217237,28 @@
   "added": "2026-10-11"
  },
  {
+  "name": "LostOdysseyRecomp-Android",
+  "url": "https://github.com/Steprant/LostOdysseyRecomp-Android",
+  "desc": "Android port of LostOdysseyRecomp (Lost Odyssey, Xbox 360) with Vulkan, SGSR2 upscaling and TV/HDMI output",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Static Recompilations & PC Ports",
+  "platform": "Xbox",
+  "stars": 5,
+  "archived": false,
+  "pushed": "2026-11-17",
+  "lang": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+   "android",
+   "android-gaming",
+   "hdmi",
+   "lost-odyssey",
+   "performance",
+   "sgsr1"
+  ],
+  "added": "2026-11-17"
+ },
+ {
   "name": "Lufia2SNESRecomp",
   "url": "https://github.com/Cellenseres/Lufia2SNESRecomp",
   "desc": "Static recompilation of Lufia II (SNES)",
@@ -280344,6 +280402,27 @@
   "added": "2026-10-26"
  },
  {
+  "name": "Gulpsuite",
+  "url": "https://github.com/Aryma-f4/gulpsuite",
+  "desc": "Burp Suite-style HTTP, HTTPS and WebSocket interception proxy and web testing suite in Rust",
+  "category": "RE Tooling",
+  "subcategory": "Traffic Interception",
+  "stars": 44,
+  "archived": false,
+  "pushed": "2026-11-16",
+  "lang": "Rust",
+  "license": "MIT",
+  "topics": [
+   "appsec",
+   "bug-bounty",
+   "cybersecurity",
+   "dast",
+   "egui",
+   "ethical-hacking"
+  ],
+  "added": "2026-11-17"
+ },
+ {
   "name": "HTTP Toolkit",
   "url": "https://github.com/httptoolkit/httptoolkit-desktop",
   "desc": "Desktop app for intercepting and debugging HTTP(S) traffic",
@@ -302247,5 +302326,26 @@
    "youtube-music-api"
   ],
   "added": "2026-10-11"
+ },
+ {
+  "name": "harald",
+  "url": "https://github.com/k0nnect/harald",
+  "desc": "MCP server and CLI that helps coding agents reverse engineer the Bluetooth LE and Classic protocols of gadgets, starting with the Sony WH-1000XM5",
+  "category": "RE Tooling",
+  "subcategory": "AI-assisted RE",
+  "stars": 1,
+  "archived": false,
+  "pushed": "2026-11-02",
+  "lang": "Python",
+  "license": "MIT",
+  "topics": [
+   "ble",
+   "bluetooth",
+   "cli",
+   "mcp",
+   "python",
+   "reverse-engineering"
+  ],
+  "added": "2026-11-17"
  }
 ]
