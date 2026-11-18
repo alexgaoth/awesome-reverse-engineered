@@ -20,9 +20,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 - [Matching Decompilations — PC / DOS / Windows](#matching-decompilations--pc--dos--windows) (414)
 - [Matching Decompilations — PSP / Vita / PS3](#matching-decompilations--psp--vita--ps3) (15)
 - [Matching Decompilations — PlayStation 1](#matching-decompilations--playstation-1) (138)
-- [Matching Decompilations — PlayStation 2](#matching-decompilations--playstation-2) (115)
+- [Matching Decompilations — PlayStation 2](#matching-decompilations--playstation-2) (114)
 - [Matching Decompilations — SNES / NES](#matching-decompilations--snes--nes) (204)
-- [Matching Decompilations — Sega](#matching-decompilations--sega) (97)
+- [Matching Decompilations — Sega](#matching-decompilations--sega) (98)
 - [Matching Decompilations — Switch](#matching-decompilations--switch) (19)
 - [Matching Decompilations — Xbox](#matching-decompilations--xbox) (37)
 - [Mod Loaders & Script Extenders](#mod-loaders--script-extenders) (292)
@@ -3657,7 +3657,6 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [Zone of the Enders decomp](https://github.com/GirianSeed/zoe1) | Decompilation of Zone of the Enders (PS2) | 7 | 🟢 | C |
 | [Fahrenheit / Indigo Prophecy decomp](https://github.com/fmil95/santamonica) | Decompilation of Fahrenheit / Indigo Prophecy (PS2) | 6 | 🟢 | C++ |
 | [Over the Hedge decomp](https://github.com/dantekall/Over-The-Hedge---Decompilation) | Decompilation of Over the Hedge (PS2) | 6 | 🟢 | C++ |
-| [Phantasy Star II Disassembly](https://github.com/jon13doe/SEGA_ps2_disasm) | Phantasy Star II Disassembly | 6 | 🔴 | Assembly |
 | [PS2 OSDSYS (system menu)](https://github.com/JeanxPereira/CrystalOSD) | Decompilation of PS2 OSDSYS (system menu) | 6 | 🟢 | JavaScript |
 | [Syphon Filter: The Omega Strain](https://github.com/zm2283145/syphon-filter-omega-strain-decomp) | Matching decompilation of Syphon Filter: The Omega Strain (PlayStation 2, 2004) | 6 | 🟢 | C |
 | [Xenosaga Episode I: Der Wille zur Macht decomp](https://github.com/ValakTurtle/Xenosaga-I-Decomp) | Decompilation of Xenosaga Episode I: Der Wille zur Macht (PS2) | 6 | 🟢 | Python |
@@ -3955,6 +3954,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [December 2020 Sonic the Hedgehog prototype disassembly](https://github.com/Iso-Kilo/Sonic-1-Prototype-Disassembly) | Split disassembly of the December 2020 Sonic the Hedgehog prototype (Mega Drive) | 6 | 🔴 |  |
 | [Earthworm Jim disassembly](https://github.com/anatsvit/erathworm-jim-disasm) | Disassembly of Earthworm Jim (Sega Genesis) | 6 | 🟢 | Assembly |
 | [Landstalker disassembly](https://github.com/LandstalkerCentral/LSUSDISASM) | Disassembly of Landstalker (Mega Drive, US) | 6 | 🔴 | Assembly |
+| [Phantasy Star II Disassembly](https://github.com/jon13doe/SEGA_ps2_disasm) | Disassembly of Phantasy Star II (Sega Mega Drive) | 6 | 🔴 | Assembly |
 | [Phantasy Star IV Disassembly](https://github.com/squidfeatures/ps4disasm) | Phantasy Star IV Disassembly | 6 | 🔴 | Assembly |
 | [Dr. Robotnik's Mean Bean Machine disassembly](https://github.com/DevsArchive/mean-bean-machine-disassembly) | Disassembly of Dr. Robotnik's Mean Bean Machine (Mega Drive) | 5 | 🗄️ | Assembly |
 | [Lord of the Sword disassembly](https://github.com/Isotarge/lotsdisasm) | Disassembly of Lord of the Sword (Sega Master System) | 5 | 🔴 | Assembly |
@@ -5258,7 +5258,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled) | Dragon Ball Z: Burst Limit Recompiled - native PC port via ReXGlue static recompilation | 127 | 🟢 | C++ |
 | [SARecomp](https://github.com/sonicfreak1337/SARecomp) | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRe... | 127 | 🟢 | C++ |
 | [The Legend of Zelda: Oracle of Ages/Seasons](https://github.com/thibautbus/top) | Unofficial native port of The Legend of Zelda: Oracle of Ages/Seasons (Game Boy Color) | 127 | 🟢 | C |
-| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Unofficial native port of Hollow Knight: Silksong (Mobile) | 126 | 🟢 | C# |
+| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Unofficial native Android port of Hollow Knight: Silksong | 126 | 🟢 | C# |
 | [MOTHER 3](https://github.com/josiahg2502-glitch/Mother3Recomp) | Static recompilation of MOTHER 3 (GBA) into a native PC port | 126 | 🟢 | C |
 | [Theft4](https://github.com/KoreanSeats1/Theft4) | Experimental static AOT recompilation of GTA IV's Xbox 360 build for ARM | 126 | 🟢 | C++ |
 | [doukutsupsx (Cave Story)](https://github.com/fgsfdsfgs/doukutsupsx) | Port of Cave Story to the PlayStation, based on the CSE2 decompilation | 125 | 🔴 | C |
