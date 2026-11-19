@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.alexgaoth/awesome-reverse-engineered",
+  "title": "Awesome Reverse-Engineered",
+  "description": "Check if a closed app, API, device or game was already reverse engineered: 17,000+ OSS projects",
+  "repository": {
+    "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "websiteUrl": "https://awesome.alexgaoth.com/",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "oci",
+      "identifier": "ghcr.io/alexgaoth/reverse-engineered-mcp:0.1.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "GITHUB_TOKEN",
+          "description": "Optional. Raises the GitHub API rate limit when the server reads project READMEs.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
