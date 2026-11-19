@@ -17,6 +17,8 @@ prev_path, out = sys.argv[1], sys.argv[2]
 entries = json.load(open(os.path.join(ROOT, "data", "entries.json")))
 removed = json.load(open(os.path.join(ROOT, "data", "removed.json")))
 prev = json.load(open(prev_path)) if prev_path and os.path.exists(prev_path) else {}
+if isinstance(prev, list):  # an older data/entries.json (first run, no digest release yet)
+    prev = {e["url"]: [e.get("stars") or 0, bool(e.get("archived"))] for e in prev}
 pr = os.path.join(ROOT, "data", "resurrected.json")
 resurrected = json.load(open(pr)) if os.path.exists(pr) else []
 
@@ -45,7 +47,11 @@ if added:
 if archived or gone:
     N += ["### Archived or removed", ""]
     N += [f"- {link(e)}: archived by its owner" for e in archived[:20]]
-    N += [f"- [{r['name']}]({r['url']}): {r.get('reason', 'removed')}" for r in gone[:20]] + [""]
+    # Removed repos are usually gone from GitHub, so no link.
+    N += [f"- {r['name']} (`{r['url'].removeprefix('https://github.com/')}`): {r.get('reason', 'removed')}" for r in gone[:10]]
+    if len(gone) > 10:
+        N += [f"- …and {len(gone) - 10:,} more removed."]
+    N += [""]
 if not (rising or added or archived or gone):
     N += ["A quiet week: no new entries and no changes worth listing.", ""]
 N += ["Data: [`data/entries.json`](https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/data/entries.json) (CC0). "
