@@ -35,6 +35,12 @@ Claude Desktop, Cursor and other clients:
 }
 ```
 
+With Docker (image `ghcr.io/alexgaoth/reverse-engineered-mcp`):
+
+```bash
+claude mcp add reverse-engineered -- docker run -i --rm ghcr.io/alexgaoth/reverse-engineered-mcp
+```
+
 Without uv: download `reverse_engineered_mcp.py` and `re_index.py` into one folder and run `python3 reverse_engineered_mcp.py`.
 
 ## Data
@@ -42,3 +48,7 @@ Without uv: download `reverse_engineered_mcp.py` and `re_index.py` into one fold
 The server downloads `data/entries.json` (CC0) on first use and caches it for 24 hours in `~/.cache/awesome-reverse-engineered/`. Set `RE_INDEX_DATA=/path/to/entries.json` to use a local copy. `get_reverse_engineered_project` reads READMEs through the GitHub API; set `GITHUB_TOKEN` for a higher rate limit.
 
 `re_index.py` is a copy of the agent skill's script; `scripts/render.py` keeps it in step.
+
+## Releases
+
+`.github/workflows/mcp-publish.yml` builds the image, pushes it to GHCR and publishes `server.json` to the [MCP Registry](https://registry.modelcontextprotocol.io) as `io.github.alexgaoth/awesome-reverse-engineered`. The version comes from `server.json`.
