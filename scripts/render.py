@@ -255,7 +255,8 @@ def main():
     import pages
     pages.build(ROOT, by, cats, ccount, n, health)
     ip = os.path.join(ROOT, "docs", "index.html")
-    links = " ".join(f'<a href="c/{slug(c)}/">{esc(c)} ({ccount[c]:,})</a>' for c in cats)
+    links = " ".join(f'<a href="c/{slug(c)}/">{esc(c)} ({ccount[c]:,})</a>' for c in cats) + \
+        ' <a href="vendors/">Browse by vendor</a> <a href="games/">Game decompilations by console</a>'
     s = open(ip).read()
     open(ip, "w").write(re.sub(r"<!-- cats:start -->.*?<!-- cats:end -->",
                                lambda m: f"<!-- cats:start -->{links}<!-- cats:end -->", s, flags=re.S))
@@ -332,6 +333,7 @@ def main():
 
         R += [f"## {t['h_before']}", "", t["before_p"], ""]
         R += [f"{i}. " + x.format(site=SITE, a_agent=a_agent, a_contrib=a_contrib) for i, x in enumerate(t["before_steps"], 1)] + [""]
+        R += [t["bench_line"], ""]
 
         R += [f"## {t['h_inside']}", "",
               t["inside_p"].format(n=f"{n:,}", stars=f"{total_stars / 1e6:.1f}", a=f"{hc['active']:,}", s=f"{hc['slow']:,}",

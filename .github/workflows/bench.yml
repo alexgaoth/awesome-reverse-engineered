@@ -1,0 +1,22 @@
+name: Interop-Bench
+
+# Proves the benchmark's oracle on every change: the reference solver scores 100%,
+# an empty submission scores 0 and a replay of the samples fails. No agent runs here.
+
+on:
+  pull_request:
+    paths: ["bench/**", ".github/workflows/bench.yml"]
+  push:
+    branches: [main]
+    paths: ["bench/**", ".github/workflows/bench.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s bench/tests
