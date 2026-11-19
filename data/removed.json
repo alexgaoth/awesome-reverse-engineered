@@ -838,5 +838,59 @@
   "name": "Third-Party-Clients",
   "removed": "2026-11-18",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pleonex/NerdFontTerminatoR",
+  "name": "NerdFontTerminatoR",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pleonex/PokemonDungeonExplorers",
+  "name": "PokemonDungeonExplorers",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pleonex/SADL-Audio-format",
+  "name": "SADL-Audio-format",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/cobanov/nfsu2-decomp",
+  "name": "Need decomp",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Dodonickey/WOE-Decompiled",
+  "name": "a lost beta of Big Bang Racing decomp",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Dodonickey/The-Great-Escape-Decomp",
+  "name": "a lost beta of The Great Escape decomp",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/ipfsd-acc/p2-decomp",
+  "name": "Portal 2 decomp",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pleonex/NitroDebugger",
+  "name": "NitroDebugger",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/pleonex/NitroFilcher",
+  "name": "NitroFilcher",
+  "removed": "2026-11-19",
+  "reason": "not found on GitHub"
  }
 ]
