@@ -1,10 +1,12 @@
 """Static, crawlable pages for search engines: one per category and one per subcategory,
-plus docs/sitemap.xml and docs/robots.txt. The search page (docs/index.html) is a JS app with
+the vendor and games-by-console pages (scripts/landing.py), plus docs/sitemap.xml and docs/robots.txt. The search page (docs/index.html) is a JS app with
 hash routes, so search engines see none of its 16,000+ entries; these pages fix that.
 
 render.py calls build(). Output: docs/c/<category>/index.html, docs/c/<category>/<subcategory>/index.html.
 """
 import datetime, html, os, re, shutil
+
+import landing  # vendor and games-by-console pages
 
 BASE = "https://awesome.alexgaoth.com/"
 REPO = "https://github.com/alexgaoth/awesome-reverse-engineered"
@@ -29,7 +31,8 @@ ol.items a{font-weight:600;text-decoration:none}ol.items a:hover{text-decoration
 ol.items p{grid-column:1;margin:0;color:var(--ink-2);font-size:14px}ol.items .m{grid-column:2;grid-row:1/span 2;text-align:right;font:12px var(--mono);color:var(--ink-3);white-space:nowrap}
 .h-active{color:var(--good)}.h-archived,.h-dormant{color:var(--bad)}
 footer{border-top:1px solid var(--line);margin-top:48px;padding:24px 0 48px;color:var(--ink-3);font-size:14px}footer a{color:var(--accent)}
-@media (max-width:600px){.wrap{padding:0 16px}nav .links .hide-sm{display:none}ol.items li{grid-template-columns:1fr}ol.items .m{grid-column:1;grid-row:auto;text-align:left}}"""
+@media (max-width:600px){.wrap{padding:0 16px}nav .links .hide-sm{display:none}ol.items li{grid-template-columns:1fr}ol.items .m{grid-column:1;grid-row:auto;text-align:left}}
+""" + landing.EXTRA_CSS
 
 HEAD = """<!doctype html>
 <html lang="en">
@@ -53,14 +56,18 @@ HEAD = """<!doctype html>
 <body>
 <div class="wrap">
 <nav aria-label="Main"><a class="mark" href="{root}"><b>awesome-</b>reverse-engineered</a>
-<div class="links"><a href="{root}">Search</a><a class="hide-sm" href="{root}resurrected/">Resurrected</a><a class="hide-sm" href="{repo}">GitHub</a></div></nav>
+<div class="links"><a href="{root}">Search</a><a class="hide-sm" href="{root}vendors/">Vendors</a><a class="hide-sm" href="{root}games/">Consoles</a><a class="hide-sm" href="{root}resurrected/">Resurrected</a><a class="hide-sm" href="{repo}">GitHub</a></div></nav>
 """
 
-FOOT = """<footer>Part of <a href="{root}">Awesome Reverse-Engineered</a>: {total} open-source projects that exist because someone reverse engineered a closed product. Stars and activity refreshed nightly. Data <a href="{repo}/blob/main/data/entries.json">CC0</a>. Missing a project? <a href="{repo}#contributing">Add it</a>.</footer>
+FOOT = """<footer>Part of <a href="{root}">Awesome Reverse-Engineered</a>: {total} open-source projects that exist because someone reverse engineered a closed product. Stars and activity refreshed nightly. Browse <a href="{root}vendors/">by vendor</a> or <a href="{root}games/">games by console</a>. Data <a href="{repo}/blob/main/data/entries.json">CC0</a>. Missing a project? <a href="{repo}#contributing">Add it</a>.</footer>
 </div>
 </body>
 </html>
 """
+
+
+BROWSE = {True: 'Browse game decompilations and PC ports <a href="{up}games/">by console →</a>',
+          False: 'Browse reverse-engineered products <a href="{up}vendors/">by vendor →</a>'}
 
 
 def item(e, health):
@@ -91,7 +98,8 @@ def build(root, by, cats, ccount, total, health):
                 f"<h1>{ccount[c]:,} open-source {esc(c)} projects built by reverse engineering</h1>",
                 f'<p class="lede">Open-source projects in <b>{esc(c)}</b> that exist because someone reverse engineered a closed product. '
                 f'Most-starred: {", ".join(esc(e["name"]) for e in top[:5])}.</p>',
-                f'<a class="cta" href="../../#c={cs}">Search and filter this category →</a>']
+                f'<a class="cta" href="../../#c={cs}">Search and filter this category →</a>',
+                f'<p class="related">{BROWSE[c == landing.GAMES].format(up="../../")}</p>']
         if len(subs) > 1:
             body.append('<ul class="subs">' + "".join(
                 f'<li><a href="{slug(s)}/">{esc(s)}<span>{len(v):,}</span></a></li>' for s, v in subs) + "</ul>")
@@ -116,6 +124,7 @@ def build(root, by, cats, ccount, total, health):
                     f"<h1>{len(v):,} open-source {esc(s)} projects</h1>",
                     f'<p class="lede">{esc(s)} ({esc(c)}): open-source projects that exist because someone reverse engineered a closed product, '
                     f"sorted by GitHub stars.</p>",
+                    f'<p class="related">{BROWSE[c == landing.GAMES].format(up="../../../")}</p>',
                     '<ol class="items">' + "".join(item(e, health) for e in v) + "</ol>"]
             os.makedirs(os.path.join(root, "docs", ps), exist_ok=True)
             open(os.path.join(root, "docs", ps, "index.html"), "w").write(page(
@@ -123,6 +132,8 @@ def build(root, by, cats, ccount, total, health):
                 f"{len(v):,} open-source {s} projects built by reverse engineering, sorted by stars. "
                 f"Includes {', '.join(e['name'] for e in v[:3])}.", "\n".join(body), 3, total))
             paths.append(ps)
+    entries = [e for c in cats for v in by[c].values() for e in v]
+    paths += landing.build(root, entries, total, health, page, item, slug, BASE)
     today = datetime.date.today().isoformat()
     urls = ["", "resurrected/"] + paths
     open(os.path.join(root, "docs", "sitemap.xml"), "w").write(
