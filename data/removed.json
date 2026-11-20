@@ -892,5 +892,35 @@
   "name": "NitroFilcher",
   "removed": "2026-11-19",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/su-kaka/agy2api",
+  "name": "gcli2api",
+  "removed": "2026-11-20",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/marek-g/nissan_connect3_emulator",
+  "name": "nissan_connect3_emulator",
+  "removed": "2026-11-20",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/Hdmaniak/DishSoap",
+  "name": "The Dishwasher: Dead Samurai (DishSoap)",
+  "removed": "2026-11-20",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/GTTeancum/Timesplitters",
+  "name": "Timesplitters recomp",
+  "removed": "2026-11-20",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/333networks/Masterserver-Qt5",
+  "name": "333networks MasterServer",
+  "removed": "2026-11-20",
+  "reason": "not found on GitHub"
  }
 ]
