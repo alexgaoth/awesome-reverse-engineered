@@ -24,7 +24,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [SoftRF](https://github.com/lyusupov/SoftRF) | DIY aviation proximity system interoperable with FLARM, OGN, P3I, FANET and other protocols | 1,039 | 🟢 | C |
-| [canboat](https://github.com/canboat/canboat) | NMEA 2000 tools with a PGN database that reverse engineers proprietary marine PGNs | 670 | 🟢 | Rust |
+| [canboat](https://github.com/canboat/canboat) | NMEA 2000 tools with a PGN database that reverse engineers proprietary marine PGNs | 671 | 🟢 | Rust |
 | [RemoteIDReceiver](https://github.com/cyber-defence-campus/RemoteIDReceiver) | Monitor drones via Remote ID over Wi-Fi/BLE, incl. DJI proprietary DroneID frames | 320 | 🟢 | Python |
 | [dump978 (mutability)](https://github.com/mutability/dump978) | Demodulator and decoder for 978 MHz UAT aviation transmissions | 182 | 🗄️ | C |
 | [dumphfdl](https://github.com/szpajder/dumphfdl) | Multichannel decoder for HF Data Link (HFDL) aircraft messages | 162 | 🟢 | C |
@@ -61,21 +61,21 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [miraclecast](https://github.com/albfan/miraclecast) | Miracast (Wi-Fi Display) sink and source implementation for Linux | 4,355 | 🟢 | C |
+| [miraclecast](https://github.com/albfan/miraclecast) | Miracast (Wi-Fi Display) sink and source implementation for Linux | 4,356 | 🟢 | C |
 | [castnow](https://github.com/xat/castnow) | commandline chromecast player | 3,809 | 🗄️ | JavaScript |
-| [catt](https://github.com/skorokithakis/catt) | Cast All The Things allows you to send videos from many, many online sources to your Chromecast. | 3,722 | 🟢 | Python |
+| [catt](https://github.com/skorokithakis/catt) | Cast All The Things allows you to send videos from many, many online sources to your Chromecast. | 3,725 | 🟢 | Python |
 | [go-chromecast](https://github.com/vishen/go-chromecast) | cli for Google Chromecast, Home devices and Cast Groups | 983 | 🟢 | Go |
-| [ytcast](https://github.com/MarcoLucidi01/ytcast) | Casts YouTube videos to smart TVs from the command line via DIAL and Lounge API | 805 | 🟢 | Go |
+| [ytcast](https://github.com/MarcoLucidi01/ytcast) | Casts YouTube videos to smart TVs from the command line via DIAL and Lounge API | 806 | 🟢 | Go |
 | [node-castv2](https://github.com/thibauts/node-castv2) | An implementation of the Chromecast CASTV2 protocol | 793 | 🔴 | JavaScript |
 | [samsungctl](https://github.com/Ape/samsungctl) | Remote control Samsung televisions via a TCP/IP connection | 738 | 🗄️ | Python |
-| [node-sonos](https://github.com/bencevans/node-sonos) | Sonos Media Player Interface/Client | 721 | 🟢 | JavaScript |
+| [node-sonos](https://github.com/bencevans/node-sonos) | Sonos Media Player Interface/Client | 720 | 🟢 | JavaScript |
 | [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) | Homebridge plugin for LG webOS TVs | 717 | 🟢 | JavaScript |
 | [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) | Homebridge plugin for Samsung TV's with Tizen OS | 684 | 🟢 | TypeScript |
 | [node-castv2-client](https://github.com/thibauts/node-castv2-client) | A Chromecast client based on the new (CASTV2) protocol | 656 | 🔴 | JavaScript |
 | [adb_shell](https://github.com/JeffLIrion/adb_shell) | Pure Python implementation of the ADB protocol with shell and FileSync | 608 | 🟡 | Python |
 | [ps4-waker](https://github.com/dhleong/ps4-waker) | Wakes and controls a PS4 over LAN using the PlayStation App protocol | 465 | 🔴 | JavaScript |
 | [plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) | Cast from Plex apps to MPV via the Plex player protocol | 412 | 🟡 | Python |
-| [bscpylgtv](https://github.com/chros73/bscpylgtv) | Library to control webOS based LG TV devices | 374 | 🟢 | Roff |
+| [bscpylgtv](https://github.com/chros73/bscpylgtv) | Library to control webOS based LG TV devices | 375 | 🟢 | Roff |
 | [python-roku](https://github.com/jcarbaugh/python-roku) | Screw remotes. Control your Roku with Python. | 349 | 🟢 | Python |
 | [SharpCaster](https://github.com/Tapanila/SharpCaster) | Chromecast C# CLI and SDK | 336 | 🟡 | C# |
 | [chromecast-java-api-v2](https://github.com/vitalidze/chromecast-java-api-v2) | Java implementation of ChromeCast V2 protocol client | 276 | 🟡 | Java |
@@ -138,11 +138,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [SDRTrunk](https://github.com/DSheirer/sdrtrunk) | Decode and follow P25, DMR, LTR, MPT1327 and other trunked radio systems | 2,241 | 🟢 | Java |
+| [SDRTrunk](https://github.com/DSheirer/sdrtrunk) | Decode and follow P25, DMR, LTR, MPT1327 and other trunked radio systems | 2,242 | 🟢 | Java |
 | [trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) | Record calls from P25 and Motorola SmartNet trunked radio systems | 1,158 | 🟢 | C++ |
 | [MMDVMHost](https://github.com/g4klx/MMDVM-Host) | Host program for MMDVM digital voice hotspots (D-Star, DMR, YSF, P25, NXDN) | 455 | 🟢 | C++ |
 | [dsdcc](https://github.com/f4exb/dsdcc) | Digital Speech Decoder rewritten as a C++ library for DMR, D-Star, YSF, dPMR and more | 328 | 🟡 | C++ |
-| [mbelib](https://github.com/szechyjs/mbelib) | Implementation of the proprietary IMBE/AMBE vocoders used in P25, DMR and ProVoice | 324 | 🔴 | C++ |
+| [mbelib](https://github.com/szechyjs/mbelib) | Implementation of the proprietary IMBE/AMBE vocoders used in P25, DMR and ProVoice | 325 | 🔴 | C++ |
 | [TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto) | Reverse engineered TETRA cryptographic primitives (TEA ciphers, TAA1) | 220 | 🟡 | C |
 | [md380-re](https://github.com/pchickey/md380-re) | MD380 DMR radio reverse engineering | 127 | 🗄️ | C |
 | [osmo-tetra-sq5bpf](https://github.com/sq5bpf/osmo-tetra-sq5bpf) | osmo-tetra with patches to decode TETRA SDS messages and feed telive | 65 | 🔴 | C |
@@ -159,7 +159,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [hydroxide](https://github.com/emersion/hydroxide) | Third-party ProtonMail bridge providing IMAP, SMTP and CardDAV | 2,170 | 🗄️ | Go |
 | [exchangelib](https://github.com/ecederstrand/exchangelib) | Python client for Microsoft Exchange Web Services (EWS) | 1,275 | 🟢 | Python |
-| [TbSync](https://github.com/jobisoft/TbSync) | [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and... | 935 | 🟢 | JavaScript |
+| [TbSync](https://github.com/jobisoft/TbSync) | [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and... | 936 | 🟢 | JavaScript |
 | [php-ews](https://github.com/jamesiarmes/php-ews) | PHP Exchange Web Services | 574 | 🟡 | PHP |
 | [gromox](https://github.com/grommunio/gromox) | Groupware server implementing Exchange MAPI/HTTP, RPC/HTTP, EWS and IMAP | 279 | 🟢 | C++ |
 | [EAS-4-TbSync](https://github.com/jobisoft/EAS-4-TbSync) | [Thunderbird Add-On] The Exchange ActiveSync provider for TbSync to sync contacts, tasks and calendars to Thunderbird. | 263 | 🟢 | JavaScript |
@@ -188,34 +188,34 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Sunshine](https://github.com/SunshineStream/Sunshine) | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 43,698 | 🟢 | C++ |
-| [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) | Open-source NVIDIA GameStream / Sunshine client for Windows, macOS, Linux and Steam Link | 19,652 | 🟢 | C++ |
-| [Impacket](https://github.com/fortra/impacket) | Python classes for SMB, MSRPC, NTLM, Kerberos, LDAP and other Windows protocols | 16,292 | 🟢 | Python |
-| [FreeRDP](https://github.com/FreeRDP/FreeRDP) | Free implementation of Microsoft's Remote Desktop Protocol (client and server libraries) | 14,043 | 🟢 | C |
-| [OpenDrop](https://github.com/seemoo-lab/opendrop) | Open AirDrop implementation in Python, protocol-compatible with iOS/macOS | 9,960 | 🟢 | Python |
-| [Shairport Sync](https://github.com/mikebrady/shairport-sync) | AirPlay and AirPlay 2 audio receiver for Linux/BSD | 9,042 | 🟢 | C |
-| [moonlight-android](https://github.com/moonlight-stream/moonlight-android) | Open-source NVIDIA GameStream client for Android | 7,554 | 🟢 | C |
+| [Sunshine](https://github.com/SunshineStream/Sunshine) | Self-hosted game stream host that implements the NVIDIA GameStream protocol for Moonlight clients | 43,741 | 🟢 | C++ |
+| [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) | Open-source NVIDIA GameStream / Sunshine client for Windows, macOS, Linux and Steam Link | 19,681 | 🟢 | C++ |
+| [Impacket](https://github.com/fortra/impacket) | Python classes for SMB, MSRPC, NTLM, Kerberos, LDAP and other Windows protocols | 16,295 | 🟢 | Python |
+| [FreeRDP](https://github.com/FreeRDP/FreeRDP) | Free implementation of Microsoft's Remote Desktop Protocol (client and server libraries) | 14,048 | 🟢 | C |
+| [OpenDrop](https://github.com/seemoo-lab/opendrop) | Open AirDrop implementation in Python, protocol-compatible with iOS/macOS | 9,962 | 🟢 | Python |
+| [Shairport Sync](https://github.com/mikebrady/shairport-sync) | AirPlay and AirPlay 2 audio receiver for Linux/BSD | 9,043 | 🟢 | C |
+| [moonlight-android](https://github.com/moonlight-stream/moonlight-android) | Open-source NVIDIA GameStream client for Android | 7,574 | 🟢 | C |
 | [xrdp](https://github.com/neutrinolabs/xrdp) | Open source RDP server for Linux | 6,790 | 🟢 | C |
 | [NearDrop](https://github.com/grishka/NearDrop) | Unofficial Google Nearby Share/Quick Share receiver for macOS from reversed protocol | 6,361 | 🟢 | Swift |
 | [rquickshare](https://github.com/Martichou/rquickshare) | Rust implementation of Android Nearby Share / Quick Share for Linux and macOS | 3,669 | 🟢 | Rust |
-| [UxPlay](https://github.com/FDH2/UxPlay) | AirPlay mirroring server for Unix (reverse-engineered AirPlay 2 protocol) | 3,373 | 🟢 | C |
-| [IronRDP](https://github.com/Devolutions/IronRDP) | Rust implementation of the Microsoft Remote Desktop Protocol (RDP) | 3,320 | 🟢 | Rust |
+| [UxPlay](https://github.com/FDH2/UxPlay) | AirPlay mirroring server for Unix (reverse-engineered AirPlay 2 protocol) | 3,377 | 🟢 | C |
+| [IronRDP](https://github.com/Devolutions/IronRDP) | Rust implementation of the Microsoft Remote Desktop Protocol (RDP) | 3,325 | 🟢 | Rust |
 | [RDPY](https://github.com/citronneur/rdpy) | Microsoft RDP protocol implementation in Python: client, server, MitM, honeypot | 1,735 | 🔴 | Python |
-| [moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) | Open-source NVIDIA GameStream client for iOS and tvOS | 1,729 | 🟢 | C |
+| [moonlight-ios](https://github.com/moonlight-stream/moonlight-ios) | Open-source NVIDIA GameStream client for iOS and tvOS | 1,731 | 🟢 | C |
 | [OWL (Open Wireless Link)](https://github.com/seemoo-lab/owl) | Open implementation of Apple Wireless Direct Link (AWDL) for Linux and macOS | 1,574 | 🗄️ | C |
 | [moonlight-tv](https://github.com/mariotaku/moonlight-tv) | Lightweight GameStream client for LG webOS TVs and embedded devices | 1,545 | 🟢 | C |
 | [rdesktop](https://github.com/rdesktop/rdesktop) | Original open source RDP client for Unix, built from reverse engineering | 1,355 | 🟢 | C |
-| [Samba](https://github.com/samba-team/samba) | SMB/CIFS file, print and AD domain server; SMB reverse engineered long before MS published specs | 1,154 | 🟢 | C |
-| [uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Unofficial native Linux host for NetEase UU Remote, from its reverse-engineered protocol | 924 | 🟢 | Rust |
-| [moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) | Core implementation of NVIDIA's reverse-engineered GameStream protocol | 586 | 🟢 | C |
+| [Samba](https://github.com/samba-team/samba) | SMB/CIFS file, print and AD domain server; SMB reverse engineered long before MS published specs | 1,155 | 🟢 | C |
+| [uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | Unofficial native Linux host for NetEase UU Remote, from its reverse-engineered protocol | 929 | 🟢 | Rust |
+| [moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) | Core implementation of NVIDIA's reverse-engineered GameStream protocol | 587 | 🟢 | C |
 | [libsmb2](https://github.com/sahlberg/libsmb2) | Userspace SMB2/3 client library in C | 435 | 🟢 | C |
 | [go-smb2](https://github.com/hirochachacha/go-smb2) | SMB2/3 client library written in Go | 414 | 🟢 | Go |
 | [smbprotocol](https://github.com/jborean93/smbprotocol) | Python SMBv2/v3 client implementation | 401 | 🟢 | Python |
 | [ksmbd](https://github.com/namjaejeon/ksmbd) | In-kernel Linux SMB3 server | 375 | 🟢 | C |
 | [moonlight-windows](https://github.com/moonlight-stream/moonlight-windows) | NVIDIA GameStream client for Windows Phone (discontinued) | 82 | 🗄️ | C |
 | [WayShare](https://github.com/wesleygrimes/wayshare) | Shares a Hyprland desktop with a Mac's built-in Screen Sharing app via Apple's protocol | 64 | 🟢 | Rust |
-| [openrad](https://github.com/gringoestrangeiro/openrad) | Open-source Rust reimplementation of Radmin VPN with a Linux app and CLI | 28 | 🟢 | Java |
-| [pippin](https://github.com/jonesy827/pippin) | Native Rust Linux client for Apple's macOS High-Performance Screen Sharing protocol (HEVC 4:4:4, audio, clipboard) | 22 | 🟢 | Rust |
+| [openrad](https://github.com/gringoestrangeiro/openrad) | Open-source Rust reimplementation of Radmin VPN with a Linux app and CLI | 31 | 🟢 | Java |
+| [pippin](https://github.com/jonesy827/pippin) | Native Rust Linux client for Apple's macOS High-Performance Screen Sharing protocol (HEVC 4:4:4, audio, clipboard) | 23 | 🟢 | Rust |
 | [chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) | Original free and open-source PlayStation Remote Play client built from the reverse-engineered protocol |  | ⚪ |  |
 
 ## Legacy IM Revival
@@ -229,8 +229,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [Baileys](https://github.com/WhiskeySockets/Baileys) | Socket-based TypeScript API for WhatsApp Web | 11,689 | 🟢 | JavaScript |
-| [whatsmeow](https://github.com/tulir/whatsmeow) | Go library for the WhatsApp web multi-device API | 7,915 | 🟢 | Go |
+| [Baileys](https://github.com/WhiskeySockets/Baileys) | Socket-based TypeScript API for WhatsApp Web | 11,696 | 🟢 | JavaScript |
+| [whatsmeow](https://github.com/tulir/whatsmeow) | Go library for the WhatsApp web multi-device API | 7,918 | 🟢 | Go |
 | [mautrix-whatsapp](https://github.com/mautrix/whatsapp) | Matrix-WhatsApp puppeting bridge | 1,936 | 🟢 | Go |
 | [Open OSCAR Server (Retro AIM Server)](https://github.com/mk6i/open-oscar-server) | Self-hostable server compatible with classic AIM and ICQ clients (OSCAR protocol) | 1,598 | 🟢 | Go |
 | [purple-facebook](https://github.com/dequis/purple-facebook) | Facebook Messenger (MQTT) protocol plugin for libpurple | 950 | 🟢 | C |
@@ -238,26 +238,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [skype4pidgin](https://github.com/EionRobb/skype4pidgin) | Skype protocol plugin for Pidgin/libpurple (SkypeWeb) | 620 | 🗄️ | C |
 | [mautrix-meta](https://github.com/mautrix/meta) | Matrix bridge for Facebook Messenger and Instagram DMs | 482 | 🟢 | Go |
 | [purple-discord](https://github.com/EionRobb/purple-discord) | Discord protocol plugin for Pidgin/libpurple | 436 | 🟢 | C |
-| [purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) | WhatsApp plugin for Pidgin/libpurple built on whatsmeow | 365 | 🟢 | C |
+| [purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) | WhatsApp plugin for Pidgin/libpurple built on whatsmeow | 364 | 🟢 | C |
 | [feiq (Mac)](https://github.com/compilelife/feiq) | Qt FeiQ client for macOS implementing the FeiQ (IP Messenger extension) protocol | 245 | 🔴 | C++ |
 | [Telegram-Server-Java](https://github.com/aykutalparslan/Telegram-Server-Java) | Unofficial Telegram MTProto server in Java | 241 | 🗄️ | Java |
-| [purple-teams](https://github.com/EionRobb/purple-teams) | Third-party Microsoft Teams plugin for Pidgin/libpurple | 219 | 🟢 | C |
+| [purple-teams](https://github.com/EionRobb/purple-teams) | Third-party Microsoft Teams plugin for Pidgin/libpurple | 218 | 🟢 | C |
 | [Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) | Unofficial Telegram server in C# with channels, media, secret chats and calls | 176 | 🟢 | C# |
-| [fossteams/teams-api](https://github.com/fossteams/teams-api) | Unofficial Go library for Microsoft Teams internal APIs used by the official clients | 167 | 🔴 | Go |
+| [fossteams/teams-api](https://github.com/fossteams/teams-api) | Unofficial Go library for Microsoft Teams internal APIs used by the official clients | 166 | 🔴 | Go |
 | [ts3j](https://github.com/Manevolent/ts3j) | Open-source Java TeamSpeak 3 client library using the full client protocol | 132 | 🟢 | Java |
 | [mautrix-googlechat](https://github.com/mautrix/googlechat) | Matrix-Google Chat puppeting bridge | 127 | 🟢 | Python |
 | [telegramd](https://github.com/bluefoxah/telegramd) | Unofficial open-source Telegram server written in Go | 28 | 🔴 | Go |
 | [mini-telegram](https://github.com/Yumcoder-dev/mini-telegram) | Unofficial MTProto server in Rust that works with Telegram clients | 14 | 🔴 | Rust |
 | [AOL Wiretap](https://github.com/chriskearney/wiretap) | Packet capture and analysis tool for reverse engineering the AOL protocol | 12 | 🟢 | Java |
 | [poggadaj](https://github.com/Oreeeee/poggadaj) | Open Source reimplementation of Gadu-Gadu backend (official mirror of https://codeberg.org/or3e/poggadaj) | 8 | 🟢 | Go |
-| [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🔴 | Go |
+| [zoomer](https://github.com/RealKeyboardWarrior/zoomer) | Zoom chat bots via reverse-engineered Zoom Web SDK websocket protocol | 4 | 🟢 | Go |
 | [aMSN](https://sourceforge.net/projects/amsn/) | Multiplatform client for the MSN Messenger protocol |  | ⚪ |  |
 
 ## Other Protocols
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [librespot](https://github.com/librespot-org/librespot) | Open source Spotify Connect client library in Rust | 7,401 | 🟢 | Rust |
+| [librespot](https://github.com/librespot-org/librespot) | Open source Spotify Connect client library in Rust | 7,404 | 🟢 | Rust |
 | [SteamKit2](https://github.com/SteamRE/SteamKit) | .NET library interoperating with Valve's Steam network protocol | 3,238 | 🟢 | C# |
 | [SteamTracking](https://github.com/SteamTracking/SteamTracking) | Tracks Steam client files, protobufs and API changes for research | 1,116 | 🟢 | JavaScript |
 | [chrome-x-browser-validation-header](https://github.com/dsekz/chrome-x-browser-validation-header) | Reverse-engineered Chrome's private X-Browser-Validation integrity header; generator toolkit | 336 | 🟡 | Python |
@@ -268,7 +268,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AirVideo](https://github.com/jphastings/AirVideo) | Ruby library for interacting with an AirVideo server | 75 | 🔴 | Ruby |
 | [openfsd](https://github.com/renorris/openfsd) | Open FSD multiplayer flight simulation network server | 60 | 🟢 | Go |
 | [open-ds](https://github.com/Boomaa23/open-ds) | Reverse engineered lightweight cross-platform FRC Driver Station | 59 | 🟢 | Java |
-| [wow_messages](https://github.com/gtker/wow_messages) | Auto generated messages for the World of Warcraft network protocol | 57 | 🟢 | Rust |
+| [wow_messages](https://github.com/gtker/wow_messages) | Auto generated messages for the World of Warcraft network protocol | 58 | 🟢 | Rust |
 | [ez-sniff](https://github.com/kwesthaus/ez-sniff) | Demodulate and dissect RF packets from E-ZPass toll transponders | 55 | 🟡 | C++ |
 | [nokd](https://github.com/irql/nokd) | Reverse engineering and reimplementation of the Windows NT kernel debugger protocol | 44 | 🟡 | C |
 | [Wow-wireshark-dissector](https://github.com/chaodhib/Wow-wireshark-dissector) | World of Warcraft Wireshark dissector | 40 | 🔴 | C |
@@ -286,7 +286,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [pywinrm](https://github.com/diyan/pywinrm) | Python library for Windows Remote Management (WinRM) | 1,141 | 🟢 | Python |
 | [go-ora](https://github.com/sijms/go-ora) | Pure Go Oracle client implementing the TNS wire protocol | 987 | 🟢 | Go |
 | [gokrb5](https://github.com/jcmturner/gokrb5) | Pure Go Kerberos library for clients and services | 786 | 🟡 | Go |
-| [DavMail](https://github.com/mguessan/davmail) | POP/IMAP/SMTP/CalDAV/LDAP gateway to Exchange and Office 365 (EWS/WebDAV) | 777 | 🟢 | Java |
+| [DavMail](https://github.com/mguessan/davmail) | POP/IMAP/SMTP/CalDAV/LDAP gateway to Exchange and Office 365 (EWS/WebDAV) | 778 | 🟢 | Java |
 | [libnfs](https://github.com/sahlberg/libnfs) | NFS client library | 612 | 🟢 | C |
 | [Kerberos.NET](https://github.com/dotnet/Kerberos.NET) | A Kerberos implementation built entirely in managed code. | 568 | 🟢 | C# |
 | [node-dota2](https://github.com/Arcana/node-dota2) | node-steam plugin for the Dota 2 game coordinator | 555 | 🗄️ | JavaScript |
@@ -297,8 +297,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [python-fints](https://github.com/raphaelm/python-fints) | Pure-Python FinTS/HBCI banking protocol client | 434 | 🟢 | Python |
 | [network-audio-controller](https://github.com/chris-ritsen/network-audio-controller) | Unofficial Dante Controller alternative for multiple platforms | 402 | 🟢 | Rust |
 | [pypsrp](https://github.com/jborean93/pypsrp) | PowerShell Remoting Protocol for Python | 396 | 🟢 | Python |
-| [inferno](https://github.com/teodly/inferno) | Unofficial implementation of the Dante audio-over-IP protocol | 378 | 🟢 | Rust |
-| [hibiscus](https://github.com/willuhn/hibiscus) | Free home-banking app for Linux, Windows and macOS built on HBCI4Java | 350 | 🟢 | Java |
+| [inferno](https://github.com/teodly/inferno) | Unofficial implementation of the Dante audio-over-IP protocol | 379 | 🟢 | Rust |
+| [hibiscus](https://github.com/willuhn/hibiscus) | Free home-banking app for Linux, Windows and macOS built on HBCI4Java | 351 | 🟢 | Java |
 | [jcifs-ng](https://github.com/AgNO3/jcifs-ng) | A cleaned-up and improved version of the jCIFS library | 347 | 🟢 | Java |
 | [dota2](https://github.com/ValvePython/dota2) | Python package for interacting with the Dota 2 game coordinator | 224 | 🔴 | Python |
 | [go-ntlmssp](https://github.com/Azure/go-ntlmssp) | NTLM/Negotiate authentication over HTTP | 204 | 🟢 | Go |
@@ -337,11 +337,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [dump1090](https://github.com/antirez/dump1090) | Dump1090 is a simple Mode S decoder for RTLSDR devices | 2,975 | 🟢 | C |
-| [SatDump](https://github.com/SatDump/SatDump) | Decodes weather/earth-observation satellite downlinks and their data formats | 2,568 | 🟢 | C++ |
+| [SatDump](https://github.com/SatDump/SatDump) | Decodes weather/earth-observation satellite downlinks and their data formats | 2,572 | 🟢 | C++ |
 | [rc-switch](https://github.com/sui77/rc-switch) | Arduino library to operate cheap 433/315 MHz remote-controlled outlets and decode their protocols | 2,092 | 🟡 | C++ |
 | [gr-gsm](https://github.com/ptrkrysik/gr-gsm) | Gnuradio blocks and tools for receiving GSM transmissions | 1,510 | 🟢 | C++ |
-| [wmbusmeters](https://github.com/wmbusmeters/wmbusmeters) | Read the wired or wireless mbus protocol to acquire utility meter readings. | 1,365 | 🟢 | C++ |
-| [esp-sdr](https://github.com/ESPARGOS/esp-sdr) | Uses undocumented raw I/Q capture of ESP32 chips as an SDR | 1,349 | 🟢 | C |
+| [wmbusmeters](https://github.com/wmbusmeters/wmbusmeters) | Read the wired or wireless mbus protocol to acquire utility meter readings. | 1,368 | 🟢 | C++ |
+| [esp-sdr](https://github.com/ESPARGOS/esp-sdr) | Uses undocumented raw I/Q capture of ESP32 chips as an SDR | 1,353 | 🟢 | C |
 | [multimon-ng](https://github.com/EliasOenal/multimon-ng) | Decoder for POCSAG/FLEX pagers, EAS, DTMF, AFSK and other digital radio modes | 1,149 | 🟢 | C |
 | [gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) | This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all... | 1,024 | 🟢 | C++ |
 | [nrsc5](https://github.com/theori-io/nrsc5) | Receiver for the proprietary NRSC-5 (HD Radio) digital broadcast standard | 973 | 🟢 | C |
@@ -350,14 +350,14 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [rtl_433_ESP](https://github.com/NorthernMan54/rtl_433_ESP) | Port of rtl_433 decoders to ESP32 with CC1101/SX127x radios | 747 | 🟢 | C |
 | [readsb](https://github.com/wiedehopf/readsb) | ADS-B decoder swiss knife | 707 | 🟢 | C |
 | [pyModeS](https://github.com/junzis/pyModeS) | Python decoder for Mode S and ADS-B signals | 674 | 🟢 | Python |
-| [gr-lora](https://github.com/rpp0/gr-lora) | GNU Radio blocks for receiving LoRa modulated radio messages using SDR | 651 | 🔴 | C++ |
-| [radiosonde_auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) | Automatically track and decode weather radiosonde launches with an RTL-SDR | 630 | 🟢 | C |
+| [gr-lora](https://github.com/rpp0/gr-lora) | GNU Radio blocks for receiving LoRa modulated radio messages using SDR | 650 | 🔴 | C++ |
+| [radiosonde_auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) | Automatically track and decode weather radiosonde launches with an RTL-SDR | 631 | 🟢 | C |
 | [protoview](https://github.com/antirez/protoview) | Flipper Zero app to display and decode known and unknown sub-GHz signals | 602 | 🟡 | C |
 | [gr-lora](https://github.com/BastilleResearch/gr-lora) | GNU Radio OOT module implementing the LoRa PHY, based on... | 514 | 🔴 | C++ |
 | [nrf24_multipro](https://github.com/goebish/nrf24_multipro) | nRF24L01 transmitter for reverse-engineered toy drone and RC protocols | 508 | 🟡 | C++ |
-| [gr-iridium](https://github.com/muccc/gr-iridium) | Iridium burst detector and demodulator. | 494 | 🟢 | C++ |
+| [gr-iridium](https://github.com/muccc/gr-iridium) | Iridium burst detector and demodulator. | 495 | 🟢 | C++ |
 | [op25](https://github.com/boatbod/op25) | Fork of osmocom OP25 by boatbod | 493 | 🟢 | C++ |
-| [Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) | KiCad reverse engineering of the Quansheng UV-K5 handheld radio PCB | 417 | 🟡 |  |
+| [Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) | KiCad reverse engineering of the Quansheng UV-K5 handheld radio PCB | 416 | 🟡 |  |
 | [acarsdec](https://github.com/TLeconte/acarsdec) | ACARS SDR decoder | 380 | 🗄️ | C |
 | [tpms](https://github.com/jboone/tpms) | Tire Pressure Monitoring System decoding tools. | 372 | 🗄️ | Python |
 | [rdz_ttgo_sonde](https://github.com/dl9rdz/rdz_ttgo_sonde) | ESP32/LoRa board firmware decoding RS41, RS92, DFM and M10/M20 radiosondes | 360 | 🟢 | C++ |
@@ -368,7 +368,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [LoRa-SDR](https://github.com/myriadrf/LoRa-SDR) | SDR implementation of the proprietary LoRa PHY for research | 276 | 🔴 | C++ |
 | [dumpvdl2](https://github.com/szpajder/dumpvdl2) | VDL Mode 2 message decoder and protocol analyzer | 263 | 🟢 | C |
 | [Somfy_Remote](https://github.com/Nickduino/Somfy_Remote) | Arduino sketch that emulates a Somfy RTS remote (rolling-code protocol) | 239 | 🔴 | C++ |
-| [decoder](https://github.com/theengs/decoder) | Library that decodes BLE advertising payloads of hundreds of proprietary sensors | 218 | 🟢 | C |
+| [decoder](https://github.com/theengs/decoder) | Library that decodes BLE advertising payloads of hundreds of proprietary sensors | 219 | 🟢 | C |
 | [RS radiosonde decoders](https://github.com/rs1729/RS) | Decoders for Vaisala, Graw, Meteomodem, Intermet and other radiosonde formats | 205 | 🟢 | C |
 | [LoRaPHY](https://github.com/jkadbear/LoRaPHY) | Complete LoRa physical layer (LoRa PHY) implementation in MATLAB. | 159 | 🔴 | MATLAB |
 | [re-DECTed](https://github.com/znuh/re-DECTed) | RTL-SDR tools that receive DECT packets and feed them to Wireshark | 158 | 🟡 | Python |
@@ -405,7 +405,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [gr-satellites](https://github.com/daniestevez/gr-satellites) | GNU Radio decoders for many amateur and cubesat telemetry formats, incl. undocumented ones | 1,002 | 🟢 | Jupyter Notebook |
-| [iridium-toolkit](https://github.com/muccc/iridium-toolkit) | Tools to parse and decode Iridium satellite frames (pager, SBD, voice, ring alerts) | 584 | 🟢 | Python |
+| [iridium-toolkit](https://github.com/muccc/iridium-toolkit) | Tools to parse and decode Iridium satellite frames (pager, SBD, voice, ring alerts) | 585 | 🟢 | Python |
 | [goestools](https://github.com/pietern/goestools) | Receive and decode GOES LRIT/HRIT satellite downlinks and their xRIT files with an RTL-SDR | 427 | 🟡 | C++ |
 | [JAERO](https://github.com/jontio/JAERO) | Demodulate and decode Inmarsat Aero signals carrying SatCom ACARS from aircraft | 272 | 🟡 | C++ |
 | [iridium-sniffer](https://github.com/alphafox02/iridium-sniffer) | Standalone C Iridium burst detector and demodulator without GNU Radio | 215 | 🟢 | C |
@@ -459,7 +459,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [AskSinPP](https://github.com/pa-pa/AskSinPP) | Arduino implementation of the HomeMatic BidCoS radio protocol | 110 | 🟡 | C++ |
 | [DavisRFM69](https://github.com/dekay/DavisRFM69) | RFM69 library that receives the Davis Instruments weather station radio protocol | 97 | 🔴 | C |
 | [RFLink32-For-Sonoff-RF-Bridge](https://github.com/schmurtzm/RFLink32-For-Sonoff-RF-Bridge) | RFLink32 port for the Sonoff RF Bridge decoding many proprietary 433 MHz protocols | 90 | 🔴 | C |
-| [everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) | ESP8266/ESP32 reader for Itron EverBlu Cyble meters with MQTT and ESPHome | 84 | 🟢 | C++ |
+| [everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) | ESP8266/ESP32 reader for Itron EverBlu Cyble meters with MQTT and ESPHome | 85 | 🟢 | C++ |
 | [Acuparse](https://github.com/acuparse/acuparse) | Captures AcuRite Iris/Atlas station data from the Access/smartHUB bridge's private uploads | 64 | 🟡 | PHP |
 | [LightwaveRF](https://github.com/roberttidey/LightwaveRF) | Arduino libraries for the LightwaveRF 433 MHz home automation protocol | 60 | 🔴 | C++ |
 | [esphome-rtl_433-decoder](https://github.com/juanboro/esphome-rtl_433-decoder) | Runs rtl_433 decoders for proprietary 433 MHz sensors inside ESPHome | 51 | 🟢 | C++ |
@@ -495,18 +495,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [wgcf](https://github.com/ViRb3/wgcf) | Unofficial CLI that registers Cloudflare WARP accounts and generates WireGuard configs | 8,913 | 🟢 | Go |
+| [wgcf](https://github.com/ViRb3/wgcf) | Unofficial CLI that registers Cloudflare WARP accounts and generates WireGuard configs | 8,919 | 🟢 | Go |
 | [oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) | Unofficial Cloudflare WARP client for Windows, macOS and Linux | 8,382 | 🗄️ | TypeScript |
 | [docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) | Runs Sangfor EasyConnect/aTrust VPN clients in a container exposing SOCKS5/HTTP proxy gateways | 5,621 | 🟢 | Shell |
-| [oblivion](https://github.com/bepass-org/oblivion) | Unofficial Cloudflare WARP client for Android | 4,904 | 🟢 | Dart |
-| [usque](https://github.com/Diniboy1123/usque) | Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol | 1,551 | 🟢 | Go |
-| [zju-connect](https://github.com/Mythologyli/zju-connect) | Go reimplementation of the Sangfor EasyConnect VPN protocol (ZJU RVPN client) | 837 | 🟢 | Go |
+| [oblivion](https://github.com/bepass-org/oblivion) | Unofficial Cloudflare WARP client for Android | 4,906 | 🟢 | Dart |
+| [usque](https://github.com/Diniboy1123/usque) | Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol | 1,556 | 🟢 | Go |
+| [zju-connect](https://github.com/Mythologyli/zju-connect) | Go reimplementation of the Sangfor EasyConnect VPN protocol (ZJU RVPN client) | 838 | 🟢 | Go |
 | [openconnect](https://github.com/dlenski/openconnect) | OpenConnect client extended to support Palo Alto Networks' GlobalProtect VPN | 689 | 🟡 |  |
 | [NJUConnect](https://github.com/lyc8503/NJUConnect) | Go reimplementation of the Sangfor EasyConnect VPN protocol for NJU | 624 | 🗄️ | Go |
-| [snx-rs](https://github.com/ancwrd1/snx-rs) | Open Source Client For Check Point VPN Tunnels | 549 | 🟢 | Rust |
+| [snx-rs](https://github.com/ancwrd1/snx-rs) | Open Source Client For Check Point VPN Tunnels | 548 | 🟢 | Rust |
 | [gp-saml-gui](https://github.com/dlenski/gp-saml-gui) | Interactively authenticate to GlobalProtect VPNs that require SAML | 384 | 🟡 | Python |
 | [openconnect-sso](https://github.com/vlaci/openconnect-sso) | Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication to Cisco SSL-VPNs | 379 | 🟡 | Python |
-| [radmin-vpn-linux](https://github.com/baptisterajaut/radmin-vpn-linux) | Runs Radmin VPN on Linux with a custom driver and TAP bridge | 287 | 🟢 | C |
+| [radmin-vpn-linux](https://github.com/baptisterajaut/radmin-vpn-linux) | Runs Radmin VPN on Linux with a custom driver and TAP bridge | 290 | 🟢 | C |
 | [openfortivpn-webview](https://github.com/gm-vm/openfortivpn-webview) | Opens a browser webview to complete Fortinet SAML login and hand the session cookie to openfortivpn | 137 | 🟢 | C++ |
 | [snell-server-reversed](https://github.com/icpz/snell-server-reversed) | Reverse engineered Surge Snell proxy server | 137 | 🔴 | C++ |
 | [juniper-vpn-py](https://github.com/russdill/juniper-vpn-py) | Python Juniper VPN Authenticator | 113 | 🔴 | Python |
