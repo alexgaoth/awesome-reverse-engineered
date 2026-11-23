@@ -928,5 +928,29 @@
   "name": "Pokémon Colosseum decomp",
   "removed": "2026-11-21",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/0oAstro/codex-openai-proxy",
+  "name": "codex-openai-proxy",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/jakka351/Barra-in-a-Beamer",
+  "name": "Barra-in-a-Beamer",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/jakka351/FG-Falcon",
+  "name": "FG-Falcon",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/elprogramadorloco-arch/fuc-recomp",
+  "name": "fuc-recomp",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
  }
 ]
