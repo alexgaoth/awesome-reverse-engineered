@@ -952,5 +952,17 @@
   "name": "fuc-recomp",
   "removed": "2026-11-23",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/gbulog/pcairplay",
+  "name": "pcairplay",
+  "removed": "2026-11-24",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/RYF5584/AndroidWXCloudFuncHook",
+  "name": "AndroidWXCloudFuncHook",
+  "removed": "2026-11-24",
+  "reason": "not found on GitHub"
  }
 ]
