@@ -964,5 +964,41 @@
   "name": "AndroidWXCloudFuncHook",
   "removed": "2026-11-24",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/muki01/BMW_IBus_KBus",
+  "name": "BMW_IBus_KBus",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/muki01/OBD2_KLine_Library",
+  "name": "OBD2_KLine_Library",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/muki01/VAG_KW1281",
+  "name": "VAG_KW1281",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/horizon-rust/horizon",
+  "name": "horizon",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/jmacato/ZoidsSagaOneDecomp",
+  "name": "Zoids Saga decomp",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/gonzaloberteri/ygofm-decomp",
+  "name": "Yu-Gi-Oh! Forbidden Memories decomp",
+  "removed": "2026-11-25",
+  "reason": "not found on GitHub"
  }
 ]
