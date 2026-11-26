@@ -14,36 +14,36 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [slack-term](https://github.com/jpbruinsslot/slack-term) | Slack client for the terminal | 6,612 | 🟡 | Go |
-| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) | Unofficial Microsoft Teams desktop client for Linux (Electron) | 5,257 | 🟢 | JavaScript |
-| [zapfast](https://github.com/crmne/zapfast) | Fast native WhatsApp client in Rust and egui built on a reverse-engineered protocol library | 5,069 | 🟢 | Rust |
-| [Aliucord](https://github.com/Aliucord/Aliucord) | Mod for the Discord Android app with plugin support | 4,944 | 🟢 | Kotlin |
+| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) | Unofficial Microsoft Teams desktop client for Linux (Electron) | 5,260 | 🟢 | JavaScript |
+| [zapfast](https://github.com/crmne/zapfast) | Fast native WhatsApp client in Rust and egui built on a reverse-engineered protocol library | 5,106 | 🟢 | Rust |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | Mod for the Discord Android app with plugin support | 4,946 | 🟢 | Kotlin |
 | [dingtalk (desktop)](https://github.com/nashaofu/dingtalk) | Unofficial DingTalk desktop client for Windows, Linux and macOS built on the web version | 2,801 | 🗄️ | JavaScript |
-| [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) | Fully native Discord client for macOS built in Swift | 2,763 | 🟢 |  |
-| [wee-slack](https://github.com/wee-slack/wee-slack) | WeeChat script for Slack with threads, reactions and read-marker sync | 2,618 | 🟢 | Python |
+| [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) | Fully native Discord client for macOS built in Swift | 2,762 | 🟢 |  |
+| [wee-slack](https://github.com/wee-slack/wee-slack) | WeeChat script for Slack with threads, reactions and read-marker sync | 2,619 | 🟢 | Python |
 | [sclack](https://github.com/haskellcamargo/sclack) | CLI/TUI client for Slack | 2,475 | 🔴 | Python |
-| [abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client in C++/GTK3 with voice support | 2,232 | 🟢 | C++ |
-| [nchat](https://github.com/d99kris/nchat) | Terminal messaging client for Telegram, WhatsApp (whatsmeow) and Signal | 2,034 | 🟢 | C++ |
-| [Bunny](https://github.com/bunny-mod/Bunny) | Client modification for the Discord mobile app | 1,744 | 🗄️ | TypeScript |
+| [abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client in C++/GTK3 with voice support | 2,229 | 🟢 | C++ |
+| [nchat](https://github.com/d99kris/nchat) | Terminal messaging client for Telegram, WhatsApp (whatsmeow) and Signal | 2,035 | 🟢 | C++ |
+| [Bunny](https://github.com/bunny-mod/Bunny) | Client modification for the Discord mobile app | 1,746 | 🗄️ | TypeScript |
 | [cordless](https://github.com/Bios-Marcel/cordless) | Discord terminal client (archived) | 1,693 | 🗄️ | Go |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | Mod for Discord's mobile apps (React Native) | 1,469 | 🗄️ | TypeScript |
-| [emacs-slack](https://github.com/emacs-slack/emacs-slack) | Slack client for Emacs | 1,237 | 🟢 | Emacs Lisp |
-| [powercord](https://github.com/powercord-org/powercord) | Lightweight Discord client mod focused on simplicity and performance | 1,190 | 🔴 | JavaScript |
-| [whatscli](https://github.com/normen/whatscli) | Command-line WhatsApp client built on reverse-engineered WhatsApp Web protocol | 1,090 | 🟢 | Go |
-| [endcord](https://github.com/sparklost/endcord) | Feature-rich Discord TUI client | 1,042 | 🟢 | Python |
+| [emacs-slack](https://github.com/emacs-slack/emacs-slack) | Slack client for Emacs | 1,238 | 🟢 | Emacs Lisp |
+| [powercord](https://github.com/powercord-org/powercord) | Lightweight Discord client mod focused on simplicity and performance | 1,189 | 🔴 | JavaScript |
+| [whatscli](https://github.com/normen/whatscli) | Command-line WhatsApp client built on reverse-engineered WhatsApp Web protocol | 1,091 | 🟢 | Go |
+| [endcord](https://github.com/sparklost/endcord) | Feature-rich Discord TUI client | 1,043 | 🟢 | Python |
 | [GoofCord](https://github.com/Milkshiift/GoofCord) | Configurable, privacy-minded third-party Discord client | 1,023 | 🟢 | TypeScript |
 | [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) | Console Facebook Messenger client using reverse-engineered web endpoints | 765 | 🔴 | JavaScript |
 | [shelter](https://github.com/uwu/shelter) | Discord client mod designed to survive Discord client updates | 664 | 🟢 | TypeScript |
 | [gtkcord3](https://github.com/diamondburned/gtkcord3) | GTK3 Discord client in Go (predecessor of Dissent) | 610 | 🗄️ | Go |
 | [GitterMobile](https://github.com/apiko-dev/GitterMobile) | Unofficial Gitter.im chat client for iOS and Android (React Native) | 604 | 🔴 | JavaScript |
-| [Jared](https://github.com/ZekeSnider/Jared) | Extensible iMessage chat bot for macOS written in Swift | 582 | 🔴 | Swift |
+| [Jared](https://github.com/ZekeSnider/Jared) | Extensible iMessage chat bot for macOS written in Swift | 581 | 🔴 | Swift |
 | [Discline](https://github.com/mitchweaver/Discline) | Terminal Discord client in Python | 566 | 🗄️ | Python |
-| [discord-lite](https://github.com/dosdude1/discord-lite) | Ultra-lightweight native Discord client for vintage and modern Mac OS | 562 | 🟡 | Objective-C |
+| [discord-lite](https://github.com/dosdude1/discord-lite) | Ultra-lightweight native Discord client for vintage and modern Mac OS | 563 | 🟡 | Objective-C |
 | [Aerochat](https://github.com/not-nullptr/Aerochat) | Native Windows Live Messenger 2009-themed Discord client | 541 | 🗄️ | C# |
 | [Unofficial ProtonMail Desktop](https://github.com/unofficial-protonmail-desktop/application) | Unofficial Electron desktop client for ProtonMail | 527 | 🗄️ | JavaScript |
-| [slk](https://github.com/gammons/slk) | Fast Slack TUI client | 486 | 🟢 | Go |
+| [slk](https://github.com/gammons/slk) | Fast Slack TUI client | 489 | 🟢 | Go |
 | [discord-j2me](https://github.com/gtrxAC/discord-j2me) | Discord client for Java ME (MIDP) feature phones | 457 | 🟢 | Java |
 | [Messer](https://github.com/mjkaufer/Messer) | Command-line messaging for Facebook Messenger | 449 | 🔴 | JavaScript |
-| [Unicord](https://github.com/UnicordDev/Unicord) | Open-source Discord client for Windows 10 and Windows Phone 10 | 417 | 🟢 | C# |
+| [Unicord](https://github.com/UnicordDev/Unicord) | Open-source Discord client for Windows 10 and Windows Phone 10 | 418 | 🟢 | C# |
 | [accord](https://github.com/tealbathingsuit/accord) | Native Discord client for modern Macs written in Swift | 416 | 🟡 | Swift |
 | [Quarrel](https://github.com/WindowsAppCommunity/Quarrel) | Discord client for Windows and Xbox with voice chat support | 360 | 🗄️ | C# |
 | [moonlight](https://github.com/moonlight-mod/moonlight) | Discord client mod with webpack module patching and extensions | 358 | 🟢 | TypeScript |
@@ -59,23 +59,23 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [wptui](https://github.com/Andiveli/wptui) | Keyboard-driven terminal WhatsApp client (Ratatui + whatsmeow) | 204 | 🟢 | Rust |
 | [MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) | iMessage client for classic Macintosh (System 2.0 to Mac OS 9.2.2) | 198 | 🔴 | C |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS | 187 | 🔴 | Python |
-| [scope](https://github.com/scopeclient/scope) | Native Discord client for power users | 184 | 🟢 | Rust |
-| [SakuraCord](https://github.com/SakuraCordApp/SakuraCord) | Native macOS Discord client in Swift and SwiftUI | 177 | 🟢 | Swift |
+| [scope](https://github.com/scopeclient/scope) | Native Discord client for power users | 185 | 🟢 | Rust |
+| [SakuraCord](https://github.com/SakuraCordApp/SakuraCord) | Native macOS Discord client in Swift and SwiftUI | 176 | 🟢 | Swift |
 | [naticord](https://github.com/Naticord/naticord) | Native Discord client in Python/Qt | 172 | 🟢 | C# |
 | [Fast-Discord](https://github.com/EnyoYoen/Fast-Discord) | Discord client in C++ and Qt | 163 | 🗄️ | C++ |
 | [Qtcord](https://github.com/mak448a/Qtcord) | Lightweight native Discord client built with Qt | 163 | 🟢 | Python |
 | [6cord](https://github.com/diamondburned/6cord) | Terminal Discord client in Go (mirrored from GitLab) | 157 | 🗄️ | Go |
-| [unbound](https://github.com/marioparaschiv/unbound) | Cross-platform Discord mobile client modification | 146 | 🟢 | TypeScript |
+| [unbound](https://github.com/marioparaschiv/unbound) | Cross-platform Discord mobile client modification | 150 | 🟢 | TypeScript |
 | [TriCord](https://github.com/2b-zipper/TriCord) | Discord client for the Nintendo 3DS | 137 | 🟢 | C++ |
 | [disrust](https://github.com/DvorakDwarf/disrust) | Discord TUI client written in Rust | 122 | 🗄️ | Rust |
 | [reliable-discord-client-irc-daemon](https://github.com/mk-fg/reliable-discord-client-irc-daemon) | rdircd: use Discord through any IRC client via the user gateway API | 100 | 🟢 | Python |
 | [lusid](https://github.com/lsd-so/lusid) | Self-hosted iMessage client | 84 | 🟡 | Python |
 | [slack-tui](https://github.com/hikalium/slack-tui) | TUI-based client for Slack | 81 | 🔴 | JavaScript |
 | [openmessage](https://github.com/MaxGhenis/openmessage) | Local-first Google Messages and WhatsApp inbox for Mac, web and MCP | 74 | 🟢 | Go |
+| [client](https://github.com/oxidezap/client) | Unofficial WhatsApp client in Rust built on whatsapp-rust | 57 | 🟢 | Rust |
 | [Talk32](https://github.com/DoaJCBlogger/Talk32) | Lightweight unofficial Discord client | 57 | 🟢 | C |
-| [client](https://github.com/oxidezap/client) | Unofficial WhatsApp client in Rust built on whatsapp-rust | 56 | 🟢 | Rust |
 | [Discord4KaiOS](https://github.com/cyan-2048/Discord4KaiOS) | Unofficial Discord client for KaiOS | 54 | 🟡 | TypeScript |
-| [Line-GTK](https://github.com/MidnightTale/Line-GTK) | Unofficial native LINE client for Linux using a linejs protocol sidecar | 46 | 🟢 | Rust |
+| [Line-GTK](https://github.com/MidnightTale/Line-GTK) | Unofficial native LINE client for Linux using a linejs protocol sidecar | 47 | 🟢 | Rust |
 | [whats4linux](https://github.com/lugvitc/whats4linux) | Unofficial native WhatsApp client for Linux | 46 | 🟢 | Go |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Discord client for the Nintendo Switch | 38 | 🔴 | C++ |
 | [Cordless](https://github.com/Brendonm17/Cordless) | Unofficial Discord client for the PS Vita | 23 | 🟢 | C |
@@ -91,58 +91,58 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [spotify-tui](https://github.com/Rigellute/spotify-tui) | Spotify for the terminal in Rust, built on the Spotify Web API | 19,437 | 🟡 | Rust |
-| [nuclear](https://github.com/nukeop/nuclear) | Streaming music player that resolves tracks from YouTube, SoundCloud and other free sources | 19,000 | 🟢 | TypeScript |
-| [SimpMusic](https://github.com/maxrave-dev/SimpMusic) | Cross-platform music app using YouTube Music's private API as its backend | 13,877 | 🟢 | Kotlin |
-| [ViMusic](https://github.com/vfsfitvnm/ViMusic) | Android app streaming music from YouTube Music via the InnerTube API | 9,464 | 🗄️ | Kotlin |
-| [ArchiveTune](https://github.com/rukamori/ArchiveTune) | Android music player with local files and YouTube Music streaming | 8,826 | 🟢 | Kotlin |
-| [BitChord](https://github.com/kushagrasinghx/BitChord) | YouTube Music client with Apple Music-inspired design | 7,413 | 🟢 | Kotlin |
-| [namida](https://github.com/namidaco/namida) | Flutter music and video player with built-in YouTube support via scraping | 6,936 | 🟢 | Dart |
-| [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | Desktop app for YouTube Music with remote control and Discord presence integrations | 6,779 | 🟢 | TypeScript |
-| [OuterTune](https://github.com/OuterTune/OuterTune) | Material 3 Android player with local files and YouTube Music (InnerTune fork) | 5,466 | 🟢 | Kotlin |
-| [harmonoid](https://github.com/harmonoid/harmonoid) | Cross-platform music player with library management and YouTube Music streaming | 4,834 | 🟢 | Dart |
-| [Musify](https://github.com/gokadzev/Musify) | Android music streaming app backed by YouTube without an official API key | 4,485 | 🟢 | Dart |
-| [vivi-music](https://github.com/vivizzz007/vivi-music) | Material 3 YouTube Music client for Android using the InnerTube API | 4,272 | 🟢 | Kotlin |
-| [LastWave-Native](https://github.com/Clash-Projects/LastWave-Native) | YouTube Music client with smart playlist generation and synced lyrics | 3,344 | 🟢 | Kotlin |
+| [spotify-tui](https://github.com/Rigellute/spotify-tui) | Spotify for the terminal in Rust, built on the Spotify Web API | 19,439 | 🟡 | Rust |
+| [nuclear](https://github.com/nukeop/nuclear) | Streaming music player that resolves tracks from YouTube, SoundCloud and other free sources | 19,014 | 🟢 | TypeScript |
+| [SimpMusic](https://github.com/maxrave-dev/SimpMusic) | Cross-platform music app using YouTube Music's private API as its backend | 13,921 | 🟢 | Kotlin |
+| [ViMusic](https://github.com/vfsfitvnm/ViMusic) | Android app streaming music from YouTube Music via the InnerTube API | 9,465 | 🗄️ | Kotlin |
+| [ArchiveTune](https://github.com/rukamori/ArchiveTune) | Android music player with local files and YouTube Music streaming | 8,864 | 🟢 | Kotlin |
+| [BitChord](https://github.com/kushagrasinghx/BitChord) | YouTube Music client with Apple Music-inspired design | 7,451 | 🟢 | Kotlin |
+| [namida](https://github.com/namidaco/namida) | Flutter music and video player with built-in YouTube support via scraping | 6,944 | 🟢 | Dart |
+| [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | Desktop app for YouTube Music with remote control and Discord presence integrations | 6,780 | 🟢 | TypeScript |
+| [OuterTune](https://github.com/OuterTune/OuterTune) | Material 3 Android player with local files and YouTube Music (InnerTune fork) | 5,469 | 🟢 | Kotlin |
+| [harmonoid](https://github.com/harmonoid/harmonoid) | Cross-platform music player with library management and YouTube Music streaming | 4,837 | 🟢 | Dart |
+| [Musify](https://github.com/gokadzev/Musify) | Android music streaming app backed by YouTube without an official API key | 4,484 | 🟢 | Dart |
+| [vivi-music](https://github.com/vivizzz007/vivi-music) | Material 3 YouTube Music client for Android using the InnerTube API | 4,281 | 🟢 | Kotlin |
+| [LastWave-Native](https://github.com/Clash-Projects/LastWave-Native) | YouTube Music client with smart playlist generation and synced lyrics | 3,380 | 🟢 | Kotlin |
 | [Harmony-Music](https://github.com/anandnet/Harmony-Music) | Cross-platform Flutter app streaming YouTube Music via its internal API | 3,090 | 🟢 | Dart |
-| [Echo-Music](https://github.com/EchoMusicApp/Echo-Music) | YouTube Music client for Android | 2,768 | 🟢 | Kotlin |
-| [muffon](https://github.com/staniel359/muffon) | Multi-source desktop music streaming client (YouTube, SoundCloud, Bandcamp, Deezer and more) | 2,274 | 🟢 | Vue |
-| [limusic](https://github.com/SimoHypers/limusic) | Native desktop YouTube Music client (Tauri + Rust) with libmpv playback | 2,226 | 🟢 | Rust |
-| [spotatui](https://github.com/LargeModGames/spotatui) | Terminal music player in Rust with native Spotify streaming via librespot (spotify-tui successor) | 1,864 | 🟢 | Rust |
+| [Echo-Music](https://github.com/EchoMusicApp/Echo-Music) | YouTube Music client for Android | 2,785 | 🟢 | Kotlin |
+| [muffon](https://github.com/staniel359/muffon) | Multi-source desktop music streaming client (YouTube, SoundCloud, Bandcamp, Deezer and more) | 2,275 | 🟢 | Vue |
+| [limusic](https://github.com/SimoHypers/limusic) | Native desktop YouTube Music client (Tauri + Rust) with libmpv playback | 2,239 | 🟢 | Rust |
+| [spotatui](https://github.com/LargeModGames/spotatui) | Terminal music player in Rust with native Spotify streaming via librespot (spotify-tui successor) | 1,868 | 🟢 | Rust |
 | [spotify-qt](https://github.com/kraxarn/spotify-qt) | Lightweight Qt Spotify client using librespot/spotifyd for playback | 1,498 | 🟢 | C++ |
 | [spmp](https://github.com/sayaka-sh/spmp) | Customisable YouTube Music client in Compose Multiplatform (succeeded by Kanon) | 1,455 | 🟢 | Kotlin |
 | [yandex-music-app](https://github.com/juvirez/yandex-music-app) | Unofficial Yandex Music desktop app for macOS | 1,428 | 🔴 | JavaScript |
-| [Kreate](https://github.com/knighthat/Kreate) | Multilingual YouTube Music frontend for Android focused on performance | 1,167 | 🟢 | Kotlin |
-| [ytmdesktop2](https://github.com/Venipa/ytmdesktop2) | Unofficial YouTube Music desktop app with Discord RPC and Last.fm support | 1,149 | 🟢 | TypeScript |
-| [refreezer](https://github.com/DJDoubleD/refreezer) | Alternative Deezer streaming client for Android, based on Freezer | 1,075 | 🟡 | Dart |
+| [Kreate](https://github.com/knighthat/Kreate) | Multilingual YouTube Music frontend for Android focused on performance | 1,168 | 🟢 | Kotlin |
+| [ytmdesktop2](https://github.com/Venipa/ytmdesktop2) | Unofficial YouTube Music desktop app with Discord RPC and Last.fm support | 1,150 | 🟢 | TypeScript |
+| [refreezer](https://github.com/DJDoubleD/refreezer) | Alternative Deezer streaming client for Android, based on Freezer | 1,074 | 🟡 | Dart |
 | [retro-ipod-spotify-client](https://github.com/dupontgu/retro-ipod-spotify-client) | Software for sPot, a 4th-gen click-wheel iPod turned into a full Spotify client | 1,050 | 🔴 | Python |
 | [mopidy-spotify](https://github.com/mopidy/mopidy-spotify) | Mopidy extension for playing music from Spotify | 984 | 🟢 | Python |
 | [Mob](https://github.com/zenghongtu/Mob) | Desktop Ximalaya client for macOS, Windows and Linux | 952 | 🗄️ | TypeScript |
 | [gyawun_music](https://github.com/sheikhhaziq/gyawun_music) | Ad-free YouTube Music client for Android built with Flutter | 815 | 🟢 | Dart |
 | [Muzza](https://github.com/Maloy-Android/Muzza) | Material 3 YouTube Music client for Android | 714 | 🟢 | Kotlin |
-| [high-tide](https://github.com/Nokse22/high-tide) | Libadwaita TIDAL client for Linux built on the unofficial tidalapi library | 687 | 🟢 | Python |
+| [high-tide](https://github.com/Nokse22/high-tide) | Libadwaita TIDAL client for Linux built on the unofficial tidalapi library | 689 | 🟢 | Python |
 | [cspot](https://github.com/feelfreelinux/cspot) | Spotify Connect player for embedded devices such as ESP32 (C++ librespot port) | 649 | 🟡 | C++ |
 | [deezer-linux](https://github.com/aunetx/deezer-linux) | Linux port of the Deezer desktop app | 642 | 🟢 | CSS |
-| [TidaLuna](https://github.com/Inrixia/TidaLuna) | Client mod for the TIDAL desktop app, successor to Neptune | 622 | 🟢 | TypeScript |
-| [SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) | Unofficial SoundCloud desktop client | 602 | 🟢 | TypeScript |
+| [TidaLuna](https://github.com/Inrixia/TidaLuna) | Client mod for the TIDAL desktop app, successor to Neptune | 623 | 🟢 | TypeScript |
+| [SoundCloud-Desktop](https://github.com/zxcloli666/SoundCloud-Desktop) | Unofficial SoundCloud desktop client | 605 | 🟢 | TypeScript |
 | [Luoo.qy](https://github.com/elliothux/Luoo.qy) | Third-party desktop client for the Luoo indie music community | 537 | 🗄️ | TypeScript |
 | [pithos](https://github.com/pithos/pithos) | Pandora Radio desktop client for Linux using the private Pandora API | 519 | 🟢 | Python |
-| [Petal](https://github.com/ilime/Petal) | Desktop client for Douban FM | 456 | 🔴 | JavaScript |
-| [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) | Terminal Spotify client for macOS and Linux | 453 | 🟢 | Go |
-| [spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) | Web interface and Spotify Connect receiver built on the embedded Spotify library | 436 | 🔴 | Python |
+| [Petal](https://github.com/ilime/Petal) | Desktop client for Douban FM | 455 | 🔴 | JavaScript |
+| [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) | Terminal Spotify client for macOS and Linux | 454 | 🟢 | Go |
+| [spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) | Web interface and Spotify Connect receiver built on the embedded Spotify library | 435 | 🔴 | Python |
 | [riff](https://github.com/Riff-Developers/riff) | Native Spotify client for the GNOME desktop built on librespot | 389 | 🟢 | Rust |
 | [Yaamp](https://github.com/umnik1/yaamp) | Winamp-style audio player with built-in Yandex Music streaming | 389 | 🟢 | TypeScript |
 | [jetispot](https://github.com/iTaysonLab/jetispot) | Experimental unofficial Spotify Android client on librespot-java and Jetpack Compose | 383 | 🗄️ | Kotlin |
 | [YTubic](https://github.com/NUber-dev/YTubic) | YouTube Music desktop client for Windows, macOS and Linux | 336 | 🟢 | TypeScript |
 | [plugin.audio.spotify](https://github.com/kodi-community-addons/plugin.audio.spotify) | Unofficial Spotify add-on for Kodi built on librespot | 316 | 🔴 | Python |
 | [spop](https://github.com/Schnouki/spop) | Spotify client running as an mpd-like daemon | 249 | 🗄️ | C |
-| [Waves](https://github.com/iamprivacy/Waves) | Native desktop app for your own TIDAL account via the private API | 237 | 🟢 | Python |
-| [Outify](https://github.com/iTomKo/Outify) | Third-party Android Spotify client with Material 3 using librespot (Rust) | 226 | 🟢 | Kotlin |
+| [Waves](https://github.com/iamprivacy/Waves) | Native desktop app for your own TIDAL account via the private API | 240 | 🟢 | Python |
+| [Outify](https://github.com/iTomKo/Outify) | Third-party Android Spotify client with Material 3 using librespot (Rust) | 227 | 🟢 | Kotlin |
 | [Drip](https://github.com/Spsden/Drip) | YouTube Music client for desktop | 223 | 🟡 | Dart |
 | [tune](https://github.com/fully-forged/tune) | Streamlined terminal Spotify client and browser in Elixir | 213 | 🗄️ | Elixir |
 | [hiresTI](https://github.com/yelanxin/hiresTI) | High-fidelity TIDAL client for Linux with USB passthrough and bit-perfect playback | 190 | 🟢 | Python |
 | [rhythmbox-plugin-yandex-music](https://github.com/feschukov/rhythmbox-plugin-yandex-music) | Rhythmbox plugin for Yandex Music | 189 | 🗄️ | Python |
-| [Spotifly](https://github.com/ralph/Spotifly) | Native Spotify client for macOS | 183 | 🟢 | Swift |
+| [Spotifly](https://github.com/ralph/Spotifly) | Native Spotify client for macOS | 184 | 🟢 | Swift |
 | [Saturn-PC](https://github.com/Sheathed/Saturn-PC) | Electron-based Deezer desktop client derived from Freezer | 135 | 🗄️ | Vue |
 | [hifi.rs](https://github.com/iamdb/hifi.rs) | High-resolution Qobuz streamer and TUI built in Rust | 132 | 🟡 | Rust |
 | [doubanfm-py](https://github.com/nekocode/doubanfm-py) | Third-party Douban FM player for the liked-songs channel | 130 | 🔴 | Python |
@@ -176,16 +176,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [OldTwitter](https://github.com/dimdenGD/OldTwitter) | Extension restoring the 2015/2018 Twitter layout over Twitter's internal API | 2,769 | 🟢 | JavaScript |
-| [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) | Brings back old TweetDeck by driving Twitter's internal API | 2,457 | 🟢 | JavaScript |
+| [OldTwitter](https://github.com/dimdenGD/OldTwitter) | Extension restoring the 2015/2018 Twitter layout over Twitter's internal API | 2,770 | 🟢 | JavaScript |
+| [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) | Brings back old TweetDeck by driving Twitter's internal API | 2,459 | 🟢 | JavaScript |
 | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) | Instagram CLI and TUI client for DMs and feeds via the private API | 2,217 | 🟢 | TypeScript |
 | [Monkey](https://github.com/coderyi/Monkey) | Unofficial GitHub client for iOS that shows rankings of developers and repositories | 1,776 | 🔴 | Objective-C |
-| [DioHub](https://github.com/namanshergill/diohub) | Unofficial GitHub mobile client for Android and iOS, built with Flutter | 985 | 🟢 | Dart |
+| [DioHub](https://github.com/namanshergill/diohub) | Unofficial GitHub mobile client for Android and iOS, built with Flutter | 986 | 🟢 | Dart |
 | [geddit-app](https://github.com/kaangiray26/geddit-app) | Android Reddit client using Reddit's public JSON feed instead of the API | 921 | 🟡 | Vue |
 | [Elephant](https://github.com/Freelander/Elephant) | Unofficial Android client for the PHPHub community | 906 | 🔴 | Java |
 | [MoeList](https://github.com/axiel7/MoeList) | Unofficial Android client for MyAnimeList | 660 | 🗄️ | Kotlin |
-| [AniHyou](https://github.com/axiel7/AniHyou-android) | Unofficial Android client for AniList | 641 | 🟢 | Kotlin |
-| [Otraku](https://github.com/lotusprey/otraku) | Unofficial AniList client for Android and iOS, built with Flutter | 463 | 🟢 | Dart |
+| [AniHyou](https://github.com/axiel7/AniHyou-android) | Unofficial Android client for AniList | 640 | 🟢 | Kotlin |
+| [Otraku](https://github.com/lotusprey/otraku) | Unofficial AniList client for Android and iOS, built with Flutter | 464 | 🟢 | Dart |
 | [ModernDeck](https://github.com/dangeredwolf/ModernDeck) | Desktop Twitter client built as a deep modification of TweetDeck | 315 | 🗄️ | TypeScript |
 | [Winsta11](https://github.com/NGame1/Winsta11) | Unofficial Instagram client for Windows (PC, Xbox, Mobile) via the private API | 127 | 🟡 | C# |
 | [OpenArtemis](https://github.com/ejbills/OpenArtemis) | Privacy-focused SwiftUI Reddit client that scrapes Reddit instead of using the API | 98 | 🗄️ | Swift |
@@ -195,31 +195,31 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube player and downloader that needs no YouTube API key | 8,814 | 🟢 | Python |
-| [TwitchDownloader](https://github.com/lay295/TwitchDownloader) | Twitch VOD/clip downloader with chat download, render and replay | 4,142 | 🟢 | C# |
-| [Flow](https://github.com/Flow-Tube/Flow) | YouTube and YouTube Music client for Android with local recommendations | 3,729 | 🟢 | Kotlin |
-| [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) | AFK-mines Twitch drops via the private GQL API with automatic claiming | 3,475 | 🟢 | Python |
-| [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) | Multi-platform Twitch.tv browser that plays streams through Streamlink | 2,879 | 🟢 | JavaScript |
-| [TwitchLeecher](https://github.com/Franiac/TwitchLeecher) | Twitch broadcast downloader for Windows | 2,786 | 🟡 | C# |
-| [chatterino2](https://github.com/Chatterino/chatterino2) | Native desktop chat client for Twitch | 2,608 | 🟢 | C++ |
+| [yewtube](https://github.com/mps-youtube/yewtube) | Terminal YouTube player and downloader that needs no YouTube API key | 8,815 | 🟢 | Python |
+| [TwitchDownloader](https://github.com/lay295/TwitchDownloader) | Twitch VOD/clip downloader with chat download, render and replay | 4,148 | 🟢 | C# |
+| [Flow](https://github.com/Flow-Tube/Flow) | YouTube and YouTube Music client for Android with local recommendations | 3,750 | 🟢 | Kotlin |
+| [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) | AFK-mines Twitch drops via the private GQL API with automatic claiming | 3,476 | 🟢 | Python |
+| [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) | Multi-platform Twitch.tv browser that plays streams through Streamlink | 2,880 | 🟢 | JavaScript |
+| [TwitchLeecher](https://github.com/Franiac/TwitchLeecher) | Twitch broadcast downloader for Windows | 2,787 | 🟡 | C# |
+| [chatterino2](https://github.com/Chatterino/chatterino2) | Native desktop chat client for Twitch | 2,611 | 🟢 | C++ |
 | [yt-x](https://github.com/Benexl/yt-x) | POSIX script to browse YouTube and other yt-dlp sites from fzf or rofi | 1,695 | 🟢 | Shell |
-| [plx-native](https://github.com/plxnative/plx-native) | Unofficial native Plex client for LG webOS TVs | 1,301 | 🟢 | Rust |
+| [plx-native](https://github.com/plxnative/plx-native) | Unofficial native Plex client for LG webOS TVs | 1,304 | 🟢 | Rust |
 | [Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) | Script that watches Twitch streams via private APIs to earn channel points | 1,276 | 🟢 | Python |
-| [clipious](https://github.com/lamarios/clipious) | Android client for Invidious instances (YouTube without Google) | 1,257 | 🗄️ | Dart |
+| [clipious](https://github.com/lamarios/clipious) | Android client for Invidious instances (YouTube without Google) | 1,258 | 🗄️ | Dart |
 | [chat-downloader](https://github.com/xenova/chat-downloader) | Retrieve chat messages from YouTube, Twitch and others livestreams without authentication | 1,197 | 🟡 | Python |
-| [youtube-tui](https://github.com/Siriusmart/youtube-tui) | YouTube terminal UI written in Rust, no API key required | 1,193 | 🟢 | Rust |
+| [youtube-tui](https://github.com/Siriusmart/youtube-tui) | YouTube terminal UI written in Rust, no API key required | 1,194 | 🟢 | Rust |
 | [frosty](https://github.com/tommyxchow/frosty) | Mobile Twitch client for iOS and Android with 7TV, BTTV and FFZ emote support | 1,086 | 🟢 | Dart |
-| [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube) | Kodi add-on for watching YouTube content | 985 | 🟢 | Python |
-| [chatty](https://github.com/chatty/chatty) | Twitch chat client written in Java | 895 | 🟢 | Java |
-| [playlet](https://github.com/iBicha/playlet) | Unofficial privacy-focused YouTube client for Roku | 823 | 🟢 | BrighterScript |
+| [plugin.video.youtube](https://github.com/anxdpanic/plugin.video.youtube) | Kodi add-on for watching YouTube content | 986 | 🟢 | Python |
+| [chatty](https://github.com/chatty/chatty) | Twitch chat client written in Java | 896 | 🟢 | Java |
+| [playlet](https://github.com/iBicha/playlet) | Unofficial privacy-focused YouTube client for Roku | 824 | 🟢 | BrighterScript |
 | [twitch-dl](https://github.com/ihabunek/twitch-dl) | CLI for downloading Twitch VODs and clips via Twitch's GraphQL API | 759 | 🟢 | Python |
 | [TwitchLink](https://github.com/devhotteok/TwitchLink) | GUI downloader and recorder for Twitch streams, videos and clips | 716 | 🟢 | Python |
-| [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) | Twitch client for Android TV and web-based systems | 700 | 🟢 | JavaScript |
+| [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) | Twitch client for Android TV and web-based systems | 699 | 🟢 | JavaScript |
 | [twitch-tui](https://github.com/Xithrius/twitch-tui) | Twitch chat in the terminal | 637 | 🟢 | Rust |
 | [gnome-twitch](https://github.com/vinszent/gnome-twitch) | GNOME desktop client for watching Twitch | 438 | 🗄️ | C |
 | [minitube](https://github.com/flaviotordini/minitube) | Native desktop YouTube app (Qt) that works without a Google account | 396 | 🟡 | C++ |
 | [DankChat](https://github.com/flex3r/DankChat) | Android Twitch chat client with third-party emote support | 377 | 🟢 | Kotlin |
-| [Flow-Desktop](https://github.com/Flow-Tube/Flow-Desktop) | YouTube and YouTube Music client for desktop built with Rust | 316 | 🟢 | TypeScript |
+| [Flow-Desktop](https://github.com/Flow-Tube/Flow-Desktop) | YouTube and YouTube Music client for desktop built with Rust | 320 | 🟢 | TypeScript |
 | [orion](https://github.com/alamminsalo/orion) | Cross-platform Twitch.tv desktop client in Qt/QML | 309 | 🗄️ | C++ |
 | [youtube-webos-cobalt-adfree](https://github.com/RF1705/youtube-webos-cobalt-adfree) | Unofficial Cobalt-based YouTube client for webOS with SponsorBlock | 288 | 🟢 | C++ |
 | [Twitch-Drops-Bot](https://github.com/TychoTheTaco/Twitch-Drops-Bot) | Node.js bot that watches Twitch streams and claims drop rewards automatically | 286 | 🔴 | TypeScript |
@@ -228,7 +228,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [crunchyroll-tizen](https://github.com/jhassan8/crunchyroll-tizen) | Unofficial Crunchyroll app for Samsung Tizen TVs | 198 | 🟡 | JavaScript |
 | [ReactTube](https://github.com/Duell10111/ReactTube) | YouTube player for Apple TV using internal YouTube APIs | 198 | 🟢 | TypeScript |
 | [Pocket-Plays-for-Twitch](https://github.com/SebastianRask/Pocket-Plays-for-Twitch) | Open-source Twitch client for Android | 67 | 🔴 | Java |
-| [FlexTube](https://github.com/flexxxxer/FlexTube) | Alternative YouTube frontend for Android inspired by LibreTube | 59 | 🟢 | Shell |
+| [FlexTube](https://github.com/flexxxxer/FlexTube) | Alternative YouTube frontend for Android inspired by LibreTube | 60 | 🟢 | Shell |
 | [3Danmu](https://github.com/OakRoller/3Danmu) | Unofficial Bilibili client for the Nintendo 3DS with hardware decoding and danmaku | 54 | 🟢 | C |
 | [xcloud-cgtv](https://github.com/mistertest/xcloud-cgtv) | Unofficial Xbox Cloud Gaming client for Chromecast with Google TV | 37 | 🔴 | Java |
 | [KickTalk](https://github.com/KickTalkOrg/KickTalk) | Desktop chat client for Kick.com built with Electron | 35 | 🟢 | JavaScript |
