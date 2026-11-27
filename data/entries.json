@@ -146082,6 +146082,33 @@
   "added": "2026-10-11"
  },
  {
+  "name": "Spirited Drive",
+  "url": "https://github.com/BytesNRust/spirited-drive",
+  "desc": "Reimplementation of The Need for Speed SE (PC, 1996) for Windows and macOS, written by studying the original program; plays the original CD's data",
+  "category": "Game Decompilations & Reimplementations",
+  "subcategory": "Engine Reimplementations",
+  "stars": 1,
+  "archived": false,
+  "pushed": "2026-11-27",
+  "lang": "C",
+  "license": "GPL-3.0",
+  "topics": [
+   "game-engine",
+   "macos",
+   "need-for-speed",
+   "racing-game",
+   "reimplementation",
+   "retro-gaming",
+   "sdl3",
+   "nfs",
+   "open-source-game",
+   "source-port",
+   "tnfs",
+   "windows"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "name": "OpenNitemare3D",
   "url": "https://github.com/BBQGiraffe/OpenNitemare3D",
   "desc": "reimplementation of the 1994 FPS Nitemare 3D",
