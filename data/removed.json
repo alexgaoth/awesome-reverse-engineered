@@ -1006,5 +1006,11 @@
   "name": "adam",
   "removed": "2026-11-26",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/rkr35/drg",
+  "name": "drg (Deep Rock Galactic)",
+  "removed": "2026-11-27",
+  "reason": "not found on GitHub"
  }
 ]

@@ -20,11 +20,11 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [tinygrad](https://github.com/tinygrad/tinygrad) | ML framework whose extra/accel/ane holds reverse-engineered Apple Neural Engine work | 33,989 | 🟢 | Python |
+| [tinygrad](https://github.com/tinygrad/tinygrad) | ML framework whose extra/accel/ane holds reverse-engineered Apple Neural Engine work | 33,995 | 🟢 | Python |
 | [neural-engine](https://github.com/hollance/neural-engine) | Community documentation of the Apple Neural Engine and how Core ML uses it | 2,554 | 🟢 |  |
 | [muvm](https://github.com/AsahiLinux/muvm) | microVM runner used by Asahi to run x86 games with FEX on 4K-page hosts | 1,028 | 🟢 | Rust |
 | [linux-m1](https://github.com/corellium/linux-m1) | Linux kernel source tree | 872 | 🔴 | C |
-| [ane (Linux ANE driver)](https://github.com/eiln/ane) | Reverse-engineered Linux driver and userspace for the Apple Neural Engine | 549 | 🟡 | C |
+| [ane (Linux ANE driver)](https://github.com/eiln/ane) | Reverse-engineered Linux driver and userspace for the Apple Neural Engine | 550 | 🟡 | C |
 | [macvdmtool](https://github.com/AsahiLinux/macvdmtool) | Tool to send Apple USB-PD vendor-defined messages (serial/reboot) between Macs | 384 | 🟢 | C++ |
 | [asahi-audio](https://github.com/AsahiLinux/asahi-audio) | DSP and audio configuration for Apple Silicon Macs on Linux | 218 | 🟢 | Makefile |
 | [speakersafetyd](https://github.com/AsahiLinux/speakersafetyd) | Userspace speaker protection daemon for Apple Silicon Macs under Linux | 211 | 🟢 | Rust |
@@ -65,15 +65,15 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [fwupd](https://github.com/fwupd/fwupd) | Linux firmware updater with many reverse-engineered device update protocols | 4,240 | 🟢 | C |
+| [fwupd](https://github.com/fwupd/fwupd) | Linux firmware updater with many reverse-engineered device update protocols | 4,245 | 🟢 | C |
 | [MEAnalyzer](https://github.com/platomav/MEAnalyzer) | Intel/AMD engine firmware (ME, TXE, CSE, PSP) analysis tool | 1,356 | 🟢 | Python |
-| [flashrom](https://github.com/flashrom/flashrom) | Utility to read and write flash chips on mainboards, programmers and devices | 1,199 | 🟢 | C |
+| [flashrom](https://github.com/flashrom/flashrom) | Utility to read and write flash chips on mainboards, programmers and devices | 1,200 | 🟢 | C |
 | [efiXplorer](https://github.com/REhints/efiXplorer) | IDA plugin for UEFI firmware analysis and reverse engineering | 1,151 | 🟢 | C++ |
 | [UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) | Editor for UEFI setup IFR forms to expose hidden BIOS settings | 980 | 🟢 | TypeScript |
 | [skulls](https://github.com/merge/skulls) | Prebuilt coreboot images and flashing docs for ThinkPad laptops | 858 | 🟡 | C |
-| [PSPTool](https://github.com/PSPReverse/PSPTool) | Parses and modifies AMD Platform Security Processor firmware blobs | 728 | 🟢 | Python |
+| [PSPTool](https://github.com/PSPReverse/PSPTool) | Parses and modifies AMD Platform Security Processor firmware blobs | 729 | 🟢 | Python |
 | [IFRExtractor-RS](https://github.com/LongSoft/IFRExtractor-RS) | Extracts UEFI HII IFR setup forms into human-readable text | 503 | 🟢 | Rust |
-| [fiano](https://github.com/linuxboot/fiano) | Go tools and library for parsing and modifying UEFI firmware images | 377 | 🟢 | Go |
+| [fiano](https://github.com/linuxboot/fiano) | Go tools and library for parsing and modifying UEFI firmware images | 376 | 🟢 | Go |
 | [UEFI_RETool](https://github.com/yeggor/uefi_retool) | Tool for analysing UEFI firmware modules | 369 | 🗄️ | Python |
 | [Dasharo coreboot](https://github.com/Dasharo/coreboot) | Dasharo's coreboot fork with ports for commercial desktops and laptops | 158 | 🟢 | C |
 | [coreboot-configurator](https://github.com/StarLabsLtd/coreboot-configurator) | GUI to change coreboot CBFS settings via nvramtool | 102 | 🔴 | C++ |
@@ -96,7 +96,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [mesa-lima](https://github.com/yuq/mesa-lima) | Development tree of the Lima Mali-400 driver before upstream Mesa merge | 164 | 🔴 | C |
 | [radeon-tools](https://github.com/fail0verflow/radeon-tools) | AMD Radeon reverse engineering tools | 155 | 🔴 | Python |
 | [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) | Driver-layer GPU libraries and tests for the PS Vita's PowerVR SGX | 116 | 🟡 | C |
-| [dlss-nr-on-intel](https://github.com/Uzbekunknown/dlss-nr-on-intel) | Independent reimplementation of the DLSS neural rendering inference pass on an Intel iGPU | 101 | 🟢 | Python |
+| [dlss-nr-on-intel](https://github.com/Uzbekunknown/dlss-nr-on-intel) | Independent reimplementation of the DLSS neural rendering inference pass on an Intel iGPU | 103 | 🟢 | Python |
 | [grate](https://github.com/grate-driver/grate) | Reverse-engineering tools and docs for the NVIDIA Tegra 2/3 GPU (open Tegra graphics) | 91 | 🟢 | C |
 | [three-dlss-nr](https://github.com/bhouston/three-dlss-nr) | Three.js WebGPU port of OpenDLSS-NR, the reimplementation of NVIDIA's DLSS 5 neural renderer | 74 | 🟢 | TypeScript |
 | [linux_openpvrsgx](https://github.com/openpvrsgx-devgroup/linux_openpvrsgx) | Reshaping PowerVR SGX GPL kernel drivers for mainline Linux | 67 | 🟢 | C |
@@ -132,16 +132,16 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 |---|---|--:|:-:|---|
 | [Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) | Lightweight replacement for Lenovo Vantage and Hotkeys on Legion laptops | 7,525 | 🗄️ | C# |
 | [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) | Power, TDP and undervolt tuning for Intel/AMD laptops and handhelds | 2,950 | 🟢 | HLSL |
-| [Lenovo Legion Toolkit (community)](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) | Community continuation of Lenovo Legion Toolkit, a Vantage replacement for Legion laptops | 2,650 | 🟢 | C# |
+| [Lenovo Legion Toolkit (community)](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) | Community continuation of Lenovo Legion Toolkit, a Vantage replacement for Legion laptops | 2,656 | 🟢 | C# |
 | [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) | Windows tool for handheld PCs: controller emulation, gyro, TDP and fan control without vendor apps | 1,758 | 🟢 | C# |
 | [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) | Windows fan, overlay, power and Steam Controller emulation for the Steam Deck hardware | 1,147 | 🟡 | C# |
 | [alienfx-tools](https://github.com/T-Troll/alien-tools) | Open tools for Alienware lights, fans and power control, replacing AWCC | 898 | 🟢 | C++ |
-| [Thermal Control Center for Dell G15](https://github.com/AlexIII/tcc-g15) | Open-source alternative to Alienware Command Center for Dell G15 thermal modes | 862 | 🟢 | Python |
+| [Thermal Control Center for Dell G15](https://github.com/AlexIII/tcc-g15) | Open-source alternative to Alienware Command Center for Dell G15 thermal modes | 863 | 🟢 | Python |
 | [Div Acer Manager Max](https://github.com/PXDiv/Div-Acer-Manager-Max) | Linux GUI for Acer Predator/Nitro laptops, replicating NitroSense/PredatorSense features | 776 | 🟢 | C# |
 | [rogauracore](https://github.com/wroberts/rogauracore) | RGB keyboard control for ASUS ROG laptops on Linux (reverse engineered USB commands) | 775 | 🟢 | C |
-| [MControlCenter](https://github.com/dmitry-s93/MControlCenter) | Linux app to change MSI laptop fan, battery and performance settings via the EC | 735 | 🟢 | C++ |
+| [MControlCenter](https://github.com/MControlSuite/MControlCenter) | Linux app to change MSI laptop fan, battery and performance settings via the EC | 736 | 🟢 | C++ |
 | [OmenSuperHub](https://github.com/breadeding/OmenSuperHub) | HP Omen performance, fan and keyboard lighting control with power limit unlock | 614 | 🟢 | C# |
-| [g-helper-linux](https://github.com/utajum/g-helper-linux) | Unofficial Linux port of G-Helper for ASUS ROG, TUF and Zephyrus laptops | 581 | 🟢 | C# |
+| [g-helper-linux](https://github.com/utajum/g-helper-linux) | Unofficial Linux port of G-Helper for ASUS ROG, TUF and Zephyrus laptops | 582 | 🟢 | C# |
 | [L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) | Cross-platform control of the 4-zone RGB keyboard on Lenovo Legion laptops | 529 | 🟢 | Rust |
 | [vantage](https://github.com/niizam/vantage) | Lenovo Vantage features (conservation mode, fn-lock, power) for Linux | 514 | 🟡 | Shell |
 | [asus-numberpad-driver](https://github.com/asus-linux-drivers/asus-numberpad-driver) | Linux driver for the illuminated NumberPad touchpad on ASUS laptops | 456 | 🟢 | Python |
@@ -156,18 +156,18 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) | Decky plugin for TDP, CPU boost and GPU control on Linux PC handhelds | 307 | 🟢 | Python |
 | [avell-unofficial-control-center](https://github.com/rodgomesc/avell-unofficial-control-center) | Unofficial control center for Avell laptops on Linux | 289 | 🔴 | Python |
 | [OMEN Space](https://github.com/yunusemreyl/omen-space) | Command center for HP OMEN and Victus laptops on Linux | 280 | 🟢 | Rust |
-| [OmenCore](https://github.com/theantipopau/omencore) | Performance control for HP Omen laptops replacing Omen Gaming Hub | 280 | 🟢 | C# |
+| [OmenCore](https://github.com/theantipopau/omencore) | Performance control for HP Omen laptops replacing Omen Gaming Hub | 279 | 🟢 | C# |
 | [LenovoController](https://github.com/ViRb3/LenovoController) | Lightweight Windows alternative to Lenovo Vantage for Legion laptops | 277 | 🗄️ | C# |
 | [AsusFanControl](https://github.com/Karmel0x/AsusFanControl) | Small fan control app for ASUS laptops on Windows without Armoury Crate | 265 | 🟡 | C# |
 | [MSIKLM](https://github.com/Gibtnix/MSIKLM) | Control the SteelSeries keyboard lighting of MSI gaming laptops on Linux | 257 | 🔴 | C |
-| [Ayuz](https://github.com/Traciges/Ayuz) | Unofficial MyAsus alternative control center for Linux | 251 | 🟢 | Rust |
+| [Ayuz](https://github.com/Traciges/Ayuz) | Unofficial MyAsus alternative control center for Linux | 252 | 🟢 | Rust |
 | [hp-omen-linux-module](https://github.com/pelrun/hp-omen-linux-module) | Linux kernel module for HP Omen keyboard lighting and performance settings | 228 | 🔴 | C |
-| [AWCC (Linux)](https://github.com/tr1xem/AWCC) | Unofficial Linux alternative to Alienware Command Center for Dell G series | 215 | 🟢 | C++ |
+| [AWCC (Linux)](https://github.com/tr1xem/AWCC) | Unofficial Linux alternative to Alienware Command Center for Dell G series | 214 | 🟢 | C++ |
 | [asus-wmi-screenpad](https://github.com/Plippo/asus-wmi-screenpad) | asus-wmi kernel module variant with ScreenPad brightness support for ASUS laptops | 182 | 🟢 | C |
-| [OmenXHub](https://github.com/MasonDye/OmenXHub) | Lightweight offline replacement for HP OMEN Gaming Hub | 173 | 🟢 | C# |
+| [OmenXHub](https://github.com/MasonDye/OmenXHub) | Lightweight offline replacement for HP OMEN Gaming Hub | 174 | 🟢 | C# |
 | [gpd-win-tricks](https://github.com/aarron-lee/gpd-win-tricks) | Info and fixes for running Linux on GPD Win devices | 164 | 🟢 | Shell |
-| [ohman](https://github.com/P4R1H/ohman) | Lightweight OMEN Gaming Hub alternative with fan curves, modes and GPU power | 158 | 🟢 | C# |
-| [Lecoo-Control-Center](https://github.com/LaVashikk/Lecoo-Control-Center) | Rust daemon controlling fans, TDP and battery on Lecoo laptops | 156 | 🟢 | Rust |
+| [ohman](https://github.com/P4R1H/ohman) | Lightweight OMEN Gaming Hub alternative with fan curves, modes and GPU power | 160 | 🟢 | C# |
+| [Lecoo-Control-Center](https://github.com/LaVashikk/Lecoo-Control-Center) | Rust daemon controlling fans, TDP and battery on Lecoo laptops | 157 | 🟢 | Rust |
 | [ryzen_smu](https://github.com/leogx9r/ryzen_smu) | Linux kernel driver exposing the AMD Ryzen System Management Unit mailbox to userspace | 156 | 🔴 | C |
 | [clevo-indicator](https://github.com/SkyLandTW/clevo-indicator) | Ubuntu fan control indicator for Clevo laptops using direct EC access | 147 | 🔴 | C |
 | [razer-laptop-control-no-dkms](https://github.com/Razer-Linux/razer-laptop-control-no-dkms) | Userspace Razer Blade fan, power and RGB control on Linux without a kernel module | 137 | 🗄️ | Rust |
@@ -177,9 +177,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [gigabyte-laptop-wmi](https://github.com/tangalbert919/gigabyte-laptop-wmi) | Linux kernel module for Gigabyte AERO/AORUS laptop fan and charge controls | 85 | 🟢 | C |
 | [PowerStation](https://github.com/ShadowBlip/PowerStation) | TDP and performance daemon with DBus interface for x86 handheld gaming PCs | 85 | 🟢 | Rust |
 | [LegionGoRemapper](https://github.com/aarron-lee/LegionGoRemapper) | Decky plugin to remap Legion Go buttons and control its controller LEDs on Linux | 77 | 🟢 | TypeScript |
+| [g-helper-linux (UdayaSri0)](https://github.com/UdayaSri0/g-helper-linux) | Open control tool for ASUS laptops and ROG Ally on Linux: modes, fans, lighting | 75 | 🟢 | Rust |
 | [HandyGCCS](https://github.com/ShadowBlip/HandyGCCS) | Linux controller support for handheld PCs (AYANEO, GPD, OneXPlayer, ROG Ally) built-in gamepads | 75 | 🗄️ | Python |
-| [g-helper-linux (UdayaSri0)](https://github.com/UdayaSri0/g-helper-linux) | Open control tool for ASUS laptops and ROG Ally on Linux: modes, fans, lighting | 74 | 🟢 | Rust |
-| [allycenter](https://github.com/PixelAddictUnlocked/allycenter) | Decky plugin adding ROG Ally controls and settings to SteamOS | 73 | 🟢 | Python |
+| [allycenter](https://github.com/PixelAddictUnlocked/allycenter) | Decky plugin adding ROG Ally controls and settings to SteamOS | 74 | 🟢 | Python |
 | [AlienFxLite](https://github.com/bchretien/AlienFxLite) | Keyboard color management for Alienware laptops (Java with native USB) | 72 | 🔴 | Java |
 | [victus-control](https://github.com/Batuhan4/victus-control) | Linux fan control and keyboard lighting for HP Victus/Omen laptops | 67 | 🟢 | C++ |
 | [ZenStates-Core](https://github.com/irusanov/ZenStates-Core) | Library for reading and tuning AMD Zen SMU, P-states and memory timings from undocumented interfaces | 64 | 🟢 | C# |
@@ -193,7 +193,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [MsiFanControl](https://github.com/kykc/MsiFanControl) | Fan control utility for MSI laptops | 45 | 🔴 | C# |
 | [alfc](https://github.com/s-h-a-d-o-w/alfc) | Fan control with browser UI for the Gigabyte Aorus 15G | 37 | 🗄️ | TypeScript |
 | [ClevoECView](https://github.com/SkyLandTW/ClevoECView) | ECView tool to control fans on Clevo laptops | 37 | 🔴 | C# |
-| [gpd-fan-driver](https://github.com/Cryolitia/gpd-fan-driver) | Linux kernel driver for GPD handheld and mini-laptop fan control via the EC | 36 | 🟢 | C |
+| [gpd-fan-driver](https://github.com/Cryolitia/gpd-fan-driver) | Linux kernel driver for GPD handheld and mini-laptop fan control via the EC | 36 | 🟡 | C |
 | [alienfx-linux](https://github.com/tr1xem/alienfx-linux) | SDK for Alienware lights and fan control on Linux | 35 | 🟢 | C++ |
 | [CppKeyboardColour](https://github.com/DeviceIoControl/CppKeyboardColour) | CLI RGB keyboard backlight control for Clevo and Tongfang laptops | 35 | 🟢 | C++ |
 | [LeGo2 Fan Control](https://github.com/Rodpad/LeGo2-Fan-Control) | Unrestricted fan control for the Lenovo Legion Go 2 | 33 | 🟢 | TypeScript |
@@ -219,9 +219,9 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) | Use a GoPro as a webcam on Linux via its USB webcam mode | 711 | 🟢 | Shell |
-| [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) | Cross-platform app for Anker Soundcore headphone and earbud settings | 594 | 🟢 | Rust |
+| [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) | Cross-platform app for Anker Soundcore headphone and earbud settings | 596 | 🟢 | Rust |
 | [OpenFreebuds](https://github.com/melianmiko/OpenFreebuds) | Open app for Huawei FreeBuds settings and noise control on Linux and Windows | 486 | 🟢 | Python |
-| [linux-enable-ir-emitter](https://github.com/EmixamPP/linux-enable-ir-emitter) | Enables infrared emitters on laptop IR cameras under Linux by finding the UVC extension control | 374 | 🟢 | Rust |
+| [linux-enable-ir-emitter](https://github.com/EmixamPP/linux-enable-ir-emitter) | Enables infrared emitters on laptop IR cameras under Linux by finding the UVC extension control | 373 | 🟢 | Rust |
 | [elgato-gchd](https://github.com/tolga9009/elgato-gchd) | Reverse engineered Linux userspace driver for the Elgato Game Capture HD | 299 | 🔴 | C++ |
 | [Linux Arctis Manager](https://github.com/elegos/Linux-Arctis-Manager) | Open replacement for SteelSeries GG to manage Arctis headsets and ChatMix on Linux | 236 | 🟢 | Rust |
 | [Arctis Sound Manager](https://github.com/loteran/Arctis-Sound-Manager) | SteelSeries GG and Sonar alternative for Arctis headsets on Linux with mixer and EQ | 218 | 🟢 | Python |
@@ -243,7 +243,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [HyperX-Cloud-2-Battery-Monitor](https://github.com/auto94/HyperX-Cloud-2-Battery-Monitor) | Battery monitor for HyperX Cloud II, III and Alpha wireless headsets | 58 | 🟢 | C++ |
 | [nova-chatmix-linux](https://github.com/Dymstro/nova-chatmix-linux) | ChatMix support for the SteelSeries Arctis Nova Pro Wireless on Linux | 51 | 🟡 | Python |
 | [hyperx-cloud-flight-wireless](https://github.com/srn/hyperx-cloud-flight-wireless) | Reverse engineered Node module for HyperX Cloud Flight Wireless battery and mute events | 48 | 🔴 | JavaScript |
-| [elgato4k60sp-linux](https://github.com/Saddytech/elgato4k60sp-linux) | Unofficial Linux kernel driver for the Elgato Game Capture 4K60 S+ | 46 | 🟢 | C |
+| [elgato4k60sp-linux](https://github.com/Saddytech/elgato4k60sp-linux) | Unofficial Linux kernel driver for the Elgato Game Capture 4K60 S+ | 47 | 🟢 | C |
 | [sonar-rev](https://github.com/wex/sonar-rev) | Reverse engineering notes and client for the SteelSeries GG Sonar local API | 46 | 🟡 | C# |
 | [hyperx-cloud-flight](https://github.com/kondinskis/hyperx-cloud-flight) | Tray app showing battery level of the HyperX Cloud Flight Wireless headset on Linux | 43 | 🟡 | Rust |
 | [steelseries-arctis-5-pulseaudio-profile](https://github.com/DemonTPx/steelseries-arctis-5-pulseaudio-profile) | PulseAudio profile for the SteelSeries Arctis 5 headset | 42 | 🔴 | Makefile |
@@ -265,10 +265,10 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
 | [stlink](https://github.com/stlink-org/stlink) | Open source STM32 programming toolset for ST-Link debug probes | 5,255 | 🟢 | C |
-| [openFPGALoader](https://github.com/trabucayre/openFPGALoader) | Universal FPGA programmer supporting many vendor JTAG cables and boards | 1,804 | 🟢 | C++ |
+| [openFPGALoader](https://github.com/trabucayre/openFPGALoader) | Universal FPGA programmer supporting many vendor JTAG cables and boards | 1,806 | 🟢 | C++ |
 | [OpenHantek6022](https://github.com/OpenHantek/OpenHantek6022) | DSO software for Hantek 6022BE/BL USB oscilloscopes with open firmware | 1,156 | 🟢 | C++ |
 | [OpenHantek](https://github.com/OpenHantek/openhantek) | DSO software for Hantek, Voltcraft and similar USB oscilloscopes | 831 | 🟡 | C++ |
-| [libsigrok](https://github.com/sigrokproject/libsigrok) | Signal analysis library with drivers for many logic analyzers, scopes and meters | 453 | 🟡 | C |
+| [libsigrok](https://github.com/sigrokproject/libsigrok) | Signal analysis library with drivers for many logic analyzers, scopes and meters | 454 | 🟡 | C |
 | [ch341prog](https://github.com/setarcos/ch341prog) | Open SPI/I2C flash programmer for the CH341A USB adapter | 424 | 🟢 | C |
 | [libseek-thermal](https://github.com/OpenThermal/libseek-thermal) | Linux driver for Seek Thermal Compact, CompactXR and CompactPRO cameras | 346 | 🟡 | C++ |
 | [PyThermalCamera](https://github.com/leswright1977/PyThermalCamera) | Python software for the Topdon TC001 thermal camera on Linux and Raspberry Pi | 331 | 🟡 | Python |
@@ -353,33 +353,33 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS app to control external display brightness over DDC | 34,844 | 🟢 | Swift |
-| [G-Helper](https://github.com/seerge/g-helper) | Lightweight open replacement for ASUS Armoury Crate laptop control | 16,212 | 🟢 | C# |
-| [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) | Hardware sensor monitor with reverse-engineered Super I/O and EC readers | 9,458 | 🟢 | C# |
-| [linux-surface](https://github.com/linux-surface/linux-surface) | Linux kernel and drivers for Microsoft Surface devices | 7,938 | 🟢 | Shell |
-| [Lunar](https://github.com/alin23/Lunar) | macOS display brightness controller using DDC and private display APIs | 5,741 | 🟢 | Swift |
-| [throttled](https://github.com/erpalma/throttled) | Linux daemon working around Intel firmware-induced throttling on Lenovo and other laptops | 3,009 | 🟢 | Python |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | macOS app to control external display brightness over DDC | 34,860 | 🟢 | Swift |
+| [G-Helper](https://github.com/seerge/g-helper) | Lightweight open replacement for ASUS Armoury Crate laptop control | 16,217 | 🟢 | C# |
+| [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) | Hardware sensor monitor with reverse-engineered Super I/O and EC readers | 9,468 | 🟢 | C# |
+| [linux-surface](https://github.com/linux-surface/linux-surface) | Linux kernel and drivers for Microsoft Surface devices | 7,940 | 🟢 | Shell |
+| [Lunar](https://github.com/alin23/Lunar) | macOS display brightness controller using DDC and private display APIs | 5,743 | 🟢 | Swift |
+| [throttled](https://github.com/erpalma/throttled) | Linux daemon working around Intel firmware-induced throttling on Lenovo and other laptops | 3,008 | 🟢 | Python |
 | [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) | Adjust power settings of Ryzen mobile processors via undocumented SMU calls | 2,469 | 🟢 | C |
 | [ddcutil](https://github.com/rockowitz/ddcutil) | Query and change monitor settings over DDC/CI and USB MCCS on Linux | 1,433 | 🟢 | C |
 | [intel-undervolt](https://github.com/kitsunyan/intel-undervolt) | Undervolting and power-limit tool for Intel CPUs using undocumented MSRs | 1,107 | 🔴 | C |
-| [nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) | C port of NoteBook FanControl for Linux using per-model EC register configs | 806 | 🟢 | C |
-| [m1ddc](https://github.com/waydabber/m1ddc) | CLI to control external displays via DDC on Apple Silicon Macs | 773 | 🟢 | Objective-C |
+| [nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) | C port of NoteBook FanControl for Linux using per-model EC register configs | 807 | 🟢 | C |
+| [m1ddc](https://github.com/waydabber/m1ddc) | CLI to control external displays via DDC on Apple Silicon Macs | 774 | 🟢 | Objective-C |
 | [ddccontrol](https://github.com/ddccontrol/ddccontrol) | Linux DDC/CI monitor control tool with GUI and monitor database | 731 | 🟢 | Rust |
 | [thinkfan](https://github.com/vmatare/thinkfan) | Fan control daemon for ThinkPads and other hwmon systems | 717 | 🟢 | C |
-| [it87](https://github.com/frankcrawford/it87) | Linux driver for ITE Super I/O hardware monitoring chips | 642 | 🟢 | C |
+| [it87](https://github.com/frankcrawford/it87) | Linux driver for ITE Super I/O hardware monitoring chips | 643 | 🟢 | C |
 | [acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module) | Linux module for Acer Predator turbo mode and RGB keyboard | 634 | 🟢 | C |
 | [chromebook-linux-audio](https://github.com/WeirdTreeThing/chromebook-linux-audio) | Script that enables audio on many Chromebooks running mainstream Linux distributions | 578 | 🟢 | Shell |
 | [ZenStates-Linux](https://github.com/r4m0n/ZenStates-Linux) | Tool to change AMD Zen P-states via MSRs on Linux | 569 | 🟡 | Python |
-| [SMUDebugTool](https://github.com/irusanov/SMUDebugTool) | Windows tool to inspect AMD SMU, PCI and MSR registers | 525 | 🟢 | C# |
+| [SMUDebugTool](https://github.com/irusanov/SMUDebugTool) | Windows tool to inspect AMD SMU, PCI and MSR registers | 526 | 🟢 | C# |
 | [snd_hda_macbookpro](https://github.com/davidjo/snd_hda_macbookpro) | Linux audio driver for Cirrus codecs in Intel MacBook Pros | 519 | 🟢 | C |
 | [msi-ec](https://github.com/MControlSuite/msi-ec) | Linux kernel driver for MSI laptop EC features (fans, battery, LEDs) | 514 | 🟢 | C |
 | [zenpower](https://github.com/ocerman/zenpower) | Linux hwmon driver for AMD Zen CPU sensors | 493 | 🔴 | C |
-| [nct6687d](https://github.com/Fred78290/nct6687d) | Linux driver for Nuvoton NCT6687-R Super I/O sensors | 488 | 🟢 | C |
+| [nct6687d](https://github.com/Fred78290/nct6687d) | Linux driver for Nuvoton NCT6687-R Super I/O sensors | 489 | 🟢 | C |
 | [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) | Fan curve service for Framework laptops using the EC via ectool | 467 | 🟢 | Python |
 | [tpacpi-bat](https://github.com/teleshoes/tpacpi-bat) | ThinkPad battery charge threshold control via undocumented ACPI calls | 455 | 🟡 | Perl |
 | [isw (Ice-Sealed Wyvern)](https://github.com/YoyPa/isw) | Fan control for MSI laptops via the embedded controller | 411 | 🔴 | Python |
 | [Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) | Linux WMI driver for Huawei MateBook hotkeys, battery protection and fn-lock | 288 | 🟢 | C |
-| [samsung-galaxybook-extras](https://github.com/joshuagrisham/samsung-galaxybook-extras) | Linux platform driver for Samsung Galaxy Book fan, keyboard backlight and performance modes | 279 | 🟡 | ASL |
+| [samsung-galaxybook-extras](https://github.com/joshuagrisham/samsung-galaxybook-extras) | Linux platform driver for Samsung Galaxy Book fan, keyboard backlight and performance modes | 278 | 🟡 | ASL |
 | [ddcui](https://github.com/rockowitz/ddcui) | Qt graphical front end for ddcutil monitor control | 267 | 🟢 | C++ |
 | [asus-wmi-sensors](https://github.com/electrified/asus-wmi-sensors) | Linux hwmon driver for ASUS Ryzen/Threadripper motherboard sensors via WMI | 264 | 🔴 | C |
 | [dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control) | Toggle Dell BIOS fan control via undocumented SMM calls | 258 | 🔴 | C |
@@ -388,26 +388,26 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [galaxy-book2-pro-linux](https://github.com/joshuagrisham/galaxy-book2-pro-linux) | Notes and utilities for Linux on the Samsung Galaxy Book2 Pro | 196 | 🟡 | ASL |
 | [samsung-galaxy-book-linux-fixes](https://github.com/Andycodeman/samsung-galaxy-book-linux-fixes) | Linux fixes for Samsung Galaxy Book 3/4/5 webcam, speakers and microphone | 180 | 🟢 | Shell |
 | [zcfan](https://github.com/cdown/zcfan) | Zero-configuration fan daemon for ThinkPads via thinkpad_acpi | 168 | 🟢 | C |
-| [framework-system](https://github.com/FrameworkComputer/framework-system) | Rust tool and library to talk to the Framework laptop EC and peripherals | 164 | 🟢 | Rust |
+| [framework-system](https://github.com/FrameworkComputer/framework-system) | Rust tool and library to talk to the Framework laptop EC and peripherals | 165 | 🟢 | Rust |
 | [iptsd](https://github.com/linux-surface/iptsd) | Userspace daemon for Intel Precise Touch & Stylus on Surface devices | 151 | 🟢 | C++ |
 | [framework-laptop-kmod](https://github.com/DHowett/framework-laptop-kmod) | Linux kernel module exposing Framework laptop EC features (fans, LEDs, battery) | 149 | 🟡 | C |
-| [cros-keyboard-map](https://github.com/WeirdTreeThing/cros-keyboard-map) | Generates keyd configs so Chromebook top-row keys work under normal Linux distros | 142 | 🟢 | Python |
+| [cros-keyboard-map](https://github.com/WeirdTreeThing/cros-keyboard-map) | Generates keyd configs so Chromebook top-row keys work under normal Linux distros | 143 | 🟢 | Python |
 | [mbp2018-bridge-drv](https://github.com/MCMrARM/mbp2018-bridge-drv) | Reverse engineered Apple T2 BCE driver for keyboard, trackpad and audio on 2018+ MacBooks | 137 | 🔴 | C |
 | [Reverse_Engineering_BQ20z70_Laptop_BMS](https://github.com/omarKmekkawy/Reverse_Engineering_BQ20z70_Laptop_BMS) | Reverse engineering the BQ20z70 laptop battery management system | 134 | 🔴 | C |
 | [zenbook-duo-2024-linux](https://github.com/alesya-h/zenbook-duo-2024-ux8406ma-linux) | Linux support for the ASUS Zenbook Duo 2024 dual screens, keyboard backlight and battery limit | 129 | 🟢 | Shell |
 | [tiny-dfr](https://github.com/AsahiLinux/tiny-dfr) | Minimal dynamic function row daemon for the MacBook Touch Bar on Linux | 126 | 🟢 | Rust |
 | [dell-powermanager](https://github.com/alexVinarskis/dell-powermanager) | Cross-platform Dell Power Manager reimplementation | 119 | 🟢 | Dart |
 | [surface-aggregator-module](https://github.com/linux-surface/surface-aggregator-module) | Linux drivers for the Microsoft Surface System Aggregator Module embedded controller | 106 | 🟡 | C |
-| [Open-Source-PC110](https://github.com/ahmadexp/Open-Source-PC110) | Reconstructing the missing technical documentation of the IBM PC110 palmtop | 99 | 🟢 | HTML |
+| [Open-Source-PC110](https://github.com/ahmadexp/Open-Source-PC110) | Reconstructing the missing technical documentation of the IBM PC110 palmtop | 100 | 🟢 | HTML |
 | [qnap8528](https://github.com/0xGiddi/qnap8528) | Linux kernel module exposing the ITE8528 embedded controller on QNAP devices | 99 | 🟢 | C |
+| [predator-sense](https://github.com/cleyton1986/predator-sense) | Unofficial Linux hardware control for Acer Predator/Helios/Nitro laptops | 98 | 🟢 | Rust |
 | [asus-fan](https://github.com/daringer/asus-fan) | Linux kernel module to read and set fan speeds on ASUS Zenbooks | 97 | 🗄️ | C |
-| [predator-sense](https://github.com/cleyton1986/predator-sense) | Unofficial Linux hardware control for Acer Predator/Helios/Nitro laptops | 97 | 🟢 | Rust |
 | [IdeapadToolkit](https://github.com/havlif/IdeapadToolkit) | Lightweight Lenovo Vantage alternative for the IdeaPad Flex 5 | 91 | 🟡 | C# |
 | [Framework EC (DHowett)](https://github.com/DHowett/framework-ec) | Framework Laptop embedded controller firmware fork with ectool used by fan-control tools | 88 | 🟡 | C |
 | [surface-control](https://github.com/linux-surface/surface-control) | CLI to control Surface performance mode, dGPU power and clipboard detach on Linux | 84 | 🟢 | Rust |
 | [GhostDeck](https://github.com/wygodad/ghostdeck) | Driver-free power and fan control for MSI laptops via EC/WMI | 83 | 🟢 | C# |
 | [asus-ec-sensors](https://github.com/zeule/asus-ec-sensors) | Linux hwmon driver reading ASUS motherboard sensors from the embedded controller | 81 | 🟢 | C |
-| [Galaxy-Book4-Edge-linux](https://github.com/Saddytech/Galaxy-Book4-Edge-linux) | Linux driver and RE tools for the Samsung Galaxy Book4 Edge | 80 | 🟢 | Python |
+| [Galaxy-Book4-Edge-linux](https://github.com/Saddytech/Galaxy-Book4-Edge-linux) | Linux driver and RE tools for the Samsung Galaxy Book4 Edge | 81 | 🟢 | Python |
 | [yogabook-c930-linux-eink-driver](https://github.com/aleksb/yogabook-c930-linux-eink-driver) | Reverse engineered Linux driver for the Lenovo Yoga Book C930 e-ink keyboard | 71 | 🔴 | C |
 | [turbomem](https://github.com/yarrick/turbomem) | Linux driver for the Intel Turbo Memory Controller PCIe card | 61 | 🔴 | C |
 | [init-headphone](https://github.com/Unrud/init-headphone) | Initializes the headphone amplifier found in some Clevo laptops on Linux | 58 | 🔴 | M4 |
@@ -449,8 +449,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [python-validity](https://github.com/uunicorn/python-validity) | Reverse-engineered Validity/Synaptics fingerprint sensor driver for ThinkPads | 1,250 | 🟡 | Python |
 | [catprinter](https://github.com/rbaron/catprinter) | Prints to cheap BLE "cat" thermal printers via reverse-engineered protocol | 862 | 🟢 | Python |
 | [brlaser](https://github.com/pdewacht/brlaser) | Open driver for Brother laser printers that lack PostScript support | 729 | 🔴 | C++ |
-| [Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) | Open-source utility to reset Epson printer waste ink pad counters | 559 | 🟢 | C++ |
-| [sane-airscan](https://github.com/alexpevzner/sane-airscan) | SANE backend for driverless eSCL and WSD network scanners | 377 | 🟢 | C |
+| [Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) | Open-source utility to reset Epson printer waste ink pad counters | 567 | 🟢 | C++ |
+| [sane-airscan](https://github.com/alexpevzner/sane-airscan) | SANE backend for driverless eSCL and WSD network scanners | 378 | 🟢 | C |
 | [goodix-fp-dump](https://github.com/goodix-fp-linux-dev/goodix-fp-dump) | Reverse-engineering tools and prototype drivers for Goodix fingerprint sensors | 365 | 🔴 | Python |
 | [node-hp-scan-to](https://github.com/manuc66/node-hp-scan-to) | Enables HP All-in-One scan-to-computer without HP software | 310 | 🟢 | TypeScript |
 | [hw-harness](https://github.com/cschalle/hw-harness) | Harness that compares vendor and Linux scanner driver USB control transfers | 259 | 🟢 | Shell |
@@ -496,7 +496,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) | Reverse-engineered open-source Wi-Fi MAC layer for the ESP32 | 868 | 🟡 | C |
 | [CHIRP](https://github.com/kk7ds/chirp) | Programming tool for many handheld and mobile radios using reverse engineered cloning protocols | 614 | 🟢 | Python |
 | [open-ath9k-htc-firmware](https://github.com/qca/open-ath9k-htc-firmware) | Fully open firmware for Atheros AR9271/AR7010 USB Wi-Fi chips | 487 | 🔴 | C |
-| [nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) | Extract Wi-Fi channel state information from Broadcom chips via Nexmon firmware patches | 484 | 🟢 | C |
+| [nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) | Extract Wi-Fi channel state information from Broadcom chips via Nexmon firmware patches | 485 | 🟢 | C |
 | [qdmr](https://github.com/hmatuschek/qdmr) | GUI to configure and program cheap DMR radios on Linux and macOS | 369 | 🟢 | C++ |
 | [OsmocomBB](https://github.com/osmocom/osmocom-bb) | Free GSM baseband firmware for Calypso-based phones built by reverse engineering | 333 | 🟢 | C |
 | [dmrconfig](https://github.com/OpenRTX/dmrconfig) | Configuration utility for DMR radios (TYT, Baofeng, Radioddity) with reverse engineered protocols | 287 | 🟡 | C |
